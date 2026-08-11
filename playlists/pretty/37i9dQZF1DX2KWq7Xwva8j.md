@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto:  El Bobo de las 3000.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,981 likes - 38 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,986 likes - 38 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 18 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 |
 | 19 | [Sin pena ni gloria](https://open.spotify.com/track/5vPJFif5AA5whBJvhPvHGM) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 3:16 |
 | 20 | [La Calle Elfo](https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:30 |
-| 21 | [Me Vas A Matar](https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 3:08 |
+| 21 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 |
 | 22 | [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/track/2SINilxUbNWB55Tcl6UFK5) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [PICHI](https://open.spotify.com/artist/4hhUpqs3ta9iTAXSlt1Xk1) | [EL TASER DE MAMÁ \(REMIX\)](https://open.spotify.com/album/4I7qJNZaCBSR6mGKU4HxD1) | 4:33 |
 | 23 | [Tu no estás sola](https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB), [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn) | [Tu no estás sola](https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp) | 3:28 |
 | 24 | [Kryptonita](https://open.spotify.com/track/18zzzdkP3Ns1JNR0764nNY) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 2:44 |
 | 25 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
-| 26 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 |
+| 26 | [Me Vas A Matar](https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 3:08 |
 | 27 | [UNA BIMBO POR MADRID](https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:15 |
 | 28 | [Esto del Amor Nada](https://open.spotify.com/track/2BvsXvXXWMxnCYNG8CwgTP) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Esto del Amor Nada](https://open.spotify.com/album/4eTy6HIxG2V7hE70TgVjTh) | 3:08 |
 | 29 | [Beatrice](https://open.spotify.com/track/60soEK2W8RM0Yo4mg9Arbm) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Beatrice](https://open.spotify.com/album/1eLk3Z1aBVgPaIMH3JhqDr) | 2:18 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 37 | [CONEJITA PLAYBOY](https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:18 |
 | 38 | [Sea como Sea](https://open.spotify.com/track/0P4VuDVzqrZMXGpgl8T20C) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Sea como Sea](https://open.spotify.com/album/4XxPjsotbbdjY4T4iDG5pP) | 2:43 |
 
-Snapshot ID: `AAAAAIdP0RjZIAM5wwEDbBsWTTqgNl5T`
+Snapshot ID: `AAAAAJBzpVrCBPSK170jyD0bJwwjMQPK`

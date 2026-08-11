@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 
 > スタジオジブリ作品の軌跡がここに。All of the essentials from Hayao Miyazaki's "Studio Ghibli" films, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,349 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,456 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GTqMQDhOum.md) - [plain]
 | 59 | [メインテーマ](https://open.spotify.com/track/1qNXey1TqnwwJRglzg0xHO) | [Katsu Hoshi](https://open.spotify.com/artist/2B5mYImShgfHqzyoroFr0w) | [おもひでぽろぽろ オリジナル・サウンド・トラック](https://open.spotify.com/album/6IzQtOygI81oDTfA95rLqE) | 1:49 |
 | 60 | [Flying with the turtles](https://open.spotify.com/track/1Vo2GmXcCKXKGTtdavb6ld) | [ローラン・ペレズ・デル・マール](https://open.spotify.com/artist/1437Cpdb5MaXbzlUl2Efz4) | [レッドタートル ある島の物語 サウンドトラック](https://open.spotify.com/album/2Ng0UNaG4V2h8mghCH59Td) | 2:23 |
 
-Snapshot ID: `AAAAANDZZWbObFu7LGAgWhbv4czKWhGi`
+Snapshot ID: `AAAAABaqG7BUIdGJ1nmcFRBa9kIzxivo`

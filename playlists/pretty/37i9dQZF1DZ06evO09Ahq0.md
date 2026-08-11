@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,335 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,422 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 23 | [Natural Born Killer](https://open.spotify.com/track/5o8OdhjVZSF2wCj7M8UpMN) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:15 |
 | 24 | [Coming Home](https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 6:25 |
 | 25 | [STATICA](https://open.spotify.com/track/4c8HSe1ak7v6zoUb13oLdA) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [STATICA](https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu) | 5:34 |
-| 26 | [Chapter Four](https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:42 |
-| 27 | [Warmness On The Soul](https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q) | 4:19 |
+| 26 | [Warmness On The Soul](https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q) | 4:19 |
+| 27 | [Chapter Four](https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:42 |
 | 28 | [Doing Time](https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 3:25 |
 | 29 | [Blinded in Chains](https://open.spotify.com/track/39ZiU2QVBvDQzeepJjg8tp) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 6:34 |
 | 30 | [Not Ready to Die \- From "Call of the Dead"](https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Not Ready to Die \(From "Call of the Dead"\)](https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0) | 7:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 49 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
 | 50 | [Desecrate Through Reverence](https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:38 |
 
-Snapshot ID: `anZxgAAAAABzPPKIu9Nok5CXqGXE3AqI`
+Snapshot ID: `anfDAAAAAAB9q7rPYzNEy+OrcflfpN/G`

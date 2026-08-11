@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 ### [Yaz Hitleri 2026](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2026 yazının şarkıları\. Kapak: Hadise
+> 2026 yazının şarkıları\. Kapak: Sibel Can, Eypio
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,430 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,522 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 |
-| 2 | [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 |
+| 1 | [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 |
+| 2 | [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 |
 | 3 | [pVg \- Manifest Live Remix](https://open.spotify.com/track/2cUZpjUvGWtVrMMEUrx1YP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [pVg \(Manifest Live Remix\)](https://open.spotify.com/album/1AS7ut0bE1qNWxxsCHiHpA) | 4:05 |
 | 4 | [Yangın Yeri](https://open.spotify.com/track/1NR60P6PMHaFJpuATZG7Bg) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Yangın Yeri](https://open.spotify.com/album/7t0enz3EMgiyTsLGkbwzuj) | 2:31 |
 | 5 | [Sen Var Ya](https://open.spotify.com/track/4rjkteaLzR9SrLtgTS4AbQ) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Sen Var Ya](https://open.spotify.com/album/61CNS4q5GuxT7i5BInlcun) | 3:15 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 17 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
 | 18 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 19 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |
-| 20 | [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 |
-| 21 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
+| 20 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
+| 21 | [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 |
 | 22 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 23 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 |
 | 24 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 49 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 |
 | 50 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 |
 
-Snapshot ID: `AAAAAIVgYSQUogKSH21n6JmZjTO9MQsl`
+Snapshot ID: `AAAAAMIvTJHMkM8s6XmAJHnDYmF255iR`

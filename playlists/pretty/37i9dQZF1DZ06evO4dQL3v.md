@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,641 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,642 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 29 | [Ando Que Me Lleva](https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Ando Que Me Lleva "Recordando los Exitos," Vol\. 4](https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj) | 3:20 |
 | 30 | [El Toro Zacatecano](https://open.spotify.com/track/59XFCPqQNINxQgpbEXPo5R) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:27 |
 | 31 | [Libro Abierto \- Con Mariachi](https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mis Primeras Canciones](https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs) | 2:01 |
-| 32 | [Vive](https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:51 |
-| 33 | [La Tijanita](https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:34 |
+| 32 | [La Tijanita](https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:34 |
+| 33 | [Vive](https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:51 |
 | 34 | [Solo Cumbia](https://open.spotify.com/track/5w0XW40pGuSgv7BcTqDr3c) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 3:12 |
 | 35 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 |
-| 36 | [Mi Destino Fue Quererte](https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 3:19 |
-| 37 | [El Pajaro Chogui](https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:43 |
+| 36 | [El Pajaro Chogui](https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:43 |
+| 37 | [Mi Destino Fue Quererte](https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 3:19 |
 | 38 | [Ya Llego la Banda Toro](https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:31 |
 | 39 | [Ritmo Que Jala](https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mucho Ritmo](https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp) | 3:04 |
 | 40 | [Con el Sabor Amargo \- Estilo Tierra Caliente](https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 49 | [Oh Que Gusto de Volverte a Ver](https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:29 |
 | 50 | [A la Media Noche](https://open.spotify.com/track/2NwEFYlIdfkKumM123a3kY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:14 |
 
-Snapshot ID: `anZxgAAAAABBY2pZZdTqe3Or06ecRruy`
+Snapshot ID: `anfDAAAAAACaWj+vRgoKyZI2m34iLjBd`

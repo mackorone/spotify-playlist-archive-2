@@ -1,12 +1,12 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1261151,
+  "num_followers": 1260990,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAByj8OG6MqvTtd+ZH3/imV/w42wJ",
+  "snapshot_id": "AAAAAOgfFloebCU1fVBHeiYzZ49qHc7U",
   "tracks": [
     {
       "added_at": "2026-07-04 10:35:02",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
-        "name": "3 AM",
-        "url": "https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Guzman",
-          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
-        },
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
-        }
-      ],
-      "duration_ms": 196015,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
         "name": "Hecho para ti",
         "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
+        "name": "3 AM",
+        "url": "https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Guzman",
+          "url": "https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 196015,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -947,6 +947,34 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
+        "name": "How You Bad Suh",
+        "url": "https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Ba Ba Bad Remix",
+      "url": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
         "name": "TODO KE VER",
         "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
       },
@@ -991,34 +1019,6 @@
       "duration_ms": 164769,
       "name": "CORA DE HIELO",
       "url": "https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
-        "name": "How You Bad Suh",
-        "url": "https://open.spotify.com/album/1uDXAiexuxvswn6f1iX61U"
-      },
-      "artists": [
-        {
-          "name": "Kybba",
-          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "Ba Ba Bad Remix",
-      "url": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
+        "name": "AMIMA",
+        "url": "https://open.spotify.com/album/3N1xTZlEDsLJb5egIrOJ6M"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 139971,
+      "name": "AMIMA",
+      "url": "https://open.spotify.com/track/3QUT04HjzHWo2kWMNuT6EM"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
         "name": "Un Dia En Mi Barrio (Remix)",
         "url": "https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 435000,
       "name": "Un Dia En Mi Barrio - Remix",
       "url": "https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
-        "name": "AMIMA",
-        "url": "https://open.spotify.com/album/3N1xTZlEDsLJb5egIrOJ6M"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 139971,
-      "name": "AMIMA",
-      "url": "https://open.spotify.com/track/3QUT04HjzHWo2kWMNuT6EM"
     },
     {
       "added_at": "2026-07-04 10:35:02",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-07-04 10:35:02",
       "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
-    },
-    {
-      "added_at": "2026-07-04 10:35:02",
-      "album": {
         "name": "Estuve Ah\u00ed",
         "url": "https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 135998,
       "name": "Estuve Ah\u00ed",
       "url": "https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA"
+    },
+    {
+      "added_at": "2026-07-04 10:35:02",
+      "album": {
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-07-04 10:35:02",

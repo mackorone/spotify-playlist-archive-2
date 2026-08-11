@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: مصطفي الجن و هادي الصغير \- تيم الابداع
+> أجمد المهرجانات في مصر! الغلاف: اسلام كابونجا
 
-399 songs - 1 day 0 hr 55 min
+400 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/track/7ydZcXrYQhW0YRGsH7zgJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اه يا بخته اللي يزاملني \( روح بقلبك مش بجسمك \)](https://open.spotify.com/album/4uWndJo5yNbF9jQw4MkNGU) | 4:04 | 2022-12-06 | 2023-08-03 |
 | [اهلاً اصحابي الواطين](https://open.spotify.com/track/5USHTcCSSR0IowR46lIVnL) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اهلاً اصحابي الواطين](https://open.spotify.com/album/7yVxl5TQN0hoLqi5SSBxQS) | 5:29 | 2025-06-03 | 2026-03-26 |
 | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/track/1l4FdHo3SVXuKAzuJdqYZ1) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [اوسكار \(قنبلة السوشيال ميديا\)](https://open.spotify.com/album/6hBowQhPmpXID1e4oncCDZ) | 3:15 | 2021-12-16 | 2022-07-31 |
+| [اوعي الجبيماشو يزوقك](https://open.spotify.com/track/796xjgU3ij3zZURMF1FgPH) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [اوعي الجبيماشو يزوقك](https://open.spotify.com/album/304FbGrqGCWbRrX2maFLXx) | 4:39 | 2026-08-10 |  |
 | [اوعي تعمل فيها بطير \( عيب يا صاحبي تجيب في سيرتي \)](https://open.spotify.com/track/1QkfUQ5oW0NtrsbPbhOXsb) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [اوعي تعمل فيها بطير \( عيب يا صاحبي تجيب في سيرتي \)](https://open.spotify.com/album/1IV7jBWBS47bm0yXN8HHY8) | 4:38 | 2026-05-21 |  |
 | [اول حاجه لما تكلمني تشيل ايدك من جيبك](https://open.spotify.com/track/3SkzvwWHhhpcELK6seDpTu) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اول حاجه لما تكلمني تشيل ايدك من جيبك](https://open.spotify.com/album/170GokIW3cRYR11K4UFWEs) | 4:06 | 2025-08-13 |  |
 | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/track/75aiWGFwPn6LiYoKJz5H8f) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Eslam Kabounga](https://open.spotify.com/artist/2QMFKxN62QViqFk7ygLAsB) | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/album/6W4CGfU1SD5Je1Y8FwOJWa) | 3:06 | 2024-08-12 | 2025-05-08 |
@@ -199,7 +200,7 @@
 | [دوست علي زرار الحرب](https://open.spotify.com/track/4qLE7m7g5C49w1oOYi4kps) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [دوست علي زرار الحرب](https://open.spotify.com/album/4ykMP6RPkUr0Og1hE0HTrm) | 3:01 | 2023-08-20 | 2023-09-06 |
 | [ربنا يسترها علينا \- سهرتي في لفل بسهر احتفل](https://open.spotify.com/track/3xQg4jzByLiRONK4jsB9bk) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [ربنا يسترها علينا \(سهرتي في لفل بسهر احتفل\)](https://open.spotify.com/album/4tdx33SWo9L1flpGFEFNqO) | 3:55 | 2024-10-08 | 2025-04-23 |
 | [روحت الساحل قالو ده اغتنا](https://open.spotify.com/track/6XLK74r21FVcPS0V4r5nmX) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [روحت الساحل قالو ده اغتنا](https://open.spotify.com/album/44WK7IISzxYkGLenSEAwWv) | 4:41 | 2026-03-25 | 2026-04-08 |
-| [ريح ياعم البطل](https://open.spotify.com/track/3iU5hFLnkLMoyhd5CnaBzs) | [مودى امين](https://open.spotify.com/artist/3FLuMd3Y7z6gskOZ7p1OY9), [حمو الطيخا](https://open.spotify.com/artist/2ovrY8iFoW72velI2eMLc9), [ميسو ميسرة](https://open.spotify.com/artist/6g6ysTEnVB2nYHbncrrW4h) | [ريح ياعم البطل](https://open.spotify.com/album/76PPlrIkcJl0SWjqEw4Qv3) | 6:29 | 2026-07-06 |  |
+| [ريح ياعم البطل](https://open.spotify.com/track/3iU5hFLnkLMoyhd5CnaBzs) | [مودى امين](https://open.spotify.com/artist/3FLuMd3Y7z6gskOZ7p1OY9), [حمو الطيخا](https://open.spotify.com/artist/2ovrY8iFoW72velI2eMLc9), [ميسو ميسرة](https://open.spotify.com/artist/6g6ysTEnVB2nYHbncrrW4h) | [ريح ياعم البطل](https://open.spotify.com/album/76PPlrIkcJl0SWjqEw4Qv3) | 6:29 | 2026-07-06 | 2026-08-11 |
 | [ريموت التلفزيون](https://open.spotify.com/track/5pRjLuLXO60pawAqCspZWD) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA), [سامر المدني](https://open.spotify.com/artist/54C1fQ9Rt2FqXgr2hd0bxJ) | [ريموت التلفزيون](https://open.spotify.com/album/0aGaB56SqGQioDn1AvxDbR) | 2:28 | 2022-10-16 | 2022-11-15 |
 | [ريموت التلفيزيون \- امسكو وانا هعمل اعمى](https://open.spotify.com/track/7DUPgXQK4NvmRrPFlVhfx2) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [ريموت التلفيزيون \(امسكو وانا هعمل اعمى\)](https://open.spotify.com/album/4ayeNoazhIEgP5drJ1Dl5P) | 3:09 | 2022-07-19 | 2023-07-20 |
 | [زعلان اوي من فلان وفلان \(كان ياما كان في ناس جدعان\)](https://open.spotify.com/track/1p47AO3RGP67nscf0HkBNN) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [زعلان اوي من فلان وفلان \(كان ياما كان في ناس جدعان\)](https://open.spotify.com/album/6q2RvZW9ht7e83Uj3OlE8B) | 3:38 | 2026-03-25 | 2026-04-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oPFwE7aF2p4FfqMByg3k8">Em Walcott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224 likes - 57 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 225 likes - 57 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 25 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 |
 | 26 | [Dance All Night](https://open.spotify.com/track/7Krdp9RzlsUtsRxs7Y5wQP) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:55 |
 | 27 | [Tack vare dig](https://open.spotify.com/track/2EiimE1BrzD7MWqjrFBSvD) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:47 |
-| 28 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:21 |
-| 29 | [DON'T WANNA LEAVE U](https://open.spotify.com/track/0mh9a5hlCmXTF8iIpXWs6y) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide) | [DON'T WANNA LEAVE U](https://open.spotify.com/album/7IbMUeFWROuc4jNNEZbs06) | 2:53 |
+| 28 | [DON'T WANNA LEAVE U](https://open.spotify.com/track/0mh9a5hlCmXTF8iIpXWs6y) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide) | [DON'T WANNA LEAVE U](https://open.spotify.com/album/7IbMUeFWROuc4jNNEZbs06) | 2:53 |
+| 29 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:21 |
 | 30 | [Dive](https://open.spotify.com/track/6QziVTOnpWNHVpgCOPsABH) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:41 |
 | 31 | [Fever Dream](https://open.spotify.com/track/6ZPcEEhfDasdcmFxCFiF4J) | [Elevator Boys](https://open.spotify.com/artist/2fcSjd0fxqJQ1IM2hjYPud) | [Fever Dream](https://open.spotify.com/album/4sCuBaFd5Y1lJmGyafqhF2) | 2:26 |
 | 32 | [Puppy Luv <3](https://open.spotify.com/track/6RTnkma1flqZVmTLDlGKKS) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/6llmxP5uTcFuGx2Vrk7OEn) | 2:21 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 50 | [Rock This Smoove](https://open.spotify.com/track/2ZCxvRA0YuI1Y7a0UOTRcX) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Good Burger 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7bJbc9Qnr5z8OBPGwSc88q) | 2:09 |
 | 51 | [window shopping](https://open.spotify.com/track/5c8drrCqzfU5Yxmvw7gd6p) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [window shopping](https://open.spotify.com/album/6iEIW2JFSqrotlWS9Rlzen) | 3:14 |
 | 52 | [fallin](https://open.spotify.com/track/7ioPcSn8Egs0zasmMlV75J) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [fallin](https://open.spotify.com/album/2DxAqjiMArz5OH7qCKrfVg) | 3:18 |
-| 53 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
-| 54 | [SHARK baiT](https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Tommy Parker](https://open.spotify.com/artist/1GSmDgjAARIKP0x1m4De6J) | [SHARK baiT](https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX) | 2:50 |
+| 53 | [SHARK baiT](https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt), [Tommy Parker](https://open.spotify.com/artist/1GSmDgjAARIKP0x1m4De6J) | [SHARK baiT](https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX) | 2:50 |
+| 54 | [Homesick](https://open.spotify.com/track/3bi38Ij1hlTBjp62XipZr6) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:41 |
 | 55 | [Too Much](https://open.spotify.com/track/1dqav7nwo6Y7Vpx1ypHCOA) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 3:06 |
 | 56 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 57 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AcZJgAAAAABTzpe/bqt3/r7AVbyZzDdJ`
+Snapshot ID: `AcZPKgAAAACu5Hu2g4oQ39GsP6MzlEDh`

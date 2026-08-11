@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-163 songs - 7 hr 40 min
+164 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2026-01-14 |  |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/2DQayQSTaomynGyTLXzGs0) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:08 | 2026-01-14 |  |
 | [Want Me Dead](https://open.spotify.com/track/2hyxyTDvBwzMLa3s0Kjwr4) | [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [Untitled, Vol 1.](https://open.spotify.com/album/2n8tEVt5quZs6L3l2Yu6Jh) | 3:13 | 2026-01-14 |  |
+| [We’re Not In Love](https://open.spotify.com/track/6H5jM1w0NQaHEQq7UDLlaW) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:59 | 2026-08-10 |  |
 | [WHAT JUST HAPPENED](https://open.spotify.com/track/4dHLZ0bs1Xzue1xAxg9v15) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:42 | 2026-01-14 | 2026-04-26 |
 | [WHAT JUST HAPPENED](https://open.spotify.com/track/5tejpXMAdgqYtkDSOEzqrO) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:42 | 2026-04-25 |  |
 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 | 2026-01-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1482193,
+  "num_followers": 1482361,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABlF2JojEuJ0QFjz46eKXTE",
+  "snapshot_id": "anfDAAAAAADRM4lkXxHTUSR2Kj90MG74",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BULLY - DELUXE",
-        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
       "artists": [
         {
@@ -228,17 +228,13 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 158193,
-      "name": "OK (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
     },
     {
       "added_at": null,
@@ -259,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
       },
       "artists": [
         {
@@ -268,13 +264,17 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 207626,
-      "name": "Gold Digger",
-      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+      "duration_ms": 158193,
+      "name": "OK (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/5UNo2nitxVTkBA9QYmnHJx"
     },
     {
       "added_at": null,

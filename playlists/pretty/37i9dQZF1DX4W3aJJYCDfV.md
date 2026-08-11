@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from FLO, ROLE MODEL, Sam Smith, Overmono and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,827 likes - 101 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,742 likes - 101 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 100 | [Girly](https://open.spotify.com/track/0Ee9QZaqupZd1BctG6QKfk) | [Shafkkat](https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd) | [In the Wind EP](https://open.spotify.com/album/2ggV7WqDQEsLbpbvwKgcIU) | 3:54 |
 | 101 | [Mercy!](https://open.spotify.com/track/3CsRiqVdvDY9rGQYlpqAM3) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Mercy!](https://open.spotify.com/album/1yHliHWZkAZzXsLszy9rga) | 3:34 |
 
-Snapshot ID: `AAAAANR3q/ng8cFTNHoNxJCy9zgqmFE6`
+Snapshot ID: `AAAAAC7XqKeb2XpVW3IdRtQPzF7j4coo`

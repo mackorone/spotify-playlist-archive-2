@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: ILLIT\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,841 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,852 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 32 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 |
 | 33 | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/track/0VdikQbDdOqxdWQyYsLmne) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [TAEHYUN](https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8), [KIM CHAEWON](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [butterflies \(feat\. TAEHYUN of TOMORROW X TOGETHER & Kim Chaewon of LE SSERAFIM\)](https://open.spotify.com/album/1Ct91vpCofv1WLTmhNeFK7) | 2:44 |
 | 34 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 |
-| 35 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 |
-| 36 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
+| 35 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 |
+| 36 | [LOVE, MONEY, FAME \(feat\. DJ Khaled\)](https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [SPILL THE FEELS](https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W) | 3:06 |
 | 37 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
 | 38 | [NAIL \(feat\. Lolo Zouaï\)](https://open.spotify.com/track/2VdbARHQxe2Oo0PRlXpg4I) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [NAIL](https://open.spotify.com/album/6wXgjwwY1YLZhAQupPi3m4) | 2:42 |
 | 39 | [5, 4, 3 \(Pretty woman\) \(feat\. Lay Bankz\)](https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq) | [CxM](https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [HYPE VIBES](https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 49 | [Hey Hello](https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Hey Hello](https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba) | 3:23 |
 | 50 | [moonboy](https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [moonboy](https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa) | 2:53 |
 
-Snapshot ID: `AAAAAKsO+XD8xbGIdHuk/XHV2lZaI59J`
+Snapshot ID: `AAAAAI47UgT6u4Xa9oh71KBQ1OFNtsWm`

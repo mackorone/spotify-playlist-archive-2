@@ -1,12 +1,12 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 200237,
+  "num_followers": 200280,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBzj/y3RhBN3JoFpZQGznQQWoHR",
+  "snapshot_id": "AAAAAO7yhPfbgZo5+/ePgrCZzOgRthDq",
   "tracks": [
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1223,22 +1223,26 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Bajo Sustancias",
-        "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
+        "name": "Vegetales Con Pescado",
+        "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
       },
       "artists": [
         {
-          "name": "Bipo Montana",
-          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "Jay Romero",
-          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/3FLNLo5rf6vh20FoHDeLyg"
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1267,26 +1271,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Vegetales Con Pescado",
-        "url": "https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3"
+        "name": "Bajo Sustancias",
+        "url": "https://open.spotify.com/album/4IZ4KvcJiBt9M1OddPlG8d"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
         },
         {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer"
+      "duration_ms": 210000,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/3FLNLo5rf6vh20FoHDeLyg"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Henceforth",
-        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Fue un Placer",
-      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Qu\u00e9 Agusticidad",
         "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 260571,
       "name": "Qu\u00e9 Agusticidad",
       "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Henceforth",
+        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fue un Placer",
+      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 182890,
-      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
-      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Bonita T\u00fa",
         "url": "https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 191000,
       "name": "Bonita T\u00fa",
       "url": "https://open.spotify.com/track/5fWJvFE8OWUDC0mijkUxN1"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Masoquista / \u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+        "url": "https://open.spotify.com/album/2x7RSXftZESuzY52tyu4Cs"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 182890,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Mi Amor?",
+      "url": "https://open.spotify.com/track/2GlGnsgX2acpZk6O4J2Qc7"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2527,26 +2527,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "No Fui Yo",
-        "url": "https://open.spotify.com/album/34OHzJXw1nvzoqv5Ml32DJ"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 202324,
-      "name": "No Fui Yo",
-      "url": "https://open.spotify.com/track/3AJAJkOQJwzxaOFjjGommM"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Te Deseo Lo Mejor",
         "url": "https://open.spotify.com/album/6pGKNM53b4PH1v015cjZfs"
       },
@@ -2563,6 +2543,26 @@
       "duration_ms": 173500,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/4xC6hpXVqIfUkiHswrI8Vr"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "No Fui Yo",
+        "url": "https://open.spotify.com/album/34OHzJXw1nvzoqv5Ml32DJ"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 202324,
+      "name": "No Fui Yo",
+      "url": "https://open.spotify.com/track/3AJAJkOQJwzxaOFjjGommM"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -2895,6 +2895,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Se Necesitan 2",
         "url": "https://open.spotify.com/album/34SOXYIKwUMFnELZxO7fNF"
       },
@@ -2911,22 +2927,6 @@
       "duration_ms": 227473,
       "name": "Se Necesitan 2",
       "url": "https://open.spotify.com/track/0RUQeCXPEfMR4RNiQqJoug"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -3151,6 +3151,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Se Te Olvid\u00f3 Que Te Gustaba",
+        "url": "https://open.spotify.com/album/57Iwb7f2hNb3LnrIG1Zct3"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        }
+      ],
+      "duration_ms": 176678,
+      "name": "Se Te Olvid\u00f3 Que Te Gustaba",
+      "url": "https://open.spotify.com/track/7yd58ySNvnAnrGQfxlo6qN"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Me Haces Bien",
         "url": "https://open.spotify.com/album/6Ruqdzq72gVxv0cwv1zdqC"
       },
@@ -3175,22 +3191,6 @@
       "duration_ms": 207499,
       "name": "Me Haces Bien",
       "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Se Te Olvid\u00f3 Que Te Gustaba",
-        "url": "https://open.spotify.com/album/57Iwb7f2hNb3LnrIG1Zct3"
-      },
-      "artists": [
-        {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
-        }
-      ],
-      "duration_ms": 176678,
-      "name": "Se Te Olvid\u00f3 Que Te Gustaba",
-      "url": "https://open.spotify.com/track/7yd58ySNvnAnrGQfxlo6qN"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -3455,34 +3455,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Amor De Siempre",
-        "url": "https://open.spotify.com/album/4pLnZQtgGA4sNomSqpHgbS"
-      },
-      "artists": [
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Amor De Siempre",
-      "url": "https://open.spotify.com/track/431svjNH0d50SxHjYOHGj7"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn"
       },
@@ -3511,6 +3483,34 @@
       "duration_ms": 166829,
       "name": "Lo Juro",
       "url": "https://open.spotify.com/track/40xGd8aRX4HUfzoTwQi4Jj"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Amor De Siempre",
+        "url": "https://open.spotify.com/album/4pLnZQtgGA4sNomSqpHgbS"
+      },
+      "artists": [
+        {
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Amor De Siempre",
+      "url": "https://open.spotify.com/track/431svjNH0d50SxHjYOHGj7"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -3879,22 +3879,6 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Rey de Corazones Rotos",
-        "url": "https://open.spotify.com/album/7fGP4JQisjbNudDBD8bnYj"
-      },
-      "artists": [
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 207993,
-      "name": "No Voy a Volver",
-      "url": "https://open.spotify.com/track/2UERICov7yrdE72YHnjq3V"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
         "name": "El Hijo de Norma",
         "url": "https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf"
       },
@@ -3911,6 +3895,22 @@
       "duration_ms": 195800,
       "name": "Monte de Venus",
       "url": "https://open.spotify.com/track/4A2WGBGMZFZv2wcwmchlKI"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
+        "name": "Rey de Corazones Rotos",
+        "url": "https://open.spotify.com/album/7fGP4JQisjbNudDBD8bnYj"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 207993,
+      "name": "No Voy a Volver",
+      "url": "https://open.spotify.com/track/2UERICov7yrdE72YHnjq3V"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -4099,6 +4099,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
+        "name": "Te Digo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/3oRG528dkQAWtC7Ofjf8lr"
+      },
+      "artists": [
+        {
+          "name": "H Muda",
+          "url": "https://open.spotify.com/artist/3vnlQDfoyOQvuC84DVdofk"
+        }
+      ],
+      "duration_ms": 216398,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/4vHr1WuvsvTUQ5xsrOm7l5"
+    },
+    {
+      "added_at": "2026-07-10 06:00:39",
+      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/44cpqlHhTzyXBn9K47uPJj"
       },
@@ -4135,22 +4151,6 @@
       "duration_ms": 225884,
       "name": "Tu Partida",
       "url": "https://open.spotify.com/track/6wJhgxK5yWPppfSz7HYaq1"
-    },
-    {
-      "added_at": "2026-07-10 06:00:39",
-      "album": {
-        "name": "Te Digo Adi\u00f3s",
-        "url": "https://open.spotify.com/album/3oRG528dkQAWtC7Ofjf8lr"
-      },
-      "artists": [
-        {
-          "name": "H Muda",
-          "url": "https://open.spotify.com/artist/3vnlQDfoyOQvuC84DVdofk"
-        }
-      ],
-      "duration_ms": 216398,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/4vHr1WuvsvTUQ5xsrOm7l5"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -5643,18 +5643,22 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+        "name": "Nunca Quise Escribirte una Balada",
+        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
+      "duration_ms": 153242,
+      "name": "Nunca Quise Escribirte una Balada",
+      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -5831,8 +5835,8 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Me Da Lo Mismo",
-        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
       },
       "artists": [
         {
@@ -5840,9 +5844,9 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 246480,
-      "name": "Me Da Lo Mismo",
-      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
+      "duration_ms": 173056,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
     },
     {
       "added_at": "2026-07-10 06:00:39",
@@ -5935,22 +5939,18 @@
     {
       "added_at": "2026-07-10 06:00:39",
       "album": {
-        "name": "Nunca Quise Escribirte una Balada",
-        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
+        "name": "Me Da Lo Mismo",
+        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 153242,
-      "name": "Nunca Quise Escribirte una Balada",
-      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+      "duration_ms": 246480,
+      "name": "Me Da Lo Mismo",
+      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
     },
     {
       "added_at": "2026-07-10 06:00:39",

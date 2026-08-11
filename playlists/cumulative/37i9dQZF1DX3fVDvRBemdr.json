@@ -2283,6 +2283,32 @@
     },
     {
       "album": {
+        "name": "Dans Voor Mij",
+        "url": "https://open.spotify.com/album/733tLkPXaPXnucUQuykJw5"
+      },
+      "artists": [
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        },
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155564,
+      "name": "Dans Voor Mij",
+      "url": "https://open.spotify.com/track/4zzdPo4yMp8W1v0ITTukjl"
+    },
+    {
+      "album": {
         "name": "Dansen In De Kroeg",
         "url": "https://open.spotify.com/album/6glKIVMwQPhBXgsXeYnzFK"
       },
@@ -2754,7 +2780,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 196193,
       "name": "De Nacht Is Mijn Leven",
       "url": "https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m"
@@ -4782,7 +4808,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 173906,
       "name": "Griekse Nacht",
       "url": "https://open.spotify.com/track/104eV6ie6a5f3OqhNp1dMJ"
@@ -5302,7 +5328,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 191212,
       "name": "Hoe De Liefde Gaat",
       "url": "https://open.spotify.com/track/1ttwvoS4i4o69EgKQoP7T4"
@@ -7121,6 +7147,24 @@
     },
     {
       "album": {
+        "name": "Je zit in m'n hoofd",
+        "url": "https://open.spotify.com/album/1BA3OB7TEQSOZdgJgPzHhn"
+      },
+      "artists": [
+        {
+          "name": "3JS",
+          "url": "https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193173,
+      "name": "Je zit in m'n hoofd",
+      "url": "https://open.spotify.com/track/3NioJZ6lEeh277GGJfAhFI"
+    },
+    {
+      "album": {
         "name": "Jij Bent Alles",
         "url": "https://open.spotify.com/album/2MxrSpr0y98d8Yo1W696SR"
       },
@@ -8198,7 +8242,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 146213,
       "name": "Lange Zomernacht",
       "url": "https://open.spotify.com/track/3u1cZlARHsqAvWpwT62uEz"
@@ -8364,7 +8408,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 166406,
       "name": "Lekker Ding",
       "url": "https://open.spotify.com/track/5ic3AIxWoxlC2iCjhRJbkr"
@@ -8662,7 +8706,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 190135,
       "name": "Luchtballon",
       "url": "https://open.spotify.com/track/0WSqR5paTVPALC7VnexD6h"
@@ -8724,7 +8768,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 177205,
       "name": "Maak Me Nou Niet Gek",
       "url": "https://open.spotify.com/track/0q8Ft87t6fIUZdtve5PwKW"
@@ -9132,7 +9176,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 197979,
       "name": "Midden In Paris",
       "url": "https://open.spotify.com/track/2jb24vo03wyU4RdgSnj6JJ"
@@ -10600,7 +10644,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 148256,
       "name": "Route Du Soleil",
       "url": "https://open.spotify.com/track/3gObOLbNKma8EjpByEieBp"
@@ -11244,7 +11288,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 157798,
       "name": "Stop Toch Met Liegen",
       "url": "https://open.spotify.com/track/7xFmNuhRHl4r7zd2cJwWzy"
@@ -11356,7 +11400,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 194435,
       "name": "Tante Jetje",
       "url": "https://open.spotify.com/track/6jPFnEnuXaOtTsAXUCuhy5"
@@ -11678,6 +11722,24 @@
       "duration_ms": 195118,
       "name": "Tussen Nu En Straks",
       "url": "https://open.spotify.com/track/0RdWbZR2ki6KdRo1XcPPIt"
+    },
+    {
+      "album": {
+        "name": "Tutti Colori",
+        "url": "https://open.spotify.com/album/1BacpALgpRSZ7fO5F5BoDV"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153529,
+      "name": "Tutti Colori",
+      "url": "https://open.spotify.com/track/5S8oEIBGSZ37RmEAVGw4wi"
     },
     {
       "album": {
@@ -12614,7 +12676,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 155502,
       "name": "Waarom Doe Je Dit Nou",
       "url": "https://open.spotify.com/track/6mCGCSfBfmHW4mcSpmpeJW"
@@ -14116,6 +14178,24 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "album": {
+        "name": "Zomer, Zon & Strand",
+        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Zomer, Zon & Strand",
+      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
     },
     {
       "album": {

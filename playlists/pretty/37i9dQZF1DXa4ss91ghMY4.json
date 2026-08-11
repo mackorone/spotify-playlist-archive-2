@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 562395,
+  "num_followers": 562331,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKA9HmqMk9li0szw8++k/gV5SV9u",
+  "snapshot_id": "AAAAAEly3wzndKXPMcmPz+Uwbq6+dFZM",
   "tracks": [
     {
       "added_at": "2026-06-26 03:00:48",
@@ -607,26 +607,18 @@
     {
       "added_at": "2026-06-26 03:00:48",
       "album": {
-        "name": "Tick Tock (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
+        "name": "The Prelude",
+        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Tick Tock (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
+      "duration_ms": 170344,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
     },
     {
       "added_at": "2026-06-26 03:00:48",
@@ -651,18 +643,26 @@
     {
       "added_at": "2026-06-26 03:00:48",
       "album": {
-        "name": "The Prelude",
-        "url": "https://open.spotify.com/album/3Qj2vsFzmaB8jcH6Q60WIG"
+        "name": "Tick Tock (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         }
       ],
-      "duration_ms": 170344,
-      "name": "At My Worst",
-      "url": "https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr"
+      "duration_ms": 178373,
+      "name": "Tick Tock (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
     },
     {
       "added_at": "2026-06-26 03:00:48",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-06-26 03:00:48",
       "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 234024,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
+    },
+    {
+      "added_at": "2026-06-26 03:00:48",
+      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 163733,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn"
-    },
-    {
-      "added_at": "2026-06-26 03:00:48",
-      "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 234024,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG"
     },
     {
       "added_at": "2026-06-26 03:00:48",

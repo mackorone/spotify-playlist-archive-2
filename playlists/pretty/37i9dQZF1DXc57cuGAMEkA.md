@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 KAROL G, Ado, Stray Kids, Alex Warren, Ravyn Lenae,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,007 likes - 86 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,019 likes - 86 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 85 | [Pale Bright](https://open.spotify.com/track/5BaQ9DuHvfb5CHlGWmMlQW) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Pale Bright](https://open.spotify.com/album/7JVpfo1QGYzflCwORh9yhl) | 4:58 |
 | 86 | [SATISFIED](https://open.spotify.com/track/3vBnLkhyHPb4p6NCZqjLnV) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [SOULWAVE 2153](https://open.spotify.com/album/6Psu1vvAdBA5IDHRY1RvR7) | 4:20 |
 
-Snapshot ID: `AAAAACYFT8RSw7FB3H3zz5vKdMirE8R2`
+Snapshot ID: `AAAAAJ7hNSml67TMj4raDQUY/oB6aOQA`

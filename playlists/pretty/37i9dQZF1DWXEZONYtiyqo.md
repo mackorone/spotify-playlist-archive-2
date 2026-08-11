@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Florian Rus
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,697 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,694 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Poze cu blitz](https://open.spotify.com/track/2hRmR4NR4HkaTvaVPCDXNQ) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T) | [Poze cu blitz](https://open.spotify.com/album/1q7hK4CLI8zK1gEsRO3k9l) | 2:36 |
 | 50 | [Free](https://open.spotify.com/track/4rMM6OaUqgYr6eZrFC2TMN) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Chris Hype](https://open.spotify.com/artist/6exH5W5q1pR71N77VYff0a), [Orchestronic](https://open.spotify.com/artist/4wOLzdvLBf9m00I0Z2QCYv) | [Free](https://open.spotify.com/album/1E7MzoTYYi12TXikpXlxrC) | 3:24 |
 
-Snapshot ID: `AAAAAJ1DqoWhzlMziemn4zaSBEx5D3Of`
+Snapshot ID: `AAAAAJzOCUOqRn9V1OsrQM/+uorszyPL`

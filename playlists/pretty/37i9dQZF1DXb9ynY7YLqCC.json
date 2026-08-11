@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 187422,
+  "num_followers": 187428,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPTT4FBz8UmwfWoxUkaUfm/PRGzp",
+  "snapshot_id": "AAAAABErtopJfsHqIkzJFbKLCsmS4ahd",
   "tracks": [
     {
       "added_at": "2026-04-24 03:01:11",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-04-24 03:01:11",
       "album": {
+        "name": "El disco maldito",
+        "url": "https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN"
+      },
+      "artists": [
+        {
+          "name": "Luceros el Ojo Dalt\u00f3nico",
+          "url": "https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV"
+        }
+      ],
+      "duration_ms": 231936,
+      "name": "En otra vida",
+      "url": "https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO"
+    },
+    {
+      "added_at": "2026-04-24 03:01:11",
+      "album": {
         "name": "Calavera",
         "url": "https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 217557,
       "name": "Calavera",
       "url": "https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ"
-    },
-    {
-      "added_at": "2026-04-24 03:01:11",
-      "album": {
-        "name": "El disco maldito",
-        "url": "https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN"
-      },
-      "artists": [
-        {
-          "name": "Luceros el Ojo Dalt\u00f3nico",
-          "url": "https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV"
-        }
-      ],
-      "duration_ms": 231936,
-      "name": "En otra vida",
-      "url": "https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO"
     },
     {
       "added_at": "2026-04-24 03:01:11",

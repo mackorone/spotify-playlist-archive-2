@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,372 songs - 3 day 7 hr 41 min
+1,373 songs - 3 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Don't Tell Mary](https://open.spotify.com/track/05hAnLiPMxKUWrHADwEIQF) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Don't Tell Mary](https://open.spotify.com/album/754oFY4ZwA8fFXsPzvA67E) | 2:51 | 2025-12-22 | 2026-01-24 |
 | [Don't Want Me Around](https://open.spotify.com/track/3chrJfNMSkys4Wy0Gd4ToZ) | [Dane Rivers](https://open.spotify.com/artist/6PaURsKDuXnJOuLBhIpnJh) | [Don't Want Me Around](https://open.spotify.com/album/0OuHifKRJ2KVx4li3Kl5t1) | 2:26 | 2026-04-21 | 2026-06-05 |
 | [Dont Let Love Stop You](https://open.spotify.com/track/6oqGjqliK1chazBxs6vllX) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Dont Let Love Stop You](https://open.spotify.com/album/0pH1NthJpQdSDJhPt5tSiT) | 2:35 | 2026-05-11 | 2026-07-19 |
+| [Doomed](https://open.spotify.com/track/1HfK0pfp95N5VeIvXytrwg) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Doomed](https://open.spotify.com/album/22jWWQ2warqg8hh7HpQbmd) | 7:22 | 2026-08-10 |  |
 | [Door of My Desert \(Jazz Version\)](https://open.spotify.com/track/5W3naBO653j7VpM0XYsMPt) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N), [Gianfranco Dezi](https://open.spotify.com/artist/14I7LC6mKs5OfBUb0qBr3r), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr) | [Door of My Desert \(Jazz Version\)](https://open.spotify.com/album/6F4uAG6CJXMmxgABxCQVpV) | 3:00 | 2023-04-20 | 2025-11-29 |
 | [Dopamina](https://open.spotify.com/track/3RGNZNaFtN9nQSk7G2Ai5P) | [Marcelino Rob](https://open.spotify.com/artist/4CT4cjDHDrLomi7XQwwwjt) | [Dopamina](https://open.spotify.com/album/12p6y6qnK6VZec00BHWb49) | 2:48 | 2026-04-24 | 2026-06-05 |
 | [DOPAMINE \- Original Mix](https://open.spotify.com/track/1qIHh1E9VlIQjlx63VdXMj) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [ohey](https://open.spotify.com/artist/2BgpHKGiSYNrDpFy0bOK34), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [DOPAMINE \(Original Mix\)](https://open.spotify.com/album/2iohXmZrN34oyh0Yjmk08V) | 2:17 | 2025-12-24 | 2026-01-24 |

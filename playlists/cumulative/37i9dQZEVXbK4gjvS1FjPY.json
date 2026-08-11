@@ -9548,7 +9548,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -13368,6 +13368,36 @@
     {
       "album": {
         "name": "Here We Are",
+        "url": "https://open.spotify.com/album/4jrGAcDPKfcShtlAZQr6fg"
+      },
+      "artists": [
+        {
+          "name": "NDPeeps",
+          "url": "https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT"
+        },
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        },
+        {
+          "name": "Kit Chan",
+          "url": "https://open.spotify.com/artist/5sOVNhUf8T3jiPhvFA6T7L"
+        },
+        {
+          "name": "The Island Voices",
+          "url": "https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240841,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1JnTnAWsfL3jWBlSwWAbQC"
+    },
+    {
+      "album": {
+        "name": "Here We Are",
         "url": "https://open.spotify.com/album/0Bca9OP06eLcvAKNlEDNdi"
       },
       "artists": [
@@ -14124,7 +14154,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 223013,
       "name": "honeybee",
       "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2"
@@ -15664,7 +15694,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -15852,7 +15882,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 242640,
       "name": "In A Heartbeat",
       "url": "https://open.spotify.com/track/14dThbrteRM57dxmpV26a8"
@@ -16272,7 +16302,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -21366,7 +21396,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 184120,
       "name": "My Island Home",
       "url": "https://open.spotify.com/track/2w5L5kQVkSRdduNewYPDA5"
@@ -22364,7 +22394,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -23330,7 +23360,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 171320,
       "name": "One United People (2003 Singapore National Song)",
       "url": "https://open.spotify.com/track/2h5gMUxXk3OBfOX9KS5hiX"
@@ -23514,7 +23544,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 208586,
       "name": "Our Singapore",
       "url": "https://open.spotify.com/track/5WtMlbTDNZlbN8xZ5zfXva"
@@ -23608,7 +23638,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 240419,
       "name": "Our Singapore - NDP 2019 Theme Song",
       "url": "https://open.spotify.com/track/3UDb3MiDrkUPLMvKBWy0Sn"
@@ -25396,7 +25426,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 174826,
       "name": "Reach Out For The Skies",
       "url": "https://open.spotify.com/track/7phKkEWEipo3sDrZJiG9uJ"
@@ -26448,7 +26478,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -27254,7 +27284,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -28430,7 +28460,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -29060,7 +29090,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 116040,
       "name": "Stand Up For Singapore",
       "url": "https://open.spotify.com/track/2aIkiuxUesXTGU756fBJYD"
@@ -29288,7 +29318,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 148420,
       "name": "stay",
       "url": "https://open.spotify.com/track/0QltPqkR4dnhbINyBOU5SY"
@@ -33180,7 +33210,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 202510,
       "name": "Tomorrow's Here Today",
       "url": "https://open.spotify.com/track/6cHJBXRYMS2vCPeO2IaSKY"
@@ -33600,7 +33630,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -34942,7 +34972,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 215916,
       "name": "We Are Singapore 2018",
       "url": "https://open.spotify.com/track/0pSehMgUmj6t3ILbwDynI3"

@@ -3783,6 +3783,28 @@
     },
     {
       "album": {
+        "name": "Tere Piche",
+        "url": "https://open.spotify.com/album/0DjsEEg0RSlSDuHziqdU2u"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        },
+        {
+          "name": "Xtacy",
+          "url": "https://open.spotify.com/artist/5RHWtLzYNIrfjLXUx7hBi6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Tere Piche",
+      "url": "https://open.spotify.com/track/5xdP0SCabpuytBrNkI0Abu"
+    },
+    {
+      "album": {
         "name": "Tha Tha",
         "url": "https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO"
       },
@@ -3798,7 +3820,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 169285,
       "name": "Tha Tha",
       "url": "https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs"

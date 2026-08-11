@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,999 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,998 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx) | 3:02 |
 | 99 | [The Rhythm](https://open.spotify.com/track/1Ox6mkzti9mPAOMrTXqbfO) | [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF) | [The Rhythm](https://open.spotify.com/album/2kvGwemv236SbHOpmg1IOl) | 3:00 |
 
-Snapshot ID: `AAAAAKFMhY/ESQOUOAA4qPKukvGkAlPo`
+Snapshot ID: `AAAAAA2A0cL7fgnyi0FY/Lj+L33vdR5J`

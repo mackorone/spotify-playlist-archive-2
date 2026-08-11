@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the '00s. Cover: D'Angelo",
-  "num_followers": 4811759,
+  "num_followers": 4811736,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2yRu29AnUyYjQUCmfTBL4rcUQE",
+  "snapshot_id": "AAAAAH8uf08n8oo4BaWzJx0OA+d/pt1k",
   "tracks": [
     {
       "added_at": "2025-10-15 03:50:15",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 280546,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+      "duration_ms": 209120,
+      "name": "Rock Wit U (Awww Baby)",
+      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Rock Wit U (Awww Baby)",
-      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+      "duration_ms": 280546,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
     },
     {
       "added_at": "2022-08-21 19:36:42",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Juslisen",
@@ -1123,6 +1107,22 @@
       "duration_ms": 254493,
       "name": "Halfcrazy",
       "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1299,18 +1299,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
       },
       "artists": [
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 327693,
-      "name": "I Should Have Cheated",
-      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+      "duration_ms": 247933,
+      "name": "I Invented Sex (feat. Drake)",
+      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Ready (Deluxe)",
-        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
       "artists": [
         {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 247933,
-      "name": "I Invented Sex (feat. Drake)",
-      "url": "https://open.spotify.com/track/1Ug1mV9h5qVSs4rvvnQWux"
+      "duration_ms": 327693,
+      "name": "I Should Have Cheated",
+      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1381,20 +1381,20 @@
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+        "name": "Complex Simplicity: 15th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Teedra Moses",
+          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Do You",
-      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
+      "duration_ms": 249493,
+      "name": "Be Your Girl",
+      "url": "https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1413,20 +1413,20 @@
       "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Complex Simplicity: 15th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg"
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
       "artists": [
         {
-          "name": "Teedra Moses",
-          "url": "https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 249493,
-      "name": "Be Your Girl",
-      "url": "https://open.spotify.com/track/4AOUkAWdXPucnYe6GYdZjk"
+      "duration_ms": 228266,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Bust Your Windows",
-      "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 301133,
       "name": "Me, Myself and I",
       "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Bust Your Windows",
+      "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
     },
     {
       "added_at": "2022-02-11 05:00:00",

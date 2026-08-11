@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,205 songs - 2 day 14 hr 54 min
+1,206 songs - 2 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-07-01 | 2024-08-01 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-01 | 2024-09-11 |
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-19 | 2025-09-20 |
+| [How I Feel](https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [How I Feel](https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ) | 2:37 | 2026-08-06 |  |
 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 | 2026-03-19 | 2026-05-22 |
 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 | 2025-02-06 | 2025-03-14 |
 | [How To Be Human](https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 2:40 | 2025-12-11 | 2026-02-19 |
@@ -857,7 +858,7 @@
 | [Rend Mig I Røven](https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Rend Mig I Røven](https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR) | 3:20 | 2025-08-14 | 2025-09-12 |
 | [Rende Og Hoppe \(feat\. Noah Carter\)](https://open.spotify.com/track/58TILwI2HxFsnmEAEtzHY4) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:24 | 2026-03-13 | 2026-03-15 |
 | [Rene Hjerter](https://open.spotify.com/track/1A90dHXPAXFRrUJWdID0jJ) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Rene Hjerter Vinder Altid](https://open.spotify.com/album/4MPDu8E05I0dsGCi8A73oM) | 2:49 | 2025-05-01 | 2025-07-25 |
-| [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 | 2026-05-14 |  |
+| [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 | 2026-05-14 | 2026-08-11 |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-01 | 2024-09-20 |
 | [Reposado Remix](https://open.spotify.com/track/52Ka7bj14YpxHfSy5fnH1F) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Reposado Remix](https://open.spotify.com/album/10aDemoWWIXpitsGIuSXXp) | 3:11 | 2026-01-05 | 2026-02-08 |
 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 | 2026-08-06 |  |

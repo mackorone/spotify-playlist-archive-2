@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3CVuTsFLCZ.md) - [plain]
 
 > Enjoy the sound track of Nine Puzzles with memorable lines from the show \(나인 퍼즐의 사운드 트랙을 대사와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,404 likes - 52 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,407 likes - 52 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3CVuTsFLCZ.md) - [plain]
 | 51 | [New Puzzle](https://open.spotify.com/track/4LgU54CQIBzhiwEXwDyasN) | [Cho Young\-Wuk](https://open.spotify.com/artist/0qUHwGKZS1Q1hTe2Zbt2L6) | [Nine Puzzles \(Original Soundtrack\)](https://open.spotify.com/album/2SbR2hM9kLiFIKqQwnVHwS) | 1:52 |
 | 52 | [Nine Puzzles : Liner 6](https://open.spotify.com/track/498Co0GDfzNEOtJC3m9dpq) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nine Puzzles Audio Liners](https://open.spotify.com/album/53zGUE30z0n2vMKHE9kOSq) | 0:06 |
 
-Snapshot ID: `AAAAAN0WJ/jJ4CZi0OguivFQBr05aNsL`
+Snapshot ID: `AAAAAEi8dYF7L7okV0BmfO7J0x1DZ4MJ`

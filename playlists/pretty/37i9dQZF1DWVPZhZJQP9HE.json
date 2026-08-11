@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sarah Black",
-  "num_followers": 83246,
+  "num_followers": 83268,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzu6+f0cBqUL90vCQFMhPyqNvoW",
+  "snapshot_id": "AAAAAMCZeapyNGcOlAx0BoarEcinbqOL",
   "tracks": [
     {
       "added_at": "2026-03-25 09:30:08",
@@ -141,6 +141,46 @@
       "url": "https://open.spotify.com/track/2Fg13KXXr1tTQukjeKagqa"
     },
     {
+      "added_at": "2026-05-06 10:50:13",
+      "album": {
+        "name": "POCHA (From \"Cheers Music\")",
+        "url": "https://open.spotify.com/album/2K4e3kPsAoW2BGhSyDyeEW"
+      },
+      "artists": [
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Anand Kashinath",
+          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "POCHA - From \"Cheers Music\"",
+      "url": "https://open.spotify.com/track/6T4r1F01eg0jmcal7ulg4j"
+    },
+    {
+      "added_at": "2026-08-10 11:58:44",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 01",
+        "url": "https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD"
+      },
+      "artists": [
+        {
+          "name": "Hemi",
+          "url": "https://open.spotify.com/artist/7MP4gHewke7qLeU0Yqlhvi"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Bodha Kannadi",
+      "url": "https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv"
+    },
+    {
       "added_at": "2026-07-16 07:54:33",
       "album": {
         "name": "Amukku Gumukku",
@@ -169,28 +209,44 @@
       "url": "https://open.spotify.com/track/6XzsxdnYoxp61HqrOlQypo"
     },
     {
-      "added_at": "2026-07-24 12:42:59",
+      "added_at": "2026-07-03 05:14:10",
       "album": {
-        "name": "Kaarmegham",
-        "url": "https://open.spotify.com/album/2yJlSXQ2aSMMGim0prZY5Z"
+        "name": "KOLLURE (From \"Must Date The Playboy\")",
+        "url": "https://open.spotify.com/album/1aDhfTPfEk78idjxV2aIsi"
       },
       "artists": [
         {
-          "name": "Aakash Rajan",
-          "url": "https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW"
+          "name": "Shabir Sulthan",
+          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
         },
         {
-          "name": "Rahul Rajendran",
-          "url": "https://open.spotify.com/artist/3nm8EywGJ485HGykrfZCtn"
+          "name": "Vishnupriya Ravi",
+          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
         },
         {
-          "name": "Sudarshan Balu",
-          "url": "https://open.spotify.com/artist/3xddsAucxDgdfERCW6Aat6"
+          "name": "Mazhaimegan",
+          "url": "https://open.spotify.com/artist/0rXfJ6VTsAgBFdncbk6vGA"
         }
       ],
-      "duration_ms": 216548,
-      "name": "Kaarmegham",
-      "url": "https://open.spotify.com/track/3oNz3t9DcGJON3LFV4AXqi"
+      "duration_ms": 165271,
+      "name": "KOLLURE - From \"Must Date The Playboy\"",
+      "url": "https://open.spotify.com/track/5jaXSWih6Mg6oi8SBe5e1x"
+    },
+    {
+      "added_at": "2026-08-10 12:03:00",
+      "album": {
+        "name": "Devaloka Sundari",
+        "url": "https://open.spotify.com/album/2EEGCF3SlnE8Ce7ZrmW0YI"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Devaloka Sundari",
+      "url": "https://open.spotify.com/track/3bvwQ8ProCCS0DdkzxoNLL"
     },
     {
       "added_at": "2026-04-08 11:14:11",
@@ -207,26 +263,6 @@
       "duration_ms": 610797,
       "name": "Frangipani - Acoustic",
       "url": "https://open.spotify.com/track/38xB1JeSCiElBawdcatCrg"
-    },
-    {
-      "added_at": "2026-01-30 00:43:24",
-      "album": {
-        "name": "Fancy Store (From \"Atti Culture\")",
-        "url": "https://open.spotify.com/album/61FdiV3mqRtVRAMyEQa94o"
-      },
-      "artists": [
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "Kelithee",
-          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
-        }
-      ],
-      "duration_ms": 197367,
-      "name": "Fancy Store - From \"Atti Culture\"",
-      "url": "https://open.spotify.com/track/4DDZ9oM1mv7hiCuxToTGwj"
     },
     {
       "added_at": "2026-07-24 12:42:59",
@@ -251,6 +287,30 @@
       "duration_ms": 200588,
       "name": "Mayangureney",
       "url": "https://open.spotify.com/track/5yKeWRFfcnyCY0b71Jb9RP"
+    },
+    {
+      "added_at": "2026-07-24 12:42:59",
+      "album": {
+        "name": "Kaarmegham",
+        "url": "https://open.spotify.com/album/2yJlSXQ2aSMMGim0prZY5Z"
+      },
+      "artists": [
+        {
+          "name": "Aakash Rajan",
+          "url": "https://open.spotify.com/artist/0RDjGRm28CVB47PJMaSnrW"
+        },
+        {
+          "name": "Rahul Rajendran",
+          "url": "https://open.spotify.com/artist/3nm8EywGJ485HGykrfZCtn"
+        },
+        {
+          "name": "Sudarshan Balu",
+          "url": "https://open.spotify.com/artist/3xddsAucxDgdfERCW6Aat6"
+        }
+      ],
+      "duration_ms": 216548,
+      "name": "Kaarmegham",
+      "url": "https://open.spotify.com/track/3oNz3t9DcGJON3LFV4AXqi"
     },
     {
       "added_at": "2026-08-04 16:09:01",
@@ -329,48 +389,40 @@
       "url": "https://open.spotify.com/track/0r98oYeF5In7SCfgRR4B57"
     },
     {
-      "added_at": "2026-07-03 05:14:10",
+      "added_at": "2026-08-10 11:42:13",
       "album": {
-        "name": "KOLLURE (From \"Must Date The Playboy\")",
-        "url": "https://open.spotify.com/album/1aDhfTPfEk78idjxV2aIsi"
+        "name": "Tamil Birthday Song",
+        "url": "https://open.spotify.com/album/6LrBZ3y37YFf3pSQeKw59z"
       },
       "artists": [
         {
-          "name": "Shabir Sulthan",
-          "url": "https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng"
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
         },
         {
-          "name": "Vishnupriya Ravi",
-          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
+          "name": "Deepak Blue",
+          "url": "https://open.spotify.com/artist/6n7qbMaXMDg5volEeeB9Ao"
         },
         {
-          "name": "Mazhaimegan",
-          "url": "https://open.spotify.com/artist/0rXfJ6VTsAgBFdncbk6vGA"
+          "name": "Maria Roe Vincent",
+          "url": "https://open.spotify.com/artist/3KrlaLub4zgw8yNCLJq4nC"
+        },
+        {
+          "name": "Sam Lawrence",
+          "url": "https://open.spotify.com/artist/0BKjca1pkv2L87KeiXSeVI"
+        },
+        {
+          "name": "Ailaah",
+          "url": "https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX"
+        },
+        {
+          "name": "MWS",
+          "url": "https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp"
         }
       ],
-      "duration_ms": 165271,
-      "name": "KOLLURE - From \"Must Date The Playboy\"",
-      "url": "https://open.spotify.com/track/5jaXSWih6Mg6oi8SBe5e1x"
-    },
-    {
-      "added_at": "2026-05-06 10:50:13",
-      "album": {
-        "name": "POCHA (From \"Cheers Music\")",
-        "url": "https://open.spotify.com/album/2K4e3kPsAoW2BGhSyDyeEW"
-      },
-      "artists": [
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Anand Kashinath",
-          "url": "https://open.spotify.com/artist/6MIdOllsuMuSj4s6b833Di"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "POCHA - From \"Cheers Music\"",
-      "url": "https://open.spotify.com/track/6T4r1F01eg0jmcal7ulg4j"
+      "duration_ms": 498614,
+      "name": "Tamil Birthday Song",
+      "url": "https://open.spotify.com/track/2WRyfdN6BJRTN1H9Q2PvnQ"
     },
     {
       "added_at": "2026-06-19 13:21:29",
@@ -517,38 +569,6 @@
       "url": "https://open.spotify.com/track/0Rj7HxwijxQEydIca9Jdja"
     },
     {
-      "added_at": "2026-06-08 11:22:43",
-      "album": {
-        "name": "Nee Enbathey",
-        "url": "https://open.spotify.com/album/543D8tWJcfjbruhoPEDfxx"
-      },
-      "artists": [
-        {
-          "name": "Pravin Saivi",
-          "url": "https://open.spotify.com/artist/3g6Rl18EhUhnSBEv20h8U0"
-        },
-        {
-          "name": "Maalavika Sundar",
-          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
-        },
-        {
-          "name": "Derick McArthur",
-          "url": "https://open.spotify.com/artist/1Oalr8ufvpZWi7SmM9c4yL"
-        },
-        {
-          "name": "Roshan Sebastian",
-          "url": "https://open.spotify.com/artist/72fjH95OAer1Y0g78l5QaM"
-        },
-        {
-          "name": "Ahamed Shyam",
-          "url": "https://open.spotify.com/artist/2QKYiDTmS5WeuE3VmahlLn"
-        }
-      ],
-      "duration_ms": 193381,
-      "name": "Nee Enbathey",
-      "url": "https://open.spotify.com/track/4XfUN7YvKTxHstqJ9KwLkN"
-    },
-    {
       "added_at": "2026-06-03 21:27:45",
       "album": {
         "name": "Vaada Vibe",
@@ -587,26 +607,6 @@
       "duration_ms": 276000,
       "name": "Thendralil (From \"Loopd\")",
       "url": "https://open.spotify.com/track/3pOTheMxTE43pjFS41Ks0r"
-    },
-    {
-      "added_at": "2026-01-23 10:22:14",
-      "album": {
-        "name": "Raajabhodai",
-        "url": "https://open.spotify.com/album/7cNOuWWbRPkfUJuwtYl4h7"
-      },
-      "artists": [
-        {
-          "name": "Srivijay Ragavan",
-          "url": "https://open.spotify.com/artist/1sHy3gAbb1pnYM8o9LsLA9"
-        },
-        {
-          "name": "Sri Jeyanthan",
-          "url": "https://open.spotify.com/artist/5nN9ZnBYxoFUPkSQR7kGaB"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Raajabhodai",
-      "url": "https://open.spotify.com/track/047XxfeutL8jtYzmMrsXoO"
     },
     {
       "added_at": "2026-05-04 07:48:42",
@@ -853,26 +853,6 @@
       "url": "https://open.spotify.com/track/3dLhDLdUwUFeiDquvenigi"
     },
     {
-      "added_at": "2025-12-12 09:05:24",
-      "album": {
-        "name": "Saa Vee",
-        "url": "https://open.spotify.com/album/7LFzOksys84xpe75cPMmYJ"
-      },
-      "artists": [
-        {
-          "name": "Kelithee",
-          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
-        },
-        {
-          "name": "Adithya Sriram",
-          "url": "https://open.spotify.com/artist/0QkoNWJljkXVNcOwNooaQo"
-        }
-      ],
-      "duration_ms": 159096,
-      "name": "Thoongu Da Nanba (The Sleep Song)",
-      "url": "https://open.spotify.com/track/5SJvdh6T9CKHKvuvYlyQ9z"
-    },
-    {
       "added_at": "2026-01-29 11:15:06",
       "album": {
         "name": "Kadhol (From \"Think Indie\")",
@@ -923,26 +903,6 @@
       "duration_ms": 206400,
       "name": "Theeradha",
       "url": "https://open.spotify.com/track/0pcehazrEcS8txh2APAjKj"
-    },
-    {
-      "added_at": "2026-01-15 17:31:24",
-      "album": {
-        "name": "Adada Intha Kodumai",
-        "url": "https://open.spotify.com/album/324JcfpDKbLgghszhfyTdW"
-      },
-      "artists": [
-        {
-          "name": "Franco Simon",
-          "url": "https://open.spotify.com/artist/6tcu1ARwWGIikIrqQXVgh7"
-        },
-        {
-          "name": "JASEER",
-          "url": "https://open.spotify.com/artist/4Ha7I3MhUa1ynp7RghjQxa"
-        }
-      ],
-      "duration_ms": 234831,
-      "name": "Adada Intha Kodumai",
-      "url": "https://open.spotify.com/track/299rRlmRARflvRRrGb7uh3"
     },
     {
       "added_at": "2026-01-16 05:36:10",

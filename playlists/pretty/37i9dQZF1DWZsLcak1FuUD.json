@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJh9vNvnMhpreomM4gW+hqcpvY0Q",
+  "snapshot_id": "AAAAAM/ASdpa9Wgnfgy+A6jFrZh0Sjkv",
   "tracks": [
     {
       "added_at": "2024-06-12 23:45:40",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "El Album",
-        "url": "https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC"
-      },
-      "artists": [
-        {
-          "name": "Pastoral",
-          "url": "https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "En El Hospicio",
-      "url": "https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Manal",
         "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 230146,
       "name": "No Pibe",
       "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "El Album",
+        "url": "https://open.spotify.com/album/5kt3IW5sMQZSqknVBh1UOC"
+      },
+      "artists": [
+        {
+          "name": "Pastoral",
+          "url": "https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "En El Hospicio",
+      "url": "https://open.spotify.com/track/21ywJkUEm6UqevAYE8gTXB"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Aeroblus",
-        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
-      },
-      "artists": [
-        {
-          "name": "Aeroblus",
-          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Vamos A Buscar La Luz - Remastered Version",
-      "url": "https://open.spotify.com/track/7eVl8VDo6nzNvZbzkW2kc2"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Alma y Vida, Vol. 2",
         "url": "https://open.spotify.com/album/7MHEzCpcFrBeVBaqzM6cSl"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 165826,
       "name": "Hoy Te Queremos Cantar",
       "url": "https://open.spotify.com/track/6O036ngVof8dIfCILsJkVv"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Aeroblus",
+        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
+      },
+      "artists": [
+        {
+          "name": "Aeroblus",
+          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Vamos A Buscar La Luz - Remastered Version",
+      "url": "https://open.spotify.com/track/7eVl8VDo6nzNvZbzkW2kc2"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Aeroblus",
-        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
-      },
-      "artists": [
-        {
-          "name": "Aeroblus",
-          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Completamente Nervioso - Remastered Version",
-      "url": "https://open.spotify.com/track/3JO0HoztZFs5N3R8LZ9Agp"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "El 1er \u00c1lbum M\u00e1s los Singles",
         "url": "https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 212546,
       "name": "Figuraci\u00f3n",
       "url": "https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Aeroblus",
+        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
+      },
+      "artists": [
+        {
+          "name": "Aeroblus",
+          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Completamente Nervioso - Remastered Version",
+      "url": "https://open.spotify.com/track/3JO0HoztZFs5N3R8LZ9Agp"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Aeroblus",
-        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
-      },
-      "artists": [
-        {
-          "name": "Aeroblus",
-          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Tema Sol\u00edsimo",
-      "url": "https://open.spotify.com/track/4UGWzrBtHDDqyPGi2RjrLL"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 415826,
       "name": "La Casa De La Mente",
       "url": "https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Aeroblus",
+        "url": "https://open.spotify.com/album/5rapG1i2HxcbyOwtUTnKHe"
+      },
+      "artists": [
+        {
+          "name": "Aeroblus",
+          "url": "https://open.spotify.com/artist/0oIxiHRBpqq0VJe3wOY8Qr"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Tema Sol\u00edsimo",
+      "url": "https://open.spotify.com/track/4UGWzrBtHDDqyPGi2RjrLL"
     },
     {
       "added_at": "2024-06-12 23:45:40",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-06-12 23:45:40",
       "album": {
-        "name": "Le\u00f3n Gieco (LP)",
-        "url": "https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 189776,
-      "name": "En el pa\u00eds de la libertad",
-      "url": "https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB"
-    },
-    {
-      "added_at": "2024-06-12 23:45:40",
-      "album": {
         "name": "Libre y Natural",
         "url": "https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 249760,
       "name": "Libre y Natural",
       "url": "https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb"
+    },
+    {
+      "added_at": "2024-06-12 23:45:40",
+      "album": {
+        "name": "Le\u00f3n Gieco (LP)",
+        "url": "https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 189776,
+      "name": "En el pa\u00eds de la libertad",
+      "url": "https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB"
     }
   ],
   "unique_name": "Esp\u00edritu Setentista",

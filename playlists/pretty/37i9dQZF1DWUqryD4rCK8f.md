@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain]
 
 > Get the party started with these classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,524 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,549 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain]
 | 49 | [Love in This Club \(feat\. Young Jeezy\)](https://open.spotify.com/track/5j0McHPthKpOXRr3fBq8M0) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Here I Stand](https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW) | 4:19 |
 | 50 | [Lapdance](https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:29 |
 
-Snapshot ID: `AAAAAIM+oIQhmutDPnO4VFDPtD6BytHO`
+Snapshot ID: `AAAAAA6cYZBFSWUpwMhAMYID/5GMJR9N`

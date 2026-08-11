@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:4QVnoNeoWQkbb9oOG4Ce2f">Gloorp</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,304 likes - 71 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,329 likes - 71 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 70 | [Camera Obscura](https://open.spotify.com/track/0Vmoym2CBIOgh9cgTgwiz5) | [Cancer House](https://open.spotify.com/artist/5h90IG7NOZURivxPGkr6Lb) | [Camera Obscura](https://open.spotify.com/album/071b4K2GnPXsrrdmBvVbzf) | 4:09 |
 | 71 | [Walk Away](https://open.spotify.com/track/5qVqO95bAKrSAXr7syJDA5) | [The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore](https://open.spotify.com/artist/583rGXTlkvSQmtB2kKpfRW), [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv), [Róisín Berkeley](https://open.spotify.com/artist/4C6Sd5wUcSapvGV3sbZoCG), [Cal Fish](https://open.spotify.com/artist/1BeMy964YqmvTvsHtPdDwl), [K\. Francis Messer](https://open.spotify.com/artist/7oUoOBTfEgkgoHGsid1vN5) | [The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore](https://open.spotify.com/album/2GlAK5ZGWlzIzvLv1XSIoZ) | 2:40 |
 
-Snapshot ID: `AAAAAP0OTEwuxIyG6GRsKGPcUCeYR5O6`
+Snapshot ID: `AAAAAFUvlvCWCcaP6+8G3TdkQ0WeB0nZ`

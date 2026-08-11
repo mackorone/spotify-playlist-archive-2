@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 40035,
+  "num_followers": 40039,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAMXJBX8h+JykuczVV0CItv",
+  "snapshot_id": "anfDAAAAAABNQUiu9ka00I54R0TMuPbq",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Period (We Live)",
+      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "4 1 Nite",
         "url": "https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 205296,
       "name": "4 1 Nite",
       "url": "https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Period (We Live)",
-      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,524 likes - 94 songs - 4 hr 10 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,519 likes - 94 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 93 | [Be Somewhere](https://open.spotify.com/track/7IddP0tIBe0Hh9oCYdtuyX) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv) | [Be Somewhere](https://open.spotify.com/album/19MWoDnXbNGz6hg1RL4Kuw) | 2:38 |
 | 94 | [No Me Canso \- Radio Mix](https://open.spotify.com/track/0boGSpPJPJy6Ugvu6a9n9K) | [SOMOS \(CH\)](https://open.spotify.com/artist/3CpCDugRWHfnYiufWFVtKD) | [No Me Canso](https://open.spotify.com/album/2IhpOEsTpdcO9XiiTccfTC) | 3:52 |
 
-Snapshot ID: `AAAmBBjwxaOx3ZHqo8lZz7j+kB+WLfRA`
+Snapshot ID: `AAAmBwVUw9HcAMcV6km/e/hZezRyp6nX`

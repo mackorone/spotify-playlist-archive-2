@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 700745,
+  "num_followers": 700828,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIjm/4TgnlB5a8gvKhqlnK9TPYxS",
+  "snapshot_id": "AAAAANt5BenFL1cRQnSEq4IyRo22ccS5",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt"
     },
     {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "A Storm In Heaven (Remastered 2016 / Deluxe)",
-        "url": "https://open.spotify.com/album/02hoMMI8uT38gkU2mJN10t"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 243453,
-      "name": "Slide Away - Remastered 2016",
-      "url": "https://open.spotify.com/track/0Sr9uJqXFAvqHcgwg3UjY5"
-    },
-    {
       "added_at": "2024-08-19 20:51:16",
       "album": {
         "name": "Ozean",
@@ -311,6 +295,22 @@
       "duration_ms": 307760,
       "name": "Porcelain",
       "url": "https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "A Storm In Heaven (Remastered 2016 / Deluxe)",
+        "url": "https://open.spotify.com/album/02hoMMI8uT38gkU2mJN10t"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 243453,
+      "name": "Slide Away - Remastered 2016",
+      "url": "https://open.spotify.com/track/0Sr9uJqXFAvqHcgwg3UjY5"
     },
     {
       "added_at": "2024-10-15 03:39:28",
@@ -547,18 +547,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "B-Sides & Rarities",
-        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
+        "name": "m b v",
+        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 249013,
-      "name": "Wax and Wane - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
+      "duration_ms": 330906,
+      "name": "in another way",
+      "url": "https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -579,18 +579,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "m b v",
-        "url": "https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a"
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 330906,
-      "name": "in another way",
-      "url": "https://open.spotify.com/track/06G8mgjP4x4q4ctddKbSNe"
+      "duration_ms": 249013,
+      "name": "Wax and Wane - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t"
     },
     {
       "added_at": "2023-10-19 18:31:49",
@@ -627,6 +627,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Mindfullness",
         "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 237133,
       "name": "Zero Day",
       "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -707,18 +707,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Pure Mood",
-        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
       },
       "artists": [
         {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
         }
       ],
-      "duration_ms": 259957,
-      "name": "Stare at the Sun",
-      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
+      "duration_ms": 257519,
+      "name": "Only Shallow",
+      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
     },
     {
       "added_at": "2024-10-15 03:39:28",
@@ -739,18 +739,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Loveless",
-        "url": "https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6"
+        "name": "Pure Mood",
+        "url": "https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
         }
       ],
-      "duration_ms": 257519,
-      "name": "Only Shallow",
-      "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
+      "duration_ms": 259957,
+      "name": "Stare at the Sun",
+      "url": "https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Slowdive",
-        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 270918,
-      "name": "Sugar for the Pill",
-      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Heaven Or Las Vegas (Remastered)",
         "url": "https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Slowdive",
+        "url": "https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 270918,
+      "name": "Sugar for the Pill",
+      "url": "https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "Winks & Kisses: Melted",
+        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
+      },
+      "artists": [
+        {
+          "name": "Airiel",
+          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
+        }
+      ],
+      "duration_ms": 566466,
+      "name": "In Your Room",
+      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Blue Line Baby",
         "url": "https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "Lazuli",
-      "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Bout des doigts",
         "url": "https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 426331,
       "name": "Bout des doigts",
       "url": "https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1363,6 +1379,22 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 318800,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo"
       },
@@ -1391,22 +1423,6 @@
       "duration_ms": 204373,
       "name": "Dark Spring",
       "url": "https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1523,8 +1539,8 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Winks & Kisses: Melted",
-        "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
+        "name": "Molten Young Lovers",
+        "url": "https://open.spotify.com/album/5ZyewodnhW2uWCuNH83gP7"
       },
       "artists": [
         {
@@ -1532,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
         }
       ],
-      "duration_ms": 566466,
-      "name": "In Your Room",
-      "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+      "duration_ms": 279747,
+      "name": "Molten Young Lovers",
+      "url": "https://open.spotify.com/track/5uu6X7Fs4fkoKSRo7zDXAf"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Molten Young Lovers",
-        "url": "https://open.spotify.com/album/5ZyewodnhW2uWCuNH83gP7"
-      },
-      "artists": [
-        {
-          "name": "Airiel",
-          "url": "https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1"
-        }
-      ],
-      "duration_ms": 279747,
-      "name": "Molten Young Lovers",
-      "url": "https://open.spotify.com/track/5uu6X7Fs4fkoKSRo7zDXAf"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Love Comes In Waves",
         "url": "https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Les voyages de l'\u00e2me",
-        "url": "https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 350320,
-      "name": "Autre temps",
-      "url": "https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Staring At The Sun",
         "url": "https://open.spotify.com/album/3vANqWkHEdIeiuTgqFYikr"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 447998,
       "name": "Staring At The Sun",
       "url": "https://open.spotify.com/track/3XtFDis6KnAOopdjnUmI1k"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Les voyages de l'\u00e2me",
+        "url": "https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 350320,
+      "name": "Autre temps",
+      "url": "https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Shelter (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC"
-      },
-      "artists": [
-        {
-          "name": "Alcest",
-          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
-        }
-      ],
-      "duration_ms": 390026,
-      "name": "Into the Waves",
-      "url": "https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Mild Orange",
         "url": "https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 251142,
       "name": "One",
       "url": "https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Shelter (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC"
+      },
+      "artists": [
+        {
+          "name": "Alcest",
+          "url": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+        }
+      ],
+      "duration_ms": 390026,
+      "name": "Into the Waves",
+      "url": "https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7"
     },
     {
       "added_at": "2021-06-03 02:39:04",

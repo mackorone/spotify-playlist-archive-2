@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,704 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,706 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 19 | [THE LIVING](https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:48 |
 | 20 | [Earthquake \(feat\. Tinie Tempah\)](https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:34 |
 | 21 | [Losers](https://open.spotify.com/track/1bAvtmTl0F9loyz9AwPwp7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:41 |
-| 22 | [ALL OR NOTHING](https://open.spotify.com/track/3L8pWfEVmI8fQAUUmuJ8HH) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [ALL OR NOTHING](https://open.spotify.com/album/0y9qgjT1lCYhDzdyKIK0Vz) | 3:17 |
-| 23 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 |
+| 22 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 |
+| 23 | [ALL OR NOTHING](https://open.spotify.com/track/3L8pWfEVmI8fQAUUmuJ8HH) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [ALL OR NOTHING](https://open.spotify.com/album/0y9qgjT1lCYhDzdyKIK0Vz) | 3:17 |
 | 24 | [No Ordinary](https://open.spotify.com/track/5GSKLdbgKfoOmZxgwUKBEp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [No Ordinary](https://open.spotify.com/album/67TMvbWsbRX8mhZVxJJoYu) | 3:04 |
 | 25 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 |
 | 26 | [Kill For Your Love](https://open.spotify.com/track/3VPmBxNTm36Fmz8lSU4dgA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:11 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 44 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
 | 45 | [What Would You Want Me To Be](https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 0:53 |
 | 46 | [Like A Movie](https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:20 |
-| 47 | [THE MOOD IS IN](https://open.spotify.com/track/2gMT37vNGzYWxep10LXvgu) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:10 |
+| 47 | [Let the Sun Shine](https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 2:59 |
 | 48 | [Elliot's Song \(with Dominic Fike, Zendaya & Labrinth\)](https://open.spotify.com/track/5BjcI61j62j5lDmJowxcRG) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:30 |
-| 49 | [Let the Sun Shine](https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 2:59 |
-| 50 | [Sexy MF](https://open.spotify.com/track/497zOKCyTyQONJJnlHgsLp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 2:58 |
+| 49 | [THE MOOD IS IN](https://open.spotify.com/track/2gMT37vNGzYWxep10LXvgu) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:10 |
+| 50 | [Benji Puts His Mum To Rest](https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:09 |
 
-Snapshot ID: `anZxgAAAAAAZklvkpHdEu5zVY9gSE/rz`
+Snapshot ID: `anfDAAAAAAAU8x3AmtJAaAu+ELLSeOft`

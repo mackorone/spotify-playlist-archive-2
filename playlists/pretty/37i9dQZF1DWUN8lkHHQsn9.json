@@ -1,63 +1,111 @@
 {
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:4D2PCg640w5R8SGfAlO2ZR\">Kuba Kamik</a>",
-  "num_followers": 42254,
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:2utOsBf2Kzg9lYHKSMxClB\">duszno</a>",
+  "num_followers": 42252,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOEc2ByUJPY+/9WrLbOx9GEhZHqK",
+  "snapshot_id": "AAAAANc8QIwQlnNnXuZKfYfS4Mt7MqMh",
   "tracks": [
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Greatest Hits: Side A+B",
-        "url": "https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze"
+        "name": "zosta\u0144/wyjd\u017a",
+        "url": "https://open.spotify.com/album/54HXHeIDjOU8wbcbHXudBz"
       },
       "artists": [
         {
-          "name": "Kuba Kamik",
-          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+          "name": "duszno",
+          "url": "https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB"
         }
       ],
-      "duration_ms": 121399,
-      "name": "Miliony monet",
-      "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
+      "duration_ms": 238000,
+      "name": "10 mieczy",
+      "url": "https://open.spotify.com/track/7kf7gulETpZkOubCt7D7pA"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "TRYSK",
-        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
+        "name": "Jak si\u0119 masz?",
+        "url": "https://open.spotify.com/album/7tVBD8s3hArTYpLBr5WLlH"
       },
       "artists": [
         {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
         }
       ],
-      "duration_ms": 177454,
-      "name": "noktowizja",
-      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
+      "duration_ms": 153882,
+      "name": "Jak si\u0119 masz?",
+      "url": "https://open.spotify.com/track/2v47bRt43uKCgSz4S0A6eF"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Back To Your Hands",
-        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
+        "name": "LA LA LAND",
+        "url": "https://open.spotify.com/album/5D2XdawNntHAOkK8VFnJfQ"
       },
       "artists": [
         {
-          "name": "Kuba Szmajkowsky",
-          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
         }
       ],
-      "duration_ms": 171840,
-      "name": "Back To Your Hands",
-      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
+      "duration_ms": 154285,
+      "name": "LA LA LAND",
+      "url": "https://open.spotify.com/track/4OX9vHNy02Gl84Z883WdZ7"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/08UhSt1OaxZEv9V23g5GsD"
+      },
+      "artists": [
+        {
+          "name": "Metrosexual",
+          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
+        }
+      ],
+      "duration_ms": 154253,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/1mIcjUXRuiRQ7zOzVDMmlb"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "bluszcz",
+        "url": "https://open.spotify.com/album/5PZVZel52lYMuQPxqIinSd"
+      },
+      "artists": [
+        {
+          "name": "duszno",
+          "url": "https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB"
+        }
+      ],
+      "duration_ms": 241956,
+      "name": "bluszcz",
+      "url": "https://open.spotify.com/track/2UDTN3M3bqsqSNlxkT0ju5"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Maj",
+        "url": "https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szpak",
+          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Maj",
+      "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "GEJSZA",
         "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
@@ -77,39 +125,7 @@
       "url": "https://open.spotify.com/track/2kmLfIZzgWmizrH7RRpWEG"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Stajla",
-        "url": "https://open.spotify.com/album/6ziHSwaa72BUbYNutwb7yb"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kamik",
-          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
-        }
-      ],
-      "duration_ms": 153640,
-      "name": "Stajla",
-      "url": "https://open.spotify.com/track/6u95IX99Ja1hnkZof2LRvS"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Byle Byc Soba",
-        "url": "https://open.spotify.com/album/4oovLkp7aFDvOgcwvVp9xR"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Szpak",
-          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Color Of Your Life",
-      "url": "https://open.spotify.com/track/1zBK0FGAcAGCxAxO6jC680"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "MASZ MNIE ZA BOGA",
         "url": "https://open.spotify.com/album/7vLiCgonps2lraCtf124HB"
@@ -125,23 +141,7 @@
       "url": "https://open.spotify.com/track/5f3jwVvfeTj0CbZ6iIEEk4"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "404",
-        "url": "https://open.spotify.com/album/6MQmlUGFHfjQLhoPsjizvJ"
-      },
-      "artists": [
-        {
-          "name": "Metrosexual",
-          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
-        }
-      ],
-      "duration_ms": 178859,
-      "name": "404",
-      "url": "https://open.spotify.com/track/2a8EQPYgTe27hg4SYTao02"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "disco polo",
         "url": "https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P"
@@ -157,10 +157,42 @@
       "url": "https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Maj",
-        "url": "https://open.spotify.com/album/5t6RWqzhLlxAKSUNxnfDpi"
+        "name": "TRYSK",
+        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 177454,
+      "name": "noktowizja",
+      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "DENS MA SENS",
+        "url": "https://open.spotify.com/album/4SpP4bS2qd8HnozpPonNGC"
+      },
+      "artists": [
+        {
+          "name": "QueenKutee",
+          "url": "https://open.spotify.com/artist/5eqHDE9r1yrBnr3kPAu96H"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Moje Baby",
+      "url": "https://open.spotify.com/track/1E93HVgzjDuJYuzAMQuUoQ"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Byle Byc Soba",
+        "url": "https://open.spotify.com/album/4oovLkp7aFDvOgcwvVp9xR"
       },
       "artists": [
         {
@@ -168,44 +200,12 @@
           "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Maj",
-      "url": "https://open.spotify.com/track/49nxyMFjZAk59XqxFsToG1"
+      "duration_ms": 200266,
+      "name": "Color Of Your Life",
+      "url": "https://open.spotify.com/track/1zBK0FGAcAGCxAxO6jC680"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "W aucie",
-        "url": "https://open.spotify.com/album/14VThkaHamH78y9ANMmSQt"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kamik",
-          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
-        }
-      ],
-      "duration_ms": 120213,
-      "name": "W aucie",
-      "url": "https://open.spotify.com/track/1VlU2dRJWoyl12tQTm8l49"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "bluszcz",
-        "url": "https://open.spotify.com/album/5PZVZel52lYMuQPxqIinSd"
-      },
-      "artists": [
-        {
-          "name": "duszno",
-          "url": "https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB"
-        }
-      ],
-      "duration_ms": 241956,
-      "name": "bluszcz",
-      "url": "https://open.spotify.com/track/2UDTN3M3bqsqSNlxkT0ju5"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "GEJSZA",
         "url": "https://open.spotify.com/album/6KsYGi1glRMS3AsAvSAJNl"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/1f5HTAc76fgz4rMcs6dmKv"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Inny",
         "url": "https://open.spotify.com/album/4NnGDciJnY0amspOhznLX3"
@@ -241,23 +241,7 @@
       "url": "https://open.spotify.com/track/13Piq3mRqhDFClyldq9WiO"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/10xU2nl6AkMyJjNa3b2KKF"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Szpak",
-          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1QUIYd2UZoORMwvkSWW3XJ"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "PORTO",
         "url": "https://open.spotify.com/album/67Xlepgco8TLDEqBMFZqdn"
@@ -273,7 +257,7 @@
       "url": "https://open.spotify.com/track/2yC6IrXdV3w6AaReClZIMY"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "D\u0141UGIE DNI",
         "url": "https://open.spotify.com/album/35R529Z8lWdqa7FrHzJQWk"
@@ -289,7 +273,23 @@
       "url": "https://open.spotify.com/track/5H080nlebE9JWI4Ps2HdTS"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/10xU2nl6AkMyJjNa3b2KKF"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Szpak",
+          "url": "https://open.spotify.com/artist/4YT4KZPvKUyqgSgtXAJeS4"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1QUIYd2UZoORMwvkSWW3XJ"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "obudz\u0119 si\u0119",
         "url": "https://open.spotify.com/album/1uNHGwRDHRgGRRmksWrI0P"
@@ -305,42 +305,26 @@
       "url": "https://open.spotify.com/track/4I7UxH2Ad8XIZvbb0NQVKv"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Zapomniana Twarz",
-        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
+        "name": "Greatest Hits: Side A+B",
+        "url": "https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze"
       },
       "artists": [
         {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Zapomniana Twarz",
-      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+      "duration_ms": 121399,
+      "name": "Miliony monet",
+      "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Tent (145BPM)",
-        "url": "https://open.spotify.com/album/0ZTYYldfr7bI6F2DgGghlc"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 141677,
-      "name": "Tent - 145BPM",
-      "url": "https://open.spotify.com/track/5os2WyV8sSqTSJiMOM3nGl"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ"
+        "name": "Back To Your Hands",
+        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
       },
       "artists": [
         {
@@ -348,12 +332,12 @@
           "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
         }
       ],
-      "duration_ms": 165517,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt"
+      "duration_ms": 171840,
+      "name": "Back To Your Hands",
+      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "MOJA EUFORIA EP",
         "url": "https://open.spotify.com/album/0ZXYNAqajYjAA72rD7zH0p"
@@ -369,7 +353,39 @@
       "url": "https://open.spotify.com/track/3rPP9H74E3MI6Qo49lNhwP"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Zapomniana Twarz",
+        "url": "https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Zapomniana Twarz",
+      "url": "https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Tent (145BPM)",
+        "url": "https://open.spotify.com/album/0ZTYYldfr7bI6F2DgGghlc"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 141677,
+      "name": "Tent - 145BPM",
+      "url": "https://open.spotify.com/track/5os2WyV8sSqTSJiMOM3nGl"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Noc",
         "url": "https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf"
@@ -385,23 +401,23 @@
       "url": "https://open.spotify.com/track/3Rvhei9cM23epgbIi5TScc"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Zadzwo\u0144 do mnie",
-        "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ"
       },
       "artists": [
         {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
         }
       ],
-      "duration_ms": 136595,
-      "name": "Zadzwo\u0144 do mnie",
-      "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
+      "duration_ms": 165517,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Dance With The Devil",
         "url": "https://open.spotify.com/album/0ujpagBaZaBKnAnptcdHed"
@@ -417,23 +433,23 @@
       "url": "https://open.spotify.com/track/495SAEgFBafR5ecXnNGeoV"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Better Place",
-        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
+        "name": "Zadzwo\u0144 do mnie",
+        "url": "https://open.spotify.com/album/3jT18pGJZSFp1PWRtl1QgE"
       },
       "artists": [
         {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
         }
       ],
-      "duration_ms": 181823,
-      "name": "Better Place",
-      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+      "duration_ms": 136595,
+      "name": "Zadzwo\u0144 do mnie",
+      "url": "https://open.spotify.com/track/2ZYsPci35E3QVrUJatVKZE"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Peccatum",
         "url": "https://open.spotify.com/album/3sJ5DTKb39DwRXDqYu11EP"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/2qA1SscwLeJPC6qz4toLxq"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Uwaga (Id\u0119 do ciebie)",
         "url": "https://open.spotify.com/album/3Bpru250I9f4Ivaiy7rwkO"
@@ -469,39 +485,23 @@
       "url": "https://open.spotify.com/track/1QGztlW0fCUuYAlt7qixKE"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Ostatni Raz",
-        "url": "https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ"
+        "name": "Better Place",
+        "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
       },
       "artists": [
         {
-          "name": "MAJA",
-          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
         }
       ],
-      "duration_ms": 177341,
-      "name": "Ostatni Raz",
-      "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
+      "duration_ms": 181823,
+      "name": "Better Place",
+      "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Explozja",
-        "url": "https://open.spotify.com/album/54QrKE2qeUoQEpqZVRPzKv"
-      },
-      "artists": [
-        {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Explozja",
-      "url": "https://open.spotify.com/track/19jrg0zOmmSJcLUARHqF6x"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Kwiaty",
         "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
@@ -517,7 +517,39 @@
       "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Ostatni Raz",
+        "url": "https://open.spotify.com/album/1E6gAMILB2zNkRXAbiCykZ"
+      },
+      "artists": [
+        {
+          "name": "MAJA",
+          "url": "https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM"
+        }
+      ],
+      "duration_ms": 177341,
+      "name": "Ostatni Raz",
+      "url": "https://open.spotify.com/track/4N8DLJ3VXaAARk9NHlCoAV"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Explozja",
+        "url": "https://open.spotify.com/album/54QrKE2qeUoQEpqZVRPzKv"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Explozja",
+      "url": "https://open.spotify.com/track/19jrg0zOmmSJcLUARHqF6x"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "BOJ\u0118 SI\u0118",
         "url": "https://open.spotify.com/album/3Buzwi4LOfjQ9ziFS2M5qY"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/08aHfnN9msWri9j7H16rYe"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Train of Love",
         "url": "https://open.spotify.com/album/03opZZPaBxVxvipFNjDUUb"
@@ -573,27 +605,7 @@
       "url": "https://open.spotify.com/track/4Ci0gz2Q321BSRoTJDnm1I"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Kumple <3 (MAVOOI Remix)",
-        "url": "https://open.spotify.com/album/5jV78ocCcoimj6Am8rWKkU"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        },
-        {
-          "name": "MAVOOI",
-          "url": "https://open.spotify.com/artist/5v0vw1OfT1KHdGh80XT8lS"
-        }
-      ],
-      "duration_ms": 131661,
-      "name": "Kumple <3 - MAVOOI Remix",
-      "url": "https://open.spotify.com/track/2IzsajD0fEx4pITXTKt5J0"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Miasto wspomnie\u0144",
         "url": "https://open.spotify.com/album/73OMxD88DJE7maW9WpK6Pk"
@@ -609,7 +621,7 @@
       "url": "https://open.spotify.com/track/63m8HierHWgOsL98aymlgh"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Chodzili\u015bmy nocami",
         "url": "https://open.spotify.com/album/1TzeQF6yFHilcxCpMiqlRu"
@@ -629,7 +641,7 @@
       "url": "https://open.spotify.com/track/69uRisdCC3xO68sokXIo6U"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "ci\u0119\u017cki szmal",
         "url": "https://open.spotify.com/album/5dEbAIybdNTbS0ivPaK7Jp"
@@ -649,7 +661,7 @@
       "url": "https://open.spotify.com/track/1INz9FSfzPbCUiXBt2Qa3l"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/25nHYMN19qwn9Vd6bAcMs0"
@@ -669,27 +681,23 @@
       "url": "https://open.spotify.com/track/4lfKw5cYb0TCBipYFhwLyt"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Taki jak Ty",
-        "url": "https://open.spotify.com/album/3WSYsSYOesG13EXy9TQHaJ"
+        "name": "404",
+        "url": "https://open.spotify.com/album/6MQmlUGFHfjQLhoPsjizvJ"
       },
       "artists": [
         {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        },
-        {
-          "name": "Miko Blascello",
-          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+          "name": "Metrosexual",
+          "url": "https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb"
         }
       ],
-      "duration_ms": 160340,
-      "name": "Taki jak Ty",
-      "url": "https://open.spotify.com/track/0Hpz0cBBkDtYdjOUER9TbA"
+      "duration_ms": 178859,
+      "name": "404",
+      "url": "https://open.spotify.com/track/2a8EQPYgTe27hg4SYTao02"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Destroy Me, Today",
         "url": "https://open.spotify.com/album/3QUSazSeQvb4HsjkqIOtQ4"
@@ -705,7 +713,7 @@
       "url": "https://open.spotify.com/track/4mr8qzhUJ7PVPRJdoROaEI"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Oprawieni Idole",
         "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
@@ -721,7 +729,7 @@
       "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "KURDE FAJA",
         "url": "https://open.spotify.com/album/0hT4RZElYWWDHriF0LsDip"
@@ -741,27 +749,7 @@
       "url": "https://open.spotify.com/track/76jHUKFrFznUArEAUhvOrX"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "szczerze, mega mocne",
-        "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
-      },
-      "artists": [
-        {
-          "name": "Aleksander K\u0119pka",
-          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
-        },
-        {
-          "name": "Ghosty",
-          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
-        }
-      ],
-      "duration_ms": 153692,
-      "name": "szczerze, mega mocne",
-      "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Dance!",
         "url": "https://open.spotify.com/album/5eRN6g3cg6FJKOHh8Ev6hi"
@@ -781,7 +769,27 @@
       "url": "https://open.spotify.com/track/0T6N7HbshVqL42SyUydGWW"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Taki jak Ty",
+        "url": "https://open.spotify.com/album/3WSYsSYOesG13EXy9TQHaJ"
+      },
+      "artists": [
+        {
+          "name": "Norbert Wronka",
+          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
+        },
+        {
+          "name": "Miko Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+        }
+      ],
+      "duration_ms": 160340,
+      "name": "Taki jak Ty",
+      "url": "https://open.spotify.com/track/0Hpz0cBBkDtYdjOUER9TbA"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "8 piosenek o mi\u0142o\u015bci",
         "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
@@ -797,7 +805,27 @@
       "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "szczerze, mega mocne",
+        "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
+      },
+      "artists": [
+        {
+          "name": "Aleksander K\u0119pka",
+          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
+        },
+        {
+          "name": "Ghosty",
+          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
+        }
+      ],
+      "duration_ms": 153692,
+      "name": "szczerze, mega mocne",
+      "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Czerwone ledy",
         "url": "https://open.spotify.com/album/44uLZXwWxJ14wqJe6o8OD7"
@@ -813,7 +841,39 @@
       "url": "https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Lady Popular",
+        "url": "https://open.spotify.com/album/7fcDhdjJKUS25To6O7o871"
+      },
+      "artists": [
+        {
+          "name": "Bella \u0106wir",
+          "url": "https://open.spotify.com/artist/6OvHhxtifb9FdKtKlsgJUz"
+        }
+      ],
+      "duration_ms": 212846,
+      "name": "Drogie Ciuchy",
+      "url": "https://open.spotify.com/track/2ID6W7vsOptcxlmZLzTsML"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Mam co\u015b na bani",
+        "url": "https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 275299,
+      "name": "Mam co\u015b na bani",
+      "url": "https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "nocami, do \u015bwitu",
         "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
@@ -837,71 +897,7 @@
       "url": "https://open.spotify.com/track/62w0zy7AVdRHvgOZJM0C1K"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Lady Popular",
-        "url": "https://open.spotify.com/album/7fcDhdjJKUS25To6O7o871"
-      },
-      "artists": [
-        {
-          "name": "Bella \u0106wir",
-          "url": "https://open.spotify.com/artist/6OvHhxtifb9FdKtKlsgJUz"
-        }
-      ],
-      "duration_ms": 212846,
-      "name": "Drogie Ciuchy",
-      "url": "https://open.spotify.com/track/2ID6W7vsOptcxlmZLzTsML"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Mam co\u015b na bani",
-        "url": "https://open.spotify.com/album/0eXXm03YXNFZ6qM0DqjXni"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 275299,
-      "name": "Mam co\u015b na bani",
-      "url": "https://open.spotify.com/track/6OQcz9Z5GCBKyqGxKyHGra"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Tokio",
-        "url": "https://open.spotify.com/album/4WptZEWjg7e4fzWXSv2M6g"
-      },
-      "artists": [
-        {
-          "name": "Aleksander K\u0119pka",
-          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
-        }
-      ],
-      "duration_ms": 155859,
-      "name": "Tokio",
-      "url": "https://open.spotify.com/track/0ucQtQ5vAKFhYc2jw7Y2dp"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Redflag",
-        "url": "https://open.spotify.com/album/0XflPg1Qa2UR9dWV3wZg2s"
-      },
-      "artists": [
-        {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Redflag",
-      "url": "https://open.spotify.com/track/6R8q1aKY1brD36ZUiIhraf"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "S\u0105 domy, do kt\u00f3rych nie da si\u0119 wr\u00f3ci\u0107",
         "url": "https://open.spotify.com/album/187Rzrr6xreWkAMRLMZhWK"
@@ -917,7 +913,55 @@
       "url": "https://open.spotify.com/track/3EVixrZa0pAGaADt0NJy5T"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 196982,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Redflag",
+        "url": "https://open.spotify.com/album/0XflPg1Qa2UR9dWV3wZg2s"
+      },
+      "artists": [
+        {
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Redflag",
+      "url": "https://open.spotify.com/track/6R8q1aKY1brD36ZUiIhraf"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Tokio",
+        "url": "https://open.spotify.com/album/4WptZEWjg7e4fzWXSv2M6g"
+      },
+      "artists": [
+        {
+          "name": "Aleksander K\u0119pka",
+          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
+        }
+      ],
+      "duration_ms": 155859,
+      "name": "Tokio",
+      "url": "https://open.spotify.com/track/0ucQtQ5vAKFhYc2jw7Y2dp"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "origami (zagn\u0119)",
         "url": "https://open.spotify.com/album/3YJdN0DEP0XbZPoVPhKOrk"
@@ -937,23 +981,7 @@
       "url": "https://open.spotify.com/track/3vTEkL1YUUfnSn4iR3Gqe1"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 196982,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Vogule Poland",
         "url": "https://open.spotify.com/album/2Usg5a4KfUfcghVFNgtb11"
@@ -969,55 +997,7 @@
       "url": "https://open.spotify.com/track/4Bnl28oCgwo9ewBgQeA4Kv"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "maybe someday",
-        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
-      },
-      "artists": [
-        {
-          "name": "color blue",
-          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "maybe someday",
-      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Shyness!",
-        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
-      },
-      "artists": [
-        {
-          "name": "Shyness!",
-          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
-        }
-      ],
-      "duration_ms": 210581,
-      "name": "Stalker",
-      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
-      },
-      "artists": [
-        {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI"
@@ -1037,39 +1017,71 @@
       "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "SZAMPAN",
-        "url": "https://open.spotify.com/album/4JhxKvwGKXX0hfTyDrfTj3"
+        "name": "Stajla",
+        "url": "https://open.spotify.com/album/6ziHSwaa72BUbYNutwb7yb"
       },
       "artists": [
         {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
         }
       ],
-      "duration_ms": 204255,
-      "name": "SZAMPAN",
-      "url": "https://open.spotify.com/track/0wts90I1idvzrHPAr110vy"
+      "duration_ms": 153640,
+      "name": "Stajla",
+      "url": "https://open.spotify.com/track/6u95IX99Ja1hnkZof2LRvS"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
-        "name": "Red Flag",
-        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+        "name": "maybe someday",
+        "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
       },
       "artists": [
         {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+          "name": "color blue",
+          "url": "https://open.spotify.com/artist/4xnkAP7SRXVpNik1sc9Amd"
         }
       ],
-      "duration_ms": 168224,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
+      "duration_ms": 292000,
+      "name": "maybe someday",
+      "url": "https://open.spotify.com/track/54J49JuwN6GkJAm6K18Vjz"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Shyness!",
+        "url": "https://open.spotify.com/album/5zghhaw7NmCXcRcynyjkto"
+      },
+      "artists": [
+        {
+          "name": "Shyness!",
+          "url": "https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym"
+        }
+      ],
+      "duration_ms": 210581,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/4WfWLe6Cue04oXW7okQhgw"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Pani Baudelaire",
         "url": "https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6"
@@ -1085,7 +1097,39 @@
       "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Red Flag",
+        "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/7CaxmQCb4APvMLQaVJhCTR"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "SZAMPAN",
+        "url": "https://open.spotify.com/album/4JhxKvwGKXX0hfTyDrfTj3"
+      },
+      "artists": [
+        {
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "SZAMPAN",
+      "url": "https://open.spotify.com/track/0wts90I1idvzrHPAr110vy"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "sweet",
         "url": "https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB"
@@ -1101,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Czer\u0144",
         "url": "https://open.spotify.com/album/09c4Tv3ZmwsUZqPSG2sOFG"
@@ -1125,23 +1169,7 @@
       "url": "https://open.spotify.com/track/7vTpsYSIVBm4jZfQ1zUylm"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
-        "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
-      },
-      "artists": [
-        {
-          "name": "Kamil Hasselhoff",
-          "url": "https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9"
-        }
-      ],
-      "duration_ms": 164404,
-      "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
-      "url": "https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "bulletproof",
         "url": "https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m"
@@ -1157,7 +1185,23 @@
       "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
+        "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
+      },
+      "artists": [
+        {
+          "name": "Kamil Hasselhoff",
+          "url": "https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9"
+        }
+      ],
+      "duration_ms": 164404,
+      "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
+      "url": "https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "DRAG!",
         "url": "https://open.spotify.com/album/51LcBrPFFnEZ3nzZutsko8"
@@ -1177,7 +1221,7 @@
       "url": "https://open.spotify.com/track/3Vy4FBh39ntgHOlpEEmPNE"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "R\u00f3\u017ca",
         "url": "https://open.spotify.com/album/1DIiPl34Fbae4bvcrQ8RMr"
@@ -1201,23 +1245,7 @@
       "url": "https://open.spotify.com/track/6eMb3cPoLTEfa7u8w4TSrE"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "The Moon",
         "url": "https://open.spotify.com/album/1zagFHQjBkeYbAQBTfcbsU"
@@ -1237,7 +1265,39 @@
       "url": "https://open.spotify.com/track/0OE1ohr4hpGd7icsVJ8W8g"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "W aucie",
+        "url": "https://open.spotify.com/album/14VThkaHamH78y9ANMmSQt"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+        }
+      ],
+      "duration_ms": 120213,
+      "name": "W aucie",
+      "url": "https://open.spotify.com/track/1VlU2dRJWoyl12tQTm8l49"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Lwia Ska\u0142a",
         "url": "https://open.spotify.com/album/4qifmnXuuY9NVOcphuy1Cr"
@@ -1253,7 +1313,7 @@
       "url": "https://open.spotify.com/track/3BoUaFlHdlidP4l7ouMUrF"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Drawing a line (Kayax Talent Hunt)",
         "url": "https://open.spotify.com/album/3SqStLTIRhlus77GWfGCxd"
@@ -1269,7 +1329,7 @@
       "url": "https://open.spotify.com/track/1U5foAHovYGQqOjiQSrdrQ"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Poczt\u00f3wka z wakacji",
         "url": "https://open.spotify.com/album/1aGcXa2O61ytcoceh7xOu6"
@@ -1285,7 +1345,7 @@
       "url": "https://open.spotify.com/track/6SeSb3T7vLDxCueDJOTHQA"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "I_N_T_E_R_V_A_L_S",
         "url": "https://open.spotify.com/album/1lWe1UoaNbUi3074ATSOOk"
@@ -1305,7 +1365,7 @@
       "url": "https://open.spotify.com/track/699PNgLiQWfmcaFSO3dhFB"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Occultica",
         "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
@@ -1325,7 +1385,7 @@
       "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "warszawa",
         "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
@@ -1341,7 +1401,23 @@
       "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Deadfall",
+        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 263614,
+      "name": "Deadfall",
+      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Nice from Poland (DJ BLIK remix)",
         "url": "https://open.spotify.com/album/0Z2QjI0qvAwHOVbH2W7LIL"
@@ -1361,23 +1437,7 @@
       "url": "https://open.spotify.com/track/49NWBgKq5JxteqNIQ6IVhu"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Deadfall",
-        "url": "https://open.spotify.com/album/4ZKXU8IhV2iq3qUzmMRALn"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 263614,
-      "name": "Deadfall",
-      "url": "https://open.spotify.com/track/3JCRS3QDBI69OXYF5UAL7W"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Krasnoludki",
         "url": "https://open.spotify.com/album/2vzB4Y4Dopi4gHAbKxSfE3"
@@ -1401,23 +1461,7 @@
       "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "IV!II",
-        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 194418,
-      "name": "Mosty",
-      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
@@ -1433,7 +1477,23 @@
       "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "IV!II",
+        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 194418,
+      "name": "Mosty",
+      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "usa",
         "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
@@ -1453,23 +1513,7 @@
       "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Pies na dw\u00f3ch \u0142apach",
-        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
-      },
-      "artists": [
-        {
-          "name": "Rejsel",
-          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
-        }
-      ],
-      "duration_ms": 219347,
-      "name": "Pies na dw\u00f3ch \u0142apach",
-      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
         "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
@@ -1489,7 +1533,23 @@
       "url": "https://open.spotify.com/track/4VXuZpGJlLgh9UCqQtBbGU"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Pies na dw\u00f3ch \u0142apach",
+        "url": "https://open.spotify.com/album/7oLtFXZnMptCi3JAwOBUxs"
+      },
+      "artists": [
+        {
+          "name": "Rejsel",
+          "url": "https://open.spotify.com/artist/5AJmpeCmtxFKcNY6bjotWd"
+        }
+      ],
+      "duration_ms": 219347,
+      "name": "Pies na dw\u00f3ch \u0142apach",
+      "url": "https://open.spotify.com/track/0Er1O1nOdQKUimUELrZ4Ec"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
@@ -1505,39 +1565,7 @@
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "b\u0105d\u017a g\u0142o\u015bno",
-        "url": "https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr"
-      },
-      "artists": [
-        {
-          "name": "NATE",
-          "url": "https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "b\u0105d\u017a g\u0142o\u015bno",
-      "url": "https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "nocami, do \u015bwitu",
-        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
-      },
-      "artists": [
-        {
-          "name": "villaz",
-          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "ciszej",
-      "url": "https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Born Like That",
         "url": "https://open.spotify.com/album/722UKDfrfO8MTByuk9I2oE"
@@ -1553,7 +1581,39 @@
       "url": "https://open.spotify.com/track/48Ar2VGFtVUglcn8UFkVM3"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "b\u0105d\u017a g\u0142o\u015bno",
+        "url": "https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr"
+      },
+      "artists": [
+        {
+          "name": "NATE",
+          "url": "https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "b\u0105d\u017a g\u0142o\u015bno",
+      "url": "https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "nocami, do \u015bwitu",
+        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
+      },
+      "artists": [
+        {
+          "name": "villaz",
+          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "ciszej",
+      "url": "https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "PO POR\u0118CZY",
         "url": "https://open.spotify.com/album/2kzYY3CFa9s0ZWJCHKuPA7"
@@ -1569,7 +1629,23 @@
       "url": "https://open.spotify.com/track/7HMJn6ylfRzwEaK6zGs7sz"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Doskonale",
+        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
+      },
+      "artists": [
+        {
+          "name": "DIMoN",
+          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Drap mnie",
+      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "glorious",
         "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
@@ -1585,7 +1661,7 @@
       "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "Kochany pami\u0119tniku",
         "url": "https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL"
@@ -1601,7 +1677,23 @@
       "url": "https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
+      "album": {
+        "name": "Go Ahead",
+        "url": "https://open.spotify.com/album/2UwcLxssNdV9cSHh5fY1cT"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 260125,
+      "name": "Go Ahead",
+      "url": "https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh"
+    },
+    {
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "rom-com",
         "url": "https://open.spotify.com/album/5dXJyDYM8eXKRkAZYerKf8"
@@ -1621,23 +1713,7 @@
       "url": "https://open.spotify.com/track/0yRWI0NaGJKuRfFvQPXW1n"
     },
     {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Doskonale",
-        "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
-      },
-      "artists": [
-        {
-          "name": "DIMoN",
-          "url": "https://open.spotify.com/artist/6dxSlnodoLHLVoeiQ602RM"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Drap mnie",
-      "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
+      "added_at": "2026-08-10 22:00:35",
       "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/1EAHV7js1kKeadDWMPX0lr"
@@ -1651,86 +1727,6 @@
       "duration_ms": 205038,
       "name": "April I",
       "url": "https://open.spotify.com/track/6lJm9RWKS4SlaPGkbKfZOb"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Go Ahead",
-        "url": "https://open.spotify.com/album/2UwcLxssNdV9cSHh5fY1cT"
-      },
-      "artists": [
-        {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
-        }
-      ],
-      "duration_ms": 260125,
-      "name": "Go Ahead",
-      "url": "https://open.spotify.com/track/3SD7EAwqjn3xNs1i6rxzJh"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Panienka",
-        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 169063,
-      "name": "Panienka",
-      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "o smutnych ludziach",
-        "url": "https://open.spotify.com/album/5UMxjPRWqpHWjceBhznKop"
-      },
-      "artists": [
-        {
-          "name": "Norbert Wronka",
-          "url": "https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq"
-        }
-      ],
-      "duration_ms": 157621,
-      "name": "piosenka o smutnych ludziach",
-      "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Chwila",
-        "url": "https://open.spotify.com/album/6eZDRKtNj3UI3TOkWI7LTt"
-      },
-      "artists": [
-        {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
-        }
-      ],
-      "duration_ms": 364893,
-      "name": "Chwila",
-      "url": "https://open.spotify.com/track/2Vz2OhuJWd1Pgn817daXWr"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 167642,
-      "name": "Hikikomori",
-      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
     }
   ],
   "unique_name": "GLOW Polska",

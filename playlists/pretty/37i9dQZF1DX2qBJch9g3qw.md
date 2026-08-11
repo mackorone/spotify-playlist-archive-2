@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,910 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,984 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 52 | [Over & Done](https://open.spotify.com/track/0fjO41F0zhpJaLp7GEvMON) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Carrie.](https://open.spotify.com/artist/7d1YYFPCWI2xsrZHa7U9Md) | [Over & Done](https://open.spotify.com/album/3xuOAlopCvFZtJanfT0ab3) | 3:22 |
 | 53 | [Anything I Can Do](https://open.spotify.com/track/6Q4f0uA2xOfsUAIr3PVsLT) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Anything I Can Do](https://open.spotify.com/album/08iTGcRERloSYCNf6X7ejn) | 3:30 |
 | 54 | [vinland](https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [XONGZ አስቀያሚ ጡብ](https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC) | 2:49 |
-| 55 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |
-| 56 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
+| 55 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
+| 56 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |
 | 57 | [mileys riddim](https://open.spotify.com/track/22tPhE4Osvl0LGnKrjNCIR) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 1:59 |
 | 58 | [In the Morning](https://open.spotify.com/track/3pRyeZCIGdaO84RSBj9Bj7) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 4:06 |
 | 59 | [it all ends with us](https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [it all ends with us](https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J) | 3:46 |
 | 60 | [Imperfect Me](https://open.spotify.com/track/2C5M5oQOLjaTiBAInYxEty) | [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI) | [Imperfect Me](https://open.spotify.com/album/4Du59lDEB6pAv7B89QNtx4) | 3:54 |
 
-Snapshot ID: `AAAAABxnCyRH+xjQesCp3DojrJtwF/3+`
+Snapshot ID: `AAAAAHQ511bjA0QBPk3RPfCrsVOD0PX4`

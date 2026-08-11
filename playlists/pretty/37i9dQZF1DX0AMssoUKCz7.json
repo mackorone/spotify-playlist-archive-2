@@ -1,12 +1,12 @@
 {
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
-  "num_followers": 2351538,
+  "num_followers": 2351566,
   "original_name": "Tropical House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbBifTzfswESxsYjyX+VckrCZ3V",
+  "snapshot_id": "AAAAAHX01gsGcCoqdp0Uuy0kEQRM3xuc",
   "tracks": [
     {
       "added_at": "2026-07-10 04:00:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Sunbeams",
-        "url": "https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 147125,
-      "name": "Sunbeams",
-      "url": "https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Are You With Me",
         "url": "https://open.spotify.com/album/63zsZVaIMUW10wP6QanS42"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 138013,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/39QlSLkqq5shnpAXchT9sI"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Sunbeams",
+        "url": "https://open.spotify.com/album/3GKSanPZhzbDXOgo9dY3pY"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 147125,
+      "name": "Sunbeams",
+      "url": "https://open.spotify.com/track/16hV7KbASg4EWoEymJerRA"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
-      },
-      "artists": [
-        {
-          "name": "Paratone",
-          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 184269,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ"
+      },
+      "artists": [
+        {
+          "name": "Paratone",
+          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
+        }
+      ],
+      "duration_ms": 161053,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -871,6 +871,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4R8nylnqxlRvNO564YLyHx"
+      },
+      "artists": [
+        {
+          "name": "Zwette",
+          "url": "https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0"
+        },
+        {
+          "name": "Julian Perretta",
+          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0T26riswexwPY9w3UCMwYE"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "This Town",
         "url": "https://open.spotify.com/album/3iD7lKMiEbUtBELwzd21fa"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 186240,
       "name": "This Town",
       "url": "https://open.spotify.com/track/3yLHOpxiff47oc9AKZSCT7"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4R8nylnqxlRvNO564YLyHx"
-      },
-      "artists": [
-        {
-          "name": "Zwette",
-          "url": "https://open.spotify.com/artist/6J2749jPHYhAZUq79rsNi0"
-        },
-        {
-          "name": "Julian Perretta",
-          "url": "https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0T26riswexwPY9w3UCMwYE"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -971,6 +971,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Ain't Nobody (Loves Me Better)",
+        "url": "https://open.spotify.com/album/3NC0WEl19sJosOSW0812Iw"
+      },
+      "artists": [
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 186146,
+      "name": "Ain't Nobody (Loves Me Better)",
+      "url": "https://open.spotify.com/track/3vbqb78xzvD3CJl7ZeW83c"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Promised Land",
         "url": "https://open.spotify.com/album/1tDGyFigNB5DaBFJepjvho"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 168830,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/7vFdMady6yRx1qxCwselLU"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Ain't Nobody (Loves Me Better)",
-        "url": "https://open.spotify.com/album/3NC0WEl19sJosOSW0812Iw"
-      },
-      "artists": [
-        {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 186146,
-      "name": "Ain't Nobody (Loves Me Better)",
-      "url": "https://open.spotify.com/track/3vbqb78xzvD3CJl7ZeW83c"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Born To Live",
-        "url": "https://open.spotify.com/album/54GJRvqh75FJ2qFOwkzeUP"
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/1XAgJUhSywGwTkIvnlWMA4"
       },
       "artists": [
         {
-          "name": "Gavin Moss",
-          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
         }
       ],
-      "duration_ms": 131124,
-      "name": "Born To Live",
-      "url": "https://open.spotify.com/track/3oG69Y9bPTQJp4M3U5KKNg"
+      "duration_ms": 192000,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/5DecOfC0Nx3wI4kMdHVtEF"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Milkshake",
-        "url": "https://open.spotify.com/album/1XAgJUhSywGwTkIvnlWMA4"
+        "name": "Born To Live",
+        "url": "https://open.spotify.com/album/54GJRvqh75FJ2qFOwkzeUP"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Milkshake",
-      "url": "https://open.spotify.com/track/5DecOfC0Nx3wI4kMdHVtEF"
+      "duration_ms": 131124,
+      "name": "Born To Live",
+      "url": "https://open.spotify.com/track/3oG69Y9bPTQJp4M3U5KKNg"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "What You Know",
-        "url": "https://open.spotify.com/album/2tohUWi1yiCdaDnoziBWqd"
-      },
-      "artists": [
-        {
-          "name": "KHEMIS",
-          "url": "https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d"
-        },
-        {
-          "name": "BNHM",
-          "url": "https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/5nh2uDBGukTzGo1vanSpaK"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "more than love (Sofi Tukker remix)",
         "url": "https://open.spotify.com/album/79Ef4CPEwN61hMhqvm9Y3c"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 333447,
       "name": "more than love - Sofi Tukker remix",
       "url": "https://open.spotify.com/track/0CICivRwFKqLs5oiBLYicx"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "What You Know",
+        "url": "https://open.spotify.com/album/2tohUWi1yiCdaDnoziBWqd"
+      },
+      "artists": [
+        {
+          "name": "KHEMIS",
+          "url": "https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d"
+        },
+        {
+          "name": "BNHM",
+          "url": "https://open.spotify.com/artist/5Dbey2rYHmx0fZWywHiO2N"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/5nh2uDBGukTzGo1vanSpaK"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Valerie",
+        "url": "https://open.spotify.com/album/3CgcOXkTjAIFyq6qdhYlKD"
+      },
+      "artists": [
+        {
+          "name": "Paratone",
+          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
+        }
+      ],
+      "duration_ms": 118938,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/5F30EhA6VJC1Wzfux39cvE"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 174915,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3UoBVAvz3TvsJCvNDxAJtB"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Valerie",
-        "url": "https://open.spotify.com/album/3CgcOXkTjAIFyq6qdhYlKD"
-      },
-      "artists": [
-        {
-          "name": "Paratone",
-          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
-        }
-      ],
-      "duration_ms": 118938,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/7xeHe1pElnsyrZX9N4dsEK"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Money Trees",
-        "url": "https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP"
-      },
-      "artists": [
-        {
-          "name": "Phil Soda",
-          "url": "https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O"
-        },
-        {
-          "name": "Lucas Ariel",
-          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Only For The Better",
         "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
       },
@@ -1743,26 +1723,38 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "What I Have with You",
-        "url": "https://open.spotify.com/album/4oF9Rn6kXH0uYmYQrlEsK6"
+        "name": "Money Trees",
+        "url": "https://open.spotify.com/album/23bqeyhRwGWrVJEJ00KXDP"
       },
       "artists": [
         {
-          "name": "SRTW",
-          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+          "name": "Phil Soda",
+          "url": "https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O"
         },
         {
-          "name": "Noile",
-          "url": "https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9"
-        },
-        {
-          "name": "kaii",
-          "url": "https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye"
+          "name": "Lucas Ariel",
+          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
         }
       ],
-      "duration_ms": 142499,
-      "name": "What I Have with You",
-      "url": "https://open.spotify.com/track/76yso71etUd9iGbm1tqR0a"
+      "duration_ms": 166093,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/5I7P6BcKa3CLI5tC91Ee5p"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Somewhere In The Stars",
+        "url": "https://open.spotify.com/album/4HLrHI5MTqPbn8ye9pYwDY"
+      },
+      "artists": [
+        {
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+        }
+      ],
+      "duration_ms": 120975,
+      "name": "Somewhere In The Stars",
+      "url": "https://open.spotify.com/track/1AM4zsHEqqKS4VIPfvh5U0"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1791,18 +1783,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Somewhere In The Stars",
-        "url": "https://open.spotify.com/album/4HLrHI5MTqPbn8ye9pYwDY"
+        "name": "What I Have with You",
+        "url": "https://open.spotify.com/album/4oF9Rn6kXH0uYmYQrlEsK6"
       },
       "artists": [
         {
-          "name": "KNJA",
-          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+          "name": "SRTW",
+          "url": "https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD"
+        },
+        {
+          "name": "Noile",
+          "url": "https://open.spotify.com/artist/0KjXAq0C0q9edx9triuYi9"
+        },
+        {
+          "name": "kaii",
+          "url": "https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye"
         }
       ],
-      "duration_ms": 120975,
-      "name": "Somewhere In The Stars",
-      "url": "https://open.spotify.com/track/1AM4zsHEqqKS4VIPfvh5U0"
+      "duration_ms": 142499,
+      "name": "What I Have with You",
+      "url": "https://open.spotify.com/track/76yso71etUd9iGbm1tqR0a"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1847,22 +1847,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0ZOMiz7Hn2kTUAoQxy6bRW"
+        "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+        "url": "https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH"
       },
       "artists": [
         {
-          "name": "Brazil XXI",
-          "url": "https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR"
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
         },
         {
-          "name": "Cassandra Beck",
-          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        },
+        {
+          "name": "DJ PRESS PLAY",
+          "url": "https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT"
         }
       ],
-      "duration_ms": 194612,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/2A7UykFa7IwEFCIsj9zMUX"
+      "duration_ms": 160000,
+      "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
+      "url": "https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1887,26 +1891,22 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-        "url": "https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ZOMiz7Hn2kTUAoQxy6bRW"
       },
       "artists": [
         {
-          "name": "VAVO",
-          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+          "name": "Brazil XXI",
+          "url": "https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR"
         },
         {
-          "name": "Tyler Mann",
-          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
-        },
-        {
-          "name": "DJ PRESS PLAY",
-          "url": "https://open.spotify.com/artist/33BNVBRNQM0M3X90E3VciT"
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
-      "url": "https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX"
+      "duration_ms": 194612,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/2A7UykFa7IwEFCIsj9zMUX"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Million Memories",
-        "url": "https://open.spotify.com/album/0vtMowhT0Y6nkNW3J9sA3P"
-      },
-      "artists": [
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        },
-        {
-          "name": "Thomas Geelens",
-          "url": "https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz"
-        }
-      ],
-      "duration_ms": 163828,
-      "name": "Million Memories",
-      "url": "https://open.spotify.com/track/7rsZavzIAtUjJQyyum1Oju"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Not Giving You Up (Vandelux Remix)",
         "url": "https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG"
       },
@@ -2007,6 +1987,26 @@
       "duration_ms": 226453,
       "name": "Not Giving You Up - Vandelux Remix",
       "url": "https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Million Memories",
+        "url": "https://open.spotify.com/album/0vtMowhT0Y6nkNW3J9sA3P"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Thomas Geelens",
+          "url": "https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz"
+        }
+      ],
+      "duration_ms": 163828,
+      "name": "Million Memories",
+      "url": "https://open.spotify.com/track/7rsZavzIAtUjJQyyum1Oju"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Evening Walk",
+        "url": "https://open.spotify.com/album/5LfSmoxg4W4HnJpdVHsCRE"
+      },
+      "artists": [
+        {
+          "name": "Matt Bleu",
+          "url": "https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22"
+        }
+      ],
+      "duration_ms": 131186,
+      "name": "Evening Walk",
+      "url": "https://open.spotify.com/track/4uBqGpvf7WAIxFDPlhqnSA"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/43cWkZGOddV2VhduBGKuiV"
       },
@@ -2051,18 +2067,18 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Evening Walk",
-        "url": "https://open.spotify.com/album/5LfSmoxg4W4HnJpdVHsCRE"
+        "name": "Right Here Right Now",
+        "url": "https://open.spotify.com/album/37cf4swrmVFgGIe22qQclJ"
       },
       "artists": [
         {
-          "name": "Matt Bleu",
-          "url": "https://open.spotify.com/artist/6sL4jX2tlj46oaPlC7Nn22"
+          "name": "Y.V.E. 48",
+          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
         }
       ],
-      "duration_ms": 131186,
-      "name": "Evening Walk",
-      "url": "https://open.spotify.com/track/4uBqGpvf7WAIxFDPlhqnSA"
+      "duration_ms": 149727,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/0VmDO2nRN4IHLrv3QdytjM"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2083,38 +2099,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Right Here Right Now",
-        "url": "https://open.spotify.com/album/37cf4swrmVFgGIe22qQclJ"
-      },
-      "artists": [
-        {
-          "name": "Y.V.E. 48",
-          "url": "https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz"
-        }
-      ],
-      "duration_ms": 149727,
-      "name": "Right Here Right Now",
-      "url": "https://open.spotify.com/track/0VmDO2nRN4IHLrv3QdytjM"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/2k3nAAi31nOvj3wcuNwMYr"
-      },
-      "artists": [
-        {
-          "name": "Lenji",
-          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
-        }
-      ],
-      "duration_ms": 147900,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/6kYkyeZHXPOj4s5swBEgvu"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Won't Let Go",
         "url": "https://open.spotify.com/album/1xLUbbvRIRcgM0yVgeqXSO"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 136890,
       "name": "Won't Let Go",
       "url": "https://open.spotify.com/track/7GEgzRRim9jP7AyxSskHaZ"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/2k3nAAi31nOvj3wcuNwMYr"
+      },
+      "artists": [
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        }
+      ],
+      "duration_ms": 147900,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/6kYkyeZHXPOj4s5swBEgvu"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2195,26 +2195,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Use Somebody",
-        "url": "https://open.spotify.com/album/2DIG5omViSUCmK00s2mg7i"
-      },
-      "artists": [
-        {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
-        },
-        {
-          "name": "Surfin' Sam",
-          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/6Jn3WAkwvGeW0UpsHuisFT"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Wonderwall",
         "url": "https://open.spotify.com/album/3TvoPh4twYRq9DoAlpFLL4"
       },
@@ -2239,6 +2219,26 @@
       "duration_ms": 171111,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/79J0PGII53YzA3AGNe2AmJ"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/2DIG5omViSUCmK00s2mg7i"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/6Jn3WAkwvGeW0UpsHuisFT"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Could've Been Us",
-        "url": "https://open.spotify.com/album/2LLSwLZdGO0ADN1RlpVccS"
-      },
-      "artists": [
-        {
-          "name": "ItsLee",
-          "url": "https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ"
-        },
-        {
-          "name": "Dom Fricot",
-          "url": "https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr"
-        }
-      ],
-      "duration_ms": 132330,
-      "name": "Could've Been Us",
-      "url": "https://open.spotify.com/track/1oNFTQO0z6PuRH1wOOQXPe"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Off My Mind",
         "url": "https://open.spotify.com/album/1bhVe4jMpAFmqJezjrePic"
       },
@@ -2363,6 +2343,26 @@
       "duration_ms": 124194,
       "name": "Off My Mind",
       "url": "https://open.spotify.com/track/3vTr9O9gEStKRoBNUPbSXF"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Could've Been Us",
+        "url": "https://open.spotify.com/album/2LLSwLZdGO0ADN1RlpVccS"
+      },
+      "artists": [
+        {
+          "name": "ItsLee",
+          "url": "https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ"
+        },
+        {
+          "name": "Dom Fricot",
+          "url": "https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr"
+        }
+      ],
+      "duration_ms": 132330,
+      "name": "Could've Been Us",
+      "url": "https://open.spotify.com/track/1oNFTQO0z6PuRH1wOOQXPe"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2471,30 +2471,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Show Me Love (Remixes 2)",
-        "url": "https://open.spotify.com/album/3Lyu7NctI2QfKiO6eLHjsb"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Kimberly Anne",
-          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 180336,
-      "name": "Show Me Love - EDX Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Fire in the Sky",
         "url": "https://open.spotify.com/album/5hbQ4y8WTSJgEalXACpR59"
       },
@@ -2515,22 +2491,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Nothing Better",
-        "url": "https://open.spotify.com/album/55OUdcRkbx2l1b2TM0UnDL"
-      },
-      "artists": [
-        {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "Nothing Better",
-      "url": "https://open.spotify.com/track/6ESPVLQpEGHoVgcOi8A4XB"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/1UPN1PmpJUwUNbPPkBWCMA"
       },
@@ -2547,26 +2507,18 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/6LumlIItkkfIE2a2Ujk4fs"
+        "name": "Nothing Better",
+        "url": "https://open.spotify.com/album/55OUdcRkbx2l1b2TM0UnDL"
       },
       "artists": [
         {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
-        },
-        {
-          "name": "Tess Burrstone",
-          "url": "https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy"
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
         }
       ],
-      "duration_ms": 171429,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5INg5JgllhQn71YpEIrh2E"
+      "duration_ms": 169226,
+      "name": "Nothing Better",
+      "url": "https://open.spotify.com/track/6ESPVLQpEGHoVgcOi8A4XB"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2595,6 +2547,30 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/6LumlIItkkfIE2a2Ujk4fs"
+      },
+      "artists": [
+        {
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+        },
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Tess Burrstone",
+          "url": "https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy"
+        }
+      ],
+      "duration_ms": 171429,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5INg5JgllhQn71YpEIrh2E"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Some Day",
         "url": "https://open.spotify.com/album/4UEuk5CqCZjJsTqOfB3fNf"
       },
@@ -2611,6 +2587,30 @@
       "duration_ms": 163636,
       "name": "Some Day",
       "url": "https://open.spotify.com/track/58FS4rjjq7wK0diVmuBnCp"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Show Me Love (Remixes 2)",
+        "url": "https://open.spotify.com/album/3Lyu7NctI2QfKiO6eLHjsb"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Kimberly Anne",
+          "url": "https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 180336,
+      "name": "Show Me Love - EDX Remix / Radio Edit",
+      "url": "https://open.spotify.com/track/4bAmAVdks2Y84VNVVLXFwN"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2887,6 +2887,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/4PyuDESU8lU7DnlCCsWLtQ"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5PNeoW7pzKgyAm2KDsrRU2"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Which Way the Wind Blows",
         "url": "https://open.spotify.com/album/0YUpiepgMm6gqciQ8hu6nJ"
       },
@@ -2903,26 +2923,6 @@
       "duration_ms": 128852,
       "name": "Which Way the Wind Blows",
       "url": "https://open.spotify.com/track/7IFxw1VhX7IheTpBh7MDr1"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Called Home",
-        "url": "https://open.spotify.com/album/4Balkzz2ZZ57cvEmbEia1c"
-      },
-      "artists": [
-        {
-          "name": "Clay Pirinha",
-          "url": "https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu"
-        },
-        {
-          "name": "JKW",
-          "url": "https://open.spotify.com/artist/0M89PD00gvmH7R30uowa8w"
-        }
-      ],
-      "duration_ms": 138963,
-      "name": "Called Home",
-      "url": "https://open.spotify.com/track/53MCUyJ3sxf8YGaiYiC4G6"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -2951,26 +2951,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/4PyuDESU8lU7DnlCCsWLtQ"
-      },
-      "artists": [
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/5PNeoW7pzKgyAm2KDsrRU2"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Mouth Of Madness",
         "url": "https://open.spotify.com/album/72pIluQXx9yA45d1kXsNfD"
       },
@@ -2987,6 +2967,26 @@
       "duration_ms": 245950,
       "name": "Mouth Of Madness",
       "url": "https://open.spotify.com/track/0ePrpVm3PClk1Gpv9V957s"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "Called Home",
+        "url": "https://open.spotify.com/album/4Balkzz2ZZ57cvEmbEia1c"
+      },
+      "artists": [
+        {
+          "name": "Clay Pirinha",
+          "url": "https://open.spotify.com/artist/5p9Qtx5I4CJqr04ID07XXu"
+        },
+        {
+          "name": "JKW",
+          "url": "https://open.spotify.com/artist/0M89PD00gvmH7R30uowa8w"
+        }
+      ],
+      "duration_ms": 138963,
+      "name": "Called Home",
+      "url": "https://open.spotify.com/track/53MCUyJ3sxf8YGaiYiC4G6"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -3139,6 +3139,22 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/25Q2DwPU4M8KjaGkTgA7vM"
+      },
+      "artists": [
+        {
+          "name": "Sparkee",
+          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
+        }
+      ],
+      "duration_ms": 188118,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/2ouzmB4EELwzPersSkE72Z"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Do It All For You",
         "url": "https://open.spotify.com/album/6Vi9RMxw8KNUQVVm7TEoxc"
       },
@@ -3159,22 +3175,6 @@
       "duration_ms": 182400,
       "name": "Do It All For You",
       "url": "https://open.spotify.com/track/6NObVhdEjWkH216Xq7MNup"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/25Q2DwPU4M8KjaGkTgA7vM"
-      },
-      "artists": [
-        {
-          "name": "Sparkee",
-          "url": "https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf"
-        }
-      ],
-      "duration_ms": 188118,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/2ouzmB4EELwzPersSkE72Z"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -3243,6 +3243,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "The Great Wide Open",
+        "url": "https://open.spotify.com/album/6VXmiotNPdpdLhG0v5qxpF"
+      },
+      "artists": [
+        {
+          "name": "Life's A Beach",
+          "url": "https://open.spotify.com/artist/2bc5dL3SdvIq8snye5uJZo"
+        },
+        {
+          "name": "Tob\u00ff",
+          "url": "https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ"
+        }
+      ],
+      "duration_ms": 141718,
+      "name": "The Great Wide Open",
+      "url": "https://open.spotify.com/track/2DogC9NLsgkOD5l34RWWUR"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Unwanted (feat. Conor Maynard)",
         "url": "https://open.spotify.com/album/7r90Qf9J5SQXQHcl9a5zkW"
       },
@@ -3263,26 +3283,6 @@
       "duration_ms": 166133,
       "name": "Unwanted (feat. Conor Maynard)",
       "url": "https://open.spotify.com/track/3s3tzG4jG1q5CoAvcASuyC"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "The Great Wide Open",
-        "url": "https://open.spotify.com/album/6VXmiotNPdpdLhG0v5qxpF"
-      },
-      "artists": [
-        {
-          "name": "Life's A Beach",
-          "url": "https://open.spotify.com/artist/2bc5dL3SdvIq8snye5uJZo"
-        },
-        {
-          "name": "Tob\u00ff",
-          "url": "https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ"
-        }
-      ],
-      "duration_ms": 141718,
-      "name": "The Great Wide Open",
-      "url": "https://open.spotify.com/track/2DogC9NLsgkOD5l34RWWUR"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -3399,26 +3399,6 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/4zmem1pBYEOmaEl1iR4a5E"
-      },
-      "artists": [
-        {
-          "name": "Fini",
-          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
-        },
-        {
-          "name": "David Emde",
-          "url": "https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/4oTvXEf8ihEfGZjsi77QNh"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
         "name": "Waiting For Us",
         "url": "https://open.spotify.com/album/4Vs66Z1NLx5bXjDUgmNu5V"
       },
@@ -3439,6 +3419,26 @@
       "duration_ms": 150000,
       "name": "Waiting For Us",
       "url": "https://open.spotify.com/track/0nV1xGEGl3rM1cdHPj5dNj"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/4zmem1pBYEOmaEl1iR4a5E"
+      },
+      "artists": [
+        {
+          "name": "Fini",
+          "url": "https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx"
+        },
+        {
+          "name": "David Emde",
+          "url": "https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/4oTvXEf8ihEfGZjsi77QNh"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -3643,22 +3643,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/2CY7EGiqVXlLDw7Mx0ZVQX"
+        "name": "When You Love Someone",
+        "url": "https://open.spotify.com/album/6AaVw6FyWCbb3AiDR5FPc3"
       },
       "artists": [
         {
-          "name": "ConKi",
-          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
         },
         {
-          "name": "Magnus Gunn",
-          "url": "https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi"
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "James Stefano",
+          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
         }
       ],
-      "duration_ms": 148315,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/4Iu8WjkHCEoN0iFOmbiKPq"
+      "duration_ms": 144923,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/0pRk0LA70mT0AGa0GWRA7s"
     },
     {
       "added_at": "2026-07-10 04:00:55",
@@ -3707,26 +3711,22 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
-        "name": "When You Love Someone",
-        "url": "https://open.spotify.com/album/6AaVw6FyWCbb3AiDR5FPc3"
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/2CY7EGiqVXlLDw7Mx0ZVQX"
       },
       "artists": [
         {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
         },
         {
-          "name": "Fo\u00ednix",
-          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
-        },
-        {
-          "name": "James Stefano",
-          "url": "https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf"
+          "name": "Magnus Gunn",
+          "url": "https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi"
         }
       ],
-      "duration_ms": 144923,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/0pRk0LA70mT0AGa0GWRA7s"
+      "duration_ms": 148315,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/4Iu8WjkHCEoN0iFOmbiKPq"
     },
     {
       "added_at": "2026-07-10 04:00:55",

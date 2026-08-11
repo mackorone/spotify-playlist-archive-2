@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,335 songs - 2 day 3 hr 3 min
+1,336 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Breathe](https://open.spotify.com/track/5QBfSOUwzXpGQqIjKE7s9Q) | [Skipclass](https://open.spotify.com/artist/27cq2WN6MbO7i9788ZKFIr) | [Breathe](https://open.spotify.com/album/4pmXdpwulnXXnQD08tzH8D) | 2:39 | 2025-01-10 | 2025-04-19 |
 | [breathtaking](https://open.spotify.com/track/6NqnGKb8x3PMCWqn2oJizA) | [mello joints](https://open.spotify.com/artist/3SvvTbg5Gj3UDGNxtqTsfd) | [breathtaking](https://open.spotify.com/album/7A4dRVpZAS3T4Az0Xus2sT) | 2:10 | 2024-02-09 | 2025-07-16 |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2021-11-10 | 2023-05-20 |
+| [Bright Sky and Full Moon](https://open.spotify.com/track/6hgIE06xnBuFE0sdr8RbS7) | [Haku\-San](https://open.spotify.com/artist/0dGpPnF1fbxs3Bhz2bO8UA) | [Bright Sky and Full Moon](https://open.spotify.com/album/4HYcwUMi0juGqdXhMXfl1R) | 2:36 | 2026-07-23 |  |
 | [Bring Me Back Home](https://open.spotify.com/track/4glCiMR5agMNxQGZdhdZfw) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [I Feel Like Flying](https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn) | 1:36 | 2022-04-15 | 2023-09-08 |
 | [broken hash](https://open.spotify.com/track/2USGBktYHKaG6CqulUxXz3) | [slån](https://open.spotify.com/artist/3FtHbjWZC4p0XzS0qbaleC) | [superficial](https://open.spotify.com/album/0KAXo0a643QbDytAb5cpz5) | 1:48 | 2021-11-10 | 2022-09-03 |
 | [Broken Spell](https://open.spotify.com/track/3UsdTrOGIRmlOQ1lbR8e2v) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Broken Spell](https://open.spotify.com/album/6vxFdErywR0cq92jYbaS1w) | 2:20 | 2024-03-08 | 2024-07-27 |
@@ -766,7 +767,7 @@
 | [Moonlit Moments](https://open.spotify.com/track/4B0wlzgM5OqAZJ2GpQmyF2) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [Moonlit Moments](https://open.spotify.com/album/4xnqvzypvNBDttQa70MqI5) | 3:08 | 2024-01-12 | 2025-07-16 |
 | [MoonRise](https://open.spotify.com/track/3m1XMpzK6J1ZiLYoLJ47zM) | [Lunar Lo\-Fi](https://open.spotify.com/artist/0LeGNGW4wUUlVfuNATYlLD), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [MoonRise](https://open.spotify.com/album/4gbEeGRlFLcJ2CRSPlqYHp) | 3:15 | 2024-07-19 | 2024-08-09 |
 | [moonwatch](https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [moonwatch](https://open.spotify.com/album/3orK6ZBhRQQAxopaMfZivu) | 3:18 | 2023-12-08 | 2025-07-16 |
-| [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 | 2022-01-27 |  |
+| [Morning bun](https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [Morning bun](https://open.spotify.com/album/2y09TYneTZgtrneQRE8bw9) | 1:54 | 2022-01-27 | 2026-08-11 |
 | [morning coffe](https://open.spotify.com/track/6Ui1WWGXX4GUQksFKa1Uoo) | [inbetweenjobs](https://open.spotify.com/artist/0T05MHbAGVD9ZwWfVztzBk) | [morning coffe](https://open.spotify.com/album/6xhWgSZJ06ndOEfezRyMQP) | 2:40 | 2021-11-10 | 2022-06-10 |
 | [Morning Crows](https://open.spotify.com/track/3QQ2zGJQfvfIsenqbMwOgl) | [Bag'o Chips](https://open.spotify.com/artist/636ev3bJk1dl7fPvqSlRwg) | [Morning Crows](https://open.spotify.com/album/26XR781Q3YUSPyz9nYo3DG) | 3:02 | 2021-11-10 | 2022-11-12 |
 | [Morning Mist](https://open.spotify.com/track/0ROMwF8gNj8dCog0D8zStX) | [Jelika](https://open.spotify.com/artist/3eJdbQVaYyybG0aBrDdI5u) | [Morning Mist](https://open.spotify.com/album/7czewPa3OyAV9f4kBbUqFR) | 1:40 | 2021-11-10 | 2022-09-03 |

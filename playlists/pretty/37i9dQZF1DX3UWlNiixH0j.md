@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 雪国 Yukiguni
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,841 likes - 99 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,861 likes - 99 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 98 | [ATONANKAI](https://open.spotify.com/track/1ydRhe05gjaCiZgXlQsFuB) | [MERI](https://open.spotify.com/artist/7kF19icO61iKleRIfPsWoQ), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [ATONANKAI](https://open.spotify.com/album/2pXxzkRghtQOyG2LzwrAUM) | 2:34 |
 | 99 | [HIPSTER](https://open.spotify.com/track/49e4TVbURhdZTqqF0bzsdA) | [毎日ユニーク](https://open.spotify.com/artist/3ozNqNNLtBozfYz8xU8BP2) | [HIPSTER](https://open.spotify.com/album/65kRvI9Zdp8FWjtMX7PH3p) | 2:48 |
 
-Snapshot ID: `AAAAAIoJFgrNRTOSMX4Yle3pchSsbsde`
+Snapshot ID: `AAAAAP2jkmrsKCE/4u0Z1/OEIVFeFwPp`

@@ -3205,6 +3205,28 @@
     },
     {
       "album": {
+        "name": "Star Wars: Visions Presents - The Ninth Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/30D74GKJMhxjYPcxWoJ5kW"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162155,
+      "name": "The Ninth Jedi Main Theme",
+      "url": "https://open.spotify.com/track/4oUWmJ0VAh7GNNp8phxCtY"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Acolyte - Vol. 1 (Episodes 1-4) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1B035XnkYbQd223wGi1bgU"
       },

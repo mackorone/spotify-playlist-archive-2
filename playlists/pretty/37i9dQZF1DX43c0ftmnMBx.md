@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,215 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,262 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 54 | [Fecha de Vencimiento](https://open.spotify.com/track/06YEsAMgIA37hKjmdBhmrE) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:32 |
 | 55 | [Hoja En Blanco](https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 5:08 |
 | 56 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 |
-| 57 | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk) | 2:36 |
-| 58 | [Carta De Verano](https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:02 |
+| 57 | [Carta De Verano](https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:02 |
+| 58 | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [LAS BURBUJAS DEL JACUZZI](https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk) | 2:36 |
 | 59 | [Me Voy \- Bachata](https://open.spotify.com/track/1wfxSvHq3cdzmOHZejMkci) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:02 |
 | 60 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
 | 61 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 81 | [Quíteme La Inocencia](https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [2.0](https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd) | 4:10 |
 | 82 | [De Rodillas Te Pido](https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Rodillas Te Pido](https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM) | 3:53 |
 | 83 | [Eso da Pa To](https://open.spotify.com/track/6CNLJne75iQxfVfcqsTGzN) | [Marino Castellanos](https://open.spotify.com/artist/5ldlRSivvEgLKIUlrSX3Dz) | [Bachatas Para La Historia](https://open.spotify.com/album/3XpFWkLUNxJtOFRlGW1zKU) | 3:30 |
-| 84 | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE) | 4:16 |
-| 85 | [Antes de Ti](https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Antes de Ti](https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv) | 3:27 |
+| 84 | [Antes de Ti](https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Antes de Ti](https://open.spotify.com/album/42NPk8W7iqa7VeHW3Q95Yv) | 3:27 |
+| 85 | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE) | 4:16 |
 | 86 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq) | 4:29 |
 | 87 | [Medicina de Amor](https://open.spotify.com/track/2nTgr8A2F6dpxsuGsf6KSk) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina de Amor](https://open.spotify.com/album/2wLWr0dEKCauOLtmfJikCR) | 6:05 |
 | 88 | [Bellas](https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Historia de Mi Vida: El Final, Vol\. 1](https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Me Voy De Ti](https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS) | 5:44 |
 | 100 | [Hoy Te Vi Pasar](https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Los 12 Exitos De Kiko Rodriguez](https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn) | 4:12 |
 
-Snapshot ID: `AAAAAOdbvw3Z6tTA4RgWgDUiqJl6NAAO`
+Snapshot ID: `AAAAAIi/lpljZRjjiM31QCXX2uGLVqiA`

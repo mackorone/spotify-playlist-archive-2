@@ -556,7 +556,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 320064,
       "name": "Challa X Chan Kithan Guzari",
       "url": "https://open.spotify.com/track/2hWNpP7C7mvLTloxpQM9Dw"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 161359,
       "name": "Charkha Chanan Da",
       "url": "https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 175386,
       "name": "Kala Shah Kala - Original",
       "url": "https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO"
@@ -1592,6 +1592,28 @@
       "duration_ms": 250132,
       "name": "Kangi Wanwan - Live",
       "url": "https://open.spotify.com/track/7pKDQawo9ClvxVmRBYTzaM"
+    },
+    {
+      "album": {
+        "name": "The Folk Era",
+        "url": "https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Nick Dhammu",
+          "url": "https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168928,
+      "name": "Kissa Suche Da",
+      "url": "https://open.spotify.com/track/7hVt3owcjzquzCquFsKaqK"
     },
     {
       "album": {
@@ -2009,6 +2031,28 @@
     },
     {
       "album": {
+        "name": "The Folk Era",
+        "url": "https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232058,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/1YC9QitEhCDv0Vz5j23xP4"
+    },
+    {
+      "album": {
         "name": "Modern Punjab",
         "url": "https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R"
       },
@@ -2024,6 +2068,28 @@
       "duration_ms": 285181,
       "name": "Mirza Saiba",
       "url": "https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb"
+    },
+    {
+      "album": {
+        "name": "The Folk Era",
+        "url": "https://open.spotify.com/album/3k8mT3JfJA7KEBlTHU1f4n"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364978,
+      "name": "Mitti da Bawa",
+      "url": "https://open.spotify.com/track/5qcQKbQF2Kj8AIaDYpNZWm"
     },
     {
       "album": {

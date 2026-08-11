@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 緑黄色社会 Ryokuoushoku Shakai
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,960 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,966 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Happy Birthday](https://open.spotify.com/track/6ucM6zB9mIZ5Vwxvtm2sXD) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [Happy Birthday](https://open.spotify.com/album/7KkKCflAkOnSucZngnt4UZ) | 3:17 |
 | 100 | [HAPPY MARKET](https://open.spotify.com/track/2wV7SoaqGvGMOUsYDt2GY3) | [ABEDON AND THE RINGSIDE](https://open.spotify.com/artist/7zxq5vLhIwCCq9mvNj5lek) | [ROUND 4](https://open.spotify.com/album/1PYn6IUwvlN1IfGbjLjzN8) | 4:13 |
 
-Snapshot ID: `AAAAAP4y3tgn2jERyJHa3UK+1wBXsqxY`
+Snapshot ID: `AAAAACSgwnhlBm0yM0x881FTc0Mqf7W/`

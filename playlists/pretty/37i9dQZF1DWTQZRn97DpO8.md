@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : aupinard
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,062 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,021 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Fais moi pleuvoir](https://open.spotify.com/track/5vC3fGU7XI0B4Ami8RtpPE) | [Séleste](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9) | [Fais moi pleuvoir](https://open.spotify.com/album/5BlTy3XaLJlHe2XVjhjgKI) | 3:02 |
 | 50 | [COURSIVE](https://open.spotify.com/track/3NJtJXaEj4TtJo8Ep4hqjV) | [Maline](https://open.spotify.com/artist/2V2vK0RLM5kCodOHaZxMgl), [Ritual X](https://open.spotify.com/artist/5yrBVGMDNNUY5gd6FusHAC) | [COURSIVE](https://open.spotify.com/album/6YLnwx7P42Np0V11aORNkQ) | 3:30 |
 
-Snapshot ID: `AAAAANeTX1UXAntbjE2S2P2k3RvvJsxo`
+Snapshot ID: `AAAAAKjF+CsDYy7GauJv+SrtMib/L+Q5`

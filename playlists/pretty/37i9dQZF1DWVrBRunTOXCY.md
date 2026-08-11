@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 
 > The sound of summer 2026! Cover: Prospa
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,811 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,812 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrBRunTOXCY.md) - [plain]
 | 99 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 |
 | 100 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 
-Snapshot ID: `AAAAAOHyLxUfhxb3YcM2VDBp3LK52qxT`
+Snapshot ID: `AAAAAElkVVdP0DxkU+2Fytdx6alMXp93`

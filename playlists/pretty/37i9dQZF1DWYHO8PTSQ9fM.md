@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > The hottest hits right now\. Cover: Lartiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,406 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,418 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 | 50 | [Tout donner](https://open.spotify.com/track/6a5pKXuDODMRubAW7aXYOO) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Dégât](https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4) | 2:25 |
 
-Snapshot ID: `AAAAALkxq83igYVYnJXfkBhG/8xRrbrD`
+Snapshot ID: `AAAAAMVoxUMcD8lG/gtVNgXOg8od+yRm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With VELATINE, JUST LIZZY, Escape With Romeo and more",
+  "description": "With VELATINE, Whispergun, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 244029,
       "name": "Altered",
       "url": "https://open.spotify.com/track/2IIgBVccZUvcVN7oO4m7BQ"
@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "*the colour of lead*",
+        "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
+      },
+      "artists": [
+        {
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "bitter farewell",
+      "url": "https://open.spotify.com/track/5TVfdngL5Ch8LNbCedvQ0E"
+    },
+    {
+      "album": {
         "name": "When I Die",
         "url": "https://open.spotify.com/album/6KnUQkIUSSoAjUJG2Q7VsZ"
       },
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Can't Hold My Breath",
       "url": "https://open.spotify.com/track/7FPDs4THmwgkQTiVGVLBVU"
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 280541,
       "name": "Combat Boots",
       "url": "https://open.spotify.com/track/1rAjkYvW55s8G9Nlu1d4Ea"
@@ -3798,7 +3816,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 171869,
       "name": "Creep - Divine",
       "url": "https://open.spotify.com/track/42lgxZ6gfw0eSjwrXI0Nc1"
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 351437,
       "name": "Enterprise",
       "url": "https://open.spotify.com/track/0Do9DaZQDjQ6icf6VG8Kc4"
@@ -5680,7 +5698,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 264906,
       "name": "Exit Body - Exit Mind",
       "url": "https://open.spotify.com/track/2Y8DFWHWIrj8e2YBLRKutf"
@@ -5966,7 +5984,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -7430,7 +7448,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 390765,
       "name": "HEADRUSH",
       "url": "https://open.spotify.com/track/5LWbpBBZBZCF2EYzhc7FzO"
@@ -9609,6 +9627,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Between Us (Highways Between Us)",
+        "url": "https://open.spotify.com/album/0gfZgZJ88mmnYEQWELLzoe"
+      },
+      "artists": [
+        {
+          "name": "Emily Steed",
+          "url": "https://open.spotify.com/artist/0V2T8oDayX52qzRqYlSzhR"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246761,
+      "name": "Kiss (Me)",
+      "url": "https://open.spotify.com/track/3OKtkqTikliFqEHjs9hMF1"
+    },
+    {
+      "album": {
         "name": "Coronet",
         "url": "https://open.spotify.com/album/5siQjlkTpfmu7wnkNlo1RG"
       },
@@ -10194,7 +10230,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 159010,
       "name": "lighter - sped up",
       "url": "https://open.spotify.com/track/6XyocV0fhzxBkuVHyRKeK9"
@@ -11522,7 +11558,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 190161,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/1boh977IxzWaqmJ11wzCtW"
@@ -12360,7 +12396,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 202756,
       "name": "Orange Squeezer",
       "url": "https://open.spotify.com/track/0kFUXG3UKW6tpgyNkIVgCg"
@@ -12942,7 +12978,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 302000,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/4Pe9cgCDHwmZOH6afOYPLE"
@@ -13080,6 +13116,24 @@
       "duration_ms": 258000,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/1CjgOByLIycURaTJP9AcJv"
+    },
+    {
+      "album": {
+        "name": "*the colour of lead*",
+        "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
+      },
+      "artists": [
+        {
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "psychological barbed wire",
+      "url": "https://open.spotify.com/track/5XMZ3AhSuJUgDyR06eWwdo"
     },
     {
       "album": {
@@ -13502,7 +13556,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 257678,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2jFA4wH9BKIIvz1B10zixk"
@@ -13780,6 +13834,24 @@
       "duration_ms": 145343,
       "name": "runaway",
       "url": "https://open.spotify.com/track/1Oo3fHQdocsqzbo4CxlrzB"
+    },
+    {
+      "album": {
+        "name": "*the colour of lead*",
+        "url": "https://open.spotify.com/album/4NF8omavRpq1IQuWBbiQyT"
+      },
+      "artists": [
+        {
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153250,
+      "name": "running joke",
+      "url": "https://open.spotify.com/track/61tQINMAv7Kix961SOwGbd"
     },
     {
       "album": {
@@ -15331,6 +15403,24 @@
     },
     {
       "album": {
+        "name": "Euphoric Thriller",
+        "url": "https://open.spotify.com/album/2ZmzjExvcGJPTQ5wOWKayR"
+      },
+      "artists": [
+        {
+          "name": "The Beautiful Monument",
+          "url": "https://open.spotify.com/artist/5YYn3EOeF8wTDb2ctUsHJ7"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "Sorry...",
+      "url": "https://open.spotify.com/track/5Qfk3AGn2YFriQDNXC3cnN"
+    },
+    {
+      "album": {
         "name": "Signals, Vol. 2",
         "url": "https://open.spotify.com/album/7EpmHd5VVQJgLFPUuD3ouX"
       },
@@ -16513,6 +16603,24 @@
     },
     {
       "album": {
+        "name": "Kalte Schauer",
+        "url": "https://open.spotify.com/album/5bd2eU01ts54AFp5vLfLzs"
+      },
+      "artists": [
+        {
+          "name": "Yakima Jera",
+          "url": "https://open.spotify.com/artist/29Bdp1CXWm4oayshsNQZJr"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312103,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/206Dr7KVhHPsiZv34Tv3Oc"
+    },
+    {
+      "album": {
         "name": "The Againsters 2026",
         "url": "https://open.spotify.com/album/37f1zvc9E11JNQ4VIcnXQJ"
       },
@@ -16532,6 +16640,24 @@
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
+    },
+    {
+      "album": {
+        "name": "The Answers",
+        "url": "https://open.spotify.com/album/1j9wB9bOQ6DRbRcsQaBOo4"
+      },
+      "artists": [
+        {
+          "name": "Beyond Signal",
+          "url": "https://open.spotify.com/artist/3MJ10HdxjtosGlPkQlBLSU"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The Answers",
+      "url": "https://open.spotify.com/track/25Cd0bLNJTVkIlbwP57EgS"
     },
     {
       "album": {
@@ -18881,6 +19007,28 @@
     },
     {
       "album": {
+        "name": "Farewell Romeo",
+        "url": "https://open.spotify.com/album/12YN0cnayB5E67jF13sPoj"
+      },
+      "artists": [
+        {
+          "name": "Mortiis",
+          "url": "https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ"
+        },
+        {
+          "name": "Laurie Ann Haus",
+          "url": "https://open.spotify.com/artist/3M8BcSXMr8qSlcI8jzsDMW"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361667,
+      "name": "Violent Silence - Madrigal Version",
+      "url": "https://open.spotify.com/track/5rNMz1EB18xGWBfhDybgxF"
+    },
+    {
+      "album": {
         "name": "Violent Things",
         "url": "https://open.spotify.com/album/77umFQKj2RaIOcUwBQj4bi"
       },
@@ -19680,7 +19828,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 296045,
       "name": "Where the Stars are Swallowed by the Mist",
       "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"

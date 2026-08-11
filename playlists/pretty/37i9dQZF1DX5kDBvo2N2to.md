@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,300 likes - 89 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,301 likes - 89 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 45 | [Hurricane](https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Hurricane](https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO) | 3:25 |
 | 46 | [Half Of Me](https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Half Of Me](https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo) | 2:58 |
 | 47 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
-| 48 | [Mimosa](https://open.spotify.com/track/1mYHXcfv89s3NfqYUKdqMW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 3:12 |
-| 49 | [Göteborg](https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 3:48 |
+| 48 | [Göteborg](https://open.spotify.com/track/7pFOZqgnaKfwxcPnGTEWXw) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 3:48 |
+| 49 | [Mimosa](https://open.spotify.com/track/1mYHXcfv89s3NfqYUKdqMW) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 3:12 |
 | 50 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 |
 | 51 | [Iris](https://open.spotify.com/track/4TRQ9JWo2kytsBQqaayD5z) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Iris](https://open.spotify.com/album/16DmICdpaMDhQBmvPWTSPd) | 3:00 |
 | 52 | [Väntat](https://open.spotify.com/track/6FlICUJXQ6JcBsdR7y9wuM) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Väntat](https://open.spotify.com/album/7KdMdwaPx35CBkGEff2n4q) | 3:02 |
-| 53 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 |
-| 54 | [Black Widow](https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Black Widow](https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU) | 2:40 |
+| 53 | [Black Widow](https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Black Widow](https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU) | 2:40 |
+| 54 | [Allt jag har](https://open.spotify.com/track/0LDw8mHf4tJcYbf5PvInGu) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/38dw8O2dALUkElF0nicULR) | 2:52 |
 | 55 | [Barfotabarn](https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Min vän och jag](https://open.spotify.com/album/2XCaCiPFPnZCF5tnCrOm0K) | 2:45 |
 | 56 | [Störd](https://open.spotify.com/track/2IgrHNArmP0qRKbQ5UVeVB) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Störd](https://open.spotify.com/album/4A7EjZFyWeH1fobQTj1UmV) | 2:53 |
 | 57 | [Kaprifol](https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Sverige](https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ) | 3:51 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 76 | [Ung \- Acoustic](https://open.spotify.com/track/2m0qtGSqkwTYg83mhxpuok) | [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Ung Acoustic](https://open.spotify.com/album/1KcdpBGxvbV9Ke35jUvyIJ) | 2:17 |
 | 77 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:25 |
 | 78 | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 |
-| 79 | [Faller så lätt](https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Faller så lätt](https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj) | 2:35 |
-| 80 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 |
+| 79 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 |
+| 80 | [Faller så lätt](https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Faller så lätt](https://open.spotify.com/album/6z1e53wfXxRAGDTVOSTrnj) | 2:35 |
 | 81 | [I’m gonna die](https://open.spotify.com/track/1WLL3Kstyvue7WeD71ejnq) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [I’m gonna die](https://open.spotify.com/album/4L4110iqb48qGRmk5S0gol) | 3:25 |
 | 82 | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/track/5xsPLejlveYFDwHAQSXWMI) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Spelar ingen roll \(feat\. Simon Superti\)](https://open.spotify.com/album/423myRCWFfwiqQmIYxKUUI) | 2:41 |
 | 83 | [Love is for Losers](https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Love is for Losers](https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j) | 3:20 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 88 | [Level Up](https://open.spotify.com/track/3xFKbv5jsQpjL1LeXS3zr5) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Sciura](https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI) | 3:21 |
 | 89 | [Allt jag har](https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Sommarland](https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz) | 2:52 |
 
-Snapshot ID: `AAAAABboqarQxcXsr8eyOe3eSpsYIxf0`
+Snapshot ID: `AAAAAJmVJJxGciDdg/5x0D0fkJ9zbfUM`

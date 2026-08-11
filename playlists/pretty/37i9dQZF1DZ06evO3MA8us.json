@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35586,
+  "num_followers": 35587,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABcnjUdpxZ7/5JAgS8mMH80",
+  "snapshot_id": "anfDAAAAAAB6QLKYmxstWb8zy8p56XUD",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorioso D\u00eda",
-        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 260160,
-      "name": "Glorioso D\u00eda",
-      "url": "https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 258509,
       "name": "Just That Good",
       "url": "https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glorioso D\u00eda",
+        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 260160,
+      "name": "Glorioso D\u00eda",
+      "url": "https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3"
     },
     {
       "added_at": null,
@@ -747,6 +747,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 446812,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/5ouxOzWduYx5B10FP4ChU5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Passion: A Generation United For His Renown",
         "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
@@ -783,30 +807,6 @@
       "duration_ms": 260306,
       "name": "Buen Padre",
       "url": "https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just That Good",
-        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Rachel Halbach",
-          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 446812,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/5ouxOzWduYx5B10FP4ChU5"
     },
     {
       "added_at": null,

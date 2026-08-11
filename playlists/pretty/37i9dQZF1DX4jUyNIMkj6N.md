@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,002 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,999 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 49 | [A Perfect Storm](https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [A Perfect Storm](https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK) | 3:04 |
 | 50 | [forever, for a while](https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Laminar Flow](https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42) | 2:13 |
 | 51 | [In a Dream](https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [In a Dream](https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO) | 3:16 |
-| 52 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
-| 53 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
+| 52 | [Part Of The Story](https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4) | [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS) | [Part Of The Story](https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG) | 3:07 |
+| 53 | [9 to 5](https://open.spotify.com/track/5OvkbpZ2ANLbLpzPbz0VAd) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [9 to 5](https://open.spotify.com/album/0L3NpPVZEoyF6KvFUcHhua) | 3:21 |
 | 54 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
 | 55 | [A Fire Test](https://open.spotify.com/track/4d3vaJvP6JOwu13rpmRraD) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N) | [A Fire Test](https://open.spotify.com/album/2Cd6J0yxphB9eXLTUK2iob) | 3:15 |
 | 56 | [No Jolene](https://open.spotify.com/track/32MwhuIuhW55LawKJa8jyQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [No Jolene](https://open.spotify.com/album/71R93xVwsFtmiW7nCm4V5h) | 2:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Wake Up](https://open.spotify.com/track/21XqZ9JSZv6Vh6BNTGi0gz) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Wake Up](https://open.spotify.com/album/1zIYfWBJ8z9niRJbU5c3KQ) | 4:11 |
 | 60 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
 
-Snapshot ID: `AAAAAOjxkOTNeDU4gVwg7eJzeJGaO9dv`
+Snapshot ID: `AAAAAM22/ipP8JBhTzrXcwOjJbc4aXwU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,025 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,072 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 23 | [Do Seu Lado \- Acústico](https://open.spotify.com/track/3wYP8mfPEMBmCjT3DcG2la) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:23 |
 | 24 | [Wind of Change \(with Morten Harket\) \- MTV Unplugged](https://open.spotify.com/track/4iKTbuGckmJaWQAyKDR7Q7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY), [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 5:31 |
 | 25 | [Pais E Filhos \- Ao Vivo Em São Paulo / 1999](https://open.spotify.com/track/08JSatvoYTwDDkMov7oHKA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Acústico \(Ao Vivo Em São Paulo / 1999\)](https://open.spotify.com/album/1vx6Vefn21ZLVTdlymgqSg) | 6:19 |
-| 26 | [Big Jet Plane \- Acoustic](https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Big Jet Plane \(Acoustic\)](https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e) | 2:29 |
-| 27 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Live\)](https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr) | 4:16 |
+| 26 | [Caleidoscópio \- Ao Vivo](https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Acústico \(Live\)](https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr) | 4:16 |
+| 27 | [Big Jet Plane \- Acoustic](https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Big Jet Plane \(Acoustic\)](https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e) | 2:29 |
 | 28 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 29 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
 | 30 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 46 | [O Teatro dos Vampiros](https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Moska Apresenta Zoombido: Dado Villa\-Lobos](https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp) | 3:47 |
 | 47 | [Imprevisível \(Acústico\)](https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Imprevisível \(Acústico\)](https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf) | 3:08 |
 | 48 | [With Or Without You \- Songs Of Surrender](https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [With Or Without You \(Songs Of Surrender\)](https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0) | 3:14 |
-| 49 | [What's My Age Again? \- Acoustic](https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [What's My Age Again? \(Acoustic\)](https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr) | 2:26 |
-| 50 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
+| 49 | [Quando Eu Te Encontrar](https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quando Eu Te Encontrar](https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy) | 3:40 |
+| 50 | [What's My Age Again? \- Acoustic](https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh) | [Jota John](https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm) | [What's My Age Again? \(Acoustic\)](https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr) | 2:26 |
 | 51 | [Gold on the Ceiling \- BBC Session](https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Gold on the Ceiling \(BBC Session\)](https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt) | 3:48 |
 | 52 | [Guerra e Paz \- Acústico Live](https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Jota Quest Acústico CCBB LIVE EP](https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU) | 3:10 |
 | 53 | [I Wanna Get Lost With You \- Acoustic 2015](https://open.spotify.com/track/4rhGVkQaa29ZtWy4M9cbRw) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Keep the Village Alive \(Deluxe Edition\)](https://open.spotify.com/album/5S7SW1LDkaCz3zCJI3Cbhn) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 74 | [Fare Thee Well](https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Fare Thee Well](https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414) | 4:21 |
 | 75 | [Enquanto Houver Sol \- Trio Acústico](https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Enquanto Houver Sol \(Trio Acústico\)](https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9) | 3:33 |
 
-Snapshot ID: `AAAAANg6Yib6Hfy8DyPtvI+trs1+njzJ`
+Snapshot ID: `AAAAAJvEpZSIHQK/+1fezhgsiZ/66SnB`

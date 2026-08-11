@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 125538,
       "name": "ANASA",
       "url": "https://open.spotify.com/track/11Armj1pAkue0iBdNbNRWp"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 128611,
       "name": "BBB",
       "url": "https://open.spotify.com/track/4ff2Xlgyc33wNP5a8dITfj"
@@ -3170,6 +3170,24 @@
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203244,
+      "name": "CHATGPT",
+      "url": "https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi"
     },
     {
       "album": {
@@ -4636,7 +4654,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 210421,
       "name": "Ehis Themata",
       "url": "https://open.spotify.com/track/1ac3yejwhid4oQEmJgURf8"
@@ -7752,7 +7770,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 181224,
       "name": "KAKOS GIA SENA",
       "url": "https://open.spotify.com/track/7kBrXPkGGmQMDmnz7Bi1Yh"
@@ -8062,7 +8080,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 233433,
       "name": "Keri Anameno - Original Tv Series \"Sasmos\" Soundtrack",
       "url": "https://open.spotify.com/track/6yam1g0AJJFfTqCHj6awPn"
@@ -8734,7 +8752,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -15105,6 +15123,28 @@
     },
     {
       "album": {
+        "name": "Apo Tin Psixi, Live Stin Foni",
+        "url": "https://open.spotify.com/album/38WMliKTu034ZnovPAqz3R"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        },
+        {
+          "name": "Sfera 102.2",
+          "url": "https://open.spotify.com/artist/0eCQu0SIutiqVJzqkSxFmu"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161076,
+      "name": "Tha Thes Na Me Vreis - Live",
+      "url": "https://open.spotify.com/track/5aTJGGcFXRfXdZ88fCADMo"
+    },
+    {
+      "album": {
         "name": "Thalasses",
         "url": "https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5"
       },
@@ -16313,6 +16353,28 @@
     },
     {
       "album": {
+        "name": "NBRNT",
+        "url": "https://open.spotify.com/album/2Xbqbslr8jFHCQgDchVuqm"
+      },
+      "artists": [
+        {
+          "name": "\u039d.\u039f.\u0395.",
+          "url": "https://open.spotify.com/artist/32YyBhznrvsMy7KtZRZxU5"
+        },
+        {
+          "name": "AVANTI MAESTRAW",
+          "url": "https://open.spotify.com/artist/0XUT7j67q53eFa9hzA4uLM"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207843,
+      "name": "Vaccine",
+      "url": "https://open.spotify.com/track/1lCEKvT4OPOCBAJQ1t8wvA"
+    },
+    {
+      "album": {
         "name": "10 (PART 2)",
         "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
       },
@@ -16372,6 +16434,24 @@
       "duration_ms": 135636,
       "name": "VARKARIS",
       "url": "https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6"
+    },
+    {
+      "album": {
+        "name": "VASHA",
+        "url": "https://open.spotify.com/album/3ey3m8Nh0etir8m6h1l6Qr"
+      },
+      "artists": [
+        {
+          "name": "Enca",
+          "url": "https://open.spotify.com/artist/6wBMW3WjTK0tQETJviyov9"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159081,
+      "name": "VASHA",
+      "url": "https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR"
     },
     {
       "album": {

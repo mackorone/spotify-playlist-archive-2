@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pop's R&D department ⚡️🧪🧬 cover: Coupdekat
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,975 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,961 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [I Feel Fantastic](https://open.spotify.com/track/2eqIYvwLkyGGBWEf6q9EHZ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [I Feel Fantastic](https://open.spotify.com/album/3QaoD6p4DtTMsdzGKwSDEt) | 3:38 |
 | 80 | [Out My Body](https://open.spotify.com/track/1pA3PUVtJALwxZIQ6wj42X) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Out My Body](https://open.spotify.com/album/0PUCTG6UZVmyECMr5OjYZh) | 2:49 |
 
-Snapshot ID: `AAAAAMLfCFzzMCQLW8jLjzPizxwcnJDO`
+Snapshot ID: `AAAAAN7QVR6Rx5CIlhgvjwu72YikazR3`

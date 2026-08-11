@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,607 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,634 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 6 | [In Time](https://open.spotify.com/track/6in3OVQ12MZXq1nL7eZliB) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 4:01 |
 | 7 | [Wrong Side of Heaven](https://open.spotify.com/track/3h3CY7iaumUauNt8kFz68m) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy) | 4:31 |
 | 8 | [Jekyll and Hyde](https://open.spotify.com/track/06wOEnYhsaFFMQrKWwkEzn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/0naP00nq9MrCSrLDdhqmI0) | 3:26 |
-| 9 | [De Oppresso Liber](https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [De Oppresso Liber](https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ) | 4:00 |
+| 9 | [Welcome To The Circus](https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:16 |
 | 10 | [Unscathed](https://open.spotify.com/track/1GzTfKNEPBDk8yBqh9I0Vr) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:56 |
-| 11 | [Welcome To The Circus](https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:16 |
+| 11 | [De Oppresso Liber](https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [De Oppresso Liber](https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ) | 4:00 |
 | 12 | [Wash It All Away](https://open.spotify.com/track/7bqoEdzTKri8qKUFbbtZar) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/0naP00nq9MrCSrLDdhqmI0) | 3:45 |
 | 13 | [Blue on Black](https://open.spotify.com/track/6azM3nHT9j8ZeZIHhsuWEs) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None](https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr) | 4:34 |
 | 14 | [Legacy](https://open.spotify.com/track/3kNxNSNAu5I9ZIb6RcYkZf) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dwoSs.md) - [plain]
 | 49 | [Cold \- 2025 VERSION](https://open.spotify.com/track/3iJD97o04av0fRPMmciboH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:46 |
 | 50 | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Holy Water \(feat\. Ivan Moody of Five Finger Death Punch\)](https://open.spotify.com/album/2VO6HxN9o1v3s3zSKlLoiz) | 3:01 |
 
-Snapshot ID: `anZxgAAAAAD+JJhWl1kJ/r8psyp6nBBf`
+Snapshot ID: `anfDAAAAAADXx+lUJNRnp0kpvOvEfHkh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,416 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,405 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 15 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 16 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 17 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 |
-| 18 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
-| 19 | [Nettles](https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 8:03 |
+| 18 | [Nettles](https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 8:03 |
+| 19 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
 | 20 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 |
 | 21 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |
 | 22 | [No Introduction](https://open.spotify.com/track/0zgcef8wT0O27OI2vPGnB9) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:41 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 28 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 29 | [Oneida](https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:38 |
 | 30 | [Take Me Thru Dere](https://open.spotify.com/track/2GFawZaMjG8QLxiR4OD3db) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [DJ Spinz](https://open.spotify.com/artist/7m4YY1JUSagIGuM9BL7KR1) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 2:42 |
-| 31 | [Bodies](https://open.spotify.com/track/4zhdSsssstuVDXyGDb3pYi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies](https://open.spotify.com/album/5xHE0icKPFByUlGL0ygWd6) | 2:58 |
-| 32 | [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 |
+| 31 | [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 |
+| 32 | [Bodies](https://open.spotify.com/track/4zhdSsssstuVDXyGDb3pYi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies](https://open.spotify.com/album/5xHE0icKPFByUlGL0ygWd6) | 2:58 |
 | 33 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
 | 34 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 |
 | 35 | [The Sofa](https://open.spotify.com/track/1gqxVK8URuPT86iFbv2vVL) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:26 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 37 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
 | 38 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 |
 | 39 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
-| 40 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
-| 41 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
+| 40 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
+| 41 | [Keep Sweet](https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 4:03 |
 | 42 | [Uno II](https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:15 |
 | 43 | [Everything Is Peaceful Love](https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:30 |
 | 44 | [Munyon Canyon](https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 79 | [When Will The Love Rain Down](https://open.spotify.com/track/3gb4jKjy2PG4d5N7kl1qe3) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:43 |
 | 80 | [300 dreams](https://open.spotify.com/track/6YsFJWEFXpglxa0WuboO4A) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/0pJY5bcv2APpVdSo6uJVII) | 3:08 |
 
-Snapshot ID: `AAAAAInzotmBq5hyYPXEiOw4zA5nRAB3`
+Snapshot ID: `AAAAAIQ0lq9lFe+CrSaMzzjWDhO0S4Eb`

@@ -9723,6 +9723,28 @@
     },
     {
       "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
+    },
+    {
+      "album": {
         "name": "How I Get",
         "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
       },
@@ -16766,7 +16788,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"

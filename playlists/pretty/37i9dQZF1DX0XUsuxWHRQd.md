@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > Music from Lil Uzi Vert, Lil Baby and Pooh Shiesty.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,605,679 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,604,766 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dead Fresh](https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dead Fresh](https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136) | 2:37 |
 | 2 | [Shabang](https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:08 |
-| 3 | [Poured](https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 3:00 |
-| 4 | [Konnichiwa](https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:33 |
-| 5 | [Last Man Breathin](https://open.spotify.com/track/0yr6Sa2SLF4g6PTT3T3UkL) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Last Man Breathin](https://open.spotify.com/album/4xvAitL2IE5n0p4dLRQmv8) | 4:04 |
-| 6 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
-| 7 | [Nightmares To Dreams](https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Nightmares To Dreams](https://open.spotify.com/album/7pimoRaeILGeWTQPOpwADL) | 3:14 |
+| 3 | [Konnichiwa](https://open.spotify.com/track/2d0UrqT7OYP0gcntGV2rsp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:33 |
+| 4 | [Nightmares To Dreams](https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Nightmares To Dreams](https://open.spotify.com/album/7pimoRaeILGeWTQPOpwADL) | 3:14 |
+| 5 | [Poured](https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 3:00 |
+| 6 | [Last Man Breathin](https://open.spotify.com/track/0yr6Sa2SLF4g6PTT3T3UkL) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Last Man Breathin](https://open.spotify.com/album/4xvAitL2IE5n0p4dLRQmv8) | 4:04 |
+| 7 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
 | 8 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
 | 9 | [Outside](https://open.spotify.com/track/66akDgOGJi139ys0umhBns) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Outside](https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT) | 3:04 |
 | 10 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [KILLIN EM](https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [KILLIN EM](https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR) | 1:53 |
 | 50 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
 
-Snapshot ID: `AAAAADY4xfPHJ4thQVAEfuGx+VTJxWQp`
+Snapshot ID: `AAAAAH1Rw3P+IKyITdgBVAiC8XsxTd5m`

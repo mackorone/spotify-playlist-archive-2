@@ -21316,7 +21316,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 219963,
       "name": "Sympathy For The Devil",
       "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
@@ -25196,6 +25196,28 @@
       "duration_ms": 225128,
       "name": "YAWA (Man On A Mission)",
       "url": "https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0"
+    },
+    {
+      "album": {
+        "name": "YELE",
+        "url": "https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Vanco",
+          "url": "https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230550,
+      "name": "YELE",
+      "url": "https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx"
     },
     {
       "album": {

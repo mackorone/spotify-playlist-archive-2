@@ -126,7 +126,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 192298,
       "name": "200 Anos - Ao Vivo",
       "url": "https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 218035,
       "name": "Acaso",
       "url": "https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA"
@@ -652,6 +652,46 @@
       "duration_ms": 144427,
       "name": "ATITUDE",
       "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/3FYxYJtYa7JCL0P0G5tVg0"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/2OLLRxyUx1qVXo3t8lTZed"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202052,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0buwBMI8fS3RBvVF4H8W1a"
+    },
+    {
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "DUP\u00ca",
+          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177130,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO"
     },
     {
       "album": {
@@ -1172,7 +1212,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 116097,
       "name": "Caipiranhas",
       "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
@@ -1620,7 +1660,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 196455,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89"
@@ -2324,7 +2364,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 172399,
       "name": "Funk Triste",
       "url": "https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3"
@@ -2342,7 +2382,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 165000,
       "name": "furta-cor",
       "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
@@ -2852,7 +2892,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 170089,
       "name": "LUA CHEIA",
       "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
@@ -3907,6 +3947,28 @@
     },
     {
       "album": {
+        "name": "Deusimar",
+        "url": "https://open.spotify.com/album/1uI5zgguHsXVl74QBuIrfp"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        },
+        {
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/3fll16LLw6kdDxWzSpJPEQ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171685,
+      "name": "piseiro dos abandonados",
+      "url": "https://open.spotify.com/track/4PT3pmcVqgQvKZBUABV4d3"
+    },
+    {
+      "album": {
         "name": "Traviarcado",
         "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
       },
@@ -4458,7 +4520,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 148826,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
@@ -4766,7 +4828,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 183905,
       "name": "Sideral - Ao Vivo",
       "url": "https://open.spotify.com/track/2ekohr3x5K4PEO0YZXhtYh"

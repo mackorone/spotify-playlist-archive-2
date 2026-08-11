@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,705 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,683 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 15 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
 | 16 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
 | 17 | [Pink cheeks](https://open.spotify.com/track/4HaI6qDEZYHG0sQnd54FDQ) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Pink cheeks](https://open.spotify.com/album/5AKRJ5uBCatoiCbRqnWpIV) | 3:03 |
-| 18 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 |
-| 19 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
+| 18 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
+| 19 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 |
 | 20 | [HMPH!](https://open.spotify.com/track/2CbgyivbjNuNrBuEDMps23) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [HMPH!](https://open.spotify.com/album/0p6ikTEKKhKqtOa6MdqNvn) | 3:00 |
 | 21 | [Hope You're Doing Well](https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:04 |
 | 22 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 37 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
 | 38 | [It's You \(Feat\. ZICO\)](https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7) | [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:17 |
 | 39 | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR), [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [You Might \(Feat\. SHIRT\)](https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD) | 3:07 |
-| 40 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 |
-| 41 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
+| 40 | [Luv Luv Luv](https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [SUNG HAN BIN](https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp) | [My Lovely Liar, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl) | 3:22 |
+| 41 | [Sleepless in Seoul \(feat\. LEE SUHYUN\)](https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(feat\. LEE SUHYUN\)](https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f) | 4:17 |
 | 42 | [doodle \(Feat\. Yerin Baek\) \(Prod\. by WOOGIE\)](https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [doodle](https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV) | 3:07 |
 | 43 | [Across the universe](https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN) | 4:07 |
 | 44 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
 | 45 | [lost in you](https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [lost in you](https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I) | 3:20 |
-| 46 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 47 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
+| 46 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 |
+| 47 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
 | 48 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 49 | [It's Raining](https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [It's Raining](https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE) | 3:34 |
-| 50 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our Love is Great](https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3) | 3:53 |
+| 50 | [Daydream \(feat\. LeeHi\)](https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:14 |
 
-Snapshot ID: `AAAAANQLXIh577RxPxJEyAVJcDui5UtU`
+Snapshot ID: `AAAAANNO6jM9B6Ov9U3Mt6Wo+7xFguS0`

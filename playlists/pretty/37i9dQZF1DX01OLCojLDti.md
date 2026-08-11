@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 9 | [心キラララ](https://open.spotify.com/track/5qnyyQDnoaBrrJrzV3WQm5) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [心キラララ](https://open.spotify.com/album/2pnYfYP4Jki32IDSFRnM5K) | 3:28 |
 | 10 | [シェキラ☆☆☆](https://open.spotify.com/track/7lmoKU5kY1haRL1N1hiqzE) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [シェキラ☆☆☆](https://open.spotify.com/album/6omYirdfRVRWanhMVbCLBM) | 4:22 |
 | 11 | [Ringing!](https://open.spotify.com/track/2P88zTV5gzpva4y6NtVaqg) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:21 |
-| 12 | [Anniversary](https://open.spotify.com/track/6Apn1bEXeeBqCuxzMDekHQ) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:30 |
-| 13 | [Message](https://open.spotify.com/track/3kWOerHNFMYfcWEgABBdz3) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:45 |
+| 12 | [Message](https://open.spotify.com/track/3kWOerHNFMYfcWEgABBdz3) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:45 |
+| 13 | [Anniversary](https://open.spotify.com/track/6Apn1bEXeeBqCuxzMDekHQ) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:30 |
 | 14 | [変わらないすべて](https://open.spotify.com/track/7h0BBoDxVkGsAh0oHUUsm6) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF), [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [変わらないすべて](https://open.spotify.com/album/4OByCHwJJ9b2S1jxd7j1Tr) | 4:00 |
 | 15 | [DAISUKI FULL POWER](https://open.spotify.com/track/2TyMixo6q2jstl9WxvPm0d) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [DAISUKI FULL POWER](https://open.spotify.com/album/4Iapc6S2Ee4O4ntomE2Igw) | 4:07 |
 | 16 | [Memories](https://open.spotify.com/track/0v7X5EKPiOT9UWkhFJNdnx) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた](https://open.spotify.com/album/1gfulWuWUkosvrZxXPlmfx) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 49 | [Second Sparkle](https://open.spotify.com/track/45f4GDIfxYJempbVqaxvtV) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:25 |
 | 50 | [Go!! リスタート](https://open.spotify.com/track/12oaNgoIITBrPJBY6yDBLz) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [Welcome to 僕らのセカイ / Go!! リスタート \(第1話盤\)](https://open.spotify.com/album/2DNuAnj2LYjDW5A2ueXQWa) | 3:32 |
 
-Snapshot ID: `AAAAAK/eBH6P+/sVUmqHmF/VpKqKxG4u`
+Snapshot ID: `AAAAABG+OOrCrgD0INaEy01xhIR0fte8`

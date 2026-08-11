@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,079 likes - 50 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,082 likes - 50 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 10 | [From The Rising](https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 4:15 |
 | 11 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 12 | [Promise Keeper](https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Promise Keeper](https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb) | 15:53 |
-| 13 | [Hollow](https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:58 |
-| 14 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 |
+| 13 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 |
+| 14 | [Hollow](https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:58 |
 | 15 | [Akamdinelu](https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:02 |
 | 16 | [Amazing God](https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:56 |
 | 17 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 25 | [Selense](https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Bank Statements](https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D) | 4:25 |
 | 26 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 |
 | 27 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 |
-| 28 | [Lifter](https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
-| 29 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
+| 28 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
+| 29 | [Lifter](https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
 | 30 | [Oke Mmiri \- Live](https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 10:13 |
 | 31 | [Who Is on the Lord's Side](https://open.spotify.com/track/5pVeIe34S5rbP6FZAEahBS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 10:29 |
-| 32 | [Oh Jesus](https://open.spotify.com/track/6DzPP3UsVIiBvPCZlkHG3S) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:41 |
-| 33 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
+| 32 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 |
+| 33 | [Oh Jesus](https://open.spotify.com/track/6DzPP3UsVIiBvPCZlkHG3S) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 6:41 |
 | 34 | [Yesterday Today Forever](https://open.spotify.com/track/28ZfSHW7oGWpwW2vefLxLB) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 4:24 |
 | 35 | [I Depend on You](https://open.spotify.com/track/1v5aEbJExlPEVuTxau4xPu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 3:42 |
 | 36 | [Okaka \(The Mighty One\)](https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka \(The Mighty One\)](https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A) | 8:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 49 | [None Like You Lord](https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 6:01 |
 | 50 | [All Powerful and Sovereign](https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:41 |
 
-Snapshot ID: `anZxgAAAAAAWfx7VbHiq+NrSOdt8GcmZ`
+Snapshot ID: `anfDAAAAAAA2Uye0EnfpudzhU1FsbBmc`

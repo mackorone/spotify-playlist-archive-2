@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 grootste hits in NL\. Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,631 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,598 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [Pakt Mij](https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Pakt Mij](https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ) | 2:44 |
 | 50 | [Midnight Sun](https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
 
-Snapshot ID: `AAAAAMkzDDHLYF+KAYynQncQZMlRAWFv`
+Snapshot ID: `AAAAAGK+dF+p6Fm2h+gDiIJB2Bw3ZIjk`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,637 songs - 3 day 10 hr 8 min
+1,638 songs - 3 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Benimle Kayboldun](https://open.spotify.com/track/6pJI8iZBKPuMjWDstvO081) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:09 | 2021-04-19 | 2021-05-19 |
 | [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 | 2023-10-10 | 2024-12-03 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
-| [Beyaz](https://open.spotify.com/track/01BIEhvSOowecScRovMFll) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Beyaz](https://open.spotify.com/album/3F2qZV4NutxdUCXbzq9Tub) | 4:30 | 2026-07-09 | 2026-07-24 |
+| [Beyaz](https://open.spotify.com/track/01BIEhvSOowecScRovMFll) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Beyaz](https://open.spotify.com/album/3F2qZV4NutxdUCXbzq9Tub) | 4:30 | 2026-07-09 |  |
 | [Beyaz Olamadım Ama Karada Değilim\(Live Versiyon\)](https://open.spotify.com/track/6vgp2HllNIZKVedO7zX5V3) | [SİNAN ATLI](https://open.spotify.com/artist/3ez8LAkkiUNlcHb7gNAyxR) | [Beyaz Olamadım Ama Karada Değilim](https://open.spotify.com/album/1RuT6ETlO6fvOOdRF82DAQ) | 3:44 | 2026-06-06 | 2026-06-08 |
 | [Beyaz Skandalım](https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/2sXpdxb6xQ1t3lOX072al6) | 3:35 | 2021-06-12 | 2022-01-05 |
 | [Beyaz Skandalım](https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/5ux7MVV2OT5BOOLXETC4qL) | 3:35 | 2022-01-04 | 2022-02-13 |
@@ -455,7 +455,7 @@
 | [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-23 | 2023-02-09 |
 | [Dip](https://open.spotify.com/track/17MzeMBa6mWeY30BWYW8dd) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/1tOfXoKAd5AcUpq2MCge2W) | 3:43 | 2021-04-13 | 2021-05-16 |
 | [Direniyorum](https://open.spotify.com/track/2gcVsbyo517zAHOyvGbZWB) | [Rafet El Roman](https://open.spotify.com/artist/5gs9qloTR5m6dM0ScMty3H) | [Sevgiye Zaman Ver](https://open.spotify.com/album/787uYig5h50xsm6yAyHzMx) | 3:46 | 2023-12-26 | 2024-01-17 |
-| [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 | 2026-07-17 |  |
+| [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 | 2026-07-17 | 2026-08-11 |
 | [Diva Yorgun](https://open.spotify.com/track/006oGnrSZevqZTimsD2oh4) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Diva Yorgun](https://open.spotify.com/album/1CmMKVtTFW7yG4k6PlfWzQ) | 4:19 | 2023-06-17 | 2023-11-26 |
 | [Divane](https://open.spotify.com/track/3V9Cf4pENsRh02WTMJ726n) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:52 | 2025-06-09 | 2025-06-29 |
 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2022-12-24 | 2023-09-23 |
@@ -1079,7 +1079,7 @@
 | [NAFİLE](https://open.spotify.com/track/6za5uNOnbaJ2nsW0HiMCCF) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [NAFİLE](https://open.spotify.com/album/0d5fkTh2cdJAgY1hSiwKyK) | 1:54 | 2026-04-11 | 2026-06-20 |
 | [NAFİLE \- Live](https://open.spotify.com/track/1KnNHgP2PZ5lawW1Ni4dRm) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [NAFİLE \(Live\)](https://open.spotify.com/album/5HLyq8VPzJkgZyt7yX56F2) | 1:42 | 2026-04-19 | 2026-04-24 |
 | [NALAKA](https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [NALAKA](https://open.spotify.com/album/7sE9isq4Y1SbEVHdaR6Gmb) | 1:46 | 2026-04-16 | 2026-05-01 |
-| [napıyosun mesela ?](https://open.spotify.com/track/5QxnPSQq5E2N07b4n5zxGK) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 3:05 | 2026-06-06 |  |
+| [napıyosun mesela ?](https://open.spotify.com/track/5QxnPSQq5E2N07b4n5zxGK) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 3:05 | 2026-06-06 | 2026-08-11 |
 | [napıyosun mesela ?](https://open.spotify.com/track/4PA0CfHSeg5yYx7PCyGeMb) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 3:05 | 2025-07-19 | 2026-06-07 |
 | [Narcos](https://open.spotify.com/track/0wbnC9AUenxp613TYaJsGK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:15 | 2021-05-08 | 2021-05-11 |
 | [nasıl kurtulurum senden ?](https://open.spotify.com/track/5MaVEvwqF3ZxcMMVzdQdhn) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [nasıl kurtulurum senden ?](https://open.spotify.com/album/6hSO5z0e28AphEi5Dpqd6o) | 1:38 | 2026-01-31 | 2026-03-22 |
@@ -1110,6 +1110,7 @@
 | [NKBİ 2.0](https://open.spotify.com/track/63AIGuQJ8ZJWx02a9On4ov) | [Batuhan Şenel](https://open.spotify.com/artist/5ajPGCI6ThsiQNtgS3cn0K) | [NKBİ 2.0](https://open.spotify.com/album/62BXK8tzVl2eszPRgEjM4r) | 3:00 | 2022-12-27 | 2022-12-29 |
 | [NKBİ 2.0](https://open.spotify.com/track/6a2HEgqlTmdxMOaLiLJz7O) | [Shuzky](https://open.spotify.com/artist/0LYZv1HvXUlUGnTXZeiAgw), [Godzee](https://open.spotify.com/artist/5vQvrYiNH2jK4GWSmbxK1T) | [NKBİ 2.0](https://open.spotify.com/album/1hif1tjTQ2RNijfzS8QWO7) | 2:58 | 2022-11-26 | 2022-12-01 |
 | [NKBİ X YAPAMAM \- Remix](https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [NKBİ X YAPAMAM \(Remix\)](https://open.spotify.com/album/0mb2uVTelCRlvgRgVrzAPZ) | 3:02 | 2022-12-31 | 2024-03-31 |
+| [Noldu Böyle](https://open.spotify.com/track/0Yhn2lIPjySylxMkmHuBIW) | [Asil Gök](https://open.spotify.com/artist/0d43Fqs68Oboh6XXo4ztgn) | [Noldu Böyle](https://open.spotify.com/album/3LG4klpFuFGNyYl0RytLtU) | 2:20 | 2026-08-10 |  |
 | [Noluyo Lan!?](https://open.spotify.com/track/4u1TAi6bJhjh1lEiPdLlXl) | [Woohox](https://open.spotify.com/artist/4AJ8rIUUiF1DmoVE5ZKc0T) | [Noluyo Lan!?](https://open.spotify.com/album/0A14tPFd2WIi1mMtLvjDTQ) | 2:35 | 2025-11-27 | 2025-12-04 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-02-12 | 2025-02-16 |
 | [Numaracı](https://open.spotify.com/track/6LATAa81iyMHWhXgI4VHwL) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:16 | 2023-07-22 | 2024-01-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > pop that \*hits different\* featuring daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,850 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,787 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,17 +58,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 48 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 49 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
 | 50 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
-| 51 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
-| 52 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
+| 51 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 |
+| 52 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 53 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 54 | [Too Fast To Live, Too Young To Die](https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Too Fast To Live, Too Young To Die](https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP) | 3:21 |
 | 55 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 |
 | 56 | [Crush](https://open.spotify.com/track/0havv7ozSTF6wMHEDKdibs) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Crush](https://open.spotify.com/album/4RhbgW0hODMezXulWgbIBU) | 2:13 |
-| 57 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
-| 58 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 |
-| 59 | [Couldn’t Make It Any Harder](https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:59 |
-| 60 | [If I Ever Talk To God](https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [If I Ever Talk To God](https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy) | 2:40 |
-| 61 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
+| 57 | [WANTCHU](https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [WANTCHU](https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI) | 3:19 |
+| 58 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
+| 59 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |
+| 60 | [Couldn’t Make It Any Harder](https://open.spotify.com/track/5YwBaDW36fztKNnoiHQar3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:59 |
+| 61 | [If I Ever Talk To God](https://open.spotify.com/track/6b9389wXP725IPkaa4qbJL) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [If I Ever Talk To God](https://open.spotify.com/album/11YEqBXjQnDej8wmDEyJSy) | 2:40 |
 | 62 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 |
 | 63 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 |
 | 64 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 67 | [CHOOM](https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 2:58 |
 | 68 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
 | 69 | [When Did You Stop Loving Me?](https://open.spotify.com/track/4ejDIKJgiukea84koZCHOk) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft 2](https://open.spotify.com/album/1HLPrsMA3hNam0blTZ8Kte) | 3:50 |
-| 70 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
-| 71 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 70 | [Weirdo](https://open.spotify.com/track/0sZLzafgqCzvnzhh8B97r2) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:31 |
+| 71 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
 | 72 | [EVERYTHING I'VE EVER WANTED](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 2:15 |
 | 73 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 |
 | 74 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 75 | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 |
-| 76 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
-| 77 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
-| 78 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
-| 79 | [SAME LA](https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:44 |
-| 80 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 |
+| 76 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
+| 77 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
+| 78 | [SAME LA](https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:44 |
+| 79 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 |
+| 80 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
 
-Snapshot ID: `AAAAAFltLTtMmB3fOS60Q8Vt9MSdlYoM`
+Snapshot ID: `AAAAAOdj4WoPI6nZBHlJOGt/X29dHdZh`

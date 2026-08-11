@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 669607,
+  "num_followers": 669635,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABCz+s7yTK6pRlkT4RvnnH8",
+  "snapshot_id": "anfDAAAAAABSrRokn3mH0AXt3SDqEkaE",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 326271,
+      "name": "Suit & Tie (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 232466,
       "name": "Carry Out (Featuring Justin Timberlake)",
       "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 326271,
-      "name": "Suit & Tie (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5"
     },
     {
       "added_at": null,

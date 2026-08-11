@@ -9209,6 +9209,24 @@
     },
     {
       "album": {
+        "name": "Worship Wells",
+        "url": "https://open.spotify.com/album/6b3NHJK7lx7CGBrhdsu0QK"
+      },
+      "artists": [
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Lifter of my head",
+      "url": "https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q"
+    },
+    {
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A"
       },
@@ -10486,7 +10504,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 266773,
       "name": "My Hope - Live",
       "url": "https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop"
@@ -10552,7 +10570,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 493025,
       "name": "My Life - Live",
       "url": "https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ"
@@ -11336,6 +11354,24 @@
       "duration_ms": 176565,
       "name": "Nothing Without Him",
       "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
+    },
+    {
+      "album": {
+        "name": "Nyame Banbofo (God the Protector)",
+        "url": "https://open.spotify.com/album/4bY3fGW7US97ciDNc2gvaA"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490655,
+      "name": "Nyame Banbofo (God the Protector)",
+      "url": "https://open.spotify.com/track/36rSop2sGVqDg3ueSHb8pI"
     },
     {
       "album": {

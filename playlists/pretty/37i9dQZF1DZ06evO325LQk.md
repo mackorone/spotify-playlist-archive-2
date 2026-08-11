@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,431 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,433 likes - 44 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 12 | [JUST LIKE WE NEVER SAID GOODBYE](https://open.spotify.com/track/2SCyDaDxOEmqgEvak5Yt0N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 3:08 |
 | 13 | [Faceshopping](https://open.spotify.com/track/59PYsHSyznHHH9gujZvO5Y) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:56 |
 | 14 | [Go Down](https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Go Down](https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq) | 2:26 |
-| 15 | [LEMONADE](https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [LEMONADE](https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3) | 1:58 |
+| 15 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:52 |
 | 16 | [OOH](https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:31 |
-| 17 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:52 |
+| 17 | [LEMONADE](https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [LEMONADE](https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3) | 1:58 |
 | 18 | [Nothing More to Say \- Dub](https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Nothing More to Say](https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi) | 5:25 |
 | 19 | [It's Okay To Cry](https://open.spotify.com/track/5djCX0bDd96N89Ayv5Y8Y2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:50 |
 | 20 | [La Chíqui](https://open.spotify.com/track/51Xn6IYNyiYaKc8ECI5CUr) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:47 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 43 | [Intro \(The Full Horror\)](https://open.spotify.com/track/3YPfxc8VgXcRWLjyjNNJ96) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:32 |
 | 44 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 5:27 |
 
-Snapshot ID: `anZxgAAAAAANA4W6MSHRRgp/hnL1XDcu`
+Snapshot ID: `anfDAAAAAAAzZdxXDh0QkMlgbPhvIGJ3`

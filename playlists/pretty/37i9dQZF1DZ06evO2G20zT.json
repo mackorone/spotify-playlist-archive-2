@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 52580,
+  "num_followers": 52627,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAH4cJJZ51RmdrD1xl35mEI",
+  "snapshot_id": "anfDAAAAAABo39zPGIWwi7mmuX2TEtX/",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123219,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 140606,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123219,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
     },
     {
       "added_at": null,
@@ -839,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 145002,
-      "name": "Lagos",
-      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
+      "duration_ms": 140240,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
     },
     {
       "added_at": null,
@@ -871,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
       },
       "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 140240,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
+      "duration_ms": 145002,
+      "name": "Lagos",
+      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
     },
     {
       "added_at": null,

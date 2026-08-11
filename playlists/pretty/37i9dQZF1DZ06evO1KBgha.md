@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 > This is Kenia Os\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,210 likes - 47 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,244 likes - 47 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 18 | [JACKPOT](https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:13 |
 | 19 | [Ojo X Ojo](https://open.spotify.com/track/3OGOwjwdae1OulCD4DK1ic) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:00 |
 | 20 | [Good Boy](https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:03 |
-| 21 | [Fifty Fifty](https://open.spotify.com/track/1gMrWve44Y9plqq2i0aK18) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [K de Karma](https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc) | 3:01 |
+| 21 | [Problemática](https://open.spotify.com/track/7Hfw5AsyR5lvqxXi6KEfIl) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K de Karma](https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc) | 2:22 |
 | 22 | [Tokome](https://open.spotify.com/track/0NaRr23qzWGYpd0YWRRQS6) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tokome](https://open.spotify.com/album/2U3MC2eCMzqyNvhNFDUfxo) | 2:37 |
 | 23 | [Bobo](https://open.spotify.com/track/4WjDltdgowln78iPoiolIQ) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:00 |
 | 24 | [Botellita](https://open.spotify.com/track/0HXnUYLIIzaeO2ACjuw43s) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:37 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 46 | [Kenia Roast Yourself](https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Kenia Roast Yourself](https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779) | 3:56 |
 | 47 | [Días Tristes \| Live From Vevo Studios](https://open.spotify.com/track/3ehsmwSi4oO9fW4XpAwj2a) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Días Tristes \| Live From Vevo Studios](https://open.spotify.com/album/19i3iS7SZLO5MybFh9Hb5M) | 2:48 |
 
-Snapshot ID: `anZxgAAAAAA5f4OMsN6ALeVAN77cGlP+`
+Snapshot ID: `anfDAAAAAACo4cCb81DiIorCxrMTP/Yg`

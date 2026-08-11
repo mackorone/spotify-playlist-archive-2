@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alejandro Sanz y Eden Mu\u00f1oz,  en portada ",
-  "num_followers": 862252,
+  "num_followers": 862310,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIszlbAR1l8FBqZeuu9/XtaqsbVQ",
+  "snapshot_id": "AAAAADjcb3GOVVlsSdogNNlBLXTabTEw",
   "tracks": [
     {
       "added_at": "2026-08-07 22:44:38",
@@ -295,18 +295,22 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Al Final Del D\u00eda",
-        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
+        "name": "Recuerdos en Com\u00fan",
+        "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 208484,
-      "name": "Al Final Del D\u00eda",
-      "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
+      "duration_ms": 214700,
+      "name": "Recuerdos en Com\u00fan",
+      "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -331,22 +335,18 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Recuerdos en Com\u00fan",
-        "url": "https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT"
+        "name": "Al Final Del D\u00eda",
+        "url": "https://open.spotify.com/album/3b7fTYz6N1uu9a2Ifj51ME"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 214700,
-      "name": "Recuerdos en Com\u00fan",
-      "url": "https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf"
+      "duration_ms": 208484,
+      "name": "Al Final Del D\u00eda",
+      "url": "https://open.spotify.com/track/6VBGFvNil2VJuZtYseebZ5"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -387,6 +387,26 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 206538,
+      "name": "OSAD\u00cdA",
+      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
-        "name": "OSAD\u00cdA",
-        "url": "https://open.spotify.com/album/3YURBd6TmCxXu5K6lOYWvT"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 206538,
-      "name": "OSAD\u00cdA",
-      "url": "https://open.spotify.com/track/0cCKN8doEIZ3mk7pXN0nW5"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
+        "name": "La Magia de Conectar",
+        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "La Magia de Conectar",
+      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
         "name": "PASE Y PASE",
         "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 175522,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/6oLeiLXwyuExCdb5yKwupB"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
-        "name": "La Magia de Conectar",
-        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "La Magia de Conectar",
-      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -575,22 +575,18 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 172066,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O"
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -615,18 +611,22 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Mi Yo de Antes",
-        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/45YKf1761lYqYzO6GEZmQt"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
         }
       ],
-      "duration_ms": 182793,
-      "name": "Mi Yo de Antes",
-      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
+      "duration_ms": 172066,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/1PVVYqyciYdBGBm0p0Iq2O"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
-        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 171062,
-      "name": "Eres Mi Nada",
-      "url": "https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "Ll\u00e9vala a La Luna",
         "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 164214,
       "name": "Ll\u00e9vala a La Luna",
       "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
+        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 171062,
+      "name": "Eres Mi Nada",
+      "url": "https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Las Dos Me Duelen",
-        "url": "https://open.spotify.com/album/5YG1FAdMuX2IqdQ65mPnCb"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Las Dos Me Duelen",
-      "url": "https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "Pa la Ma\u00f1a",
         "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 159937,
       "name": "Pa la Ma\u00f1a",
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "Las Dos Me Duelen",
+        "url": "https://open.spotify.com/album/5YG1FAdMuX2IqdQ65mPnCb"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Las Dos Me Duelen",
+      "url": "https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "SI SE ACABA EL MUNDO",
-        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "SI SE ACABA EL MUNDO",
-      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "C Y Medio",
         "url": "https://open.spotify.com/album/6ajjSA5aKCb0yHjLLrVYw6"
       },
@@ -959,22 +939,22 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
         },
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         }
       ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -991,6 +971,26 @@
       "duration_ms": 179818,
       "name": "Ojitos Bellos",
       "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "Cada Vez Me Gusta M\u00e1s",
         "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
       },
@@ -1095,22 +1075,22 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Agu\u00e1ntame",
-        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
         },
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
         }
       ],
-      "duration_ms": 128409,
-      "name": "Agu\u00e1ntame",
-      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
+      "duration_ms": 171880,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1127,6 +1107,26 @@
       "duration_ms": 154699,
       "name": "Mostaza",
       "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "Agu\u00e1ntame",
+        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 128409,
+      "name": "Agu\u00e1ntame",
+      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
+        "name": "NO TODO ES PARTE DE LA VIDA",
+        "url": "https://open.spotify.com/album/724d6AWwToirfFH00SSUxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 244042,
+      "name": "NO TODO ES PARTE DE LA VIDA",
+      "url": "https://open.spotify.com/track/1Ov1LTLDGkVSNpHjWuXeqw"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
         "name": "T\u00fa Ni En Cuenta",
         "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "NO TODO ES PARTE DE LA VIDA",
-        "url": "https://open.spotify.com/album/724d6AWwToirfFH00SSUxl"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 244042,
-      "name": "NO TODO ES PARTE DE LA VIDA",
-      "url": "https://open.spotify.com/track/1Ov1LTLDGkVSNpHjWuXeqw"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "SE LLEG\u00d3 EL VERANO",
         "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 177408,
       "name": "LA PLAYA",
       "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
-        "name": "Con dolor",
-        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "Pary",
-      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Tu Falta De Querer",
-        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 193684,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
+      "duration_ms": 172218,
+      "name": "Pary",
+      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1311,6 +1295,22 @@
       "duration_ms": 186874,
       "name": "beam",
       "url": "https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "Tu Falta De Querer",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Un Vals",
-        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 189791,
-      "name": "Un Vals",
-      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 202426,
       "name": "De ti me enamor\u00e9",
       "url": "https://open.spotify.com/track/3FWD1jZwNuEk7SJOt1R8MV"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "Un Vals",
+        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "Un Vals",
+      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
     }
   ],
   "unique_name": "Top M\u00e9xico",

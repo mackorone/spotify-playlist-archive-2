@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover: Mary Ann Alexander
+> Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
 
-446 songs - 1 day 0 hr 56 min
+447 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2022-01-31 | 2023-06-07 |
 | [Faasle](https://open.spotify.com/track/3vKclvEn6o2UyHl9WR6958) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Bitter Sweet](https://open.spotify.com/album/1x1xYzNzlziGfjTGmYCKUl) | 3:08 | 2022-01-10 | 2023-01-11 |
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2022-01-10 | 2022-06-21 |
+| [feeling good](https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [feeling good](https://open.spotify.com/album/6j3hoQTyj96ANnqCZXDcTS) | 3:21 | 2026-08-10 |  |
 | [Find Me](https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A), [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [Find Me](https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm) | 3:01 | 2026-02-05 | 2026-03-12 |
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2021-12-06 | 2022-03-22 |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [GrapeGuitarBox](https://open.spotify.com/artist/0KDH3OhkatkzhqJcf4m8DR) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2021-12-06 | 2022-01-11 |
@@ -278,7 +279,7 @@
 | [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 | 2023-05-19 | 2023-10-19 |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-01-27 | 2023-01-21 |
 | [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 | 2022-01-10 | 2023-01-11 |
-| [Mulaqaat](https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Mulaqaat](https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe) | 3:31 | 2026-06-19 |  |
+| [Mulaqaat](https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Mulaqaat](https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe) | 3:31 | 2026-06-19 | 2026-08-11 |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2022-08-09 | 2026-02-06 |
 | [Muskan](https://open.spotify.com/track/1Ie02uuiSlUSwJU40DsivI) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3jK24UAxFA5fuUEEnoZ0dj) | 3:18 | 2024-12-04 | 2026-01-15 |
 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2022-07-11 | 2023-11-30 |

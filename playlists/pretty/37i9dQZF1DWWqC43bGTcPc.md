@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊 Patrick Brasca
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,485 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,495 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/track/3F6EVsPTrU7MYCQhVOmDcg) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/album/1Ts702VWywWczMuiCmqkoP) | 4:02 |
-| 2 | [一個人](https://open.spotify.com/track/5Vxi8yyujUP3tw8hfR6abp) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [一個人](https://open.spotify.com/album/3GuEwEqnG9TilL1MDYmxlb) | 4:58 |
-| 3 | [停在那邊](https://open.spotify.com/track/15sexXUOQLgqIgB3sLdQZV) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [停在那邊](https://open.spotify.com/album/4fjiXbRTCkgglWdTFQ9IfO) | 3:24 |
-| 4 | [去年下的那場雪](https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [BAD IDEA](https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr) | 4:20 |
-| 5 | [若無你我欲去佗位](https://open.spotify.com/track/63uBr7KrsE4dUHCjFTzn3W) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 3:39 |
-| 6 | [All For You \- 《蜘蛛人：重生日》電影片尾曲](https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [All For You \(《蜘蛛人：重生日》電影片尾曲\)](https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9) | 3:37 |
+| 1 | [All For You \- 《蜘蛛人：重生日》電影片尾曲](https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [All For You \(《蜘蛛人：重生日》電影片尾曲\)](https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9) | 3:37 |
+| 2 | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/track/3F6EVsPTrU7MYCQhVOmDcg) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q), [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [愛上你不是我決定 \(feat\. A\-Lin\)](https://open.spotify.com/album/1Ts702VWywWczMuiCmqkoP) | 4:02 |
+| 3 | [一個人](https://open.spotify.com/track/5Vxi8yyujUP3tw8hfR6abp) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [一個人](https://open.spotify.com/album/3GuEwEqnG9TilL1MDYmxlb) | 4:58 |
+| 4 | [停在那邊](https://open.spotify.com/track/15sexXUOQLgqIgB3sLdQZV) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [停在那邊](https://open.spotify.com/album/4fjiXbRTCkgglWdTFQ9IfO) | 3:24 |
+| 5 | [去年下的那場雪](https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [BAD IDEA](https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr) | 4:20 |
+| 6 | [若無你我欲去佗位](https://open.spotify.com/track/63uBr7KrsE4dUHCjFTzn3W) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 3:39 |
 | 7 | [沒有人像我一樣 \(影集《欠妳的那場婚禮》主題曲\)](https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [沒有人像我一樣](https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le) | 4:06 |
 | 8 | [她已不再是那個女孩](https://open.spotify.com/track/49T3qI4iMo0lAzJq1CWjA3) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [她已不再是那個女孩](https://open.spotify.com/album/5mM9F5AFSaGB2BgODm1jxy) | 4:57 |
 | 9 | [玻璃](https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [玻璃](https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [透明傘](https://open.spotify.com/track/4v3Lyg6PGNUAa6XPaRrP92) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [Vitamin G](https://open.spotify.com/album/2HFyO0GSpAVQh8t50nihzm) | 3:17 |
 | 50 | [客客氣氣 COURTESY](https://open.spotify.com/track/3aZIGAzaPiZY3CXpWLYHfq) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [客客氣氣 COURTESY](https://open.spotify.com/album/1Os0eKiEWbaWF6zZmlQcYj) | 2:37 |
 
-Snapshot ID: `AAAAAMpmql6GL+WhkCELxwIp40aCvU18`
+Snapshot ID: `AAAAAJaR9hfpHIWQvc4t2OW9nOTVAi6I`

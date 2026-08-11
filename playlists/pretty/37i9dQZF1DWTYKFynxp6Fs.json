@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: ARJN, KDS, FIFTY4, Shreya Ghoshal",
-  "num_followers": 716859,
+  "num_followers": 717251,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAO2QcrNgbTcC+eSE0oyxXVmNl8J",
+  "snapshot_id": "AAAAABjfrOo2cQeE9OfERkH4vjGBCvZJ",
   "tracks": [
     {
       "added_at": "2026-07-07 04:33:21",
@@ -269,6 +269,26 @@
       "url": "https://open.spotify.com/track/1aAkDOxVXY9I0VyEuOgRY5"
     },
     {
+      "added_at": "2026-08-10 12:01:47",
+      "album": {
+        "name": "Chorkk",
+        "url": "https://open.spotify.com/album/6xxH1kXfHyT0qVjWMYUCu9"
+      },
+      "artists": [
+        {
+          "name": "MBL_",
+          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
+        },
+        {
+          "name": "ABRAW",
+          "url": "https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L"
+        }
+      ],
+      "duration_ms": 207499,
+      "name": "Chorkk",
+      "url": "https://open.spotify.com/track/683W4wM6HZ3OLMk6z0wh9V"
+    },
+    {
       "added_at": "2026-02-24 18:24:10",
       "album": {
         "name": "Kaattuchembakam (From \"Pallichattambi\")",
@@ -371,30 +391,6 @@
       "duration_ms": 193333,
       "name": "CHEMBARATHI",
       "url": "https://open.spotify.com/track/6PYDvt362YQfghK6cfSpi8"
-    },
-    {
-      "added_at": "2026-07-02 08:47:33",
-      "album": {
-        "name": "Athiradi",
-        "url": "https://open.spotify.com/album/7LZ0qM8tCmY9eLwEDqRbND"
-      },
-      "artists": [
-        {
-          "name": "Vishnu Vijay",
-          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "Suhail Koya",
-          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Ammaputhappe",
-      "url": "https://open.spotify.com/track/6Ae25tEEtHNQVaDfgqiqts"
     },
     {
       "added_at": "2026-02-18 04:59:09",

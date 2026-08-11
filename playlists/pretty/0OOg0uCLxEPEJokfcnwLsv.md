@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,212 likes - 66 songs - 3 hr 56 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,212 likes - 68 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,5 +74,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 64 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 |
 | 65 | [Get Loud](https://open.spotify.com/track/2zcVXazWslVP2YuZjRZkGH) | [Nuisance](https://open.spotify.com/artist/0EmWdAiVab7qmYaatq6Ttb) | [Get Loud](https://open.spotify.com/album/2zod2UcANo2xffg6EU3amr) | 2:21 |
 | 66 | [Whiskey & Cigars](https://open.spotify.com/track/7s6CXTb35AD8F40qey7anI) | [Under Attic](https://open.spotify.com/artist/2v6I3HHCV28vqrBJdXP2ka) | [Whiskey & Cigars](https://open.spotify.com/album/3uOeZJ0JL5pBesVSTYdsNP) | 4:09 |
+| 67 | [Many Moons](https://open.spotify.com/track/6rhXWIuO1sJwhCmfNB9CTv) | [Terrestrials](https://open.spotify.com/artist/0IgtGoVVy0B7ZdqwLIkKCW) | [Many Moons](https://open.spotify.com/album/7xRl9kTbSPglPTcrXpj82f) | 3:41 |
+| 68 | [Hey Jane](https://open.spotify.com/track/4wkekjbUEO1d4txjxm4umF) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 3:22 |
 
-Snapshot ID: `AAAGwWzKWNJlOV0v6zrvuwB4hDhpnYDv`
+Snapshot ID: `AAAGw8UCrOcxHImtEIKZ3kQbbIF8o92O`

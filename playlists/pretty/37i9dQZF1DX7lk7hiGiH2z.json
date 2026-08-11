@@ -1,12 +1,12 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61497,
+  "num_followers": 61504,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzfZWxdkPi4Ne/5zKWg/tRSejFB",
+  "snapshot_id": "AAAAADDYy+6ZJd8xIZGt69uhjYWPDYMd",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:06",
@@ -747,18 +747,22 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+        "name": "Die Kinder spielen verr\u00fcckt",
+        "url": "https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Donots",
+          "url": "https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg"
+        },
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
         }
       ],
-      "duration_ms": 147374,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+      "duration_ms": 174691,
+      "name": "Die Kinder spielen verr\u00fcckt",
+      "url": "https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -779,6 +783,22 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
         "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
         "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 108293,
       "name": "Alle V\u00f6gel sind schon da",
       "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die Kinder spielen verr\u00fcckt",
-        "url": "https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh"
-      },
-      "artists": [
-        {
-          "name": "Donots",
-          "url": "https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg"
-        },
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 174691,
-      "name": "Die Kinder spielen verr\u00fcckt",
-      "url": "https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6"
     },
     {
       "added_at": "2026-08-06 22:01:06",

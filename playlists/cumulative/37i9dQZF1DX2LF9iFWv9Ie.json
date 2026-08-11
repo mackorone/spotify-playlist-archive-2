@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311106,
+      "name": "Welcome to the Black Parade",
+      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+    },
+    {
+      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },

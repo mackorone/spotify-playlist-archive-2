@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,653 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,691 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Devil Wears a Suit and Tie](https://open.spotify.com/track/43UV5Uk0ntzH6MP8Rx1RKh) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/6kV0NSYFjIMVgkhWRDI0bS) | 3:56 |
-| 2 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
-| 3 | [Heaven Passing Through](https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:00 |
+| 2 | [Heaven Passing Through](https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:00 |
+| 3 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
 | 4 | [A House In Nebraska](https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:46 |
 | 5 | [Fear In God](https://open.spotify.com/track/4ukGwNs7VfYRsWk9bJWuf5) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Fear In God](https://open.spotify.com/album/0eqlCc74kIH0hnj1jK9EnX) | 2:58 |
 | 6 | [Heart of Stone](https://open.spotify.com/track/7dHnVfXljNwvlLGlr6lMlc) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 4:25 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 53 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 |
 | 54 | [Lungs](https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Lungs](https://open.spotify.com/album/2gXXc2kHhKHtDpaXNi0M6g) | 2:57 |
 | 55 | [Get What You Give](https://open.spotify.com/track/5eNhIzwEPKnZZNItD5l8ke) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [By The Rule](https://open.spotify.com/album/3dnZ6Hg3vRfAmxzeIh549T) | 3:10 |
-| 56 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
-| 57 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
+| 56 | [Cadillac Dust](https://open.spotify.com/track/6EqH6OTtC3KMxRsU2OGF9A) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Tin Type](https://open.spotify.com/album/1dA2zNQJAgjd7ZO06wZqiu) | 3:14 |
+| 57 | [Psalms](https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 3:40 |
 | 58 | [Heaven Help Me](https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Heaven Help Me](https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m) | 3:04 |
 | 59 | [Sister Death](https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH) | [Look Homeward](https://open.spotify.com/artist/5Z1ANSIGrMWGVKAtJNpOFH) | [Look Homeward](https://open.spotify.com/album/563YScqSxw5TPbx5pYZbXt) | 2:53 |
 | 60 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 70 | [Country Blues](https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk) | [Rose's Pawn Shop](https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3) | [Gravity Well](https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB) | 3:23 |
 | 71 | [Crisscross Way](https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [Crisscross Way](https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb) | 2:44 |
 | 72 | [Dead Man's Pocket](https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 2:54 |
-| 73 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
-| 74 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
+| 73 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
+| 74 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
 | 75 | [How Many Days](https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Ghost Brothers of Darkland County](https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS) | 3:41 |
 | 76 | [Elizabeth](https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Elizabeth](https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU) | 4:01 |
 | 77 | [Moving](https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Moving](https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG) | 3:00 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 80 | [You Don't Fool Me](https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 3:33 |
 | 81 | [Daughter, Daughter](https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC) | [Cris Jacobs](https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Daughter, Daughter](https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw) | 3:25 |
 | 82 | [Virginia \- Acoustic](https://open.spotify.com/track/4JuKvre86tbBagC5LClu3z) | [Eli Waltz](https://open.spotify.com/artist/009jvUML9QGYMzYNAqbHDV) | [Virginia \(Acoustic\)](https://open.spotify.com/album/6qWPnSuSkTBMiFHF8hQD1G) | 5:32 |
-| 83 | [Sun to Sun](https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:04 |
-| 84 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 |
+| 83 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 |
+| 84 | [Sun to Sun](https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:04 |
 | 85 | [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 |
 | 86 | [Skunks](https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Skunks](https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL) | 3:27 |
 | 87 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 91 | [Lay This Body Down](https://open.spotify.com/track/7IBUE2QoRjx5tJFVlsnMDe) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7) | [Lay This Body Down](https://open.spotify.com/album/0gx9i6niYyQVggnjFtAzt1) | 4:47 |
 | 92 | [Devil Don't You Fool Me](https://open.spotify.com/track/5UKMxE8Ec8pa8YLXlqDkSZ) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Devil Don't You Fool Me](https://open.spotify.com/album/6va8aqvQD3YBcqAjLYfgkY) | 2:50 |
 | 93 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
-| 94 | [Sleeping on the Blacktop](https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz) | 3:12 |
-| 95 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
+| 94 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
+| 95 | [Sleeping on the Blacktop](https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz) | 3:12 |
 | 96 | [The Devil & The Huntsman](https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7), [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [King Arthur: Legend of the Sword \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3T3Kfm4Z6OGCVqIpcpULP1) | 4:18 |
 | 97 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 |
 | 98 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
 | 99 | [My Church Is Black](https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ) | [Me And That Man](https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a) | [My Church Is Black](https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG) | 2:58 |
 | 100 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 |
 
-Snapshot ID: `AAAAAO4Bzd20ReKHKk0O0yiqjS33Hw0d`
+Snapshot ID: `AAAAADna/wxtweNU3rJ8YqQLE6VJLm1+`

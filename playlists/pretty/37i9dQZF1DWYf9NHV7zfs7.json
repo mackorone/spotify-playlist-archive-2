@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7  Juliana Gattas",
-  "num_followers": 77285,
+  "num_followers": 77301,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIs0lA0GIwOl3+3JmU73KYvjIC4r",
+  "snapshot_id": "AAAAALf1fDzj5omfygtDRebrs075J2Fj",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:07",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Besos en pausa",
-        "url": "https://open.spotify.com/album/3UqRuYJbJawDB4d01FBybG"
-      },
-      "artists": [
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 157578,
-      "name": "Besos en pausa",
-      "url": "https://open.spotify.com/track/14rUg64n9LylOGofuNOufj"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -983,6 +963,26 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
+        "name": "Besos en pausa",
+        "url": "https://open.spotify.com/album/3UqRuYJbJawDB4d01FBybG"
+      },
+      "artists": [
+        {
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 157578,
+      "name": "Besos en pausa",
+      "url": "https://open.spotify.com/track/14rUg64n9LylOGofuNOufj"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
         "name": "Hielo al Vino",
         "url": "https://open.spotify.com/album/2iSgr6F1bwC1Gjk5a5dmxG"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 173837,
       "name": "Hielo al Vino",
       "url": "https://open.spotify.com/track/6YwNbkObXK6lUcgWis1vhC"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Manantial",
+        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "La Fuerza del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Manantial",
-        "url": "https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "La Fuerza del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Vida Lejana",
-        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Volar\u00e9",
-      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
-    },
-    {
-      "added_at": "2026-07-31 03:00:07",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 209133,
       "name": "AYER TE VI (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2026-07-31 03:00:07",
+      "album": {
+        "name": "Vida Lejana",
+        "url": "https://open.spotify.com/album/0MjJOhgZD9wBqy0sMPtmXk"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Volar\u00e9",
+      "url": "https://open.spotify.com/track/34mvkVskpYxe7CfkEs3XCY"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Toda la vida",
-        "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
+        "name": "Best Seller",
+        "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
         },
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 274908,
-      "name": "Toda la vida",
-      "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
+      "duration_ms": 224507,
+      "name": "Fuego y Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Best Seller",
-        "url": "https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7"
+        "name": "Toda la vida",
+        "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         },
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
         }
       ],
-      "duration_ms": 224507,
-      "name": "Fuego y Pasi\u00f3n",
-      "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+      "duration_ms": 274908,
+      "name": "Toda la vida",
+      "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
     },
     {
       "added_at": "2026-07-31 03:00:07",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-07-31 03:00:07",
       "album": {
-        "name": "Callej\u00f3n de las baladas",
-        "url": "https://open.spotify.com/album/5CI2nC3nSEcQGun2tl46GV"
+        "name": "Mujer & Ego",
+        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
       },
       "artists": [
         {
-          "name": "RUGGERO",
-          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
         }
       ],
-      "duration_ms": 156728,
-      "name": "Callej\u00f3n de las baladas",
-      "url": "https://open.spotify.com/track/023BIHVBBkeDf4uO26fs3j"
+      "duration_ms": 214006,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
     }
   ],
   "unique_name": "Esto es Pop",

@@ -2,7 +2,7 @@
 
 ### [Sunday Morning \| Chill Vibes](https://open.spotify.com/playlist/7aRkIB2UvssMbJyzOH8nST)
 
-> Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
+> Ease into your  morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
 336 songs - 19 hr 19 min
 

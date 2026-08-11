@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: wave to earth \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,777 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,802 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 98 | [Waterlemon](https://open.spotify.com/track/55RNTXmUL7I9o0GTH3kMrR) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM) | [Waterlemon](https://open.spotify.com/album/7HQ25yE3MsTRpIeadyMdR8) | 3:06 |
 | 99 | [slowly](https://open.spotify.com/track/0PJ5G0o5g6rvsgEgJ0QQe5) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [slowly](https://open.spotify.com/album/5pEsXaw4mCw5IgQLsjTkNg) | 3:50 |
 
-Snapshot ID: `AAAAAOfLV4vmqZIEMzopg6n9R0DVZ8pG`
+Snapshot ID: `AAAAAJ4Myh1eDf6bTKQbv/Xgp6KSV38n`

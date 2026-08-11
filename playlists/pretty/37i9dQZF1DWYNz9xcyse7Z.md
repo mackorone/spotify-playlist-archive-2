@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos con el legado musical que dejó la sierra\. Miguel y Miguel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,676 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,683 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 144 | [Rama Verde](https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna) | [El Canelo De Sinaloa](https://open.spotify.com/artist/5WyCFEWzY8eMcSOu0BFjhJ), [Los Dos Del Sitio](https://open.spotify.com/artist/4fKzhjg1iCHqWvXBB1U6G2) | [El Diablo y el Federal](https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk) | 2:36 |
 | 145 | [La Botella](https://open.spotify.com/track/70lFCPMdLXpxcfApqTECxA) | [Valentín "El Gallo"](https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3), [Los Dukes De Sonora](https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb) | [Valentín "El Gallo" Con Guitarras \(En Vivo\)](https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs) | 3:26 |
 
-Snapshot ID: `AAAAAGAjK1qq7851cmtKm8y3tnozTHVh`
+Snapshot ID: `AAAAAOqLSGjalCMu6MiRKqXTH5E1deEq`

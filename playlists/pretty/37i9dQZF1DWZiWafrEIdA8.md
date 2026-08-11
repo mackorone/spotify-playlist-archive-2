@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,215 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,219 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [It's Gone](https://open.spotify.com/track/5XDzUSWmrlz4MfogZ0salh) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House](https://open.spotify.com/album/2De59ki8I5ROno4GgNtzPy) | 4:29 |
 | 50 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 |
 
-Snapshot ID: `AAAAAN7LnRglRFjLu7f6NChAGrEq20+A`
+Snapshot ID: `AAAAAHERBTl767fa754li0fG2IF2igQP`

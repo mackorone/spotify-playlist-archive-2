@@ -2791,6 +2791,28 @@
     },
     {
       "album": {
+        "name": "Do You Want This",
+        "url": "https://open.spotify.com/album/5iWax2Wx9uQ4q4paIo3wde"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211781,
+      "name": "Do You Want This",
+      "url": "https://open.spotify.com/track/6ITfKmdTryTr2Fc119YIvg"
+    },
+    {
+      "album": {
         "name": "Did I Stutter?",
         "url": "https://open.spotify.com/album/4AlRLAS1bFJ8G6BmYfYwnE"
       },
@@ -4998,7 +5020,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 214000,
       "name": "Holy Grail",
       "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"

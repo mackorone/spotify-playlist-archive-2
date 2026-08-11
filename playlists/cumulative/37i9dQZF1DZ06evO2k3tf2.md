@@ -4,7 +4,7 @@
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 52 min
+79 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bandito](https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:30 | 2024-07-11 | 2024-07-12 |
 | [Cancer](https://open.spotify.com/track/19W5OTEcQI3ZoRW1HERMyy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Cancer](https://open.spotify.com/album/22uQ3YSLjQJPNPkZQzdX2y) | 3:56 | 2024-06-01 | 2025-04-13 |
 | [Car Radio](https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 4:27 | 2024-06-01 |  |
+| [Car Radio \- Live in Mexico City](https://open.spotify.com/track/6yvZLQqaM09tZddJ4jL6EC) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [More Than We Ever Imagined \(Live in Mexico City\)](https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr) | 5:05 | 2026-08-11 |  |
 | [Center Mass](https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:48 | 2025-09-16 |  |
 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 | 2024-06-01 |  |
 | [Choker](https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:43 | 2024-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,203 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,202 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [Subconsciente](https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:46 |
 | 50 | [Fantasia Sexual](https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Fantasia Sexual](https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c) | 4:13 |
 
-Snapshot ID: `anZxgAAAAAABdJjFK+WyJk4wWdC7FfK5`
+Snapshot ID: `anfDAAAAAAA841vfZIjz4lU85kOlME1T`

@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 151867,
       "name": "DEAD MAN WALKING",
       "url": "https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX"
@@ -8218,7 +8218,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 158000,
       "name": "KEYVITUP",
       "url": "https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e"
@@ -18079,6 +18079,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30b0\u30b8\u30b9\u30c6\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/3yLu6EBuyD4kmKD3Tcb1dY"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u30a4\u30b0\u30b8\u30b9\u30c6\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/48m7ipLnWLf5UlArZvthQ4"
+    },
+    {
+      "album": {
         "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30fb\u30b8\u30e3\u30fc\u30cb\u30fc",
         "url": "https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR"
       },
@@ -19910,6 +19928,24 @@
       "duration_ms": 180097,
       "name": "\u9b3c\u4e8b",
       "url": "https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU"
+    },
+    {
+      "album": {
+        "name": "Vision Wings - The 8th Mini Album",
+        "url": "https://open.spotify.com/album/3XrN05Mq3LTXwBMz40TGjQ"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "\u9e22 (Vision Wings)",
+      "url": "https://open.spotify.com/track/52eusU4cqmyZ54z6AC2zDv"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [DANS 2026](https://open.spotify.com/playlist/37i9dQZF1DWXxFrpWsbL4P)
 
-> Dans pisti hazır! Mix yalnızca Premium'da\. Kapak: INJI
+> Dans pisti hazır! Mix yalnızca Premium'da\. Kapak: Carlita, Malive
 
-77 songs - 4 hr 29 min
+78 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [GEN MF Z](https://open.spotify.com/track/5rdbyZKtaVeEKtRwUwnmKj) | [Nene H](https://open.spotify.com/artist/3i7e7kVkTVFhkjYMfZoFoI) | [ISSA SCAM](https://open.spotify.com/album/62uTADST8vlrsqgX6RTlGe) | 3:46 | 2026-05-29 |  |
 | [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 | 2026-05-22 |  |
 | [Hold Me Close](https://open.spotify.com/track/3VHBZMtsbyx8siEUQZjCn1) | [Fur Coat](https://open.spotify.com/artist/26J5ZprV3p7jv4fHTmpXsB), [ELIF](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm) | [Hold Me Close](https://open.spotify.com/album/14SJWTasIk0hOygjSY8oX5) | 3:29 | 2026-07-27 |  |
-| [HOT](https://open.spotify.com/track/19QgxKIlEB5J8z5tVWcBHs) | [Barlas & Mert](https://open.spotify.com/artist/7EUoayuA45Swh5j4TYxrYd) | [HOT](https://open.spotify.com/album/2DllYAD5p9tGiAfxQmMAFw) | 2:23 | 2026-05-22 |  |
+| [HOT](https://open.spotify.com/track/19QgxKIlEB5J8z5tVWcBHs) | [Barlas & Mert](https://open.spotify.com/artist/7EUoayuA45Swh5j4TYxrYd) | [HOT](https://open.spotify.com/album/2DllYAD5p9tGiAfxQmMAFw) | 2:23 | 2026-05-22 | 2026-08-11 |
 | [House Every Weekend](https://open.spotify.com/track/3uFFW9qGPALr8oOhhFBZ43) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1), [ODY](https://open.spotify.com/artist/0Zso9LonvLaUYEHCsdkkgq) | [House Every Weekend](https://open.spotify.com/album/00JDvhkt2lyzlIpYvG7Vof) | 5:40 | 2026-05-22 |  |
 | [Hum Baha \- Anatolian Sessions Remix](https://open.spotify.com/track/6y262jxflpXQZsRvIJHnH4) | [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl), [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK) | [Hum Baha \(Anatolian Sessions Remix\)](https://open.spotify.com/album/7H1eJnu0LHwee9yz5qar24) | 3:05 | 2026-05-22 |  |
 | [I want u to stay \- Dönis Remix](https://open.spotify.com/track/29cQKSyi5JLOG4FKXWa6Pk) | [Canosonik](https://open.spotify.com/artist/3q8fOws9q7XKPlc33rJ2Xd), [Dramaphone](https://open.spotify.com/artist/4eErWxp6Wj9caxR0Ev9PCe), [Dönis](https://open.spotify.com/artist/370PD3Oub3U9i6SqMPUs4O) | [I want u to stay \(Dönis Remix\)](https://open.spotify.com/album/4rNIv2GpGjRSTdg73Di7md) | 3:25 | 2026-05-22 | 2026-08-01 |
@@ -65,7 +65,8 @@
 | [Rooz O Shab](https://open.spotify.com/track/6HObf9TPe4vJQvRmRrfy0l) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [DR ZAVIN](https://open.spotify.com/artist/0e0aoMtk3zIsAkuGrsdJAM), [EyeNaz](https://open.spotify.com/artist/6x8EHJBKT3SXbif450A1HS) | [Rooz O Shab](https://open.spotify.com/album/5cIih3B1UIK9CGyRqHVi30) | 5:50 | 2026-07-31 |  |
 | [SAWA](https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1) | [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [SAWA](https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5) | 3:40 | 2026-07-31 |  |
 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 | 2026-05-22 |  |
-| [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/31g7JATEtYU3uIJBQAc2cW) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Shook Pt\. 3](https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8) | 4:41 | 2026-05-22 |  |
+| [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/31g7JATEtYU3uIJBQAc2cW) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Shook Pt\. 3](https://open.spotify.com/album/4t1LC2icopXccVIOpSPKZ8) | 4:41 | 2026-05-22 | 2026-08-11 |
+| [Sinner](https://open.spotify.com/track/2Es8rkGhjdD76aigP06MmK) | [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Sinner](https://open.spotify.com/album/4maJKwCO3lJompoPySoTCZ) | 3:37 | 2026-08-10 |  |
 | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7) | 2:28 | 2026-07-27 |  |
 | [Spaces](https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Spaces](https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct) | 3:00 | 2026-05-22 |  |
 | [Struggle](https://open.spotify.com/track/5rSkTcePXM5wBURKo1tj56) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D) | [Struggle](https://open.spotify.com/album/0piUD63HN20jHuQjKHIHRL) | 4:15 | 2026-07-27 |  |

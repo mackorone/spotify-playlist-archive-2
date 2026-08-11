@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 
 > Las obras maestras de dos enormes compositores, una tras otra\. No hay fallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,972 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,987 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3gF0C6rGZR.md) - [plain]
 | 99 | [Y Si Amanece por Fin](https://open.spotify.com/track/549MXL7AHiCGDGtzE13uNX) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Esencial Joaquin Sabina](https://open.spotify.com/album/1vk5RBDPWivy4iwAKPbEet) | 4:35 |
 | 100 | [La Paloma](https://open.spotify.com/track/6eQ3D0DF3y6huX7eKSPBS7) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [La Paloma](https://open.spotify.com/album/10CPq3R1c4Lq9nH4qVA8Eg) | 3:12 |
 
-Snapshot ID: `AAAAAED6ztn+sCJoduVbTNdysheGeToc`
+Snapshot ID: `AAAAAI4/E0bHRmFjlZyliNVoxGf7y3wB`

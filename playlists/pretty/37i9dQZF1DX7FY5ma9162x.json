@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Coco Jones",
-  "num_followers": 300130,
+  "num_followers": 300217,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJmFllzfWC9z5L6qL5/Q6EnMR45X",
+  "snapshot_id": "AAAAAJe2tSnyjXP0p5Hh/hxXQ+nbo8Rg",
   "tracks": [
     {
       "added_at": "2026-08-07 01:05:37",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-08-07 01:05:37",
       "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2026-08-07 01:05:37",
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 149677,
       "name": "Last Heartbreak Song (feat. Giveon)",
       "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
-    },
-    {
-      "added_at": "2026-08-07 01:05:37",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2026-08-07 01:05:37",

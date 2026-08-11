@@ -2723,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Bright Sky and Full Moon",
+        "url": "https://open.spotify.com/album/4HYcwUMi0juGqdXhMXfl1R"
+      },
+      "artists": [
+        {
+          "name": "Haku-San",
+          "url": "https://open.spotify.com/artist/0dGpPnF1fbxs3Bhz2bO8UA"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156812,
+      "name": "Bright Sky and Full Moon",
+      "url": "https://open.spotify.com/track/6hgIE06xnBuFE0sdr8RbS7"
+    },
+    {
+      "album": {
         "name": "I Feel Like Flying",
         "url": "https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn"
       },
@@ -14420,7 +14438,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 114240,
       "name": "Morning bun",
       "url": "https://open.spotify.com/track/6BInjkeYCIvWZNZPynJgmS"

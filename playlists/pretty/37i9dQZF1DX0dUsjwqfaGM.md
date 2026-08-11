@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,284 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,285 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 49 | [Da Key](https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 2:58 |
 | 50 | [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 |
 
-Snapshot ID: `AAAAANL08cnZS10rM2jiJlCsokc8uhwj`
+Snapshot ID: `AAAAAK5gMgwfjRvTLJYmkYuzZhiHY+Pr`

@@ -512,7 +512,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 137682,
       "name": "All Day",
       "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 160644,
       "name": "Everything You Need",
       "url": "https://open.spotify.com/track/3Vrs2SoaQiQSFOtmne5z1a"
@@ -7484,7 +7484,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 176645,
       "name": "I Need U (feat. Ellie Maxwell)",
       "url": "https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf"
@@ -8979,6 +8979,24 @@
     },
     {
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/0mTkoRCp82urysUzyftz8O"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174140,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/12a7PDYkvrwJJ78RmuxGI9"
+    },
+    {
+      "album": {
         "name": "Levante",
         "url": "https://open.spotify.com/album/6HQMIkx3pO5qAAhRmw5vcR"
       },
@@ -10442,7 +10460,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 190153,
       "name": "Moth To A Flame",
       "url": "https://open.spotify.com/track/4ZOdEGreqCzM2P3C9EE4AF"
@@ -11694,7 +11712,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 213706,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
@@ -12970,7 +12988,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
@@ -13968,7 +13986,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 231627,
       "name": "Some Time",
       "url": "https://open.spotify.com/track/0SyvcPgEiq2ogFWmOZ7crs"
@@ -17260,7 +17278,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 251725,
       "name": "Won't Let U Down",
       "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
@@ -17356,7 +17374,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 183515,
       "name": "Y.O.U.",
       "url": "https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN"

@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 64191,
+  "num_followers": 64189,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACW1Iw1KIetGKTJO7ZOdQXcT8387",
+  "snapshot_id": "AAAAAChR/Vg8YqxwNYnsBbDxwzgukuKA",
   "tracks": [
     {
       "added_at": "2025-03-14 16:58:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
-      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Grand Prix - Greatest Hits",
         "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 182813,
       "name": "When Spirits Are Calling My Name",
       "url": "https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
+      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
     },
     {
       "added_at": "2025-03-14 16:58:53",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "She Got Me",
-        "url": "https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek"
+        "name": "Waterloo",
+        "url": "https://open.spotify.com/album/5JGTMU2ovYCxC6nfJbft8W"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 180816,
-      "name": "She Got Me",
-      "url": "https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ"
+      "duration_ms": 168960,
+      "name": "Waterloo",
+      "url": "https://open.spotify.com/track/10fRfvMo6WCO9Gaawxy2U9"
     }
   ],
   "unique_name": "Eurovision Party",

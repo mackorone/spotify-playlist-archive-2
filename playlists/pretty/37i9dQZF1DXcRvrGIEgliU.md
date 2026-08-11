@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,901 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,939 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 134 | [FEVER](https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THE RUSH](https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD) | 2:10 |
 | 135 | [Tired Boy](https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Sunday \(1994\) \[Deluxe\]](https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ) | 4:30 |
 | 136 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
-| 137 | [Blue Eyed Constellation](https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:53 |
-| 138 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
+| 137 | [Space Makes Me Sad](https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Space Makes Me Sad](https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX) | 2:16 |
+| 138 | [Blue Eyed Constellation](https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:53 |
 | 139 | [Shotta Flow 2](https://open.spotify.com/track/26X0iVtpSOySWPTcQAc5ul) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 2](https://open.spotify.com/album/1FxcC9sPtPHDs7EW5m8ji2) | 2:12 |
 | 140 | [Midnight Snack](https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Midnight Snack](https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc) | 3:47 |
 | 141 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 143 | [Ditch](https://open.spotify.com/track/6075pGQxRNkWdteEz4Hfwb) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Ditch](https://open.spotify.com/album/4LQi2uo2316ZzEpQO3oh59) | 3:30 |
 | 144 | [Eyes Don't Lie](https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don’t lie](https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y) | 3:46 |
 | 145 | [gimme all ur luv](https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:52 |
-| 146 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 |
-| 147 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 |
+| 146 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 |
+| 147 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 |
 | 148 | [Some Day I Will](https://open.spotify.com/track/1gXzaTjAxXs0wbGPm7MTQu) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [hawi](https://open.spotify.com/artist/26IMKo1iEaPH2g8UlfW1DG) | [Some Day I Will](https://open.spotify.com/album/7kDOOZMDmpwsaDIFG9PGEC) | 3:25 |
 | 149 | [Pound Town](https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \- EP](https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi) | 2:09 |
 | 150 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 |
 
-Snapshot ID: `AAAAAETwrFyd0hOBkTL0KX8QlgzzOuE1`
+Snapshot ID: `AAAAAFDl5NKaX4YiGxXlTUqzLRRSyvIf`

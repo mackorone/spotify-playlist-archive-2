@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,375 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,401 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 69 | [Liefdesliedjes](https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP) | [De Jazzpolitie](https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG) | [Liefdesliedjes](https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7) | 4:44 |
 | 70 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 |
 
-Snapshot ID: `AAAAAEX01LSACNB158CLKUNAMrT2xY1L`
+Snapshot ID: `AAAAAKmTyq6FQh401ss81Wch5GS5Ng+5`

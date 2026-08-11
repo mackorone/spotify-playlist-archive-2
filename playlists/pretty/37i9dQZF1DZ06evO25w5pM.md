@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,822 likes - 50 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,825 likes - 50 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 42 | [Cinque](https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:56 |
 | 43 | [Celestial Meadows](https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystery of Light](https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9) | 5:05 |
 | 44 | [Mirage](https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mirage](https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc) | 8:38 |
-| 45 | [Dawn Mist \- The Temple](https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 7:30 |
+| 45 | [Healing Circle](https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 12:07 |
 | 46 | [Deux](https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Atmospheres](https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG) | 6:23 |
-| 47 | [Healing Circle](https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Reiki Hands of Light](https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I) | 12:07 |
+| 47 | [Dawn Mist \- The Temple](https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Spiritual Healing](https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA) | 7:30 |
 | 48 | [Marfa Lights 2](https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [East of the Full Moon](https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon) | 3:24 |
 | 49 | [Memories of an Angel](https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Mystery of Light](https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9) | 5:24 |
 | 50 | [Mountain](https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 3:37 |
 
-Snapshot ID: `anZxgAAAAADemmaHsSFxIMIIVRJwgSeF`
+Snapshot ID: `anfDAAAAAABFGtfm7rLHa1n1ff2F/uhG`

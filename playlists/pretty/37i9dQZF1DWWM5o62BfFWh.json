@@ -1,12 +1,12 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 167274,
+  "num_followers": 167303,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOhUjFEUuL3Z3C0tu+engdL+UHVa",
+  "snapshot_id": "AAAAAHwG6GfVNgTNSR4bCCdo0ej3WphF",
   "tracks": [
     {
       "added_at": "2026-07-31 16:05:56",
@@ -767,34 +767,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "E-Charla",
-        "url": "https://open.spotify.com/album/2mDJ4ckYrPXq8leJmFqDHp"
-      },
-      "artists": [
-        {
-          "name": "Rey Tony",
-          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
-        },
-        {
-          "name": "Helabusador",
-          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
-        },
-        {
-          "name": "Velito el Buf\u00f3n",
-          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
-        },
-        {
-          "name": "Michel Boutic",
-          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
-        }
-      ],
-      "duration_ms": 219107,
-      "name": "E-Charla",
-      "url": "https://open.spotify.com/track/2xYin099dsquBdgTEQe4Oh"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "POQUITICO",
         "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
       },
@@ -819,6 +791,34 @@
       "duration_ms": 198000,
       "name": "POQUITICO",
       "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "E-Charla",
+        "url": "https://open.spotify.com/album/2mDJ4ckYrPXq8leJmFqDHp"
+      },
+      "artists": [
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "Velito el Buf\u00f3n",
+          "url": "https://open.spotify.com/artist/6cGZCBTS162TDm8xUImWfB"
+        },
+        {
+          "name": "Michel Boutic",
+          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
+        }
+      ],
+      "duration_ms": 219107,
+      "name": "E-Charla",
+      "url": "https://open.spotify.com/track/2xYin099dsquBdgTEQe4Oh"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Suave y Rico",
-        "url": "https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i"
-      },
-      "artists": [
-        {
-          "name": "Chucho Flash",
-          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
-        },
-        {
-          "name": "Wildey",
-          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "Suave y Rico",
-      "url": "https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "Suave y Rico",
+        "url": "https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i"
+      },
+      "artists": [
+        {
+          "name": "Chucho Flash",
+          "url": "https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y"
+        },
+        {
+          "name": "Wildey",
+          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Suave y Rico",
+      "url": "https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "Se asfixi\u00f3",
         "url": "https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 163226,
       "name": "Se asfixi\u00f3",
       "url": "https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "La Chiva",
+        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
+      },
+      "artists": [
+        {
+          "name": "Ronkalunga",
+          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
+        }
+      ],
+      "duration_ms": 250456,
+      "name": "El Millonario",
+      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -1103,38 +1119,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "La Chiva",
-        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
-      },
-      "artists": [
-        {
-          "name": "Ronkalunga",
-          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "El Millonario",
-      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "El de Pi",
-        "url": "https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H"
-      },
-      "artists": [
-        {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
-        }
-      ],
-      "duration_ms": 196472,
-      "name": "El de Pi",
-      "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 219220,
       "name": "Te Amo (Versos Gastados) - Prod. by Cuban Deejay$",
       "url": "https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "El de Pi",
+        "url": "https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        }
+      ],
+      "duration_ms": 196472,
+      "name": "El de Pi",
+      "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
     },
     {
       "added_at": "2026-07-31 16:05:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,729 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,859 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 40 | [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 |
 | 41 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 |
 | 42 | [Last Dance \- Remastered](https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:43 |
-| 43 | [The End Of The World](https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Cure](https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7) | 3:43 |
-| 44 | [Secrets](https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:19 |
+| 43 | [Secrets](https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:19 |
+| 44 | [The End Of The World](https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Cure](https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7) | 3:43 |
 | 45 | [To Wish Impossible Things](https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:39 |
 | 46 | [Closedown \- Remastered 2010](https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:18 |
 | 47 | [Wrong Number](https://open.spotify.com/track/3CL8XE5phBukwkjWqWQtEH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Galore \- The Singles 1987\-1997](https://open.spotify.com/album/3jRLyc2t1tExfVpdB88EUm) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [Three Imaginary Boys](https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:15 |
 | 50 | [The Caterpillar](https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Top \(Deluxe Edition\)](https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV) | 3:41 |
 
-Snapshot ID: `anZxgAAAAAD5QKezcZ20vrwMhtJvDIda`
+Snapshot ID: `anfDAAAAAADMH5P6nqI1N9z7Rarcwxdl`

@@ -1,12 +1,12 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 73684,
+  "num_followers": 73704,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIv3/hiBR4aeJpPDivxGgca9ab2w",
+  "snapshot_id": "AAAAAI1yky9cDj9YVkW7v7lNypXwK+lc",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:45",
@@ -375,6 +375,30 @@
     {
       "added_at": "2026-08-07 04:00:45",
       "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Concerto No. 4 in A Major, BWV 1055: II. Larghetto",
+      "url": "https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw"
+    },
+    {
+      "added_at": "2026-08-07 04:00:45",
+      "album": {
         "name": "Bach, J.S.: Das Wohltemperierte Klavier",
         "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
       },
@@ -415,30 +439,6 @@
       "duration_ms": 410160,
       "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
       "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2026-08-07 04:00:45",
-      "album": {
-        "name": "Bach: Keyboard Concertos & Italian Concerto",
-        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sonya Bach",
-          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Concerto No. 4 in A Major, BWV 1055: II. Larghetto",
-      "url": "https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw"
     },
     {
       "added_at": "2026-08-07 04:00:45",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-08-07 04:00:45",
       "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
+    },
+    {
+      "added_at": "2026-08-07 04:00:45",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
-    },
-    {
-      "added_at": "2026-08-07 04:00:45",
-      "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2026-08-07 04:00:45",
@@ -731,6 +731,26 @@
     {
       "added_at": "2026-08-07 04:00:45",
       "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 95893,
+      "name": "Goldberg Variations, BWV 988: Var. 2",
+      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
+    },
+    {
+      "added_at": "2026-08-07 04:00:45",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
-    },
-    {
-      "added_at": "2026-08-07 04:00:45",
-      "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/2ecywJZyq9FeZWhKUT0kIq"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 95893,
-      "name": "Goldberg Variations, BWV 988: Var. 2",
-      "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
     },
     {
       "added_at": "2026-08-07 04:00:45",

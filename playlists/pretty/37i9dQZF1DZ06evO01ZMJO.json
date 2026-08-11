@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 27049,
+  "num_followers": 27058,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACrIDwRZk7ELOV1/TX3Bg0W",
+  "snapshot_id": "anfDAAAAAAChgo/a6Ulyz8ZCGqY+9cDR",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jebroer 4 Life",
+        "url": "https://open.spotify.com/album/5cC4L5QILXWUZchaMDSWE9"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 136692,
+      "name": "Flitsmeister",
+      "url": "https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Het Zwarte Schaap (feat. De Kraaien)",
         "url": "https://open.spotify.com/album/0YYEQHcohTupHQfHjU4DjI"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 184971,
       "name": "Het Zwarte Schaap (feat. De Kraaien)",
       "url": "https://open.spotify.com/track/3vkadfj0xElWQs4nw6eQKC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jebroer 4 Life",
-        "url": "https://open.spotify.com/album/5cC4L5QILXWUZchaMDSWE9"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 136692,
-      "name": "Flitsmeister",
-      "url": "https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pullover (feat. J.D.A.)",
+        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "J.D.A.",
+          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
+        }
+      ],
+      "duration_ms": 182167,
+      "name": "Pullover (feat. J.D.A.)",
+      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Magnifico (Jump Remix)",
         "url": "https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 159774,
       "name": "Magnifico - Jump Remix",
       "url": "https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pullover (feat. J.D.A.)",
-        "url": "https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "J.D.A.",
-          "url": "https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs"
-        }
-      ],
-      "duration_ms": 182167,
-      "name": "Pullover (feat. J.D.A.)",
-      "url": "https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2"
     },
     {
       "added_at": null,

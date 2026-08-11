@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 > Where R&B lives\. Cover: Brent Faiyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,037,660 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,037,097 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 49 | [Safety](https://open.spotify.com/track/0tUz0N0ra3OT2daiI6Qm66) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Safety](https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY) | 3:18 |
 | 50 | [AM I OKAY?!](https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [AM I OKAY?!](https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91) | 3:37 |
 
-Snapshot ID: `AAAAAITu6yNBxAFTemGitoB5Qke6MIlg`
+Snapshot ID: `AAAAABbxfK04NqMDodYoIcurwK6Rg/uG`

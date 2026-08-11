@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 106 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 |
 | 107 | [Danceteria](https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:55 |
 
-Snapshot ID: `AAAAAMPxBIbfLBMfd8CVemDDNDgfwWFT`
+Snapshot ID: `AAAAAEoC6KUQ80FEP7Tij/D7aznZSva7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 112 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 725 likes - 112 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 25 | [Día De Bajón](https://open.spotify.com/track/3iZFmfp6v6u4sldfg7HgRo) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Día De Bajón](https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM) | 2:24 |
 | 26 | [Salud Por Eso](https://open.spotify.com/track/4MMmoLigDQsZ8EEd4ulzO8) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:59 |
 | 27 | [ABC](https://open.spotify.com/track/1MeTMUjzUbPlYHrK4Th2iP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3J4IsXHUfmSLZfLne1eg2I) | 3:34 |
-| 28 | [Nada De Nada](https://open.spotify.com/track/7no4jWtFELEYzvZWwo76Pq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Más Amor Y Más Sabor](https://open.spotify.com/album/1l1odyC95qExDrasUInE2b) | 3:01 |
-| 29 | [Como Antes](https://open.spotify.com/track/0MWTdf11dE1EWnfGvW7OUl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:46 |
-| 30 | [Eres Mi Nada](https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Eres Mi Nada / Tu Pasado y Tú](https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE) | 2:51 |
+| 28 | [Eres Mi Nada](https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Eres Mi Nada / Tu Pasado y Tú](https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE) | 2:51 |
+| 29 | [Nada De Nada](https://open.spotify.com/track/7no4jWtFELEYzvZWwo76Pq) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Más Amor Y Más Sabor](https://open.spotify.com/album/1l1odyC95qExDrasUInE2b) | 3:01 |
+| 30 | [Como Antes](https://open.spotify.com/track/0MWTdf11dE1EWnfGvW7OUl) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:46 |
 | 31 | [Mira Quién Lo Dice](https://open.spotify.com/track/38Ch2OJaxX2FvFFV7QaVww) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Llueva Tequila](https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l) | 3:09 |
 | 32 | [TODO](https://open.spotify.com/track/1EmlHrs93OOsyz8lAMfmCW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 4:02 |
 | 33 | [Andar Soltero](https://open.spotify.com/track/5RlNv7SVUz96curwoPe3zy) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0) | [Top Songs 2022](https://open.spotify.com/album/52kJMVI7KXoWQLcz6p0twI) | 3:11 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 111 | [De Mal En Peor](https://open.spotify.com/track/1uqNLWNfdnpbHup3Tv0psf) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [De Mal En Peor](https://open.spotify.com/album/6mlWPPOrRhB6dWEW78qPFs) | 3:16 |
 | 112 | [Vestidito Rojo](https://open.spotify.com/track/3lciIL09CUXIJIIYICafn7) | [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Vestidito Rojo](https://open.spotify.com/album/1z2IHPGKZUPQ0mubjgGNnJ) | 3:12 |
 
-Snapshot ID: `AcZJlAAAAADBDo+m23vinSEQ7EiOpTil`
+Snapshot ID: `AcZPIAAAAADBeVW7yCahIaJSu92MjBOd`

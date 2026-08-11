@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Rony Parulian
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,742 likes - 103 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,739 likes - 103 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 102 | [bERANI](https://open.spotify.com/track/48oUGcXdLlGztCA0u0gqNI) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [bERANI](https://open.spotify.com/album/1SJCHC92mK2v7frrmWXFCf) | 3:30 |
 | 103 | [Tear](https://open.spotify.com/track/3rhgTxmFHqPYOBq9xzcyUT) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Tear](https://open.spotify.com/album/34NhTGfoWNr4W3oKx3HA7g) | 4:09 |
 
-Snapshot ID: `AAAAAF8U5JJaYe3HH/9NfgAdj7PIdiNJ`
+Snapshot ID: `AAAAAKvUGaY/FGCaBg1LrMfipBnhgjsV`

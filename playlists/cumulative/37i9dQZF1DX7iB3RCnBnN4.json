@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235053,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+    },
+    {
+      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -1152,7 +1170,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 215933,
       "name": "Another One Bites The Dust",
       "url": "https://open.spotify.com/track/5HkFTCxSeJ3kGNyQJbT4rJ"
@@ -2311,6 +2329,24 @@
     },
     {
       "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -3068,6 +3104,24 @@
       "duration_ms": 235893,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp"
+    },
+    {
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231257,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "album": {
@@ -9530,7 +9584,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 295493,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw"
@@ -13720,6 +13774,24 @@
       "duration_ms": 274720,
       "name": "Linger - Remastered 2026",
       "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246973,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/2kXjRzwcTZhGLnVjUud8l3"
     },
     {
       "album": {
@@ -23115,6 +23187,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Take A Bow",
+      "url": "https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL"
+    },
+    {
+      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
@@ -24954,7 +25044,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5"
@@ -25456,7 +25546,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 245506,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/1mSClObliRtgPVT399COQH"
@@ -26442,7 +26532,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 121973,
       "name": "We Will Rock You",
       "url": "https://open.spotify.com/track/0a9sd6MEXZXIPHk0fAxpZ4"

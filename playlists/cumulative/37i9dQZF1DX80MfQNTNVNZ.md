@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-666 songs - 1 day 15 hr 8 min
+667 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Almond Eyes](https://open.spotify.com/track/1sTk2DB9Gc4pOjfvwkzEwA) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:54 | 2022-01-13 | 2022-07-25 |
 | [Almost There](https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Almost There](https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5) | 3:58 | 2024-08-09 | 2025-03-22 |
 | [aloe](https://open.spotify.com/track/1gO4R8PoR9BphhqomW0Y1C) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [aloe](https://open.spotify.com/album/6CV5x1jcgiV2W79p5x0A8T) | 4:18 | 2021-12-23 | 2022-07-29 |
+| [Alone Again \(feat\. Ogi\)](https://open.spotify.com/track/7vQxupuGgNYpyMwsqVUqTr) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [It Could Be Worse](https://open.spotify.com/album/0rer7IRAdCVWcLODgq2rX0) | 3:08 | 2026-08-07 |  |
 | [Alone In Kenzo](https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y) | [Alone In Kenzo](https://open.spotify.com/album/74g3j5vCv02I7TBn8FLgt1) | 3:18 | 2022-02-10 | 2022-07-21 |
 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Roulette](https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME) | 3:28 | 2025-10-03 | 2025-12-13 |
 | [Any Time \(feat\. James Fauntleroy\)](https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Any Time \(feat\. James Fauntleroy\)](https://open.spotify.com/album/5X5k2a2UHomkR6Y6ZTtCtb) | 4:29 | 2026-07-18 |  |
@@ -249,7 +250,7 @@
 | [Hoodie Back](https://open.spotify.com/track/03oqpVl7nXBipKG8k20Qex) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Hoodie Back](https://open.spotify.com/album/31tGG12rA9duMwf5zEHyEF) | 2:46 | 2023-08-10 | 2023-08-18 |
 | [HORN](https://open.spotify.com/track/30uDewhBRShVDP56oNvvuM) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [HORN](https://open.spotify.com/album/2MVZ63eokhX0Fccr4kbqBx) | 3:29 | 2022-03-24 | 2022-04-16 |
 | [How You Feel](https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [How You Feel](https://open.spotify.com/album/3qgty8ZFzuSYC7WNG0GOQX) | 3:03 | 2023-02-09 | 2023-10-06 |
-| [Hurry Hurry](https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offering](https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj) | 3:06 | 2026-06-26 |  |
+| [Hurry Hurry](https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offering](https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj) | 3:06 | 2026-06-26 | 2026-08-11 |
 | [I Believe I'm Ready](https://open.spotify.com/track/6O9s5kC3IYPYfaxXhJPHt9) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [I Believe I'm Ready](https://open.spotify.com/album/2vzVlBZvLROeRtKLbQtiQ2) | 3:45 | 2022-03-24 | 2022-04-17 |
 | [I Choose U \(feat\. RINI\)](https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [I Choose U \(feat\. RINI\)](https://open.spotify.com/album/0DcgdM3SS9A8wEig25dsqh) | 3:22 | 2024-04-12 | 2025-02-21 |
 | [I Don't Have a Pen](https://open.spotify.com/track/0hOjpzwQDkUcPP3V2pbPDb) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:21 | 2022-02-24 | 2022-11-11 |

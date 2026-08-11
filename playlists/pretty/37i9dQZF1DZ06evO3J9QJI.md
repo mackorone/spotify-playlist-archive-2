@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 
 > This is Irv Gotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166 likes - 14 songs - 51 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 14 songs - 51 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,4 +23,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3J9QJI.md) - [plain]
 | 13 | [No One Does It Better \- Remix](https://open.spotify.com/track/6Khtdk7kkYji84hNpnKJB9) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl), [Black Child](https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:43 |
 | 14 | [Poverlous](https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX) | [Irv Gotti](https://open.spotify.com/artist/6jBZBnyIYxyLIEFp6f2SbF), [Caddillac Tah](https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl) | [Irv Gotti Presents...The Remixes](https://open.spotify.com/album/7nQXKEaWp5Mib2Ni6PJGhT) | 3:49 |
 
-Snapshot ID: `anZxgAAAAAAqN8tcaMi60dVkhiQEBSyk`
+Snapshot ID: `anfDAAAAAADA59IO7Nam39UeLyemGh79`

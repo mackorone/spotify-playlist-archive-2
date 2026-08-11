@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Dangrangto
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,914 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,945 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 49 | [' CHẲNG CẦN BÌNH YÊN \|](https://open.spotify.com/track/2KadxdRVKWJy3ahMnlClhq) | [Hà An Huy](https://open.spotify.com/artist/6cz81gA7fLpRK4qKeLsGIn) | [' CHẲNG CẦN BÌNH YÊN \|](https://open.spotify.com/album/1xQoXghXMKGK3HadxpQuuA) | 3:43 |
 | 50 | [In Love](https://open.spotify.com/track/7uUuftbcr94tzGOCJSM25u) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [L2K](https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx) | 3:20 |
 
-Snapshot ID: `AAAAAEGbzKjjvCkrY/G+YtQiuiXnCuWA`
+Snapshot ID: `AAAAADJGujVmuFyrUctCDhmBWB5+PedK`

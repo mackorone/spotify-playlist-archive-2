@@ -1,12 +1,12 @@
 {
   "description": "No words, just chops. Cover: Matt Combs",
-  "num_followers": 63169,
+  "num_followers": 63188,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdlWoloHPTyc7xYjyGJhycGIVey",
+  "snapshot_id": "AAAAAG+Nr9MujlsTAEKDW+CYwIYQRLAv",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:55",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-24 04:01:55",
       "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
-    },
-    {
-      "added_at": "2026-07-24 04:01:55",
-      "album": {
         "name": "West Dakota Rose",
         "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
       },
@@ -639,18 +623,18 @@
     {
       "added_at": "2026-07-24 04:01:55",
       "album": {
-        "name": "Tsali's Run",
-        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
       },
       "artists": [
         {
-          "name": "Carley Arrowood",
-          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Tsali's Run",
-      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
     },
     {
       "added_at": "2026-07-24 04:01:55",
@@ -667,6 +651,22 @@
       "duration_ms": 127261,
       "name": "Cumberland Gap - Live",
       "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+    },
+    {
+      "added_at": "2026-07-24 04:01:55",
+      "album": {
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
     },
     {
       "added_at": "2026-07-24 04:01:55",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-07-24 04:01:55",
       "album": {
-        "name": "Grassy Cove",
-        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
-    },
-    {
-      "added_at": "2026-07-24 04:01:55",
-      "album": {
         "name": "Grandfather's Clock",
         "url": "https://open.spotify.com/album/6T0WRzIvEKhxMNa0vVvMex"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 283000,
       "name": "Grandfather's Clock",
       "url": "https://open.spotify.com/track/70fLaH5pwpLkNtC6goV5XV"
+    },
+    {
+      "added_at": "2026-07-24 04:01:55",
+      "album": {
+        "name": "Grassy Cove",
+        "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
     },
     {
       "added_at": "2026-07-24 04:01:55",

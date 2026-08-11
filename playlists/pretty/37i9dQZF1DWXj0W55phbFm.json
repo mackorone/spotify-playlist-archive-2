@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 89295,
+  "num_followers": 89323,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACYZbjTVYvLwbkF60gM7UWPh2Gk/",
+  "snapshot_id": "AAAAAEaFNB/tZFNUHK0glugSC45c+iPd",
   "tracks": [
     {
       "added_at": "2026-05-28 09:27:48",
@@ -459,18 +459,22 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "The Magnificent Thad Jones (Remastered)",
-        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
+        "name": "Sketches of Spain",
+        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
       },
       "artists": [
         {
-          "name": "Thad Jones",
-          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 447173,
-      "name": "If I Love Again - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw"
+      "duration_ms": 734761,
+      "name": "Solea",
+      "url": "https://open.spotify.com/track/07EI4s3foxxuMdQTkk6MZA"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -491,22 +495,18 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Sketches of Spain",
-        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
+        "name": "The Magnificent Thad Jones (Remastered)",
+        "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
       "artists": [
         {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Thad Jones",
+          "url": "https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh"
         }
       ],
-      "duration_ms": 734761,
-      "name": "Solea",
-      "url": "https://open.spotify.com/track/07EI4s3foxxuMdQTkk6MZA"
+      "duration_ms": 447173,
+      "name": "If I Love Again - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Fats Navarro Memorial Album",
-        "url": "https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ"
-      },
-      "artists": [
-        {
-          "name": "Fats Navarro",
-          "url": "https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG"
-        },
-        {
-          "name": "Tadd Dameron Sextet",
-          "url": "https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe"
-        }
-      ],
-      "duration_ms": 171123,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "Gnu High",
         "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 358760,
       "name": "Smatter",
       "url": "https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Fats Navarro Memorial Album",
+        "url": "https://open.spotify.com/album/3clL5Ml3ZB7v4T4AYwRprQ"
+      },
+      "artists": [
+        {
+          "name": "Fats Navarro",
+          "url": "https://open.spotify.com/artist/0w2MvntXz3P5Ko3oslGJoG"
+        },
+        {
+          "name": "Tadd Dameron Sextet",
+          "url": "https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe"
+        }
+      ],
+      "duration_ms": 171123,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/1vefcOBRQ83aE7tMO33njz"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "Simply Stated",
         "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 179840,
       "name": "I Lost My Gal from Memphis",
       "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Off To The Races (Remastered)",
+        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 426480,
+      "name": "Paul's Pal - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Off To The Races (Remastered)",
-        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 426480,
-      "name": "Paul's Pal - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
       },
@@ -1275,34 +1259,18 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
       },
       "artists": [
         {
-          "name": "Jon Faddis",
-          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 285800,
-      "name": "Instigator",
-      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 429666,
-      "name": "Concentric Circles",
-      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -1335,6 +1303,38 @@
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV"
+      },
+      "artists": [
+        {
+          "name": "Jon Faddis",
+          "url": "https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX"
+        }
+      ],
+      "duration_ms": 285800,
+      "name": "Instigator",
+      "url": "https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 429666,
+      "name": "Concentric Circles",
+      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -1435,30 +1435,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Complete Recordings",
-        "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        },
-        {
-          "name": "Ruby Braff",
-          "url": "https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA"
-        },
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 298493,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Complete Recordings",
+        "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Ruby Braff",
+          "url": "https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA"
+        },
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 298493,
+      "name": "Embraceable You",
+      "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
     },
     {
       "added_at": "2026-05-28 09:27:48",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-05-28 09:27:48",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa"
-      },
-      "artists": [
-        {
-          "name": "Cat Anderson",
-          "url": "https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Don't Get Around Much Anymore",
-      "url": "https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6"
-    },
-    {
-      "added_at": "2026-05-28 09:27:48",
-      "album": {
         "name": "Why Not",
         "url": "https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 247920,
       "name": "Tin Roof Blues",
       "url": "https://open.spotify.com/track/195426YTXn9COJncZ3b94u"
+    },
+    {
+      "added_at": "2026-05-28 09:27:48",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa"
+      },
+      "artists": [
+        {
+          "name": "Cat Anderson",
+          "url": "https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6"
     },
     {
       "added_at": "2026-05-28 09:27:48",

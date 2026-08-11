@@ -6335,6 +6335,36 @@
     },
     {
       "album": {
+        "name": "FAIR DINKUM",
+        "url": "https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO"
+      },
+      "artists": [
+        {
+          "name": "Sollyy",
+          "url": "https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf"
+        },
+        {
+          "name": "Breakfast Road",
+          "url": "https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6"
+        },
+        {
+          "name": "Zion Garcia",
+          "url": "https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX"
+        },
+        {
+          "name": "Church",
+          "url": "https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156375,
+      "name": "FAIR DINKUM",
+      "url": "https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/38yUqXLMhbRkYnYT1gFS79"
       },
@@ -10146,10 +10176,6 @@
         {
           "name": "adore",
           "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        },
-        {
-          "name": "Daiela",
-          "url": "https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6"
         }
       ],
       "date_added": "2024-07-22",

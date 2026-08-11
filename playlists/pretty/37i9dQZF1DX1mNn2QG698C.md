@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 
 > La playlist ufficiale del rap show di Netflix, la nuova stagione è in arrivo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,749 likes - 91 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,755 likes - 91 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mNn2QG698C.md) - [plain]
 | 90 | [NETWORK \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/28polmoNjO1dvYiUfFxN43) | [Amon](https://open.spotify.com/artist/1jiVHVMFuHekLOGrAISQeb), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [NETWORK \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/41H0aPdgys8OVwQK1Bg3gF) | 2:10 |
 | 91 | [Lo Spirito Della Dopa](https://open.spotify.com/track/0O7i5YWDGukEbmgKY6Ev9j) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 4:43 |
 
-Snapshot ID: `AAAAAEo/J09VPhDftlFTfKM8YTpJeUoV`
+Snapshot ID: `AAAAAF7rjyRx4wdt/tT+2l7H7TL5IH/T`

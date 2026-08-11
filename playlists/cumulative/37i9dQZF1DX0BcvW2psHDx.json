@@ -2757,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "One - Spotify Singles",
+        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
+      },
+      "artists": [
+        {
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "One - Spotify Singles",
+      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
+    },
+    {
+      "album": {
         "name": "Orquestra Maldita",
         "url": "https://open.spotify.com/album/6DptPhwLku8xvWBodULnC6"
       },
@@ -3717,6 +3735,24 @@
     },
     {
       "album": {
+        "name": "Spotify Korea",
+        "url": "https://open.spotify.com/album/7bxxcbCeOtWABpw3cSGUTh"
+      },
+      "artists": [
+        {
+          "name": "Spotify Korea",
+          "url": "https://open.spotify.com/show/7bxxcbCeOtWABpw3cSGUTh"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "T1: \ube5b\ub0a0\uac8c\u2b50\ufe0f \uc2a4\ud3ec\ud2f0\ud30c\uc774: \uc751\uc6d0\ud560\uac8c\ud83d\udce3 | T1 STARS \ub370\ubdd4 \ud504\ub85c\uc81d\ud2b8",
+      "url": "https://open.spotify.com/episode/6yZF355idvwJsCWIt6TYme"
+    },
+    {
+      "album": {
         "name": "Tekkers",
         "url": "https://open.spotify.com/album/7gaL7CkWupKNn20MF822Sb"
       },
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 175384,
       "name": "the stars",
       "url": "https://open.spotify.com/track/0KsqP2MSfLsbGmuUsRVEb8"
@@ -4234,7 +4270,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 134867,
       "name": "You Were Right",
       "url": "https://open.spotify.com/track/51FYnRqQ9OijVJoyAeF2Iw"

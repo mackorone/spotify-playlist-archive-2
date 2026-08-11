@@ -1,12 +1,12 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 453674,
+  "num_followers": 453713,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFwOOUETFf222CDoQVcEOOajf75G",
+  "snapshot_id": "AAAAAJVYu1OSAzVMkaTZWVVUs3ZsK97K",
   "tracks": [
     {
       "added_at": "2026-06-18 20:32:33",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "u + me = <3",
-      "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "NOBLE (Slowed Down)",
         "url": "https://open.spotify.com/album/3MXz6kSonuMCXDZoOmNRom"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "u + me = <3",
+      "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "drifting",
-        "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "drifting",
-      "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 229444,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "drifting",
+        "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "drifting",
+      "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Eastside Girls",
-      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Bon Bon",
         "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 210133,
       "name": "Bon Bon",
       "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Eastside Girls",
+      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "3:33am",
         "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 214578,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "East Village",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "man oh man !",
         "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 170903,
       "name": "hello !",
       "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Go Fuck Urself",
-        "url": "https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 185998,
-      "name": "Go Fuck Urself",
-      "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Go Fuck Urself",
+        "url": "https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 185998,
+      "name": "Go Fuck Urself",
+      "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Blackpool Boulevard",
-        "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
-      },
-      "artists": [
-        {
-          "name": "Anish Kumar",
-          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
-        },
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 215768,
-      "name": "Blackpool Boulevard - Edit",
-      "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Ambiguous Desire",
         "url": "https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Blackpool Boulevard",
+        "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
+      },
+      "artists": [
+        {
+          "name": "Anish Kumar",
+          "url": "https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 215768,
+      "name": "Blackpool Boulevard - Edit",
+      "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
     },
     {
       "added_at": "2026-06-18 20:32:33",

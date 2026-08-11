@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Mustafa Sandal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,509 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,583 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 54 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |
 | 55 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 |
 
-Snapshot ID: `AAAAAGVY5Br9vKA7qowEtcaW91w7En9L`
+Snapshot ID: `AAAAALjoY59Zn1rE3fRjEiH/0qICcLWJ`

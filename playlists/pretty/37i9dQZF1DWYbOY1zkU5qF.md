@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,515 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,567 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 58 | [Cuando Calienta El Sol](https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Cuando Calienta El Sol](https://open.spotify.com/album/1fQp9n1xWOGAFfF3TOjMg2) | 2:39 |
 | 59 | [Dime Que No](https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Dime Que No](https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn) | 4:51 |
 | 60 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
-| 61 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
-| 62 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
+| 61 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
+| 62 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
 | 63 | [Un año](https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Un año](https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe) | 2:29 |
 | 64 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
 | 65 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 79 | [La Nave del Olvido](https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Nave del Olvido](https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0) | 2:55 |
 | 80 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 |
 
-Snapshot ID: `AAAAAMphE0U+KZDO0l/57N9TdgFyLzJq`
+Snapshot ID: `AAAAAPebXhVOq7qFDrBusKdLrGKzwQgc`

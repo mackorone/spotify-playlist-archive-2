@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Rolf Sanchez
 
-1,397 songs - 2 day 18 hr 39 min
+1,398 songs - 2 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,6 +632,7 @@
 | [Is Dit Het Begin](https://open.spotify.com/track/07lupz26MMAyPhUOqCMBvl) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Voor Altijd](https://open.spotify.com/album/5BBER32xJPBci9lHzOEPub) | 2:49 | 2025-05-15 | 2025-10-10 |
 | [Is Het Gek](https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2) | [SANN!E](https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf), [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Is Het Gek](https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2) | 2:33 | 2026-03-19 | 2026-06-12 |
 | [Jaar Na Jaar](https://open.spotify.com/track/2Yi9J5Z5U6a34l5enJgnkN) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Jaar Na Jaar](https://open.spotify.com/album/2bJHVGM3m64bOaxgWiFOy0) | 2:54 | 2026-05-07 | 2026-07-10 |
+| [Jasmine](https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Jasmine](https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl) | 3:17 | 2026-08-10 |  |
 | [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 | 2024-10-03 | 2025-01-07 |
 | [Je Geeft Me Niets](https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Je Geeft Me Niets](https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE) | 2:33 | 2024-11-21 | 2024-12-13 |
 | [Je Hart Schreeuwt](https://open.spotify.com/track/7x6ZePcUaNscVjqrN76Uww) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Je Hart Schreeuwt](https://open.spotify.com/album/5UeOpYMPhQF1wZ4yna5EKO) | 2:30 | 2025-12-11 | 2026-02-13 |

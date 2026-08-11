@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 433256,
+  "num_followers": 433225,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB1Yi0MIDj9rGDmiqgLSTnrpWXIu",
+  "snapshot_id": "AAAAAJOcpz7r59yGJjNZ0D5FgqQ5UlKh",
   "tracks": [
     {
       "added_at": "2026-05-11 20:38:16",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Desde Cero",
         "url": "https://open.spotify.com/album/6ZvlFACdchfqoAzES0Nfoo"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 172000,
       "name": "Desde Cero",
       "url": "https://open.spotify.com/track/0BQNY0WbGNk219lVG2nXTC"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Noviembre",
-        "url": "https://open.spotify.com/album/2gfu0d8ZOJ2BEJ94XrtNbi"
-      },
-      "artists": [
-        {
-          "name": "Valsian",
-          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
-        }
-      ],
-      "duration_ms": 220369,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "qu\u00e9 bueno!",
         "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 157394,
       "name": "qu\u00e9 bueno!",
       "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Noviembre",
+        "url": "https://open.spotify.com/album/2gfu0d8ZOJ2BEJ94XrtNbi"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "duration_ms": 220369,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/63PhHSisMHT7ahW4mcZh2e"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "El Sol De Las 3",
         "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 168205,
       "name": "Intr\u00e9pida",
       "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "La Ternura",
-        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
-      },
-      "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        }
-      ],
-      "duration_ms": 186065,
-      "name": "La Ternura",
-      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "La Piscina",
         "url": "https://open.spotify.com/album/5ZBRBlDRRBY29BDtP6pzuD"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "La Ternura",
+        "url": "https://open.spotify.com/album/6wuPsukvYhod97ouL3ZiZL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        }
+      ],
+      "duration_ms": 186065,
+      "name": "La Ternura",
+      "url": "https://open.spotify.com/track/54gV1iPCLMkGntWBj6P94O"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "A No Llorar",
         "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 232750,
       "name": "A No Llorar",
       "url": "https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "GOLOSA",
-        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        }
-      ],
-      "duration_ms": 139136,
-      "name": "GRANADA",
-      "url": "https://open.spotify.com/track/06UhMz7v0pQbuLfeps9kwS"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1303,6 +1287,22 @@
       "duration_ms": 146086,
       "name": "Promesas De Origami",
       "url": "https://open.spotify.com/track/53ZG7GgHBCkAIhWSC8ksYX"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        }
+      ],
+      "duration_ms": 139136,
+      "name": "GRANADA",
+      "url": "https://open.spotify.com/track/06UhMz7v0pQbuLfeps9kwS"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "ANIM4LES",
         "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 199200,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC"
     },
     {
       "added_at": "2026-05-11 20:38:16",

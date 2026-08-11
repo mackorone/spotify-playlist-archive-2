@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANoDl6EDVzr1HKJ33vWFxxcjbeyD",
+  "snapshot_id": "AAAAAEw9l1yrjeIQFgxbEtYfUMaexhwn",
   "tracks": [
     {
       "added_at": "2026-05-28 11:50:51",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "AH!",
-        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 224909,
-      "name": "Of Er Nog Iets Terugkaatst",
-      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Jongen van de Zon",
         "url": "https://open.spotify.com/album/6iXdp3hl547alkC5foGDF2"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 209280,
       "name": "Jongen van de Zon",
       "url": "https://open.spotify.com/track/2emT6WDa4faZ9h2OzVSKZe"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "AH!",
+        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 224909,
+      "name": "Of Er Nog Iets Terugkaatst",
+      "url": "https://open.spotify.com/track/6YRTHsPQyM0ga4fdsLy0oO"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -279,26 +279,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "YAYO HARTJE JIMMY",
-        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
-      },
-      "artists": [
-        {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
-        }
-      ],
-      "duration_ms": 189648,
-      "name": "Ze Wil",
-      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Honderdduizend graden",
         "url": "https://open.spotify.com/album/5nfUTRn1vBDuKVOQVKNmlZ"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 167381,
       "name": "Honderdduizend graden",
       "url": "https://open.spotify.com/track/0X4S1jLylEDhgRW0SMHlzi"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "YAYO HARTJE JIMMY",
+        "url": "https://open.spotify.com/album/4KQi6IZPWkdWJs6QD32I3v"
+      },
+      "artists": [
+        {
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
+        {
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+        }
+      ],
+      "duration_ms": 189648,
+      "name": "Ze Wil",
+      "url": "https://open.spotify.com/track/1bFZsGUtQZvYgEKzFmBRpB"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "HOE?",
         "url": "https://open.spotify.com/album/6H8MORZSED2NcjGs4j4wv3"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 221291,
       "name": "HOE?",
       "url": "https://open.spotify.com/track/6Qbn3rvKVwqPMquEHJhuG6"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "GEEN BEEST",
+        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 145536,
+      "name": "GEEN BEEST",
+      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Bang Dat Ik Spring",
         "url": "https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 186093,
       "name": "Bang Dat Ik Spring",
       "url": "https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "GEEN BEEST",
-        "url": "https://open.spotify.com/album/43Il7EpL8sGI4rN9hDxwCk"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 145536,
-      "name": "GEEN BEEST",
-      "url": "https://open.spotify.com/track/3u3qtlVYVfEkzcci4E5v8l"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Vliegen",
-        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
-      },
-      "artists": [
-        {
-          "name": "Maxime",
-          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Vliegen",
-      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "7 Dagen Maandag",
         "url": "https://open.spotify.com/album/25xGhiCK7p8gDwUl7eLSfQ"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Vliegen",
+        "url": "https://open.spotify.com/album/5qKq0ApO977tSmvGzIuH3H"
+      },
+      "artists": [
+        {
+          "name": "Maxime",
+          "url": "https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Vliegen",
+      "url": "https://open.spotify.com/track/62aJj3DjAJtvU1hri0d27h"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "GEEN TITEL",
         "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Maskers",
-        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
-      },
-      "artists": [
-        {
-          "name": "Elias Mazian",
-          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Maskers",
-      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Sneeuw In De Zomer",
         "url": "https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 164794,
       "name": "Sneeuw In De Zomer",
       "url": "https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "Maskers",
+        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
+      },
+      "artists": [
+        {
+          "name": "Elias Mazian",
+          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "Maskers",
+      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
     },
     {
       "added_at": "2026-05-28 11:50:51",

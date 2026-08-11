@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Bad Gurl Summah",
+        "url": "https://open.spotify.com/album/4q2qffBJ28tIOQwKDDfUK4"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        },
+        {
+          "name": "Famke Louise",
+          "url": "https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154392,
+      "name": "Bad Gurl Summah",
+      "url": "https://open.spotify.com/track/2gw2pqrywLSQQpNQBz2LZM"
+    },
+    {
+      "album": {
         "name": "BADDIE ANTHEM (feat. KM)",
         "url": "https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA"
       },
@@ -1852,7 +1874,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 145920,
       "name": "ELLE VOULAIT",
       "url": "https://open.spotify.com/track/3vU9V5EzwpsqI2zHbKmHi9"
@@ -2852,7 +2874,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 192419,
       "name": "I AM",
       "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
@@ -3524,6 +3546,24 @@
       "duration_ms": 153489,
       "name": "La porte",
       "url": "https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O"
+    },
+    {
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
     },
     {
       "album": {
@@ -6238,7 +6278,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 141891,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
@@ -7956,6 +7996,28 @@
       "duration_ms": 174721,
       "name": "Zoek In Een Vrouw",
       "url": "https://open.spotify.com/track/7LlzLVhDEoVe39XnfFRj9v"
+    },
+    {
+      "album": {
+        "name": "Zomerblousje",
+        "url": "https://open.spotify.com/album/1djXceTDm9c0k2MDP4nTTv"
+      },
+      "artists": [
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117987,
+      "name": "Zomerblousje",
+      "url": "https://open.spotify.com/track/29nZWbihJC0l6ijK7sJFkb"
     },
     {
       "album": {

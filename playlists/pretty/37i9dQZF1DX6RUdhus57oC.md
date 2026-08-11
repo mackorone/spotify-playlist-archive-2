@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,438 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,442 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 12 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 13 | [Derrière le carreau fermé](https://open.spotify.com/track/0PeioVXpgkx0gAjjXWZgrI) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:11 |
 | 14 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
-| 15 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
-| 16 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 |
+| 15 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 |
+| 16 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
 | 17 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
 | 18 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
 | 19 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
-| 20 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 |
-| 21 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
+| 20 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
+| 21 | [On Silver Hill](https://open.spotify.com/track/2vj5NP6jpVbPqoxhopxcRA) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [On Silver Hill](https://open.spotify.com/album/0SRYu5fWTwlurk6AugaODm) | 2:08 |
 | 22 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 23 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
 | 24 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 51 | [One More Story](https://open.spotify.com/track/5H4EVghamuvIx46AT2gwqf) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [One More Story](https://open.spotify.com/album/60Phkle9K0BefzXtBASyZT) | 2:13 |
 | 52 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 |
 | 53 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
-| 54 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 |
-| 55 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
+| 54 | [Satori](https://open.spotify.com/track/24gIZr0tHpmgg92zkc8YMm) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Satori](https://open.spotify.com/album/3q8rTx0wU3FaaGwmuhhfcn) | 2:18 |
+| 55 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 |
 | 56 | [Amabile](https://open.spotify.com/track/3145XZiKmaE34sybk99dWc) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Amabile](https://open.spotify.com/album/6kOZ79mho4LuVfJrH8PmG8) | 3:16 |
 | 57 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
 | 58 | [Love Me Tender](https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl) | [August Ken](https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5) | [Love Me Tender](https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw) | 2:00 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 80 | [Across The Fields](https://open.spotify.com/track/2UWdKLbBqqjWjqE7NPLBKH) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Across The Fields](https://open.spotify.com/album/68c3h4zAoaRybQloxoXHOk) | 2:23 |
 | 81 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 |
 | 82 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
-| 83 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
-| 84 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
+| 83 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
+| 84 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
 | 85 | [When The Raindrops Begin To Cry](https://open.spotify.com/track/2x85LEhnRE6mlLrKfwoJuD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [When The Raindrops Begin To Cry](https://open.spotify.com/album/7Ld77MOEeYRSORFRGMKL9g) | 2:40 |
 | 86 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 |
 | 87 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 94 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 |
 | 95 | [Impromptu](https://open.spotify.com/track/1oKOIu35J9znIA7JbtVlTK) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Impromptu](https://open.spotify.com/album/3FLWbNwSwVSII9yOJV8NjL) | 2:24 |
 | 96 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 |
-| 97 | [Nocturne](https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Nocturne](https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1) | 3:01 |
-| 98 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 |
-| 99 | [Hymn](https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Hymn](https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89) | 2:57 |
+| 97 | [Mercurio](https://open.spotify.com/track/4ZmKxpk6LQQkhW8mwWiIPP) | [Henry Gadacz](https://open.spotify.com/artist/63iLnJN35mBx2YBZUNf8Sr) | [Mercurio](https://open.spotify.com/album/23r263kaH1Ph9D8vUTgY09) | 2:14 |
+| 98 | [Hymn](https://open.spotify.com/track/1fyzSisXLaQ552QD31P4ot) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Hymn](https://open.spotify.com/album/0Qy2yQC2LvEBpEDC8PMr89) | 2:57 |
+| 99 | [Nocturne](https://open.spotify.com/track/0poBmYwvWSP2nZYJYbaOu6) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Nocturne](https://open.spotify.com/album/1IP3Dd2jlEHljD9qw5CLj1) | 3:01 |
 | 100 | [Four Days With You](https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL) | [Nina Fiadh](https://open.spotify.com/artist/4nN747xiBnX6REwmnzlDfJ) | [Four Days With You](https://open.spotify.com/album/2829sYIZlhdcS0VZ4oNin2) | 2:52 |
 
-Snapshot ID: `AAAAAMFfTq29QiX/MpnNq1eGoykveKMe`
+Snapshot ID: `AAAAAMx0STuHUuP9zYJEORdRMdmtig0o`

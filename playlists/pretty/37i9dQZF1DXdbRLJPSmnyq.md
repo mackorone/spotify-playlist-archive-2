@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: Kenshi Yonezu
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,694 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,698 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 99 | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文 \- Inferno Love Letter](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 100 | [Love you still](https://open.spotify.com/track/53rDQxTvkfii6736nW2SLz) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 4:23 |
 
-Snapshot ID: `AAAAAL+rhQ2kWmjYuCnROpRWwkhrAhCa`
+Snapshot ID: `AAAAAJQA3UlmPPkfIIkAq3iCBjeoUoZT`

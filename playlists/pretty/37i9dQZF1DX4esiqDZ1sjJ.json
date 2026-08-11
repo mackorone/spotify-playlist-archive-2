@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 388715,
+  "num_followers": 388726,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA6UuxC1ISfbyQ2wTw3Uq2u/CFH9",
+  "snapshot_id": "AAAAALYittjMx0tR2OBo536s5PJ+EU2P",
   "tracks": [
     {
       "added_at": "2024-07-15 15:51:37",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "Rolling Papers",
         "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 217666,
       "name": "Black and Yellow",
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 211933,
-      "name": "Are You Gonna Go My Way",
-      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
     },
     {
       "added_at": "2024-07-15 15:51:37",

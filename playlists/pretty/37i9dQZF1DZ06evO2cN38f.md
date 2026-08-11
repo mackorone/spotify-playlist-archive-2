@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,683 likes - 33 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,685 likes - 33 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 12 | [Ladida](https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:43 |
 | 13 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 |
 | 14 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
-| 15 | [Feel the Same Way](https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:41 |
+| 15 | [I'm Your Muse \- Ron Trent Remix](https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [I'm Your Muse \(Ron Trent Remix\)](https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF) | 7:56 |
 | 16 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 |
 | 17 | [Private Eye](https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:17 |
 | 18 | [Got Em](https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:46 |
-| 19 | [I'm Your Muse \- Ron Trent Remix](https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [I'm Your Muse \(Ron Trent Remix\)](https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF) | 7:56 |
+| 19 | [Feel the Same Way](https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:41 |
 | 20 | [Sum](https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:09 |
 | 21 | [Ease Your Mind](https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:34 |
 | 22 | [Situation](https://open.spotify.com/track/3J1ZRxH4KrF1AISOkLPjtv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 4:13 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 32 | [Losing](https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Pressure](https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB) | 3:30 |
 | 33 | [401](https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:07 |
 
-Snapshot ID: `anZxgAAAAADdC/7+CgBdlD2r4bxundha`
+Snapshot ID: `anfDAAAAAACWhBCqYlb/0UoOzODCf6TB`

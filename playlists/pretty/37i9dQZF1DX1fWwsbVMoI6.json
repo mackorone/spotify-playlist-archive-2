@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Coraz\u00f3n Serrano, Maria Becerra",
-  "num_followers": 133974,
+  "num_followers": 133998,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHeNpDu3gW1CrX9046JfkGJ/P/N+",
+  "snapshot_id": "AAAAAK/UQspR9hE4NukckE7sOBUs7FTs",
   "tracks": [
     {
       "added_at": "2026-05-15 05:35:32",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "El Tirul\u00e1",
-        "url": "https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG"
-      },
-      "artists": [
-        {
-          "name": "Puro Sentimiento",
-          "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
-        }
-      ],
-      "duration_ms": 191085,
-      "name": "Si Saben Como Me Pongo Pa Que Me Invitan",
-      "url": "https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA"
-    },
-    {
-      "added_at": "2026-05-15 05:35:32",
-      "album": {
         "name": "Cumbias Pegaditas",
         "url": "https://open.spotify.com/album/2REuaCmnwYV8H2CWTfhCO2"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 1203760,
       "name": "Cumbias Pegaditas Mix 1",
       "url": "https://open.spotify.com/track/1KZpDYhD4ke4QipSxp4mbP"
+    },
+    {
+      "added_at": "2026-05-15 05:35:32",
+      "album": {
+        "name": "El Tirul\u00e1",
+        "url": "https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG"
+      },
+      "artists": [
+        {
+          "name": "Puro Sentimiento",
+          "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
+        }
+      ],
+      "duration_ms": 191085,
+      "name": "Si Saben Como Me Pongo Pa Que Me Invitan",
+      "url": "https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA"
     },
     {
       "added_at": "2026-05-15 05:35:32",

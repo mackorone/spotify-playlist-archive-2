@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Novilllos de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,432,663 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,432,450 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 | 74 | [El Cholo](https://open.spotify.com/track/4WVB9AmaahfQvqH3ofY6OU) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18) | 2:11 |
 | 75 | [CHAKA](https://open.spotify.com/track/2wTWVd1YHRR5IM7pPvpUjS) | [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0), [El Randal](https://open.spotify.com/artist/3xy1Z8p0bYLH2cDPla9QnU) | [CHAKA](https://open.spotify.com/album/5RHNvFPGELfCyjtkrcc9uq) | 2:39 |
 
-Snapshot ID: `AAAAAI4A4vjKSn/4lyUUYXiBrJd8Fyez`
+Snapshot ID: `AAAAAALufSz01D7C7a54awojc5yzh1Mb`

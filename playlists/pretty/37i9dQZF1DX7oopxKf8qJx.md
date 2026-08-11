@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,799 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,835 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 26 | [Fools Rush In \(Where Angels Fear to Tread\)](https://open.spotify.com/track/4WYZuhsa8idA4kPDPsNY6B) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:08 |
 | 27 | [Poor Butterfly](https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:04 |
 | 28 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
-| 29 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
-| 30 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
+| 29 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
+| 30 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
 | 31 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
 | 32 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
 | 33 | [Cycles](https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [A Warm Shade of Ivory](https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 79 | [Moonlight Serenade \- Digitally Remastered](https://open.spotify.com/track/5GLP9ZqgQOHBLNuLSWA5rV) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Touch of Henry Mancini, Vol\. 3](https://open.spotify.com/album/64psneLvhQVZvrPL7zEpiU) | 3:41 |
 | 80 | [The Days Of Wine And Roses](https://open.spotify.com/track/40WZ6K3o6X3wsAbh3b41wG) | [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/75C2nKf5frcYnRI8tSqXOM) | 2:36 |
 
-Snapshot ID: `AAAAAAPKYhHU8GU9BJM5o4G++k63qYlC`
+Snapshot ID: `AAAAAIwALylMYbitAvUVMe5Q4men6clZ`

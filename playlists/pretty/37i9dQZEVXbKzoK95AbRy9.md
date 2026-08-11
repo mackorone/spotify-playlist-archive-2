@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,426 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,478 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Sal Grosso](https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [KBrum](https://open.spotify.com/artist/7hc0T3k2vWAdkpJyucSXrw) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 2:31 |
 | 50 | [hate that i made you love me](https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:17 |
 
-Snapshot ID: `MgvhaAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mg0y6AAAAAAAAAAAAAAAAAAAAAAAAGVu`

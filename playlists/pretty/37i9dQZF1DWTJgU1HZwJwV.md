@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,037 likes - 108 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,074 likes - 108 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 107 | [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 |
 | 108 | [Translucent](https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Translucent](https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz) | 3:16 |
 
-Snapshot ID: `AAAAACMcOaZGTWjEx1cxElwuJ0ssfBx7`
+Snapshot ID: `AAAAAJ8bErUFcv6MrFC3Q95xRrnOrm9T`

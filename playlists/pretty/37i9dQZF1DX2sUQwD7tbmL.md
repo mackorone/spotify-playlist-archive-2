@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301,949 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,301,896 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 65 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
 | 66 | [Dope on a Rope](https://open.spotify.com/track/76c1AuZodByXM3X2k48wju) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [City Club](https://open.spotify.com/album/4LO26juP3UnGdO3mB2imxl) | 4:10 |
 | 67 | [He Loves Me Yeah!](https://open.spotify.com/track/7Ep9IjggTVy070hEkaSLIa) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 2:50 |
-| 68 | [Ghosts \(From The Runarounds Original Series\)](https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P) | [The Runarounds](https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY) | [The Runarounds \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD) | 2:43 |
+| 68 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 |
 | 69 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 |
-| 70 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 |
+| 70 | [Ghosts \(From The Runarounds Original Series\)](https://open.spotify.com/track/5hd4iDjOQzE2KMYHjb1H0P) | [The Runarounds](https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY) | [The Runarounds \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD) | 2:43 |
 | 71 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 |
 | 72 | [Perfume](https://open.spotify.com/track/7ITzf6TxMKnUwgXfNRfMxI) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:27 |
 | 73 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 77 | [Somebody Come Through](https://open.spotify.com/track/4Sz61x2L4mYmtw47NBrzfC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Isotope](https://open.spotify.com/album/64gDz0I7VYp8NrDTJkjlZp) | 3:58 |
 | 78 | [Slow Dances](https://open.spotify.com/track/0J8x2FryJyw7OVnEGYNFQE) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Slow Dances](https://open.spotify.com/album/6ewPdKXdPj0Ld9tV1BCvf4) | 3:52 |
 | 79 | [Senior Year \(From The Runarounds Original Series\)](https://open.spotify.com/track/0jzh6tm2MV1YmNi1xqUf1Z) | [The Runarounds](https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY) | [The Runarounds \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD) | 4:01 |
-| 80 | [baseball](https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 3:18 |
-| 81 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
+| 80 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
+| 81 | [baseball](https://open.spotify.com/track/5lO1htX1UPjwyItDLurhR5) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 3:18 |
 | 82 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
 | 83 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 |
 | 84 | [Minivan \(From The Runarounds Original Series\)](https://open.spotify.com/track/4z139kKnG94XHJkYNc62wT) | [The Runarounds](https://open.spotify.com/artist/6G6I2kNqaE0oDRygzPRGeY) | [The Runarounds \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/67YYD5G443iLSj4t2NCBUD) | 2:54 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 101 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 102 | [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 |
 | 103 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 |
-| 104 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
-| 105 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
+| 104 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
+| 105 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 106 | [Naive](https://open.spotify.com/track/29XbgaYB4Hs8vlLmpzkRgj) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Naïve](https://open.spotify.com/album/06XZphFaqEl3gTtQp8a3hb) | 3:26 |
 | 107 | [She Wants To Go Dancing](https://open.spotify.com/track/3CTBfot80XAOyuaJ1jcN5z) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [She Wants To Go Dancing](https://open.spotify.com/album/1UuqWBMwyWnevv8qMBCzyO) | 3:08 |
 | 108 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 143 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
 | 144 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 |
 | 145 | [Talk is Cheap](https://open.spotify.com/track/45DFMibGGTU5cqIi1cU1EZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Dr\. Dog](https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl) | 4:30 |
-| 146 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
-| 147 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
+| 146 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
+| 147 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 |
 | 148 | [Shudder](https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 2:47 |
 | 149 | [Back To The Start](https://open.spotify.com/track/3rf2zzhaqAu5Rx4n14YqiU) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Back To The Start](https://open.spotify.com/album/5c09bkL58RiNSPUwKJnlj4) | 3:28 |
 | 150 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 |
 
-Snapshot ID: `AAAAAEj/G+UwLIbRiEWCe0HbGs2rONGw`
+Snapshot ID: `AAAAAIse0KX5+ozBEFjzG8ktPcmMR7cK`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 775237,
+  "num_followers": 775366,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9DaRE1zASyaJp6DIX9biycLGjh",
+  "snapshot_id": "AAAAANq5a1/yQJwwHeKldnFza9x10wmR",
   "tracks": [
     {
       "added_at": "2026-08-07 18:42:29",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-08-07 18:42:29",
       "album": {
-        "name": "La Cita Fresita (En Vivo)",
-        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 180163,
-      "name": "La Cita Fresita - En Vivo",
-      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
         "name": "El Peor De Mis Fracasos (En Vivo)",
         "url": "https://open.spotify.com/album/0XJmyq88KBAab5dqKvDhi8"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 225535,
       "name": "El Peor De Mis Fracasos (En Vivo)",
       "url": "https://open.spotify.com/track/3MTvkLdzVB2V86oYpDpupp"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
+        "name": "La Cita Fresita (En Vivo)",
+        "url": "https://open.spotify.com/album/6Oo34Jcr1pKCy8lIOFxQ1L"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 180163,
+      "name": "La Cita Fresita - En Vivo",
+      "url": "https://open.spotify.com/track/2wD6ENHAvi1WDVsYVuxbNT"
     },
     {
       "added_at": "2026-08-07 18:42:29",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-08-07 18:42:29",
       "album": {
+        "name": "Yo y La Luna",
+        "url": "https://open.spotify.com/album/3qXzZAgoFihs94yboDzhn9"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 187829,
+      "name": "Yo y La Luna",
+      "url": "https://open.spotify.com/track/4FiYVoZVwofrD5sAPm19kl"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 180693,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/43558Td2trz7O0chZYohEE"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
-        "name": "Yo y La Luna",
-        "url": "https://open.spotify.com/album/3qXzZAgoFihs94yboDzhn9"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 187829,
-      "name": "Yo y La Luna",
-      "url": "https://open.spotify.com/track/4FiYVoZVwofrD5sAPm19kl"
     },
     {
       "added_at": "2026-08-07 18:42:29",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-08-07 18:42:29",
       "album": {
-        "name": "S\u00faper Snake",
-        "url": "https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 146104,
-      "name": "S\u00faper Snake",
-      "url": "https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
         "name": "Pa la Ma\u00f1a",
         "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 159937,
       "name": "Pa la Ma\u00f1a",
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
+        "name": "S\u00faper Snake",
+        "url": "https://open.spotify.com/album/1qAoa9VmpxKBOyca6q9SGb"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 146104,
+      "name": "S\u00faper Snake",
+      "url": "https://open.spotify.com/track/6Wpf9WrKpHbkxeY34HwGam"
     },
     {
       "added_at": "2026-08-07 18:42:29",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-08-07 18:42:29",
       "album": {
-        "name": "Los Chiquinarcos",
-        "url": "https://open.spotify.com/album/09e4huPCFelwqiU5iKVTkl"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 184113,
-      "name": "Los Chiquinarcos",
-      "url": "https://open.spotify.com/track/3hmQyfHL9Bg19bWs0eqMT1"
-    },
-    {
-      "added_at": "2026-08-07 18:42:29",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/3FvPdNZ9tqDYElBcnBvypq"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 202784,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/6RsQABV4IRHotGGKVf2YGt"
+    },
+    {
+      "added_at": "2026-08-07 18:42:29",
+      "album": {
+        "name": "Los Chiquinarcos",
+        "url": "https://open.spotify.com/album/09e4huPCFelwqiU5iKVTkl"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 184113,
+      "name": "Los Chiquinarcos",
+      "url": "https://open.spotify.com/track/3hmQyfHL9Bg19bWs0eqMT1"
     },
     {
       "added_at": "2026-08-07 18:42:29",

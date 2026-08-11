@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 498549,
+  "num_followers": 498537,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/EuUBH8lTNMW4yNCdmmo8GW9kC",
+  "snapshot_id": "AAAAAIGNMe0SH4rAKSFbaxbU1Kng02nQ",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:17",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Das geht ab - Wir feiern die ganze Nacht",
+      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
         "name": "WIR SIND DIE DEUTSCHEN",
         "url": "https://open.spotify.com/album/602HAtnVA6Z3YC0UOXD8yO"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 147724,
       "name": "WIR SIND DIE DEUTSCHEN",
       "url": "https://open.spotify.com/track/4zFSajqGWIvzih1dfyfwjP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
-        "name": "Atzen Musik Vol.1, 2 & 3",
-        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
-      },
-      "artists": [
-        {
-          "name": "Die Atzen",
-          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Das geht ab - Wir feiern die ganze Nacht",
-      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
         "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
         "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 240761,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
       "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -675,26 +675,18 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Fliesentisch Romantik 2",
-        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/2bdRWQiJL18iqUjSiPNBUI"
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
         }
       ],
-      "duration_ms": 150413,
-      "name": "Easy Peasy",
-      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -715,18 +707,26 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+        "name": "Fliesentisch Romantik 2",
+        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
       "artists": [
         {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/2bdRWQiJL18iqUjSiPNBUI"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+      "duration_ms": 150413,
+      "name": "Easy Peasy",
+      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "VAMOS",
-        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "VAMOS",
-      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -967,6 +947,26 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
         "name": "Dieter (Der LKW Song)",
         "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 190849,
       "name": "Dieter (Der LKW Song)",
       "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
-        "name": "Sonne, Mond & Playa",
-        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        }
-      ],
-      "duration_ms": 188833,
-      "name": "Sonne, Mond & Playa",
-      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -1019,22 +1003,18 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Gianna",
-        "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
+        "name": "Sonne, Mond & Playa",
+        "url": "https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM"
       },
       "artists": [
         {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        },
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
         }
       ],
-      "duration_ms": 155215,
-      "name": "Gianna",
-      "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
+      "duration_ms": 188833,
+      "name": "Sonne, Mond & Playa",
+      "url": "https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -1051,6 +1031,26 @@
       "duration_ms": 206613,
       "name": "Sweet Caroline - Party Remix",
       "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "Gianna",
+        "url": "https://open.spotify.com/album/4Cy90atHNobLhtQICRjEaE"
+      },
+      "artists": [
+        {
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        },
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "duration_ms": 155215,
+      "name": "Gianna",
+      "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -1387,30 +1387,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Mallelelele",
-        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        },
-        {
-          "name": "bozi",
-          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
-        }
-      ],
-      "duration_ms": 133898,
-      "name": "Mallelelele",
-      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Octopus (100.000 H\u00e4nde)",
         "url": "https://open.spotify.com/album/3xMHz5MiKDT3wLFe6OQ8ii"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+        }
+      ],
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Nachbarn",
-        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         },
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
         }
       ],
-      "duration_ms": 181553,
-      "name": "Nachbarn",
-      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     }
   ],
   "unique_name": "Malle Party 2026",

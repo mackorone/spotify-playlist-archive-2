@@ -1,12 +1,12 @@
 {
   "description": "If love is in the air then you've got your own gas tank. No roses. Just vibes.",
-  "num_followers": 125719,
+  "num_followers": 125735,
   "original_name": "Your Valentine's Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ/pjoC2ssOdIVTKE7YrdOujHjy5",
+  "snapshot_id": "AAAAANRqkPCVLGhVQlhQsvjl2mU7AED3",
   "tracks": [
     {
       "added_at": "2026-02-12 16:24:33",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-02-12 16:24:33",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb"
-    },
-    {
-      "added_at": "2026-02-12 16:24:33",
-      "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 175130,
       "name": "Lomo Lomo",
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+    },
+    {
+      "added_at": "2026-02-12 16:24:33",
+      "album": {
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Wrong Places",
+      "url": "https://open.spotify.com/track/0AFiYwKCOujgiuK0zlXpjb"
     },
     {
       "added_at": "2026-02-12 16:24:33",

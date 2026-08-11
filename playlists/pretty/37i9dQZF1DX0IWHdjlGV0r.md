@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Tony Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,685 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,692 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 35 | [X Te](https://open.spotify.com/track/7erp5QvErykwQ9QHCZTvJz) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:22 |
 | 36 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 |
 | 37 | [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 |
-| 38 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
-| 39 | [Chicchi di caffè](https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:08 |
+| 38 | [Chicchi di caffè](https://open.spotify.com/track/4fW3I4ROMQShlXGxdSQN42) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:08 |
+| 39 | [Kiss You \(F\*\*k You\) \[feat\. Geolier\]](https://open.spotify.com/track/34YxYcGtsAzI1K0SNAWMn1) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [HOTEL MONTANA](https://open.spotify.com/album/1Fw2ymkiHpvnmJi8gjyZNG) | 3:27 |
 | 40 | [MONDAY \(feat\. Shiva & Michelangelo\)](https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 |
 | 41 | [TU](https://open.spotify.com/track/5iQFM9o3ndzSMd8r5n11AU) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:49 |
 | 42 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 | 84 | [Vicini ma Lontani](https://open.spotify.com/track/1rUtOIReT93YATZLv4GqNy) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 2:01 |
 | 85 | [NIKITA](https://open.spotify.com/track/4Nz4if133Xq9o06pgIkfOu) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Anno Zero](https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr) | 2:34 |
 
-Snapshot ID: `AAAAAAddMUUZYZvmjmBiSuJK1qfq3vyd`
+Snapshot ID: `AAAAADFy0Py+Td/7cGP+WLXl1Wr15X/L`

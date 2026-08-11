@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Parmish Verma
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447,255 likes - 101 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,447,392 likes - 101 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Eyes on Me](https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Eyes on Me](https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW) | 2:34 |
 | 101 | [Putt Jam Te Lau](https://open.spotify.com/track/5Cri5X3u4On71cGDGeNNiD) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:46 |
 
-Snapshot ID: `AAAAAKW+L2r4b0TM9/K4K4ADVEEhF7L+`
+Snapshot ID: `AAAAAFLzM/4ECT+z0jxa9G5Exxuydez+`

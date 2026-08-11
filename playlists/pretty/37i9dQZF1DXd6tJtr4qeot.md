@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > All the of punk rock that you need in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,275 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,290 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 49 | [Always See Your Face](https://open.spotify.com/track/6OojY4NdPiEGWHV2EUSwHz) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Four Sail \(Expanded Edition\)](https://open.spotify.com/album/7kH6Bp3j5cN4GNNkZdnavs) | 3:29 |
 | 50 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 |
 
-Snapshot ID: `AAAAABw/e3XdyCe+Xg5bgiDUN0x7CEeg`
+Snapshot ID: `AAAAAEs69Rh3yvBtYIOrh9m5pNDPOvzN`

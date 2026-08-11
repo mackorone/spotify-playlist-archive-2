@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,064 songs - 4 day 19 hr 25 min
+2,065 songs - 4 day 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Angel In Disguise \- Live](https://open.spotify.com/track/2Erq200qCGUhk9yE14VHrM) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:25 | 2025-11-08 | 2026-01-15 |
 | [Angelina](https://open.spotify.com/track/0N68KyW2UKZYS71W3zwiXn) | [Strange Waves](https://open.spotify.com/artist/1oa5Kzosk1DffIXOU4Hurt) | [Angelina](https://open.spotify.com/album/5wTy809VEb9S7mA7qzw74z) | 2:45 | 2026-07-18 |  |
 | [Angerman River](https://open.spotify.com/track/7ceDhV9bN8szerp64nZw0D) | [Folded Marigold](https://open.spotify.com/artist/3PqMHIJsDX6pYYm7xiWrI1) | [Angerman River](https://open.spotify.com/album/1E6gQKEFdx5kMFlS27TdGZ) | 3:28 | 2026-01-22 | 2026-02-12 |
+| [Anima Mundi](https://open.spotify.com/track/6gSBDseBDva8QQdW0uZ3As) | [ROGUZMAN](https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ) | [Anima Mundi](https://open.spotify.com/album/0rP2OZvtfQDZE8sKYYZfok) | 3:14 | 2026-08-10 |  |
 | [Another Day](https://open.spotify.com/track/7BreCBggU853Vk2f8H6V3i) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM) | [Another Day](https://open.spotify.com/album/4WumWxIaJFjux1pDq0LhbB) | 3:09 | 2026-07-10 | 2026-08-01 |
 | [Another Friday Night In Hell](https://open.spotify.com/track/3t4zSAGmPGkrjNqUAYyJ5A) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Another Friday Night In Hell](https://open.spotify.com/album/664AJs6SNNX3RYcP917o6q) | 3:00 | 2025-12-22 | 2026-01-15 |
 | [Another Level](https://open.spotify.com/track/0Oe8l40dTavpwugeOsCXU4) | [Tokyo Riot](https://open.spotify.com/artist/7Ev6SUE1p8mxJgDnYfNLTV), [Mike Storm](https://open.spotify.com/artist/78bF1wm6ZAUYHeFiGNfZyh), [Masta C](https://open.spotify.com/artist/2OObqx1eQQ7I771cFlM0Ce) | [Another Level](https://open.spotify.com/album/0UC92m7LAKveaKBzbk5LGn) | 3:51 | 2025-12-22 | 2026-01-15 |

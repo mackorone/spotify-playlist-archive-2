@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADGhZxkpkC0YmYcsKDgQ/92",
+  "snapshot_id": "anfDAAAAAACzlDQUWS1xQV6cvAHceP5k",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+        "name": "Uebe",
+        "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
         },
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 170081,
-      "name": "Saberte Querer",
-      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
+      "duration_ms": 160855,
+      "name": "Il tuo profumo",
+      "url": "https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ"
     },
     {
       "added_at": null,
@@ -343,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uebe",
-        "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
       "artists": [
         {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        },
-        {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 160855,
-      "name": "Il tuo profumo",
-      "url": "https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ"
+      "duration_ms": 170081,
+      "name": "Saberte Querer",
+      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Malcriado",
+        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 158207,
+      "name": "Siempre Llegas Tarde",
+      "url": "https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MiuMiu",
         "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 179374,
       "name": "MiuMiu",
       "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malcriado",
-        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 158207,
-      "name": "Siempre Llegas Tarde",
-      "url": "https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
+      "duration_ms": 133604,
+      "name": "Si Me Ven Llorando",
+      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
     },
     {
       "added_at": null,
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 133604,
-      "name": "Si Me Ven Llorando",
-      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153402,
+  "num_followers": 153413,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMrptyi1PlSzGMTyK4z72loyCZ6c",
+  "snapshot_id": "AAAAAM8rY5Fl5DKZo6S5zJlFB/Kgqa/+",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:41",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
-      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Bender (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/5vKJnMy2A7hDkbWffp5vek"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 170551,
       "name": "Bender (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/78APbsosmvDYIwZHjzC5ZE"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+        "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Cobra (Rock Remix) [feat. Spiritbox]",
+      "url": "https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Only Wanna Be With You",
-        "url": "https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Goals",
         "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 133746,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Only Wanna Be With You",
+        "url": "https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "YOU NEEDED A HIT//",
-        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 120149,
-      "name": "YOU NEEDED A HIT//",
-      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Eras Of Us",
         "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 168668,
       "name": "Eras Of Us",
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Crashing Out",
-        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 215518,
-      "name": "Crashing Out",
-      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Tracy",
         "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 140952,
       "name": "Tracy",
       "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Crashing Out",
+        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 215518,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Say That You Love Me",
+        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 142596,
+      "name": "Young Broke",
+      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "Better Off",
         "url": "https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS"
       },
@@ -2223,26 +2239,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "STRANGERS",
-        "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        },
-        {
-          "name": "Enter Shikari",
-          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
-        }
-      ],
-      "duration_ms": 223176,
-      "name": "STRANGERS",
-      "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -2259,18 +2255,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Say That You Love Me",
-        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
+        "name": "STRANGERS",
+        "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
       "artists": [
         {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        },
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
         }
       ],
-      "duration_ms": 142596,
-      "name": "Young Broke",
-      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
+      "duration_ms": 223176,
+      "name": "STRANGERS",
+      "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
     },
     {
       "added_at": "2026-01-16 05:00:41",

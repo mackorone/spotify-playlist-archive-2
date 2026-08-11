@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,375 likes - 37 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,387 likes - 37 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 6 | [Roygbiv](https://open.spotify.com/track/5Hf2h59YLInKlic7ooWZVd) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 2:29 |
 | 7 | [Peacock Tail](https://open.spotify.com/track/2DQlQcYponGtEwvEHRHYvu) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 5:24 |
 | 8 | [Over The Horizon Radar](https://open.spotify.com/track/3EdKuUmSqITYGp1t3JhSC6) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:08 |
-| 9 | [Acts Of Magic](https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 1:18 |
+| 9 | [Father And Son](https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 3:24 |
 | 10 | [Wildlife Analysis](https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:15 |
 | 11 | [Into The Rainbow Vein](https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:44 |
 | 12 | [Reach For The Dead](https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 4:47 |
-| 13 | [Father And Son](https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 3:24 |
+| 13 | [Acts Of Magic](https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 1:18 |
 | 14 | [Bocuma](https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:35 |
 | 15 | [A Moment Of Clarity](https://open.spotify.com/track/1MMsn8AfguMOJMvSDxy6wo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:51 |
 | 16 | [Nothing Is Real](https://open.spotify.com/track/1rmXfdk4DFRuw6LLKoUTb0) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 3:52 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 36 | [Transmisiones Ferox](https://open.spotify.com/track/4CjUEILQ2oxJKFGDbavYBU) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex) | 2:18 |
 | 37 | [Last Walk Around Mirror Lake \- Boards of Canada Remix](https://open.spotify.com/track/2iDoKVqyiCdu327FaqJCNH) | [Boom Bip](https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Corymb](https://open.spotify.com/album/4xqSQIJoitX1MxaBl1nwYG) | 4:30 |
 
-Snapshot ID: `anZxgAAAAADASdfxb4TiCmsy2i5TlU+X`
+Snapshot ID: `anfDAAAAAAAJnRcCzSdk3TUPe2gQBduI`

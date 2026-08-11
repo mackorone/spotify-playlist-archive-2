@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADzxrqvuL1HvV47VL4gTIx/",
+  "snapshot_id": "anfDAAAAAACCnRaT15vef6E5WiqKRBhg",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gyal Clown",
-        "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "Gyal Clown",
-      "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRY CRY",
         "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gyal Clown",
+        "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Gyal Clown",
+      "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sister Wives",
         "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 198842,
       "name": "Sister Wives",
       "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "his sweater",
+        "url": "https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "his sweater",
+      "url": "https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "whose fault",
-        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 126168,
-      "name": "whose fault",
-      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DRY CRY",
         "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "his sweater",
-        "url": "https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV"
+        "name": "whose fault",
+        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 161400,
-      "name": "his sweater",
-      "url": "https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI"
+      "duration_ms": 126168,
+      "name": "whose fault",
+      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
     },
     {
       "added_at": null,

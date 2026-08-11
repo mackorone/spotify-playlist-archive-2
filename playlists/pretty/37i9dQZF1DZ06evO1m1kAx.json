@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8661,
+  "num_followers": 8666,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAA3IFw0fUlcGgpXbrcFeznW",
+  "snapshot_id": "anfDAAAAAACbmZYc9k2i0xPwC17M+4IV",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horoscopes",
-        "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
       },
       "artists": [
         {
-          "name": "Basketmouth",
-          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
-        },
-        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 163507,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
     },
     {
       "added_at": null,
@@ -451,18 +443,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+        "name": "Horoscopes",
+        "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
       },
       "artists": [
         {
+          "name": "Basketmouth",
+          "url": "https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4"
+        },
+        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         }
       ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
+      "duration_ms": 163507,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 236564,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 267240,
       "name": "Thank U Lord",
       "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 236564,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 230191,
       "name": "Free (feat. Ehi Idibia)",
       "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
     },
     {
       "added_at": null,

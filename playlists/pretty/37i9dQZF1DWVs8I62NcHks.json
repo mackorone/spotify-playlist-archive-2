@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your favorite Disney tunes, including \"You're Welcome\" from Moana! Disney's Moana, only in theaters.",
-  "num_followers": 2079065,
+  "num_followers": 2079130,
   "original_name": "Disney Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDtywjyoKiaIHWqyp3otLe0SMS+",
+  "snapshot_id": "AAAAAPm71ZpPrHhL6zYXwLG+kOaMLVSo",
   "tracks": [
     {
       "added_at": "2026-07-13 13:58:14",
@@ -165,6 +165,26 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
+      "added_at": "2026-08-10 17:26:19",
+      "album": {
+        "name": "Play My Music (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/5tXUWtWaCmTnre7aHiUOpi"
+      },
+      "artists": [
+        {
+          "name": "Camp Rock \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2Zl1iS9wkwYYoYp4OywJ2N"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 137151,
+      "name": "Play My Music - From \"Camp Rock 3\"",
+      "url": "https://open.spotify.com/track/6Mpma1LnujXVEEe94R87o0"
+    },
+    {
       "added_at": "2026-07-13 13:58:14",
       "album": {
         "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
@@ -185,6 +205,26 @@
       "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
     },
     {
+      "added_at": "2026-08-10 17:26:19",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Dinah Jane",
+          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
+        },
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 191044,
+      "name": "We Know The Way",
+      "url": "https://open.spotify.com/track/1TtwbjxWnoEljmkmSNb0of"
+    },
+    {
       "added_at": "2026-07-13 13:58:14",
       "album": {
         "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
@@ -203,6 +243,22 @@
       "duration_ms": 171040,
       "name": "How Far I'll Go",
       "url": "https://open.spotify.com/track/03Rc61rSW8InC7gW8Wj4NR"
+    },
+    {
+      "added_at": "2026-08-10 17:26:19",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Stan Walker",
+          "url": "https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY"
+        }
+      ],
+      "duration_ms": 192229,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/4Hqqd6SX3eWXM6QdcE1Dol"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -263,6 +319,22 @@
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "added_at": "2026-08-10 17:26:19",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        }
+      ],
+      "duration_ms": 222837,
+      "name": "Your Dad",
+      "url": "https://open.spotify.com/track/6czX41kOGmpeHz2uw0oMOw"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -351,6 +423,26 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": "2026-08-10 17:26:19",
+      "album": {
+        "name": "Moana: Voices Across The Ocean (Music Inspired By)",
+        "url": "https://open.spotify.com/album/2E5ujs5eGF78YKC0ZzSumv"
+      },
+      "artists": [
+        {
+          "name": "Iam Tongi",
+          "url": "https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "duration_ms": 219607,
+      "name": "In The Waves",
+      "url": "https://open.spotify.com/track/5POQd0NUc2xApv7wwgBDlW"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -911,30 +1003,6 @@
       "duration_ms": 191413,
       "name": "I've Got a Dream - From \"Tangled\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0TCt7OFRdD8PQ6vTRQxNgQ"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Opetaia Foa'i",
-          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
-        },
-        {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 141413,
-      "name": "We Know The Way",
-      "url": "https://open.spotify.com/track/6YH2r9NyEJTjlRmKOCvxgJ"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -1855,22 +1923,6 @@
     {
       "added_at": "2026-07-13 13:58:14",
       "album": {
-        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
-      },
-      "artists": [
-        {
-          "name": "Adriana Caselotti",
-          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
-        }
-      ],
-      "duration_ms": 203746,
-      "name": "Whistle While You Work",
-      "url": "https://open.spotify.com/track/1ai54RVIzu7IKebNbPEwMv"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
         "name": "The Princess and the Frog (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW"
       },
@@ -2083,26 +2135,6 @@
     {
       "added_at": "2026-07-13 13:58:14",
       "album": {
-        "name": "Mickey Mouse Clubhouse Theme (Toddler Techno Remix) [From: \"Mickey Mouse Clubhouse\u201d]",
-        "url": "https://open.spotify.com/album/7iEIF90Rkwfm2tUNROIfI3"
-      },
-      "artists": [
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        },
-        {
-          "name": "Lenny Pearce",
-          "url": "https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8"
-        }
-      ],
-      "duration_ms": 86294,
-      "name": "Mickey Mouse Clubhouse Theme (Toddler Techno Remix) - From: \"Mickey Mouse Clubhouse\u201d",
-      "url": "https://open.spotify.com/track/1zFsGb2xEcJUtclxJvGLRh"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
         "name": "Mary Poppins",
         "url": "https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d"
       },
@@ -2187,26 +2219,6 @@
       "duration_ms": 142720,
       "name": "I've Got No Strings",
       "url": "https://open.spotify.com/track/7fjmYUeonVOEyr0lYOKvMy"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "Peter Pan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1tCVqfTbVWmXFXx0HmGkob"
-      },
-      "artists": [
-        {
-          "name": "Frank Churchill",
-          "url": "https://open.spotify.com/artist/5HxxQWbYtQSFMKTjx9LPtZ"
-        },
-        {
-          "name": "Jack Lawrence",
-          "url": "https://open.spotify.com/artist/0sBKkpFqxsLg0Ao6924RHK"
-        }
-      ],
-      "duration_ms": 104426,
-      "name": "Never Smile at a Crocodile",
-      "url": "https://open.spotify.com/track/03f2e7WrN33uwicte4iZb7"
     },
     {
       "added_at": "2026-07-13 13:58:14",
@@ -2391,26 +2403,6 @@
     {
       "added_at": "2026-07-13 13:58:14",
       "album": {
-        "name": "Disney Classics",
-        "url": "https://open.spotify.com/album/6zisUsluEUqL929AhNOXs0"
-      },
-      "artists": [
-        {
-          "name": "Helen Reddy",
-          "url": "https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO"
-        },
-        {
-          "name": "Sean Marshall",
-          "url": "https://open.spotify.com/artist/5jR6zZugUWoU9PClPLoFa2"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "It's Not Easy - From \"Pete's Dragon\"",
-      "url": "https://open.spotify.com/track/25ENCBEvmC3L19MKrf3Lfs"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
         "name": "Walt Disney World Official Album",
         "url": "https://open.spotify.com/album/6lMJcDBuF11ofh3RcY5JIC"
       },
@@ -2499,46 +2491,6 @@
       "duration_ms": 100506,
       "name": "Hi-Diddle-Dee-Dee (An Actor's Life for Me)",
       "url": "https://open.spotify.com/track/1eM1TAhv39wg4LY7XmtqoL"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "Disney's Greatest Vol. 3",
-        "url": "https://open.spotify.com/album/6UuNvv5UFJG5bQkYzQIarh"
-      },
-      "artists": [
-        {
-          "name": "Tigger",
-          "url": "https://open.spotify.com/artist/2hblnfACzyljMfIZDwRZ7e"
-        },
-        {
-          "name": "Jim Cummings",
-          "url": "https://open.spotify.com/artist/3OIPwMAZipDCLQwHmxS5EG"
-        }
-      ],
-      "duration_ms": 36373,
-      "name": "The Wonderful Thing About Tiggers - From \"Winnie The Pooh And The Blustery Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/26pgDPmuZy1dmC14jxAdA0"
-    },
-    {
-      "added_at": "2026-07-13 13:58:14",
-      "album": {
-        "name": "A Goofy Movie",
-        "url": "https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P"
-      },
-      "artists": [
-        {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
-        },
-        {
-          "name": "Rosie Gaines",
-          "url": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "I2I",
-      "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
     }
   ],
   "unique_name": "Disney Favorites",

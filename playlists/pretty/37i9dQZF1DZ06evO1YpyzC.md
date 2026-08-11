@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,172 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,174 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Song For My Son \(feat\. Kane Brown\)](https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [17 Problems](https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h) | 2:53 |
 | 50 | [Rescue](https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 3:02 |
 
-Snapshot ID: `anZxgAAAAABdy7fjvgNn7BPwcEh8NptM`
+Snapshot ID: `anfDAAAAAAC3Yz06GkXsu33ZDmPMe0zJ`

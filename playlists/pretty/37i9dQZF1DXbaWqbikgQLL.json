@@ -1,12 +1,12 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 85086,
+  "num_followers": 85137,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHW2rHPbDS5KF2/26gxGup3GP1oa",
+  "snapshot_id": "AAAAAJlhgPBdKwZypE9tmF6TwYrMh+U0",
   "tracks": [
     {
       "added_at": "2025-09-26 06:00:27",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Una rola para los minusv\u00e1lidos",
-        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Las piedras rodantes",
-      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Una rola para los minusv\u00e1lidos",
+        "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Las piedras rodantes",
+      "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "15 Grandes",
         "url": "https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 308837,
       "name": "Si No La Tengo",
       "url": "https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
-        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
-      },
-      "artists": [
-        {
-          "name": "Hildemaro",
-          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
-        }
-      ],
-      "duration_ms": 242648,
-      "name": "Desde El Fondo De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "De Verdad (15 Super Exitos)",
         "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 297053,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Amanec\u00ed Contigo Y Sin Tab\u00fa",
+        "url": "https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Sue\u00f1os de Anoche",
-        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
         }
       ],
-      "duration_ms": 237666,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
         }
       ],
-      "duration_ms": 192426,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Coraz\u00f3n Adolorido",
-      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Super Grupo Colombia",
         "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 252679,
       "name": "Cumbia Del Chinito",
       "url": "https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Coraz\u00f3n Adolorido",
+      "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Cumbia Buena",
-        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo la Cumbia",
-          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Cumbia Buena",
-      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 171546,
       "name": "La Boa",
       "url": "https://open.spotify.com/track/4UmKFyEKaew90RWzqbTalb"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Cumbia Buena",
+        "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo la Cumbia",
+          "url": "https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Cumbia Buena",
+      "url": "https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "\u00c9xitos Fruko",
         "url": "https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 297358,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/6ffaMgOcnYojSshORaBNiK"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "S\u00f3lo \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Saya",
-          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Cumbia Francesa",
-      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Donde Estaras",
         "url": "https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 223503,
       "name": "Donde Estaras",
       "url": "https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Saya",
+          "url": "https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Cumbia Francesa",
+      "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
     },
     {
       "added_at": "2025-09-26 06:00:27",

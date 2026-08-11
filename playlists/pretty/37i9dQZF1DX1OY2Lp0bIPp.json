@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 634978,
+  "num_followers": 634993,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVKmWBwz5usJI1IeHCI9iV0ys8Q",
+  "snapshot_id": "AAAAAGl+zImDdyul/++06dfKGrmfVI3R",
   "tracks": [
     {
       "added_at": "2024-03-20 18:24:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 200111,
-      "name": "Best Song Ever",
-      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 200111,
+      "name": "Best Song Ever",
+      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
     },
     {
       "added_at": "2024-03-20 18:24:49",

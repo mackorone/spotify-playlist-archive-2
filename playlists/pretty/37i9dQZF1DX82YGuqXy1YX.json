@@ -1,12 +1,12 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 36,
+  "num_followers": 40,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLQXqT6ZtTX1U+f31805RwQJzi1",
+  "snapshot_id": "AAAAAFrjdxBJSfhwEN33ZHe4NI4SJGkA",
   "tracks": [
     {
       "added_at": "2026-08-06 16:00:19",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272693,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/1TwmkxFywYn6qn4PFTejOe"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 243030,
       "name": "Hypersoft Lovejinx Junkdream",
       "url": "https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272693,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e"
     },
     {
       "added_at": "2026-08-06 16:00:19",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "My Garden",
-        "url": "https://open.spotify.com/album/3uKTwMTQGmTTxBSXqOQzIm"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 327323,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/7FhHFW6ghJbgLFYK7YpHaJ"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "Na Dem",
         "url": "https://open.spotify.com/album/6ToelXLgu2gyxDtdIfHuui"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 269659,
       "name": "Na Dem",
       "url": "https://open.spotify.com/track/6Mn3ebt3BKoQqrCZKamdjA"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "My Garden",
+        "url": "https://open.spotify.com/album/3uKTwMTQGmTTxBSXqOQzIm"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 327323,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/7FhHFW6ghJbgLFYK7YpHaJ"
     },
     {
       "added_at": "2026-08-06 16:00:19",

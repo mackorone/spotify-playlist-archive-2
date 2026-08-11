@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino aqui! Ay ay ay 🔥  foto: Pedro Sampaio, Cachirula, LOOJAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,428 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,462 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 6 | [LA GRACIOSA](https://open.spotify.com/track/0TJYJrUDKQ1btt4g0Xwklw) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [EL BAIFO](https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5) | 4:17 |
 | 7 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 8 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
-| 9 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
-| 10 | [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 |
+| 9 | [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 |
+| 10 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 | 11 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 |
 | 12 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 13 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |
-| 14 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
-| 15 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
+| 14 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
+| 15 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 16 | [Gata Only \(Remix\)](https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gata Only \(Remix\)](https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu) | 3:50 |
 | 17 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 |
 | 18 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 43 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 |
 | 44 | [Troka](https://open.spotify.com/track/5AchK5XMO4AwN99yYcDPQc) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Troka](https://open.spotify.com/album/00yl2r8v4986lCsP6rGOkv) | 2:49 |
 | 45 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
-| 46 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 |
-| 47 | [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
+| 46 | [ALOH ALOH](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [ALOH ALOH](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
+| 47 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 |
 | 48 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
 | 49 | [Enemigos](https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Enemigos](https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1) | 3:21 |
 | 50 | [CALOR](https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [CALOR](https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 75 | [QLONA](https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:52 |
 
-Snapshot ID: `AAAAAF5rEgDhOWGk/PeS1SWzzbT54S8c`
+Snapshot ID: `AAAAAAj6aTUcykmZ1SS0jJaI0XBLjh7z`

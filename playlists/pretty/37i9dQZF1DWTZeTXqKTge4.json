@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Jeekay, Imposs",
-  "num_followers": 89670,
+  "num_followers": 89659,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP7OvLH1xjLqamXphZb5aLFtXPhR",
+  "snapshot_id": "AAAAAFqJWUgTFwI3cBYG1xIbWJN5qGqj",
   "tracks": [
     {
       "added_at": "2026-08-07 04:03:10",
@@ -231,30 +231,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
-      },
-      "artists": [
-        {
-          "name": "Die-On",
-          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
-        },
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 211859,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Discontinu\u00e9",
         "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
       },
@@ -279,6 +255,30 @@
       "duration_ms": 175476,
       "name": "Discontinu\u00e9",
       "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
-        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        },
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 245950,
-      "name": "SEPT ANS DE MALHEUR (titre permanent)",
-      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Buzz\u00e9 Pack",
         "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 193166,
       "name": "Buzz\u00e9 - Hip-Hop",
       "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
+        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 245950,
+      "name": "SEPT ANS DE MALHEUR (titre permanent)",
+      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
+      },
+      "artists": [
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Disque D'or",
+      "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
         "name": "Tel Kel X Boutot",
         "url": "https://open.spotify.com/album/5NXJonVVKssYxQ5SeCutWj"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 150589,
       "name": "Cayo Perico",
       "url": "https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
-        "name": "Disque D'or",
-        "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
-      },
-      "artists": [
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        },
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "Disque D'or",
-      "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Riviera",
         "url": "https://open.spotify.com/album/3SqYYQ4DPoO7cJ9Duqme5D"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 145295,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/4A0lJihI3xYaJ0EtW7s3aF"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Laisse nous",
-        "url": "https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF"
-      },
-      "artists": [
-        {
-          "name": "Boutot",
-          "url": "https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh"
-        },
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Laisse nous",
-      "url": "https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/38lhD7UTPAqxVHeX4BIpVm"
       },
@@ -887,34 +867,22 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+        "name": "Laisse nous",
+        "url": "https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF"
       },
       "artists": [
         {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
-        "name": "BASSE COUTURE",
-        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
-      },
-      "artists": [
+          "name": "Boutot",
+          "url": "https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh"
+        },
         {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
         }
       ],
-      "duration_ms": 171106,
-      "name": "BASSE COUTURE",
-      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
+      "duration_ms": 168000,
+      "name": "Laisse nous",
+      "url": "https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -947,6 +915,38 @@
       "duration_ms": 293760,
       "name": "L\u00e9gendaire",
       "url": "https://open.spotify.com/track/2dMS1TDVseVattgEVMvURB"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
+        "name": "Smoothie aux bleuets",
+        "url": "https://open.spotify.com/album/3TAkY1hpg5TFKmKskLRYVn"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        }
+      ],
+      "duration_ms": 178075,
+      "name": "Smoothie aux bleuets",
+      "url": "https://open.spotify.com/track/6EWPlzxSNjswZzV3PPeN4H"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
         "name": "N\u00e9m\u00e9sis",
         "url": "https://open.spotify.com/album/7jMFywj3x0FGoKybuElZFz"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 246810,
       "name": "N\u00e9m\u00e9sis",
       "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
-        "name": "Smoothie aux bleuets",
-        "url": "https://open.spotify.com/album/3TAkY1hpg5TFKmKskLRYVn"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "KNLO",
-          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
-        }
-      ],
-      "duration_ms": 178075,
-      "name": "Smoothie aux bleuets",
-      "url": "https://open.spotify.com/track/6EWPlzxSNjswZzV3PPeN4H"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Jamais Faire",
-        "url": "https://open.spotify.com/album/27bZ7NbaNFPNZUA7usR0Dm"
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
       },
       "artists": [
         {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
         }
       ],
-      "duration_ms": 163368,
-      "name": "Jamais Faire",
-      "url": "https://open.spotify.com/track/1xwtcVHOoBKJImvrpLTe0r"
+      "duration_ms": 96842,
+      "name": "Big Wop",
+      "url": "https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+        "name": "Jamais Faire",
+        "url": "https://open.spotify.com/album/27bZ7NbaNFPNZUA7usR0Dm"
       },
       "artists": [
         {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
         }
       ],
-      "duration_ms": 96842,
-      "name": "Big Wop",
-      "url": "https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv"
+      "duration_ms": 163368,
+      "name": "Jamais Faire",
+      "url": "https://open.spotify.com/track/1xwtcVHOoBKJImvrpLTe0r"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "A Lot On My Mind",
-        "url": "https://open.spotify.com/album/46ZtF2waBxMdDkpNv3O141"
-      },
-      "artists": [
-        {
-          "name": "Vago",
-          "url": "https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe"
-        },
-        {
-          "name": "Jugginhoo",
-          "url": "https://open.spotify.com/artist/0a342mSN4DVOVx7Es59sUt"
-        }
-      ],
-      "duration_ms": 129845,
-      "name": "A Lot On My Mind",
-      "url": "https://open.spotify.com/track/4QlGJHFHgnHA2dgWRG4zZO"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
       },
@@ -1279,58 +1259,6 @@
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
-        "name": "Fanta",
-        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
-      },
-      "artists": [
-        {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
-        }
-      ],
-      "duration_ms": 125090,
-      "name": "Fanta",
-      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
-        "name": "Abeille",
-        "url": "https://open.spotify.com/album/7rXnuzAhTqzz7EiVHTJZsn"
-      },
-      "artists": [
-        {
-          "name": "Jula\u00ef",
-          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Abeille",
-      "url": "https://open.spotify.com/track/3MQRhmb0LfmjKi0WuW93XV"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
-        "name": "HECTOR",
-        "url": "https://open.spotify.com/album/3h7rvIoOGQX50pyPWcGJrO"
-      },
-      "artists": [
-        {
-          "name": "SMS",
-          "url": "https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW"
-        },
-        {
-          "name": "Baby Weslow",
-          "url": "https://open.spotify.com/artist/5dyPEQPOxskfP7qWsENux2"
-        }
-      ],
-      "duration_ms": 213669,
-      "name": "Baby Back Ribs",
-      "url": "https://open.spotify.com/track/4cEiIAK4GkmKpyakj94ZA6"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1355,18 +1283,58 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Blue Volvo",
-        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
+        "name": "Fanta",
+        "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
       },
       "artists": [
         {
-          "name": "Loud Lary Ajust",
-          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
         }
       ],
-      "duration_ms": 169552,
-      "name": "Blue Volvo",
-      "url": "https://open.spotify.com/track/6vdWn7Pxc4u7om93eXRkfy"
+      "duration_ms": 125090,
+      "name": "Fanta",
+      "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "A Lot On My Mind",
+        "url": "https://open.spotify.com/album/46ZtF2waBxMdDkpNv3O141"
+      },
+      "artists": [
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe"
+        },
+        {
+          "name": "Jugginhoo",
+          "url": "https://open.spotify.com/artist/0a342mSN4DVOVx7Es59sUt"
+        }
+      ],
+      "duration_ms": 129845,
+      "name": "A Lot On My Mind",
+      "url": "https://open.spotify.com/track/4QlGJHFHgnHA2dgWRG4zZO"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "HECTOR",
+        "url": "https://open.spotify.com/album/3h7rvIoOGQX50pyPWcGJrO"
+      },
+      "artists": [
+        {
+          "name": "SMS",
+          "url": "https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW"
+        },
+        {
+          "name": "Baby Weslow",
+          "url": "https://open.spotify.com/artist/5dyPEQPOxskfP7qWsENux2"
+        }
+      ],
+      "duration_ms": 213669,
+      "name": "Baby Back Ribs",
+      "url": "https://open.spotify.com/track/4cEiIAK4GkmKpyakj94ZA6"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1391,18 +1359,34 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "BADBIHFORTEKOMMIKASA",
-        "url": "https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z"
+        "name": "Abeille",
+        "url": "https://open.spotify.com/album/7rXnuzAhTqzz7EiVHTJZsn"
       },
       "artists": [
         {
-          "name": "K!RA OJI",
-          "url": "https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm"
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
         }
       ],
-      "duration_ms": 116677,
-      "name": "BADBIHFORTEKOMMIKASA",
-      "url": "https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b"
+      "duration_ms": 153000,
+      "name": "Abeille",
+      "url": "https://open.spotify.com/track/3MQRhmb0LfmjKi0WuW93XV"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "Blue Volvo",
+        "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
+      },
+      "artists": [
+        {
+          "name": "Loud Lary Ajust",
+          "url": "https://open.spotify.com/artist/2zxjAOpQqLzNsLkRbSNjAN"
+        }
+      ],
+      "duration_ms": 169552,
+      "name": "Blue Volvo",
+      "url": "https://open.spotify.com/track/6vdWn7Pxc4u7om93eXRkfy"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1419,6 +1403,26 @@
       "duration_ms": 213781,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/2BRWx7J7x96qi5yNCAjxKA"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/1bRtUi7SnGuVIuZKkU73Ve"
+      },
+      "artists": [
+        {
+          "name": "Brayden",
+          "url": "https://open.spotify.com/artist/0A7yFF4dpVIW3M7w4V1ylZ"
+        },
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        }
+      ],
+      "duration_ms": 156477,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/0DIV0ykuV9lPlznikqP3vu"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

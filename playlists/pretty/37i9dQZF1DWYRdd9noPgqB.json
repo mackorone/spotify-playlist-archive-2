@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298515,
+  "num_followers": 298497,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVVwpXSVGhHiHkZJ58YlHF14baI",
+  "snapshot_id": "AAAAAD/GJRFvINtr/bsu1dMpRVZOkuin",
   "tracks": [
     {
       "added_at": "2026-07-31 11:51:02",
@@ -231,26 +231,6 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
-        "name": "Boogie's in My Soul",
-        "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Boogie's in My Soul",
-      "url": "https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk"
-    },
-    {
-      "added_at": "2026-07-31 11:51:02",
-      "album": {
         "name": "I Love Life (feat. RANI)",
         "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 156190,
       "name": "I Love Life (feat. RANI)",
       "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
+    },
+    {
+      "added_at": "2026-07-31 11:51:02",
+      "album": {
+        "name": "Boogie's in My Soul",
+        "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Boogie's in My Soul",
+      "url": "https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk"
     },
     {
       "added_at": "2026-07-31 11:51:02",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
+        "name": "All the Space Between",
+        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
+    },
+    {
+      "added_at": "2026-07-31 11:51:02",
+      "album": {
         "name": "Welcome to the Mood (Special Edition)",
         "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
-        "name": "All the Space Between",
-        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
-    },
-    {
-      "added_at": "2026-07-31 11:51:02",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
-        "name": "Rio Lua",
-        "url": "https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 149736,
-      "name": "Rio Lua",
-      "url": "https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW"
-    },
-    {
-      "added_at": "2026-07-31 11:51:02",
-      "album": {
         "name": "Distracted",
         "url": "https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 155960,
       "name": "Funny Friends",
       "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
+    },
+    {
+      "added_at": "2026-07-31 11:51:02",
+      "album": {
+        "name": "Rio Lua",
+        "url": "https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 149736,
+      "name": "Rio Lua",
+      "url": "https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW"
     },
     {
       "added_at": "2026-07-31 11:51:02",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
-        "name": "Yellow Eyes",
-        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 162096,
-      "name": "Yellow Eyes",
-      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
-    },
-    {
-      "added_at": "2026-07-31 11:51:02",
-      "album": {
         "name": "Departures & Arrivals: Adventures of Captain Curt",
         "url": "https://open.spotify.com/album/6kslXkHCr5rcOpf07Ss37k"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 221333,
       "name": "The Power",
       "url": "https://open.spotify.com/track/4difawHT7Gzi9q7l9qUcZi"
+    },
+    {
+      "added_at": "2026-07-31 11:51:02",
+      "album": {
+        "name": "Yellow Eyes",
+        "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 162096,
+      "name": "Yellow Eyes",
+      "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"
     },
     {
       "added_at": "2026-07-31 11:51:02",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
+        "name": "L'AMOUR C'EST COOL",
+        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "duration_ms": 174419,
+      "name": "L'AMOUR C'EST COOL",
+      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
+    },
+    {
+      "added_at": "2026-07-31 11:51:02",
+      "album": {
         "name": "Fucked Up",
         "url": "https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 197706,
       "name": "Fucked Up",
       "url": "https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj"
-    },
-    {
-      "added_at": "2026-07-31 11:51:02",
-      "album": {
-        "name": "L'AMOUR C'EST COOL",
-        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
-      },
-      "artists": [
-        {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
-        }
-      ],
-      "duration_ms": 174419,
-      "name": "L'AMOUR C'EST COOL",
-      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
     },
     {
       "added_at": "2026-07-31 11:51:02",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
-        "name": "Fish in a Bowl",
-        "url": "https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp"
-      },
-      "artists": [
-        {
-          "name": "Annie Lalalove",
-          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Fish in a Bowl",
-      "url": "https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7"
-    },
-    {
-      "added_at": "2026-07-31 11:51:02",
-      "album": {
         "name": "Oscillare",
         "url": "https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 207028,
       "name": "Chiara",
       "url": "https://open.spotify.com/track/2VhPjIXLBE3KPx7WI71gU9"
+    },
+    {
+      "added_at": "2026-07-31 11:51:02",
+      "album": {
+        "name": "Fish in a Bowl",
+        "url": "https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp"
+      },
+      "artists": [
+        {
+          "name": "Annie Lalalove",
+          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Fish in a Bowl",
+      "url": "https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7"
     },
     {
       "added_at": "2026-07-31 11:51:02",

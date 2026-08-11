@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1602997,
+  "num_followers": 1602994,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLUqSoAdF5c7i2UfFy8iFYaa2EM",
+  "snapshot_id": "AAAAAOMIlhV3Epq8ZM412etW9HzD0oKa",
   "tracks": [
     {
       "added_at": "2024-11-29 00:00:00",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Collection 2",
         "url": "https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 119826,
       "name": "Last Caress",
       "url": "https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "The Day the Country Died",
-        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
-      },
-      "artists": [
-        {
-          "name": "Subhumans",
-          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Mickey Mouse Is Dead",
-      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Double Nickels on the Dime",
         "url": "https://open.spotify.com/album/5viZ5HyYtV0wafK7DoXmgF"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 89666,
       "name": "Viet Nam",
       "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "The Day the Country Died",
+        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
+      },
+      "artists": [
+        {
+          "name": "Subhumans",
+          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Mickey Mouse Is Dead",
+      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "California Uber Alles",
+      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 85866,
       "name": "Maxwell Murder",
       "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "California Uber Alles",
-      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Operation Ivy",
-        "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
       },
       "artists": [
         {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Sound System",
-      "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+        "name": "Operation Ivy",
+        "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
       "artists": [
         {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
         }
       ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
+      "duration_ms": 134026,
+      "name": "Sound System",
+      "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "City Baby Attacked by Rats",
-        "url": "https://open.spotify.com/album/3E9flqSwqJRUuhZ3l4K8S6"
-      },
-      "artists": [
-        {
-          "name": "GBH",
-          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
-        }
-      ],
-      "duration_ms": 152746,
-      "name": "Sick Boy",
-      "url": "https://open.spotify.com/track/4w6R5BW7q2u06Cq9vA5Kn8"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "The Scream",
         "url": "https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 175906,
       "name": "Hong Kong Garden",
       "url": "https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "City Baby Attacked by Rats",
+        "url": "https://open.spotify.com/album/3E9flqSwqJRUuhZ3l4K8S6"
+      },
+      "artists": [
+        {
+          "name": "GBH",
+          "url": "https://open.spotify.com/artist/0yqupKw0GMDWXHpsxCPysY"
+        }
+      ],
+      "duration_ms": 152746,
+      "name": "Sick Boy",
+      "url": "https://open.spotify.com/track/4w6R5BW7q2u06Cq9vA5Kn8"
     },
     {
       "added_at": "2024-11-29 00:00:00",

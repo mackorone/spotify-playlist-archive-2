@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giannis Ploutarhos
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,475 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,473 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 42 | [Nero \- Live Edition](https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Nero \(Live Edition\)](https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR) | 3:18 |
 | 43 | [Sou Eleipsa H Oxi?](https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Sou Eleipsa H Oxi?](https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI) | 3:59 |
 | 44 | [Pigene Me Pali Piso Taxitzi](https://open.spotify.com/track/3ThFI7ukvQbAkMAjucye3G) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Sto Mualo Sou](https://open.spotify.com/album/7a2mEJ3x05wd2yJiKIZu1l) | 3:14 |
-| 45 | [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 |
-| 46 | [Ta Parapona Mou](https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ta Parapona mou](https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM) | 2:55 |
+| 45 | [Ta Parapona Mou](https://open.spotify.com/track/3RXBikhe617jBGLu7Rj8zL) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ta Parapona mou](https://open.spotify.com/album/3HtI7dLnszDt9CuKvB7MfM) | 2:55 |
+| 46 | [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 |
 | 47 | [Pare Repo](https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Pare Repo](https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o) | 3:18 |
 | 48 | [Xereis Pollous?](https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Xereis Pollous?](https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh) | 3:46 |
 | 49 | [TA NISIOTIKA PAIDIA](https://open.spotify.com/track/4XDlAln3qATRL5FCZwnny5) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [KABANES](https://open.spotify.com/album/3F8n2brlXT4gorr1ebbyfA) | 3:15 |
 | 50 | [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 |
 
-Snapshot ID: `AAAAAPGQPPm3hbx6oHztD6tjUUNW2RDL`
+Snapshot ID: `AAAAAHXOBMQTEpboNdbAAxEEieUuvQ2O`

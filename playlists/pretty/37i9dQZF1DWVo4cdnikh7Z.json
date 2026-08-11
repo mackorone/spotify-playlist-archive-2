@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : DC",
-  "num_followers": 758205,
+  "num_followers": 758373,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxEKAX4ZkR3sC3wn3MUCaPVXBPY",
+  "snapshot_id": "AAAAAGhSYtdWU37I6B21c9t8GwmQuPNO",
   "tracks": [
     {
       "added_at": "2026-08-03 04:59:13",
@@ -45,6 +45,26 @@
       "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
     },
     {
+      "added_at": "2026-08-10 05:27:00",
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Hangova",
+      "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
+    },
+    {
       "added_at": "2026-08-04 10:26:43",
       "album": {
         "name": "The One Rule (From \"Vishwanath & Sons\")(Tamil)",
@@ -63,26 +83,6 @@
       "duration_ms": 168333,
       "name": "The One Rule (From \"Vishwanath & Sons\")(Tamil)",
       "url": "https://open.spotify.com/track/71IDXVZlzz3dBCewIUmqfI"
-    },
-    {
-      "added_at": "2026-07-06 15:28:08",
-      "album": {
-        "name": "Hangova (From \"DC\")",
-        "url": "https://open.spotify.com/album/5UJZXoC2VS7yzRE5c4R6Vz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Hangova (From \"DC\")",
-      "url": "https://open.spotify.com/track/2MvEcJxJAxCr31kA5wHwve"
     },
     {
       "added_at": "2026-07-03 11:16:04",
@@ -121,6 +121,30 @@
       "url": "https://open.spotify.com/track/1lGh7Np4yXwHlqYKYgWfEV"
     },
     {
+      "added_at": "2026-07-19 03:08:15",
+      "album": {
+        "name": "Bum Baa Diga Diga (From \"DC\")",
+        "url": "https://open.spotify.com/album/1JgmKecnuCotioffuc2pF0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Bum Baa Diga Diga (From \"DC\")",
+      "url": "https://open.spotify.com/track/11RCy54poO2EO6FWxQ4do2"
+    },
+    {
       "added_at": "2026-07-25 11:48:30",
       "album": {
         "name": "The Wedding Song (From \"Vishwanath & Sons\")(Tamil)",
@@ -143,6 +167,26 @@
       "duration_ms": 195744,
       "name": "The Wedding Song (From \"Vishwanath & Sons\")(Tamil)",
       "url": "https://open.spotify.com/track/0Y8hFPjJk8Kh4gJnfbYg1j"
+    },
+    {
+      "added_at": "2026-08-07 06:02:36",
+      "album": {
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-07-23 08:03:05",
@@ -227,6 +271,30 @@
       "duration_ms": 135979,
       "name": "Verappa - Punjabi Version",
       "url": "https://open.spotify.com/track/4geav6a4RLB9kL8bJw3eQx"
+    },
+    {
+      "added_at": "2026-08-03 12:51:01",
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        },
+        {
+          "name": "Ram Kumar",
+          "url": "https://open.spotify.com/artist/6DwDDDZTDknowwWgbOZY6N"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/38mVCLnD3fyvFIJM7THeYz"
     },
     {
       "added_at": "2026-08-04 05:12:31",
@@ -321,28 +389,44 @@
       "url": "https://open.spotify.com/track/6RbKtfKNw0Ee95GlXNEHyh"
     },
     {
-      "added_at": "2026-07-19 03:08:15",
+      "added_at": "2026-08-03 12:51:01",
       "album": {
-        "name": "Bum Baa Diga Diga (From \"DC\")",
-        "url": "https://open.spotify.com/album/1JgmKecnuCotioffuc2pF0"
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Bum Baa Diga Diga (From \"DC\")",
-      "url": "https://open.spotify.com/track/11RCy54poO2EO6FWxQ4do2"
+      "duration_ms": 101828,
+      "name": "Bloody Valentine - Instrumental",
+      "url": "https://open.spotify.com/track/1iq5WScWkug39WEweHfdXp"
+    },
+    {
+      "added_at": "2026-08-10 10:09:03",
+      "album": {
+        "name": "Namakkaai Oru Vaanam (From \"Yezhu Kadal Yezhu Malai\")",
+        "url": "https://open.spotify.com/album/0CF8J5b2NFkYofDBpb7yQM"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "duration_ms": 283846,
+      "name": "Namakkaai Oru Vaanam - From \"Yezhu Kadal Yezhu Malai\"",
+      "url": "https://open.spotify.com/track/2BzXM1aKE5xFBabPGWfpIX"
     },
     {
       "added_at": "2026-08-07 10:36:26",
@@ -359,26 +443,6 @@
       "duration_ms": 91477,
       "name": "Verappa (Urumum Venga) - Female Version",
       "url": "https://open.spotify.com/track/1zxVN7NrIR3adKyZQAKLB6"
-    },
-    {
-      "added_at": "2026-08-07 06:02:36",
-      "album": {
-        "name": "Pesamale",
-        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
-      },
-      "artists": [
-        {
-          "name": "Siri Xander",
-          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
-        },
-        {
-          "name": "Arra Aria Khayal",
-          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Pesamale",
-      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-08-04 05:35:21",
@@ -1121,30 +1185,6 @@
       "url": "https://open.spotify.com/track/4t92F78M8bUJ7ghVBLP0i5"
     },
     {
-      "added_at": "2026-08-03 12:51:01",
-      "album": {
-        "name": "DC (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
-        },
-        {
-          "name": "Ram Kumar",
-          "url": "https://open.spotify.com/artist/6DwDDDZTDknowwWgbOZY6N"
-        }
-      ],
-      "duration_ms": 162750,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/38mVCLnD3fyvFIJM7THeYz"
-    },
-    {
       "added_at": "2026-08-06 10:19:38",
       "album": {
         "name": "G.D.N (Original Motion Picture Soundtrack)",
@@ -1505,22 +1545,6 @@
       "url": "https://open.spotify.com/track/56EknyXI9CYcBgoJsvvwZw"
     },
     {
-      "added_at": "2026-08-03 12:51:01",
-      "album": {
-        "name": "DC (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 101828,
-      "name": "Bloody Valentine - Instrumental",
-      "url": "https://open.spotify.com/track/1iq5WScWkug39WEweHfdXp"
-    },
-    {
       "added_at": "2026-06-29 09:27:39",
       "album": {
         "name": "Gatta Kusthi 2 (Original Motion Picture Soundtrack)",
@@ -1725,22 +1749,6 @@
       "url": "https://open.spotify.com/track/21sbfmwfNXEHraQkJqSuZn"
     },
     {
-      "added_at": "2026-07-06 12:39:03",
-      "album": {
-        "name": "Ladies & Ladies (From \"Toxic - Tamil\")",
-        "url": "https://open.spotify.com/album/1tXWuTFfJQbPLdYCwlni8z"
-      },
-      "artists": [
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        }
-      ],
-      "duration_ms": 84363,
-      "name": "Ladies & Ladies - From \"Toxic - Tamil\"",
-      "url": "https://open.spotify.com/track/3PT2NyJLwJhLS0Y9VO8xgW"
-    },
-    {
       "added_at": "2026-06-29 09:27:39",
       "album": {
         "name": "Nachindhi Machane (From \"MAGUDAM\")",
@@ -1793,58 +1801,6 @@
       "url": "https://open.spotify.com/track/5KGx0VTq1lkF4zVqsS5Nh1"
     },
     {
-      "added_at": "2026-06-30 11:37:56",
-      "album": {
-        "name": "La La La (From \"Mr. Bhaarath\")",
-        "url": "https://open.spotify.com/album/4O02fPrB13s6Av3VO78jjA"
-      },
-      "artists": [
-        {
-          "name": "Pranav Muniraj",
-          "url": "https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp"
-        },
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Rokesh",
-          "url": "https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "La La La - From \"Mr. Bhaarath\"",
-      "url": "https://open.spotify.com/track/3xUZMdVHEQybPaOgD1xYdZ"
-    },
-    {
-      "added_at": "2026-06-26 05:23:23",
-      "album": {
-        "name": "Con City [TAMIL]",
-        "url": "https://open.spotify.com/album/1wKwpbHYAV91DQxwnWZxE6"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Vangal Pulla Vicky",
-          "url": "https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 234061,
-      "name": "Korean Family",
-      "url": "https://open.spotify.com/track/5ClualSM6nK3AbkoVGljQ9"
-    },
-    {
       "added_at": "2026-06-24 12:13:44",
       "album": {
         "name": "Nooru Sami (Original Motion Picture Soundtrack)",
@@ -1871,26 +1827,6 @@
       "duration_ms": 247000,
       "name": "Maaya Kanavo",
       "url": "https://open.spotify.com/track/7wacnPNAWYClCZWvvcCYie"
-    },
-    {
-      "added_at": "2026-06-26 05:13:09",
-      "album": {
-        "name": "Engal Thangam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4DTJ6DyY9MyGQy1oPbz6ro"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Arul Raj",
-          "url": "https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Baby Driver",
-      "url": "https://open.spotify.com/track/15eFBFnIQRKGzB1l2jjt5a"
     },
     {
       "added_at": "2026-06-26 04:46:46",
@@ -1937,30 +1873,6 @@
       "url": "https://open.spotify.com/track/0a23qt1mtyXRcX8SvcMaYM"
     },
     {
-      "added_at": "2026-06-19 13:23:14",
-      "album": {
-        "name": "Nightu Nila (From \"Vekkai\")",
-        "url": "https://open.spotify.com/album/10Qj7xrG0OZvc68kzeWs76"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Gana Bala",
-          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        }
-      ],
-      "duration_ms": 208205,
-      "name": "Nightu Nila - From \"Vekkai\"",
-      "url": "https://open.spotify.com/track/3BcifTzLQviVBw5zjMWDHw"
-    },
-    {
       "added_at": "2026-06-23 04:52:06",
       "album": {
         "name": "Love - U Love - U Kaatteri (From \"Immortal\")",
@@ -1985,26 +1897,6 @@
       "url": "https://open.spotify.com/track/64t2s5KpGBjyTR2rXdvIl0"
     },
     {
-      "added_at": "2026-06-15 12:05:14",
-      "album": {
-        "name": "Thalli Pogura (From \"Must Date the Playboy\u201d)",
-        "url": "https://open.spotify.com/album/1RvgCvLiVyNSn8hMIZ5619"
-      },
-      "artists": [
-        {
-          "name": "T Suriavelan",
-          "url": "https://open.spotify.com/artist/62pHLcXg1Hp1QaiX3l1IsR"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        }
-      ],
-      "duration_ms": 254206,
-      "name": "Thalli Pogura (From \"Must Date the Playboy\u201d)",
-      "url": "https://open.spotify.com/track/4eHDGU8GRAZwz5p4MymXAX"
-    },
-    {
       "added_at": "2026-06-10 11:04:24",
       "album": {
         "name": "29 (Original Motion Picture Soundtrack)",
@@ -2027,34 +1919,6 @@
       "duration_ms": 307800,
       "name": "Seelay Seelay",
       "url": "https://open.spotify.com/track/5VMIblIdMlaaJ8rfmh5chr"
-    },
-    {
-      "added_at": "2026-06-17 04:42:19",
-      "album": {
-        "name": "Heartin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/75ysChm2wWD6JtNkuHoQF3"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Murugesan",
-          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        },
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        }
-      ],
-      "duration_ms": 245806,
-      "name": "Karaya Karaya (From \"Heartin\")",
-      "url": "https://open.spotify.com/track/4YYlLpUpHSNPoVUcbiB5gW"
     },
     {
       "added_at": "2026-06-10 11:33:15",

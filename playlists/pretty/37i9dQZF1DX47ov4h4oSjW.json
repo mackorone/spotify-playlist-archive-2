@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 99268,
+  "num_followers": 99265,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKb5AuNuHGSwtaH2L+dYVW2ZZYcC",
+  "snapshot_id": "AAAAAHkk+m7IX5HF6f6t5Ct8/xFwqSc9",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "For the Love of Love",
-        "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
-      },
-      "artists": [
-        {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
-        }
-      ],
-      "duration_ms": 143251,
-      "name": "For the Love of Love",
-      "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Box of Memories",
         "url": "https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Starry Sky",
-        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+        "name": "For the Love of Love",
+        "url": "https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX"
       },
       "artists": [
         {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Starry Sky",
-      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
+      "duration_ms": 143251,
+      "name": "For the Love of Love",
+      "url": "https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -491,6 +475,22 @@
       "duration_ms": 201880,
       "name": "GBFISYSIH",
       "url": "https://open.spotify.com/track/0P6rmbD8668dVimhlX1afA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Nocturnes op.3",
-        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
-      },
-      "artists": [
-        {
-          "name": "Taichi Chishaki",
-          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
-        }
-      ],
-      "duration_ms": 154714,
-      "name": "Nocturnes op.3",
-      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 146000,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/43z2LSP0180NFwr720P3xk"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Nocturnes op.3",
+        "url": "https://open.spotify.com/album/6blHb8WgNhwNNPJURD6ZMT"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "duration_ms": 154714,
+      "name": "Nocturnes op.3",
+      "url": "https://open.spotify.com/track/2n4tgkKIrN1DPOUamOFnrO"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
-      },
-      "artists": [
-        {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
-        }
-      ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Cygne Noir",
         "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 178634,
       "name": "Cygne Noir",
       "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+      },
+      "artists": [
+        {
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Coelicolor",
-        "url": "https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI"
-      },
-      "artists": [
-        {
-          "name": "Eu Nice",
-          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
-        }
-      ],
-      "duration_ms": 162495,
-      "name": "Coelicolor",
-      "url": "https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 145533,
       "name": "Dream in Eb",
       "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Coelicolor",
+        "url": "https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI"
+      },
+      "artists": [
+        {
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
+        }
+      ],
+      "duration_ms": 162495,
+      "name": "Coelicolor",
+      "url": "https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Fallboard",
-        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
-      },
-      "artists": [
-        {
-          "name": "Esther Dutch",
-          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
-        }
-      ],
-      "duration_ms": 160009,
-      "name": "Fallboard",
-      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/3udJn7VqPSEv07WhZJ9x1P"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Fallboard",
+        "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
+      },
+      "artists": [
+        {
+          "name": "Esther Dutch",
+          "url": "https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7"
+        }
+      ],
+      "duration_ms": 160009,
+      "name": "Fallboard",
+      "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Origins",
         "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
       },
@@ -1003,26 +1003,6 @@
       "duration_ms": 202357,
       "name": "The Inner World",
       "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Hungarian Dances / Waltzes, Op. 39",
-        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 85706,
-      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
-      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1059,6 +1039,26 @@
       "duration_ms": 148132,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Hungarian Dances / Waltzes, Op. 39",
+        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 85706,
+      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
+      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Piano Inside",
-        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
-      },
-      "artists": [
-        {
-          "name": "Milo Edale",
-          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
-        }
-      ],
-      "duration_ms": 191370,
-      "name": "The Piano Inside",
-      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Wind",
         "url": "https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 81641,
       "name": "Nos",
       "url": "https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "The Piano Inside",
+        "url": "https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO"
+      },
+      "artists": [
+        {
+          "name": "Milo Edale",
+          "url": "https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk"
+        }
+      ],
+      "duration_ms": 191370,
+      "name": "The Piano Inside",
+      "url": "https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Automne",
-        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
-      },
-      "artists": [
-        {
-          "name": "Jordane Tumarinson",
-          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
-        }
-      ],
-      "duration_ms": 192230,
-      "name": "Morph\u00e9e",
-      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Tomorrow EP",
-        "url": "https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId"
-      },
-      "artists": [
-        {
-          "name": "Saddest Girl In The World",
-          "url": "https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/2CDgAaOd5OPBZg52RRSK3S"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ"
       },
@@ -1439,6 +1407,22 @@
       "duration_ms": 165902,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Automne",
+        "url": "https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7"
+      },
+      "artists": [
+        {
+          "name": "Jordane Tumarinson",
+          "url": "https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw"
+        }
+      ],
+      "duration_ms": 192230,
+      "name": "Morph\u00e9e",
+      "url": "https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Tomorrow EP",
+        "url": "https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId"
+      },
+      "artists": [
+        {
+          "name": "Saddest Girl In The World",
+          "url": "https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/2CDgAaOd5OPBZg52RRSK3S"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Ready Set Love",
         "url": "https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25"
       },
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Camera Obscura",
-        "url": "https://open.spotify.com/album/5tuhTyI3R9LUbF6EH1p5cU"
-      },
-      "artists": [
-        {
-          "name": "Jose Carcavelos",
-          "url": "https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H"
-        }
-      ],
-      "duration_ms": 131186,
-      "name": "Camera Obscura",
-      "url": "https://open.spotify.com/track/6cbLWx2NlOs3LvpfR44NPg"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Silentium",
         "url": "https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 141342,
       "name": "Silentium",
       "url": "https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Camera Obscura",
+        "url": "https://open.spotify.com/album/5tuhTyI3R9LUbF6EH1p5cU"
+      },
+      "artists": [
+        {
+          "name": "Jose Carcavelos",
+          "url": "https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H"
+        }
+      ],
+      "duration_ms": 131186,
+      "name": "Camera Obscura",
+      "url": "https://open.spotify.com/track/6cbLWx2NlOs3LvpfR44NPg"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/6NM48j8dLlbd5EekSoKOyX"
-      },
-      "artists": [
-        {
-          "name": "Noel Aspensen",
-          "url": "https://open.spotify.com/artist/33JlJ8VUoATb9ZCiKkVV7K"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/2DFNIBOHGJ1jKF3qLahfEt"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/6NM48j8dLlbd5EekSoKOyX"
+      },
+      "artists": [
+        {
+          "name": "Noel Aspensen",
+          "url": "https://open.spotify.com/artist/33JlJ8VUoATb9ZCiKkVV7K"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2DFNIBOHGJ1jKF3qLahfEt"
     },
     {
       "added_at": "2023-03-12 10:18:38",

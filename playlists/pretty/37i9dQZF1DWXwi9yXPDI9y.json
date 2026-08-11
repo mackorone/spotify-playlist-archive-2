@@ -1,12 +1,12 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 200871,
+  "num_followers": 200930,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSHCDgdyMxxLIV2xLp/fUOn0mMm",
+  "snapshot_id": "AAAAALTc1P2y7yxk4USxKxBlYNU5NsaD",
   "tracks": [
     {
       "added_at": "2026-04-01 09:07:54",
@@ -403,18 +403,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Crazy And Mixed Up",
-        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 237800,
-      "name": "I Didn't Know What Time It Was",
-      "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -435,6 +439,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Crazy And Mixed Up",
+        "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Helen Merrill With Strings",
         "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 187266,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
-      },
-      "artists": [
-        {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 177666,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Oscar Peterson Plays The George Gershwin Song Book",
-        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 252000,
       "name": "Blame It On My Youth - Remastered 1999",
       "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Oscar Peterson Plays The George Gershwin Song Book",
+        "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "The Jazz Giants '56",
         "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 569880,
       "name": "I Guess I'll Have To Change My Plan",
       "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Anita Sings The Most",
-        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Oscar Peterson Quartet",
-          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Reunion With Chet Baker",
         "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Anita Sings The Most",
+        "url": "https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Oscar Peterson Quartet",
+          "url": "https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
+        "name": "Steamin' [Rudy Van Gelder edition]",
+        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 467626,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
         "name": "Autumn Leaves",
         "url": "https://open.spotify.com/album/0G6O2FuXK2CrwyzxcEpGsK"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 182053,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/5DiKG8ujZkxOKn4o8bodAI"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
-        "name": "Steamin' [Rudy Van Gelder edition]",
-        "url": "https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 467626,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
     },
     {
       "added_at": "2026-04-01 09:07:54",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-04-01 09:07:54",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 434666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
-    },
-    {
-      "added_at": "2026-04-01 09:07:54",
-      "album": {
         "name": "Jazz 'Round Midnight",
         "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 258160,
       "name": "Time On My Hands",
       "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
+    },
+    {
+      "added_at": "2026-04-01 09:07:54",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 434666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
     },
     {
       "added_at": "2026-04-01 09:07:54",

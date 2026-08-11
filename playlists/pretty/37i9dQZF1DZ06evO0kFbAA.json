@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 55079,
+  "num_followers": 55082,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACSlPHcjwh3s3f+xYGOT3m+",
+  "snapshot_id": "anfDAAAAAAAih1vYyU+C/rmGtYdl7uQh",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 220493,
       "name": "E Luxo So",
       "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool Velvet: Stan Getz And Strings",
-        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Samba",
         "url": "https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 129720,
       "name": "Bim Bom - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool Velvet: Stan Getz And Strings",
+        "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
     },
     {
       "added_at": null,
@@ -599,42 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 398266,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "'Tis Autumn",
-      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
       },
@@ -651,6 +615,26 @@
       "duration_ms": 346160,
       "name": "Ballad",
       "url": "https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "duration_ms": 398266,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "'Tis Autumn",
+      "url": "https://open.spotify.com/track/0WdiW7zP35hfIAw6jKxwIS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 542733,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jazz Moods - Cool",
-        "url": "https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Aguas de Marco",
-      "url": "https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 307653,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/6zQK0HXqNFRQOwmaoSKrQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz Moods - Cool",
+        "url": "https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Aguas de Marco",
+      "url": "https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI"
     },
     {
       "added_at": null,

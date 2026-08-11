@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Licaxxx \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,401 likes - 107 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,426 likes - 107 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 5 | [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
 | 6 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
 | 7 | [Hold On](https://open.spotify.com/track/2uqHX0OFOlUsMkqnhpBe6d) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [Maybe in the next world..\. 002](https://open.spotify.com/album/7fclZVmB8NxbNBzFTuNKUT) | 3:45 |
-| 8 | [WEIGH A TON](https://open.spotify.com/track/4bxfqNSdAbU59z9VZkHiD6) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [MG](https://open.spotify.com/artist/0FeFbZk48tFUPI1GeTY3Kf) | [WEIGH A TON / LET THE KICK DRUM SPEAK](https://open.spotify.com/album/3hTrinrEnz74QlW7fR9aDf) | 4:29 |
+| 8 | [WEIGH A TON](https://open.spotify.com/track/4bxfqNSdAbU59z9VZkHiD6) | [MG](https://open.spotify.com/artist/0FeFbZk48tFUPI1GeTY3Kf) | [WEIGH A TON / LET THE KICK DRUM SPEAK](https://open.spotify.com/album/3hTrinrEnz74QlW7fR9aDf) | 4:29 |
 | 9 | [Jomox](https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Jomox](https://open.spotify.com/album/0AiFx5KOe51ZbpG05xNk82) | 2:56 |
 | 10 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
 | 11 | [Wheel Up \- VIP](https://open.spotify.com/track/5wGSsPeQatcDtDEpxh6G6Y) | [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [Catarrh Nisin](https://open.spotify.com/artist/2e9JzJnQ0tYXmQt2GI66kI), [TRICO as MAKA](https://open.spotify.com/artist/4QXnSuM8syKaPwa8iYu0W8), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [DEKISHI](https://open.spotify.com/artist/3WGf7sxBvXaGAhU9G83aun) | [Wheel Up VIP](https://open.spotify.com/album/74mZNZAI1YQPyNekadw6A0) | 4:11 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 106 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 107 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 |
 
-Snapshot ID: `AAAAAPObN9i1G2/XHzGViy0uDYD6oui4`
+Snapshot ID: `AAAAAH2lWr4X2PHwLBmheeM+OjfsyeuO`

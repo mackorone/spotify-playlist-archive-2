@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31043,
+  "num_followers": 31054,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAD7dXC/NK7wSBqw5IM58wp2",
+  "snapshot_id": "anfDAAAAAAAwN+ExRdtyuQeiyHue60kc",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 185213,
-      "name": "SWEET SPOT",
-      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
         "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 124805,
       "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
       "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "SWEET SPOT",
+      "url": "https://open.spotify.com/track/6AX3i1TluzbvpJpKrY7NoD"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 133659,
-      "name": "Blue Strips (feat. Sexyy Red) - Remix",
-      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Eyes on Shiest",
         "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
       },
@@ -463,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
       },
       "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 162324,
-      "name": "She's Back",
-      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
+      "duration_ms": 133659,
+      "name": "Blue Strips (feat. Sexyy Red) - Remix",
+      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
       "duration_ms": 182278,
       "name": "5 Star Freak",
       "url": "https://open.spotify.com/track/3WK2MpD3d1W7oziyVX4NGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "She's Back",
+      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
     },
     {
       "added_at": null,

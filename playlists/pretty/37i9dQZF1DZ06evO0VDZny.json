@@ -1,12 +1,12 @@
 {
   "description": "This is Bring Me The Horizon. The essential tracks, all in one playlist.",
-  "num_followers": 518549,
+  "num_followers": 518623,
   "original_name": "This Is Bring Me The Horizon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAB85lssI0anhlKQuJ9OifP3",
+  "snapshot_id": "anfDAAAAAABI8TITxUqN4v+0802GJhsI",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 231106,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
+      "duration_ms": 222093,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Drown",
-      "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
+      "duration_ms": 231106,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "sugar honey ice & tea",
-      "url": "https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 240151,
       "name": "Wonderwall - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "sugar honey ice & tea",
+      "url": "https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 227265,
-      "name": "medicine",
-      "url": "https://open.spotify.com/track/3GHtEaicELsTViK08EXEQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Habits (feat. Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 227265,
+      "name": "medicine",
+      "url": "https://open.spotify.com/track/3GHtEaicELsTViK08EXEQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo-files",
         "url": "https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs"
       },
@@ -728,13 +728,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Dimension 32",
-          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+          "name": "Kanisan",
+          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
         }
       ],
-      "duration_ms": 209611,
-      "name": "followU.bnd",
-      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
+      "duration_ms": 208224,
+      "name": "seenitallbefore_xx.arch",
+      "url": "https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm"
     },
     {
       "added_at": null,
@@ -764,13 +764,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
         }
       ],
-      "duration_ms": 182764,
-      "name": "king_sl@yer.fmk",
-      "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
+      "duration_ms": 209611,
+      "name": "followU.bnd",
+      "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
     },
     {
       "added_at": null,
@@ -824,13 +824,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Kanisan",
-          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         }
       ],
-      "duration_ms": 208224,
-      "name": "seenitallbefore_xx.arch",
-      "url": "https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm"
+      "duration_ms": 182764,
+      "name": "king_sl@yer.fmk",
+      "url": "https://open.spotify.com/track/27lDLTm1KL0YsEdtMFUxgY"
     },
     {
       "added_at": null,
@@ -864,13 +864,13 @@
           "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         },
         {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
         }
       ],
-      "duration_ms": 194987,
-      "name": "parasite.ev3",
-      "url": "https://open.spotify.com/track/7GPLneLBvgAURR2AblkAJy"
+      "duration_ms": 244355,
+      "name": "m0th3r.tng",
+      "url": "https://open.spotify.com/track/2NlfuU3CpiYsMn12jlcIxJ"
     }
   ],
   "unique_name": "This Is Bring Me The Horizon",

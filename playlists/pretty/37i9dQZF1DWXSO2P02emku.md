@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Acordeones, tradición y baile: Polca de México y Chequia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,248 likes - 30 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,242 likes - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 29 | [El Garabato](https://open.spotify.com/track/50BncuNj5pdtdeegZn1MPV) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Polkas Mexicanas](https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb) | 2:46 |
 | 30 | [El Rebolcadero](https://open.spotify.com/track/2mk351MJfc9OoAf4LHdO85) | [Los Mineros De Durango](https://open.spotify.com/artist/2FX3GCv7KS1RbxPzksBens) | [Polkas Chotis Y Zapateados](https://open.spotify.com/album/4RAIjsa6ODuCXeOpN2OtRm) | 1:39 |
 
-Snapshot ID: `AAAAADgNIlw3ifqQutlFs4Kvh6mTnoSW`
+Snapshot ID: `AAAAANicedlZnEdmzgBSaWAPVe7+Osja`

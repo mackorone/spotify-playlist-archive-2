@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWaGZ0QV9of6.md) - [plain]
 
 > Honest, heartfelt YA stories for teens navigating identity, friendship, and the future.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAE/o16KstmMrFXMBp9Yu5xK+5HDk`
+Snapshot ID: `AAAAAHHQVUvUObipuGeQZTzwdZe5ksvd`

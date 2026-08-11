@@ -7054,7 +7054,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 184400,
       "name": "Baby Driver",
       "url": "https://open.spotify.com/track/15eFBFnIQRKGzB1l2jjt5a"
@@ -16329,6 +16329,28 @@
     },
     {
       "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247816,
+      "name": "Hangova",
+      "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
+    },
+    {
+      "album": {
         "name": "Hangova (From \"DC\")",
         "url": "https://open.spotify.com/album/5UJZXoC2VS7yzRE5c4R6Vz"
       },
@@ -16344,7 +16366,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 247816,
       "name": "Hangova (From \"DC\")",
       "url": "https://open.spotify.com/track/2MvEcJxJAxCr31kA5wHwve"
@@ -24846,7 +24868,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 245806,
       "name": "Karaya Karaya (From \"Heartin\")",
       "url": "https://open.spotify.com/track/4YYlLpUpHSNPoVUcbiB5gW"
@@ -26594,7 +26616,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 234061,
       "name": "Korean Family",
       "url": "https://open.spotify.com/track/5ClualSM6nK3AbkoVGljQ9"
@@ -27436,7 +27458,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 185379,
       "name": "La La La - From \"Mr. Bhaarath\"",
       "url": "https://open.spotify.com/track/3xUZMdVHEQybPaOgD1xYdZ"
@@ -27454,7 +27476,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 84363,
       "name": "Ladies & Ladies - From \"Toxic - Tamil\"",
       "url": "https://open.spotify.com/track/3PT2NyJLwJhLS0Y9VO8xgW"
@@ -35541,6 +35563,32 @@
     },
     {
       "album": {
+        "name": "Namakkaai Oru Vaanam (From \"Yezhu Kadal Yezhu Malai\")",
+        "url": "https://open.spotify.com/album/0CF8J5b2NFkYofDBpb7yQM"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283846,
+      "name": "Namakkaai Oru Vaanam - From \"Yezhu Kadal Yezhu Malai\"",
+      "url": "https://open.spotify.com/track/2BzXM1aKE5xFBabPGWfpIX"
+    },
+    {
+      "album": {
         "name": "Namakkana kaalam (From \"Parasakthi\") (Tamil)",
         "url": "https://open.spotify.com/album/2QI7o1EEnz022K7IhXYCGg"
       },
@@ -37772,7 +37820,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 208205,
       "name": "Nightu Nila - From \"Vekkai\"",
       "url": "https://open.spotify.com/track/3BcifTzLQviVBw5zjMWDHw"
@@ -52508,7 +52556,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 254206,
       "name": "Thalli Pogura (From \"Must Date the Playboy\u201d)",
       "url": "https://open.spotify.com/track/4eHDGU8GRAZwz5p4MymXAX"

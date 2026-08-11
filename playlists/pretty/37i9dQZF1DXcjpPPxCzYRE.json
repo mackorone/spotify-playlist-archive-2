@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 443876,
+  "num_followers": 443914,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMhi/lx6cJ0MJAbWidHuCZmenFFA",
+  "snapshot_id": "AAAAAOjPCPLiCrNErueTVNhKY1kH8sfO",
   "tracks": [
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "rodeo",
-        "url": "https://open.spotify.com/album/1EocBshKziq5ihMvgM4LRg"
-      },
-      "artists": [
-        {
-          "name": "Poster Boy",
-          "url": "https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze"
-        }
-      ],
-      "duration_ms": 198909,
-      "name": "rodeo",
-      "url": "https://open.spotify.com/track/27f887zAAUFY80xyqt67MB"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 252293,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "rodeo",
+        "url": "https://open.spotify.com/album/1EocBshKziq5ihMvgM4LRg"
+      },
+      "artists": [
+        {
+          "name": "Poster Boy",
+          "url": "https://open.spotify.com/artist/2uQ5MPeAoOkb9B6dwBzjze"
+        }
+      ],
+      "duration_ms": 198909,
+      "name": "rodeo",
+      "url": "https://open.spotify.com/track/27f887zAAUFY80xyqt67MB"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Otro perro andaluz (Cara A)",
-        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
-      },
-      "artists": [
-        {
-          "name": "CABA",
-          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "Un d\u00eda de julio",
-      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/1gBxtmX08ZwNWBXH8a3qX6"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 212571,
       "name": "No tenemos tiempo",
       "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Otro perro andaluz (Cara A)",
+        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
+      },
+      "artists": [
+        {
+          "name": "CABA",
+          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Un d\u00eda de julio",
+      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
-      },
-      "artists": [
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "El Vac\u00edo",
         "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 154187,
       "name": "El Vac\u00edo",
       "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1415,26 +1415,6 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "amor 925.",
-        "url": "https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7"
-      },
-      "artists": [
-        {
-          "name": "Rodricc",
-          "url": "https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw"
-        },
-        {
-          "name": "Blue Lacey",
-          "url": "https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8"
-        }
-      ],
-      "duration_ms": 209591,
-      "name": "No Valdr\u00e1 La Pena",
-      "url": "https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1475,6 +1455,26 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "amor 925.",
+        "url": "https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7"
+      },
+      "artists": [
+        {
+          "name": "Rodricc",
+          "url": "https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw"
+        },
+        {
+          "name": "Blue Lacey",
+          "url": "https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8"
+        }
+      ],
+      "duration_ms": 209591,
+      "name": "No Valdr\u00e1 La Pena",
+      "url": "https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "girlhood",
         "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
       },
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "San Antonio",
         "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+        "name": "Consid\u00e9rame",
+        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
       },
       "artists": [
         {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+      "duration_ms": 154500,
+      "name": "Consid\u00e9rame",
+      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1555,22 +1571,6 @@
       "duration_ms": 163402,
       "name": "Tu",
       "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Consid\u00e9rame",
-        "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Consid\u00e9rame",
-      "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "surub\u00ed",
-        "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Boudzali",
-          "url": "https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "surub\u00ed",
-      "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
         "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "surub\u00ed",
+        "url": "https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Boudzali",
+          "url": "https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "surub\u00ed",
+      "url": "https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Algo F\u00edsico",
-        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
-      },
-      "artists": [
-        {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Algo F\u00edsico",
-      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Bombas de Amor",
         "url": "https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 162925,
       "name": "Bombas de Amor",
       "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Algo F\u00edsico",
+        "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Algo F\u00edsico",
+      "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "KERALA",
-        "url": "https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ"
-      },
-      "artists": [
-        {
-          "name": "Marina Sabadell",
-          "url": "https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V"
-        }
-      ],
-      "duration_ms": 213843,
-      "name": "KERALA",
-      "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Dollhouse",
         "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 176517,
       "name": "No volver\u00e1n",
       "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "KERALA",
+        "url": "https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sabadell",
+          "url": "https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V"
+        }
+      ],
+      "duration_ms": 213843,
+      "name": "KERALA",
+      "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
     },
     {
       "added_at": "2026-07-30 22:00:26",

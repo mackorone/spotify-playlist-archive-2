@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Carter Faith, Baby Nova and Laci Kaye Booth
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,715 likes - 150 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,750 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 149 | [As I Go](https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [As I Go](https://open.spotify.com/album/6wT8C45rgAma8d0yVoa9Z5) | 3:22 |
 | 150 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 |
 
-Snapshot ID: `AAAAAFC9X6H4q3E+D/X2K3zGpj1+8rlI`
+Snapshot ID: `AAAAACDx5yQ55yPzjzwRj18UDPLlgW6A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,449 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,468 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 90 | [Vida](https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc) | [Danny Roma x Manrix](https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Lina Torres](https://open.spotify.com/artist/5xX3HNmF1nGeWuaTbbadM1) | [Vida](https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI) | 2:32 |
 | 91 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 |
 | 92 | [Delante](https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN) | [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE) | [Delante](https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag) | 2:25 |
-| 93 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
-| 94 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 |
-| 95 | [Dame Fuego](https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [MVRIN](https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo) | [Dame Fuego](https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ) | 3:48 |
+| 93 | [Dame Fuego](https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [MVRIN](https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo) | [Dame Fuego](https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ) | 3:48 |
+| 94 | [Matadora \- Radio Edit](https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC) | [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Matadora \(Radio Edit\)](https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV) | 3:00 |
+| 95 | [PAPI](https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx) | [PAPI](https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A) | 2:35 |
 | 96 | [Mi Gentee](https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ) | [Chinonegro](https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY) | [Mi Gentee EP](https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG) | 3:28 |
 | 97 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
 | 98 | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T) | 2:17 |
 | 99 | [Alma Mía](https://open.spotify.com/track/0H4ccUlBFSvo4aTl2EE1OR) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0), [MORENITA](https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71) | [Alma Mía](https://open.spotify.com/album/7uCOuBkTlIdkf8csRwJqat) | 3:42 |
 | 100 | [Poco Poco](https://open.spotify.com/track/04N9V07H365hcJSytxYstU) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Road To Miami EP](https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ) | 2:58 |
 
-Snapshot ID: `AAAAAClljj4GE9md0+LVmk8vL+z4lJt4`
+Snapshot ID: `AAAAAM8YYmMH297CLBjDhoVSVEJUkdwj`

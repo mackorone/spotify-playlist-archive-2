@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Bella Boo
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,955 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,969 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 49 | [Fetchhh \(Sano Megaflip\)](https://open.spotify.com/track/5rhSoWagnvX8fPYQ3NVqfF) | [Brenda](https://open.spotify.com/artist/6bbLScfhLt3Q5QeIQYiQM9), [Maria Manuela](https://open.spotify.com/artist/2xAmHqPpmZj8R0HgCI5USd) | [Fetchhh \(Sano Megaflip\)](https://open.spotify.com/album/0JkBmNKv30YQxLkRulkddH) | 3:39 |
 | 50 | [Paris, Forever](https://open.spotify.com/track/0eAOmCWGWC7ag09EYi9lBN) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Paris, Forever](https://open.spotify.com/album/4VPuiXoPj3Ule0fJdZcuZI) | 4:26 |
 
-Snapshot ID: `AAAAAK5jne3wt5Q9wjIeRcXY6qnm7dM/`
+Snapshot ID: `AAAAAOQMsVbTKs84fn+0fe/fglXhmAli`

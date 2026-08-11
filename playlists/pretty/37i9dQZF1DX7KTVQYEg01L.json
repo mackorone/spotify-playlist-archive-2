@@ -1,12 +1,12 @@
 {
   "description": "celebre seu dia no maior astral! ",
-  "num_followers": 1347888,
+  "num_followers": 1347738,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAWn/04YgNKfOKQka96IKluAqp0B",
+  "snapshot_id": "AAAAAGSUAOo10FDMJj1KUo+5aQeYZTGg",
   "tracks": [
     {
       "added_at": "2026-08-07 14:34:09",
@@ -159,6 +159,26 @@
     {
       "added_at": "2026-08-07 14:34:09",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+    },
+    {
+      "added_at": "2026-08-07 14:34:09",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": "2026-08-07 14:34:09",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
     },
     {
       "added_at": "2026-08-07 14:34:09",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-08-07 14:34:09",
       "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+    },
+    {
+      "added_at": "2026-08-07 14:34:09",
+      "album": {
         "name": "2U (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/1PZviVfBJJxNw5EtAwzdUu"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 194896,
       "name": "2U (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/3A7qX2QjDlPnazUsRk5y0M"
-    },
-    {
-      "added_at": "2026-08-07 14:34:09",
-      "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-08-07 14:34:09",

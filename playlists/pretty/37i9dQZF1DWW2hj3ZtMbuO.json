@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\"\n",
-  "num_followers": 1592737,
+  "num_followers": 1592851,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB27FipJMxFDNUMK8CVXk0VISR6F",
+  "snapshot_id": "AAAAAAM8Mjr1JO14oThwny/CjX7BgiF9",
   "tracks": [
     {
       "added_at": "2026-07-01 15:47:21",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-07-01 15:47:21",
       "album": {
-        "name": "Good God!",
-        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Nothing's New",
-      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
-    },
-    {
-      "added_at": "2026-07-01 15:47:21",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2026-07-01 15:47:21",
+      "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
       "added_at": "2026-07-01 15:47:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-01 15:47:21",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 170892,
-      "name": "Steeeam",
-      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
-    },
-    {
-      "added_at": "2026-07-01 15:47:21",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+    },
+    {
+      "added_at": "2026-07-01 15:47:21",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 170892,
+      "name": "Steeeam",
+      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
       "added_at": "2026-07-01 15:47:21",

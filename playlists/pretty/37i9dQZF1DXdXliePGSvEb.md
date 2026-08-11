@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,497 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,495 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 28 | [Air](https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [FOREVER](https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh) | 3:42 |
 | 29 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
 | 30 | [Play Me](https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Play Me](https://open.spotify.com/album/68J2MTHvW4gM5C6aevE1fV) | 2:49 |
-| 31 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
-| 32 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
+| 31 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
+| 32 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 33 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
 | 34 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
 | 35 | [Love Will Win The Day \- Take 3 Radio Edit](https://open.spotify.com/track/4r4G0PQIrASzTRrT9R1Pd5) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Love Will Win The Day \(Take 3 Radio Edit\)](https://open.spotify.com/album/6X8YeWB1WRps0m4DXEu23a) | 3:15 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 44 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 | 45 | [skyskysky](https://open.spotify.com/track/06Nlp5oqdxzvTiZL99lxP8) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:23 |
 | 46 | [Azimuth](https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Azimuth](https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg) | 3:46 |
-| 47 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
-| 48 | [E After Next](https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [E After Next](https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU) | 3:59 |
+| 47 | [E After Next](https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [E After Next](https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU) | 3:59 |
+| 48 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
 | 49 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 50 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 |
-| 51 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 |
-| 52 | [Buschtaxi](https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 8:36 |
+| 51 | [Buschtaxi](https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 8:36 |
+| 52 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 |
 | 53 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
 | 54 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
 | 55 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 75 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
 
-Snapshot ID: `AAAAAHMWDKjpLo6XfnJ6S3z5vroncDYb`
+Snapshot ID: `AAAAAAIoEnkW3xSm8/Z+AVGMJANfRph+`

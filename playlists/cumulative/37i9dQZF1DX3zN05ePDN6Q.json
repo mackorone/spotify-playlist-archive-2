@@ -11447,6 +11447,48 @@
     },
     {
       "album": {
+        "name": "Camping das Minas 2.0",
+        "url": "https://open.spotify.com/album/3N4FpTwywyESRY3gs2HNHe"
+      },
+      "artists": [
+        {
+          "name": "Xaolin Records",
+          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Beatriz Denaro",
+          "url": "https://open.spotify.com/artist/08dLjh5rmk0p3o562zICJ6"
+        },
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Madre Beatz",
+          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250299,
+      "name": "N\u00f3s J\u00e1 Sabemos",
+      "url": "https://open.spotify.com/track/4Au1FgvdKfBGnKeYclu5FY"
+    },
+    {
+      "album": {
         "name": "N\u00f4made IX",
         "url": "https://open.spotify.com/album/51vyxOtrA6GnQkInTDik0d"
       },
@@ -13298,7 +13340,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 126153,
       "name": "Plata o Plomo",
       "url": "https://open.spotify.com/track/5bopCWp2fagNiAFGa45ydL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,801 likes - 60 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,869 likes - 60 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 8 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
 | 9 | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/track/5GKR3fh1WeVv9V8NGBUVBj) | [Half Dead Dave](https://open.spotify.com/artist/7jnSEc8AP86RKGbWMkWnyR) | [Don't Cry \(It's OK to Cry\)](https://open.spotify.com/album/3kLKj3ipzd50tlEZnBrwPu) | 4:58 |
 | 10 | [What Sade said](https://open.spotify.com/track/4CBs4eAuIwocuCKDVU20VO) | [Fullempty](https://open.spotify.com/artist/0j532qZGt5B2gCxyeXlf56) | [What Sade said](https://open.spotify.com/album/6B0ulryUPr8fPvRYl2B5wN) | 3:45 |
-| 11 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 |
-| 12 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
+| 11 | [King Size](https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [King Size](https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW) | 4:57 |
+| 12 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 |
 | 13 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
 | 14 | [Shy \- Aguava Remix](https://open.spotify.com/track/7d79740Liavq38J1JDXkCz) | [PIANIKA](https://open.spotify.com/artist/6ESkBVPwRTv9Tn9WyrNoQC), [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Shy \(Aguava Remix\)](https://open.spotify.com/album/72Dk90mT6aqQh0Q4qTonkZ) | 3:21 |
 | 15 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 27 | [The Sinner](https://open.spotify.com/track/2deVIYB1WgGyp3GCOIbctT) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:42 |
 | 28 | [Closer To The Essence](https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Closer To The Essence](https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX) | 2:41 |
 | 29 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 30 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
-| 31 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
+| 30 | [Sundial Avenue](https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Sundial Avenue](https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd) | 2:24 |
+| 31 | [VERTIGO](https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX) | [Kronol](https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI) | [VERTIGO](https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56) | 3:53 |
 | 32 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
 | 33 | [U Will Change My Mind](https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE) | [Bootie Grove](https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3) | [U Will Change My Mind](https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV) | 3:54 |
 | 34 | [Iced Coffee](https://open.spotify.com/track/6rxQMY5SxOpSO1neanphxY) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY), [Turi](https://open.spotify.com/artist/1oSMgnyRBHfOt26vBan09F) | [Iced Coffee](https://open.spotify.com/album/6TftWZf2uvREyJaKLlTL47) | 2:37 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 54 | [Expendable](https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [Freedom EP](https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO) | 5:16 |
 | 55 | [Lullaby](https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw) | [Luca Musto](https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh) | [Lullaby](https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an) | 3:41 |
 | 56 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
-| 57 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 |
-| 58 | [It's in My Ears](https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4) | [Gallegos](https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF) | [It's in My Ears](https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2) | 4:05 |
+| 57 | [Celestial](https://open.spotify.com/track/3hrrMDXeDRetyNMXKjUrsA) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Celestial](https://open.spotify.com/album/52WyRvkSSoUhNeG6ldMzA9) | 2:59 |
+| 58 | [Always By Your Side](https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Always By Your Side](https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH) | 5:37 |
 | 59 | [Flutes of Gold](https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj), [Toro Moratto](https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H) | [Flutes of Gold](https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD) | 7:02 |
-| 60 | [Celestial](https://open.spotify.com/track/3hrrMDXeDRetyNMXKjUrsA) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Celestial](https://open.spotify.com/album/52WyRvkSSoUhNeG6ldMzA9) | 2:59 |
+| 60 | [In The Mood](https://open.spotify.com/track/13q5TBS6GCctU1DydnQ6xQ) | [Lövestad](https://open.spotify.com/artist/14ObPnLzYAKSBPZzQ9Va3e) | [The Waves Of Life](https://open.spotify.com/album/3S86DXhvN2QprhAsZZ4mIZ) | 4:48 |
 
-Snapshot ID: `AAAAANAF0SE4tAbQYvgBoKPw6FrDOpwR`
+Snapshot ID: `AAAAABW3MlvGJKFuhAPdshpXhNOqM0Oj`

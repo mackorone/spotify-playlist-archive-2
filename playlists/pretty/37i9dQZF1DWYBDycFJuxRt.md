@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 小袋成彬 & 5lack \*👉 <a href="https://spice.eplus.jp/articles/348059">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,080 likes - 99 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,070 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 98 | [Happy Birthday](https://open.spotify.com/track/6ucM6zB9mIZ5Vwxvtm2sXD) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [Happy Birthday](https://open.spotify.com/album/7KkKCflAkOnSucZngnt4UZ) | 3:17 |
 | 99 | [禁断果実](https://open.spotify.com/track/5Chi41G2ECjNtp1yLLO5ji) | [The Märbles](https://open.spotify.com/artist/4Iul5IDg81rYyOPmHXojxx) | [禁断果実](https://open.spotify.com/album/3dOHuBxHIwRsQ75wNuV3zD) | 3:44 |
 
-Snapshot ID: `AAAAAG5LM6hifPLLX70t2GE6ogPEyMz9`
+Snapshot ID: `AAAAACJFWEUqtdsvjXSG5PlGX/pPJDNp`

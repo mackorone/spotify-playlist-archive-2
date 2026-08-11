@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 346 songs - 21 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,548 likes - 346 songs - 21 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 101 | [Strange Birds](https://open.spotify.com/track/5Qn7UBFKV5iemqZMJ5F5ve) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 3:03 |
 | 102 | [Sunshine](https://open.spotify.com/track/0ApkFFU362NocXTexqWPYn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 |
 | 103 | [Hostage](https://open.spotify.com/track/42PnVxGUSKziKSKXCNXoob) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 2:56 |
-| 104 | [Confetti](https://open.spotify.com/track/3kikZxz3Sg6lwG72ZLssIL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:06 |
-| 105 | [Ranjha](https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Ranjha](https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX) | 3:04 |
+| 104 | [Ranjha](https://open.spotify.com/track/6LiCNxTWT6gDKE4aYZEObC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Ranjha](https://open.spotify.com/album/2b2JX5znXI5KCCVnx4XotX) | 3:04 |
+| 105 | [Confetti](https://open.spotify.com/track/3kikZxz3Sg6lwG72ZLssIL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:06 |
 | 106 | [about u](https://open.spotify.com/track/7fYqZ0lXT0gJOaQidAfDXM) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [about u](https://open.spotify.com/album/1hvviILsmIrfuD9z3E3Oxg) | 3:14 |
 | 107 | [Underneath the Christmas Lights](https://open.spotify.com/track/1KuPjp2SyimuFq2Hh62Tym) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:36 |
 | 108 | [Double Rainbow](https://open.spotify.com/track/7B8TA3WaoMiKZ3wfnF7PgN) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:51 |
@@ -246,8 +246,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 236 | [Kiss Me Once](https://open.spotify.com/track/02QVTlWdmSfDkDdOyPNewF) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kiss Me Once \(Special Edition\)](https://open.spotify.com/album/6RCOAR93Gi157qwW771xFG) | 3:17 |
 | 237 | [Pictures](https://open.spotify.com/track/1qsw4CHZCaF7TcPPLGg07O) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Lady Croissant \(Live\)](https://open.spotify.com/album/6WJcRNkvprk9oyJuiLHT5H) | 3:37 |
 | 238 | [Fist Fighting A Sandstorm](https://open.spotify.com/track/2f4a3iqaHrW8ly6qtjvYOL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(10th Anniversary Edition\)](https://open.spotify.com/album/2LaW7npYOD7TzJHdpkqLuk) | 3:47 |
-| 239 | [The Church Of What's Happening Now](https://open.spotify.com/track/1NNoACP3CHq28jHGCq3o4w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:27 |
-| 240 | [Lie To Me](https://open.spotify.com/track/6iZEk6JVdmbNPLhtaCGeIa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
+| 239 | [Lie To Me](https://open.spotify.com/track/6iZEk6JVdmbNPLhtaCGeIa) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:03 |
+| 240 | [The Church Of What's Happening Now](https://open.spotify.com/track/1NNoACP3CHq28jHGCq3o4w) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:27 |
 | 241 | [If I Can't Have You](https://open.spotify.com/track/1GSOHVVSVoR0oWrNxKj2pX) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:22 |
 | 242 | [Butterflies](https://open.spotify.com/track/48Cf7df74BjUz9rWJXXwXb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 3:22 |
 | 243 | [Waiting To Die](https://open.spotify.com/track/7dMeeGi3mjL5YAIiUWgEvu) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 3:40 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 345 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 346 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcZJgAAAAADoxTNrhvTcsYnFXg+OO1vC`
+Snapshot ID: `AcZPIAAAAACr4HvNqitr9XhsGLGPWQNY`

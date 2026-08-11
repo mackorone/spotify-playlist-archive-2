@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,777 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,771 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 53 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
 | 54 | [DZIŚ SOBIE DAM](https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [DZIŚ SOBIE DAM](https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP) | 2:47 |
 | 55 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
-| 56 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
-| 57 | [A Nuż](https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Światłocienie EP](https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw) | 2:41 |
+| 56 | [A Nuż](https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Światłocienie EP](https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw) | 2:41 |
+| 57 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
 | 58 | [TAK TAK](https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [TAK TAK](https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV) | 3:24 |
 | 59 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 |
-| 60 | [Dotknij](https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Dotknij](https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh) | 2:34 |
+| 60 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
 
-Snapshot ID: `AAAAAHG7m+CVvoTqo/PvtIXQ9oW35Aa8`
+Snapshot ID: `AAAAAMXkT/P830hVeJ3mz4gS8+PdnP27`

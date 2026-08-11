@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,319 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,313 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 68 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas Wishes](https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI) | 2:46 |
 | 69 | [Merry Christmas Baby](https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The King of Soul](https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs) | 2:35 |
 | 70 | [Love you left behind](https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love you left behind](https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN) | 3:12 |
-| 71 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 |
-| 72 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
+| 71 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
+| 72 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 |
 | 73 | [Stay Another Day](https://open.spotify.com/track/5npCyhoNJ3eJLIszVqOwIj) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Stay Another Day](https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU) | 2:41 |
 | 74 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D) | 2:24 |
 | 75 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 79 | [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/track/2zJwg3CotBHJdJHjQoSxkS) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [It’s Beginning to Look A Lot Like Christmas](https://open.spotify.com/album/0ezjRiJSHHbFOwkaAh2LN0) | 3:07 |
 | 80 | [What I Want For Xmas](https://open.spotify.com/track/1uT3zADrkjeCfe41WN0yO4) | [Orba Squara](https://open.spotify.com/artist/4SzP9GTvwqU4FzL68ZJdMX) | [What I Want For Xmas](https://open.spotify.com/album/0lHiFF9V2Ey1AI13x5Sh3w) | 2:54 |
 
-Snapshot ID: `AAAAALp9jMNMjTE4LIySZqqkrdAvVCWB`
+Snapshot ID: `AAAAAFTCpogtfbqLE4W+upuuMSQPlBFU`

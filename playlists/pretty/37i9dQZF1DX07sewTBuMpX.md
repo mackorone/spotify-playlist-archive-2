@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > De beste tunes op repeat\. Cover: Langa
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,633 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,638 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 68 | [Herinnering](https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Herinnering](https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV) | 2:34 |
 | 69 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 |
 | 70 | [Lost & Found](https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Lost & Found](https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8) | 3:15 |
-| 71 | [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 |
-| 72 | [Wild West](https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Wild West](https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw) | 2:41 |
-| 73 | [Deim Van Je](https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Deim Van Je](https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu) | 2:36 |
-| 74 | [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
+| 71 | [Wild West](https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Wild West](https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw) | 2:41 |
+| 72 | [Deim Van Je](https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Deim Van Je](https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu) | 2:36 |
+| 73 | [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
+| 74 | [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 |
 | 75 | [Voorzichtig](https://open.spotify.com/track/5D50iIozof7VABnwls2H13) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Voorzichtig](https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM) | 2:23 |
 | 76 | [Tiptop](https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh) | [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Tiptop](https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN) | 2:33 |
 | 77 | [In De Nacht](https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [In De Nacht](https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0) | 2:30 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 89 | [AH TXE TXE](https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [AH TXE TXE](https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio) | 2:16 |
 | 90 | [Niet Verstandig](https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Niet Verstandig](https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B) | 2:22 |
 
-Snapshot ID: `AAAAAJMQBkffMFdjVOp1KCajF1hkVmoz`
+Snapshot ID: `AAAAAAdUZ27bIIBEjkTnoHB1VDwI0un1`

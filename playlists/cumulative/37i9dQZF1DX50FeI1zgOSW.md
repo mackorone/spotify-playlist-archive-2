@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
 
-840 songs - 1 day 23 hr 30 min
+841 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Edho Seidhaai](https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV) | [Prezanthi Shanmugavel](https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY) | [Edho Seidhaai](https://open.spotify.com/album/2acW27bN9BkxoS0fsMRR77) | 2:58 | 2024-10-07 | 2025-02-15 |
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 | 2023-07-25 |
 | [Ek Ladka Ek Ladki](https://open.spotify.com/track/619Q4UvtstPPGeuKphAGss) | [Deepak Nandakumar](https://open.spotify.com/artist/6sOZm1BpI7yCnDgMloAEBn), [Nathania Ericka Thomas](https://open.spotify.com/artist/44JgmiFgNRsJtxQWtr7qVY) | [Ek Ladka Ek Ladki](https://open.spotify.com/album/4nEd1d4L5VMmOpMj6oOCv2) | 3:34 | 2024-03-28 | 2024-08-11 |
+| [Ellam Neeye](https://open.spotify.com/track/7wTUCkOEI0fjXy4MmpvYh7) | [Sai Prashob](https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 09](https://open.spotify.com/album/2VUNrm34E74MAkHnnTgOBB) | 3:10 | 2026-08-10 |  |
 | [Empty hand](https://open.spotify.com/track/3njyySsHr7viXEfgxv5v3U) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB), [Guru Gopalan](https://open.spotify.com/artist/3ZCZd3bpEeDoCczZUBNPYW) | [Empty hand](https://open.spotify.com/album/2IDykOuQ2l1S5knqnGP2Ri) | 3:01 | 2025-02-26 | 2025-06-04 |
 | [En Azhagi](https://open.spotify.com/track/3ELuzYrD4aGwelk2smuP7s) | [I Am SGS](https://open.spotify.com/artist/2gqbchIInZikLDhPMaWjee), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m) | [En Azhagi](https://open.spotify.com/album/0BwhWKqQzUkqii2y9pyOMw) | 4:16 | 2025-11-10 | 2026-04-09 |
 | [En Iraivi](https://open.spotify.com/track/12bZUm9TrbeJD6S0sQ4UjW) | [Vignesh Vijayaraghavan](https://open.spotify.com/artist/5wQQ1XWiYpVHDBvsUSMg0c), [Ramya Suresh](https://open.spotify.com/artist/6sWGxACkKI0ZJAB5c3JUhU) | [En Iraivi](https://open.spotify.com/album/5EznRgL8djyLX4TBweLt7S) | 3:35 | 2025-09-08 | 2026-01-28 |

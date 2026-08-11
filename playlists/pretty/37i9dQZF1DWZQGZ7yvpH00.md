@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 MXKA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 975,646 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,561 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [No Te Pido Mucho](https://open.spotify.com/track/3HEkUA58ydMr4nWxe3KPQo) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [No Te Pido Mucho](https://open.spotify.com/album/4FZyG6QEWIcdaBh2SrPaaX) | 3:50 |
 | 75 | [MI CUERNO](https://open.spotify.com/track/7uudc322twEMQnJiFL1KNL) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz), [Yng H](https://open.spotify.com/artist/73fECKkmLG1JhM4FeWmOib), [KVYN](https://open.spotify.com/artist/1xznCruZ0AWbDzsPXTX3d6) | [MI CUERNO](https://open.spotify.com/album/21GlXlFLPqtfNaBjQi0gAk) | 3:40 |
 
-Snapshot ID: `AAAAAM+OTvD+UdMw3UF81TZJoxbbbC3b`
+Snapshot ID: `AAAAAAwcZVw4GdD3hppyHpl373QciBUT`

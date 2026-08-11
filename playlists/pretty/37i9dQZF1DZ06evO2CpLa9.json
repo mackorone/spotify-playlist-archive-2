@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 569399,
+  "num_followers": 569396,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAA3+aA6dq0hqU8DrkaoR4HL",
+  "snapshot_id": "anfDAAAAAABngzJuXUlcGcsbzn/fvIkc",
   "tracks": [
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Vicio y la Fama",
-        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 229610,
-      "name": "El Catr\u00edn (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/2pjZO2uC4uOLBaEoSXhPO3"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 196000,
       "name": "Luna",
       "url": "https://open.spotify.com/track/5tLIQPZ6EzdsvJDuUiJrvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Vicio y la Fama",
+        "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 229610,
+      "name": "El Catr\u00edn (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/1N9fhsSQ5uiiFJWiEPpK6R"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silencio En El Callejon",
-        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Silencio En El Callejon",
-      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendecidos",
         "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Silencio En El Callejon",
+        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Silencio En El Callejon",
+      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -1007,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melo como too",
-        "url": "https://open.spotify.com/album/3XwsXoM3bZIuswE4hugBnx"
-      },
-      "artists": [
-        {
-          "name": "Asmed",
-          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Melo como too",
-      "url": "https://open.spotify.com/track/69RPpZhHjzksdWiaDxh48v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Melo como too",
+        "url": "https://open.spotify.com/album/3XwsXoM3bZIuswE4hugBnx"
+      },
+      "artists": [
+        {
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "Melo como too",
+      "url": "https://open.spotify.com/track/69RPpZhHjzksdWiaDxh48v"
     },
     {
       "added_at": null,

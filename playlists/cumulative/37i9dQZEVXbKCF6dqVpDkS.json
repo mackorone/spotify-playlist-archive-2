@@ -17709,6 +17709,24 @@
     },
     {
       "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
+    },
+    {
+      "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9"
       },
@@ -33882,7 +33900,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -38808,7 +38826,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 138150,
       "name": "Schoonzoon",
       "url": "https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT"
@@ -43604,7 +43622,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 187357,
       "name": "Terug In De Tijd",
       "url": "https://open.spotify.com/track/6vl3Gxg0Vd5vIOFF3XJObT"
@@ -47772,7 +47790,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 178432,
       "name": "Waar Blijf Je Nou",
       "url": "https://open.spotify.com/track/3zPB1hMsorvAEiIl88JOpr"
@@ -51640,7 +51658,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"
@@ -51958,7 +51976,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 195454,
       "name": "Zwoele Zomernachten",
       "url": "https://open.spotify.com/track/6JVKEpB8VQmt1LYRxNmdK0"
@@ -51980,6 +51998,24 @@
       "duration_ms": 195454,
       "name": "Zwoele Zomernachten",
       "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"
+    },
+    {
+      "album": {
+        "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/4t6nsiwhl8rQilEKoVImVl"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6vprfjVEYPl6yByzJZK6W8"
     },
     {
       "album": {

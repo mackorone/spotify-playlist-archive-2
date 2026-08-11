@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 80728,
       "name": "Happy Helpers Theme Song",
       "url": "https://open.spotify.com/track/3LnFB820kv7aoMiSY7X4z7"
@@ -1912,7 +1912,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 116693,
       "name": "In Your Paws - From \"Sofia the First\"",
       "url": "https://open.spotify.com/track/7EgZBRXDVS5LEDAkUaN4Au"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 148153,
       "name": "Mira, Royal Detective (Mashup)",
       "url": "https://open.spotify.com/track/7vvTdBMWArWN26SzdIEZCC"
@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 151208,
       "name": "My Time",
       "url": "https://open.spotify.com/track/4zglWHeCshgQRaBmmMsoOj"
@@ -3552,6 +3552,28 @@
       "duration_ms": 49789,
       "name": "Pupstruction Main Title",
       "url": "https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG"
+    },
+    {
+      "album": {
+        "name": "Ready to Su-Purr Roar (Extended) [From \"Disney Jr. Music: SuperKitties\"]",
+        "url": "https://open.spotify.com/album/06ZzoGm4DsHyE1tT5YnZXi"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122897,
+      "name": "Ready to Su-Purr Roar (Extended) - From \"Disney Jr. Music: SuperKitties\"",
+      "url": "https://open.spotify.com/track/1EKSVE1xsAdx1XsLkHMguk"
     },
     {
       "album": {

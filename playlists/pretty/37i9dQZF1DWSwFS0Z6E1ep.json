@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 310430,
+  "num_followers": 310453,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPhIh9iigysfQMdFj1NdEQUbbRXB",
+  "snapshot_id": "AAAAACTK6gDpGjbNjat0cAksCqI4kQSF",
   "tracks": [
     {
       "added_at": "2022-06-07 05:25:13",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
         }
       ],
-      "duration_ms": 177400,
-      "name": "You Make Me Feel So Young - Remastered 1998",
-      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "Come On, Let's Go",
-      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Come Fly With Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 199093,
       "name": "Come Fly With Me - Remastered 1998",
       "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "Come On, Let's Go",
+      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -415,8 +415,8 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -495,8 +479,24 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "If You Love Me / Alone and Blue",
-        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
       },
       "artists": [
         {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
         }
       ],
-      "duration_ms": 150307,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
+      "duration_ms": 132970,
+      "name": "Get Rhythm",
+      "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV"
+        "name": "If You Love Me / Alone and Blue",
+        "url": "https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
         }
       ],
-      "duration_ms": 132970,
-      "name": "Get Rhythm",
-      "url": "https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk"
+      "duration_ms": 150307,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The King of Rockabilly (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux"
-      },
-      "artists": [
-        {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
-        }
-      ],
-      "duration_ms": 132866,
-      "name": "Everybody's Trying to Be My Baby - Remastered 2022",
-      "url": "https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Bear Cat / Walkin' in the Rain",
         "url": "https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Shoobie Oobie / Cheese and Crackers",
-        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
+        "name": "The King of Rockabilly (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux"
       },
       "artists": [
         {
-          "name": "Rosco Gordon",
-          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 174003,
-      "name": "Shoobie Oobie",
-      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
+      "duration_ms": 132866,
+      "name": "Everybody's Trying to Be My Baby - Remastered 2022",
+      "url": "https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1547,50 +1531,18 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ain't That Right / Bring Your Love Back Home",
-        "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
+        "name": "Shoobie Oobie / Cheese and Crackers",
+        "url": "https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX"
       },
       "artists": [
         {
-          "name": "Eddie Snow",
-          "url": "https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt"
+          "name": "Rosco Gordon",
+          "url": "https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Bring Your Love Back Home",
-      "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "I Need a Man / No Matter Who's to Blame",
-        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pittman",
-          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
-        }
-      ],
-      "duration_ms": 172140,
-      "name": "I Need a Man",
-      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
-        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "Drinkin' Wine Spodee-O-Dee",
-      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
+      "duration_ms": 174003,
+      "name": "Shoobie Oobie",
+      "url": "https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1611,6 +1563,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Ain't That Right / Bring Your Love Back Home",
+        "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Snow",
+          "url": "https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Bring Your Love Back Home",
+      "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "My Bucket's Got a Hole in It / Sweet Misery",
         "url": "https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS"
       },
@@ -1623,6 +1591,22 @@
       "duration_ms": 138520,
       "name": "My Bucket's Got a Hole in It",
       "url": "https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "I Need a Man / No Matter Who's to Blame",
+        "url": "https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pittman",
+          "url": "https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "I Need a Man",
+      "url": "https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Drinkin' Wine Spodee-O-Dee / Just Rolling Along",
+        "url": "https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "Drinkin' Wine Spodee-O-Dee",
+      "url": "https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Something for Nothing / Little Fine Healthy Thing",
         "url": "https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 153627,
       "name": "Little Fine Healthy Thing",
       "url": "https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rockin' with My Baby / It's Me Baby",
-        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Yelvington",
-          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
-        }
-      ],
-      "duration_ms": 140984,
-      "name": "Rockin' with My Baby",
-      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1723,6 +1707,22 @@
       "duration_ms": 134445,
       "name": "Blue Suede Shoes",
       "url": "https://open.spotify.com/track/3Qylbx7tZcsP9RggQ6umUh"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Rockin' with My Baby / It's Me Baby",
+        "url": "https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Yelvington",
+          "url": "https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v"
+        }
+      ],
+      "duration_ms": 140984,
+      "name": "Rockin' with My Baby",
+      "url": "https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt"
     },
     {
       "added_at": "2022-06-07 05:25:13",

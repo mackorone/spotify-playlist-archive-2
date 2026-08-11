@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38655,
+  "num_followers": 38664,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ61J7QbjHE/KNp11hYZvPNAwmul",
+  "snapshot_id": "AAAAACRTszIwnKZ5TTFSqCkrnw+orIcc",
   "tracks": [
     {
       "added_at": "2026-08-04 09:03:36",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Koligeet Mashup 3",
-        "url": "https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8"
-      },
-      "artists": [
-        {
-          "name": "Crown J",
-          "url": "https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Koligeet Mashup 3",
-      "url": "https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Morya",
         "url": "https://open.spotify.com/album/3XsC9DdsoR70XpXdqmIuNm"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 276000,
       "name": "Email Kaal Internetvar Kela",
       "url": "https://open.spotify.com/track/2hh7Pp6vIoSTXnSBsTesQ9"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Koligeet Mashup 3",
+        "url": "https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8"
+      },
+      "artists": [
+        {
+          "name": "Crown J",
+          "url": "https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Koligeet Mashup 3",
+      "url": "https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -599,22 +599,18 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
+        "name": "Halgi Original Mix 2021",
+        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Raagini Kavathekar",
-          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
+          "name": "Dj Sagar Barshi",
+          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
         }
       ],
-      "duration_ms": 198490,
-      "name": "Srivalli Marathi Version",
-      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
+      "duration_ms": 253283,
+      "name": "Halgi Original Mix 2021",
+      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -639,18 +635,22 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Halgi Original Mix 2021",
-        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
       },
       "artists": [
         {
-          "name": "Dj Sagar Barshi",
-          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raagini Kavathekar",
+          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
         }
       ],
-      "duration_ms": 253283,
-      "name": "Halgi Original Mix 2021",
-      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
+      "duration_ms": 198490,
+      "name": "Srivalli Marathi Version",
+      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Marathi Dance Hits",
-        "url": "https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA"
-      },
-      "artists": [
-        {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
-        }
-      ],
-      "duration_ms": 296328,
-      "name": "Mast Challay Amcha",
-      "url": "https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "O Sheth (DJ Remix)",
         "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184733,
       "name": "O Sheth (DJ Remix)",
       "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Marathi Dance Hits",
+        "url": "https://open.spotify.com/album/6R7H1X3c3mBXv5CnRvKASA"
+      },
+      "artists": [
+        {
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+        }
+      ],
+      "duration_ms": 296328,
+      "name": "Mast Challay Amcha",
+      "url": "https://open.spotify.com/track/6ldbYO3x98OBBePPUITiid"
     },
     {
       "added_at": "2026-08-04 09:03:36",

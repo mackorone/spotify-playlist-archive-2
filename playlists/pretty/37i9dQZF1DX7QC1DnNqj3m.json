@@ -1,12 +1,12 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 729347,
+  "num_followers": 729476,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMkNja+32lZQcYO1N01gHphLUFgt",
+  "snapshot_id": "AAAAAIywgVRAigHeK01N17OC4YOjNqgb",
   "tracks": [
     {
       "added_at": "2026-04-16 23:00:42",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Keep Coming Back To You",
+        "url": "https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT"
+      },
+      "artists": [
+        {
+          "name": "Vicky Sometani",
+          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
+        }
+      ],
+      "duration_ms": 209858,
+      "name": "Keep Coming Back To You",
+      "url": "https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 291133,
       "name": "sobeautiful",
       "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Keep Coming Back To You",
-        "url": "https://open.spotify.com/album/6P2HiyDapzinr2gRhN5RXT"
-      },
-      "artists": [
-        {
-          "name": "Vicky Sometani",
-          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
-        }
-      ],
-      "duration_ms": 209858,
-      "name": "Keep Coming Back To You",
-      "url": "https://open.spotify.com/track/55uA56TpLi1Xu0OBb95RTN"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 319454,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Every Great Motown Hit Of Marvin Gaye",
         "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 196706,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 319454,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
-      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "ICU (with Justin Timberlake) [Remix]",
         "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 218566,
       "name": "ICU (with Justin Timberlake) - Remix",
       "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Greatest Gift (feat. Lila Ik\u00e9)",
+      "url": "https://open.spotify.com/track/02DTkcgh0BpYrEYPO05Zex"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 205846,
       "name": "Outside",
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     }
   ],
   "unique_name": "Sweet Soul Sunday",

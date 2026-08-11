@@ -1,12 +1,12 @@
 {
   "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1931,
+  "num_followers": 1930,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACMiYg/yRh/Wg4tJIDC6UA4",
+  "snapshot_id": "anfDAAAAAABul65kPLeFAOwUdQJ3UwaD",
   "tracks": [
     {
       "added_at": null,
@@ -1091,6 +1091,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ajoelhou",
         "url": "https://open.spotify.com/album/5275f9LV6XsLAHoc4tqQeR"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beijo na Boca",
         "url": "https://open.spotify.com/album/4zn4TVDHXYdrwqy0O80CMn"
       },
@@ -1151,26 +1151,6 @@
       "duration_ms": 125307,
       "name": "Beijo na Boca",
       "url": "https://open.spotify.com/track/5J8BWuaWj6u2vpYkbRKQsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -1207,8 +1187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
       "artists": [
         {
@@ -1216,13 +1196,13 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 142027,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -1243,6 +1223,26 @@
       "duration_ms": 107142,
       "name": "BOLA LOGO",
       "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b"
     },
     {
       "added_at": null,

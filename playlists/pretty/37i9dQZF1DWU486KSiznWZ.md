@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > نخبة الأغاني الخليجية\. الغلاف: ماجد المهندس
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,884 likes - 42 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,910 likes - 42 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 41 | [Allah Yekhalleek Lehalek](https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Allah Yekhalleek Lehalek](https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki) | 4:11 |
 | 42 | [Gedidi Ent](https://open.spotify.com/track/1V0IXSeAke4TvLjy1cNIdj) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Gedidi Ent](https://open.spotify.com/album/2XMuog8bq0jcsClWvVzebk) | 4:21 |
 
-Snapshot ID: `AAAAACN3Dt9yPrjAGL1I5HtaJQtVDn4b`
+Snapshot ID: `AAAAAPUGxPl880AJ9OeNyaFt0mQuVk9m`

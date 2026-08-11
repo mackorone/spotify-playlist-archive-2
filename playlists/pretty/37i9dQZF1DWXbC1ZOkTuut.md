@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Fe con sabor a México\. Foto: Alexis Arai y Secretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,995 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,033 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 59 | [Necesito De Ti](https://open.spotify.com/track/0ZHntS0nuBAbKFTDEn4PJf) | [Con Ritmo Music](https://open.spotify.com/artist/4EVLaDN05KZf6TJXhHoWUi), [Francisco Orantes](https://open.spotify.com/artist/7glAmfFJ7UecnLwNApqKGE) | [Éxitos de Francisco Orantes desde Culiacán Sinaloa](https://open.spotify.com/album/4sABJoDM30azovtFFbReEY) | 4:45 |
 | 60 | [Todo Es Diferente](https://open.spotify.com/track/2hGd6ZV5GEjzC4xh308t0J) | [Persy ML](https://open.spotify.com/artist/4erAWqCTpHrFFJlgrVJh5U), [Jymba](https://open.spotify.com/artist/0FN1WCqzw7rwFm03jLNLzA) | [Todo Es Diferente](https://open.spotify.com/album/41Eyt52CHO66VPXoTdWPJb) | 3:53 |
 | 61 | [Terrenal](https://open.spotify.com/track/6OP92bev5ZjcCsu79OrqBy) | [Grupo Hesed](https://open.spotify.com/artist/5AqVKdIUY9LUfSAE9sV5DA) | [Terrenal](https://open.spotify.com/album/3uV5fxkcIyEKWmoS9XMD1p) | 3:10 |
-| 62 | [El Patrón](https://open.spotify.com/track/61TxDP7hsq0wxwGU1yjstZ) | [Apostoles del Rap](https://open.spotify.com/artist/1Ba39MJi4SfaAj6IWMHoT6), [La Cuarta Tribu](https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7), [Hermanos Corrales](https://open.spotify.com/artist/1LilT2S1ghsVaqfKRaFayB) | [El Patrón](https://open.spotify.com/album/5cGQgYF1fhBVxVIJzG2txn) | 4:07 |
+| 62 | [El Patrón](https://open.spotify.com/track/61TxDP7hsq0wxwGU1yjstZ) | [Apostoles del Rap](https://open.spotify.com/artist/1Ba39MJi4SfaAj6IWMHoT6), [Hermanos Corrales](https://open.spotify.com/artist/1LilT2S1ghsVaqfKRaFayB), [La Cuarta Tribu](https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7) | [El Patrón](https://open.spotify.com/album/5cGQgYF1fhBVxVIJzG2txn) | 4:07 |
 | 63 | [Me Metí en el Ruedo \- Remix](https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Metí en el Ruedo \(Remix\)](https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb) | 2:54 |
 | 64 | [Tengo Nueva Vida](https://open.spotify.com/track/1SopFgSyxkxncD5qCTxCR9) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx), [Veronica Leal](https://open.spotify.com/artist/1tne7xesoFw59hw0RgzKYh) | [Tengo Nueva Vida](https://open.spotify.com/album/1aexZPPW83IEvhuVBRThj3) | 3:22 |
 | 65 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 74 | [No Fue un Error](https://open.spotify.com/track/5KiSOk8fgLEoL0MIrLZaUo) | [Banda Alternativa](https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo), [Grupo Linaje](https://open.spotify.com/artist/3t2PSEm5iBJJt3UBKoU34g) | [No Fue un Error](https://open.spotify.com/album/11IO5ORYnk2eCmARXQTXwW) | 3:31 |
 | 75 | [Tu Gracia Es Suficiente \- Versión Mariachi](https://open.spotify.com/track/1LDQgT68SDxBVQIjjEDRMS) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx), [Benjamin Meraz](https://open.spotify.com/artist/3vnOXWuhbVeCkMjLfTHaYC), [Francisco Nevarez](https://open.spotify.com/artist/7o8z5AdLczQ1LrTN38f8j7) | [Tu Gracia Es Suficiente \(Versión Mariachi\)](https://open.spotify.com/album/04mRkLiCWEigk9RJnw6AHC) | 4:16 |
 
-Snapshot ID: `AAAAAEAvaZchu58P4GdqhvGbWf2e1Yjl`
+Snapshot ID: `AAAAAEHzMlwCmtFZBaBSAM6AipXR2hA5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Electric Callboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,927 likes - 186 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,050 likes - 186 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 185 | [Mercy of God's Hand \- Live](https://open.spotify.com/track/1dFE2KqEh2Xbb7FqX7Renz) | [Salem Trials](https://open.spotify.com/artist/2IZXSnmq6YGFwwnDC1LjDg) | [Live At The Westboro Legion](https://open.spotify.com/album/42boloptlzGhwcQR7FKch2) | 2:16 |
 | 186 | [Interspecies Quality Assessment](https://open.spotify.com/track/1lFPkJsXkSQEnitoKaXo63) | [Living Weapon](https://open.spotify.com/artist/4NjxiFkFYR8PO2KJ54NgM8) | [Interspecies Quality Assessment](https://open.spotify.com/album/6m3Ye5V6ZAaVriZfRPS6FG) | 2:44 |
 
-Snapshot ID: `AAAAANCyBy+zbE6Jw5OAgXXCTxTBAHMm`
+Snapshot ID: `AAAAAE+Q8iz83EzCHk/5uafxe7ifJ7LB`

@@ -1,12 +1,12 @@
 {
   "description": "Canciones para subirse al auto y cantar sin parar.",
-  "num_followers": 964656,
+  "num_followers": 964693,
   "original_name": "Canta en el auto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObHaRECwR6wO8jFYE7MiletjOCy",
+  "snapshot_id": "AAAAAApvuSGC4uvmIHXhMBhSyBREChdo",
   "tracks": [
     {
       "added_at": "2025-11-19 18:19:27",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 173991,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
       "artists": [
         {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 391376,
-      "name": "Hotel California - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
+      "duration_ms": 173991,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 288066,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
     },
     {
       "added_at": "2025-11-19 18:19:27",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-11-19 18:19:27",
       "album": {
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "A las Nueve",
+      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
+    },
+    {
+      "added_at": "2025-11-19 18:19:27",
+      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 139146,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
-    },
-    {
-      "added_at": "2025-11-19 18:19:27",
-      "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "A las Nueve",
-      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
     },
     {
       "added_at": "2025-11-19 18:19:27",

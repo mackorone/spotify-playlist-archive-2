@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,757,154 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,756,905 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 61 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 |
 | 62 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
 | 63 | [Tarde](https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi) | 3:06 |
-| 64 | [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 |
-| 65 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 |
+| 64 | [Derrumbe](https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Derrumbe](https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W) | 2:11 |
+| 65 | [Parece Mentira](https://open.spotify.com/track/6MPOkyax2MTcsMVhbQ93vz) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Parece Mentira](https://open.spotify.com/album/4qVv2WWXeyeLZqXmbIJ1Pm) | 3:33 |
 | 66 | [La Carretera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Spotify Singles](https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8) | 4:15 |
 | 67 | [Si hubieras querido \- Versión acústica](https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Vértigo](https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L) | 3:15 |
 | 68 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 99 | [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 |
 | 100 | [Cuando Se Apaga la Luz \(Live\)](https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Matadero 5 \(Live\)](https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V) | 2:32 |
 
-Snapshot ID: `AAAAAN6Dy+hhW1XT4aaCxeCX19YMGvJX`
+Snapshot ID: `AAAAAOQzyxLIeGWk/TMEe13CeQ5ofFnw`

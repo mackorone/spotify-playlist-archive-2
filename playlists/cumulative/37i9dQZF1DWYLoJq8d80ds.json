@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El campo suena fuerte. Sumate a la fiesta. Foto: L\u00e1zaro Caballero",
+  "description": "El campo suena fuerte. Sumate a la fiesta. Foto: Angelo Aranda",
   "name": "Baile Campero",
   "tracks": [
     {
@@ -2391,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "Llora El Algarrobo",
+        "url": "https://open.spotify.com/album/27nqwCB1Ma05TtWGX8I2mH"
+      },
+      "artists": [
+        {
+          "name": "Angelo Aranda",
+          "url": "https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164739,
+      "name": "Llora El Algarrobo",
+      "url": "https://open.spotify.com/track/1lZW59e8PvB83uoJBRuyht"
+    },
+    {
+      "album": {
         "name": "Vivir",
         "url": "https://open.spotify.com/album/1XJoy7s9d3U5C1WyYrMkjN"
       },
@@ -3294,6 +3312,24 @@
       "duration_ms": 304186,
       "name": "Primavera (with Franco Luciani)",
       "url": "https://open.spotify.com/track/3Bg0CkhlKicxlarJMubrju"
+    },
+    {
+      "album": {
+        "name": "Punto Final / \u00bfQu\u00e9 Hacemos, Qu\u00e9 Hacemos?",
+        "url": "https://open.spotify.com/album/1DQaUVcbnHQb8DQzROrJie"
+      },
+      "artists": [
+        {
+          "name": "Tunay",
+          "url": "https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225857,
+      "name": "Punto Final / \u00bfQu\u00e9 Hacemos, Qu\u00e9 Hacemos?",
+      "url": "https://open.spotify.com/track/3k9UeD2AVJwGo9APj2hAHP"
     },
     {
       "album": {

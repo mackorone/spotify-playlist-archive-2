@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1172625,
+  "num_followers": 1172793,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGnz8qEJfCgJvNmO/39NElYK6vN",
+  "snapshot_id": "AAAAAGecM7HOzft+JsNq0b6Iw3ecpYgY",
   "tracks": [
     {
       "added_at": "2022-09-23 05:26:33",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Third Album",
-        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+        "name": "Third Album",
+        "url": "https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+      "duration_ms": 237760,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -363,6 +347,22 @@
       "duration_ms": 258834,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+      },
+      "artists": [
+        {
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 312578,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Transformer",
         "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 255875,
       "name": "Walk On the Wild Side",
       "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Daniel",
-      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+      "duration_ms": 180693,
+      "name": "Annie's Song",
+      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -751,18 +751,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 180693,
-      "name": "Annie's Song",
-      "url": "https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF"
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "It Never Rains In Southern California",
+        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        }
+      ],
+      "duration_ms": 233506,
+      "name": "It Never Rains in Southern California",
+      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Atlantic Crossing",
         "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "It Never Rains In Southern California",
-        "url": "https://open.spotify.com/album/0gdQF4mVBPjv5hhjtoe3hM"
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
       },
       "artists": [
         {
-          "name": "Albert Hammond",
-          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 233506,
-      "name": "It Never Rains in Southern California",
-      "url": "https://open.spotify.com/track/6tunhVGD8C05MZNjSVIsjw"
+      "duration_ms": 287090,
+      "name": "Take It to the Limit - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -923,22 +939,6 @@
       "duration_ms": 241746,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 287090,
-      "name": "Take It to the Limit - 2013 Remaster",
-      "url": "https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA"
     },
     {
       "added_at": "2022-10-03 06:40:05",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Make Your Move",
-        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
-      },
-      "artists": [
-        {
-          "name": "Captain & Tennille",
-          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
-        }
-      ],
-      "duration_ms": 256666,
-      "name": "Do That To Me One More Time",
-      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 285413,
       "name": "I Have A Dream",
       "url": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
+      },
+      "artists": [
+        {
+          "name": "Captain & Tennille",
+          "url": "https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm"
+        }
+      ],
+      "duration_ms": 256666,
+      "name": "Do That To Me One More Time",
+      "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 277797,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Blue Moves",
         "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 277797,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2GH5jo15wbTv1Ll7zXEzSg"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "The Dream Weaver",
-        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
-      },
-      "artists": [
-        {
-          "name": "Gary Wright",
-          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Dream Weaver",
-      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Trafalgar",
         "url": "https://open.spotify.com/album/2FHiXBmtRn9fuTRyRHWcnV"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 237826,
       "name": "How Can You Mend A Broken Heart",
       "url": "https://open.spotify.com/track/1jy0RbDHyBMTupSdc98XbG"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "The Dream Weaver",
+        "url": "https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp"
+      },
+      "artists": [
+        {
+          "name": "Gary Wright",
+          "url": "https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Dream Weaver",
+      "url": "https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP"
     },
     {
       "added_at": "2024-12-27 17:35:00",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 326244,
+      "name": "Two Out of Three Ain't Bad",
+      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "Keeper Of The Castle",
         "url": "https://open.spotify.com/album/0WwvY1uMFowKCrcFqF87o9"
       },
@@ -1731,18 +1747,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
       },
       "artists": [
         {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
         }
       ],
-      "duration_ms": 326244,
-      "name": "Two Out of Three Ain't Bad",
-      "url": "https://open.spotify.com/track/2ph0hzV1kCVhR82E2La4q5"
+      "duration_ms": 167416,
+      "name": "The Most Beautiful Girl",
+      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1763,22 +1779,6 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/6waJgGNygMY0KJb3g06uA6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 167416,
-      "name": "The Most Beautiful Girl",
-      "url": "https://open.spotify.com/track/542C7PqR1oEfl63hlhQO4V"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
         "name": "The Spy Who Loved Me (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 215026,
       "name": "The Rose",
       "url": "https://open.spotify.com/track/7iLXXTLIaguiWCTRJNU1Tv"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "People Like Us",
-        "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "Snowqueen Of Texas",
-      "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Never, Never, Never",
         "url": "https://open.spotify.com/album/7zYhvOnolaETW70A7bTFwX"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 218600,
       "name": "Never, Never, Never (Grande, Grande, Grande)",
       "url": "https://open.spotify.com/track/4C4vwiOFwWFD4GW7oL2uOp"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/4HjNY35duY5p5ntqoyIlpp"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 158533,
+      "name": "Snowqueen Of Texas",
+      "url": "https://open.spotify.com/track/5DPNLHoisZSIInV23TJ49P"
     },
     {
       "added_at": "2024-12-27 17:35:00",

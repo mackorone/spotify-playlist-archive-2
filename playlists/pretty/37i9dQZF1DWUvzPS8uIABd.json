@@ -1,12 +1,12 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132189,
+  "num_followers": 132168,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJm46qJgyd3RzLThvWURT2XZbGBw",
+  "snapshot_id": "AAAAAF1xFIZeUYDGw+i3cbtK+SFZbx48",
   "tracks": [
     {
       "added_at": "2026-06-25 21:00:30",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "CEO (Rich Man)",
+        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
+      },
+      "artists": [
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "duration_ms": 149634,
+      "name": "CEO (Rich Man)",
+      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "Tyhj\u00e4\u00e4",
         "url": "https://open.spotify.com/album/3g9WaXyqcuEI89Xvrd2192"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 133301,
       "name": "Tyhj\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2LQ34GR8SSdlgqukKC36YH"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "CEO (Rich Man)",
-        "url": "https://open.spotify.com/album/5WNtdO6Oog8CfGcAkh4aRy"
-      },
-      "artists": [
-        {
-          "name": "Sara Bee",
-          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
-        }
-      ],
-      "duration_ms": 149634,
-      "name": "CEO (Rich Man)",
-      "url": "https://open.spotify.com/track/5zedIU1wMTkKLbHky1Twg1"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Hullu nainen",
+        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Hullu nainen",
+      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
         "url": "https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 185213,
       "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
       "url": "https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Hullu nainen",
-        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
-      },
-      "artists": [
-        {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Hullu nainen",
-      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Viaton",
-        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Viaton",
-      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Entiseen el\u00e4m\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/1JHx48hhuAxO1HSsQb2KWw"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 170831,
       "name": "Entiseen el\u00e4m\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/0M4OVohVXlUFJDT4PIxlTX"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Viaton",
+        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
     },
     {
       "added_at": "2026-06-25 21:00:30",

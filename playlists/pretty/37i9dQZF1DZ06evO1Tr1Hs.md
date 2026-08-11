@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,015 likes - 38 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,022 likes - 38 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 31 | [money & sex](https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 4:32 |
 | 32 | [Teen Bean](https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen Bean](https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB) | 1:59 |
 | 33 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 |
-| 34 | [LiveLeak](https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:10 |
+| 34 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 |
 | 35 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 |
 | 36 | [Murda Musik \(feat\. Destroy Lonely\)](https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:56 |
 | 37 | [leather jacket](https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:37 |
-| 38 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 |
+| 38 | [LiveLeak](https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:10 |
 
-Snapshot ID: `anZxgAAAAAAwjU0aY0D3Qdius+zetaJ3`
+Snapshot ID: `anfDAAAAAABj2p5MT+e6oVTat6qQ8F90`

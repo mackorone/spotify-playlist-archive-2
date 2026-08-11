@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: La Inolvidable Banda Agua De La Llave",
-  "num_followers": 84367,
+  "num_followers": 84373,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMeQQ5b3bObhfXqeB3iRX256fNfE",
+  "snapshot_id": "AAAAAO7bXePG4nOdd2ZoCCUhPr7E4pGN",
   "tracks": [
     {
       "added_at": "2026-07-31 09:02:23",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-07-31 09:02:23",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2026-07-31 09:02:23",
-      "album": {
         "name": "Puro Campe\u00f3n",
         "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": "2026-07-31 09:02:23",
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-07-31 09:02:23",
       "album": {
-        "name": "En Vivo Desde El Fuerte Sinaloa",
-        "url": "https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "No Mencionan - En Vivo",
-      "url": "https://open.spotify.com/track/34HBavLUR8qMkjk5hBGW1x"
-    },
-    {
-      "added_at": "2026-07-31 09:02:23",
-      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 178240,
       "name": "Tragos Amargos - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA"
+    },
+    {
+      "added_at": "2026-07-31 09:02:23",
+      "album": {
+        "name": "En Vivo Desde El Fuerte Sinaloa",
+        "url": "https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "No Mencionan - En Vivo",
+      "url": "https://open.spotify.com/track/34HBavLUR8qMkjk5hBGW1x"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-07-31 09:02:23",
       "album": {
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
+    },
+    {
+      "added_at": "2026-07-31 09:02:23",
+      "album": {
         "name": "Directo 93-13 (En Vivo/20 Aniversario/Vol.1)",
         "url": "https://open.spotify.com/album/0OoRd49fYSZCRieceLUBil"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 172000,
       "name": "Fruta Prohibida - En Vivo",
       "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
-    },
-    {
-      "added_at": "2026-07-31 09:02:23",
-      "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-07-31 09:02:23",
       "album": {
-        "name": "En Vivo Vol.4",
-        "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
+        "name": "Comando \u00danico con Compa Danny (En vivo)",
+        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
         }
       ],
-      "duration_ms": 226101,
-      "name": "Y Por Lo Pronto - En Vivo",
-      "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+      "duration_ms": 157500,
+      "name": "El Sube y Baja - En vivo",
+      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-07-31 09:02:23",
       "album": {
-        "name": "Comando \u00danico con Compa Danny (En vivo)",
-        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
+        "name": "En Vivo Vol.4",
+        "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
       },
       "artists": [
         {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 157500,
-      "name": "El Sube y Baja - En vivo",
-      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
+      "duration_ms": 226101,
+      "name": "Y Por Lo Pronto - En Vivo",
+      "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1619,22 +1619,6 @@
       "duration_ms": 163877,
       "name": "Margarita Margarita (En Vivo)",
       "url": "https://open.spotify.com/track/5C7Md1p8ojkNNXoHeX9FLc"
-    },
-    {
-      "added_at": "2026-07-31 09:02:23",
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 184124,
-      "name": "Caminos Diferentes - En Vivo",
-      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1659,6 +1643,22 @@
       "duration_ms": 259828,
       "name": "Micaela",
       "url": "https://open.spotify.com/track/6tbPyJ4yVaSjZjHz2R99V6"
+    },
+    {
+      "added_at": "2026-07-31 09:02:23",
+      "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 184124,
+      "name": "Caminos Diferentes - En Vivo",
+      "url": "https://open.spotify.com/track/2skaUI9UgIiYM7LecO1IGh"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-07-31 09:02:23",
       "album": {
-        "name": "La Caguama (En Vivo)",
-        "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 135585,
-      "name": "La Caguama - En Vivo",
-      "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
-    },
-    {
-      "added_at": "2026-07-31 09:02:23",
-      "album": {
         "name": "Puras Piezas Caras (En Vivo)",
         "url": "https://open.spotify.com/album/5q7s6m57I82kf9lIprPrIH"
       },
@@ -1819,6 +1803,38 @@
       "duration_ms": 228997,
       "name": "Sigo Siendo El M Grande (En Vivo)",
       "url": "https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf"
+    },
+    {
+      "added_at": "2026-07-31 09:02:23",
+      "album": {
+        "name": "La Caguama (En Vivo)",
+        "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 135585,
+      "name": "La Caguama - En Vivo",
+      "url": "https://open.spotify.com/track/4YQvu8DHp89hXdxcvtGj7j"
+    },
+    {
+      "added_at": "2026-07-31 09:02:23",
+      "album": {
+        "name": "\u201cV1V0\u201d EN VIVO",
+        "url": "https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218634,
+      "name": "DE SOBREMANERA - EN VIVO",
+      "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
     },
     {
       "added_at": "2026-07-31 09:02:23",
@@ -1859,22 +1875,6 @@
       "duration_ms": 153733,
       "name": "Pase y Pase - En Vivo",
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
-    },
-    {
-      "added_at": "2026-07-31 09:02:23",
-      "album": {
-        "name": "\u201cV1V0\u201d EN VIVO",
-        "url": "https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218634,
-      "name": "DE SOBREMANERA - EN VIVO",
-      "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
     }
   ],
   "unique_name": "M\u00fasica Mexicana En Vivo",

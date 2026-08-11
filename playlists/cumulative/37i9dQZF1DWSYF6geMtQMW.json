@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 211914,
       "name": "\u05d4\u05e9\u05dd \u05d9\u05e2\u05d6\u05d5\u05e8",
       "url": "https://open.spotify.com/track/1UruS1fpkhIXklaJnttSzA"
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 135813,
       "name": "\u05d7\u05d5\u05e9\u05d1 \u05e9\u05d0\u05ea\u05d4 \u05de\u05e1\u05d9",
       "url": "https://open.spotify.com/track/3Pj0N7pQNa0zJQPbac2zN8"
@@ -3072,6 +3090,28 @@
       "duration_ms": 202000,
       "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05d5\u05dc\u05d9 \u05ea\u05e4\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        },
+        {
+          "name": "Meydad Tasa",
+          "url": "https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165207,
+      "name": "\u05db\u05d5\u05dc\u05d9 \u05ea\u05e4\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn"
     },
     {
       "album": {

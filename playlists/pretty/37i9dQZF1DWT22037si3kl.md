@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,630 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,653 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Grandeza](https://open.spotify.com/track/5laBIDKd6mfQJQGdZ6dhFa) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6), [Dactes](https://open.spotify.com/artist/2zYKxqey1SNN4lFLjMw0FS), [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV), [Young Piva](https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH) | [Lealdade Primeiro](https://open.spotify.com/album/5ArkkDvIggAFS3Lc2JCcM0) | 3:18 |
 | 50 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
 
-Snapshot ID: `AAAAAG3BzGneHs81/amWwXSleWh7Hm4p`
+Snapshot ID: `AAAAALe/GZEND03AFqUbqrZiYJwe8ikC`

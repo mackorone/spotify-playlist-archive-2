@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 339184,
+  "num_followers": 339218,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQ6fgW85XeiS2zjSnYUkYBAflOP",
+  "snapshot_id": "AAAAAHmGs8XnikAZuabAxB2gyPSOgGvX",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
-      },
-      "artists": [
-        {
-          "name": "The Exciters",
-          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Tell Him - Single Version",
-      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 129758,
       "name": "It's In The Kiss (The Shoop Shoop Song)",
       "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
+      },
+      "artists": [
+        {
+          "name": "The Exciters",
+          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Tell Him - Single Version",
+      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Rhino Hi-Five: Trini Lopez",
+        "url": "https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "If I Had a Hammer",
+      "url": "https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Rhino Hi-Five: Arthur Conley",
         "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
       },
@@ -1887,18 +1903,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Rhino Hi-Five: Trini Lopez",
-        "url": "https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI"
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
       "artists": [
         {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
         }
       ],
-      "duration_ms": 179400,
-      "name": "If I Had a Hammer",
-      "url": "https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu"
+      "duration_ms": 174640,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1951,22 +1967,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Bus Stop",
-      "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
       },
@@ -1979,6 +1979,22 @@
       "duration_ms": 163293,
       "name": "Friday on My Mind",
       "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Twist & Shout",
+        "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2075,22 +2091,6 @@
       "duration_ms": 119800,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/67csrS6po7IyXfwds4azjr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Twist & Shout",
-        "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Twist And Shout",
-      "url": "https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj"
     },
     {
       "added_at": "2022-06-16 22:02:00",

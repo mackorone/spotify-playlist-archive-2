@@ -4,7 +4,7 @@
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-156 songs - 10 hr 47 min
+157 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Should Have Come Home](https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:30 | 2022-08-05 | 2026-04-21 |
 | [Should Have Come Home](https://open.spotify.com/track/32uBppIvIWU86RJZdJX7WG) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:30 | 2026-04-21 |  |
 | [Smoked Ham And Peaches](https://open.spotify.com/track/0TbFm64bFWwsy2gfhDmfIR) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:35 | 2022-08-21 | 2022-10-11 |
-| [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 | 2022-08-05 |  |
+| [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 | 2022-08-05 | 2026-08-11 |
+| [Steamy Windows](https://open.spotify.com/track/4oQZJf1VrkWnGVcLQ8rUxj) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 5:03 | 2026-08-11 |  |
 | [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 | 2023-03-05 | 2025-07-26 |
 | [Such A Pretty Flame](https://open.spotify.com/track/17ELglPxWgiSNWiBt5Ikyt) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 4:31 | 2026-04-20 |  |
 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 | 2022-08-05 | 2026-04-20 |

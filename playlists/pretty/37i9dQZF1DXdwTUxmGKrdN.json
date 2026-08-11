@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 460863,
+  "num_followers": 460893,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM1VW/pS9/wl96pUTQgA7lFsMPCD",
+  "snapshot_id": "AAAAAHfnRFR0wrmkyEi9NGLc5Pf9tcLd",
   "tracks": [
     {
       "added_at": "2026-01-14 10:46:11",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
-      },
-      "artists": [
-        {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
-        }
-      ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/5WzwDaBCkfloJvg5zgbwkh"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 347013,
       "name": "Revolving Door",
       "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314312,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Into the Light",
-        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
       },
       "artists": [
         {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
         }
       ],
-      "duration_ms": 264186,
-      "name": "When We Dance",
-      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
+      "duration_ms": 314312,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -491,6 +475,22 @@
       "duration_ms": 261866,
       "name": "Long Road",
       "url": "https://open.spotify.com/track/7EIASGWhdchNEwPYB3E1Nm"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Into the Light",
+        "url": "https://open.spotify.com/album/0m7W6loD5NV43ua1FOSarR"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 264186,
+      "name": "When We Dance",
+      "url": "https://open.spotify.com/track/09N0r6vIBIEbqcpuAYvKEL"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "Forecast",
+        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
+      },
+      "artists": [
+        {
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "Keep Holding On",
+      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "After 8",
         "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 233819,
       "name": "Let's Have a Good Time",
       "url": "https://open.spotify.com/track/0KDLnqdffzLOy06V4uZ3Hv"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "Forecast",
-        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
-      },
-      "artists": [
-        {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
-        }
-      ],
-      "duration_ms": 343213,
-      "name": "Keep Holding On",
-      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Say What's on Your Mind",
+      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Soulmate",
         "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 245000,
       "name": "Swing City",
       "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Global Force",
         "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
       },
@@ -795,18 +779,18 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
       },
       "artists": [
         {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
         }
       ],
-      "duration_ms": 253577,
-      "name": "Listen to This",
-      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -823,6 +807,22 @@
       "duration_ms": 250000,
       "name": "Soulfully",
       "url": "https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 253577,
+      "name": "Listen to This",
+      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Let's Get Away",
-        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 205880,
-      "name": "Down Here On The Ground",
-      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Lavish",
         "url": "https://open.spotify.com/album/3dBwv1QVMYxHY9KVMVNeTr"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 245163,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/2Eg0qKpF9u5C0G71miseoh"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Let's Get Away",
+        "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "Down Here On The Ground",
+      "url": "https://open.spotify.com/track/4pZBySL7Vz9RiCnedhCpHX"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 272342,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Eye Contact",
-        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
-      },
-      "artists": [
-        {
-          "name": "Jay Beckenstein",
-          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Eye Contact",
-      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Velvet Groove",
         "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 281413,
       "name": "In Key",
       "url": "https://open.spotify.com/track/2ptNHiOb6DbdWytP2Nsslu"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Eye Contact",
+        "url": "https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD"
+      },
+      "artists": [
+        {
+          "name": "Jay Beckenstein",
+          "url": "https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Eye Contact",
+      "url": "https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
+      },
+      "artists": [
+        {
+          "name": "Urban Jazz Coalition",
+          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
+        }
+      ],
+      "duration_ms": 279186,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 287640,
       "name": "New Bounce",
       "url": "https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "A New Day",
-        "url": "https://open.spotify.com/album/5ydYCx0gJvLnWqzH517jWV"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Coalition",
-          "url": "https://open.spotify.com/artist/5Nop1LOUEwGRc4ZTG84MGX"
-        }
-      ],
-      "duration_ms": 279186,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/1s769CVjgzGrBA4Aq6svfU"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314574,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
         "name": "Let's Ride",
         "url": "https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 318977,
       "name": "New Hope (feat. Tony Guerrero)",
       "url": "https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314574,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "BLUE MOON",
-      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/0yTUvZL1yR88cGrfyW3WI5"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 311359,
       "name": "Everyone but You",
       "url": "https://open.spotify.com/track/1w7bLa7WRh4Bi0mojbfJ0K"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
     },
     {
       "added_at": "2026-01-14 10:46:11",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-01-14 10:46:11",
       "album": {
-        "name": "Retrospect",
-        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 260886,
-      "name": "Sample That",
-      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
-    },
-    {
-      "added_at": "2026-01-14 10:46:11",
-      "album": {
         "name": "I'm All Ears",
         "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 299583,
       "name": "I'm All Ears",
       "url": "https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd"
+    },
+    {
+      "added_at": "2026-01-14 10:46:11",
+      "album": {
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "duration_ms": 260886,
+      "name": "Sample That",
+      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
     },
     {
       "added_at": "2026-01-14 10:46:11",

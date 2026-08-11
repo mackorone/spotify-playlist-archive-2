@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עדן חסון, אופק אדנק ואגם בוחבוט
 
-257 songs - 13 hr 49 min
+259 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-01 | 2024-11-12 |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-02-16 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-14 | 2026-04-14 |
+| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-08-10 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-09-10 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-19 | 2026-08-04 |
 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-13 |  |
@@ -149,7 +150,7 @@
 | [המבט בעיניך](https://open.spotify.com/track/6VYbnnpUYShqFn22MERtmP) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [21](https://open.spotify.com/album/6Fvp2M2J5FRFPC7dYIGD34) | 3:08 | 2025-11-10 |  |
 | [המלחמה האחרונה](https://open.spotify.com/track/1u7dx4QxbZbcWWEGfgFo0z) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בר קופרשטיין](https://open.spotify.com/artist/4UMGNDRC0FJGJ7axLEYKKI) | [המלחמה האחרונה](https://open.spotify.com/album/3UKO9mogGg9UVqH3kDVqRZ) | 3:40 | 2026-04-07 | 2026-05-05 |
 | [השיר שאת אהבת](https://open.spotify.com/track/5Sn3aXG5AWFmd1ij2PTisj) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:38 | 2025-06-16 |  |
-| [השם יעזור](https://open.spotify.com/track/1UruS1fpkhIXklaJnttSzA) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [השם יעזור](https://open.spotify.com/album/5tuYABXBjwZ5aUYQHmXzNk) | 3:31 | 2026-05-25 |  |
+| [השם יעזור](https://open.spotify.com/track/1UruS1fpkhIXklaJnttSzA) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [השם יעזור](https://open.spotify.com/album/5tuYABXBjwZ5aUYQHmXzNk) | 3:31 | 2026-05-25 | 2026-08-11 |
 | [השם ירחם](https://open.spotify.com/track/3XSSUNQJHy7GTWtSHHITq5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:53 | 2025-06-30 | 2026-04-08 |
 | [התקדמתי ממך](https://open.spotify.com/track/6svDE1ySQelKOFfW7kCn2B) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [התקדמתי ממך](https://open.spotify.com/album/5xmE85c0FA5CL8ANqYAujL) | 3:07 | 2024-12-02 | 2025-10-07 |
 | [ואיך שלא](https://open.spotify.com/track/0SMDtYt5HghaTMFc61nCnP) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [ואיך שלא](https://open.spotify.com/album/77Th0DmusP9RkETEPjFBRx) | 3:24 | 2024-07-01 | 2024-11-01 |
@@ -158,7 +159,7 @@
 | [חברים שלי](https://open.spotify.com/track/1RgcguEJ0u7iERSNP8jyZQ) | [ליעד מאיר](https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe) | [חברים שלי](https://open.spotify.com/album/3ox0AsWxKJZwr7IvKn9fZk) | 2:17 | 2026-02-23 | 2026-05-26 |
 | [חולמת](https://open.spotify.com/track/3N48942rc1DKId7vmDDcy0) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [חולמת](https://open.spotify.com/album/5jcb6kq6QA3ts3wQ4xMczF) | 3:11 | 2025-03-10 | 2025-10-21 |
 | [חומר ממכר](https://open.spotify.com/track/2vR9gmLutur2qzskoEcYna) | [Ben Chen](https://open.spotify.com/artist/0C6NuuWwuMV3uBmsFAboVl) | [חומר ממכר](https://open.spotify.com/album/0WEAhwC2G8U70VAlga0yZs) | 3:16 | 2024-07-01 | 2024-11-26 |
-| [חושב שאתה מסי](https://open.spotify.com/track/3Pj0N7pQNa0zJQPbac2zN8) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [חושב שאתה מסי](https://open.spotify.com/album/2PgYa45gNf3GJuHmrdQGTZ) | 2:15 | 2026-07-27 |  |
+| [חושב שאתה מסי](https://open.spotify.com/track/3Pj0N7pQNa0zJQPbac2zN8) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [חושב שאתה מסי](https://open.spotify.com/album/2PgYa45gNf3GJuHmrdQGTZ) | 2:15 | 2026-07-27 | 2026-08-11 |
 | [חיפשתי אותו בנרות](https://open.spotify.com/track/6YQpTZk61Ku0hyutsVLpPe) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [דם שלי](https://open.spotify.com/album/2AupKgY0rxBU9UsJuAlilU) | 3:37 | 2024-07-01 | 2025-02-11 |
 | [טאטע תטהר \- גרסה אקוסטית](https://open.spotify.com/track/5bFrsEk5efTVlOTwtLBLn2) | [יאיר אלייצור](https://open.spotify.com/artist/7m09aLn1QHUz5D7hqNnkW2), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [טאטע תטהר \(גרסה אקוסטית\)](https://open.spotify.com/album/0WS1PjaiDwUw5PzHAhYQK0) | 2:38 | 2025-01-20 | 2025-07-29 |
 | [יוצאת מזה](https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יוצאת מזה](https://open.spotify.com/album/1eme39BjyJg1EemvTA66sG) | 3:40 | 2024-07-01 | 2024-08-20 |
@@ -167,6 +168,7 @@
 | [יש מישהו ששר לך](https://open.spotify.com/track/6Ix2MJMdzccf5gVosUYG0r) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K) | [יש מישהו ששר לך](https://open.spotify.com/album/2DWJhuqWVgYf8kclsUINyA) | 3:33 | 2025-12-15 | 2026-02-24 |
 | [כבר לא שמח](https://open.spotify.com/track/2CGlVhHnz1LDbZs2u9ezcE) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9), [אופק אדנק](https://open.spotify.com/artist/517NByhwSiSisC8rQZlcIv) | [כבר לא שמח](https://open.spotify.com/album/7boJL9E79ZYaQjtMRUtVke) | 2:38 | 2026-08-03 |  |
 | [כוכבים](https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY) | [שילה בן סעדון](https://open.spotify.com/artist/25121FSeQqqD3El2C3t9L1) | [כוכבים](https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi) | 3:22 | 2024-07-01 | 2025-03-18 |
+| [כולי תפילה](https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4), [Meydad Tasa](https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ) | [כולי תפילה](https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce) | 2:45 | 2026-08-10 |  |
 | [כולם גנבים](https://open.spotify.com/track/7IYAf32MmX7oCqgnGNT3g8) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Life Lately](https://open.spotify.com/album/3TEETsW2tjzuqXArpb53sz) | 4:01 | 2026-02-23 |  |
 | [כל הברכה שלי](https://open.spotify.com/track/6VBwTUvZ5eS9d7pDQAcPJn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [כל הברכה שלי](https://open.spotify.com/album/5OP42J3nnGMRwRZilYYA82) | 2:55 | 2026-05-25 | 2026-06-09 |
 | [כל מה שאני רוצה](https://open.spotify.com/track/5h1iCN4plP49Tv2uFHYfxF) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [כל מה שאני רוצה](https://open.spotify.com/album/5nMMAn4GZbBSCzW0S7l5b1) | 3:52 | 2025-11-18 | 2026-02-24 |

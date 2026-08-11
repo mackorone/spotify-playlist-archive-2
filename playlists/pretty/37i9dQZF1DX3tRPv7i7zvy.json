@@ -1,12 +1,12 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 21668,
+  "num_followers": 21687,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1McpVfStNSKwJuGcOPcQyXDaM6",
+  "snapshot_id": "AAAAAHqpZtEN3c5+TPeIxJ+SApjsmwyB",
   "tracks": [
     {
       "added_at": "2026-07-31 00:02:01",
@@ -183,22 +183,18 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Biggest Nathaniel",
-        "url": "https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf"
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
       "artists": [
-        {
-          "name": "N.E records",
-          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
-        },
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 171483,
-      "name": "Biggest Nathaniel",
-      "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -223,18 +219,22 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+        "name": "Biggest Nathaniel",
+        "url": "https://open.spotify.com/album/4Jif0DlXO6wmPyyRtStoqf"
       },
       "artists": [
+        {
+          "name": "N.E records",
+          "url": "https://open.spotify.com/artist/0sww6JbNVcCNqA1b1TLxoR"
+        },
         {
           "name": "Lasmid",
           "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+      "duration_ms": 171483,
+      "name": "Biggest Nathaniel",
+      "url": "https://open.spotify.com/track/19BPSCAVxqbTW1UNvgz9q1"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -407,26 +407,22 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Wish I Had a Girlfriend",
-        "url": "https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw"
+        "name": "ODO PA",
+        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
       "artists": [
         {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
         }
       ],
-      "duration_ms": 168663,
-      "name": "Wish I Had a Girlfriend",
-      "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
+      "duration_ms": 156000,
+      "name": "ODO PA",
+      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -447,22 +443,26 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "ODO PA",
-        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
+        "name": "Wish I Had a Girlfriend",
+        "url": "https://open.spotify.com/album/5JwvAk323bdKjwnSNiAwJw"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T"
         },
         {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
         }
       ],
-      "duration_ms": 156000,
-      "name": "ODO PA",
-      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
+      "duration_ms": 168663,
+      "name": "Wish I Had a Girlfriend",
+      "url": "https://open.spotify.com/track/7lONsH3aDoLHCBkAB3Pa4L"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
+        "name": "Stopit",
+        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "Stopit",
+      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
         "name": "RARRI",
         "url": "https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C"
       },
@@ -547,26 +567,6 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Stopit",
-        "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "Stopit",
-      "url": "https://open.spotify.com/track/6JBxA9ofuX7OIY4ghOvuIY"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
         "name": "Holiday / Reason You",
         "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
       },
@@ -579,6 +579,26 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 139859,
+      "name": "ROVER",
+      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -615,22 +635,30 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "CHRISTO DISCO",
-        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "MURPHY",
+          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
         },
         {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
         }
       ],
-      "duration_ms": 139859,
-      "name": "ROVER",
-      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
+      "duration_ms": 163837,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -667,30 +695,18 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
       },
       "artists": [
         {
-          "name": "MURPHY",
-          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         }
       ],
-      "duration_ms": 163837,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Gen Z",
-      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
         "name": "Goldigga",
         "url": "https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 182265,
       "name": "Goldigga",
       "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
-        "name": "Exopa",
-        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Exopa",
-      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -819,6 +799,26 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
         "name": "LOVE AND CHAOS",
         "url": "https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h"
       },
@@ -831,26 +831,6 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        }
-      ],
-      "duration_ms": 203077,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -887,18 +867,22 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Awurade Aye",
-        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Awurade Aye",
-      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
+      "duration_ms": 203077,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -923,6 +907,42 @@
       "duration_ms": 269714,
       "name": "Odo Nwom - Remix",
       "url": "https://open.spotify.com/track/60UQlQCn5n0O4jIt3wAOHZ"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
+        "name": "Awurade Aye",
+        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Awurade Aye",
+      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
+        "name": "Trapper Sem",
+        "url": "https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Trapper Sem",
+      "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -963,26 +983,6 @@
       "duration_ms": 185660,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
-        "name": "Trapper Sem",
-        "url": "https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3"
-      },
-      "artists": [
-        {
-          "name": "Kofi Mole",
-          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
-        },
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 138260,
-      "name": "Trapper Sem",
-      "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
     },
     {
       "added_at": "2026-07-31 00:02:01",

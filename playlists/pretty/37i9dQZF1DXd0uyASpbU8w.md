@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from DJ Zinhle, REMA, De Mthuda,  Elaine, PLG Chanty and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,365 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,401 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 79 | [Many Phases \(feat\. Pfunzo Strings, AJ SafeSax & Sai Mabaso\)](https://open.spotify.com/track/57NP3oDIn9AJEuviBnoPI0) | [Tumi Musiq](https://open.spotify.com/artist/7v35vAs83G7W7Q0QA1SKOk), [Pfunzo Strings](https://open.spotify.com/artist/1mqLSq0sRVBQ2sysTTl63e), [AJ SafeSax](https://open.spotify.com/artist/6Yjy6qZIHYs9gMQe4tWUNr), [Sai Mabaso](https://open.spotify.com/artist/7nS10GNiWOK6umXtLQxNCA) | [Many Phases \(feat\. Pfunzo Strings, AJ SafeSax & Sai Mabaso\)](https://open.spotify.com/album/46fERBGYV9JfhxOp8d78DH) | 8:04 |
 | 80 | [Truth Be Told](https://open.spotify.com/track/3JPsQweLgYNrrgYnRmaH8T) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Truth Be Told](https://open.spotify.com/album/3m0U7rzTWvyjL83K0pMs74) | 3:55 |
 
-Snapshot ID: `AAAAAFgy9c6mDEsyMsjxa8V6KsE31jID`
+Snapshot ID: `AAAAAFmbBjESJqVRF9wODDeFmIvyxwDm`

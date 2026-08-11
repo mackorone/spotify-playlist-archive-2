@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118272,
+  "num_followers": 118265,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAmFTKlgm20MUgwVuoiMoJD",
+  "snapshot_id": "anfDAAAAAACpSPILG3sSnDGPfinCNRc1",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164258,
+      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
+      "url": "https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164258,
-      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
-      "url": "https://open.spotify.com/track/2L3jQPodSgtQFcBB4A5FoQ"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 226208,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
@@ -559,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 226208,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
+      "duration_ms": 214293,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
@@ -731,6 +731,22 @@
       "duration_ms": 149952,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "El Sultan",
+      "url": "https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
       "duration_ms": 179171,
       "name": "Que las Cuartitos No Falten",
       "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "El Sultan",
-      "url": "https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj"
     },
     {
       "added_at": null,

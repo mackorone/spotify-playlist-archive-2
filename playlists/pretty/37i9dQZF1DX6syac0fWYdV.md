@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,058 likes - 250 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,127 likes - 250 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 249 | [Far More Effect](https://open.spotify.com/track/7gmlnMeEI7XH2W5Yye4krQ) | [Twin Iguana](https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi) | [Far More Effect](https://open.spotify.com/album/24Gnp2VJ1Hm6Q6XfMKrAbH) | 2:20 |
 | 250 | [Tanto](https://open.spotify.com/track/3sJoYQLr2z1t8LjI0P6smU) | [Leamouth](https://open.spotify.com/artist/0LeDIIIPpk8TMQPcbfqlTZ) | [Tanto](https://open.spotify.com/album/2tSD4fN5bODJyNYaQiaKlq) | 2:14 |
 
-Snapshot ID: `AAAAAKT8AsSo0HSYOhLDYc0AppWpXaxa`
+Snapshot ID: `AAAAAFDu5YpsK4y4x4G9PIwphbN6DfSa`

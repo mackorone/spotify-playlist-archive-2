@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375540,
+  "num_followers": 375545,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAB63+l0NhJ/UxWZlR2asZCQ",
+  "snapshot_id": "anfDAAAAAACd5ybNSEYI9KLCZ92Cfacy",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 245390,
-      "name": "And Love Goes On",
-      "url": "https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 265867,
       "name": "Star",
       "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/6LapfqQYqVWO1kDb6GDXr6"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 245390,
+      "name": "And Love Goes On",
+      "url": "https://open.spotify.com/track/4fLyo0TfSm6eZuYpK33Wye"
     },
     {
       "added_at": null,

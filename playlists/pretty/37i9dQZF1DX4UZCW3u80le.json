@@ -1,12 +1,12 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! ",
-  "num_followers": 291037,
+  "num_followers": 291262,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtnFjWXX97KcCoR8asVjWMYNVzD",
+  "snapshot_id": "AAAAAEyxW+13sbXIR9aAR4IyWI9nsRmb",
   "tracks": [
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "iSouljaBoyTellem",
         "url": "https://open.spotify.com/album/2zwyBK8ea29FqWuY8IiRJu"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 193386,
       "name": "Kiss Me Thru The Phone",
       "url": "https://open.spotify.com/track/2q4rjDy9WhaN3o9MvDbO21"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252120,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5Lgcn7u07bHuqbOtXkN62u"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "Songs About Jane",
         "url": "https://open.spotify.com/album/1Rv9WRKyYhFaGbuYDaQunN"
       },
@@ -1703,22 +1719,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
       "artists": [
         {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 235133,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
+      "duration_ms": 192426,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Year Of The Gentleman (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/6dTn9vJSxVTIGm4Cu5dH4x"
       },
@@ -1803,18 +1787,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Memoirs of an imperfect Angel",
-        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 242200,
-      "name": "Obsessed",
-      "url": "https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8"
+      "duration_ms": 235133,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1831,6 +1815,22 @@
       "duration_ms": 239986,
       "name": "Fire Burning",
       "url": "https://open.spotify.com/track/2oENJa1T33GJ0w8dC167G4"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8"
     },
     {
       "added_at": "2024-07-12 20:54:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,999 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,980 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 3 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 |
 | 4 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 5 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
-| 6 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 |
-| 7 | [Rain Down \(Feat\. Sampha\)](https://open.spotify.com/track/6lTwFP01ZXZYeKArCJeQ8k) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:07 |
+| 6 | [Rain Down \(Feat\. Sampha\)](https://open.spotify.com/track/6lTwFP01ZXZYeKArCJeQ8k) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:07 |
+| 7 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 |
 | 8 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 9 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
 | 10 | [On & On](https://open.spotify.com/track/7cjUFCh2aWX9E9bXig3nV7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:21 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 44 | [DIFFERENT KINDA LOVE](https://open.spotify.com/track/5LU9xYOFEw6bgvbYbm4beT) | [IZO](https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd) | [DIFFERENT KINDA LOVE](https://open.spotify.com/album/2RVhyhMsl9cvXqegtfDaDI) | 3:00 |
 | 45 | [Shadows](https://open.spotify.com/track/6EyhlBUiRvHKIWHfmOleem) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [Shadows](https://open.spotify.com/album/6k8ddx9AAqUNRCAqndnzXo) | 4:51 |
 | 46 | [Exhale](https://open.spotify.com/track/7520LYdIecH0lgj628ELdU) | [Syf of Talking Knots](https://open.spotify.com/artist/1SfICWafk2B0pEobXALC00), [Moetown](https://open.spotify.com/artist/62j9JVhnSbDgA6ADHCBNPz), [Elly J Devon](https://open.spotify.com/artist/0zBoujkNOw13TkM4icGjps) | [Exhale](https://open.spotify.com/album/3tFDsAIoGcB0cVzTYjRp6I) | 2:26 |
-| 47 | [Lost & Found](https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Lost & Found](https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC) | 2:18 |
-| 48 | [Brown Sugar](https://open.spotify.com/track/7DAIOlnvT079AH0WxHnzoI) | [VESS](https://open.spotify.com/artist/1NodE08tjPrDZeym0r5pUd) | [Brown Sugar](https://open.spotify.com/album/3kf4jCqBeoFRxqjjcQTuwW) | 3:18 |
+| 47 | [Brown Sugar](https://open.spotify.com/track/7DAIOlnvT079AH0WxHnzoI) | [VESS](https://open.spotify.com/artist/1NodE08tjPrDZeym0r5pUd) | [Brown Sugar](https://open.spotify.com/album/3kf4jCqBeoFRxqjjcQTuwW) | 3:18 |
+| 48 | [Lost & Found](https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Lost & Found](https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC) | 2:18 |
 | 49 | [Home Alone](https://open.spotify.com/track/0Ep4c3XKlJ9C8oWeBjsxeJ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Stay Around](https://open.spotify.com/album/2betswaHJEtDZhlcRuH8Cb) | 3:44 |
 | 50 | [Sycamore](https://open.spotify.com/track/2QTuF6gcvmI9HPRuGK9gvp) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Sycamore](https://open.spotify.com/album/5rVHZJGJhPjpszgnY7Pelf) | 4:10 |
 
-Snapshot ID: `AAAAACUkGI2DfgLbZgbGp6prE0dI+aBZ`
+Snapshot ID: `AAAAAJNNMlYa6VZ2hjOHDBoQeNVtzRfb`

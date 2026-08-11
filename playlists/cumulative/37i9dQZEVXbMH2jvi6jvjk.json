@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -2680,7 +2680,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 221474,
       "name": "AMABULAWO",
       "url": "https://open.spotify.com/track/47F1eJNUYIvzU3MwdWI7VS"
@@ -5801,6 +5801,24 @@
     },
     {
       "album": {
+        "name": "TRUE COLOURS",
+        "url": "https://open.spotify.com/album/7MVUr7a9jWPdH5EJJLGnJh"
+      },
+      "artists": [
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269867,
+      "name": "BAHAMBA BONKE",
+      "url": "https://open.spotify.com/track/5lzo1kyHFgALFzPblQlnmI"
+    },
+    {
+      "album": {
         "name": "Baja Ko Pele",
         "url": "https://open.spotify.com/album/5rDVWC3IBpWunIKPEx5PXd"
       },
@@ -7166,7 +7184,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 358008,
       "name": "Bengicela (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
@@ -8640,7 +8658,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 189357,
       "name": "Botshelo Ke Eng",
       "url": "https://open.spotify.com/track/5gBaYximqC7VruZHOkUKl8"
@@ -9910,7 +9928,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 297706,
       "name": "Can You Stand The Rain",
       "url": "https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2"
@@ -12528,7 +12546,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -13890,7 +13908,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 253268,
       "name": "Dipelo",
       "url": "https://open.spotify.com/track/2SMoYrcNpsbWA4QBzyLZOb"
@@ -17256,7 +17274,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 240000,
       "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
       "url": "https://open.spotify.com/track/4djmPQfj9hWl2mnUSApYSU"
@@ -25953,6 +25971,28 @@
     },
     {
       "album": {
+        "name": "TRUE COLOURS",
+        "url": "https://open.spotify.com/album/7MVUr7a9jWPdH5EJJLGnJh"
+      },
+      "artists": [
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        },
+        {
+          "name": "Boohle",
+          "url": "https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304213,
+      "name": "ISAZOCHOMELANA (feat. Boohle)",
+      "url": "https://open.spotify.com/track/4Psri1pSsv7OiH4B6hZUa2"
+    },
+    {
+      "album": {
         "name": "iMALI YE NTWANA",
         "url": "https://open.spotify.com/album/1YZIU86GRlTUYwnnBTV3Iz"
       },
@@ -27148,7 +27188,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 443394,
       "name": "Izospana",
       "url": "https://open.spotify.com/track/6tvBXtUeHKxDL1oZMas2mF"
@@ -29868,6 +29908,24 @@
       "duration_ms": 311178,
       "name": "Kuwe",
       "url": "https://open.spotify.com/track/7FNsLSsnXwRFD4nA4V2Low"
+    },
+    {
+      "album": {
+        "name": "National Anthem",
+        "url": "https://open.spotify.com/album/3O1PEMCkjVRr4Nq9qhUB1h"
+      },
+      "artists": [
+        {
+          "name": "Inkosi Yamagcokama",
+          "url": "https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290351,
+      "name": "Kuyazenzakalela",
+      "url": "https://open.spotify.com/track/0SSpXwK8sfnAo3toQczhFH"
     },
     {
       "album": {
@@ -33072,7 +33130,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 373805,
       "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
       "url": "https://open.spotify.com/track/5WyMVQuP2iraAdx2mmaruG"
@@ -35240,7 +35298,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 286746,
       "name": "Menateng (feat. Patron West, Gallarbass & Stellenbosch)",
       "url": "https://open.spotify.com/track/5QHQ4qcm5VgvAWaKXP7zOA"
@@ -35418,7 +35476,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -36080,7 +36138,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 384000,
       "name": "Mngani Wami (Jaydecai)",
       "url": "https://open.spotify.com/track/6R57BSk5QPahDhxRuVqWoh"
@@ -36602,7 +36660,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 272033,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/6L1PVPyrnb20UrFzuBBqoy"
@@ -37980,6 +38038,24 @@
       "duration_ms": 492831,
       "name": "Nana Thula (feat. Njelic, Young Stunna, Nkosazana Daughter & Xolani Guitar)",
       "url": "https://open.spotify.com/track/7ko9EAsZ2N1ZpEBlMUkR3J"
+    },
+    {
+      "album": {
+        "name": "National Anthem",
+        "url": "https://open.spotify.com/album/3O1PEMCkjVRr4Nq9qhUB1h"
+      },
+      "artists": [
+        {
+          "name": "Inkosi Yamagcokama",
+          "url": "https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291422,
+      "name": "National Anthem",
+      "url": "https://open.spotify.com/track/0XYP8RrumQd3Iua4NJ7DMh"
     },
     {
       "album": {
@@ -39480,6 +39556,24 @@
       "duration_ms": 377624,
       "name": "Ngixolele",
       "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
+    },
+    {
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/4m39VRKRyB7zIB1j89UUk6"
+      },
+      "artists": [
+        {
+          "name": "Inkos'yamagcokama",
+          "url": "https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273606,
+      "name": "Ngixolele",
+      "url": "https://open.spotify.com/track/5uY8eQbgeWjDD6lgmOkNKJ"
     },
     {
       "album": {
@@ -48444,7 +48538,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -52588,7 +52682,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -53098,7 +53192,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 272796,
       "name": "Sulani Igama Lami",
       "url": "https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z"
@@ -57722,7 +57816,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 203388,
       "name": "U XA",
       "url": "https://open.spotify.com/track/2iUNIB5d8YnPEYvn3QjaAg"
@@ -59364,7 +59458,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 360000,
       "name": "Ungenzani",
       "url": "https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1"
@@ -60062,7 +60156,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 198009,
       "name": "Uyajola lo",
       "url": "https://open.spotify.com/track/4oqN0vEjGjzwppSJFaFuuH"
@@ -65330,7 +65424,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 308241,
       "name": "ZEP (feat. Uncool MC)",
       "url": "https://open.spotify.com/track/532TYCPXAL8dY7C6KItN6F"

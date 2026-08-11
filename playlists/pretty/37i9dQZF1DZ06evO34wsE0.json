@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254120,
+  "num_followers": 254127,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAxJ1opkQhGfwQit27Aagit",
+  "snapshot_id": "anfDAAAAAAA6GuFtj5x+OmBhkgQFsHo9",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faded Blue Jeans",
-        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
+        "name": "Duets: Friends & Legends",
+        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
         },
         {
-          "name": "Josh Homme",
-          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 151962,
-      "name": "Faded Blue Jeans (feat. Josh Homme)",
-      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
+      "duration_ms": 222413,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
     },
     {
       "added_at": null,
@@ -515,22 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: Friends & Legends",
-        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+        "name": "Faded Blue Jeans",
+        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        },
-        {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Josh Homme",
+          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
         }
       ],
-      "duration_ms": 222413,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
+      "duration_ms": 151962,
+      "name": "Faded Blue Jeans (feat. Josh Homme)",
+      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 235284,
-      "name": "Northern Town",
-      "url": "https://open.spotify.com/track/1A8VErbB8Az7sEIh1SoySU"
+      "duration_ms": 204542,
+      "name": "Problematic",
+      "url": "https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 204542,
-      "name": "Problematic",
-      "url": "https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf"
+      "duration_ms": 235284,
+      "name": "Northern Town",
+      "url": "https://open.spotify.com/track/1A8VErbB8Az7sEIh1SoySU"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encontros Pelo Caminho",
-        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
-      },
-      "artists": [
-        {
-          "name": "Paula Fernandes",
-          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twenty Twenty",
         "url": "https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 200813,
       "name": "Forever And Ever, Amen",
       "url": "https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encontros Pelo Caminho",
+        "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
+      },
+      "artists": [
+        {
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT"
     }
   ],
   "unique_name": "This Is Shania Twain",

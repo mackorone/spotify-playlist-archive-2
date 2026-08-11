@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Sabaton\n",
-  "num_followers": 823774,
+  "num_followers": 823798,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM8cq3vLizSBeSPAzV4hB1slz+fw",
+  "snapshot_id": "AAAAAIznlL/wm4eKSYONk36MMheg37IV",
   "tracks": [
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
+        "name": "We Stand Tall",
+        "url": "https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 183626,
+      "name": "We Stand Tall",
+      "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
         "name": "Cicada",
         "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "We Stand Tall",
-        "url": "https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u"
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
       "artists": [
         {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
         }
       ],
-      "duration_ms": 183626,
-      "name": "We Stand Tall",
-      "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1603,18 +1619,38 @@
     {
       "added_at": "2026-03-22 01:56:31",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+        "name": "Target Acquired (feat. Megan McDuffee)",
+        "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
       "artists": [
         {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+          "name": "Void Chapter",
+          "url": "https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq"
+        },
+        {
+          "name": "Megan McDuffee",
+          "url": "https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn"
         }
       ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+      "duration_ms": 288166,
+      "name": "Target Acquired",
+      "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
+    },
+    {
+      "added_at": "2026-03-22 01:56:31",
+      "album": {
+        "name": "Take My Hand (Bonus Track)",
+        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
+      },
+      "artists": [
+        {
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Take My Hand - Bonus Track",
+      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
     },
     {
       "added_at": "2026-03-22 01:56:31",
@@ -1647,42 +1683,6 @@
       "duration_ms": 259068,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Take My Hand (Bonus Track)",
-        "url": "https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Take My Hand - Bonus Track",
-      "url": "https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8"
-    },
-    {
-      "added_at": "2026-03-22 01:56:31",
-      "album": {
-        "name": "Target Acquired (feat. Megan McDuffee)",
-        "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
-      },
-      "artists": [
-        {
-          "name": "Void Chapter",
-          "url": "https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq"
-        },
-        {
-          "name": "Megan McDuffee",
-          "url": "https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn"
-        }
-      ],
-      "duration_ms": 288166,
-      "name": "Target Acquired",
-      "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
     },
     {
       "added_at": "2026-03-22 01:56:31",

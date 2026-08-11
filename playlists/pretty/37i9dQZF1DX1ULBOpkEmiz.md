@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 
 > Feeling like summer in 04'
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,263 likes - 53 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,275 likes - 53 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 52 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 53 | [I Need a Girl \(Pt\. 2\) \[feat\. Loon, Ginuwine, Mario Winans\]](https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP), [Loon](https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT), [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 |
 
-Snapshot ID: `AAAAAO3+cwsMi59f9HEYfQfbnY6pDMos`
+Snapshot ID: `AAAAANMbUPeIKBXkN8LBs5cu/bqkaUcg`

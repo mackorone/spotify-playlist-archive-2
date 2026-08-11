@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind\. Cover: Kahuti
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,622 likes - 49 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,624 likes - 49 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 48 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 |
 | 49 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
 
-Snapshot ID: `AAAAAO2MMjpfU8FaAzggU8O7W10NZmdO`
+Snapshot ID: `AAAAAOTd4zwof1EMTFPPbn0d9ozmIpGz`

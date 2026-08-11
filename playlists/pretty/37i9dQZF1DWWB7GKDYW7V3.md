@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 
 > De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,892 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,893 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 76 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 77 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
 | 78 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
-| 79 | [Lean On](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 2:56 |
+| 79 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 80 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
-| 81 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
+| 81 | [Lean On](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 2:56 |
 | 82 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 |
 | 83 | [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:51 |
 | 84 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 107 | [One Day Like This](https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 6:34 |
 | 108 | [Tondo](https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eko Roosevelt](https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh) | [ENERGY \(Deluxe\)](https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf) | 5:29 |
 | 109 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 |
-| 110 | [Anarchy In The UK](https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:32 |
-| 111 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
+| 110 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
+| 111 | [Anarchy In The UK](https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:32 |
 | 112 | [My Friend](https://open.spotify.com/track/5LRxSyiIRHQD26h1mdM0Ir) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 5:00 |
 | 113 | [Lapdance](https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:29 |
 | 114 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 119 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
 | 120 | [Fuck You](https://open.spotify.com/track/6ylAVPbjRQoNY0khgh63Jf) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [It's Not Me, It's You](https://open.spotify.com/album/03r2opEvFi1PEs2SrkWMKV) | 3:39 |
 | 121 | [We Care a Lot](https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Introduce Yourself](https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX) | 4:03 |
-| 122 | [Dry Your Eyes](https://open.spotify.com/track/3PEx44by2Pe7E6M8tgqE5N) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:31 |
-| 123 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
+| 122 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
+| 123 | [Dry Your Eyes](https://open.spotify.com/track/3PEx44by2Pe7E6M8tgqE5N) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [A Grand Don't Come for Free](https://open.spotify.com/album/365ETCJBUmEWroc4UGBS1u) | 4:31 |
 | 124 | [Woman](https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r) | 2:55 |
 | 125 | [Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3sE83l3A58DipFp3EzNLiE) | 4:28 |
 
-Snapshot ID: `AAAAAPhzQMt+pZ2Syt4ZdtP9Uujw7EGn`
+Snapshot ID: `AAAAAAQhVXbF8EeyfLHHsqRRhjWtCsLD`

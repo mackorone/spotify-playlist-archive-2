@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover - Shakthisree Gopalan",
-  "num_followers": 107271,
+  "num_followers": 107311,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADDsL38jEJFzosnstgCytz9Efcyb",
+  "snapshot_id": "AAAAAIak1yVvhPfadtENNy/gf4acUEMc",
   "tracks": [
     {
       "added_at": "2026-08-05 03:47:44",
@@ -515,6 +515,38 @@
     {
       "added_at": "2026-08-05 03:47:44",
       "album": {
+        "name": "Saathiya",
+        "url": "https://open.spotify.com/album/6BJPcgCN37gDKtPh7gmJ3p"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        },
+        {
+          "name": "Murtuza",
+          "url": "https://open.spotify.com/artist/3EZ5CQuVFG8xHHGXNCyFNG"
+        },
+        {
+          "name": "Qadir",
+          "url": "https://open.spotify.com/artist/3AAD2JPKi5k6TJ64U70Y9D"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "duration_ms": 364408,
+      "name": "Chupke Se",
+      "url": "https://open.spotify.com/track/2F3MfkMgCaUypuEKyvbUzq"
+    },
+    {
+      "added_at": "2026-08-05 03:47:44",
+      "album": {
         "name": "Alpha",
         "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
       },
@@ -551,38 +583,6 @@
     {
       "added_at": "2026-08-05 03:47:44",
       "album": {
-        "name": "Saathiya",
-        "url": "https://open.spotify.com/album/6BJPcgCN37gDKtPh7gmJ3p"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Sadhana Sargam",
-          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
-        },
-        {
-          "name": "Murtuza",
-          "url": "https://open.spotify.com/artist/3EZ5CQuVFG8xHHGXNCyFNG"
-        },
-        {
-          "name": "Qadir",
-          "url": "https://open.spotify.com/artist/3AAD2JPKi5k6TJ64U70Y9D"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
-        }
-      ],
-      "duration_ms": 364408,
-      "name": "Chupke Se",
-      "url": "https://open.spotify.com/track/2F3MfkMgCaUypuEKyvbUzq"
-    },
-    {
-      "added_at": "2026-08-05 03:47:44",
-      "album": {
         "name": "AANKH",
         "url": "https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE"
       },
@@ -599,6 +599,30 @@
       "duration_ms": 188256,
       "name": "AANKH",
       "url": "https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx"
+    },
+    {
+      "added_at": "2026-08-05 03:47:44",
+      "album": {
+        "name": "Musafir Cafe (Songs from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0hSNAxV3h9LWcNvfX4Gjr2"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Neel Adhikari",
+          "url": "https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U"
+        },
+        {
+          "name": "Amrita Saluja",
+          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "Rozaana",
+      "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
     },
     {
       "added_at": "2026-08-05 03:47:44",
@@ -627,30 +651,6 @@
       "duration_ms": 271586,
       "name": "Hungamaa Ho Gaya",
       "url": "https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv"
-    },
-    {
-      "added_at": "2026-08-05 03:47:44",
-      "album": {
-        "name": "Musafir Cafe (Songs from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0hSNAxV3h9LWcNvfX4Gjr2"
-      },
-      "artists": [
-        {
-          "name": "Lisa Mishra",
-          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
-        },
-        {
-          "name": "Neel Adhikari",
-          "url": "https://open.spotify.com/artist/2pGEFe1FmuRslGamBfjV7U"
-        },
-        {
-          "name": "Amrita Saluja",
-          "url": "https://open.spotify.com/artist/75D3MB2b9sz8RiqLDtvkqU"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "Rozaana",
-      "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
     },
     {
       "added_at": "2026-08-05 03:47:44",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-08-05 03:47:44",
       "album": {
+        "name": "Feeka",
+        "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        },
+        {
+          "name": "NEVERSOBER",
+          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Feeka",
+      "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
+    },
+    {
+      "added_at": "2026-08-05 03:47:44",
+      "album": {
         "name": "Tum Yun Mile Ho",
         "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 153124,
       "name": "Tum Yun Mile Ho",
       "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
-    },
-    {
-      "added_at": "2026-08-05 03:47:44",
-      "album": {
-        "name": "Feeka",
-        "url": "https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A"
-      },
-      "artists": [
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        },
-        {
-          "name": "NEVERSOBER",
-          "url": "https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Feeka",
-      "url": "https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv"
     },
     {
       "added_at": "2026-08-05 03:47:44",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-08-05 03:47:44",
       "album": {
-        "name": "giraft",
-        "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
-      },
-      "artists": [
-        {
-          "name": "Shalmali Kholgade",
-          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "giraft",
-      "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
-    },
-    {
-      "added_at": "2026-08-05 03:47:44",
-      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 230904,
       "name": "Ada",
       "url": "https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1"
+    },
+    {
+      "added_at": "2026-08-05 03:47:44",
+      "album": {
+        "name": "giraft",
+        "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "giraft",
+      "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
     },
     {
       "added_at": "2026-08-05 03:47:44",
@@ -1187,34 +1187,6 @@
     {
       "added_at": "2026-08-05 03:47:44",
       "album": {
-        "name": "Saanware",
-        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
-      },
-      "artists": [
-        {
-          "name": "Zikrr",
-          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
-        },
-        {
-          "name": "Vidhi Tyagi",
-          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
-        },
-        {
-          "name": "Arjit Srivastava",
-          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
-        },
-        {
-          "name": "DUSH",
-          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Saanware",
-      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
-    },
-    {
-      "added_at": "2026-08-05 03:47:44",
-      "album": {
         "name": "Leta Jaijo Re | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/2hnV4PR6Ef1JPz4QS36BxF"
       },
@@ -1243,6 +1215,34 @@
       "duration_ms": 234913,
       "name": "Leta Jaijo Re | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/16yMLqQledh43yQ788cGzc"
+    },
+    {
+      "added_at": "2026-08-05 03:47:44",
+      "album": {
+        "name": "Saanware",
+        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
+      },
+      "artists": [
+        {
+          "name": "Zikrr",
+          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
+        },
+        {
+          "name": "Vidhi Tyagi",
+          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "DUSH",
+          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
     },
     {
       "added_at": "2026-08-05 03:47:44",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-08-05 03:47:44",
       "album": {
+        "name": "Dil Ki Giraft",
+        "url": "https://open.spotify.com/album/4dSzooKWDRYIOxUMWfYOJN"
+      },
+      "artists": [
+        {
+          "name": "Dhairya Sharma",
+          "url": "https://open.spotify.com/artist/0iN0jINxS8965AGWQvGj1n"
+        }
+      ],
+      "duration_ms": 246374,
+      "name": "Dil Ki Giraft",
+      "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
+    },
+    {
+      "added_at": "2026-08-05 03:47:44",
+      "album": {
         "name": "Daira",
         "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-08-05 03:47:44",
       "album": {
-        "name": "Dil Ki Giraft",
-        "url": "https://open.spotify.com/album/4dSzooKWDRYIOxUMWfYOJN"
-      },
-      "artists": [
-        {
-          "name": "Dhairya Sharma",
-          "url": "https://open.spotify.com/artist/0iN0jINxS8965AGWQvGj1n"
-        }
-      ],
-      "duration_ms": 246374,
-      "name": "Dil Ki Giraft",
-      "url": "https://open.spotify.com/track/2BpwxoAFAe4t8RN28OeGWL"
-    },
-    {
-      "added_at": "2026-08-05 03:47:44",
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
       },
@@ -1463,30 +1463,6 @@
       "duration_ms": 268989,
       "name": "Tu Kuja",
       "url": "https://open.spotify.com/track/4wRPxzdZfvgPZbTZiWKkYt"
-    },
-    {
-      "added_at": "2026-08-05 03:47:44",
-      "album": {
-        "name": "Maa Behen",
-        "url": "https://open.spotify.com/album/5tNzAiZuG5T2EYUOJL3lWI"
-      },
-      "artists": [
-        {
-          "name": "Akashdeep Sengupta",
-          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
-        },
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        },
-        {
-          "name": "Shubham Shirule",
-          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
-        }
-      ],
-      "duration_ms": 205087,
-      "name": "Yeh Kaisi Raat",
-      "url": "https://open.spotify.com/track/7jV1IQyHNpu1n7MNkTgmB2"
     },
     {
       "added_at": "2026-08-05 03:47:44",
@@ -1511,6 +1487,30 @@
       "duration_ms": 272384,
       "name": "Khaamakha",
       "url": "https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx"
+    },
+    {
+      "added_at": "2026-08-05 03:47:44",
+      "album": {
+        "name": "Maa Behen",
+        "url": "https://open.spotify.com/album/5tNzAiZuG5T2EYUOJL3lWI"
+      },
+      "artists": [
+        {
+          "name": "Akashdeep Sengupta",
+          "url": "https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
+        }
+      ],
+      "duration_ms": 205087,
+      "name": "Yeh Kaisi Raat",
+      "url": "https://open.spotify.com/track/7jV1IQyHNpu1n7MNkTgmB2"
     },
     {
       "added_at": "2026-08-05 03:47:44",

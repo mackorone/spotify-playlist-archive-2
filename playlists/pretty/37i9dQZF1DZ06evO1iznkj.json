@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 207978,
+  "num_followers": 208036,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACyI6rL53NeJKYdUrqJkWsv",
+  "snapshot_id": "anfDAAAAAAB7ci8KyRKWfX0ceum2sa+P",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "P power (feat. Drake)",
-      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
       },
       "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+      "duration_ms": 150770,
+      "name": "High Noon (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt"
     },
     {
       "added_at": null,
@@ -491,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 149133,
       "name": "MET GALA",
       "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Outlaw Cherie Lee & Other Western Tales",
-        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 150770,
-      "name": "High Noon (feat. Gunna)",
-      "url": "https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt"
     },
     {
       "added_at": null,
@@ -683,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "7220",
-        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
       },
       "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 181393,
-      "name": "What Happened To Virgil (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+        "name": "7220",
+        "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
       "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "duration_ms": 181393,
+      "name": "What Happened To Virgil (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 142226,
+      "name": "livin wild",
+      "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 142226,
-      "name": "livin wild",
-      "url": "https://open.spotify.com/track/13LrJDJhegSLCZzqd5InmU"
     },
     {
       "added_at": null,

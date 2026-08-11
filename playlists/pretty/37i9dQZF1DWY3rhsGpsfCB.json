@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABD48yKf5dG31dBkmh7ikFOCTS/Z",
+  "snapshot_id": "AAAAAIdJGXrzQzK2MgRfHeONQm9acqYA",
   "tracks": [
     {
       "added_at": "2026-07-31 00:01:51",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "Therapy at the Club",
-        "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Therapy at the Club",
-      "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
+        "name": "Therapy at the Club",
+        "url": "https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Therapy at the Club",
+      "url": "https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "U, Me & My Ego",
-        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
-      },
-      "artists": [
-        {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        }
-      ],
-      "duration_ms": 150201,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
         "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
         "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "Uche Jumbo",
-        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
       },
       "artists": [
         {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
         }
       ],
-      "duration_ms": 148269,
-      "name": "Uche Jumbo",
-      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
+      "duration_ms": 150201,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -1035,6 +1019,22 @@
       "duration_ms": 196202,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0hWicbDqfQpuw9ncKV8OWx"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        }
-      ],
-      "duration_ms": 187463,
-      "name": "cease & desist",
-      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
+        "name": "So Much Sense",
+        "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 168072,
+      "name": "So Much Sense",
+      "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
         "name": "darkest secrets / CHAKAM",
         "url": "https://open.spotify.com/album/5bPOkxU0VV6Zs36F4xyKMk"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 201457,
       "name": "Darkest Secrets",
       "url": "https://open.spotify.com/track/1Mqcx741E3t5MRLGRfMKA8"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
-        "name": "So Much Sense",
-        "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 168072,
-      "name": "So Much Sense",
-      "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
     },
     {
       "added_at": "2026-07-31 00:01:51",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u0631\u0646\u0648\u0628\u064a",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0648\u062f\u0647 \u0648\u0639\u0632\u064a\u0632 \u0645\u0631\u0642\u0629",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -186,6 +186,24 @@
       "duration_ms": 183092,
       "name": "3ALA 3EINY",
       "url": "https://open.spotify.com/track/7ozTfo4weUgejxkTmJC5hV"
+    },
+    {
+      "album": {
+        "name": "3amla Feha Mn Egypt",
+        "url": "https://open.spotify.com/album/2fgSGj2ZEbUgJfoe0qi4mL"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "3amla Feha Mn Egypt",
+      "url": "https://open.spotify.com/track/2DMHfbk5O6Ax6kfxJd3cDQ"
     },
     {
       "album": {
@@ -1572,6 +1590,28 @@
       "duration_ms": 252488,
       "name": "Da Elly 7sal - \u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644",
       "url": "https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX"
+    },
+    {
+      "album": {
+        "name": "Da2a",
+        "url": "https://open.spotify.com/album/4CuDEz565gy7m3aRICllzi"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        },
+        {
+          "name": "Houda",
+          "url": "https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "Da2a",
+      "url": "https://open.spotify.com/track/4kZeSD3RpZ8qNuo42D8z9X"
     },
     {
       "album": {
@@ -4926,7 +4966,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 213061,
       "name": "SAHRAN",
       "url": "https://open.spotify.com/track/1x3jrqrELnhxHZTcQN4Lph"
@@ -8832,7 +8872,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 257068,
       "name": "\u0645\u0639\u0627\u0643",
       "url": "https://open.spotify.com/track/4Lb1MhpaBcx3chi88YoTJS"

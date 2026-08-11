@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Atif Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,527 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,577 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 14 | [SARGOSHI](https://open.spotify.com/track/1JX4YjJ6EtxOheUjer7Vsu) | [Ahsan Javed](https://open.spotify.com/artist/4FeXPYeo2Ts8EPAwHFJPRE), [Usamasutra](https://open.spotify.com/artist/5zbPdTHqmNPLfJmS3iOJ2L) | [SARGOSHI](https://open.spotify.com/album/3LxvwpsXj6aX0I9St3ZAB3) | 2:12 |
 | 15 | [Sun Sajna](https://open.spotify.com/track/7oDuXzn5w1H5OqBEEa5tnD) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 3:20 |
 | 16 | [Chalo Door Kahin](https://open.spotify.com/track/00DxTUDK5maAckhUSYBaBn) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Chalo Door Kahin](https://open.spotify.com/album/1hxqjy9dunSnRuljeoe18h) | 2:38 |
-| 17 | [Tera Mera Rishta](https://open.spotify.com/track/23T4WcVkvuaAEOgXr848i1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Awarapan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD) | 5:47 |
+| 17 | [Tera Mera Rishta \- Original Version](https://open.spotify.com/track/23T4WcVkvuaAEOgXr848i1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Awarapan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD) | 5:47 |
 | 18 | [Wishes](https://open.spotify.com/track/5rpCUsEfBLIumvrxrahnKF) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Maybe, It's Love](https://open.spotify.com/album/5s1E31b6Tli6eCH5TldUS6) | 3:38 |
 | 19 | [Safar](https://open.spotify.com/track/51Ggv32i87ei9RYT0mkcVY) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:36 |
 | 20 | [Hoor](https://open.spotify.com/track/2tmlxsN78o0hR1CXuKhBpT) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Hoor](https://open.spotify.com/album/5bXnPJlYCuUK5JngUgRx3h) | 3:30 |
-| 21 | [Toh Phir Aao](https://open.spotify.com/track/10rTRsKQDEke6Dd1Qj57Jd) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Awarapan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD) | 5:48 |
+| 21 | [Toh Phir Aao \- Original Version](https://open.spotify.com/track/10rTRsKQDEke6Dd1Qj57Jd) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Awarapan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD) | 5:48 |
 | 22 | [Boyfriend](https://open.spotify.com/track/3ExgWVPWOQts9RVBkqpdic) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 2:40 |
 | 23 | [Sachay Waday](https://open.spotify.com/track/5cGc4nuiCNnRVidn8bgzmP) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 4:36 |
 | 24 | [Afsos](https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Afsos](https://open.spotify.com/album/0RaKe6idrXFUXsqxU4VmPa) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 74 | [Kath Lagda](https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Sanya Dandona](https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 5:12 |
 | 75 | [EX\-FILES](https://open.spotify.com/track/4pFgcMU0LSo73Df61Cge6U) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [EX\-FILES](https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U) | 3:16 |
 
-Snapshot ID: `AAAAAJhza+H8+hU7T/YiGIB7uLeHR97T`
+Snapshot ID: `AAAAAKvQZ55elTs2/rKBy/z2/AYEA2gq`

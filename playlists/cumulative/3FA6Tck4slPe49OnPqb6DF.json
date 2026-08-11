@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Beside",
+        "url": "https://open.spotify.com/album/07na3RrGfdLvYmwUfZ0AFb"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258466,
+      "name": "Beside",
+      "url": "https://open.spotify.com/track/41T4Os1PgIAAWWGYS9FziQ"
+    },
+    {
+      "album": {
         "name": "Brainwasher / Walking With Giants",
         "url": "https://open.spotify.com/album/2BkPTgBfn5CiMpf5D0BYkX"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 232254,
       "name": "Brainwasher",
       "url": "https://open.spotify.com/track/7rLu9jN4LRqQY1V0YBkMLc"
@@ -126,7 +144,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 208270,
       "name": "Dapple",
       "url": "https://open.spotify.com/track/6zU1KwHoeJfyinQtFyst4m"
@@ -173,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
+    },
+    {
+      "album": {
         "name": "Flight",
         "url": "https://open.spotify.com/album/0DaD68WLGWcd9HGiiAjFSU"
       },
@@ -184,7 +220,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 324531,
       "name": "Flight",
       "url": "https://open.spotify.com/track/5V61H1tbmh09aXcXqOml1O"
@@ -202,7 +238,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 368360,
       "name": "Friends In Secret",
       "url": "https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY"
@@ -224,6 +260,28 @@
       "duration_ms": 447494,
       "name": "Got This Feeling - Original Mix",
       "url": "https://open.spotify.com/track/3Of0ZixrQPzq22I4ogG4TB"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel EP",
+        "url": "https://open.spotify.com/album/6DOP8xBEFN7JIgfMtLUf2q"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276956,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/47q1hbBXR0ocKoOolYpEzx"
     },
     {
       "album": {
@@ -260,7 +318,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 258034,
       "name": "Keep The Faith",
       "url": "https://open.spotify.com/track/5d6C3XycqRLFAGLtyO3Rfx"
@@ -289,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Civilian World EP",
+        "url": "https://open.spotify.com/album/00r1teIiPhG6o6eNZftjq3"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451000,
+      "name": "Love Always Had A Way",
+      "url": "https://open.spotify.com/track/2Dfre2kVDEG0Wm6oKNxrb9"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/0lf36j9fSShEB9w8dN4sJn"
       },
@@ -311,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Anjunadeep 05",
+        "url": "https://open.spotify.com/album/3QGHptJ3leveczYWnnIr5o"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330507,
+      "name": "Mr Man",
+      "url": "https://open.spotify.com/track/09fEg2GgHCBjkiYabvpmnY"
+    },
+    {
+      "album": {
         "name": "Murder Weapon EP",
         "url": "https://open.spotify.com/album/2OzLK0SKtELdXAXWVjLXkm"
       },
@@ -326,6 +420,50 @@
       "duration_ms": 601278,
       "name": "Murder Weapon",
       "url": "https://open.spotify.com/track/1qvQlpk9BbGFxrxFxjSpdn"
+    },
+    {
+      "album": {
+        "name": "Feeling Fades",
+        "url": "https://open.spotify.com/album/44riDt5xm322EieCTgLbsk"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        },
+        {
+          "name": "Kate Morgan",
+          "url": "https://open.spotify.com/artist/48hiuLYhfSj1EYOrZPAuje"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198994,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/0Ung09zr13qBaEGMtTDmrQ"
+    },
+    {
+      "album": {
+        "name": "Kadhalan",
+        "url": "https://open.spotify.com/album/0T1TvwQouoafwmhBsiCl5L"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236481,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/7bDG33UjUHFSM7Q5icKBwE"
     },
     {
       "album": {
@@ -384,7 +522,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 271466,
       "name": "Only You Can Tell - Original Mix",
       "url": "https://open.spotify.com/track/6feLDcYmUwbQgoHYxHD4qS"
@@ -402,7 +540,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 269036,
       "name": "Overtones",
       "url": "https://open.spotify.com/track/3fZo9f1RF24iMVBaC6fAiA"
@@ -474,7 +612,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 236101,
       "name": "Proud",
       "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
@@ -514,7 +652,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 503408,
       "name": "Room 1.5",
       "url": "https://open.spotify.com/track/7KNAX5vcVQpGalIP1TiQuP"
@@ -568,7 +706,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 247741,
       "name": "sometimes it\u2019s scary but it\u2019s still just you and me - Edit",
       "url": "https://open.spotify.com/track/6S52u11MvLNy9qp8Ju1unG"
@@ -608,6 +746,42 @@
       "duration_ms": 491605,
       "name": "Tuesday Maybe",
       "url": "https://open.spotify.com/track/6gWwDlXoYPFqrIdEjivBh5"
+    },
+    {
+      "album": {
+        "name": "Wait State / Kindred",
+        "url": "https://open.spotify.com/album/3lGE0EO33vp8yP0V8ABWrm"
+      },
+      "artists": [
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303217,
+      "name": "Wait State",
+      "url": "https://open.spotify.com/track/3Yfu4KhEblDvCpVXv4u3xC"
+    },
+    {
+      "album": {
+        "name": "Where The Sea Swings In Like An Iron Gate",
+        "url": "https://open.spotify.com/album/5ggvRgwWQixEWHWnD88Wmr"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250728,
+      "name": "Where The Sea Swings In Like An Iron Gate - Edit",
+      "url": "https://open.spotify.com/track/4gay6ybnbQ6Dga4OJv36oL"
     }
   ],
   "url": "https://open.spotify.com/playlist/3FA6Tck4slPe49OnPqb6DF"

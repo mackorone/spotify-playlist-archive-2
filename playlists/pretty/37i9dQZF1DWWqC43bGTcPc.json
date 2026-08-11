@@ -1,13 +1,29 @@
 {
   "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u6d3e\u5049\u4fca Patrick Brasca",
-  "num_followers": 512485,
+  "num_followers": 512495,
   "original_name": "\u6700Hit\u83ef\u8a9e\u699c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMpmql6GL+WhkCELxwIp40aCvU18",
+  "snapshot_id": "AAAAAJaR9hfpHIWQvc4t2OW9nOTVAi6I",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:35:25",
+      "album": {
+        "name": "All For You (\u300a\u8718\u86db\u4eba\uff1a\u91cd\u751f\u65e5\u300b\u96fb\u5f71\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 217954,
+      "name": "All For You - \u300a\u8718\u86db\u4eba\uff1a\u91cd\u751f\u65e5\u300b\u96fb\u5f71\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb"
+    },
     {
       "added_at": "2026-08-07 04:35:25",
       "album": {
@@ -91,22 +107,6 @@
       "duration_ms": 219728,
       "name": "\u82e5\u7121\u4f60\u6211\u6b32\u53bb\u4f57\u4f4d",
       "url": "https://open.spotify.com/track/63uBr7KrsE4dUHCjFTzn3W"
-    },
-    {
-      "added_at": "2026-08-07 04:35:25",
-      "album": {
-        "name": "All For You (\u300a\u8718\u86db\u4eba\uff1a\u91cd\u751f\u65e5\u300b\u96fb\u5f71\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/4oE0CORkFV1vvv3Ei8CUr9"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 217954,
-      "name": "All For You - \u300a\u8718\u86db\u4eba\uff1a\u91cd\u751f\u65e5\u300b\u96fb\u5f71\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/7nDEuBtwQmqv2tQm7EREyb"
     },
     {
       "added_at": "2026-08-07 04:35:25",

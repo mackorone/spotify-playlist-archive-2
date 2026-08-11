@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UwwBOf7Lpj.md) - [plain]
 
 > Fuel for any court — live from the baseline\. <a href="https://www.instagram.com/clubvolley\_\_\_\_/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,411 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,422 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UwwBOf7Lpj.md) - [plain]
 | 99 | [Empty Pages](https://open.spotify.com/track/2uox7zSDHARnZ3ksz0Fx1F) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/6zJzupiU2VUSeScVoxjkYG) | 4:14 |
 | 100 | [UMI Says](https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Black On Both Sides](https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6) | 5:05 |
 
-Snapshot ID: `AAAAAIRQ1JviG3LLvopHm5pzgBlB8AOa`
+Snapshot ID: `AAAAACdQp2du2xIcAARM6y79+FLE5zVy`

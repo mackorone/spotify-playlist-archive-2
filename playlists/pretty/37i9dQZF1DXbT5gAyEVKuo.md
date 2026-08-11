@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Naomi Raine & Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,684 likes - 75 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,747 likes - 75 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 74 | [Hallelujah](https://open.spotify.com/track/1uR09SXUN6b4Nx0qS9bSNl) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Hallelujah](https://open.spotify.com/album/07zqZ3Ux5B5RfUSx9UtN8n) | 8:21 |
 | 75 | [The Name of Jesus](https://open.spotify.com/track/1A0iZtldObmskSY1G1FZwW) | [Warehouse Worship](https://open.spotify.com/artist/1u5xwOxetEbwUOsx5YRwXB), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Name of Jesus](https://open.spotify.com/album/4HNFtdNDZrRPfAs9pW4K3L) | 6:53 |
 
-Snapshot ID: `AAAAAE8PGY3QlMKqZPyKq3GyZhK7P9jy`
+Snapshot ID: `AAAAALOpZEEBMMP1oJ8P+y7uEHXLvD6v`

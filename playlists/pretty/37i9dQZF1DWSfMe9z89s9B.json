@@ -1,12 +1,12 @@
 {
   "description": "The new school - Alternative R&B. Cover: Q",
-  "num_followers": 1312366,
+  "num_followers": 1312279,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJpyoj2A7kse4Z38fnNTTfVmGB8d",
+  "snapshot_id": "AAAAAHLi9Lc1LIXOXotx6JfpT7/4EyIv",
   "tracks": [
     {
       "added_at": "2026-07-31 07:26:27",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
-      "added_at": "2025-09-07 01:24:20",
+      "added_at": "2025-08-15 06:41:00",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
     },
     {
       "added_at": "2025-05-02 04:00:39",
@@ -1033,20 +1033,20 @@
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
+      "added_at": "2025-09-07 01:24:20",
       "album": {
-        "name": "Nice Shoes",
-        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Nice Shoes",
-      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 220007,
-      "name": "Baby!",
-      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
-    },
-    {
       "added_at": "2026-04-03 07:16:37",
       "album": {
         "name": "Ambiguous Desire",
@@ -1223,6 +1207,22 @@
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 220007,
+      "name": "Baby!",
+      "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "hillside",
-        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "hillside",
-      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
-    },
-    {
       "added_at": "2025-09-07 01:24:20",
       "album": {
         "name": "maple brown",
@@ -1335,6 +1319,22 @@
       "duration_ms": 179342,
       "name": "maple brown",
       "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "hillside",
+        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "hillside",
+      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1517,22 +1517,6 @@
       "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
     },
     {
-      "added_at": "2026-04-03 07:16:37",
-      "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 156935,
-      "name": "Good Is A LIE",
-      "url": "https://open.spotify.com/track/0nD4peo8xBWxCkiL21ymlO"
-    },
-    {
       "added_at": "2025-10-25 02:54:19",
       "album": {
         "name": "CAOS",
@@ -1549,20 +1533,20 @@
       "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
+      "added_at": "2026-04-03 07:16:37",
       "album": {
-        "name": "Wishing Well",
-        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/69vMzrlvjJc7dBCJgR9jZP"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
         }
       ],
-      "duration_ms": 232320,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
+      "duration_ms": 156935,
+      "name": "Good Is A LIE",
+      "url": "https://open.spotify.com/track/0nD4peo8xBWxCkiL21ymlO"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-06-21 21:45:09",
       "album": {
-        "name": "MY FEET",
-        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/5yVOyzUQcQFGsXkn8IsSI6"
       },
       "artists": [
         {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 291500,
-      "name": "MY FEET",
-      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
+      "duration_ms": 232320,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1631,6 +1615,54 @@
       "duration_ms": 201000,
       "name": "all over u",
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "From Scratch",
+      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "MY FEET",
+        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "MY FEET",
+      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "added_at": "2026-06-21 21:45:09",
@@ -1657,38 +1689,6 @@
       "url": "https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "I Had a Dream She Took My Hand",
-        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 220291,
-      "name": "I Had a Dream She Took My Hand",
-      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "From Scratch",
-      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
-    },
-    {
       "added_at": "2025-08-22 10:33:51",
       "album": {
         "name": "To Dry a Tear",
@@ -1707,18 +1707,26 @@
     {
       "added_at": "2026-07-17 05:33:57",
       "album": {
-        "name": "Endlessly Waiting / The Reason",
-        "url": "https://open.spotify.com/album/5ffrJDdRb2XjsphU3OxZRH"
+        "name": "MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY (DELUXE)",
+        "url": "https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7"
       },
       "artists": [
         {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+          "name": "_BY.ALEXANDER",
+          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
+        },
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        },
+        {
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
         }
       ],
-      "duration_ms": 280366,
-      "name": "Endlessly Waiting",
-      "url": "https://open.spotify.com/track/1EnFnuMg7nRXdQYqnkOpNe"
+      "duration_ms": 206060,
+      "name": "the truth at a distance",
+      "url": "https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI"
     },
     {
       "added_at": "2025-02-14 07:50:47",
@@ -1755,90 +1763,18 @@
     {
       "added_at": "2026-07-17 05:33:57",
       "album": {
-        "name": "MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY (DELUXE)",
-        "url": "https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7"
+        "name": "Endlessly Waiting / The Reason",
+        "url": "https://open.spotify.com/album/5ffrJDdRb2XjsphU3OxZRH"
       },
       "artists": [
         {
-          "name": "_BY.ALEXANDER",
-          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
-        },
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        },
-        {
-          "name": "HAWA",
-          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
         }
       ],
-      "duration_ms": 206060,
-      "name": "the truth at a distance",
-      "url": "https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI"
-    },
-    {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "Go To Hell",
-        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Go To Hell",
-      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
-    },
-    {
-      "added_at": "2025-06-27 04:16:56",
-      "album": {
-        "name": "PROMISE",
-        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
-      },
-      "artists": [
-        {
-          "name": "DAMEDAME*",
-          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "PROMISE",
-      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
-    },
-    {
-      "added_at": "2026-07-17 05:33:57",
-      "album": {
-        "name": "COMMUNICATION",
-        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "COMMUNICATION",
-      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
-    },
-    {
-      "added_at": "2025-10-17 06:22:08",
-      "album": {
-        "name": "baby",
-        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "baby",
-      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
+      "duration_ms": 280366,
+      "name": "Endlessly Waiting",
+      "url": "https://open.spotify.com/track/1EnFnuMg7nRXdQYqnkOpNe"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1857,6 +1793,22 @@
       "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
+      "added_at": "2025-06-27 04:16:56",
+      "album": {
+        "name": "PROMISE",
+        "url": "https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV"
+      },
+      "artists": [
+        {
+          "name": "DAMEDAME*",
+          "url": "https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "PROMISE",
+      "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
+    },
+    {
       "added_at": "2024-12-13 05:00:40",
       "album": {
         "name": "W1LL U L13?",
@@ -1871,6 +1823,54 @@
       "duration_ms": 139399,
       "name": "W1LL U L13?",
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+    },
+    {
+      "added_at": "2025-10-17 06:22:08",
+      "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
+    },
+    {
+      "added_at": "2026-07-17 05:33:57",
+      "album": {
+        "name": "COMMUNICATION",
+        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "COMMUNICATION",
+      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "added_at": "2024-09-27 23:55:30",
@@ -1941,22 +1941,6 @@
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
-      "album": {
-        "name": "Real Here Now / Water",
-        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 300764,
-      "name": "Real Here Now",
-      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
-    },
-    {
       "added_at": "2024-06-21 07:44:39",
       "album": {
         "name": "Petra",
@@ -1987,6 +1971,22 @@
       "duration_ms": 158093,
       "name": "Done With You",
       "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "added_at": "2026-05-15 07:04:17",
+      "album": {
+        "name": "Real Here Now / Water",
+        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 300764,
+      "name": "Real Here Now",
+      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
     },
     {
       "added_at": "2025-10-25 02:54:19",
@@ -2069,22 +2069,6 @@
       "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
-      "added_at": "2024-08-23 05:28:40",
-      "album": {
-        "name": "Someone Asked Me How I've Been",
-        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Someone Asked Me How I've Been",
-      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
-    },
-    {
       "added_at": "2025-05-09 04:12:41",
       "album": {
         "name": "I Like It I Like It",
@@ -2103,6 +2087,22 @@
       "duration_ms": 250400,
       "name": "I Like It I Like It",
       "url": "https://open.spotify.com/track/27TdhKp1ytw90NS2Pf4WbO"
+    },
+    {
+      "added_at": "2024-10-20 00:14:41",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
       "added_at": "2025-02-07 08:30:49",
@@ -2125,22 +2125,6 @@
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2024-10-20 00:14:41",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
-    },
-    {
       "added_at": "2026-05-08 06:11:38",
       "album": {
         "name": "is anybody home!?",
@@ -2155,6 +2139,22 @@
       "duration_ms": 257561,
       "name": "clear blue!",
       "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
+    },
+    {
+      "added_at": "2024-08-23 05:28:40",
+      "album": {
+        "name": "Someone Asked Me How I've Been",
+        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Someone Asked Me How I've Been",
+      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -2241,22 +2241,6 @@
       "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "Rest of Your Life",
-        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Rest of Your Life",
-      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
-    },
-    {
       "added_at": "2024-06-07 12:28:44",
       "album": {
         "name": "TIMELESS",
@@ -2309,6 +2293,54 @@
       "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
     },
     {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "Petty Pete",
+        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        }
+      ],
+      "duration_ms": 160248,
+      "name": "Petty Pete",
+      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
+    },
+    {
+      "added_at": "2026-05-08 06:11:38",
+      "album": {
+        "name": "Rest of Your Life",
+        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "Rest of Your Life",
+      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "bits + pieces",
+        "url": "https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 233824,
+      "name": "bits + pieces",
+      "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
+    },
+    {
       "added_at": "2026-04-17 06:06:32",
       "album": {
         "name": "July",
@@ -2329,20 +2361,20 @@
       "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
+      "added_at": "2025-05-02 04:00:39",
       "album": {
-        "name": "Petty Pete",
-        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
+        "name": "LVRS PARADISE (SIDE A)",
+        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
       },
       "artists": [
         {
-          "name": "Liim",
-          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 160248,
-      "name": "Petty Pete",
-      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
+      "duration_ms": 140104,
+      "name": "GET YA MONEY",
+      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
     },
     {
       "added_at": "2026-03-13 08:17:11",
@@ -2383,22 +2415,6 @@
       "duration_ms": 153145,
       "name": "SMOKIN POTNA",
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "bits + pieces",
-        "url": "https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 233824,
-      "name": "bits + pieces",
-      "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
     },
     {
       "added_at": "2025-04-11 05:53:52",
@@ -2449,22 +2465,6 @@
       "url": "https://open.spotify.com/track/5k24ea9NSxOL44OAW1UH69"
     },
     {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
-        "name": "LVRS PARADISE (SIDE A)",
-        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        }
-      ],
-      "duration_ms": 140104,
-      "name": "GET YA MONEY",
-      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
-    },
-    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "IMPALA",
@@ -2489,22 +2489,6 @@
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Srs Ice",
-      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
-    },
-    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "Closer Than Close",
@@ -2519,6 +2503,22 @@
       "duration_ms": 160727,
       "name": "Closer Than Close",
       "url": "https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
     },
     {
       "added_at": "2024-07-19 15:05:24",

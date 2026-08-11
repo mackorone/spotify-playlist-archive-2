@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,527,107 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527,279 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 69 | [Das Boot](https://open.spotify.com/track/0yMIs70Fr4pd8f4KV6jmHC) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Das Boot](https://open.spotify.com/album/5geE4R8hMSYwkmJiUAAgCW) | 5:14 |
 | 70 | [Leave It Behind](https://open.spotify.com/track/3QHfylquL6fwyhLqjOlW8E) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 3:42 |
 
-Snapshot ID: `AAAAABTmW4Q9fltoqgSfNYNrnRmzMdOh`
+Snapshot ID: `AAAAAGFCSTzZ2d8FilpbJecnmPgAuivG`

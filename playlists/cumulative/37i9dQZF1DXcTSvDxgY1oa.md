@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Säm Wilder
 
-372 songs - 20 hr 8 min
+374 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Bust a Move](https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7) | [STROOMSTOOT](https://open.spotify.com/artist/10UDvTwIuvIIZmDbyGxOCi) | [Bust a Move](https://open.spotify.com/album/24ksVM6aYcWH9xEHnqTHka) | 2:57 | 2025-05-07 | 2026-05-12 |
 | [CALL](https://open.spotify.com/track/1bsipxUMmK7w0qNC6isiVx) | [A Spiral Walk](https://open.spotify.com/artist/3lpNZTLYjKGqkq6wpSB8zm), [mayo](https://open.spotify.com/artist/2DJJyrhB4PVfAfDFYoVkkd), [CAH](https://open.spotify.com/artist/2usfHwRw9IwHk4PRPA142b) | [Summer of Insomnia](https://open.spotify.com/album/4SiL6c2ShzI1qKXzJKUALv) | 3:19 | 2026-05-11 | 2026-05-30 |
 | [CAPSAICINA](https://open.spotify.com/track/2eNEduHKEjdyD7uDhWGoa8) | [Eigen Risico](https://open.spotify.com/artist/11wm7DCgeKiysJPg0tpN2E) | [EIGEN RISICO 3](https://open.spotify.com/album/3elHSIIOjgCb8mYc3yZO65) | 3:12 | 2025-05-07 | 2026-05-12 |
-| [Cavalry’s coming \- Cavalerie Remix](https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW) | [Primaat](https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u), [Dracula’s Beach Party](https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1) | [RE: Hoe vind je zelf dat het gaat](https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc) | 4:25 | 2026-05-11 |  |
+| [Cavalry’s coming \- Cavalerie Remix](https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW) | [Primaat](https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u), [Dracula’s Beach Party](https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1) | [RE: Hoe vind je zelf dat het gaat](https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc) | 4:25 | 2026-05-11 | 2026-08-11 |
 | [Cemetery Caretaker](https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV) | [Mo Bedick](https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE) | [Whirligig](https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK) | 3:47 | 2024-07-01 | 2025-05-08 |
 | [chaos oasis](https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49) | [xico](https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE) | [paths of sand](https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ) | 5:03 | 2026-05-11 |  |
 | [Chasing The Wind \- Live At Wisseloord Studios](https://open.spotify.com/track/2BdkhNogmTSC1UUxO7VN0a) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ), [Bruno Balbi](https://open.spotify.com/artist/2Edxc92fberv14mI76DdXA) | [Chasing The Wind \(Live At Wisseloord Studios\)](https://open.spotify.com/album/71JCkAkP5XbURrUemowSTI) | 2:55 | 2024-09-16 | 2025-05-08 |
@@ -175,6 +175,7 @@
 | [Intersections](https://open.spotify.com/track/5WEv2OSz8KpUGB8eq3GKae) | [Oliv Oliv](https://open.spotify.com/artist/5OX3Xi9wtyOrUnUH42U4it) | [Intersections](https://open.spotify.com/album/3yxPNf2gYNLjw3iqaxC3HQ) | 6:38 | 2025-05-07 | 2025-09-05 |
 | [Into pieces](https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ) | [Imme](https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV) | [Into pieces](https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J) | 3:23 | 2026-05-11 |  |
 | [Into the Blue](https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s) | [Yan Lâle](https://open.spotify.com/artist/6xm0mtCIhOL5DaYnit5tVg) | [Into the Blue](https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs) | 5:01 | 2024-07-01 | 2025-05-08 |
+| [ireallylikeboys](https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [ireallylikeboys](https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF) | 2:29 | 2026-08-10 |  |
 | [Isaak's Marble](https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun) | [Heath](https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX) | [Isaak's Marble](https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte) | 10:01 | 2024-07-01 | 2025-05-08 |
 | [İkimiz Bir Fidanız](https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb) | [Duygu Alkan](https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP) | [İkimiz Bir Fidanız](https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5) | 3:14 | 2026-05-11 |  |
 | [Je Geeft Me Niets](https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y) | [Aarde aan Daan](https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf) | [Je Geeft Me Niets](https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE) | 2:33 | 2024-09-16 | 2025-05-08 |
@@ -265,6 +266,7 @@
 | [PICTURE PERFECT](https://open.spotify.com/track/1iBPVg9hGfRNuI6zlxPAnW) | [Trxnz](https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm) | [PICTURE PERFECT](https://open.spotify.com/album/6uwAmMJ4xRanLbu37BTkEO) | 3:10 | 2025-05-07 | 2026-05-12 |
 | [Pieces](https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Pieces](https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O) | 3:16 | 2024-07-01 | 2025-05-08 |
 | [Pinch Me](https://open.spotify.com/track/4zjg3PG8mgaerssPLkP83v) | [Zo Lief](https://open.spotify.com/artist/655lv153aeepabVfhjnGwq) | [Pinch Me](https://open.spotify.com/album/6sR6bqWgWtc5zdBzHqde0b) | 3:03 | 2024-09-16 | 2025-05-08 |
+| [Piranhas](https://open.spotify.com/track/5qyhH3izjZWS5z6O0yRXzL) | [Dracula’s Beach Party](https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1) | [Piranhas](https://open.spotify.com/album/5d4KlUar0raqvKzCQ3tE9N) | 5:55 | 2026-08-10 |  |
 | [Please you](https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf) | [Angelo Benson](https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs) | [Please you](https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18) | 4:02 | 2026-05-11 |  |
 | [Polder](https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4) | [CAH](https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr) | [CAH](https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu) | 3:48 | 2026-05-29 |  |
 | [PONCHO](https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC) | [PXRPLE JAZZ](https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ) | [EP1](https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ) | 2:25 | 2024-07-01 | 2025-05-08 |
@@ -357,7 +359,7 @@
 | [Waiting](https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK) | [Amelie Spinks](https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH) | [Warm Light](https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU) | 3:09 | 2026-05-11 |  |
 | [Waiting for You \- Edit](https://open.spotify.com/track/26qMH9vOtdcXcNywg1tpJ7) | [Elsa Birgitta Bekman](https://open.spotify.com/artist/64j66JxpzAf7c81xe1LgwY) | [Waiting for You](https://open.spotify.com/album/4qWy88xzbtgneQ3USXZWLh) | 3:56 | 2024-07-01 | 2025-05-08 |
 | [Wankel](https://open.spotify.com/track/5TtCPI6iJSczj3jNZX7RjI) | [Doe Gewoon](https://open.spotify.com/artist/3OgHfFp586DJhpvUYZU6xg) | [Wankel](https://open.spotify.com/album/3vxCoaf9AapjJNSqsYnXEG) | 2:37 | 2025-05-07 | 2025-10-01 |
-| [wannabe superstar](https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Wannabe Superstar](https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ) | 3:57 | 2026-05-11 |  |
+| [wannabe superstar](https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Wannabe Superstar](https://open.spotify.com/album/4N27FYKD6EN7wAGshIfFOZ) | 3:57 | 2026-05-11 | 2026-08-11 |
 | [WAS DIT ALLES?](https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO) | [GIB](https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h) | [WAS DIT ALLES?](https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn) | 2:12 | 2026-05-11 |  |
 | [Way Out](https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt) | [Wilson A.](https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2) | [Way Out](https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8) | 3:11 | 2026-05-11 |  |
 | [Way Too Deep](https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC) | [HALF CAB](https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34) | [Way Too Deep](https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV) | 2:37 | 2024-07-01 | 2025-05-08 |

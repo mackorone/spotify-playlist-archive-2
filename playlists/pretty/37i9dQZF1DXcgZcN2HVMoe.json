@@ -1,12 +1,12 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 419199,
+  "num_followers": 419315,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACxhIV/Gl3yJWONStqfT7K0RDJSr",
+  "snapshot_id": "AAAAAO7OA7OwnJ3eC2yQk3G7wMX5wNjs",
   "tracks": [
     {
       "added_at": "2026-05-22 15:00:53",
@@ -547,22 +547,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Dear August",
-        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
       "artists": [
         {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 200940,
-      "name": "Dear August",
-      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -583,6 +579,26 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "Dear August",
+        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 200940,
+      "name": "Dear August",
+      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 291791,
-      "name": "I Come With Mud",
-      "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Redemption (From the Apple Original Film \u201cPalmer\u201d)",
         "url": "https://open.spotify.com/album/2d9J4LzLm6h9eNIg8COFCB"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 298935,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/7sJIqdSLw7lvQUsX2NOxJB"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 291791,
+      "name": "I Come With Mud",
+      "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1227,18 +1227,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "I Know What I Want",
-        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
+        "name": "Turning Onto You (HNNY Remix)",
+        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        },
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 230260,
-      "name": "5 More Minutes",
-      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
+      "duration_ms": 210013,
+      "name": "Turning Onto You - HNNY Remix",
+      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Turning Onto You (HNNY Remix)",
-        "url": "https://open.spotify.com/album/3GJkWCJPr1egPYRDXaQcE2"
+        "name": "I Know What I Want",
+        "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        },
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Turning Onto You - HNNY Remix",
-      "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+      "duration_ms": 230260,
+      "name": "5 More Minutes",
+      "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 144901,
       "name": "Back on the Road",
       "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
+      },
+      "artists": [
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+        }
+      ],
+      "duration_ms": 262853,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Iridesce / Famous",
         "url": "https://open.spotify.com/album/5nioohlHYXy7BwGbX4hfpg"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 233760,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3qbToOWJKKc0HtruELjlE1"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
-      },
-      "artists": [
-        {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
-        }
-      ],
-      "duration_ms": 262853,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 220637,
       "name": "Bluebird - Acoustic",
       "url": "https://open.spotify.com/track/5kLMdUTCdzBSeN8EDlkbpn"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "To a T (Stripped)",
-        "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        }
-      ],
-      "duration_ms": 198385,
-      "name": "To a T - Stripped",
-      "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Queen of Silver Linings",
         "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 212964,
       "name": "Queen of Silver Linings",
       "url": "https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "To a T (Stripped)",
+        "url": "https://open.spotify.com/album/5Je7IFgOXGPdf9JzyxNflb"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "duration_ms": 198385,
+      "name": "To a T - Stripped",
+      "url": "https://open.spotify.com/track/6di48z6eF5dBYVpB0tZV5i"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "I Don't Want to Go",
-      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "TFDI",
         "url": "https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 306466,
       "name": "Pretty Things",
       "url": "https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "I Don't Want to Go",
+      "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 226957,
-      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Madelyn",
         "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
       },
@@ -2555,18 +2539,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/567rqOb89dfo0lvj72Esnp"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 315680,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
+      "duration_ms": 226957,
+      "name": "Rhythm Inside - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5YsocYoe3DGrh3EBJb5gTU"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2591,6 +2575,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Songs From The Ashes (PT. 1)",
         "url": "https://open.spotify.com/album/1k908gk3E5hoL8WjxuWAzP"
       },
@@ -2603,22 +2603,6 @@
       "duration_ms": 282802,
       "name": "Nobody Opened The Door",
       "url": "https://open.spotify.com/track/5Rqvufd0WgZaqpIu3IMJsk"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Atlanta",
-        "url": "https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Atlanta",
-      "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2655,6 +2639,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/3ARs99aFblzNPESMX3h1Y2"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Atlanta",
+      "url": "https://open.spotify.com/track/7rMrOfHyS4wKlkIZAa1AxT"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
       },
@@ -2687,22 +2687,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 200127,
-      "name": "The Open Road",
-      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw"
       },
@@ -2719,18 +2703,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
         }
       ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+      "duration_ms": 200127,
+      "name": "The Open Road",
+      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2747,6 +2731,22 @@
       "duration_ms": 270272,
       "name": "Living Breathing",
       "url": "https://open.spotify.com/track/1LrDEp7vTkzj1sbrhwGs0Q"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2895,6 +2895,26 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
+        "name": "Hold Space (Live Acoustic)",
+        "url": "https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5"
+      },
+      "artists": [
+        {
+          "name": "Kevin Paris",
+          "url": "https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd"
+        },
+        {
+          "name": "Casey Kalmenson",
+          "url": "https://open.spotify.com/artist/0k6NsmbguZ8OgZkJlgW1b8"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Hold Space - Live Acoustic",
+      "url": "https://open.spotify.com/track/3Eyis5vCi3NfeQktrFtSwU"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
         "name": "Love To Love You",
         "url": "https://open.spotify.com/album/3zQUpu75HI0zMSFB4g5mog"
       },
@@ -2927,22 +2947,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Hold Space (Live Acoustic)",
-        "url": "https://open.spotify.com/album/5WVojDixFdPVRiiGq976S5"
+        "name": "Bali",
+        "url": "https://open.spotify.com/album/4xP7076aGQHLA8hA8PZM3W"
       },
       "artists": [
         {
-          "name": "Kevin Paris",
-          "url": "https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd"
+          "name": "Charley Noda",
+          "url": "https://open.spotify.com/artist/0vH8VOuSRfwIjH3KqdbZmb"
         },
         {
-          "name": "Casey Kalmenson",
-          "url": "https://open.spotify.com/artist/0k6NsmbguZ8OgZkJlgW1b8"
+          "name": "Kevin Paris",
+          "url": "https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd"
         }
       ],
-      "duration_ms": 193432,
-      "name": "Hold Space - Live Acoustic",
-      "url": "https://open.spotify.com/track/3Eyis5vCi3NfeQktrFtSwU"
+      "duration_ms": 217500,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/7lAEGfjVzHAscI40AZy0EW"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2963,22 +2983,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Bali",
-        "url": "https://open.spotify.com/album/4xP7076aGQHLA8hA8PZM3W"
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
       "artists": [
         {
-          "name": "Charley Noda",
-          "url": "https://open.spotify.com/artist/0vH8VOuSRfwIjH3KqdbZmb"
-        },
-        {
-          "name": "Kevin Paris",
-          "url": "https://open.spotify.com/artist/5BlScQ5iWCzbxbcwhkeNLd"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/7lAEGfjVzHAscI40AZy0EW"
+      "duration_ms": 253575,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/62s52tM1aHavlhEi57R4ob"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3011,22 +3027,6 @@
       "duration_ms": 214919,
       "name": "Yours in the Morning",
       "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
-        "name": "Hen's Teeth",
-        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 253575,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/62s52tM1aHavlhEi57R4ob"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3079,22 +3079,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Shooting Star",
         "url": "https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1"
       },
@@ -3115,18 +3099,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Face The Feeling",
-        "url": "https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0"
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
       "artists": [
         {
-          "name": "Jobi Riccio",
-          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 256755,
-      "name": "A Little at a Time",
-      "url": "https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7"
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3147,18 +3131,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Golden Chain",
-        "url": "https://open.spotify.com/album/14PUEVnypcneI7OHA9yGly"
+        "name": "Face The Feeling",
+        "url": "https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Jobi Riccio",
+          "url": "https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO"
         }
       ],
-      "duration_ms": 169480,
-      "name": "Golden Chain",
-      "url": "https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz"
+      "duration_ms": 256755,
+      "name": "A Little at a Time",
+      "url": "https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3175,6 +3159,22 @@
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Golden Chain",
+        "url": "https://open.spotify.com/album/14PUEVnypcneI7OHA9yGly"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Golden Chain",
+      "url": "https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz"
     },
     {
       "added_at": "2026-05-22 15:00:53",

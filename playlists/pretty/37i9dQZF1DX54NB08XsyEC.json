@@ -1,12 +1,12 @@
 {
   "description": "pov: minhas favs / Foto: Ariana Grande",
-  "num_followers": 1063367,
+  "num_followers": 1063310,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHqTWQkj4JWylm1p3cnZnHu7TbG1",
+  "snapshot_id": "AAAAAF3eE1rfx4ZIXiMkEwgmWn1sv3al",
   "tracks": [
     {
       "added_at": "2026-08-07 12:20:44",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-08-07 12:20:44",
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
+    },
+    {
+      "added_at": "2026-08-07 12:20:44",
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
       },
@@ -559,22 +579,6 @@
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-08-07 12:20:44",
-      "album": {
-        "name": "Watch It Burn",
-        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Watch It Burn",
-      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
     },
     {
       "added_at": "2026-08-07 12:20:44",
@@ -599,6 +603,22 @@
     {
       "added_at": "2026-08-07 12:20:44",
       "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY"
+    },
+    {
+      "added_at": "2026-08-07 12:20:44",
+      "album": {
         "name": "Camera",
         "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
-    },
-    {
-      "added_at": "2026-08-07 12:20:44",
-      "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
     },
     {
       "added_at": "2026-08-07 12:20:44",
@@ -743,6 +743,26 @@
     {
       "added_at": "2026-08-07 12:20:44",
       "album": {
+        "name": "Talk To Me, Zara",
+        "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 193350,
+      "name": "Talk To Me, Zara",
+      "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
+    },
+    {
+      "added_at": "2026-08-07 12:20:44",
+      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
-    },
-    {
-      "added_at": "2026-08-07 12:20:44",
-      "album": {
-        "name": "Talk To Me, Zara",
-        "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 193350,
-      "name": "Talk To Me, Zara",
-      "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
     },
     {
       "added_at": "2026-08-07 12:20:44",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-08-07 12:20:44",
       "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
+      "added_at": "2026-08-07 12:20:44",
+      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 222512,
       "name": "bad enough",
       "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
-    },
-    {
-      "added_at": "2026-08-07 12:20:44",
-      "album": {
-        "name": "DIRTY BLONDE",
-        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
     },
     {
       "added_at": "2026-08-07 12:20:44",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-08-07 12:20:44",
       "album": {
+        "name": "DIRTY BLONDE",
+        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/3xG0S7f83zPliFIy5QTF5R"
+    },
+    {
+      "added_at": "2026-08-07 12:20:44",
+      "album": {
         "name": "KONNAKOL",
         "url": "https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG"
       },
@@ -935,38 +951,6 @@
       "duration_ms": 197159,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
-    },
-    {
-      "added_at": "2026-08-07 12:20:44",
-      "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
-    },
-    {
-      "added_at": "2026-08-07 12:20:44",
-      "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 155192,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
       "added_at": "2026-08-07 12:20:44",
@@ -999,6 +983,22 @@
       "duration_ms": 192520,
       "name": "Don\u2019t Leave Me on the Dance Floor",
       "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
+    {
+      "added_at": "2026-08-07 12:20:44",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
       "added_at": "2026-08-07 12:20:44",

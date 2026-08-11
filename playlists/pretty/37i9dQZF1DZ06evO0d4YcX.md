@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,573 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,578 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 35 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
 | 36 | [Thong Song](https://open.spotify.com/track/52dyJ3VDZFuvTKH95UGwa2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Thong Song](https://open.spotify.com/album/4CrHIfVovsebAWVsrLEtIt) | 3:31 |
 | 37 | [S P A C E](https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:25 |
-| 38 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 |
-| 39 | [Lovely Day](https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Lovely Day](https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy) | 3:00 |
+| 38 | [Lovely Day](https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Lovely Day](https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy) | 3:00 |
+| 39 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 |
 | 40 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
 | 41 | [Can You Hear Me?](https://open.spotify.com/track/7EylApIgCvOGodzaRV35Hy) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:49 |
 | 42 | [Most Men \- A COLORS SHOW](https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Most Men \- A COLORS SHOW](https://open.spotify.com/album/4Ll6gnAL7gDjnZM8tOEndi) | 4:13 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 46 | [Generous](https://open.spotify.com/track/6bgPMgXiSvSxRS6qKn9wK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Generous](https://open.spotify.com/album/0TCR8wB4v4fstHa3CJmZG4) | 2:44 |
 | 47 | [Out of Luck](https://open.spotify.com/track/5vwBdLidaM8UEE6Hcn7zu7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 3:50 |
 | 48 | [Trees On Fire \(ft\. Amber Mark and Marco McKinnis\)](https://open.spotify.com/track/5xoWa1jhbcg8i0Z2cRtphe) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Marco McKinnis](https://open.spotify.com/artist/2hnEiOVSXzO81ruLVH0KUR) | [Big Wave More Fire](https://open.spotify.com/album/30tc5b5AulEnOeyKTT9Cz3) | 3:46 |
-| 49 | [Regret](https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:23 |
-| 50 | [GODDESS REIGN](https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:29 |
+| 49 | [GODDESS REIGN](https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [MAKER'S DESIGN](https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl) | 3:29 |
+| 50 | [Regret](https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:23 |
 
-Snapshot ID: `anZxgAAAAAB8HUIEo6Bz/5rMTHq7B483`
+Snapshot ID: `anfDAAAAAABbOF/Idu2pk5q6M1x1YwGo`

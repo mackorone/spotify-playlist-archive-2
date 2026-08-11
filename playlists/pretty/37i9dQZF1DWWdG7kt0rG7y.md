@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdG7kt0rG7y.md) - [plain]
 
 > One dorm\. Zero boundaries\. Listen to the music from ROOMMATES.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,214 likes - 32 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,239 likes - 32 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdG7kt0rG7y.md) - [plain]
 | 31 | [Change](https://open.spotify.com/track/0bPiyfCmBIWqDDQZ6KqFXu) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:04 |
 | 32 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:25 |
 
-Snapshot ID: `AAAAAJb8VqJPRpwlC20RKQc2fnhZjgPi`
+Snapshot ID: `AAAAAAQUUuqV+3b3EIN2KXJbBVZ2THP5`

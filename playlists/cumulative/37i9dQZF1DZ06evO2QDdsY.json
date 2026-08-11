@@ -1753,6 +1753,28 @@
     },
     {
       "album": {
+        "name": "Tyrannosaur",
+        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199642,
+      "name": "Tyrannosaur",
+      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
+    },
+    {
+      "album": {
         "name": "Up and Rolling (feat. Son Little and Valerie June)",
         "url": "https://open.spotify.com/album/6YgBwPmvrWQYRd2QeoiXpq"
       },
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 201921,
       "name": "Up and Rolling (feat. Son Little and Valerie June)",
       "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"

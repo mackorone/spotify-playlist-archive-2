@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ayse Hatun Onal, Çodur, Ozan Bayraşa ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,327 likes - 122 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,315 likes - 122 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 121 | [No Way](https://open.spotify.com/track/0l5QsAtyXtWhyk7brfa6HT) | [MYSA](https://open.spotify.com/artist/1Yun7S5zf0cKPivhf1Tsw9), [Melis Yelman](https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv), [Lcyex](https://open.spotify.com/artist/4xXC7QOwFAuGLQ0Eq5VdC2) | [No Way](https://open.spotify.com/album/1fVP20gIhqvSjPJdkxnshI) | 3:38 |
 | 122 | [KuBa ÇiTa](https://open.spotify.com/track/0DpFaqfdDxJktAYmGmXFun) | [Eraxxl](https://open.spotify.com/artist/3TC87XrZgZoAlvzU5XmXDI), [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [vayti](https://open.spotify.com/artist/0fyQ33tn2XxAquioC4Fprb) | [KuBa ÇiTa](https://open.spotify.com/album/133uRDy30zbeDD9qdHFC3M) | 1:58 |
 
-Snapshot ID: `AAAAABxHSEhjsLe5la6Rl9L8VmM5XJTw`
+Snapshot ID: `AAAAAD4Vxto3nN+eBdcB1K8Yro+QG3Am`

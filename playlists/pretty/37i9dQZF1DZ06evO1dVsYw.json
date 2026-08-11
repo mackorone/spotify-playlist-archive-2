@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 569719,
+  "num_followers": 569701,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAV+D0R4DJbK0FO7D3SWFoY",
+  "snapshot_id": "anfDAAAAAACoGc1D+0I4y0aLTDy8aGS1",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raio X do Brasil",
-        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 521826,
-      "name": "Homem na Estrada",
-      "url": "https://open.spotify.com/track/10CaXTAohMFQeFWZGfnGyC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 268670,
       "name": "Alfa",
       "url": "https://open.spotify.com/track/3IOPkezP1RPFsjT67mg82m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raio X do Brasil",
+        "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 521826,
+      "name": "Homem na Estrada",
+      "url": "https://open.spotify.com/track/10CaXTAohMFQeFWZGfnGyC"
     },
     {
       "added_at": null,

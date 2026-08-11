@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,473 likes - 44 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,477 likes - 44 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 14 | [Signals \- Remastered 2005](https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 2:46 |
 | 15 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 | 16 | [The Plateaux Of Mirror \- Remastered 2004](https://open.spotify.com/track/75Q2oWlmhsTiM9KTbjyduU) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 4:13 |
-| 17 | [The Big Ship \- 2004 Remaster](https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:01 |
-| 18 | [Safety](https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:43 |
+| 17 | [Safety](https://open.spotify.com/track/3uaiTyek2p1XDe9xwIQBJz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:43 |
+| 18 | [The Big Ship \- 2004 Remaster](https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World \(2004 Remaster\)](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 3:01 |
 | 19 | [Spinning Away](https://open.spotify.com/track/1aMJTyCRfxfp8luej4rjAC) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Wrong Way Up \[Expanded Edition\]](https://open.spotify.com/album/0oHoEmlhtwdFFWFJIoLNy0) | 5:27 |
 | 20 | [1/2 \- Remastered 2004](https://open.spotify.com/track/5z1E46RvhI34TTM2FDMPrp) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 12:07 |
 | 21 | [First Light \- Remastered 2004](https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 2: The Plateaux Of Mirror \(Remastered 2004\)](https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO) | 7:06 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4C4Xm0.md) - [plain]
 | 43 | [Strange Overtones](https://open.spotify.com/track/3vnQlfyuXK4aW011bAhJru) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Everything That Happens Will Happen Today \(Deluxe\)](https://open.spotify.com/album/4MdYyQLYp5fO6zfigE8NHc) | 4:17 |
 | 44 | [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 |
 
-Snapshot ID: `anZxgAAAAACyQ3CqGnfuLG1ugSCvuHOg`
+Snapshot ID: `anfDAAAAAACbFtx0q0tHuldEOujthDoZ`

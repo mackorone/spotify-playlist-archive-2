@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Richard Desjardins, Hansom Ēli, Kanda Gang, Tayc, Gabriel Fredette, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,192 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,190 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 9 | [Colombienne](https://open.spotify.com/track/11xPicIl5wkV1yqDpoX95Y) | [Puff](https://open.spotify.com/artist/3yYXCHj6B01lmYob7LwyTt), [MOP](https://open.spotify.com/artist/4W4gQX46Dn3yTLdDLne8NW) | [Colombienne](https://open.spotify.com/album/3bWx1jWyGgGAUWtYffz6po) | 2:28 |
 | 10 | [CLAN PANNETON](https://open.spotify.com/track/3Cgbo1cb5uXh0M2ySDmIHL) | [JULIU$](https://open.spotify.com/artist/6ifeyY7Ovg6EJqCWUHabXQ) | [OPÉRATION BEURRE DE PINOTTES](https://open.spotify.com/album/20eDqWPiVCEiKLO7Zlgx4n) | 1:43 |
 | 11 | [Tout doux](https://open.spotify.com/track/1KBro5B3LOAq8uTAehhom9) | [Cadiem](https://open.spotify.com/artist/0SHjykYVymZu6OV343kgUe) | [Tout doux](https://open.spotify.com/album/6lg9KvoU3yRmmWcuc0DUE0) | 2:15 |
-| 12 | [Appelez les](https://open.spotify.com/track/25vC8lTjugRApvMG07MmCx) | [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP) | [Appelez les](https://open.spotify.com/album/6Woa7Hmr8FzDP0R6pHpVlu) | 2:42 |
+| 12 | [Appelez les](https://open.spotify.com/track/25vC8lTjugRApvMG07MmCx) | [Shapat](https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP), [La Diktatur](https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF) | [Appelez les](https://open.spotify.com/album/6Woa7Hmr8FzDP0R6pHpVlu) | 2:42 |
 | 13 | [Tôt ou tard](https://open.spotify.com/track/7vVJ0KgFvIYRH1Toz71vlg) | [Sam Bay](https://open.spotify.com/artist/45Ln6liMJ4RyydQYLs6vMW) | [Tôt ou tard](https://open.spotify.com/album/1UYn6vLy32Jh2Xpy7uE79a) | 3:18 |
 | 14 | [Médicament](https://open.spotify.com/track/26ZjT5eaDXrolcKiA8H7Xh) | [Julien Fleurent](https://open.spotify.com/artist/0RQkHRf7M9HFMokBN8HB0s) | [Médicament](https://open.spotify.com/album/1PxOtivc3wHL6xGuSkl3W0) | 2:52 |
 | 15 | [100 raccourcis](https://open.spotify.com/track/2GdXOgOOhT93Qo0KOzuiDn) | [Kanda Gang](https://open.spotify.com/artist/5uldUrftUMkvfwDGnJcPt5), [ANAÏS.](https://open.spotify.com/artist/3uURY4tPPgEwlTNZY4kfej), [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI), [ANJXLXE](https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [100 raccourcis](https://open.spotify.com/album/07DYc4867JdnBvTUwrLe6q) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 99 | [LATULIPE](https://open.spotify.com/track/0EzxlFAneJcxsn0xd8NP27) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [LATULIPE](https://open.spotify.com/album/0WjeFWuRugZE1OqLVXx8XV) | 2:58 |
 | 100 | [Compliqué](https://open.spotify.com/track/0wJLuYWM9kHFSMAxm0Igor) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Compliqué](https://open.spotify.com/album/13X5rlEMkvpm8Bdp0suojz) | 4:08 |
 
-Snapshot ID: `AAAAAJj5HvFjyErNDB25PJJsR4gKU2KF`
+Snapshot ID: `AAAAAA0lzhdzF2GlgFtWuCmb/GsNsIwU`

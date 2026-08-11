@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1954906,
+  "num_followers": 1954745,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALCfB+Lv0Xf5jVC11cgERNO+M0Mh",
+  "snapshot_id": "AAAAAJ3pE7bcxyVLKrHIatwmK+D9PVdI",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:14",
@@ -593,6 +593,22 @@
       "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
     },
     {
+      "added_at": "2026-08-03 22:34:11",
+      "album": {
+        "name": "All I Ever Wanted Was You",
+        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
+      },
+      "artists": [
+        {
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "All I Ever Wanted Was You",
+      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
+    },
+    {
       "added_at": "2026-07-24 04:02:14",
       "album": {
         "name": "Walking Through The Water",
@@ -607,26 +623,6 @@
       "duration_ms": 301376,
       "name": "Walking Through The Water",
       "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
-        "name": "Nosebleed",
-        "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        },
-        {
-          "name": "Lyla George",
-          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
-        }
-      ],
-      "duration_ms": 287999,
-      "name": "Nosebleed",
-      "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -659,6 +655,26 @@
       "duration_ms": 192160,
       "name": "Sorry Now",
       "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Nosebleed",
+        "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        },
+        {
+          "name": "Lyla George",
+          "url": "https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa"
+        }
+      ],
+      "duration_ms": 287999,
+      "name": "Nosebleed",
+      "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 213147,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 208746,
       "name": "Morning",
       "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 213147,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -803,22 +819,6 @@
       "duration_ms": 332533,
       "name": "Mount Airy Hill (Way Gone)",
       "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
-    },
-    {
-      "added_at": "2026-08-03 22:34:11",
-      "album": {
-        "name": "All I Ever Wanted Was You",
-        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
-      },
-      "artists": [
-        {
-          "name": "The Sways",
-          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "All I Ever Wanted Was You",
-      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Best of Our Possible Lives",
-        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
-      },
-      "artists": [
-        {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
-        }
-      ],
-      "duration_ms": 188988,
-      "name": "Best of Our Possible Lives",
-      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Back on the Road",
         "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 144901,
       "name": "Back on the Road",
       "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
         "name": "All the Ways",
         "url": "https://open.spotify.com/album/5KnKkghYRhhK3wfuNiLC6c"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 218747,
       "name": "All the Ways (feat. Ray LaMontagne)",
       "url": "https://open.spotify.com/track/5X7YV3w0f8wvbK58fupk0P"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Queen of Spades",
-        "url": "https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5"
-      },
-      "artists": [
-        {
-          "name": "Deloyd Elze",
-          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Queen of Spades",
-      "url": "https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "Bluebeard",
         "url": "https://open.spotify.com/album/0qUXv6HkmCb1gZ79WMDrZC"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 188468,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/4klb9Ro3gUeSHM2ndzw88v"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Queen of Spades",
+        "url": "https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Queen of Spades",
+      "url": "https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Book Cover",
-        "url": "https://open.spotify.com/album/487GKzw9ereaLcviRXxDZZ"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Book Cover",
-      "url": "https://open.spotify.com/track/18f64McwMz3Vqqsfk8Z6e0"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "World On The Ground",
         "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 239586,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Book Cover",
+        "url": "https://open.spotify.com/album/487GKzw9ereaLcviRXxDZZ"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Book Cover",
+      "url": "https://open.spotify.com/track/18f64McwMz3Vqqsfk8Z6e0"
     },
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-07-24 04:02:14",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar"
-      },
-      "artists": [
-        {
-          "name": "RYMAN",
-          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
-        }
-      ],
-      "duration_ms": 222585,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 163403,
       "name": "On Wrong Side (with Bon Iver)",
       "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:14",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/7H28isrokI8ORbf0tSV8ar"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "duration_ms": 222585,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/1wWIDdjh2pWRE3ECsVCklE"
     },
     {
       "added_at": "2026-07-24 04:02:14",

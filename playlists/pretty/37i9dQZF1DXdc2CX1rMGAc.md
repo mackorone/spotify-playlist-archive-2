@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,798 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,828 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 35 | [DOS DÍAS](https://open.spotify.com/track/5lKFO0PrOC9jmOlPEdjHsL) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:33 |
 | 36 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
 | 37 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 |
-| 38 | [Perlas Negras](https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:23 |
+| 38 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 39 | [Talento](https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [Talento](https://open.spotify.com/album/0OPj1ePYra9uwgebE6HHpU) | 2:30 |
-| 40 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
+| 40 | [Perlas Negras](https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 3:23 |
 | 41 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:42 |
 | 42 | [SOLEAO](https://open.spotify.com/track/4OsBqqMwFabHATATT527tH) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:38 |
 | 43 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 99 | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 |
 | 100 | [Still Luvin](https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Still Luvin](https://open.spotify.com/album/4IxPNOw15YdDYoe5yBUZit) | 4:06 |
 
-Snapshot ID: `AAAAAEH1yFj/UkslJLGU/ozIsY4B8n+n`
+Snapshot ID: `AAAAALV5pUpwiGL7lwrRTIQ5QD/gTzPW`

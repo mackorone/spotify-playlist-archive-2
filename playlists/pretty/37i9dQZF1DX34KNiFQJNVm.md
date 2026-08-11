@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem ContryBeat com Mari Fernandez, KAROL G, Grupo Benzadeus com Ivete Sangalo, Ed Motta, FLO e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307,435 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,172 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 85 | [Take It Slow](https://open.spotify.com/track/0sFvdZFeUvHbMHUELB80bN) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [Take It Slow](https://open.spotify.com/album/2A78Jtvyr62pDPZIt5FTdg) | 2:33 |
 | 86 | [Peculiar](https://open.spotify.com/track/4LvVY8MsroaMtcCpUSwEz1) | [Lua Dultra](https://open.spotify.com/artist/3PXrEr1gN3jwfi315YsKCU) | [Peculiar](https://open.spotify.com/album/4DMpwv6p5OZEDFCAmL7lFL) | 4:15 |
 
-Snapshot ID: `AAAAANZ8nmYT+Y9zS0fWmMQFeEbL01YJ`
+Snapshot ID: `AAAAAFRlmq8MIjh9QcP64Vn9lULWqAkO`

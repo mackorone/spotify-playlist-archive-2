@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Monkeys with Internet
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,991 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,003 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [Blue](https://open.spotify.com/track/1CIaLezlXbGQH53ywJRp4V) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Blue](https://open.spotify.com/album/5uQErs3CETeVzk5joQW1hA) | 3:50 |
 | 50 | [Won't Wait](https://open.spotify.com/track/7JHw2wKuRbJYuCSNHfmXFa) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Won't Wait](https://open.spotify.com/album/0Sq6v0yTUEzRpeD1xPbHPB) | 2:35 |
 
-Snapshot ID: `AAAAAGpuer287HteJW7sUrmbBNvZn46V`
+Snapshot ID: `AAAAAJREAl4ovzcibbaPQqrh1p6XVlLz`

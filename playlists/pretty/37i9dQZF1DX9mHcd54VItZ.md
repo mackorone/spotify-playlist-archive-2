@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Francois van Coke
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,196 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,200 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 19 | [Abafana](https://open.spotify.com/track/0BbzM5seFqOXV8xem4oM5i) | [FREDDY L](https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm) | [Abafana](https://open.spotify.com/album/0TBZZtMSzUEYwX5rDfzFrE) | 2:38 |
 | 20 | [Dagdronk](https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex) | [Vanfokkingtasties](https://open.spotify.com/artist/27JfNPJM3KuEAK7AWH6fHD), [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Vanfokkingtasties Akoesties](https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH) | 3:30 |
 | 21 | [Wishing On A Daydream](https://open.spotify.com/track/16JMEE1MP1bS93XHJ2TxoQ) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Wishing On A Daydream](https://open.spotify.com/album/0ae8AqNrIL5ZLVtnLjAjuN) | 2:43 |
-| 22 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
-| 23 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 22 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
+| 23 | [SELFBEWUS](https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SELFBEWUS](https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam) | 3:12 |
 | 24 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
 | 25 | [F all ur Friends](https://open.spotify.com/track/6g4J7sNnIOyH3aJaUoDbh4) | [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0), [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [F all ur Friends](https://open.spotify.com/album/0NlgEBjbq2HaTRe8QYVzfV) | 2:19 |
 | 26 | [Stadig](https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5), [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Stadig](https://open.spotify.com/album/7oAz7GXt9SduiB3xfKzFNy) | 3:27 |
 | 27 | [Delete You.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Delete You.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
 | 28 | [Vriende](https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Vriende](https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx) | 3:55 |
-| 29 | [GIZMO](https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt) | [Pussy Heaven](https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK) | [HYMN](https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf) | 3:04 |
+| 29 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 30 | [Those December Nights](https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Those December Nights](https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR) | 4:05 |
-| 31 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
+| 31 | [GIZMO](https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt) | [Pussy Heaven](https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK) | [HYMN](https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf) | 3:04 |
 | 32 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
 | 33 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
 | 34 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 49 | [Berge](https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Berge](https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE) | 4:15 |
 | 50 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 
-Snapshot ID: `AAAAAPMnk/BTZz4sk1tU9U7Glxa62mRv`
+Snapshot ID: `AAAAAKdJsn/JAjWloRj0+r/i8dTGHdaA`

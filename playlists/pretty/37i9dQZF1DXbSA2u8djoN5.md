@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Cabron
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,494 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,489 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 28 | [Arunca\-ma La Lei](https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl) | [Arunca\-ma La Lei](https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7) | 2:32 |
 | 29 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 |
 | 30 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
-| 31 | [FORME AI](https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PLAYBOY CITY \- THE ALBUM](https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt) | 2:26 |
-| 32 | [Poti Sa\-mi Iei Tot \- Doamna si Vagabondu](https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy) | [POLLY](https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Poti Sa\-mi Iei Tot \(Doamna si Vagabondu\)](https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B) | 3:13 |
+| 31 | [Poti Sa\-mi Iei Tot \- Doamna si Vagabondu](https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy) | [POLLY](https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Poti Sa\-mi Iei Tot \(Doamna si Vagabondu\)](https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B) | 3:13 |
+| 32 | [FORME AI](https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PLAYBOY CITY \- THE ALBUM](https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt) | 2:26 |
 | 33 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 |
 | 34 | [Tot Ce E Frumos](https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Tot Ce E Frumos](https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE) | 3:41 |
 | 35 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 47 | [Eu Beu / 3 Pahare](https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Eu Beu / 3 Pahare](https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB) | 3:20 |
 | 48 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
 | 49 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
-| 50 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
+| 50 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 
-Snapshot ID: `AAAAAPSE02K9BYiS/YtkhKMEZmU0DpWD`
+Snapshot ID: `AAAAAGOFx5FrS/EDQQHjLIsxTpt3P53z`

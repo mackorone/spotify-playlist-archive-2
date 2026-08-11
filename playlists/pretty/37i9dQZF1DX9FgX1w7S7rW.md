@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FgX1w7S7rW.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,060 likes - 15 songs - 38 min 19 sec
+[Spotify](https://open.spotify.com/user/spotify) - 250,619 likes - 15 songs - 38 min 19 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FgX1w7S7rW.md) - [plain]
 | 14 | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/track/5tw1Ob0E4iRY8pjvgFk7oU) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/album/4eXphk6GWepEqGb9HsE0sk) | 2:14 |
 | 15 | [Tonight I Might](https://open.spotify.com/track/2Ih0CPdyK7SwbTUUkpun16) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:36 |
 
-Snapshot ID: `AAAAAIt53iBHN1hw/kMeB5kJJcQEvBTv`
+Snapshot ID: `AAAAAP75Zh6NxZlMTT6JCgWdH57wOiPA`

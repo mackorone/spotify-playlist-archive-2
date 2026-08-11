@@ -1,12 +1,12 @@
 {
   "description": "Put a smile on your face with these happy tunes from the last 30 years. ",
-  "num_followers": 614705,
+  "num_followers": 614740,
   "original_name": "Happy Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALHuU7E0+2+meZ/+lIvT5GhoTdDl",
+  "snapshot_id": "AAAAAEYK0dvwNhdRGTrm1HrF2vLZ8NSr",
   "tracks": [
     {
       "added_at": "2024-07-15 19:33:58",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "The Time Of Our Lives (International Version)",
-        "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "G I R L",
         "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 233306,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "The Time Of Our Lives (International Version)",
+        "url": "https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Oh, What A Life",
         "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
       },
@@ -1119,6 +1103,38 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 247632,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 230192,
-      "name": "Marry You",
-      "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 256017,
-      "name": "Black or White",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 256017,
+      "name": "Black or White",
+      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
+        "name": "Backstreet's Back",
+        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 225360,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
         "name": "Sweet Talker (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 199386,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
-        "name": "Backstreet's Back",
-        "url": "https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 225360,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Battleground (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
-      },
-      "artists": [
-        {
-          "name": "The Wanted",
-          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
-        }
-      ],
-      "duration_ms": 197935,
-      "name": "Glad You Came",
-      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Battleground (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
+      },
+      "artists": [
+        {
+          "name": "The Wanted",
+          "url": "https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1"
+        }
+      ],
+      "duration_ms": 197935,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 200111,
-      "name": "Best Song Ever",
-      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
       },
@@ -1871,18 +1855,18 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+      "duration_ms": 200111,
+      "name": "Best Song Ever",
+      "url": "https://open.spotify.com/track/5T7ZFtCcOgkpjxcuaeZbw0"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -1899,6 +1883,22 @@
       "duration_ms": 220440,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
+        "name": "Communion (Deluxe)",
+        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
       },
@@ -2123,22 +2139,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Communion (Deluxe)",
-        "url": "https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Night Visions",
         "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
       },
@@ -2151,6 +2151,22 @@
       "duration_ms": 192280,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2171,22 +2187,6 @@
       "duration_ms": 214789,
       "name": "Don't Worry (with Ray Dalton) - Radio Edit",
       "url": "https://open.spotify.com/track/63CSozvYUEudPp12679UVF"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2283,26 +2283,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Rather Be (feat. Jess Glynne)",
         "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r"
       },
@@ -2319,6 +2299,26 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 212424,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
     },
     {
       "added_at": "2024-07-15 19:33:58",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-07-15 19:33:58",
       "album": {
-        "name": "Born This Way (International Special Edition Version)",
-        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
-    },
-    {
-      "added_at": "2024-07-15 19:33:58",
-      "album": {
         "name": "Symphony (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    },
+    {
+      "added_at": "2024-07-15 19:33:58",
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
     },
     {
       "added_at": "2024-07-15 19:33:58",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,997 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,003 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
-| 2 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
-| 3 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 |
+| 2 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 |
+| 3 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 4 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 |
 | 5 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
 | 6 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 27 | [Come and Get Your Love](https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Wovoka](https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a) | 5:00 |
 | 28 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 29 | [Love's a Stranger](https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Warhaus](https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3) | 3:26 |
-| 30 | [Maybe](https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:41 |
-| 31 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
+| 30 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
+| 31 | [Maybe](https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:41 |
 | 32 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 |
 | 33 | [A Real Hero](https://open.spotify.com/track/1aJrVsHwcQMZ8TZ6mlvT5J) | [College](https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6), [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [A Real Hero EP](https://open.spotify.com/album/1fpoZQUSFwlfSve4rkFjCI) | 4:27 |
 | 34 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 53 | [Vacances](https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Matahari](https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV) | 4:21 |
 | 54 | [Can't Help Myself](https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Can't Help Myself](https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA) | 2:18 |
 | 55 | [Somebody That I Used to Know](https://open.spotify.com/track/0kQavaJGqio24iCOHyM6aa) | [Freedom Dub](https://open.spotify.com/artist/4KWmY9RioiBzILyhpJjQ3J), [Angie](https://open.spotify.com/artist/7uGnvnboEMvBsBBGggqqC1) | [Chilling Effects](https://open.spotify.com/album/0M35TZUSnmX5Id5Vx5Y2GK) | 4:10 |
-| 56 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 |
+| 56 | [Till the End](https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Everything in Between](https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK) | 3:33 |
 | 57 | [Jardin d'hiver](https://open.spotify.com/track/5C3JV46f6w2HXNs1QPJ34q) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Jardin d'hiver](https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE) | 3:27 |
-| 58 | [Till the End](https://open.spotify.com/track/0TfF4m9Wt5h0a71mtpRbjW) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Everything in Between](https://open.spotify.com/album/0R3yHrPZWGb5QkDhZt5cCK) | 3:33 |
+| 58 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 |
 | 59 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 |
 | 60 | [Cry to Me](https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Junk](https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A) | 2:43 |
 | 61 | [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 78 | [Fool of Myself](https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Fool of Myself](https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ) | 3:24 |
 | 79 | [Dark Blue](https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Christina](https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V) | 2:49 |
 | 80 | [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 |
-| 81 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 |
-| 82 | [Masterpiece](https://open.spotify.com/track/51AbK2bzLTy7ekHeoSujA1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [All Back To: Jungle](https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1) | 5:44 |
+| 81 | [Masterpiece](https://open.spotify.com/track/51AbK2bzLTy7ekHeoSujA1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [All Back To: Jungle](https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1) | 5:44 |
+| 82 | [Hanoï café](https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Origami](https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA) | 3:14 |
 | 83 | [Superstar](https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [Superstar](https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt) | 3:18 |
 | 84 | [Fou de toi](https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Fou de toi](https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS) | 2:20 |
 | 85 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 99 | [young rich & beautiful](https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [young rich & beautiful](https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp) | 1:58 |
 | 100 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 |
 
-Snapshot ID: `AAAAAACmV4rp+OY57zkdYsdLfWkNZ/O1`
+Snapshot ID: `AAAAACQDk9ggM1oEZmtg8Vk/HudbcI5P`

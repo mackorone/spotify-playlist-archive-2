@@ -1,12 +1,12 @@
 {
   "description": "The hottest Anime hits of the 20s. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>\n",
-  "num_followers": 143532,
+  "num_followers": 143604,
   "original_name": "Anime Hits 20's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIkVPho0JqxfP2mstwSOnWkAZEg4",
+  "snapshot_id": "AAAAAF7Utq7h5viNjp6qAkEgMXKlV6hC",
   "tracks": [
     {
       "added_at": "2026-07-08 04:51:50",
@@ -659,18 +659,18 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
+        "name": "\u30af\u30b9\u30b7\u30ad",
+        "url": "https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd"
       },
       "artists": [
         {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 184898,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+      "duration_ms": 188348,
+      "name": "\u30af\u30b9\u30b7\u30ad",
+      "url": "https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O"
     },
     {
       "added_at": "2026-07-08 04:51:50",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
-        "name": "\u30af\u30b9\u30b7\u30ad",
-        "url": "https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd"
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 188348,
-      "name": "\u30af\u30b9\u30b7\u30ad",
-      "url": "https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O"
+      "duration_ms": 184898,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
       "added_at": "2026-07-08 04:51:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
-        "name": "You Can't Run From Me (from Cyberpunk: Edgerunners 2)",
-        "url": "https://open.spotify.com/album/5EU0MQCdOmuusiIICq7VEG"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 234265,
-      "name": "You Can't Run From Me (from Cyberpunk: Edgerunners Season 2)",
-      "url": "https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr"
-    },
-    {
-      "added_at": "2026-07-08 04:51:50",
-      "album": {
         "name": "\u602a\u7269",
         "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 180832,
       "name": "Plazma",
       "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
+    },
+    {
+      "added_at": "2026-07-08 04:51:50",
+      "album": {
+        "name": "You Can't Run From Me (from Cyberpunk: Edgerunners 2)",
+        "url": "https://open.spotify.com/album/5EU0MQCdOmuusiIICq7VEG"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 234265,
+      "name": "You Can't Run From Me (from Cyberpunk: Edgerunners Season 2)",
+      "url": "https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr"
     },
     {
       "added_at": "2026-07-08 04:51:50",

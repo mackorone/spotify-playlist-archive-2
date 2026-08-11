@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 
 > Les hits préférés des enfants \(et de leurs parents\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,473 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,488 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2jdUWwSgTho.md) - [plain]
 | 39 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 40 | [Soda Pop \- version française](https://open.spotify.com/track/24WEQrnHb2m6OKVdfhAp4T) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Doryan Ben](https://open.spotify.com/artist/7cYc1TBfW5cB9ZQ5ciW7Yq), [Thomas Bernier](https://open.spotify.com/artist/6SiHkRHKFGILL7tyLNYRsY), [Guillaume Beaujolais](https://open.spotify.com/artist/1LoQUk8Xi2lVQyk7j4CzcA), [Loaï Rahman](https://open.spotify.com/artist/7qp9X0a1Cfw4SmJlD88uaG), [Bastien Jacquemart](https://open.spotify.com/artist/43a1uyu0fNQFun2MT56hkX), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [Soda Pop \(from the Netflix film KPop Demon Hunters\)](https://open.spotify.com/album/2UghdVFMf8TvVl55Bxho1w) | 2:29 |
 
-Snapshot ID: `AAAAAEbZD6rwbUdAf5kRiM0e4lKk7Sr0`
+Snapshot ID: `AAAAANXtfJslnT6vl4mEXQ9r0fxVr/5J`

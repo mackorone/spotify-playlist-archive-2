@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: T. Danny, RZMVS",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: KKevin, Bruno X Spacc, VINI",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -3299,6 +3299,32 @@
     },
     {
       "album": {
+        "name": "PRNSTR",
+        "url": "https://open.spotify.com/album/6mVHjJjZzgeoU738rjGayb"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "PRNSTR",
+      "url": "https://open.spotify.com/track/2W4kPpKMD433pAW7rs4Bwu"
+    },
+    {
+      "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
       },
@@ -4812,7 +4838,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Susanne Sundfør
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,475 likes - 330 songs - 18 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,489 likes - 330 songs - 18 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 329 | [Halfway Gone](https://open.spotify.com/track/1rfX0CC3vDK6K5SgVmAZYx) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Halfway Gone](https://open.spotify.com/album/5ciWbAgjpNqsG3COHjBjxo) | 4:06 |
 | 330 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 |
 
-Snapshot ID: `AAAAABBlJyiksFwNED245/3jGstmM+2Q`
+Snapshot ID: `AAAAAH0CSr6WKx7BlN163bPp6QlpXnDg`

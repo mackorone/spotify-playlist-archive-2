@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,610 songs - 10 day 7 hr 49 min
+4,616 songs - 10 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-07-19 |  |
 | [Beast](https://open.spotify.com/track/5XhSIUgEOmgV2x7KCCiOvL) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 3:29 | 2025-12-04 |  |
 | [Beater](https://open.spotify.com/track/4JRbph5ENF0fPkrMd9jioO) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 1:14 | 2025-12-04 |  |
+| [Beautiful Anyway](https://open.spotify.com/track/7v8UIM62f5EZkE0ufwA89n) | [ExistentialRiffs](https://open.spotify.com/artist/4L0s0xTQ6F0GebW27GW1TJ) | [Beautiful Anyway](https://open.spotify.com/album/3zbQAIhVBRo2I2rZczo4yb) | 3:55 | 2026-08-10 |  |
 | [Beauty Marks](https://open.spotify.com/track/5OGnldL9W0Kl5hoMMkZhCa) | [Pon Far](https://open.spotify.com/artist/0Qppibd1zTEQrT6zlUtmcr) | [Beauty Marks](https://open.spotify.com/album/01EUfHm6GFMiGmO1Hi6S7n) | 2:45 | 2025-05-20 |  |
 | [Beckham](https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Kai Swervo](https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2), [KJ Swervo](https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Beckham](https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw) | 2:04 | 2025-07-28 |  |
 | [Beer with You](https://open.spotify.com/track/0G7ij8XpFj1Mo9u4Gz8T5D) | [Forever 27](https://open.spotify.com/artist/7uMfQbg1dpy5yaMnsEHwDx) | [Beer with You](https://open.spotify.com/album/1Rt2TmxgjOomMhJhcdXkj7) | 3:45 | 2025-09-29 |  |
@@ -1217,6 +1218,7 @@
 | [Echoes of the Abyss 2 \(another\)](https://open.spotify.com/track/6fKWsxOMwDQ4DuW8FHroLW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Epic rock music](https://open.spotify.com/album/79c248en6LDJwweGZK1sn5) | 3:49 | 2025-09-14 |  |
 | [Echoes of the Heart](https://open.spotify.com/track/7k7p6ersiaCn6RCDU4fGEk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 3:12 | 2025-09-19 |  |
 | [Echoes of the Heart \(another\)](https://open.spotify.com/track/3e78Qw010HxBoNVq0oTtyx) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 2:44 | 2025-09-19 |  |
+| [Echoes of the Highland Wind](https://open.spotify.com/track/2IHbuudA1hWxgqVBHoxEEl) | [JeeJayMusic](https://open.spotify.com/artist/35N4chE84DQB88OCPr9PXB) | [Echoes of the Highland Wind](https://open.spotify.com/album/4pJ476DT11KfIVinwPnDA1) | 4:28 | 2026-08-10 |  |
 | [Echoes of the Sky](https://open.spotify.com/track/6jLrorawyhGS9b5LFGna3l) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New age pop enjoy and relax](https://open.spotify.com/album/58FDba6X3tB92863zyLw1t) | 5:12 | 2025-09-13 |  |
 | [Echoes of the Sky \(another\)](https://open.spotify.com/track/2MMOYhRd6R0QVFNjDCz5RW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New age pop enjoy and relax](https://open.spotify.com/album/58FDba6X3tB92863zyLw1t) | 4:55 | 2025-09-13 |  |
 | [Echoes of the World](https://open.spotify.com/track/1C7QIZKE8T1oGlK7YbKMpV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Global Pop](https://open.spotify.com/album/41FF16R60bSZndmCsaB0jA) | 3:00 | 2025-09-18 |  |
@@ -2084,6 +2086,7 @@
 | [its only time \- 2023 Remastered Version](https://open.spotify.com/track/6kXRQNQtRR7Uqjs0N7DJI5) | [yogyety](https://open.spotify.com/artist/7FBPTQ69WVgYB0T9PbhO4z) | [found the lost sound \(2023 Remastered Version\)](https://open.spotify.com/album/3IMW0NXkqYoSy2UHOYy0Ta) | 4:38 | 2026-02-01 |  |
 | [Izalco](https://open.spotify.com/track/3ck21HgTpcoKfh6ryogSHD) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Izalco](https://open.spotify.com/album/0iufKnWIpESH1qofkeZ5Zb) | 4:35 | 2026-08-04 |  |
 | [İki Kalp](https://open.spotify.com/track/0DUukZhlATPQ4AxA5NGDbm) | [Kavanoz](https://open.spotify.com/artist/1kQLL2HLwXJfeQtmmCsxJQ) | [İki Kalp](https://open.spotify.com/album/0sD6t5iydCDwojFKJIuYVY) | 4:21 | 2026-07-06 |  |
+| [İster Misin](https://open.spotify.com/track/5znnHQBD33vFf8D588ZMD5) | [Ozan Uyan](https://open.spotify.com/artist/1jN6S75KOloD9lfXwTGKaq) | [İster Misin](https://open.spotify.com/album/4ZGYTry0nsZI3YA2ondqvN) | 5:36 | 2026-08-10 |  |
 | [I’m a weirdo](https://open.spotify.com/track/0fVd4sOBk7H7reZgH7NNpY) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [I’m a weirdo](https://open.spotify.com/album/5ZpGS7wY5tYvHVF2e304MJ) | 4:55 | 2025-12-15 |  |
 | [J Love](https://open.spotify.com/track/4lt94VXCQxaRureDYrXIac) | [2dipicche](https://open.spotify.com/artist/3tT2cUXPIsX2EEpbA783Js), [XXIII](https://open.spotify.com/artist/5MwBCwneq4hlNDaABQeO0i) | [J Love](https://open.spotify.com/album/5Diffw2WYL7jXVmi9J2Rqv) | 2:58 | 2025-02-05 |  |
 | [J'en rêve](https://open.spotify.com/track/67aSPgr0hlu0WpsgC9E9ou) | [Roshi](https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry) | [SOMOTRO](https://open.spotify.com/album/3nV0MZQOMZgTFnYo16TYbE) | 3:15 | 2025-06-23 |  |
@@ -2337,6 +2340,7 @@
 | [Loadstone transition](https://open.spotify.com/track/6PoAGtOPSxO8p6orYzOLgI) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [the sound of soul](https://open.spotify.com/album/2JNmt7ENmosgHWTgLNuSpn) | 1:10 | 2026-02-01 |  |
 | [LOADSTONE TRANSITION](https://open.spotify.com/track/6W5rAb8fC2PxpANGbim7fQ) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE TRANSITION](https://open.spotify.com/album/6JpYinGaOJMRNY5NdRRTfa) | 1:10 | 2026-02-01 |  |
 | [Locker](https://open.spotify.com/track/6yiOOctq7yxDTXqgY4wFQz) | [iivrson](https://open.spotify.com/artist/7jsiVHCNUT0PsO9fIskEXC) | [534RCH](https://open.spotify.com/album/0nZVVuTqGDbBnhBdLI8mJn) | 1:57 | 2025-06-23 |  |
+| [LOCO POR TI](https://open.spotify.com/track/3INdEiSFHpYLyiAt4asSVB) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [RINCONCITO AZUL](https://open.spotify.com/album/5H57RQfWsdZcdpD9YVYCJc) | 5:16 | 2026-08-10 |  |
 | [Logtre](https://open.spotify.com/track/2HJJZRMRZGvH6BNPwmBs4B) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:14 | 2025-09-17 |  |
 | [Lonely](https://open.spotify.com/track/74trk2SOMMZDHRdyKiJTSK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [American Pop Blues](https://open.spotify.com/album/1jO4P3dNnDAqdLsZrs1XWM) | 3:06 | 2025-09-19 |  |
 | [Lonely](https://open.spotify.com/track/6RGqAleVgelZt475BOCJf9) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Lonely](https://open.spotify.com/album/7jX0JWcBzxQMrLZY9g4UXt) | 3:13 | 2025-06-04 |  |
@@ -2362,6 +2366,7 @@
 | [Lorraine](https://open.spotify.com/track/2SgsH5kqwcLJZF2UFaxPzu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 1:53 | 2025-11-05 |  |
 | [Los sueños](https://open.spotify.com/track/5jxupTeXqVCshsgtOWh0xr) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:10 | 2026-03-15 |  |
 | [Lost](https://open.spotify.com/track/1E76p7PxlTz1CH4cnL6ixq) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [The Voight\-Kampff Test](https://open.spotify.com/album/6DqOPQwdjFqVa1b8Iut0fy) | 4:09 | 2025-04-30 |  |
+| [Lost and Found](https://open.spotify.com/track/3qmTYEoQo7IwEsajEfFxfn) | [Cane Rouge](https://open.spotify.com/artist/1uiVgmOdSFSlgDfbJx1rJw) | [Lost and Found](https://open.spotify.com/album/1YRH642XRDebs2vrnsxw4k) | 3:30 | 2026-08-10 |  |
 | [Lost Control](https://open.spotify.com/track/3D5ZfB279M2mHYo06nMxLL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:24 | 2025-09-20 |  |
 | [Lost in the Beat](https://open.spotify.com/track/10X5znOe6wWvonC1UGiFrK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn the Night](https://open.spotify.com/album/4Fr9ospcNo6Ml3HCQpQpa1) | 2:40 | 2025-09-12 |  |
 | [Lost in the Beat](https://open.spotify.com/track/2wymtJo9VYxL40gvszcqZc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 2:45 | 2025-05-27 |  |
@@ -4163,6 +4168,7 @@
 | [Tu Hai Toh](https://open.spotify.com/track/3BjYRmww0BVPv28wfGkWJv) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1c0jWhoRT6biZMrqxUYx4g) | 4:11 | 2026-06-19 |  |
 | [Tu Hai Toh \- Reprise Version](https://open.spotify.com/track/6CwgYQDfDldZem7oXS0lmL) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1y8LBxZd0BOyQvqixXMQ7h) | 4:21 | 2026-07-08 |  |
 | [Tu mirada en mi espalda](https://open.spotify.com/track/1F4SNolb3rli87xEgepCtM) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Flores de Loto](https://open.spotify.com/album/6K4mDXoXfAGkWmestJpVSm) | 3:32 | 2025-06-16 |  |
+| [Tu No Estás Aquí](https://open.spotify.com/track/1EHHy2AEjNDIDwt1Bf6EDL) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Tu No Estás Aquí](https://open.spotify.com/album/37Ws9WLi21IYOivuLq13Tb) | 3:33 | 2026-08-10 |  |
 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 | 2026-03-25 |  |
 | [Tu+paranoie](https://open.spotify.com/track/73izB0Q1kmrRZwCBG2pNhL) | [Resma](https://open.spotify.com/artist/1gWkVUP7obAEzU2RPvbuKx) | [Tu+paranoie](https://open.spotify.com/album/2omvBWBuI6I87nQiFzIQVi) | 3:10 | 2025-07-05 |  |
 | [Tuko Pamoja](https://open.spotify.com/track/4Gw3DF7RiAPUT9Cm4s9Lt4) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:57 | 2026-05-21 |  |

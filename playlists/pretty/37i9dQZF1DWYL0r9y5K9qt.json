@@ -1,12 +1,12 @@
 {
   "description": "time to strike a couple of poses. cover: i-dle",
-  "num_followers": 626075,
+  "num_followers": 626038,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAALivJ7JfYoJ4OT/ma6SwemmHjj6",
+  "snapshot_id": "AAAAAJ0X9DJ2ouYVrtqKQzoYJ2WhPkyo",
   "tracks": [
     {
       "added_at": "2026-07-16 15:00:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-16 15:00:40",
       "album": {
-        "name": "So Cute",
-        "url": "https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "So Cute",
-      "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
-    },
-    {
-      "added_at": "2026-07-16 15:00:40",
-      "album": {
         "name": "Bubee",
         "url": "https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 182448,
       "name": "Bubee",
       "url": "https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c"
+    },
+    {
+      "added_at": "2026-07-16 15:00:40",
+      "album": {
+        "name": "So Cute",
+        "url": "https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "So Cute",
+      "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
     },
     {
       "added_at": "2026-07-16 15:00:40",

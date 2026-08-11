@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,622 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,625 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 36 | [Soul Clappin'](https://open.spotify.com/track/5BL5MdCvMGykfaxPFtycG9) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:37 |
 | 37 | [I Cannot Make It](https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:18 |
 | 38 | [Can't Strain My Brain](https://open.spotify.com/track/0T94lawCOoZ99cXGApnp2O) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 4:08 |
-| 39 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
+| 39 | [Into My Own Thing](https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:13 |
 | 40 | [I Ain't Got Nobody \(For Real\)](https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 4:25 |
 | 41 | [If This Room Could Talk](https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:10 |
 | 42 | [Say You Will](https://open.spotify.com/track/1l9EHaWsZ2LSiULI97ymRB) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Small Talk](https://open.spotify.com/album/1KJAI0W9nvK2insqlsKacw) | 3:18 |
-| 43 | [Into My Own Thing](https://open.spotify.com/track/1jKFBuegXD4DPc7Gd8HhJm) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Life](https://open.spotify.com/album/2fWTszgtsvzlCwCdb3Tpru) | 2:13 |
+| 43 | [If It's Not Addin' Up](https://open.spotify.com/track/2NB532dM3UPhcNibc0qW3Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Back On The Right Track](https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN) | 2:43 |
 | 44 | [Color Me True](https://open.spotify.com/track/7e3gIQQIuGnVUUcGUOJNgM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:08 |
 | 45 | [Advice](https://open.spotify.com/track/5bwmCTaOgGZ24HSlBksFWc) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 2:20 |
 | 46 | [That's Pretty Clean \- Instrumental](https://open.spotify.com/track/6vjrerhomI6csr34YQkzTp) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's A Riot Goin' On \(Expanded Edition\)](https://open.spotify.com/album/0ihYToxMgYcuHuxOKjGQKO) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39ni9i.md) - [plain]
 | 49 | [Skate Now \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/5kVhCcyzMDfDK186S4ZUAM) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 4:27 |
 | 50 | [Medley: Higher/Music Lover \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/59O8UshhepLHj0d8eSJdKU) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Sly & The Family Stone: The Woodstock Experience](https://open.spotify.com/album/39wxaeY2oFX5TcQcOqLkSV) | 7:50 |
 
-Snapshot ID: `anZxgAAAAADNpyts8J1ktnL8VbcF08uT`
+Snapshot ID: `anfDAAAAAAC2J4o+clbV+nx8o+HwLKOa`

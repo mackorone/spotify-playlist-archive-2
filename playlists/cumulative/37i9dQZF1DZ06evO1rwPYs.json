@@ -1347,6 +1347,32 @@
     },
     {
       "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478173,
+      "name": "Enc\u00e1ntigo",
+      "url": "https://open.spotify.com/track/1LNJ3Ne0gSkGGhkjYMtTN3"
+    },
+    {
+      "album": {
         "name": "Serenata Guajira",
         "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
       },
@@ -1376,7 +1402,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 151115,
       "name": "Esperar\u00e9 - Remastered 2025",
       "url": "https://open.spotify.com/track/31ENOVq4bqIsnhZ2CaroBe"
@@ -1670,7 +1696,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 433816,
       "name": "La Dicha M\u00eda - En Vivo",
       "url": "https://open.spotify.com/track/7zEFe9zIxXmIVkWBqi5kII"
@@ -2398,7 +2424,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 272251,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr"

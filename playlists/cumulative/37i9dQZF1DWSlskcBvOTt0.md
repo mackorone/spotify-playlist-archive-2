@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,172 songs - 3 day 23 hr 5 min
+1,173 songs - 3 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -982,7 +982,7 @@
 | [Sweet Boy](https://open.spotify.com/track/1SB3vBA3V37paKqQ4BfLVn) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Sweet Boy](https://open.spotify.com/album/6B53fE8uMvCNbRTzD86ACl) | 3:37 | 2025-09-19 | 2025-12-08 |
 | [Swim](https://open.spotify.com/track/1cBmC6LH5SAcNo4fEUH0sZ) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Swim / Surrounded](https://open.spotify.com/album/2dTHKAcKGZIvkrA17lwSMB) | 4:09 | 2025-10-17 | 2025-11-16 |
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
-| [Sympathy For The Devil](https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Sympathy For The Devil](https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1) | 3:39 | 2026-04-17 |  |
+| [Sympathy For The Devil](https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Sympathy For The Devil](https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1) | 3:39 | 2026-04-17 | 2026-08-11 |
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |
 | [Synthwave](https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Feathers & Bones](https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN) | 5:43 | 2023-06-02 | 2023-07-16 |
@@ -1157,6 +1157,7 @@
 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-05 | 2025-08-23 |
 | [Yara](https://open.spotify.com/track/0ahreZE7HlAcG4UguRmjnV) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Yara](https://open.spotify.com/album/4iipxXHRMIQbDZj2RBPRaF) | 3:32 | 2024-06-14 | 2025-03-01 |
 | [YAWA \(Man On A Mission\)](https://open.spotify.com/track/0D6UC4OFsNmrrC0LjVxSs0) | [Édel](https://open.spotify.com/artist/71FZZiU3aazM8r1Bm1NkCu), [Zani \(BR\)](https://open.spotify.com/artist/3fbmi6cCWN51a18gaMIKAW) | [YAWA \(Man On A Mission\)](https://open.spotify.com/album/2SsOg3Zq94tH970LaDjah5) | 3:45 | 2024-10-25 | 2025-05-02 |
+| [YELE](https://open.spotify.com/track/1J8bQco6ywLX4RcstnqZEx) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [YELE](https://open.spotify.com/album/6YAcuaZ4lkpoqnDAeBmWZ8) | 3:50 | 2026-08-07 |  |
 | [Yesterday Lovers](https://open.spotify.com/track/01bh3fz0TFPA1Onsfj4nA4) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yesterday Lovers EP](https://open.spotify.com/album/1ag11nTE38FpiVbTFo1uMD) | 6:35 | 2023-08-18 | 2023-10-08 |
 | [Yira Yirar](https://open.spotify.com/track/6cUqwmaSHB6bzwAd3TNF2a) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU) | [Marco Tegui / Raw Main](https://open.spotify.com/album/5dV8KbeFNzZcncF57GBEPA) | 6:39 | 2021-04-21 | 2022-12-28 |
 | [Yivule](https://open.spotify.com/track/783s9jQYL85ipURwgyIB6I) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33) | [Yivule](https://open.spotify.com/album/4WIXgb6CLvatYcU3sO1AFG) | 3:46 | 2026-04-24 |  |

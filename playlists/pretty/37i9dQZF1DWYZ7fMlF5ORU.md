@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,205 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,224 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 10 | [Deus Está No Controle](https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 2:52 |
 | 11 | [Crente Que Ora \- Ao Vivo](https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:40 |
 | 12 | [Tudo Posso](https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Lucas Augusto](https://open.spotify.com/artist/7LSUgNEsBUVmqHBXeQQ2VR) | [Tudo Posso](https://open.spotify.com/album/1Oi6eKip9Y6Y3I3fBk9TeJ) | 6:37 |
-| 13 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
-| 14 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
+| 13 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
+| 14 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
 | 15 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
 | 16 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
 | 17 | [Fará Outra Vez](https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [One Vision](https://open.spotify.com/album/0u8WfstKJXWp0IZQ5NIy1o) | 4:17 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 37 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0) | 3:40 |
 | 38 | [Medley: Dom Supremo](https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu) | [Por Amor a Ti](https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx) | 2:43 |
 | 39 | [Tua Vontade \- Ao Vivo](https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7) | [PV Dantas](https://open.spotify.com/artist/4lYB1E5Ad1KMZDLL2G8y5Z), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Tua Vontade \(Ao Vivo\)](https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz) | 3:27 |
-| 40 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
-| 41 | [Escolhi](https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Escolhi](https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4) | 5:01 |
+| 40 | [Escolhi](https://open.spotify.com/track/2xgQfX3ZQah3fzQCMWkNR0) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Escolhi](https://open.spotify.com/album/77XH04CbZiCwKrhtbMoHa4) | 5:01 |
+| 41 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l) | 5:31 |
 | 42 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 |
 | 43 | [Estado de Graça](https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T) | [Você Adora](https://open.spotify.com/artist/7m6yvEmFPZXBq3NYNxHuZA), [Gleydson Leandro](https://open.spotify.com/artist/6BMlzwDmaPryHa4Wjmv6V6), [Clovis Pinho](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Adora](https://open.spotify.com/album/3zOL6RLsb5VLKvddXa1xN9) | 3:39 |
 | 44 | [Profeta](https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Fortaleza Minha](https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC) | 4:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 80 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |
 
-Snapshot ID: `AAAAAH8N6IhNsv4zImOGSztGeE2o1bFx`
+Snapshot ID: `AAAAAMu4gdXcoCKrmTwVo7XvmP3dipgp`

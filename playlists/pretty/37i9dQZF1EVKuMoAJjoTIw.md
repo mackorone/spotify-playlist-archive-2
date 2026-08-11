@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIVVqYYNA6ypy>John Legend</a>, <a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a>, <a href=spotify:playlist:37i9dQZF1EIV630wDjArgt>P!nk</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIX11fykfK86c>R.E.M.</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIWgyOG2kVVJa>Snow Patrol</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
-| 2 | [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 |
-| 3 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
+| 1 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
+| 2 | [Take Me To Church](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:01 |
+| 3 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
 | 4 | [Life is Beautiful](https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:27 |
 | 5 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 6 | [If You Want Love](https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:19 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 43 | [7 Years \(Remix\)](https://open.spotify.com/track/1kFlDnWmBTvCBxxeGDpIdp) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [7 Years \(Remix\)](https://open.spotify.com/album/1UR8sxJvEYKJRmKWBaHh67) | 2:14 |
 | 44 | [Pensando en Ti](https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Vida](https://open.spotify.com/album/3C7BcxFvWDqoso5Z2mNTim) | 4:04 |
 | 45 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 |
-| 46 | [mental health.](https://open.spotify.com/track/1wrWCi6F7S9ky8bvwgmCD8) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [tylerhateslife](https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC) | 2:27 |
-| 47 | [Lost](https://open.spotify.com/track/5fX1B90cPSFyyjORcHW8aC) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Lost](https://open.spotify.com/album/1HU8wilK9weNitbp7Pfesw) | 2:59 |
+| 46 | [Lost](https://open.spotify.com/track/5fX1B90cPSFyyjORcHW8aC) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Lost](https://open.spotify.com/album/1HU8wilK9weNitbp7Pfesw) | 2:59 |
+| 47 | [mental health.](https://open.spotify.com/track/1wrWCi6F7S9ky8bvwgmCD8) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm) | [tylerhateslife](https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC) | 2:27 |
 | 48 | [IL GIOCO DEL SILENZIO](https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:56 |
 | 49 | [STUPIDO](https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:07 |
 | 50 | [Love Is a Drug](https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [Thbk.](https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo) | 1:40 |
 
-Snapshot ID: `AAAAAMpjAtkhQWQI7UGdkibxaT8/YeSl`
+Snapshot ID: `AAAAAPxk1fon4sDLk337FQx+mmJVtjCU`

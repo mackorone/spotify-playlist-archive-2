@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Hansom Ēli
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,149 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,222 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,21 +54,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 44 | [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 |
 | 45 | [Tarot](https://open.spotify.com/track/1PNaCwrKIBqjaK5FR2NnUJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Rose Perron](https://open.spotify.com/artist/6arQDOSIlfPHcQntq07PwB) | [Soleil mâché \(Deluxe\)](https://open.spotify.com/album/7IGfOCio5mpupVMo6isDVp) | 4:08 |
 | 46 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 |
-| 47 | [Excuse\-moi](https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA) | [Lilou Morin](https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM) | [Excuse\-moi](https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG) | 3:17 |
+| 47 | [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 |
 | 48 | [Cimetière](https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 3:33 |
-| 49 | [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 |
+| 49 | [Comme un bébé](https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:09 |
 | 50 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
-| 51 | [Todas mis amigas](https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Todas mis amigas](https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s) | 3:48 |
-| 52 | [Comme un bébé](https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:09 |
+| 51 | [Excuse\-moi](https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA) | [Lilou Morin](https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM) | [Excuse\-moi](https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG) | 3:17 |
+| 52 | [Todas mis amigas](https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Todas mis amigas](https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s) | 3:48 |
 | 53 | [Courtside](https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Courtside](https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq) | 3:02 |
 | 54 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
 | 55 | [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 |
 | 56 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 |
 | 57 | [Tout c’qui faut](https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Westfalia](https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl) | 1:57 |
 | 58 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 |
-| 59 | [Les serpents dans l'eau](https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu) | [cécile](https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH) | [Les serpents dans l'eau](https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge) | 3:37 |
+| 59 | [Tangerine](https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Tangerine](https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i) | 3:45 |
 | 60 | [Qu'est\-ce que je viens faire ici ?](https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [xx](https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4) | 2:14 |
-| 61 | [Tangerine](https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3) | [Manèges](https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO) | [Tangerine](https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i) | 3:45 |
+| 61 | [Les serpents dans l'eau](https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu) | [cécile](https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH) | [Les serpents dans l'eau](https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge) | 3:37 |
 | 62 | [Revenir](https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl) | [Rick Pagano](https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ) | [Revenir](https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ) | 2:36 |
 | 63 | [Paranormal](https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L) | [Kamilou](https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5) | [Paranormal](https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO) | 2:57 |
 | 64 | [Sanzaru](https://open.spotify.com/track/2AKMoiJfH9SDy5DamRsozh) | [Maelydée](https://open.spotify.com/artist/6x5vRGtgDI0MZDuKl7Z3UG) | [Sanzaru](https://open.spotify.com/album/1ekuOtDRjg5ZGVyS8W4xzB) | 3:09 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 67 | [rêves en hd](https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [rêves en hd](https://open.spotify.com/album/04GXwso8ghTY0qJ148Wzoi) | 4:13 |
 | 68 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 |
 | 69 | [Je t'oublie quand même pas](https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Je t'oublie quand même pas](https://open.spotify.com/album/0woE4E5OxLtqJpsDINKYTh) | 3:30 |
-| 70 | [Psychanalyse](https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [L'Empreinte](https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R) | 3:02 |
-| 71 | [Not on the Run](https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6) | [True Quiet](https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO) | [Not on the Run](https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp) | 3:51 |
-| 72 | [If You Love Her](https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Sad Songs for Grieving](https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8) | 3:37 |
+| 70 | [If You Love Her](https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Sad Songs for Grieving](https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8) | 3:37 |
+| 71 | [Psychanalyse](https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [L'Empreinte](https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R) | 3:02 |
+| 72 | [Not on the Run](https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6) | [True Quiet](https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO) | [Not on the Run](https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp) | 3:51 |
 | 73 | [Timid](https://open.spotify.com/track/7KIk6TtenbaYf0OUJQqIui) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Timid](https://open.spotify.com/album/5CGOzYGviWoPJ6NYpScd8S) | 2:44 |
 | 74 | [Différent](https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Différent](https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk) | 3:59 |
 | 75 | [L'avalanche](https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd) | [L'avalanche](https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO) | 3:24 |
 
-Snapshot ID: `AAAAANhu3E2cXUtVLSj6UT4GTop0ZCIb`
+Snapshot ID: `AAAAANPoC2RA0bThF/T+42DD2tPE9VnM`

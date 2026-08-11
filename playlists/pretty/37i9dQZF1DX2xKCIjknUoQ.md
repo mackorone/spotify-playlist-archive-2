@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,401 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,409 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 19 | [I'm Picky](https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:58 |
 | 20 | [Ça me vexe](https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Ça me vexe](https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0) | 3:27 |
 | 21 | [Manu Chao \- Single Version](https://open.spotify.com/track/3iP2zPzKv47zEB6FsQ5gKW) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro](https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH) | 2:47 |
-| 22 | [Travel The World](https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt) | 3:47 |
-| 23 | [Je n'veux pas rester sage](https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR) | [Dolly](https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn) | [Dolly \(Edition Deluxe\)](https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y) | 4:43 |
+| 22 | [Je n'veux pas rester sage](https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR) | [Dolly](https://open.spotify.com/artist/7gjbBSAraXRXxOTAkmWWQn) | [Dolly \(Edition Deluxe\)](https://open.spotify.com/album/1nzF8zJTQEtuqCkOhWdX1Y) | 4:43 |
+| 23 | [Travel The World](https://open.spotify.com/track/4lGOkkE9PbBpz2lhBmm5Rn) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Wow](https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt) | 3:47 |
 | 24 | [My Name Is Stain](https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:27 |
 | 25 | [La sentinelle](https://open.spotify.com/track/5k3NhWuNprfszujFV7OsbV) | [Luke](https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO) | [La tête en arrière](https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2) | 3:26 |
 | 26 | [Toy Boy](https://open.spotify.com/track/0vTRJ32D1tg11WnXc0CIq9) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Nevermind the Living Dead](https://open.spotify.com/album/0104yYvLVYm2mVaUVtWuVW) | 4:25 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 47 | [Qui que tu sois](https://open.spotify.com/track/6oS7ATqkkkuPH96EaUht4t) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [Elliott](https://open.spotify.com/album/3LTATpdZP4sE3UocHfEHit) | 3:46 |
 | 48 | [Chirac En Prison](https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Rock'n'Roll Part 9](https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK) | 2:55 |
 | 49 | [Le bonheur](https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo) | [Archimède](https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP) | [Trafalgar](https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T) | 2:35 |
-| 50 | [Divine excuse](https://open.spotify.com/track/0e5gaFZGe4hYscBzPBlc80) | [Pleymo](https://open.spotify.com/artist/5prz4Rf3RVDOFpBWrtUfKC) | [Rock](https://open.spotify.com/album/0XIipB9fUUu9aQ9W3U8CHk) | 3:30 |
+| 50 | [Bitch](https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug) | [Plastiscines](https://open.spotify.com/artist/6L3Af26OWMQw1uHTcxTVxP) | [About Love](https://open.spotify.com/album/0hQaUyf3aWK1UqeID5xA7x) | 3:09 |
 
-Snapshot ID: `AAAAAEKVii/dQNzyDHAa0Z/wPx8baNzL`
+Snapshot ID: `AAAAACmDk7HEfdQBTA/Kj9t5TrsPP4lM`

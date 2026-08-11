@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 167093,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/6elxCSCGjzG2nLiJwUZk6n"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 136615,
       "name": "Clubloos",
       "url": "https://open.spotify.com/track/31nY5ZE1MWRCJeFTs4tosB"
@@ -4536,7 +4536,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 154782,
       "name": "HOTBOY",
       "url": "https://open.spotify.com/track/6hbpMc9FxjYn62yrphSRVo"
@@ -4694,6 +4694,28 @@
       "duration_ms": 192635,
       "name": "Ik wil praten..",
       "url": "https://open.spotify.com/track/6XMGS64tneEJ1CdchExqUv"
+    },
+    {
+      "album": {
+        "name": "Ik Zweer 't",
+        "url": "https://open.spotify.com/album/0nJfeCcfsgIxrrFaVgYYPF"
+      },
+      "artists": [
+        {
+          "name": "Djaga Djaga",
+          "url": "https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8"
+        },
+        {
+          "name": "Jordymone9",
+          "url": "https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176229,
+      "name": "Ik Zweer 't",
+      "url": "https://open.spotify.com/track/2qkTKRVDvKWTZWcFgtVaWw"
     },
     {
       "album": {
@@ -5629,6 +5651,28 @@
     },
     {
       "album": {
+        "name": "Ladder",
+        "url": "https://open.spotify.com/album/1VZFghwiK19mWq0S6mWk3b"
+      },
+      "artists": [
+        {
+          "name": "Elliven",
+          "url": "https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu"
+        },
+        {
+          "name": "Esko",
+          "url": "https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Ladder",
+      "url": "https://open.spotify.com/track/1bYJMWvBXwcbGJN8SoMqgV"
+    },
+    {
+      "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/2R24sbvoxBPik5gmV6gZuW"
       },
@@ -6295,6 +6339,32 @@
     },
     {
       "album": {
+        "name": "Mashakil",
+        "url": "https://open.spotify.com/album/4viU1BpfiU4LPAHgBO9uL2"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167704,
+      "name": "Mashakil",
+      "url": "https://open.spotify.com/track/6h0dya6yxt7gPkD9uHEq4y"
+    },
+    {
+      "album": {
         "name": "Max Win",
         "url": "https://open.spotify.com/album/3HuK137wZ0lSdPW3CK0D1j"
       },
@@ -6936,7 +7006,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 160808,
       "name": "Niet alleen jij",
       "url": "https://open.spotify.com/track/6tpBXxIm6YR9niC24TO1tH"
@@ -7422,7 +7492,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 173092,
       "name": "Op Me Best",
       "url": "https://open.spotify.com/track/0WrMNlyo4eDminFfQGyD9R"
@@ -8765,6 +8835,28 @@
     },
     {
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/3tdKSFZjVXIJPPepnF1esr"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "sor",
+          "url": "https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155712,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/0dGARoOkRILNgAHwnVAO0F"
+    },
+    {
+      "album": {
         "name": "Schade",
         "url": "https://open.spotify.com/album/5pqV5lsk8SfXYnEqW9KSAA"
       },
@@ -8832,6 +8924,28 @@
       "duration_ms": 282362,
       "name": "Schweinsteiger",
       "url": "https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk"
+    },
+    {
+      "album": {
+        "name": "Scooter",
+        "url": "https://open.spotify.com/album/7rx5QuJIRiwGgLI8jxjt3w"
+      },
+      "artists": [
+        {
+          "name": "Hekje31",
+          "url": "https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn"
+        },
+        {
+          "name": "JayKoppig",
+          "url": "https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139291,
+      "name": "Scooter",
+      "url": "https://open.spotify.com/track/3QXkAZ6QmLTQp5s1M9F6FJ"
     },
     {
       "album": {

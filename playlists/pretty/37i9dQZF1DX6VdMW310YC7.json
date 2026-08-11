@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3896292,
+  "num_followers": 3896127,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGdAGHAdtKQ3KGw5zVymVQRTa/2c",
+  "snapshot_id": "AAAAAI+b8g2BXfNbMln478L1Lz0Hpole",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:13",
@@ -899,22 +899,18 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "BLINK",
-        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
       },
       "artists": [
         {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
         }
       ],
-      "duration_ms": 237938,
-      "name": "Keep Love Waiting",
-      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -939,18 +935,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+        "name": "BLINK",
+        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
       "artists": [
         {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+      "duration_ms": 237938,
+      "name": "Keep Love Waiting",
+      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/7CVPXNero5fCaq9l14Wdwo"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 237931,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/6zJt25uKI95nvyjBptz8vv"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1435,6 +1435,30 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "feeling something",
+        "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "feeling something",
+      "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Out Of Ten (Shingo Nakamura & before saudade Remix)",
         "url": "https://open.spotify.com/album/2muoiXwIB1Jw4JMXRFgrbz"
       },
@@ -1459,22 +1483,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "This Is Our Life",
         "url": "https://open.spotify.com/album/5c2ObU6rZacorATcxejYZL"
       },
@@ -1495,6 +1503,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Light up my dark",
         "url": "https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA"
       },
@@ -1507,30 +1531,6 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "feeling something",
-        "url": "https://open.spotify.com/album/34j9PJGs4V9LPRDdOGSk92"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "feeling something",
-      "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "All Is Right",
         "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 210500,
       "name": "All Is Right",
       "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "How Will I Know?",
         "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 252693,
       "name": "How Will I Know?",
       "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
-      },
-      "artists": [
-        {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-08-07 04:01:13",

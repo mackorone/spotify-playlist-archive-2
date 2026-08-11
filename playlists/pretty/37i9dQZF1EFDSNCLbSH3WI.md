@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fdEf506uQJUK5dlS1HhNo">Dahi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142 likes - 156 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 148 likes - 156 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 16 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 17 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:42 |
 | 18 | [Used \(feat\. Don Toliver\)](https://open.spotify.com/track/4NqkE7kRUvMDEdcqD96EDO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:26 |
-| 19 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 |
-| 20 | [Jet Fuel](https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
+| 19 | [Jet Fuel](https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 |
+| 20 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 |
 | 21 | [Worst Behavior](https://open.spotify.com/track/3X37NtwadSS0RM20dh2IgP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 4:30 |
 | 22 | [monster](https://open.spotify.com/track/2FUNBaa5DwItJtYEBgAblU) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was](https://open.spotify.com/album/007DWn799UWvfY1wwZeENR) | 3:53 |
 | 23 | [Drugs N Hella Melodies \(feat\. Kali Uchis\)](https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:18 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 109 | [1 of 1](https://open.spotify.com/track/4G67MRybTVTYariSY5WBXB) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:45 |
 | 110 | [Peace](https://open.spotify.com/track/1DOagLRXZ5KtZ1GLuTceSq) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:27 |
 | 111 | [Hell of a Night](https://open.spotify.com/track/0cP8TS5HxnFACbXacWJFst) | [Jessi Levinson](https://open.spotify.com/artist/0LfYS5XL6wwazQX69KQan1) | [Hell of a Night](https://open.spotify.com/album/576mGit8oxH9g3TCJYoiXK) | 3:11 |
-| 112 | [Miles \(feat\. Bone Thugs\-N\-Harmony\)](https://open.spotify.com/track/3o86Gn0A25WmiY1p7Zpj5L) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 6:01 |
-| 113 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 112 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 113 | [Miles \(feat\. Bone Thugs\-N\-Harmony\)](https://open.spotify.com/track/3o86Gn0A25WmiY1p7Zpj5L) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 6:01 |
 | 114 | [Old Life](https://open.spotify.com/track/5ndnH4mpFAFOTjDiBIMwmP) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:00 |
 | 115 | [Rawks](https://open.spotify.com/track/6PVdjT8BYxFFGiAFDhjNVM) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [What If It Is](https://open.spotify.com/album/0xGl3nw6WV1k2Ysqbn2j01) | 3:52 |
 | 116 | [Blood](https://open.spotify.com/track/3E1q57YmMqnpdcRu9ASuly) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Lotus](https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X) | 4:28 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 126 | [Interlude](https://open.spotify.com/track/6vopDvZo0frzTiiyXz7GKV) | [Brain](https://open.spotify.com/artist/6g0Xatzg8vlchoEe21LoeH) | [I'm Brain](https://open.spotify.com/album/72LtgvLkAE4UBIqgnVDxjS) | 0:41 |
 | 127 | [Amen](https://open.spotify.com/track/5a7esAaCE215PJFrqHX20A) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [A Real Good Kid](https://open.spotify.com/album/4Ud6qdjOiGsrryFeZOVmkT) | 0:31 |
 | 128 | [Long Way](https://open.spotify.com/track/6bQTdecTIAU8hMlbyUp2Xu) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 2:54 |
-| 129 | [Beautiful Scars](https://open.spotify.com/track/02qGFXwmPiZ1VhqnOJGyxc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 4:19 |
-| 130 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 129 | [Bobby](https://open.spotify.com/track/1XtcVaelEjLMK7bELfa7kQ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 |
+| 130 | [Beautiful Scars](https://open.spotify.com/track/02qGFXwmPiZ1VhqnOJGyxc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 4:19 |
 | 131 | [Remember](https://open.spotify.com/track/2GOLVW9lwNDm3tRlk0lhae) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Remember](https://open.spotify.com/album/1im3CVGvAfA6clrLsHWzsG) | 3:07 |
 | 132 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
 | 133 | [Borrowed Time](https://open.spotify.com/track/23CC33P3SNoT0kzCL8vnux) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Rebel Heart \(Deluxe\)](https://open.spotify.com/album/7gAghL70APCDziSZrCzpCX) | 3:24 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDSNCLbSH3WI.md) - [plain]
 | 155 | [Lost In Love](https://open.spotify.com/track/1wdPAaQdSM0YO2igqLFS9b) | [Acoustic Paradiso](https://open.spotify.com/artist/2592wqWNE1PSRSbyWOcXKt) | [Acoustic Guitar In Pop Ballads](https://open.spotify.com/album/462V3a96YNDS4t8cch60cH) | 3:13 |
 | 156 | [YAH](https://open.spotify.com/track/56huEpZCBEm8qx1bWSeRf9) | [Bethel Adekogbe](https://open.spotify.com/artist/5QThtzr4WbyYjp1QMr66Gz) | [House of God](https://open.spotify.com/album/3x7I5wa60q82pPeVTxr3w8) | 2:23 |
 
-Snapshot ID: `AcZJgAAAAAD1G0IVPEMainA3eXDQwTIa`
+Snapshot ID: `AcZPKgAAAADXMm3WfautCF4/2ckeUTFr`

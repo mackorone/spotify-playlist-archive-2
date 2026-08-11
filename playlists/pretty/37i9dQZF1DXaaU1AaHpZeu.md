@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con GRLS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,474 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,442 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 48 | [UNA SOGA](https://open.spotify.com/track/6MSjyNV1HTIllt5JtesHj8) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [UNA SOGA](https://open.spotify.com/album/2r6JyPlXEWn0o4BzsfZveK) | 3:05 |
 | 49 | [Te Vi Venir](https://open.spotify.com/track/6O9K4tWQ6f21LXjMnbFnhq) | [Catalina Pocoví](https://open.spotify.com/artist/1jv0wpOspqWkPO1sHbdlzk) | [Te Vi Venir](https://open.spotify.com/album/5UglxnFDLVAtxQ0W0s8OXw) | 2:36 |
 
-Snapshot ID: `AAAAAAAQSAVM5BmZTAnIXUGCtbQY5hyt`
+Snapshot ID: `AAAAAM01U/2tKC9FIVQun56gHn9JpxC+`

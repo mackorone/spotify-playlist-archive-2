@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 781 likes - 223 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 223 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 139 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 |
 | 140 | [Wave](https://open.spotify.com/track/7F8eFixvj36lYMLtObtRrj) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:49 |
 | 141 | [STORY OF GOD](https://open.spotify.com/track/1Fn2pTZSBYlmQEjphUZSRi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 7:46 |
-| 142 | [Personally](https://open.spotify.com/track/0j3tmysUmOvbXno7km0T2T) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:31 |
-| 143 | [Mataleón](https://open.spotify.com/track/5PU1h7Q0l8FODps5DPA7Tt) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
+| 142 | [Mataleón](https://open.spotify.com/track/5PU1h7Q0l8FODps5DPA7Tt) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 2:46 |
+| 143 | [Personally](https://open.spotify.com/track/0j3tmysUmOvbXno7km0T2T) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:31 |
 | 144 | [I Want Mo \(with London On Da Track\)](https://open.spotify.com/track/4IFIvreLx7CxwT0iRmWZLD) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [BOSS MAN](https://open.spotify.com/album/3jPpeRUHcgC8ZkDT7MgUg3) | 2:06 |
 | 145 | [Hope You’re Happy \(feat\. EARTHGANG\)](https://open.spotify.com/track/54GIqRUit4ZG4vk5gj03Oj) | [Emeryld](https://open.spotify.com/artist/3YTUk9oIDoAe5VFfgUS5UL), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Young](https://open.spotify.com/album/4mED75Kkla92lMvxpCw4mX) | 3:48 |
 | 146 | [Hot Shit](https://open.spotify.com/track/4bzKnckkoLhwvTtWV3nir9) | [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [WWW.](https://open.spotify.com/album/3kzNF51mp30QXF3yck4nwL) | 3:39 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 222 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 223 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcZJgAAAAAAfV8kLRVLAEQuBQryt9rzp`
+Snapshot ID: `AcZPIAAAAAD38uTbael6HiJ1T61sdkxz`

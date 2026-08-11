@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 
 > 한계를 뛰어넘는 당신을 운동을 위하여.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,506 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,510 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 15 | [MANIAC](https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q) | 3:02 |
 | 16 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 |
 | 17 | [MIC Drop](https://open.spotify.com/track/4gZGAVECoiutzp64KSHNjE) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 承 'Her'](https://open.spotify.com/album/07Rq17GzCnIdWJcyVHb57G) | 3:58 |
-| 18 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
-| 19 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
+| 18 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
+| 19 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
 | 20 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 |
 | 21 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 |
 | 22 | [Not Today](https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:51 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 55 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
 | 56 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 |
 | 57 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |
-| 58 | [Lift Me Up](https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lift Me Up](https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW) | 2:48 |
-| 59 | [LOV3 \(Feat\. Bryan Chase, Okasian\)](https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [K\-FLIP+](https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6) | 3:56 |
+| 58 | [LOV3 \(Feat\. Bryan Chase, Okasian\)](https://open.spotify.com/track/1QC4Ztt2GlFWpdSMLwt5ol) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO) | [K\-FLIP+](https://open.spotify.com/album/4EPIlAjXbTNQTracKmYnI6) | 3:56 |
+| 59 | [Lift Me Up](https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Lift Me Up](https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW) | 2:48 |
 | 60 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 |
 | 61 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 |
 | 62 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3QqHt507QJZCzluEYsnv4u) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 99 | [SHALALA](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [SHALALA \- The 1st Mini Album](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) | 3:21 |
 | 100 | [W.I.N\. \(Feat\. BewhY\) \(Prod\. by GRAY\)](https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me The Money 12 Semi Final](https://open.spotify.com/album/4mj2mIydZYvONlklytC17S) | 5:06 |
 
-Snapshot ID: `AAAAAK3gPwS0yV9LKFCsWtF5pIMCn5oI`
+Snapshot ID: `AAAAAIoAurMshVGIvOc5LAFdwsamLp3d`

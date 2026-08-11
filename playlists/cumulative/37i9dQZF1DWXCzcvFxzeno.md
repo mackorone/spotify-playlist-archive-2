@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-395 songs - 1 day 2 hr 29 min
+396 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Dance MothaF\*cka \- David Temessi Rework](https://open.spotify.com/track/3nVdemOGu6iLeDFpyS8KIf) | [Deep91](https://open.spotify.com/artist/7k4JimOV8Sn7yXbPbjbvBW), [David Temessi](https://open.spotify.com/artist/0SH8Lcl8vQXfyIDVRGSRwP) | [Dance MothaF\*cka \(David Temessi Rework\)](https://open.spotify.com/album/2plhnrhPtvomfOwjj22Aoc) | 5:15 | 2024-11-13 | 2025-02-13 |
 | [DANCE NOW](https://open.spotify.com/track/7dLFPSD8NW1duFyR8bUEfe) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [DANCE NOW](https://open.spotify.com/album/3yoZGo9bYG7n1gW9lR3XJr) | 4:00 | 2025-05-23 |  |
 | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/track/4MD1o8JcULNAz85S6Ld57J) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Dance With The Devil \(The 6th Gate\) \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/7eTVuYNi1UiN2cinZkJp56) | 3:12 | 2024-04-09 | 2025-10-22 |
-| [Data Corrupted](https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [Data Corrupted](https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H) | 2:27 | 2026-06-25 |  |
+| [Data Corrupted](https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [Data Corrupted](https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H) | 2:27 | 2026-06-25 | 2026-08-11 |
 | [Daydream](https://open.spotify.com/track/0WsROU8CJrMWBukK5IMs4y) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Warehouse Memories](https://open.spotify.com/album/3IRvcihOMBU1KNjrSX2YZh) | 7:43 | 2025-01-02 | 2025-01-10 |
 | [Definition of Hard Techno \- Lukas & Fernanda Martins Remix](https://open.spotify.com/track/3FhsfO5j8cD3a0xgHCAn9q) | [O.B.I.](https://open.spotify.com/artist/0f87xNphOln9PY4UNcXXr4), [Fernanda Martins](https://open.spotify.com/artist/52MgoD4ydR3spsWVir9naX), [Lukas](https://open.spotify.com/artist/41rDUBSuIZl3YscER2Fskv) | [Definition of Hard Techno](https://open.spotify.com/album/686gQUfEE4dyGJpu7SEjkv) | 6:47 | 2024-06-14 | 2024-06-19 |
 | [Deine Angst](https://open.spotify.com/track/6C3vS3o69ZX3JvX0onzFkT) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Deine Angst](https://open.spotify.com/album/3B8TLKzSq8CJ5FjSxdCVL5) | 5:21 | 2024-04-09 | 2026-01-30 |
@@ -236,6 +236,7 @@
 | [LSD Loop \- Marie Vaunt Edit](https://open.spotify.com/track/6GvHSKjQ43EJRcAV3a4IlJ) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [LSD Loop \(Marie Vaunt Edit\)](https://open.spotify.com/album/1UzujATP7DcSu239QBgFMv) | 3:16 | 2026-02-03 | 2026-02-20 |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
 | [Magic Feet](https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH) | [RobJanssen](https://open.spotify.com/artist/2FDAjR63mWtjnNpVo6ZB4X) | [Magic Feet](https://open.spotify.com/album/2KSFw3D1cGAITmkYQYFish) | 3:54 | 2024-07-14 | 2024-07-22 |
+| [Marching Powder](https://open.spotify.com/track/5z9i6jnaxzKbF7ujgb3uz9) | [Will Atkinson](https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt) | [Marching Powder](https://open.spotify.com/album/46v956ZbrQTvNXM2hdxc3u) | 3:11 | 2026-07-30 |  |
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 | 2024-07-27 |
 | [Masterclass](https://open.spotify.com/track/08KQZbwrjvdXQrnzv9gxG6) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:19 | 2024-07-18 | 2024-11-12 |
 | [Maxillary](https://open.spotify.com/track/5AmuUxZMohX4OID3qErMhM) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I) | [Maxillary Marble](https://open.spotify.com/album/3Hn6c5CEHBiaWbeGQ75xuX) | 4:08 | 2024-04-09 | 2025-07-21 |

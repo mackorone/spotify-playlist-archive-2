@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,520 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,869 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 7 | [PERO NO TE ENAMORES](https://open.spotify.com/track/3w1h7uNU1Dfk2tOaHiIGat) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 3:03 |
 | 8 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 |
 | 9 | [ANSIEDAD](https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:31 |
-| 10 | [INMORTAL](https://open.spotify.com/track/3BssiKHkHy0zXZCj1T8TcJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:17 |
-| 11 | [QUE ONDA](https://open.spotify.com/track/61vlMpyFxXmxvahvA7Bi3z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 3:11 |
+| 10 | [QUE ONDA](https://open.spotify.com/track/61vlMpyFxXmxvahvA7Bi3z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 3:11 |
+| 11 | [INMORTAL](https://open.spotify.com/track/3BssiKHkHy0zXZCj1T8TcJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:17 |
 | 12 | [PUES YA NI PEDO](https://open.spotify.com/track/3N7BmCgSASJ9WWYqhzT5uJ) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Los Locos Nunca Mueren](https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp) | 3:21 |
 | 13 | [caperuza](https://open.spotify.com/track/6272S5nkbOvQDazRYq6muV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:59 |
 | 14 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 50 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/1eCpKyqGCQ3lignyphxlmN) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Sigan Llegando Las Pacas \(Extended\)](https://open.spotify.com/album/0IeCqguWKSslODbwnrelhq) | 1:53 |
 
-Snapshot ID: `anZxgAAAAADN9UvF53Hw5ZP9gxSbGWn/`
+Snapshot ID: `anfDAAAAAABVY0jmwrAlVROHcY/3wxkh`

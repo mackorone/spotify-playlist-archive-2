@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Soft edges and slow motion moments 🪴
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,276 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,184 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,15 +79,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 69 | [walking on air](https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 3:37 |
 | 70 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
 | 71 | [Teenage Love](https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Teenage Love](https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl) | 4:21 |
-| 72 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 |
-| 73 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
+| 72 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
+| 73 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 |
 | 74 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 75 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
 | 76 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 |
 | 77 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 78 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
-| 79 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
-| 80 | [Horses](https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:32 |
+| 79 | [Horses](https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:32 |
+| 80 | [Easy](https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf) | [Easy](https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK) | 2:49 |
 | 81 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 |
 | 82 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
 | 83 | [Little Miss Sunshine](https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Little Miss Sunshine](https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v) | 5:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 99 | [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 |
 | 100 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
 
-Snapshot ID: `AAAAAFuzh8SN3LvqRjDryPIUrP4oEbyE`
+Snapshot ID: `AAAAAM5S3oRjl7IJ66x5j/EfBxaS6zsI`

@@ -1,12 +1,12 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 11060124,
+  "num_followers": 11060975,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH8la+bSaAELU9BtT9NzBH6Pnh85",
+  "snapshot_id": "AAAAAM+HA5nSMFM1noh2JhyASyaQUtpC",
   "tracks": [
     {
       "added_at": "2026-07-31 04:00:35",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 241023,
+      "name": "NOKIA",
+      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 241023,
-      "name": "NOKIA",
-      "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -995,30 +995,6 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
-        "name": "Save My Love",
-        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 210404,
-      "name": "Save My Love",
-      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
+        "name": "Save My Love",
+        "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 210404,
+      "name": "Save My Love",
+      "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
-        "name": "Coke Wave 3.5: Narcos",
-        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Max B",
-          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Ever Since U Left Me (I Went Deaf)",
-      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
+        "name": "Coke Wave 3.5: Narcos",
+        "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Max B",
+          "url": "https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Ever Since U Left Me (I Went Deaf)",
+      "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
+        "name": "Mention Me (From The Movie \"GOAT\")",
+        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mention Me - From The Movie \"GOAT\"",
+      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
-        "name": "Mention Me (From The Movie \"GOAT\")",
-        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mention Me - From The Movie \"GOAT\"",
-      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 160966,
-      "name": "HELICOPTER",
-      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 165412,
       "name": "Rah Tah Tah",
       "url": "https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -2251,26 +2251,6 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 182401,
       "name": "Big Poe (feat. Sk8brd)",
       "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -2715,6 +2715,22 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
         "name": "No Room For A Saint (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/1TQcKdaaFQjqQMoMJvZb8M"
       },
@@ -2735,22 +2751,6 @@
       "duration_ms": 236128,
       "name": "No Room For A Saint (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5xalbHoIf0F0AmuTKlm2Ct"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
     },
     {
       "added_at": "2026-07-31 04:00:35",
@@ -2819,6 +2819,22 @@
     {
       "added_at": "2026-07-31 04:00:35",
       "album": {
+        "name": "I Will Not Break",
+        "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 292058,
+      "name": "I Will Not Break",
+      "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
+    },
+    {
+      "added_at": "2026-07-31 04:00:35",
+      "album": {
         "name": "Dreamin (feat. Daya)",
         "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
       },
@@ -2835,22 +2851,6 @@
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
-    },
-    {
-      "added_at": "2026-07-31 04:00:35",
-      "album": {
-        "name": "I Will Not Break",
-        "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 292058,
-      "name": "I Will Not Break",
-      "url": "https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ"
     },
     {
       "added_at": "2026-07-31 04:00:35",

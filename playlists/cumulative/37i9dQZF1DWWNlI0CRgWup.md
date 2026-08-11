@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Alma Rechtman
+> Découvrez les nouveautés des artistes RADAR France\. Photo : a6el
 
-284 songs - 14 hr 26 min
+286 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Feu](https://open.spotify.com/track/1a3gfsItYAxLYzxpQwBfnj) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Feu](https://open.spotify.com/album/3uDxABmXID0PlqYSXqcAe3) | 2:45 | 2024-03-11 | 2025-06-20 |
 | [Filage et faits](https://open.spotify.com/track/2FeFLCNEoZSFB9H9cAY5at) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Filage et faits](https://open.spotify.com/album/0LXyoJhbPZkfv5LQKqfqtC) | 3:05 | 2021-12-02 | 2022-02-08 |
 | [Fille lacrymale](https://open.spotify.com/track/1vhwZ7Zsi3u513z8ywKPcZ) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:40 | 2025-06-19 | 2025-11-13 |
+| [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 | 2026-08-10 |  |
 | [fou](https://open.spotify.com/track/0tH5JUbzvZYKk3CciyUlTy) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [un million de petits chocs](https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS) | 2:48 | 2024-03-11 | 2025-11-13 |
 | [Fous](https://open.spotify.com/track/6iDJJTC95l6eQBRfUKWrq3) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Fous](https://open.spotify.com/album/2sOcYT0QyNgZEuYvQ6gfI7) | 2:31 | 2021-12-02 | 2022-02-04 |
 | [Fous](https://open.spotify.com/track/76SdXXI996exZt00GiO5Co) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Dimanche](https://open.spotify.com/album/5KnRVFct1nHFXTJ3iavsLq) | 2:31 | 2023-09-08 | 2024-01-19 |
@@ -239,7 +240,7 @@
 | [Scoot](https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Scoot](https://open.spotify.com/album/2aQtwWXSu415RZ8zgl7ll7) | 2:57 | 2024-01-18 | 2024-03-12 |
 | [Se dire au revoir](https://open.spotify.com/track/0DHsp9yphS9BdAHAI64JYS) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:04 | 2024-03-11 | 2025-06-20 |
 | [Se dire au revoir](https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 3:04 | 2022-06-17 | 2022-11-25 |
-| [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 | 2026-05-20 |  |
+| [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 | 2026-05-20 | 2026-08-11 |
 | [Ses yeux](https://open.spotify.com/track/1FkXhWnAODxXoaCnmMGo4j) | [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [cuicui](https://open.spotify.com/album/4OsIHJzoFdSEdFaYg6uSAE) | 2:54 | 2026-05-12 |  |
 | [SEULE \(AGAIN\)](https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 2:58 | 2024-04-10 | 2025-11-13 |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-10-04 | 2024-01-19 |
@@ -247,6 +248,7 @@
 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 | 2021-12-02 | 2023-01-25 |
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-17 | 2022-09-30 |
 | [Soirée mondaine](https://open.spotify.com/track/1C0DS17IRqwZ6AFqBlUHXn) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Soirée mondaine](https://open.spotify.com/album/1N0b0dafqvqymgcper3K2m) | 3:18 | 2026-04-10 |  |
+| [SOLEIL](https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [SOLEIL](https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D) | 2:48 | 2026-08-10 |  |
 | [Solo](https://open.spotify.com/track/3bfW2D6xj3mspwxwi3ieyl) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:15 | 2023-01-24 | 2023-09-09 |
 | [Sous l'eau \(Douce France\)](https://open.spotify.com/track/30KKTkwoJiTKuSFnXZ6yYN) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Sous l'eau \(Douce France\)](https://open.spotify.com/album/2BE7fxY5IJQ1rPPX2ihGqX) | 2:42 | 2022-06-10 | 2022-06-22 |
 | [Suffisamment](https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/5bYohHTjPB1Na7wcv5YRG3) | 3:46 | 2022-10-28 | 2022-11-25 |

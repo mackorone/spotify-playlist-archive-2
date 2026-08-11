@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,845 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,826 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 27 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 |
 | 28 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 |
 | 29 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
-| 30 | [Cruel World](https://open.spotify.com/track/35fi0WcdAVM8w2znoNsD2x) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:26 |
-| 31 | [Back in Love](https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:14 |
+| 30 | [Back in Love](https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:14 |
+| 31 | [Cruel World](https://open.spotify.com/track/35fi0WcdAVM8w2znoNsD2x) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:26 |
 | 32 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:27 |
 | 33 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 34 | [Don't Speak](https://open.spotify.com/track/2YB7LLj8xZcd4pDs0UBM6i) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Don't Speak](https://open.spotify.com/album/2IZSfxU7rU61vV5UmDcYX5) | 3:43 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 46 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 47 | [Summer of Luv \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:39 |
 | 48 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
-| 49 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 |
-| 50 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 |
+| 49 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 |
+| 50 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 |
 | 51 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
 | 52 | [Stella Brown](https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:06 |
 | 53 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 88 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
 | 89 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 90 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 |
-| 91 | [My Love](https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 3:51 |
+| 91 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
 | 92 | [Subliminal](https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Subliminal](https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj) | 2:45 |
-| 93 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
+| 93 | [My Love](https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [My Love](https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ) | 3:51 |
 | 94 | [Eden](https://open.spotify.com/track/3QIcezZQJD2Vkb0SkhnQyp) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/652IHz4kGbrNGIkq40T6wU) | 4:07 |
 | 95 | [Miss Sunshine](https://open.spotify.com/track/1kl741F4JVqW36Cte5kRg1) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [Miss Sunshine](https://open.spotify.com/album/3UbrfhQSsZ5NTQrAZUdLYq) | 3:23 |
 | 96 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 107 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
 | 108 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
 | 109 | [Memory](https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:17 |
-| 110 | [Malibu](https://open.spotify.com/track/2JyoU2NFGjWWTaknPfXeDR) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Malibu](https://open.spotify.com/album/0kdfBCqyoNJZ9KoVlg8Ntn) | 2:47 |
-| 111 | [for your love](https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [for your love](https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3) | 3:05 |
+| 110 | [for your love](https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [for your love](https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3) | 3:05 |
+| 111 | [Malibu](https://open.spotify.com/track/2JyoU2NFGjWWTaknPfXeDR) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Malibu](https://open.spotify.com/album/0kdfBCqyoNJZ9KoVlg8Ntn) | 2:47 |
 | 112 | [Come Alive](https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Come Alive](https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm) | 4:13 |
 | 113 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 114 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 121 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
 | 122 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 |
 | 123 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
-| 124 | [Terrestrials](https://open.spotify.com/track/2zNYy4o5FNpOw8inCLlE3s) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ) | 3:59 |
-| 125 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 |
+| 124 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 |
+| 125 | [Terrestrials](https://open.spotify.com/track/2zNYy4o5FNpOw8inCLlE3s) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Terrestrials](https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ) | 3:59 |
 
-Snapshot ID: `AAAAADF45k7Dmd5XaJ1HZr4WTsM9g68Q`
+Snapshot ID: `AAAAAJyxklxidsHkf+ek6qBDLvIZUZUo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,082 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,091 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 17 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 18 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 |
 | 19 | [The Clouds Cleared the Way](https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN) | [Shane Tyler](https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS) | [The Clouds Cleared the Way](https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8) | 4:04 |
-| 20 | [Porcelain](https://open.spotify.com/track/2ngVZZGrIYAxyxaA2QcWTB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:32 |
-| 21 | [Up Late](https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 2:39 |
+| 20 | [Up Late](https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Coping Habits](https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp) | 2:39 |
+| 21 | [Porcelain](https://open.spotify.com/track/2ngVZZGrIYAxyxaA2QcWTB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:32 |
 | 22 | [You and Me](https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [You and Me](https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ) | 3:45 |
 | 23 | [Lurk \- Mixed](https://open.spotify.com/track/064kl8lbsGVBN07jKkl014) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [DJ\-Kicks: Logic1000](https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx) | 2:49 |
 | 24 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 25 | [12 Blown Tires](https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Face Down In The Garden](https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq) | 4:12 |
-| 26 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 |
-| 27 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
+| 26 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
+| 27 | [Cellar](https://open.spotify.com/track/6PWjL98PtO7QBbMzBYszNY) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Cellar](https://open.spotify.com/album/3SYtJKO826EDWOwvZvhdb8) | 4:05 |
 | 28 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
 | 29 | [Our Past Lives](https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Ways To Get Out](https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI) | 3:45 |
 | 30 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 42 | [baby’s out of luck again](https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [baby's out of luck again](https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs) | 2:29 |
 | 43 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
 | 44 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 |
-| 45 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
-| 46 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
+| 45 | [House Of Mirrors](https://open.spotify.com/track/3zFqzq75hxehVM6DkCSORU) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [House Of Mirrors](https://open.spotify.com/album/075wMeSFPWCvDVNKzRPOlC) | 3:11 |
+| 46 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
 | 47 | [Beautiful World](https://open.spotify.com/track/6jfZZqVjPLOuIRFmYwTtfg) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Beautiful World](https://open.spotify.com/album/5Hq9ivqHhytJcNING1NyXc) | 3:40 |
 | 48 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
 | 49 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Your Type](https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz), [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE) | [Your Type](https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3) | 4:01 |
 | 80 | [Nadine](https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Heaven Sent \(Between Heavens B\-Sides\)](https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I) | 3:19 |
 
-Snapshot ID: `AAAAACpD1Bq2tobqX3Gg8xzWK1rm/67Z`
+Snapshot ID: `AAAAAFED3RrsnaiAObJKLIJC72RRqHQL`

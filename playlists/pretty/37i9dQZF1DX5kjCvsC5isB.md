@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,296 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,304 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 99 | [Phases](https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Phases](https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s) | 2:49 |
 | 100 | [Heavy Pour](https://open.spotify.com/track/0QAc3lLqDEseK9I3G18fiF) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Heavy Pour](https://open.spotify.com/album/3Wts0iKSOrE244mqwSS0kN) | 3:50 |
 
-Snapshot ID: `AAAAAIys14f07kSK99REj+05MuJXGRbc`
+Snapshot ID: `AAAAAJUa+qR9ug9YVf+YnObTlhqgjjPn`

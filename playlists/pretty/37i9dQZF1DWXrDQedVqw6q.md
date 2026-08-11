@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,201 likes - 112 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,261 likes - 112 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 111 | [Reveries](https://open.spotify.com/track/1ZVTGSiQgZpat29115Whiv) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Reveries](https://open.spotify.com/album/4RqbjSBSX042YKc9X1NUKW) | 3:04 |
 | 112 | [Appalachia Borealis](https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Appalachia Borealis](https://open.spotify.com/album/6CGLtIg3MR7NfDINHlZCm8) | 3:34 |
 
-Snapshot ID: `AAAAAGWazRW5vni6M4XNovTJ7zS7PGNh`
+Snapshot ID: `AAAAAFQt3SB2I3WCYjWYqoqibuRChPoz`

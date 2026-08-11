@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-183 songs - 10 hr 35 min
+184 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [one drink away](https://open.spotify.com/track/4adKzUS4pIdNstzST1pt3k) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one drink away](https://open.spotify.com/album/0fhe0dFZsaAvonOdFg34GT) | 3:10 | 2023-05-06 | 2023-12-14 |
 | [pale blue dot](https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:22 | 2022-09-08 |  |
 | [Poetry](https://open.spotify.com/track/6F84CqAnWGg6CZiWFNDuQ9) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [We Could Be Beautiful](https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf) | 4:09 | 2022-09-08 |  |
+| [Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Emptiness Is Godly](https://open.spotify.com/album/69WMt9yTuyzIIeMoRp0ti1) | 2:41 | 2026-08-10 |  |
 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 | 2022-10-29 |  |
 | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/track/7JqjKFamcUmaT5YcctWKZX) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/album/3frSVSjPe9Nuk3jFabhYYm) | 2:01 | 2024-03-30 |  |
 | [Raising Hell](https://open.spotify.com/track/4NVIkvGv6TDLKoiUWI1Ll9) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Raising Hell \(Official Video\)](https://open.spotify.com/album/3mjegKOfIfgTT0KwbrEBKD) | 3:32 | 2023-12-13 | 2024-02-02 |

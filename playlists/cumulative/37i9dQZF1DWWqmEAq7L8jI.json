@@ -5608,7 +5608,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 170904,
       "name": "monumento..",
       "url": "https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s"
@@ -5838,6 +5838,28 @@
       "duration_ms": 161286,
       "name": "Mystica!",
       "url": "https://open.spotify.com/track/5zaQp9y2PVJv8sNa9vnfll"
+    },
+    {
+      "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     },
     {
       "album": {

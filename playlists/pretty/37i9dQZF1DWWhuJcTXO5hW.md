@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,565 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,570 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 49 | [Mouassal](https://open.spotify.com/track/7nHhEPcoSSs9t06LdxWhFF) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [Antoine Khalife](https://open.spotify.com/artist/1gjCKGbc7gfW3FFSiSNAld), [Imane Homsy](https://open.spotify.com/artist/3rSLFFNKHgWYbmDi1DoC5R), [Bassam Saleh](https://open.spotify.com/artist/5EqVGwu1oKl89yKKuJnbNv), [Ali El Khatib](https://open.spotify.com/artist/5yIcPZLOTa7K2XRmpMddwk), [Albert Rouhana](https://open.spotify.com/artist/71bU7HnM3LflAuhVJ2WTqt) | [Charbel Rouhana: the Art of the Middle Eastern Oud \- New Perspectives On Trad\. Maqams](https://open.spotify.com/album/3Y2Qk9BMD0Wc8qiS9fYQi6) | 1:21 |
 | 50 | [Nada](https://open.spotify.com/track/0nqKh7q35gKJSXv7VuqtH7) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Hassan Sabi](https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR) | 2:16 |
 
-Snapshot ID: `AAAAALouumQLLdFRlcwX8O72ewvq82ql`
+Snapshot ID: `AAAAANuNwq6YDL2xzxwjQzF36tKKV092`

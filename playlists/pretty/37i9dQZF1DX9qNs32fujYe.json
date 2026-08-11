@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Mastodon",
-  "num_followers": 1412226,
+  "num_followers": 1412305,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADjqAtor3kHbWLxpl94v1g9ngVD0",
+  "snapshot_id": "AAAAAInCQbkG9+KtXuVpkRUIrGXVm9wF",
   "tracks": [
     {
       "added_at": "2026-07-13 21:05:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "School's Out",
-        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "School's Out",
-      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 293653,
       "name": "Epic",
       "url": "https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "School's Out",
+        "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "School's Out",
+      "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Voyage of the Dead Marauder",
+        "url": "https://open.spotify.com/album/24Pm8GCzu6JXWOWTjburvl"
+      },
+      "artists": [
+        {
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
+        },
+        {
+          "name": "Patty Gurdy",
+          "url": "https://open.spotify.com/artist/4LmjMMv69tN9V7ggJpva6r"
+        }
+      ],
+      "duration_ms": 267530,
+      "name": "Voyage of the Dead Marauder (feat. Patty Gurdy)",
+      "url": "https://open.spotify.com/track/15tb65IQDLvVlz8znIQfAu"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "The Great Satan",
         "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 173372,
       "name": "Calamity",
       "url": "https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Voyage of the Dead Marauder",
-        "url": "https://open.spotify.com/album/24Pm8GCzu6JXWOWTjburvl"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        },
-        {
-          "name": "Patty Gurdy",
-          "url": "https://open.spotify.com/artist/4LmjMMv69tN9V7ggJpva6r"
-        }
-      ],
-      "duration_ms": 267530,
-      "name": "Voyage of the Dead Marauder (feat. Patty Gurdy)",
-      "url": "https://open.spotify.com/track/15tb65IQDLvVlz8znIQfAu"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "NAIL5",
+        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "NAIL5",
+      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Lost in the Dark",
         "url": "https://open.spotify.com/album/40jVhBsza03byS968oOfi3"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 198298,
       "name": "Lost in the Dark",
       "url": "https://open.spotify.com/track/29icHp3xGk5PGfzPSKsXrg"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "NAIL5",
-        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 153622,
-      "name": "NAIL5",
-      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Neverending",
-        "url": "https://open.spotify.com/album/5cmohWvgnYfalgFPAIE6yo"
-      },
-      "artists": [
-        {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
-        }
-      ],
-      "duration_ms": 259321,
-      "name": "You Bastard",
-      "url": "https://open.spotify.com/track/2dQuUSuDvyRkgTk1h3fUgA"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Revenger",
         "url": "https://open.spotify.com/album/48X7KToLv5QVFKN3L7hQa6"
       },
@@ -1991,6 +1975,38 @@
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Neverending",
+        "url": "https://open.spotify.com/album/5cmohWvgnYfalgFPAIE6yo"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 259321,
+      "name": "You Bastard",
+      "url": "https://open.spotify.com/track/2dQuUSuDvyRkgTk1h3fUgA"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2015,18 +2031,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
+        "name": "A Visceral Retch",
+        "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
       },
       "artists": [
         {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
         }
       ],
-      "duration_ms": 229373,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
+      "duration_ms": 245656,
+      "name": "A Visceral Retch",
+      "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2043,22 +2059,6 @@
       "duration_ms": 269318,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "A Visceral Retch",
-        "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 245656,
-      "name": "A Visceral Retch",
-      "url": "https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "The Real You",
-        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Nerve",
         "url": "https://open.spotify.com/album/4BbTiIHFLWEkqabIVpDDDE"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 178840,
       "name": "\u304a\u3044\u3057\u3044\u30b5\u30d0\u30a4\u30d0\u30fc",
       "url": "https://open.spotify.com/track/7rUo3qpSvGob97U68qb0M6"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "House of Mirrors",
+        "url": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "House of Mirrors",
+      "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Vermillion",
         "url": "https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9"
       },
@@ -2575,22 +2591,6 @@
       "duration_ms": 239266,
       "name": "Cradle To The Grave",
       "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "House of Mirrors",
-        "url": "https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "House of Mirrors",
-      "url": "https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2711,6 +2711,22 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
+        "name": "Bring Out Your Dead",
+        "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
+      },
+      "artists": [
+        {
+          "name": "Elysion",
+          "url": "https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v"
+        }
+      ],
+      "duration_ms": 242172,
+      "name": "Crossing Over",
+      "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
         "name": "Chapter III - Downfall",
         "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
       },
@@ -2727,18 +2743,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Bring Out Your Dead",
-        "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
+        "name": "Para Bellum",
+        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
       },
       "artists": [
         {
-          "name": "Elysion",
-          "url": "https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 242172,
-      "name": "Crossing Over",
-      "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
+      "duration_ms": 232693,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2759,22 +2775,6 @@
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
-        "name": "Para Bellum",
-        "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 232693,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/6zsJjey6gAb8wVo3Rx4DVt"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -2991,22 +2991,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Cross The Divide",
-        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 258209,
-      "name": "Cross the Divide",
-      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Blood Dynasty",
         "url": "https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ"
       },
@@ -3019,6 +3003,22 @@
       "duration_ms": 231186,
       "name": "Blood Dynasty",
       "url": "https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Cross The Divide",
+        "url": "https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 258209,
+      "name": "Cross the Divide",
+      "url": "https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3039,22 +3039,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Sidewinder",
-        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
-      },
-      "artists": [
-        {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
-        }
-      ],
-      "duration_ms": 239682,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Presence of Mind",
         "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
       },
@@ -3067,6 +3051,22 @@
       "duration_ms": 255986,
       "name": "Presence of Mind",
       "url": "https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Sidewinder",
+        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "duration_ms": 239682,
+      "name": "Sidewinder",
+      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3119,22 +3119,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "A Perfect Day to Die",
-        "url": "https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "A Perfect Day to Die",
-      "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Hands of Sin",
         "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
       },
@@ -3147,6 +3131,22 @@
       "duration_ms": 242133,
       "name": "Hands of Sin",
       "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "A Perfect Day to Die",
+        "url": "https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "A Perfect Day to Die",
+      "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3251,22 +3251,6 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Broken and Blind",
-        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Broken and Blind",
-      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
-    },
-    {
-      "added_at": "2026-07-13 21:05:42",
-      "album": {
         "name": "Never Again (Parasite)",
         "url": "https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv"
       },
@@ -3279,6 +3263,22 @@
       "duration_ms": 204736,
       "name": "Never Again (Parasite)",
       "url": "https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG"
+    },
+    {
+      "added_at": "2026-07-13 21:05:42",
+      "album": {
+        "name": "Broken and Blind",
+        "url": "https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Broken and Blind",
+      "url": "https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC"
     },
     {
       "added_at": "2026-07-13 21:05:42",
@@ -3315,18 +3315,18 @@
     {
       "added_at": "2026-07-13 21:05:42",
       "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/0khWaaKpdL2HNqCclcjgCd"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7"
       },
       "artists": [
         {
-          "name": "Miracle Of Sound",
-          "url": "https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq"
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
         }
       ],
-      "duration_ms": 271129,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/1Z77DpJ5SThp5Sj8Qq3Qm1"
+      "duration_ms": 258325,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ"
     }
   ],
   "unique_name": "Heavy Metal",

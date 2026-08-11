@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 758382,
+  "num_followers": 758642,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQd4tROA0ltEb5CdtvI0S8z2gfM",
+  "snapshot_id": "AAAAAA7jVCS3OOS5Ys/LcRFKbFpeXa+8",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:37",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-07-23 23:00:37",
       "album": {
+        "name": "Music is Better",
+        "url": "https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "Music is Better",
+      "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
+    },
+    {
+      "added_at": "2026-07-23 23:00:37",
+      "album": {
         "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
         "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 241061,
       "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
       "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
-    },
-    {
-      "added_at": "2026-07-23 23:00:37",
-      "album": {
-        "name": "Music is Better",
-        "url": "https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "Music is Better",
-      "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
     },
     {
       "added_at": "2026-07-23 23:00:37",
@@ -439,6 +439,26 @@
     {
       "added_at": "2026-07-23 23:00:37",
       "album": {
+        "name": "Want You In My Soul (Radio Edit)",
+        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Want You In My Soul - Radio Edit",
+      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
+    },
+    {
+      "added_at": "2026-07-23 23:00:37",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2026-07-23 23:00:37",
-      "album": {
-        "name": "Want You In My Soul (Radio Edit)",
-        "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        },
-        {
-          "name": "Stee Downes",
-          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Want You In My Soul - Radio Edit",
-      "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
     },
     {
       "added_at": "2026-07-23 23:00:37",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-07-23 23:00:37",
       "album": {
+        "name": "You Don't Want To Think About It",
+        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        },
+        {
+          "name": "Noa Milee",
+          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "You Don't Want To Think About It",
+      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
+    },
+    {
+      "added_at": "2026-07-23 23:00:37",
+      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -647,22 +667,6 @@
     {
       "added_at": "2026-07-23 23:00:37",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        }
-      ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
-    },
-    {
-      "added_at": "2026-07-23 23:00:37",
-      "album": {
         "name": "Everything Will Be Alright",
         "url": "https://open.spotify.com/album/3VW3rR8BFAITqgT45WX3Cv"
       },
@@ -695,22 +699,18 @@
     {
       "added_at": "2026-07-23 23:00:37",
       "album": {
-        "name": "You Don't Want To Think About It",
-        "url": "https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Noa Milee",
-          "url": "https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
         }
       ],
-      "duration_ms": 142973,
-      "name": "You Don't Want To Think About It",
-      "url": "https://open.spotify.com/track/3ULfGDITqxInNepI808JDe"
+      "duration_ms": 194962,
+      "name": "Keep It Rising",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
     },
     {
       "added_at": "2026-07-23 23:00:37",

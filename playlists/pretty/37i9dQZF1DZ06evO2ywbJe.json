@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8876,
+  "num_followers": 8883,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAVaoGIlrqIopUQfvmTJtxW",
+  "snapshot_id": "anfDAAAAAAAB63fsqTsPG7wgMyio3pwf",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SORRY I'M BAD",
-        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
       "artists": [
         {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        },
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 195692,
-      "name": "BITCH & MONEY",
-      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
     },
     {
       "added_at": null,
@@ -343,22 +339,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+        "name": "SORRY I'M BAD",
+        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+      "duration_ms": 195692,
+      "name": "BITCH & MONEY",
+      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 139666,
+      "name": "Secure",
+      "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Secure",
-      "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lagos Anthem",
+        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 209747,
+      "name": "Lagos Anthem",
+      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lagos Anthem",
-        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 209747,
-      "name": "Lagos Anthem",
-      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bolanle",
-        "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
-      },
-      "artists": [
-        {
-          "name": "IVD",
-          "url": "https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173712,
-      "name": "Bolanle",
-      "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Help Is On The Way",
         "url": "https://open.spotify.com/album/7lalb7TYwF60OY1B2CxJNC"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 176169,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/5omAsVaZAqRxujRViDQGWL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bolanle",
+        "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
+      },
+      "artists": [
+        {
+          "name": "IVD",
+          "url": "https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173712,
+      "name": "Bolanle",
+      "url": "https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "A softer space.",
-  "num_followers": 610628,
+  "num_followers": 610573,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKh1U3o3vM44RwWs3j+5/D+KE3UX",
+  "snapshot_id": "AAAAAFLJeCBARZ/D+c0BnfdwMzq6JkYb",
   "tracks": [
     {
       "added_at": "2024-10-10 15:49:38",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-07-23 17:10:49",
       "album": {
-        "name": "The Clearing (B Sides)",
-        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Gospel Oak",
-      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
-    },
-    {
-      "added_at": "2026-07-23 17:10:49",
-      "album": {
         "name": "Not for Nothing",
         "url": "https://open.spotify.com/album/6h7Q4NvBdCagiNOCSz6rjy"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 189290,
       "name": "Not for Nothing",
       "url": "https://open.spotify.com/track/71LE6SBGVcXdIhHxJ6Nb8c"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Gospel Oak",
+      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 154106,
       "name": "UFO",
       "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "unposted letters",
-        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 205230,
-      "name": "unposted letters",
-      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 200025,
-      "name": "Montana",
-      "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -1175,18 +1143,34 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj"
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
       "artists": [
         {
-          "name": "Nell Mescal",
-          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 212625,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
+      "duration_ms": 200025,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "unposted letters",
+        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 205230,
+      "name": "unposted letters",
+      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
       "added_at": "2025-02-28 15:54:30",
@@ -1203,6 +1187,22 @@
       "duration_ms": 190264,
       "name": "Dumb Feeling",
       "url": "https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj"
+      },
+      "artists": [
+        {
+          "name": "Nell Mescal",
+          "url": "https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE"
+        }
+      ],
+      "duration_ms": 212625,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 136954,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 158973,
       "name": "Never Get To Heaven",
       "url": "https://open.spotify.com/track/1r8gFL6v8mkD8CmwIQu2Lk"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 136954,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
+      },
+      "artists": [
+        {
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
+        }
+      ],
+      "duration_ms": 213671,
+      "name": "homesickness",
+      "url": "https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 213671,
-      "name": "homesickness",
-      "url": "https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Meet Me At The Record Store",
         "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 233111,
       "name": "Meet Me At The Record Store",
       "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -1591,6 +1575,22 @@
       "duration_ms": 184571,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Mechanical Bull",
         "url": "https://open.spotify.com/album/6oCZlWPocAtzIiwB4wmYOn"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 236359,
       "name": "Mechanical Bull",
       "url": "https://open.spotify.com/track/5xW6tYmC8DnppbGrZClVbM"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 162678,
+      "name": "Sleeping On My Own",
+      "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
     }
   ],
   "unique_name": "Gentle",

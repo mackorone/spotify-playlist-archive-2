@@ -1,12 +1,12 @@
 {
   "description": "A trip down pop's memory lane.",
-  "num_followers": 542832,
+  "num_followers": 542820,
   "original_name": "Classic Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADPbtt2JIeDn1vgJeRF4bW7vXbQe",
+  "snapshot_id": "AAAAAP7sg3JwSGBoBoa+PTftD9qKnjqm",
   "tracks": [
     {
       "added_at": "2024-03-27 15:56:13",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
-    },
-    {
-      "added_at": "2024-03-27 15:56:13",
-      "album": {
         "name": "Overexposed Track By Track",
         "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
+    },
+    {
+      "added_at": "2024-03-27 15:56:13",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2024-03-27 15:56:13",
@@ -879,22 +879,18 @@
     {
       "added_at": "2024-03-27 15:56:13",
       "album": {
-        "name": "Raymond v Raymond (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 269493,
-      "name": "OMG (feat. will.i.am)",
-      "url": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
+      "duration_ms": 192359,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
     }
   ],
   "unique_name": "Classic Pop Picks",

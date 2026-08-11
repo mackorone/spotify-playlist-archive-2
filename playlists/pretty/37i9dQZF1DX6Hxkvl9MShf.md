@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 
 > Melodic house and techno to concentrate the mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,236 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,279 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Hxkvl9MShf.md) - [plain]
 | 98 | [The Two of Us \(We Only Need\)](https://open.spotify.com/track/7mKOhewqU0whbsRHw2vD3t) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [The Two of Us \(We Only Need\)](https://open.spotify.com/album/7hA8pFcuyGgljiYegOCr3b) | 3:57 |
 | 99 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 |
 
-Snapshot ID: `AAAAAKI/ziPW8o2xQnjrpmMdLeEKBtpH`
+Snapshot ID: `AAAAANfWhzpklO5vUE0gvLhmt1oWq7N1`

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego",
-  "num_followers": 55404,
+  "num_followers": 55410,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIR67/Q49choRnkDEfstIUGfCTFe",
+  "snapshot_id": "AAAAAMpWLQLs5oyToXKuMZoCf90henbO",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:52",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-07-23 23:00:52",
       "album": {
-        "name": "Afro Fado",
-        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
+        "name": "Camisa 10 (Primavera)",
+        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
         }
       ],
-      "duration_ms": 222427,
-      "name": "Ultimamente",
-      "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
+      "duration_ms": 151875,
+      "name": "Camisa 10 (Primavera)",
+      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
     },
     {
       "added_at": "2026-07-23 23:00:52",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-07-23 23:00:52",
       "album": {
-        "name": "Camisa 10 (Primavera)",
-        "url": "https://open.spotify.com/album/5GkTbaYqQBYY1XSW6GWLxe"
+        "name": "Afro Fado",
+        "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
       },
       "artists": [
         {
-          "name": "Edgar Domingos",
-          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Camisa 10 (Primavera)",
-      "url": "https://open.spotify.com/track/35ikW2zACF8ksDyMxDhgzX"
+      "duration_ms": 222427,
+      "name": "Ultimamente",
+      "url": "https://open.spotify.com/track/2OXcFFTAhcpElg1ZMAqLB7"
     },
     {
       "added_at": "2026-07-23 23:00:52",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-23 23:00:52",
       "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
-    },
-    {
-      "added_at": "2026-07-23 23:00:52",
-      "album": {
         "name": "Chama",
         "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 153029,
       "name": "Chama",
       "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:52",
+      "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2026-07-23 23:00:52",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-07-23 23:00:52",
       "album": {
-        "name": "Eu Quero Um Preto",
-        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
-      },
-      "artists": [
-        {
-          "name": "Nenny",
-          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
-        }
-      ],
-      "duration_ms": 233307,
-      "name": "Eu Quero Um Preto",
-      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
-    },
-    {
-      "added_at": "2026-07-23 23:00:52",
-      "album": {
         "name": "Coca Cola",
         "url": "https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G"
       },
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2026-07-23 23:00:52",
       "album": {
-        "name": "Flexin On U",
-        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
+        "name": "Eu Quero Um Preto",
+        "url": "https://open.spotify.com/album/4VYHoBdfe9ItKcZEIVVky4"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "Tatiana Duarte",
-          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
         }
       ],
-      "duration_ms": 271500,
-      "name": "Flexin On U",
-      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
+      "duration_ms": 233307,
+      "name": "Eu Quero Um Preto",
+      "url": "https://open.spotify.com/track/5RR0enYvYBvjNIPAAYzxcU"
     },
     {
       "added_at": "2026-07-23 23:00:52",
@@ -1351,6 +1331,26 @@
       "duration_ms": 196310,
       "name": "\u00daltimo beijo",
       "url": "https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:52",
+      "album": {
+        "name": "Flexin On U",
+        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Tatiana Duarte",
+          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
+        }
+      ],
+      "duration_ms": 271500,
+      "name": "Flexin On U",
+      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
     },
     {
       "added_at": "2026-07-23 23:00:52",

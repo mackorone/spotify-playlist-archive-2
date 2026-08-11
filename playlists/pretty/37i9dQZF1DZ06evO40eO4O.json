@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8310,
+  "num_followers": 8316,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADQTfSiSpK3bddt90n9DLh0",
+  "snapshot_id": "anfDAAAAAAAWQ0bijVXqoSXPzG/5UuSc",
   "tracks": [
     {
       "added_at": null,
@@ -327,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUAPO",
-        "url": "https://open.spotify.com/album/0Dy8iWaSx9u7YxhMTTbA1E"
+        "name": "Favorita (En Vivo)",
+        "url": "https://open.spotify.com/album/1n4aXYVrnqSV8ahYenLZGo"
       },
       "artists": [
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        },
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 165290,
-      "name": "GUAPO",
-      "url": "https://open.spotify.com/track/4AVbqBvcfsr0BmgzO7WmOL"
+      "duration_ms": 260244,
+      "name": "Favorita (En Vivo)",
+      "url": "https://open.spotify.com/track/6zTK7QwntQ9CuDJowNVFSS"
     },
     {
       "added_at": null,
@@ -355,6 +359,22 @@
       "duration_ms": 132290,
       "name": "OOPS!",
       "url": "https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GUAPO",
+        "url": "https://open.spotify.com/album/0Dy8iWaSx9u7YxhMTTbA1E"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 165290,
+      "name": "GUAPO",
+      "url": "https://open.spotify.com/track/4AVbqBvcfsr0BmgzO7WmOL"
     },
     {
       "added_at": null,
@@ -391,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favorita (En Vivo)",
-        "url": "https://open.spotify.com/album/1n4aXYVrnqSV8ahYenLZGo"
-      },
-      "artists": [
-        {
-          "name": "Cindy Cats",
-          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 260244,
-      "name": "Favorita (En Vivo)",
-      "url": "https://open.spotify.com/track/6zTK7QwntQ9CuDJowNVFSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO ME OLVIDES",
         "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA NI\u00d1A DE FUEGO",
-        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "LNDF",
-      "url": "https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOTANDO",
         "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 162000,
       "name": "FLOTANDO",
       "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA NI\u00d1A DE FUEGO",
+        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "LNDF",
+      "url": "https://open.spotify.com/track/49b86Qmdexs8IxuaLHD0AA"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA NI\u00d1A DE FUEGO",
-        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "ARRABALERA",
-      "url": "https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AL\u00d3",
         "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 171428,
       "name": "AL\u00d3",
       "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA NI\u00d1A DE FUEGO",
+        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "ARRABALERA",
+      "url": "https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE"
     },
     {
       "added_at": null,

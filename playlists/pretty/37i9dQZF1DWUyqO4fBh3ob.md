@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,188 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,191 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 18 | [Ba'd Elly Saar](https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK) | [Shahd Barmada](https://open.spotify.com/artist/6wwlkaIcFu0b2L2w6xtVRr) | [Ba'd Elly Saar](https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG) | 4:44 |
 | 19 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 |
 | 20 | [Moonlight](https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Moonlight](https://open.spotify.com/album/4mt4eTy3AkiPWplcJ1SQcZ) | 3:57 |
-| 21 | [Kellon Annek Sa'alouni](https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy) | [Elias Karam](https://open.spotify.com/artist/4b9nglUgMKz4Lydbis6IdR), [Rawhi Tohme](https://open.spotify.com/artist/4Lh8FRO93HuhBYbgC0rJ4S) | [Bass Elak](https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1) | 6:01 |
+| 21 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
 | 22 | [Ghanni](https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ghanni](https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF) | 3:31 |
-| 23 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
+| 23 | [Kellon Annek Sa'alouni](https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy) | [Elias Karam](https://open.spotify.com/artist/4b9nglUgMKz4Lydbis6IdR), [Rawhi Tohme](https://open.spotify.com/artist/4Lh8FRO93HuhBYbgC0rJ4S) | [Bass Elak](https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1) | 6:01 |
 | 24 | [El'nayzak](https://open.spotify.com/track/3vzZaVTN9XJpp1XKVDBGpg) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [El'nayzak](https://open.spotify.com/album/6fvtnyGSzS7gcAiPB4WDo9) | 2:16 |
 | 25 | [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 |
 | 26 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 32 | [Sada Mawalena](https://open.spotify.com/track/6AeXuT4ACtOnqQgvkNOZjj) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Sada Mawalena](https://open.spotify.com/album/01tB0ZPHDIz4aQJ6U53BJ7) | 4:20 |
 | 33 | [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 |
 | 34 | [Swarat](https://open.spotify.com/track/6jWQ9vgd089Ayk1uws9Fb3) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Swarat](https://open.spotify.com/album/2lHuo0CbcdEzTVZNcpk9gE) | 3:26 |
-| 35 | [You Make Me Laugh](https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew) | [Omar Offendum](https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [You Make Me Laugh](https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q) | 2:41 |
-| 36 | [Mktifi Bhali](https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Mktifi Bhali](https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ) | 4:17 |
+| 35 | [Mktifi Bhali](https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Mktifi Bhali](https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ) | 4:17 |
+| 36 | [You Make Me Laugh](https://open.spotify.com/track/1kTR3L90ODiEPY5cXLvHew) | [Omar Offendum](https://open.spotify.com/artist/5gxANVcKbp8iPNLgAo7DhA), [Thanks Joey](https://open.spotify.com/artist/4fOizZJsCaT3RYpqNdeGKk), [El Bles](https://open.spotify.com/artist/13jGZidP6rRBpqAQUTZLhL) | [You Make Me Laugh](https://open.spotify.com/album/1gHpXCOHGd6Fy59HY5mi6Q) | 2:41 |
 | 37 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
 | 38 | [Mahlaki](https://open.spotify.com/track/5u7fv6kikvIUdtlQ2xqDu0) | [Hussein Al Deek](https://open.spotify.com/artist/1QxkWzg3QsYJv6xMXSuVMs) | [Mahlaki](https://open.spotify.com/album/2JBUKhBEh1KTFRUzS4kaMx) | 4:14 |
 | 39 | [Malak Halle](https://open.spotify.com/track/6uOdpvk7I3RL92xbcbPt6q) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Malak Halle](https://open.spotify.com/album/1H8pbCWqU3lAmFmktdI3Tz) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Hal El Garih](https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl) | 3:21 |
 | 50 | [Dommini](https://open.spotify.com/track/3yYxfPZFP3JdIChDo0BQS3) | [Anas Kareem](https://open.spotify.com/artist/03IOvKWtAnWAOVf5864dUS) | [Dommini](https://open.spotify.com/album/7f79BxczEBnQfBLhtOY942) | 4:50 |
 
-Snapshot ID: `AAAAABpvo6oReeUNl79HnzEzxn+moWjk`
+Snapshot ID: `AAAAADOB4JxD/iJnd8OyxuOWZNFiutSD`

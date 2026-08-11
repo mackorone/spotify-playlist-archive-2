@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1rrYSOTmZS.md) - [plain]
 
 > enjoy the wave to earth CONCERT \[사랑으로 0.3\] LIVE SET including the voices of them on stage! \(wave to earth의 무대 멘트와 목소리가 포함된 \[사랑으로 0.3\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,853 likes - 28 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,867 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1rrYSOTmZS.md) - [plain]
 | 27 | [pueblo \(remastered 2024\)](https://open.spotify.com/track/5LeRzKKmCY67RobH8Qie4h) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [play with earth! 0.03 \(extended\)](https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ) | 3:47 |
 | 28 | [annie.](https://open.spotify.com/track/1I9je9jTqpmejE4Tzdl4MM) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [play with earth! 0.03 \(extended\)](https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ) | 3:20 |
 
-Snapshot ID: `AAAAAGfQgzj6ibJiJcBOmL6A6O4b3a5b`
+Snapshot ID: `AAAAAHhccinfE0tOLi7tAA6LTOSETNr1`

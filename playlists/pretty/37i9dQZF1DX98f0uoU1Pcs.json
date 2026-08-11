@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295381,
+  "num_followers": 295385,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJLbvcZ2T1UQ3adACQFNqCXBw+6",
+  "snapshot_id": "AAAAAJVZP0kAENUn7apzJVBqz+IKV0HR",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Death Destruction Mayhem",
-        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
-      },
-      "artists": [
-        {
-          "name": "Ceremony",
-          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Death Destruction Mayhem",
-      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Florida Water Blues",
         "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233197,
       "name": "Riding",
       "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Death Destruction Mayhem",
+        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
+      },
+      "artists": [
+        {
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
+        }
+      ],
+      "duration_ms": 178613,
+      "name": "Death Destruction Mayhem",
+      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Accent",
-        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
-      },
-      "artists": [
-        {
-          "name": "Sweeping Promises",
-          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
-        }
-      ],
-      "duration_ms": 237059,
-      "name": "Accent",
-      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Real Deal",
         "url": "https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 234566,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+      },
+      "artists": [
+        {
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+        }
+      ],
+      "duration_ms": 237059,
+      "name": "Accent",
+      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Saturday Sun",
-        "url": "https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Saturday Sun",
+        "url": "https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Surprise Wish",
-        "url": "https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu"
-      },
-      "artists": [
-        {
-          "name": "Dari Bay",
-          "url": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC"
-        }
-      ],
-      "duration_ms": 210968,
-      "name": "Chevy",
-      "url": "https://open.spotify.com/track/5JPlMByDvtriNCFh1JfXax"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Drag",
         "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 169693,
       "name": "Drag",
       "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Surprise Wish",
+        "url": "https://open.spotify.com/album/5Y8yGUphldKEGP4SDoygJu"
+      },
+      "artists": [
+        {
+          "name": "Dari Bay",
+          "url": "https://open.spotify.com/artist/7iLbpRChR7nWCntgpuz7dC"
+        }
+      ],
+      "duration_ms": 210968,
+      "name": "Chevy",
+      "url": "https://open.spotify.com/track/5JPlMByDvtriNCFh1JfXax"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Public Luxury",
-        "url": "https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B"
-      },
-      "artists": [
-        {
-          "name": "Downtown Boys",
-          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
-        }
-      ],
-      "duration_ms": 217468,
-      "name": "No Me Jodas",
-      "url": "https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 177975,
       "name": "Special",
       "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Public Luxury",
+        "url": "https://open.spotify.com/album/32DybyKniPSttPHjnW3E0B"
+      },
+      "artists": [
+        {
+          "name": "Downtown Boys",
+          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
+        }
+      ],
+      "duration_ms": 217468,
+      "name": "No Me Jodas",
+      "url": "https://open.spotify.com/track/7mAca6nVgGRj0RfXStjghu"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
       },
       "artists": [
         {
-          "name": "Ultra Lights",
-          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 127173,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Ultra Lights",
+          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+      "duration_ms": 127173,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Trickle Down",
+        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "Trickle Down",
+      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Late Nighter",
         "url": "https://open.spotify.com/album/7Abp5xiFR69l5OZiH1Sg3T"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 137750,
       "name": "Wet Brain",
       "url": "https://open.spotify.com/track/0hGvkifKlk8MbqrhQloipy"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Trickle Down",
-        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "Trickle Down",
-      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Glass and Bones",
-        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
-      },
-      "artists": [
-        {
-          "name": "Makthaverskan",
-          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
-        }
-      ],
-      "duration_ms": 227129,
-      "name": "Won't Wait",
-      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "O, My Love",
         "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 178006,
       "name": "O, My Love",
       "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Glass and Bones",
+        "url": "https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O"
+      },
+      "artists": [
+        {
+          "name": "Makthaverskan",
+          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
+        }
+      ],
+      "duration_ms": 227129,
+      "name": "Won't Wait",
+      "url": "https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl"
     },
     {
       "added_at": "2026-07-17 17:28:38",

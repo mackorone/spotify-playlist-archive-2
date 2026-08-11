@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKIq77kuEPbsw11JgeF72vDtuw6r",
+  "snapshot_id": "AAAAAAtOXK8IBnX/Ev3F7v5vhy3H1vAL",
   "tracks": [
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
-      },
-      "artists": [
-        {
-          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "Jin & Akiomi\u300c\u30cf\u30ca\u30cb\u30ca\u30ec\uff01\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
         "url": "https://open.spotify.com/album/30ZTn3ofR3ISSO1cdY2OGO"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 199112,
       "name": "\u30cf\u30ca\u30cb\u30ca\u30ec\uff01",
       "url": "https://open.spotify.com/track/32Rqmby8BxNZUvjcbvO88C"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
+      },
+      "artists": [
+        {
+          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u5927\u795e \u6643\u7259\u300cSCAB\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u795e \u6643\u7259(CV.\u5c0f\u91ce \u53cb\u6a39)",
+          "url": "https://open.spotify.com/artist/1M6bWEqikQdJtnFb0sxjTu"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 208201,
+      "name": "SCAB",
+      "url": "https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u300cLet\u2019s\uff01\u30ad\u30e9\u30ad\u30e9\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u2606\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/7A2KSWOiyIsSbA455L7dbl"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 232522,
       "name": "Let\u2019s\uff01\u30ad\u30e9\u30ad\u30e9\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u2606",
       "url": "https://open.spotify.com/track/506QEdY4JMYq3g174Z2Z2B"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u5927\u795e \u6643\u7259\u300cSCAB\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/5gMJg7a3uezBjYUweV4rBz"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u795e \u6643\u7259(CV.\u5c0f\u91ce \u53cb\u6a39)",
-          "url": "https://open.spotify.com/artist/1M6bWEqikQdJtnFb0sxjTu"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 208201,
-      "name": "SCAB",
-      "url": "https://open.spotify.com/track/5anTMMp6mxWV8lkhSnM6Gg"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u6df1\u6d77 \u594f\u6c70\u300c\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/2DuJ3oE4Q97Ol4uF0X4nSZ"
-      },
-      "artists": [
-        {
-          "name": "\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/3PUI9fMDUgKZrS7SZgnPsW"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9",
-      "url": "https://open.spotify.com/track/2BXV3mTxHwA2n4lDAMj7HQ"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "\u300cOWN\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/0UJyFPjq1Qpr7vKQ0Jbtcc"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 205990,
       "name": "OWN",
       "url": "https://open.spotify.com/track/2OoPeFUl5cVpemSwYasVzN"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u6df1\u6d77 \u594f\u6c70\u300c\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/2DuJ3oE4Q97Ol4uF0X4nSZ"
+      },
+      "artists": [
+        {
+          "name": "\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/3PUI9fMDUgKZrS7SZgnPsW"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "\u65c5\u3059\u308b\u30e6\u30ea\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/2BXV3mTxHwA2n4lDAMj7HQ"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
+        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
+      },
+      "artists": [
+        {
+          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
+          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
+        }
+      ],
+      "duration_ms": 289253,
+      "name": "Gate of the Abyss",
+      "url": "https://open.spotify.com/track/5Dmq5J2N2vhNj6bRggGYbq"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
         "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 187840,
       "name": "Noir Neige",
       "url": "https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
-        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
-      },
-      "artists": [
-        {
-          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
-          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Melody in the Dark",
-      "url": "https://open.spotify.com/track/31lx7Gh3CIcdAGT8oVcb7L"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

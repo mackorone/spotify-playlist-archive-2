@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain]
 
 > Relive the glory days of the 90s and 00s when Girl Power ruled the music world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,947 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,957 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain]
 | 2 | [Bills, Bills, Bills](https://open.spotify.com/track/66MZOjOTOoc74kJ5JEAUq6) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/78r5vrR1Wf60JPgFQ1drwr) | 4:16 |
 | 3 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 4 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 |
-| 5 | [One Night Stand](https://open.spotify.com/track/2OGmG8TwGon9uwHFUQM46K) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Lickin' On Both Sides](https://open.spotify.com/album/5TMQsvBUkHGxOEnPEVPrj3) | 3:27 |
+| 5 | [One Night Stand \- StarGate Radio Edit](https://open.spotify.com/track/2OGmG8TwGon9uwHFUQM46K) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Stargate](https://open.spotify.com/artist/4yA7QuT08bPTnwJXKQSubo) | [Lickin' On Both Sides](https://open.spotify.com/album/5TMQsvBUkHGxOEnPEVPrj3) | 3:27 |
 | 6 | [Never Ever](https://open.spotify.com/track/2NtjcyTvYQXdUFdzeYyQxG) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Never Ever](https://open.spotify.com/album/77NRIvoKQJPL1eAoUYZKOr) | 5:09 |
 | 7 | [Overload \- Edit](https://open.spotify.com/track/3EAJjwwwEjr0Q7TvabCMRR) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Overload](https://open.spotify.com/album/3nabLGLmVV2EJiyMKCQ01O) | 4:37 |
 | 8 | [C'est La Vie](https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S) | [B\*Witched](https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u) | [C'est la Vie: The Collection](https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn) | 2:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNiUduOl0uo.md) - [plain]
 | 54 | [Damn I Wish I Was Your Lover](https://open.spotify.com/track/7kmfQ2QHwGqRCxVHDv5mzo) | [Sophie B\. Hawkins](https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC) | [Tongues And Tails](https://open.spotify.com/album/0uv0eA8q8HCfCytsAtZSch) | 5:23 |
 | 55 | [Everyday Is A Winding Road](https://open.spotify.com/track/1LlIqoHhTYC7Pd8dFMLzzx) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/49fcfLcicBYSqitKzXDJpN) | 4:16 |
 
-Snapshot ID: `AAAAACsKK1u/0xlF0Oj2tubs9+LUfHA/`
+Snapshot ID: `AAAAAJSPxX+1/3AHkM/RaSwC7ONVn/NV`

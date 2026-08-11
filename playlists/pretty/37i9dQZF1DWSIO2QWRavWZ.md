@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover:  Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,698 likes - 160 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,717 likes - 160 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 159 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
 | 160 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 
-Snapshot ID: `AAAAAJ9m+GPeCrYJA//rV9tAwJRNycqI`
+Snapshot ID: `AAAAADFuB0jG1IxH2Dyxi1ImGuS6mjTf`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACpv9VInmFCk+hSp4zbvq+p",
+  "snapshot_id": "anfDAAAAAADTz5XU/bit+jVy51rrjFAP",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do What U Gotta Do",
-        "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 204080,
-      "name": "Do What U Gotta Do",
-      "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 237569,
       "name": "2 Bad Habits",
       "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do What U Gotta Do",
+        "url": "https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 204080,
+      "name": "Do What U Gotta Do",
+      "url": "https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97"
     },
     {
       "added_at": null,
@@ -552,21 +552,17 @@
       "added_at": null,
       "album": {
         "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
         }
       ],
-      "duration_ms": 241466,
-      "name": "Stay For A While (feat. Anthony Hamilton)",
-      "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
+      "duration_ms": 236533,
+      "name": "U-Haul",
+      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
     },
     {
       "added_at": null,
@@ -628,7 +624,27 @@
       "added_at": null,
       "album": {
         "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 241466,
+      "name": "Stay For A While (feat. Anthony Hamilton)",
+      "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
@@ -636,9 +652,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 236533,
-      "name": "U-Haul",
-      "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
+      "duration_ms": 195211,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
     },
     {
       "added_at": null,
@@ -659,22 +675,6 @@
       "duration_ms": 289271,
       "name": "Love TKO",
       "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Dollar Bill",
-      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 214866,
       "name": "You Don't Love Me",
       "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Red, Red Wine",
-      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
     },
     {
       "added_at": null,
@@ -771,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
       "artists": [
         {
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Come Home (Live With Me)",
-      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
+      "duration_ms": 176426,
+      "name": "Red, Red Wine",
+      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 269373,
       "name": "Happy Being Me",
       "url": "https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Come Home (Live With Me)",
+      "url": "https://open.spotify.com/track/76t9JKMDB9C1QoJTdspV6D"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 271493,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 243641,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
     },
     {
       "added_at": null,

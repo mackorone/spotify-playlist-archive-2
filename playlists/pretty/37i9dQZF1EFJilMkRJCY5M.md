@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 79 | [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 |
 | 80 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
 | 81 | [Loud House](https://open.spotify.com/track/3T9TRSgEw9rbqOJXEObErB) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7hpM4nPEnAH5ctuqma33ob) | 3:24 |
-| 82 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
-| 83 | [If We Want To](https://open.spotify.com/track/6J6pnmSeFzHupGJpIUy03A) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [Chevy Beaulieu](https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu) | 3:13 |
+| 82 | [If We Want To](https://open.spotify.com/track/6J6pnmSeFzHupGJpIUy03A) | [Chevy Beaulieu](https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC) | [Chevy Beaulieu](https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu) | 3:13 |
+| 83 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
 | 84 | [This Is Where I Leave You](https://open.spotify.com/track/0jtRYpwMmDV5pypwHYksSw) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [In My Imagination](https://open.spotify.com/album/6GVdXBg3rFTbg3fB1MJ7pa) | 2:39 |
 | 85 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 |
 | 86 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 132 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 133 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `AcZJgAAAAAApjYDilPo/N6Xbvzz3GAPe`
+Snapshot ID: `AcZPIAAAAAB/tzoo++TnSWO44Qz8y/7u`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 
 > esta playlist dura lo mismo \(o menos\) que la pausa futbolera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,837 likes - 10 songs - 2 min 54 sec
+[Spotify](https://open.spotify.com/user/spotify) - 174,821 likes - 10 songs - 2 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ICoVUm52hQ.md) - [plain]
 | 9 | [La Copa De Dama](https://open.spotify.com/track/4SnAFVBTER0bqDZpGJ10It) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 0:35 |
 | 10 | [Disturbio](https://open.spotify.com/track/0Okvke1aN5qOuxTk4kt75p) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 0:25 |
 
-Snapshot ID: `AAAAAPMiQl+xLQAmu3ba5fj8zp3DYwPv`
+Snapshot ID: `AAAAADZKmahnWb3zTWGCYcCxevM0/GwN`

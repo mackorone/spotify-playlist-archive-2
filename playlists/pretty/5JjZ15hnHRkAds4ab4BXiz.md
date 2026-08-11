@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 736 songs - 1 day 22 hr 46 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 742 songs - 1 day 23 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -744,5 +744,11 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 734 | [Guardians of Space](https://open.spotify.com/track/07qUbLgBYoCBmHaz7eSf4G) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Guardians of Space](https://open.spotify.com/album/2RjaGdSeoM9aSWMh5GAMfS) | 4:00 |
 | 735 | [Falling Apart](https://open.spotify.com/track/4G5TVyb0lp9rzmoXHWTO8a) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/7K4MJf0pCkZGoxGvYJebWD) | 4:05 |
 | 736 | [William, It Was Really Nothing \- 2011 Remaster](https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 2:11 |
+| 737 | [Psycho Shit](https://open.spotify.com/track/1bsPoGSrs4Vv8iuUs9GQI7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 5:23 |
+| 738 | [Dine N'Dash](https://open.spotify.com/track/22a006OJm48zH87SkPpSVx) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 5:03 |
+| 739 | [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 |
+| 740 | [Going to Babble On](https://open.spotify.com/track/2nxsLJwW4eFDwl36fUQJWe) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 4:06 |
+| 741 | [Idea For A Story](https://open.spotify.com/track/62QXJxUHrBICmAW9sarWi5) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Mercury \(7" Version\)](https://open.spotify.com/album/5ZPfMnmGRxHmlaVwTj6veL) | 5:04 |
+| 742 | [Liar's Remorse](https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 4:50 |
 
-Snapshot ID: `AAAr5AUWFte8nTuwbem8GctFnnheNdJd`
+Snapshot ID: `AAAr6u+PQZTmVGihqKFEaqmqZnhWf0OD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > BLUE GIANT MOMENTUMとSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,380 likes - 30 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,412 likes - 30 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [My Queen Is Ada Eastman](https://open.spotify.com/track/2iRy66b9oGfv2hg48EeaTt) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 6:39 |
 | 30 | [Change Has Come \- Live At The Village Theatre/1967](https://open.spotify.com/track/5dRrq4RqEupvR1aRZtNgFh) | [Albert Ayler](https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6) | [In Greenwich Village](https://open.spotify.com/album/48cwGSrcgHlUSezWHxrTW7) | 6:24 |
 
-Snapshot ID: `AAAAABosJuL3WRoKO2mySbQF38PJLyjd`
+Snapshot ID: `AAAAAAdOVBJ1SEdZjUbup5VUbB6QGKu8`

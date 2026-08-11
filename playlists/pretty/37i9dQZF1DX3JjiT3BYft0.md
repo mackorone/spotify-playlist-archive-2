@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,920 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,926 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,21 +67,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 57 | [Don't be afraid!](https://open.spotify.com/track/6xdaAj70Cp5XSSuEIuzWef) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:57 |
 | 58 | [そばかす \- Cover](https://open.spotify.com/track/2daUZPAd5e8QdN2bOzC9js) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:10 |
 | 59 | [青い栞 \- Cover](https://open.spotify.com/track/5UHnD4ZYLLOSQaAeJGuBzt) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 5:36 |
-| 60 | [うぃーきゃん☆フレフレっ!](https://open.spotify.com/track/07g6Yf2bblURbi6vYK3hcG) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [うぃーきゃん☆フレフレっ!](https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH) | 3:59 |
+| 60 | [はれやか すこやか ぴかりんりん♪](https://open.spotify.com/track/3XU84iyRVUlt13hVtAmcQR) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [えがお･シング･あ･ソング](https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf) | 4:17 |
 | 61 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy), [花音](https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
 | 62 | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/track/5TZyQjaLF7C6mCHn7auFhr) | [日菜](https://open.spotify.com/artist/5IRX41YDPyIvlKBhfWQFjI), [千聖](https://open.spotify.com/artist/2HPjNk8xJr6y3lk8TzUcDj), [麻弥](https://open.spotify.com/artist/0roduHEfBOh5Dw6KIYlA7G), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [紗夜](https://open.spotify.com/artist/4bKTnPDnjgWNVG0wPpq5L5), [リサ](https://open.spotify.com/artist/7ols3PswTwnpdvbqHG2fav), [燐子](https://open.spotify.com/artist/3rsjfLbwzDOmns55hKDzS9), [薫](https://open.spotify.com/artist/2ZJwCjTnSnr2V7a91pBvoJ), [花音](https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8) | [See you! 〜それぞれの明日へ〜](https://open.spotify.com/album/28jD62i4cZTV3y9hh6aj0l) | 5:11 |
 | 63 | [SAKURAスキップ \- Cover](https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 3:48 |
-| 64 | [Northern lights \- Cover](https://open.spotify.com/track/55RYpBqJz5hzsO22QzbLF3) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:29 |
-| 65 | [はれやか すこやか ぴかりんりん♪](https://open.spotify.com/track/3XU84iyRVUlt13hVtAmcQR) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [えがお･シング･あ･ソング](https://open.spotify.com/album/3Wv3E9CGqGqSCIf4Fpn6jf) | 4:17 |
+| 64 | [イマジネーション \- Cover](https://open.spotify.com/track/4jjWAhz0pEVIreoP7guUL6) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 2:57 |
+| 65 | [うぃーきゃん☆フレフレっ!](https://open.spotify.com/track/07g6Yf2bblURbi6vYK3hcG) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [うぃーきゃん☆フレフレっ!](https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH) | 3:59 |
 | 66 | [どきどきSING OUT!](https://open.spotify.com/track/6dEHqdy4TNrFgJ3U8jFY2g) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [どきどきSING OUT!](https://open.spotify.com/album/03VdszVOrzdFqxQ6HA00Sm) | 4:09 |
 | 67 | [Symbol IV : Earth](https://open.spotify.com/track/0k7IpY0imMYMfZtZ49tQA5) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 3:59 |
 | 68 | [気まぐれロマンティック \- Cover](https://open.spotify.com/track/0S93wlmiORbpfPjG4lsPKC) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
 | 69 | [ぽっぴん'どりーむ！](https://open.spotify.com/track/5339nA0dO3UqGj0TXGxC6J) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:30 |
 | 70 | [きゅうくらりん \- Cover](https://open.spotify.com/track/5a1c3xsbunuS8ybfIdu1Io) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [きゅうくらりん \(Cover\)](https://open.spotify.com/album/7696xeXqso99cXbV3CfgZV) | 3:34 |
-| 71 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
+| 71 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
 | 72 | [Symbol III : ▽](https://open.spotify.com/track/60pIkGRQ1VnpT0d8LDfb8U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [ELEMENTS](https://open.spotify.com/album/7zyvlQgQ6uS9Hu1jiUssGx) | 4:16 |
-| 73 | [Swear ～Night & Day～](https://open.spotify.com/track/4DWAPMAyDsOVTttHt5wh4k) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Swear ～Night & Day～](https://open.spotify.com/album/2ZKJKwZrZ4Co8Da8fXl8ZW) | 4:13 |
+| 73 | [過惰幻](https://open.spotify.com/track/2gqM6RcXRylvRHv61wXiY9) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [過惰幻](https://open.spotify.com/album/2g8yaboPvnLhbsLAUmgEuo) | 3:57 |
 | 74 | [星の約束](https://open.spotify.com/track/6F8xnT2B7MuImmA6VS7Bw2) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:04 |
 | 75 | [第六感 \(Cover\)](https://open.spotify.com/track/4FEpkQIkoNciLSrE4rToTs) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [第六感 \(Cover\)](https://open.spotify.com/album/0xgOGOsLzlIaYu0iQeSQiJ) | 3:13 |
 
-Snapshot ID: `AAAAAAbCmi1aQ3yejKy2hFVu6m4bSnGm`
+Snapshot ID: `AAAAAGTmLkPOliMmQrR2L3TdvOpQWc0l`

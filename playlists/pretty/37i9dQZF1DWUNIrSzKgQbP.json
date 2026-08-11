@@ -1,12 +1,12 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1642955,
+  "num_followers": 1642741,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABJ+fhpKOlhq9z55JpmkWv7wMhRw",
+  "snapshot_id": "AAAAAA9UDjtnLuqQ1b/YQ6kqIuZ1aNUW",
   "tracks": [
     {
       "added_at": "2026-07-09 23:27:48",
@@ -523,18 +523,18 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Beams",
-        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W"
       },
       "artists": [
         {
-          "name": "Derby",
-          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 161375,
-      "name": "Ambrosia",
-      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
+      "duration_ms": 197600,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Cowboy",
-        "url": "https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W"
+        "name": "Beams",
+        "url": "https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "Derby",
+          "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
         }
       ],
-      "duration_ms": 197600,
-      "name": "Cowboy",
-      "url": "https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD"
+      "duration_ms": 161375,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/344KZeQWZKibpxndj98m1j"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "I'll Be Waving As You Drive Away",
         "url": "https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 318000,
       "name": "Smoked",
       "url": "https://open.spotify.com/track/4RC5sdt02mjwuxSG1e7QDe"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I"
-      },
-      "artists": [
-        {
-          "name": "Julia Pratt",
-          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
-        }
-      ],
-      "duration_ms": 240581,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Let There Be Music",
         "url": "https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 281560,
       "name": "Let There Be Music",
       "url": "https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "duration_ms": 240581,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Hoagy's Place",
-        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Hoagy's Place",
-      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1123,6 +1123,38 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Ancient Light",
         "url": "https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl"
       },
@@ -1167,22 +1199,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Blindfaller",
         "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 329893,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2026-07-09 23:27:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,582 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,609 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 43 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 | 44 | [HOPE YOU HAPPY](https://open.spotify.com/track/1tNcAolwSKvTrTpRSpSJBs) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [BITTERSWEET](https://open.spotify.com/album/0qdBkeGB93wyaVMSkDNZqT) | 2:46 |
 | 45 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 |
-| 46 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 |
-| 47 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
+| 46 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 |
+| 47 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 |
 | 48 | [Cry On You](https://open.spotify.com/track/488d0odzx7GHa427jIvnDv) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Small Chops](https://open.spotify.com/album/0a0tO3TtUkC09ATMHt3qo9) | 1:44 |
 | 49 | [BAD GIRL](https://open.spotify.com/track/5zQZDxmfSGutv2RG1x57Xb) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [BAD GIRL](https://open.spotify.com/album/1R2WMCImWOIUOqh599TORo) | 2:46 |
 | 50 | [Toro](https://open.spotify.com/track/0UofiI0YMe4wz9H1dr5KkL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:15 |
 
-Snapshot ID: `AAAAAOKW7nHNRIDlj2oxKhLqMPZPY6ES`
+Snapshot ID: `AAAAAA78eO84x8L9V04YgBeeygywy6ne`

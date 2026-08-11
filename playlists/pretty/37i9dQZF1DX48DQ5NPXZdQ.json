@@ -1,12 +1,12 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 74430,
+  "num_followers": 74451,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGh6JNBIX4qQtieBw/0W8VMoBTKe",
+  "snapshot_id": "AAAAAGeMKkLTNPA4hFLg4ZJN9S7wz8Tr",
   "tracks": [
     {
       "added_at": "2024-07-05 02:05:16",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 241293,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Aretha Now",
         "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 241293,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w"
     },
     {
       "added_at": "2024-07-05 02:05:16",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2024-07-05 02:05:16",

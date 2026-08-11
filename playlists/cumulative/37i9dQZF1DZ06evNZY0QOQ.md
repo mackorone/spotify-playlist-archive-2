@@ -4,7 +4,7 @@
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 11 min
+65 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Maria](https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Forward](https://open.spotify.com/album/5caurEEX04czGkrjHcARHu) | 2:33 | 2025-08-13 | 2026-01-19 |
 | [Mezebu \(feat\. Oxlade & KiDi\)](https://open.spotify.com/track/69n4ie3SRkt4uPYG3RYFOl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 3:28 | 2025-08-13 |  |
 | [mmadu](https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:16 | 2025-08-13 |  |
-| [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2025-08-13 |  |
+| [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2025-08-13 | 2026-08-11 |
 | [nothing spoil](https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 3:58 | 2025-08-13 |  |
 | [nwayi](https://open.spotify.com/track/7iD3LM5BcWm5yZbNPpIhnE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance \(Deluxe\)](https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ) | 3:04 | 2025-08-13 |  |
 | [Obianuju](https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Pace](https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI) | 2:58 | 2025-08-13 | 2026-02-01 |
@@ -56,6 +56,7 @@
 | [permit me](https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:55 | 2025-08-13 | 2026-08-10 |
 | [PPOWER](https://open.spotify.com/track/5PCs0fCPcLM5spCGgNVwYE) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:14 | 2026-08-10 |  |
 | [Problème](https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:33 | 2025-08-13 | 2026-07-17 |
+| [RABA](https://open.spotify.com/track/1bhywSiaWYWRJR9gIhFaHv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:22 | 2026-08-11 |  |
 | [RIDE OR DIE?](https://open.spotify.com/track/2Tf0nTcooiuOWxflvDI3oI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:01 | 2025-08-23 |  |
 | [samson and delilah \(feat\. Mayra Andrade\)](https://open.spotify.com/track/0grBASdhUSTmeDA0ejensM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:14 | 2025-08-13 |  |
 | [say no more](https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:40 | 2025-08-13 |  |

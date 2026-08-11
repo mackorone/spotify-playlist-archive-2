@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 326487,
+  "num_followers": 326525,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACfaKIpcjuLYtX25ujIPpY2",
+  "snapshot_id": "anfDAAAAAAAJawG5MTiD1ieQRpGrfdFd",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Over (Remix)",
-        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 145652,
-      "name": "Come Over (Remix)",
-      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 204289,
       "name": "Tyrant (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Over (Remix)",
+        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 145652,
+      "name": "Come Over (Remix)",
+      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's Done Is Done",
-        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 173022,
-      "name": "What's Done Is Done",
-      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What's Done Is Done",
+        "url": "https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 173022,
+      "name": "What's Done Is Done",
+      "url": "https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 225631,
+      "name": "By Any Means",
+      "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FREEDOM (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 160455,
       "name": "FREEDOM (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "By Any Means",
-        "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 225631,
-      "name": "By Any Means",
-      "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
     },
     {
       "added_at": null,

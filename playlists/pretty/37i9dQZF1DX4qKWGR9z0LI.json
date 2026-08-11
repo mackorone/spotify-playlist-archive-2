@@ -1,12 +1,12 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1859838,
+  "num_followers": 1859712,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKA3TV8v27cFChhriQMmHRYzLRmi",
+  "snapshot_id": "AAAAAEeeKe9Q1GG1boMxuIe71EfQp4Lh",
   "tracks": [
     {
       "added_at": "2026-05-08 04:03:11",
@@ -831,26 +831,18 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "Incomprendido",
-        "url": "https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw"
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Neutro Shorty",
-          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
         }
       ],
-      "duration_ms": 179890,
-      "name": "Incomprendido",
-      "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
+      "duration_ms": 374840,
+      "name": "La Pantera Mambo",
+      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
       "added_at": "2026-05-08 04:03:11",
@@ -871,18 +863,26 @@
     {
       "added_at": "2026-05-08 04:03:11",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+        "name": "Incomprendido",
+        "url": "https://open.spotify.com/album/1QquGCJr1NtfXM1quq6qAw"
       },
       "artists": [
         {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 374840,
-      "name": "La Pantera Mambo",
-      "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
+      "duration_ms": 179890,
+      "name": "Incomprendido",
+      "url": "https://open.spotify.com/track/26PPEd7Q5tpmFLpAFmpUIl"
     },
     {
       "added_at": "2026-05-08 04:03:11",

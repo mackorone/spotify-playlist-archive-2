@@ -1,12 +1,12 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1636558,
+  "num_followers": 1636468,
   "original_name": "Karaoke 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPiytr+mvlIGRQ0kVueIotBYLn5/",
+  "snapshot_id": "AAAAANBOWEzmtcb1U9c1IgeuFK6mh4Yo",
   "tracks": [
     {
       "added_at": "2026-03-17 11:58:46",
@@ -287,6 +287,26 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "Titanium (feat. Sia)",
-      "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 259665,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
       "artists": [
         {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 259665,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "Back To Black",
-      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Astro Lounge",
         "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "Let It Be - Remastered 2009",
-      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Let It Be - Remastered 2009",
+      "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
       "artists": [
         {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
         }
       ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "KC & the Sunshine Band",
-        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
-      },
-      "artists": [
-        {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "That's the Way (I Like It) - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/2Hv4CIt50qRTakHeBsTpNf"
       },
@@ -2039,18 +2023,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+        "name": "KC & the Sunshine Band",
+        "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
         }
       ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
+      "duration_ms": 185106,
+      "name": "That's the Way (I Like It) - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2087,6 +2071,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "Lunas rotas",
         "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
       },
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
         "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 180866,
       "name": "Mi gran noche",
       "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Sin Enchufe",
         "url": "https://open.spotify.com/album/4ek3tTygesccVT9WDCkgKj"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Dancing In The Moonlight: The Best Of Toploader",
-        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
       "artists": [
         {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 233373,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR"
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2351,6 +2335,22 @@
       "duration_ms": 252760,
       "name": "Karma Chameleon",
       "url": "https://open.spotify.com/track/3XDeeP9wBZzGhIPZmLfEEx"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Dancing In The Moonlight: The Best Of Toploader",
+        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3147,6 +3147,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "Fast Five (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
       },
@@ -3163,22 +3179,6 @@
       "duration_ms": 198386,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
     },
     {
       "added_at": "2026-03-17 11:58:46",

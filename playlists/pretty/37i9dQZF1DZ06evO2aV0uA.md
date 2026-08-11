@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,692 likes - 47 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,708 likes - 47 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 15 | [The Killing Floor](https://open.spotify.com/track/7jmKRXiXft6Lz2HHh9vaWP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:16 |
 | 16 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/6VkkDO5w32HXkgdCDPz9E3) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sleepless Empire](https://open.spotify.com/album/2z6a4yNBjfxi9QvMheDRQ8) | 4:19 |
 | 17 | [The Faded Line](https://open.spotify.com/track/1pTvDwpyvTbYXzmxyjfoXa) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 4:38 |
-| 18 | [Set To Fail](https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:46 |
+| 18 | [11th Hour](https://open.spotify.com/track/0rrTOMo53BXiZsyBT4Gemo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3d4wfa7dIdOJktclcAcNDy) | 3:44 |
 | 19 | [Parasocial Christ](https://open.spotify.com/track/3LMoseQyAIFc0C6CTlbDDZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 3:20 |
-| 20 | [11th Hour](https://open.spotify.com/track/0rrTOMo53BXiZsyBT4Gemo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3d4wfa7dIdOJktclcAcNDy) | 3:44 |
+| 20 | [Set To Fail](https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:46 |
 | 21 | [Blood Of The Scribe](https://open.spotify.com/track/7FFS7cQvZ0QpuVvG2cMDKY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(20th Anniversary Edition\)](https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca) | 4:23 |
 | 22 | [Pathetic](https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 4:31 |
 | 23 | [St\. Catherine's Wheel](https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:05 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 46 | [Ill Designs](https://open.spotify.com/track/7sJbCv83nl2S94j8ZJz2WP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:41 |
 | 47 | [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 |
 
-Snapshot ID: `anZxgAAAAACGRD3haJqN8Tm9/NE/josq`
+Snapshot ID: `anfDAAAAAAD8YF7SiKazWLYxgl/NFkRT`

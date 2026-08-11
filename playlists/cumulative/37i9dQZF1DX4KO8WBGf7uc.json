@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 180214,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/68mJvII29H8wlKpyGyeP7x"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 151373,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/4x2cAn3IIBBMpXsU8UHS9k"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 241503,
       "name": "Dios Bendiga (Remix)",
       "url": "https://open.spotify.com/track/4S8wmEZy12C5UJUU0IQUee"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Hola",
       "url": "https://open.spotify.com/track/65wLNgku2IZUjKjc2MNGjX"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 185194,
       "name": "La Monda",
       "url": "https://open.spotify.com/track/6vQHz1y2MYkdPA0G5aQEcX"
@@ -2700,7 +2700,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 195000,
       "name": "LOKEI",
       "url": "https://open.spotify.com/track/7IWCkadiKRXAGM0UCG2Xy4"
@@ -2983,6 +2983,28 @@
     },
     {
       "album": {
+        "name": "Me llamas igual",
+        "url": "https://open.spotify.com/album/4yFNzQ1mchVMZKwSCqfu77"
+      },
+      "artists": [
+        {
+          "name": "Eloisa",
+          "url": "https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG"
+        },
+        {
+          "name": "DANDARA",
+          "url": "https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127968,
+      "name": "Me llamas igual",
+      "url": "https://open.spotify.com/track/3WPggo74kGnkW3deXSLlEN"
+    },
+    {
+      "album": {
         "name": "Me Odias?",
         "url": "https://open.spotify.com/album/1SbTExnFK0xlVucV6tx6l3"
       },
@@ -3130,7 +3152,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/0lbhKycRyqkOMKZ6thzfU4"
@@ -3374,7 +3396,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 168275,
       "name": "NADIE TE ENSE\u00d1A A ROMPER UN CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/2RWE3pGY5zBhnnLfbwbGXr"
@@ -4040,7 +4062,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 160285,
       "name": "PALETA",
       "url": "https://open.spotify.com/track/2SzCyTPBzybQRToUmxYiMg"
@@ -4158,7 +4180,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Que Le De",
       "url": "https://open.spotify.com/track/08aYFNUTIOMGq93e2VSArQ"
@@ -4382,6 +4404,32 @@
       "duration_ms": 240956,
       "name": "Sabio",
       "url": "https://open.spotify.com/track/0Rul56oJRTpYSUFodXo3Ge"
+    },
+    {
+      "album": {
+        "name": "Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256413,
+      "name": "Satisfacci\u00f3n",
+      "url": "https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7"
     },
     {
       "album": {
@@ -4710,7 +4758,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 189028,
       "name": "Stress & Chill",
       "url": "https://open.spotify.com/track/1U4jpOJ3bQnxPlXBGNlHf9"
@@ -4878,7 +4926,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 158824,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/7AyXdBQAgRLJBK72gqq0Hz"
@@ -5080,7 +5128,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 156990,
       "name": "tu cuerpo",
       "url": "https://open.spotify.com/track/1UWQT8LZZwGOmPIDwIJHyX"
@@ -5198,7 +5246,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 162500,
       "name": "UTV",
       "url": "https://open.spotify.com/track/6xQpCxVaYwV6HWoeBGPuNi"
@@ -5316,7 +5364,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 158048,
       "name": "VOGUE \u00b0",
       "url": "https://open.spotify.com/track/4pM8I8lDTZhJrFjJu2y5mF"

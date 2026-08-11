@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 73573,
+  "num_followers": 73603,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD2nfxEVcv0XCD+SwaMqUPRxjWbe",
+  "snapshot_id": "AAAAAKj9UHYOgBxQKb617FQU6KkgkgWM",
   "tracks": [
     {
       "added_at": "2026-08-07 19:49:29",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-08-07 19:49:29",
       "album": {
-        "name": "Polos Opuestos",
-        "url": "https://open.spotify.com/album/58mn4pU4sc7RwRmV4q1hrT"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Jay Silva",
-          "url": "https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Polos Opuestos",
-      "url": "https://open.spotify.com/track/4MV1iXML2gwkk4haby8ygZ"
-    },
-    {
-      "added_at": "2026-08-07 19:49:29",
-      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 190169,
       "name": "Todo Tiene Su Final",
       "url": "https://open.spotify.com/track/5To8W2tfQMQKxSGtpcC9Qg"
+    },
+    {
+      "added_at": "2026-08-07 19:49:29",
+      "album": {
+        "name": "Polos Opuestos",
+        "url": "https://open.spotify.com/album/58mn4pU4sc7RwRmV4q1hrT"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Jay Silva",
+          "url": "https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Polos Opuestos",
+      "url": "https://open.spotify.com/track/4MV1iXML2gwkk4haby8ygZ"
     },
     {
       "added_at": "2026-08-07 19:49:29",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-08-07 19:49:29",
       "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "xHEIDIx",
-          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
-        }
-      ],
-      "duration_ms": 256086,
-      "name": "Busc\u00e1ndome",
-      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
-    },
-    {
-      "added_at": "2026-08-07 19:49:29",
-      "album": {
         "name": "ESTAMOS READY",
         "url": "https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 214846,
       "name": "ESTAMOS READY",
       "url": "https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE"
+    },
+    {
+      "added_at": "2026-08-07 19:49:29",
+      "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/7pHZZSTcBjvvDlSQbgQQit"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "xHEIDIx",
+          "url": "https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j"
+        }
+      ],
+      "duration_ms": 256086,
+      "name": "Busc\u00e1ndome",
+      "url": "https://open.spotify.com/track/3TT6iiwXxxo1RaERWyeeqK"
     },
     {
       "added_at": "2026-08-07 19:49:29",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-08-07 19:49:29",
       "album": {
-        "name": "Nada Falta Como Me Faltas",
-        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
-      },
-      "artists": [
-        {
-          "name": "Depressiego",
-          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
-        }
-      ],
-      "duration_ms": 203715,
-      "name": "Nada Falta Como Me Faltas",
-      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
-    },
-    {
-      "added_at": "2026-08-07 19:49:29",
-      "album": {
         "name": "SUSTANCIAS",
         "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 228923,
       "name": "SUSTANCIAS",
       "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
+    },
+    {
+      "added_at": "2026-08-07 19:49:29",
+      "album": {
+        "name": "Nada Falta Como Me Faltas",
+        "url": "https://open.spotify.com/album/0K82jU8AWiVVLOQWR48eWx"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "duration_ms": 203715,
+      "name": "Nada Falta Como Me Faltas",
+      "url": "https://open.spotify.com/track/4b7UGrxHPIq1sBeUKlW83X"
     },
     {
       "added_at": "2026-08-07 19:49:29",

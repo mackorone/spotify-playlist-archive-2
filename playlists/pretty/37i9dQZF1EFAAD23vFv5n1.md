@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068 likes - 182 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069 likes - 182 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 113 | [ko libera](https://open.spotify.com/track/6hhJZ75xeQMqZlciDYrELg) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:36 |
 | 114 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
 | 115 | [ko eco](https://open.spotify.com/track/1bt6MOJL5vrzcUXBEorDiN) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:55 |
-| 116 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
-| 117 | [ko penso](https://open.spotify.com/track/2KV0yWfr01Lgo8VeGbBIet) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:18 |
+| 116 | [ko penso](https://open.spotify.com/track/2KV0yWfr01Lgo8VeGbBIet) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:18 |
+| 117 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
 | 118 | [ko paradiso](https://open.spotify.com/track/2hJm5UTdAirUFMJSyL4Sac) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:43 |
 | 119 | [Come](https://open.spotify.com/track/7dQFTBVhEyJVfR60c8pt02) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Come](https://open.spotify.com/album/0TIFKEEBEyVDZGNcmxz40r) | 3:16 |
 | 120 | [ko sento](https://open.spotify.com/track/4AsvUH7EtRV3Qsq7AqE4QT) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:00 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 181 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 182 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcZJgAAAAAAN3fuem9mWtZC6qThbJn4J`
+Snapshot ID: `AcZPIAAAAAAXgF5uxR9RoDOvQh7boLKm`

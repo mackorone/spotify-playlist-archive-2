@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAFWRwYULmu2wS4NiVqF+w5",
+  "snapshot_id": "anfDAAAAAAAddtjx6Pus7u4/3bjLL2h4",
   "tracks": [
     {
       "added_at": null,
@@ -115,22 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap Romantix",
-        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
+        "name": "Problemas Mentales",
+        "url": "https://open.spotify.com/album/73valBVZ9LP5UFwoLLonU1"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
         }
       ],
-      "duration_ms": 154867,
-      "name": "XIX",
-      "url": "https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y"
+      "duration_ms": 127778,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/6i7WdefaXpXnnxaPl7XnvQ"
     },
     {
       "added_at": null,
@@ -183,18 +179,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Problemas Mentales",
-        "url": "https://open.spotify.com/album/73valBVZ9LP5UFwoLLonU1"
+        "name": "Trap Romantix",
+        "url": "https://open.spotify.com/album/2jmuc266tqytSFKpN3Kcq7"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
         }
       ],
-      "duration_ms": 127778,
-      "name": "Problemas Mentales",
-      "url": "https://open.spotify.com/track/6i7WdefaXpXnnxaPl7XnvQ"
+      "duration_ms": 154867,
+      "name": "XIX",
+      "url": "https://open.spotify.com/track/2FzgBU1RKSl6yE4SPzVP6Y"
     },
     {
       "added_at": null,

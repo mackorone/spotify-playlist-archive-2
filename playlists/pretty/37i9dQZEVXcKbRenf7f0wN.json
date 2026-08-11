@@ -6,29 +6,125 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anASQAAAAAAkOKqQ0YMVd5f+mxYx3LAt",
+  "snapshot_id": "anlMwAAAAACwcwqCqEm8lHMenXQEaiCW",
   "tracks": [
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Viva Italia",
-        "url": "https://open.spotify.com/album/06TtHEltUZAZfxBzqOS6eg"
+        "name": "Deggial",
+        "url": "https://open.spotify.com/album/3Qomy9u4HNZqcNLwgSXmDq"
       },
       "artists": [
         {
-          "name": "Inti-Illimani",
-          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
         }
       ],
-      "duration_ms": 246238,
-      "name": "Il mercato di testaccio",
-      "url": "https://open.spotify.com/track/0pG62O3ZTtjWg9NwrMyTpU"
+      "duration_ms": 215960,
+      "name": "Seven Secrets of the Sphinx",
+      "url": "https://open.spotify.com/track/3j3ZhKRcr1l5mI9Civth8k"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Jesucristo Superstar",
-        "url": "https://open.spotify.com/album/4hOZsnQgblAQzJRnDrgN8S"
+        "name": "Orquesta Juan D' Arienzo - La cumparsita",
+        "url": "https://open.spotify.com/album/0ZmzauQgjoSoVd9QGzPfW9"
+      },
+      "artists": [
+        {
+          "name": "Juan D'Arienzo",
+          "url": "https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "La cumparsita",
+      "url": "https://open.spotify.com/track/2joB3G4b527szRVC6L5VYL"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Quenas Charangos y Zampo\u00f1as",
+        "url": "https://open.spotify.com/album/2J6PqSMQSxHcJDN6lYNNwz"
+      },
+      "artists": [
+        {
+          "name": "Toconao",
+          "url": "https://open.spotify.com/artist/35URfdAHAHwZJuSNSqOiWl"
+        }
+      ],
+      "duration_ms": 98240,
+      "name": "Vuelo de Condor",
+      "url": "https://open.spotify.com/track/0369PzmAAT5BLe0TGuV0Wq"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Espejo De Arrabal",
+        "url": "https://open.spotify.com/album/4MHo3symcSiRRi4vhVRdBe"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Irusta",
+          "url": "https://open.spotify.com/artist/1QzkpIrrMhBwTa1eb7o9XD"
+        }
+      ],
+      "duration_ms": 184573,
+      "name": "Cambalache",
+      "url": "https://open.spotify.com/track/6dE5yjN52UWjfme6U2Y3qi"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
+        "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
+      },
+      "artists": [
+        {
+          "name": "Los Koyas",
+          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "El Canto del Cuculi",
+      "url": "https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Los Exitos De Sus Peliculas",
+        "url": "https://open.spotify.com/album/76USRmeQbyrQA5RfDyO9Qq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 153120,
+      "name": "Por Una Cabeza",
+      "url": "https://open.spotify.com/track/4UOt0ObZ4Oqi7LSU1Gzzkq"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Orquestas de Oro, Vol. 5",
+        "url": "https://open.spotify.com/album/3VZCnjYJnj4Sb6aktZPPbu"
+      },
+      "artists": [
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 340026,
+      "name": "La Boda De Luis Alonso - Intermedio",
+      "url": "https://open.spotify.com/track/1PZfjL2FOEqiyTKDuLSR9F"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Numero 1",
+        "url": "https://open.spotify.com/album/0piqRAcsBKF2if4vmlBnsA"
       },
       "artists": [
         {
@@ -36,148 +132,152 @@
           "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Hosanna",
-      "url": "https://open.spotify.com/track/1NJKMjiY98bFL2rjeYQAhu"
+      "duration_ms": 332960,
+      "name": "Getsemani (Oraci\u00f3n del Huerto) - [Musical \"Jesucristo Superstar\"]",
+      "url": "https://open.spotify.com/track/5EsQ1mJybIGlaOsCU2SWrK"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "La Isla De Los Sonidos: La Ciudad Sin Luz",
-        "url": "https://open.spotify.com/album/3f5yCclf7eGCbc6VUZAXZi"
+        "name": "The Andean Music Instrumental, Vol. 2: Panpipes",
+        "url": "https://open.spotify.com/album/5kIAARhSqJDKMZ5iMii51e"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Tankar Per\u00fa",
+          "url": "https://open.spotify.com/artist/0AXXZPsaWh9RzLGVGc0ric"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Guerrero Inka",
+      "url": "https://open.spotify.com/track/3og1x5LNQqN5V6Qopb0wPm"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Mozart: Jupiter-Symphonie, Symphonie Nr. 40",
+        "url": "https://open.spotify.com/album/0qBmxQsGcuSUjYEfmA2ZW9"
+      },
+      "artists": [
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
         },
         {
-          "name": "Inma Shara",
-          "url": "https://open.spotify.com/artist/3H7dOEQ4WHwQ78QY9DM4eH"
+          "name": "Alfred Scholz",
+          "url": "https://open.spotify.com/artist/5EaAvfbSNhNYXBc7Be9Zcj"
         }
       ],
-      "duration_ms": 177613,
-      "name": "Danza Hungara N\u00ba5",
-      "url": "https://open.spotify.com/track/3TkuMS1MdVmLN6IBd9qpOt"
+      "duration_ms": 470333,
+      "name": "Jupiter-Symphonie Nr. 41 in C-Dur, KV 551: I. Allegro vivace",
+      "url": "https://open.spotify.com/track/0KECGDJ4MIgKeMWr83ZgDi"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "FORCE",
-        "url": "https://open.spotify.com/album/2YdqkpsMmc7kYhXz9C7QVh"
+        "name": "Instrumentales Inolvidables",
+        "url": "https://open.spotify.com/album/3Ocqv3I37REc3wL3tqXvkz"
       },
       "artists": [
         {
-          "name": "FORCE",
-          "url": "https://open.spotify.com/artist/527C8v9EOKmi9W2tApAIag"
-        }
-      ],
-      "duration_ms": 261473,
-      "name": "Shine like me, Bitch!",
-      "url": "https://open.spotify.com/track/0e2RMzfH0FWw5SkH9gAc2z"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Flautas del Valle Sagrado",
-        "url": "https://open.spotify.com/album/6DSyU6Mb43SHIr4hHwJgfA"
-      },
-      "artists": [
-        {
-          "name": "Altiplano",
-          "url": "https://open.spotify.com/artist/32RfxfgnltxhcndCpwBf0s"
-        }
-      ],
-      "duration_ms": 184313,
-      "name": "Alturas",
-      "url": "https://open.spotify.com/track/1QsD0PJ7jE0fcUScpiCq5h"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "J.S. Bach: The Well-Tempered Clavier, BWV 846-893",
-        "url": "https://open.spotify.com/album/1kk5XBc9BxNXzegsqI7oCF"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Los Kjarkas",
+          "url": "https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN"
         },
         {
-          "name": "Francesco Cera",
-          "url": "https://open.spotify.com/artist/7y01L9sEOXYS0Zan7zxLKl"
+          "name": "Savia Andina",
+          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
         }
       ],
-      "duration_ms": 252570,
-      "name": "Prelude & Fugue in C Major, BWV 846",
-      "url": "https://open.spotify.com/track/5qedRNEdgCwkave0AXlQGY"
+      "duration_ms": 159286,
+      "name": "Flor de un Dia",
+      "url": "https://open.spotify.com/track/1Vq1Gr8YNzc6J6wPIcQrLG"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1FauB4sb0H3CXbHrtGtXBJ"
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ"
       },
       "artists": [
         {
-          "name": "Danny Chilean",
-          "url": "https://open.spotify.com/artist/5vMBA7DLBmLDS8Ur6GO6JX"
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 141146,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/40idp1oudlOXX44Hoq47wo"
+      "duration_ms": 166240,
+      "name": "Donde Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/7z6OlxRe1NjLe2lOG6cgxv"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Super Best",
-        "url": "https://open.spotify.com/album/47Un0LTSo0tdlum4y7fXCk"
+        "name": "Lo Que Vendr\u00e1 (Remaster 2021)",
+        "url": "https://open.spotify.com/album/0spwTCDLTT3YqK0jvyZ6Qy"
       },
       "artists": [
         {
-          "name": "Nicola Di Bari",
-          "url": "https://open.spotify.com/artist/31Pfw9p5mZPeKqZSaiXzqk"
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
         }
       ],
-      "duration_ms": 169978,
-      "name": "Lisa De Los Ojos Azules",
-      "url": "https://open.spotify.com/track/4dDibNpIkhglwEACPgxh49"
+      "duration_ms": 293149,
+      "name": "Nonino - Remaster 2021",
+      "url": "https://open.spotify.com/track/17myJt8upz8oF5wDkopWIe"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Te Quiero, Te Quiero",
-        "url": "https://open.spotify.com/album/28aIwgkfyBnhtPOzcOTu2u"
+        "name": "Franz Liszt: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/42ofRkyYk0HyxF69t3aDpO"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Fuentes",
-          "url": "https://open.spotify.com/artist/5yrOkBwyi9ePzOYQX4V3iW"
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Josef Bulva",
+          "url": "https://open.spotify.com/artist/2iUuYFtu04eJBqBVaTrZcY"
         }
       ],
-      "duration_ms": 206986,
-      "name": "Dirladada",
-      "url": "https://open.spotify.com/track/368nzz5DdY2c7atfTomKot"
+      "duration_ms": 558440,
+      "name": "Hungarian Rhapsody No. 2, S. 244, No. 2",
+      "url": "https://open.spotify.com/track/2KICLPxzlsWF7NxKeWNXia"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "La Nueva Ola en el Festival (En Vivo)",
-        "url": "https://open.spotify.com/album/3DuY84yz5bcRdzcNpHURpE"
+        "name": "South American Rock Vol. 5",
+        "url": "https://open.spotify.com/album/21ScDSdg1ucG1lkxwErZFz"
       },
       "artists": [
         {
-          "name": "Peter Rock",
-          "url": "https://open.spotify.com/artist/5UpLda9Z022JCOLLc07quL"
+          "name": "Ramblers",
+          "url": "https://open.spotify.com/artist/1RAIBn8M73LK5WhOJqtsxL"
         }
       ],
-      "duration_ms": 140973,
-      "name": "Entre la Arena y el Mar - En Vivo",
-      "url": "https://open.spotify.com/track/1XKkLd9PbY11QkKy5jTwt7"
+      "duration_ms": 171102,
+      "name": "Twist del Estudiante",
+      "url": "https://open.spotify.com/track/31iko2fTsGjNT6O0uTKgEj"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Para el Pueblo lo Que Es del Pueblo",
+        "url": "https://open.spotify.com/album/31nxJ2YHy5guCFJoiItuGL"
+      },
+      "artists": [
+        {
+          "name": "Piero",
+          "url": "https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm"
+        }
+      ],
+      "duration_ms": 293171,
+      "name": "Para El Pueblo Lo Que Es Del Pueblo - En Vivo",
+      "url": "https://open.spotify.com/track/7utOP9YWBSocxaH1AjAugx"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
       "album": {
         "name": "La Ventana Para La M\u00fasica Cl\u00e1sica",
         "url": "https://open.spotify.com/album/3N6IeSwO3cluGaenBNgsRV"
@@ -188,325 +288,221 @@
           "url": "https://open.spotify.com/artist/2DBiFegjTHPUxe9jy73h6v"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Danza H\u00fangara - Alternate Mix",
-      "url": "https://open.spotify.com/track/2OF2HskONuxuEEU7ZIdZk7"
+      "duration_ms": 463960,
+      "name": "El Barbero De Sevilla - Alternate Mix",
+      "url": "https://open.spotify.com/track/3G1fwgkpwviXsTvtpfoygJ"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+        "name": "Adamo... Canta en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/5cd8J9cznitVZhKVUciTme"
       },
       "artists": [
         {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+          "name": "Salvatore Adamo",
+          "url": "https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/7gk6ry7Ys0xRIeNtUakgzv"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Las Casas de Carton",
+        "url": "https://open.spotify.com/album/72u2uX3ql9FlvlWOZWc18i"
+      },
+      "artists": [
+        {
+          "name": "Los Guaraguao",
+          "url": "https://open.spotify.com/artist/7x6oYcgKSSPDKWxSJonhVl"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Las Casas de Carton",
+      "url": "https://open.spotify.com/track/6UUXNtLcUhsJNt0m2OeqYL"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Te Quiero, Te Quiero (Remastered 2016)",
+        "url": "https://open.spotify.com/album/2IRz4FWlaCnv4XX7kNme0x"
+      },
+      "artists": [
+        {
+          "name": "Nino Bravo",
+          "url": "https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj"
+        }
+      ],
+      "duration_ms": 186642,
+      "name": "Como Todos - Remastered 2016",
+      "url": "https://open.spotify.com/track/1t4Y1xx4fHFzpFoApOwEcE"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "La Internacional",
+        "url": "https://open.spotify.com/album/3JTq1f459FJVUNR99xqrbD"
+      },
+      "artists": [
+        {
+          "name": "Coro Popular Jabal\u00f3n",
+          "url": "https://open.spotify.com/artist/7AJ3GUpyByzupz3ub7l3fR"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Ay Carmela",
+      "url": "https://open.spotify.com/track/7MqEJ4W7SnlIXFx6JhFfFX"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Grandes de la Canci\u00f3n Chilena Antolog\u00eda",
+        "url": "https://open.spotify.com/album/4wqRmJoPB6XxezHIvT8Y6H"
+      },
+      "artists": [
+        {
+          "name": "Los Huasos Quincheros",
+          "url": "https://open.spotify.com/artist/4y2njzlk64o4wUdX8Ph8aM"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Si Vas para Chile",
+      "url": "https://open.spotify.com/track/69UK9Fj1lhPz84wSfwV4fh"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "Lugares Comunes",
+        "url": "https://open.spotify.com/album/18MJHkUiheeAgok6HMXjIl"
+      },
+      "artists": [
+        {
+          "name": "Inti-Illimani",
+          "url": "https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN"
+        }
+      ],
+      "duration_ms": 298112,
+      "name": "Sobre Tu Playa",
+      "url": "https://open.spotify.com/track/0fNTHb6JXRINS0AGpaFk8F"
+    },
+    {
+      "added_at": "2026-08-10 04:00:00",
+      "album": {
+        "name": "La Isla De Los Sonidos",
+        "url": "https://open.spotify.com/album/1yT2C9vaFxWZWYP9mpel8e"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+          "name": "Inma Shara",
+          "url": "https://open.spotify.com/artist/3H7dOEQ4WHwQ78QY9DM4eH"
         }
       ],
-      "duration_ms": 240560,
-      "name": "Valpara\u00edso - Versi\u00f3n 1996",
-      "url": "https://open.spotify.com/track/1SwVz4P6vzrjS7ce3N860c"
+      "duration_ms": 222213,
+      "name": "Obertura De Guillermo Tell (Final)",
+      "url": "https://open.spotify.com/track/0z3sni9WTzpvFwzQ8jd82f"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Espa\u00f1a Resiste",
-        "url": "https://open.spotify.com/album/6UnvJ7m1JeQV39sxVPZVmz"
+        "name": "En Vivo en Argentina, Vol. 2",
+        "url": "https://open.spotify.com/album/7CRO8hkgX3b6s07QWkSR61"
       },
       "artists": [
         {
-          "name": "Rolando Alarcon",
-          "url": "https://open.spotify.com/artist/1zVfOfIieOhrYPFXa6oMEt"
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 190733,
-      "name": "Viva la Quinta Brigada",
-      "url": "https://open.spotify.com/track/6TqbUznurtRK0DjwCFgShr"
+      "duration_ms": 178040,
+      "name": "Yo Pisar\u00e9 las Calles Nuevamente (En Vivo)",
+      "url": "https://open.spotify.com/track/2cswVK99DaqLyDHyKaiaKB"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Fl\u00fbte des Andes (Les plus beaux th\u00e8mes)",
-        "url": "https://open.spotify.com/album/2U6mWB2kpr9NEhyZLKrY3u"
+        "name": "Sandro de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9"
       },
       "artists": [
         {
-          "name": "Los Koyas",
-          "url": "https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC"
+          "name": "Sandro",
+          "url": "https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O"
         }
       ],
-      "duration_ms": 241960,
-      "name": "La Lluvia",
-      "url": "https://open.spotify.com/track/6L8mKM5fVbt7yPS4mdizGl"
+      "duration_ms": 188960,
+      "name": "El Maniqu\u00ed",
+      "url": "https://open.spotify.com/track/3VN3vYr5Ez7kjx6th8U9U1"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "No Va Mas",
-        "url": "https://open.spotify.com/album/7x0SjvTZPJlIRu61d6ljlp"
+        "name": "Silvio Rodriguez y Pablo Milanes",
+        "url": "https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f"
       },
       "artists": [
         {
-          "name": "Bar\u00f3n Rojo",
-          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+          "name": "Silvio Rodriguez and Pablo Milanes",
+          "url": "https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK"
         }
       ],
-      "duration_ms": 302266,
-      "name": "Mil A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/11pcSwbZ9Ti6jvAcrPiSky"
+      "duration_ms": 137000,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/75uEh2d8gO1TM16N6XjPZw"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "\u71b1\u70c8\uff01\u30a2\u30cb\u30bd\u30f3\u9b42 THE LEGEND \u4e0d\u673d\u306e\u540d\u4f5cTV\u30a2\u30cb\u30e1\u30b7\u30ea\u30fc\u30ba\u300e\u30de\u30b8\u30f3\u30ac\u30fcZ\u300f",
-        "url": "https://open.spotify.com/album/4qXhy3OTXcrEjSyA4Lfaun"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
       "artists": [
         {
-          "name": "Ichirou Mizuki",
-          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 133226,
-      "name": "Z\u306e\u30c6\u30fc\u30de (\u633f\u5165\u6b4c)",
-      "url": "https://open.spotify.com/track/782wICw9IzpySwnR5Ar31t"
+      "duration_ms": 186064,
+      "name": "Si Se Calla El Cantor - Live",
+      "url": "https://open.spotify.com/track/3DYlh7loimSNimDlrjqE5d"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Piazzolla Tangos 2",
-        "url": "https://open.spotify.com/album/3fbUrldfrU2JksSiqwRw0h"
+        "name": "La Orq. De los A\u00f1os Felices",
+        "url": "https://open.spotify.com/album/2x3ZTE2LyLLAGDUFUPqs4u"
       },
       "artists": [
         {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+          "name": "The Ramblers",
+          "url": "https://open.spotify.com/artist/7iPrws5wYbnF6sKfx2CX9e"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Fuga y Misterio",
-      "url": "https://open.spotify.com/track/3DCLrH8dAD8cap65JdF77R"
+      "duration_ms": 218026,
+      "name": "Jamas",
+      "url": "https://open.spotify.com/track/6YJ0231xwATn9pSELh9ddh"
     },
     {
-      "added_at": "2026-08-03 04:00:00",
+      "added_at": "2026-08-10 04:00:00",
       "album": {
-        "name": "Mercado Indio",
-        "url": "https://open.spotify.com/album/0i8FBSlCxLxqERPW804H4u"
+        "name": "Al Pasar Esa Edad",
+        "url": "https://open.spotify.com/album/0s1aPvGEYNiobV72u8jKrJ"
       },
       "artists": [
         {
-          "name": "Los Violadores",
-          "url": "https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2"
+          "name": "Los Red Juniors",
+          "url": "https://open.spotify.com/artist/3MkTliSk6Qae6kEnoOxyGw"
         }
       ],
-      "duration_ms": 244053,
-      "name": "Solo una Agresi\u00f3n",
-      "url": "https://open.spotify.com/track/1zHcrT0sLg1BvWDYpAHBco"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "La Incomparable",
-        "url": "https://open.spotify.com/album/2N2w7XvVhRqJu8FdngmqWI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/0K2U7B6n9Otcwn19m7tGzO"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "Como Una Ola",
-      "url": "https://open.spotify.com/track/71DHgCI9Sd8HL808KNExNS"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "El Rey",
-        "url": "https://open.spotify.com/album/2WJxl73c20DaQY7FVMoOeL"
-      },
-      "artists": [
-        {
-          "name": "Luis Dimas",
-          "url": "https://open.spotify.com/artist/6GiuMj37ySz4NQxtKOTE19"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Me Recordaras",
-      "url": "https://open.spotify.com/track/7l6uHYfVWsNB5qOzkIgmPT"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Mis Problemas Con Las Mujeres",
-        "url": "https://open.spotify.com/album/4pEYEne06EFl2bqy3BuKBA"
-      },
-      "artists": [
-        {
-          "name": "Loquillo Y Los Trogloditas",
-          "url": "https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl"
-        },
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "La matar\u00e9 - 2013 Remastered Version",
-      "url": "https://open.spotify.com/track/0kGEwM9SuACvojllsFMpAR"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Colecci\u00f3n Inmortales (Remastered)",
-        "url": "https://open.spotify.com/album/5TgGcdEyzJ5BnZjC3HlR6r"
-      },
-      "artists": [
-        {
-          "name": "Patricio Renan",
-          "url": "https://open.spotify.com/artist/28BCLnLRyYuZYbDksu8pGK"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/7a40SxJ4K5nIdOAkjQPCRl"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Avalancha- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 385626,
-      "name": "D\u00edas de borrasca (V\u00edspera de resplandores)",
-      "url": "https://open.spotify.com/track/61vAyCExMkrj5RV9TkA2PZ"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Metal Ca\u00eddo del Cielo",
-        "url": "https://open.spotify.com/album/41xVc2J00rQJv4ATWlFqfi"
-      },
-      "artists": [
-        {
-          "name": "Luzbel",
-          "url": "https://open.spotify.com/artist/2TbEY4dPqtJs9wiHVtjatc"
-        }
-      ],
-      "duration_ms": 281951,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/1uP1efmZDH53INcN3YPov3"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Himnos Nacionales, Vol. 1 (Europa)",
-        "url": "https://open.spotify.com/album/4zj9ORgUvqhTGPWeB4RQsj"
-      },
-      "artists": [
-        {
-          "name": "Hist\u00f3rica Banda",
-          "url": "https://open.spotify.com/artist/22R6KmIEAxrfvZFLF1NoPE"
-        }
-      ],
-      "duration_ms": 102656,
-      "name": "Francia - La Marseillaise - Himno Nacional Franc\u00e9s ( La Marsellesa )",
-      "url": "https://open.spotify.com/track/0LmgQwrwkOprTLOY2ZOOhw"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Chile En mi Escuela",
-        "url": "https://open.spotify.com/album/7L2n8H3BtfkBa694WrWWQn"
-      },
-      "artists": [
-        {
-          "name": "Banda de Fiesta",
-          "url": "https://open.spotify.com/artist/3RxFTxoiVmMSjiebuh7a0K"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "La Tirana",
-      "url": "https://open.spotify.com/track/4AmMIYigJm3msCLXrknxYn"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Aidalai (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/4hhVQ0qDfTHKeM1688prUj"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "1917",
-      "url": "https://open.spotify.com/track/3HuAuX0eprFVlEjBgNURQm"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "La Industria del Poder",
-        "url": "https://open.spotify.com/album/6EzOsuKn38yWoNgpy9veNr"
-      },
-      "artists": [
-        {
-          "name": "Logos",
-          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
-        }
-      ],
-      "duration_ms": 300066,
-      "name": "Como Rel\u00e1mpago en la Oscuridad",
-      "url": "https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Grandes de La Nueva Ola",
-        "url": "https://open.spotify.com/album/5QnEeKUFfTu3WXfsU4abyh"
-      },
-      "artists": [
-        {
-          "name": "Los Bric a Brac",
-          "url": "https://open.spotify.com/artist/50F4JLAiKdhjMeVONhB6m6"
-        },
-        {
-          "name": "Clan 91",
-          "url": "https://open.spotify.com/artist/7kPsQQhXbJ51nqM3kqmXfo"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/70tfWkqOdzyBNFSpNPa6Sb"
-    },
-    {
-      "added_at": "2026-08-03 04:00:00",
-      "album": {
-        "name": "Aquel Beso",
-        "url": "https://open.spotify.com/album/2JXhlp4WVUnYWVTsBuG9Dl"
-      },
-      "artists": [
-        {
-          "name": "Luz Eliana",
-          "url": "https://open.spotify.com/artist/6oDRZXbFciNI9WCdvtydPl"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "En Mi Mundo",
-      "url": "https://open.spotify.com/track/768X9GUiIieD31Ke8S7fEB"
+      "duration_ms": 156693,
+      "name": "Eso Eres",
+      "url": "https://open.spotify.com/track/7diw5kapXKu72CqKooHlZk"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

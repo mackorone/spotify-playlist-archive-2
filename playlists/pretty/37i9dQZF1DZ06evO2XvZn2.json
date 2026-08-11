@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15929,
+  "num_followers": 15931,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADYatBH5bwwpe70pgHasMlC",
+  "snapshot_id": "anfDAAAAAAADb8wHz/XszGyV5gEdTPrB",
   "tracks": [
     {
       "added_at": null,
@@ -555,46 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 137676,
-      "name": "El Tiempo Corre al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
         "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
@@ -623,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
-        "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
       "artists": [
         {
@@ -634,27 +594,31 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Sebasti\u00e1n Silva",
-          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        },
-        {
-          "name": "Gabo L\u00f3pez",
-          "url": "https://open.spotify.com/artist/2N22NX8uhNikExuQDPdyhM"
-        },
-        {
-          "name": "Andr\u00e9s Mercado",
-          "url": "https://open.spotify.com/artist/6FeP8VVMYoucH2TdlokSyT"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
-      "url": "https://open.spotify.com/track/0cgb32JvDvltNqTOe3kLi8"
+      "duration_ms": 137676,
+      "name": "El Tiempo Corre al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
     },
     {
       "added_at": null,
@@ -691,6 +655,42 @@
       "duration_ms": 173929,
       "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
       "url": "https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
+        "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Sebasti\u00e1n Silva",
+          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        },
+        {
+          "name": "Gabo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2N22NX8uhNikExuQDPdyhM"
+        },
+        {
+          "name": "Andr\u00e9s Mercado",
+          "url": "https://open.spotify.com/artist/6FeP8VVMYoucH2TdlokSyT"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
+      "url": "https://open.spotify.com/track/0cgb32JvDvltNqTOe3kLi8"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
         "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
       },
@@ -775,26 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eva (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
       },
       "artists": [
         {
           "name": "Evaluna Montaner",
           "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 154120,
-      "name": "Eva (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,
@@ -819,6 +795,30 @@
       "duration_ms": 160038,
       "name": "Nadie Como Yo (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2AuwBMf8LAIyxPx8kQp3z8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eva (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 154120,
+      "name": "Eva (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
     },
     {
       "added_at": null,

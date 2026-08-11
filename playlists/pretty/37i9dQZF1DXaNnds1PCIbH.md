@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaNnds1PCIbH.md) - [plain]
 | 75 | [These Walls](https://open.spotify.com/track/7uWVT3UkCAZyANvv0bdyQn) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:00 |
 | 76 | [turks \(i apologize\)](https://open.spotify.com/track/5CC9NlDxZukuG0lUUIdFBk) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 1:30 |
 
-Snapshot ID: `AAAAAORwJ2Uxqe/V3AGaUmIBVAPE+X07`
+Snapshot ID: `AAAAAN/gMlmSfkoyNzZpfK20CvZHd2zO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,247 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,261 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Just Like The First Time](https://open.spotify.com/track/20JF2Ix0c2XwffIHQ2ROpg) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/1XrHlJEEAvJPwB5BNmUVtm) | 4:39 |
 | 50 | [I Still Believe](https://open.spotify.com/track/0uaGecCnDEfCxErLESir5U) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Just Chillin'](https://open.spotify.com/album/6UmGaBGKzyZioXZui0KabU) | 3:59 |
 
-Snapshot ID: `AAAAAL7ZU4e3iNZSabSdcDdMACnXoxtx`
+Snapshot ID: `AAAAANRYrfDmd8DmqA4OH6TniJWtmdj3`

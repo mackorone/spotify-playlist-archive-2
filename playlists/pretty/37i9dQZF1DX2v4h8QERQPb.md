@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Bardero$
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,048 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,056 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Libros](https://open.spotify.com/track/1HNbpzg02LwvscJiyR5Adk) | [Joako Garcia](https://open.spotify.com/artist/0UDzdnndviQU4dtzQ47zqz), [Cofran Olima](https://open.spotify.com/artist/3HtJSyjCHB5mii6zpG5967) | [Libros](https://open.spotify.com/album/1afjwi14YT8ZfrHu7asnSl) | 3:30 |
 | 100 | [Rokit](https://open.spotify.com/track/5VRt5Ss75PnGOiXooOyxuw) | [Up & Down](https://open.spotify.com/artist/5qj3vh4PhXH79eMEB7Q0v5), [Brapis](https://open.spotify.com/artist/5dRBlNLqt3CWQ5uFsZQr3L), [Billy\-G](https://open.spotify.com/artist/54sFijfR6VAZXa8qQaoxqs) | [Rokit](https://open.spotify.com/album/0gOeYlkhAKet9hEIsXqTYE) | 2:19 |
 
-Snapshot ID: `AAAAAItVN2RnHROZdkMbkHgk5x9Q+/7H`
+Snapshot ID: `AAAAAJiTPQqLJ8LnpNQX4sWCKroTKOxj`

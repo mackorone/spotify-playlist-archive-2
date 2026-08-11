@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1868803,
+  "num_followers": 1868746,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMx5vI+8Do2YlNrK0sfcjleDH5hx",
+  "snapshot_id": "AAAAAAD/tTc39iglZ4cpvVhRjmmVLIY+",
   "tracks": [
     {
       "added_at": "2026-06-05 20:48:48",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Under The Streetlights",
         "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 213483,
       "name": "I Should Know Better",
       "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
+        "name": "Hearts Town",
+        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Five More Minutes",
+      "url": "https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
         "name": "The Great Escape",
         "url": "https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Hearts Town",
-        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Five More Minutes",
-      "url": "https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Seven Sisters",
         "url": "https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "In The Wind",
-        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
-      },
-      "artists": [
-        {
-          "name": "MAGIC GIANT",
-          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "New Mythology",
         "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 214987,
       "name": "Brother To You",
       "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "In The Wind",
+        "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
+      },
+      "artists": [
+        {
+          "name": "MAGIC GIANT",
+          "url": "https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "honey!",
-        "url": "https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE"
-      },
-      "artists": [
-        {
-          "name": "Mike Duhaime",
-          "url": "https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "honey!",
-      "url": "https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "People Need a Melody",
         "url": "https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "honey!",
+        "url": "https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE"
+      },
+      "artists": [
+        {
+          "name": "Mike Duhaime",
+          "url": "https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "honey!",
+      "url": "https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Strangers No More",
         "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
       },
@@ -1123,6 +1091,38 @@
       "duration_ms": 230533,
       "name": "Saratoga",
       "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Almost Home",
-        "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
-      },
-      "artists": [
-        {
-          "name": "Keston Cobblers Club",
-          "url": "https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8"
-        }
-      ],
-      "duration_ms": 169177,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Where Love Goes",
         "url": "https://open.spotify.com/album/0opuNXDys3y4G5Dw0pLk9c"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 253000,
       "name": "Where Love Goes",
       "url": "https://open.spotify.com/track/6e0TEaeQcwhS8ktu5q0AYX"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Almost Home",
+        "url": "https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5"
+      },
+      "artists": [
+        {
+          "name": "Keston Cobblers Club",
+          "url": "https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8"
+        }
+      ],
+      "duration_ms": 169177,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
       },
       "artists": [
         {
-          "name": "Calder Allen",
-          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 298720,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
+      "duration_ms": 165925,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws"
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Calder Allen",
+          "url": "https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD"
         }
       ],
-      "duration_ms": 165925,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO"
+      "duration_ms": 298720,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Oncoming Clouds",
-        "url": "https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux"
-      },
-      "artists": [
-        {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
-        }
-      ],
-      "duration_ms": 207069,
-      "name": "Easy, Love",
-      "url": "https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Early in the Morning (Special Edition)",
         "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 219952,
       "name": "Sparrow and the Wolf",
       "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Oncoming Clouds",
+        "url": "https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux"
+      },
+      "artists": [
+        {
+          "name": "Tom West",
+          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
+        }
+      ],
+      "duration_ms": 207069,
+      "name": "Easy, Love",
+      "url": "https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Mountain Man",
-        "url": "https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Mountain Man",
-      "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Mountain Man",
+      "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Man of the Year",
-        "url": "https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 162980,
-      "name": "Man of the Year",
-      "url": "https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "hello my son",
         "url": "https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 204675,
       "name": "hello my son",
       "url": "https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 162980,
+      "name": "Man of the Year",
+      "url": "https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG"
     },
     {
       "added_at": "2026-06-05 20:48:48",

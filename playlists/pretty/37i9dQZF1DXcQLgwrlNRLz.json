@@ -1,12 +1,12 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 17695,
+  "num_followers": 17713,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALZiagfDZC/MMvtPCCJbPWYOQodZ",
+  "snapshot_id": "AAAAAOaxmC7GZpUuCFMFs7Nfx88oiGbB",
   "tracks": [
     {
       "added_at": "2026-07-24 11:14:20",
@@ -627,22 +627,18 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+        "name": "T.I.A - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
       },
       "artists": [
         {
           "name": "Tiakola",
           "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
         }
       ],
-      "duration_ms": 194311,
-      "name": "NO LIMIT",
-      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+      "duration_ms": 221000,
+      "name": "T.I.A - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -683,26 +679,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "JEUNE&INNOCENT",
-        "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
-      },
-      "artists": [
-        {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        },
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "SO MAWA (feat. Mauvais djo)",
-      "url": "https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "Good Vibes",
         "url": "https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4"
       },
@@ -723,18 +699,42 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "T.I.A - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
+        "name": "JEUNE&INNOCENT",
+        "url": "https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "SO MAWA (feat. Mauvais djo)",
+      "url": "https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
       },
       "artists": [
         {
           "name": "Tiakola",
           "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
         }
       ],
-      "duration_ms": 221000,
-      "name": "T.I.A - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
+      "duration_ms": 194311,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
     },
     {
       "added_at": "2026-07-24 11:14:20",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
+        "name": "Fire in your Eyes",
+        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Fire in your Eyes",
+      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
         "name": "DANS LE DOS",
         "url": "https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 190619,
       "name": "DANS LE DOS",
       "url": "https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
-        "name": "Fire in your Eyes",
-        "url": "https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Fire in your Eyes",
-      "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
     },
     {
       "added_at": "2026-07-24 11:14:20",

@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2871338,
+  "num_followers": 2871456,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGGqgZ5TQYPNSxTIO0g7BJnItwuM",
+  "snapshot_id": "AAAAACtNFS6YTRWTHyo0NfNuLGPmNsw/",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:20",
@@ -839,8 +839,8 @@
     {
       "added_at": "2026-07-31 04:02:20",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 163453,
-      "name": "Not Finished",
-      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2026-07-31 04:02:20",
@@ -927,8 +927,8 @@
     {
       "added_at": "2026-07-31 04:02:20",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+      "duration_ms": 163453,
+      "name": "Not Finished",
+      "url": "https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg"
     },
     {
       "added_at": "2026-07-31 04:02:20",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2026-07-31 04:02:20",
       "album": {
-        "name": "Teflon Don",
-        "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
+        "name": "No Effort 2",
+        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         }
       ],
-      "duration_ms": 250306,
-      "name": "B.M.F. (Blowin' Money Fast)",
-      "url": "https://open.spotify.com/track/35QGdv6aFbIaLM0Ozr3rHt"
+      "duration_ms": 144020,
+      "name": "No Effort 2",
+      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
     },
     {
       "added_at": "2026-07-31 04:02:20",
@@ -1135,6 +1131,26 @@
       "duration_ms": 217610,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj"
+    },
+    {
+      "added_at": "2026-07-31 04:02:20",
+      "album": {
+        "name": "Teflon Don",
+        "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "B.M.F. (Blowin' Money Fast)",
+      "url": "https://open.spotify.com/track/35QGdv6aFbIaLM0Ozr3rHt"
     },
     {
       "added_at": "2026-07-31 04:02:20",
@@ -1175,22 +1191,6 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
-    },
-    {
-      "added_at": "2026-07-31 04:02:20",
-      "album": {
-        "name": "No Effort 2",
-        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 144020,
-      "name": "No Effort 2",
-      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
     },
     {
       "added_at": "2026-07-31 04:02:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,356 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,357 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,18 +24,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 14 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
 | 15 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 |
 | 16 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
-| 17 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 |
+| 17 | [Trondheimsnatt \(feat\. Line Sofie Aleksandersen\)](https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Line Sofie Aleksandersen](https://open.spotify.com/artist/139biVMfyquAUumShjaSQs) | [Linedans](https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU) | 3:50 |
 | 18 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 |
-| 19 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
-| 20 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
-| 21 | [Trondheimsnatt \(feat\. Line Sofie Aleksandersen\)](https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Line Sofie Aleksandersen](https://open.spotify.com/artist/139biVMfyquAUumShjaSQs) | [Linedans](https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU) | 3:50 |
+| 19 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 |
+| 20 | [Kjærlighetsvisa](https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 3:39 |
+| 21 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
 | 22 | [Å Kunne Æ Skrive](https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd), [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E), [Lars Bremnes](https://open.spotify.com/artist/1L7U4qOZlB5M0GaAICnxc4) | [Soløye](https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW) | 3:23 |
 | 23 | [Mitt lille land](https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01) | [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Paus synger Paus](https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts) | 3:22 |
 | 24 | [Det begynner å bli et liv](https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi) | [Anita Skorgan](https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4) | [Hver gang vi møtes \- Sesong 2 \- Ole Paus' dag](https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K) | 3:13 |
 | 25 | [Når himmelen faller ned](https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH) | [Anne Grete Preus](https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1) | [Mosaikk \(16 Biter\)](https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO) | 3:53 |
 | 26 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
-| 27 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
-| 28 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
+| 27 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 |
+| 28 | [Vi Vandrar Saman \(Eg Følgjer Der Du Går\)](https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV) | [Olav Stedje](https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA) | [Ta Meg Med](https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP) | 3:14 |
 | 29 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
 | 30 | [Vår beste dag](https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Vår beste dag](https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN) | 3:22 |
 | 31 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 43 | [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 |
 | 44 | [Ramler mot hverandre](https://open.spotify.com/track/3MuVUbTl1RrzIKnEl0tYIW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Ramler mot hverandre](https://open.spotify.com/album/2ZtsLOse1UpbB5CZZRMN5b) | 3:34 |
 | 45 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 |
-| 46 | [Spor i snø](https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Spor i snø](https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV) | 3:50 |
-| 47 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 |
+| 46 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 |
+| 47 | [Spor i snø](https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Spor i snø](https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV) | 3:50 |
 | 48 | [Så fullt av ja](https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [3 sanger](https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s) | 4:41 |
 | 49 | [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 |
-| 50 | [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 |
+| 50 | [Heimlandsong](https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Heimlandsong](https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m) | 4:46 |
 
-Snapshot ID: `AAAAAHtRmJbv1xc4aU13Gg3mYrVN4UW5`
+Snapshot ID: `AAAAANizR2Cdp2iUHMbhf+nIqCQs4tOe`

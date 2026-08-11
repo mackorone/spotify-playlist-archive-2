@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV?si=6\-HwIOsWQT2kyb\_uaBHpxw">Denzel Curry</a>, who shares the songs that shape his alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,575 likes - 31 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,585 likes - 31 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 30 | [Don't You Worry Baby \(feat\. Madison McFerrin\)](https://open.spotify.com/track/45mVT3DCE7AATXgESSdfee) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:58 |
 | 31 | [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 |
 
-Snapshot ID: `AAAAAN9onKi29qFO//tfIk+kksiOQwF6`
+Snapshot ID: `AAAAAHymJ8D6j+0YNTJMkPQW1NOI6TL/`

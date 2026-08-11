@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,273 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,278 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 2 | [Private Eye](https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:30 |
 | 3 | [Calling All Skeletons](https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:20 |
 | 4 | [Radio](https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:41 |
-| 5 | [Time to Waste](https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 4:11 |
+| 5 | [Hell Yes](https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:49 |
 | 6 | [Armageddon](https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 2:49 |
-| 7 | [Hell Yes](https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 3:49 |
+| 7 | [Time to Waste](https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 4:11 |
 | 8 | [This Could Be Love](https://open.spotify.com/track/0jFqJQtQs9BjogBXNzK5Ag) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:47 |
-| 9 | [Love Letters Lost \(feat\. Matt Skiba of Alkaline Trio\)](https://open.spotify.com/track/0dnDLkOxGxIA1cE17MGDgM) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:21 |
+| 9 | [Warbrain](https://open.spotify.com/track/4UrkfJvLfSeWBzK4ag1aW8) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:28 |
 | 10 | [Stupid Kid](https://open.spotify.com/track/1vb6phGMBr133Y4bwKxrsT) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 2:23 |
-| 11 | [Warbrain](https://open.spotify.com/track/4UrkfJvLfSeWBzK4ag1aW8) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:28 |
+| 11 | [Love Letters Lost \(feat\. Matt Skiba of Alkaline Trio\)](https://open.spotify.com/track/0dnDLkOxGxIA1cE17MGDgM) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:21 |
 | 12 | [Burn](https://open.spotify.com/track/2gnxN79ZSX9bOZsAXsQEmk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 4:05 |
 | 13 | [Help Me](https://open.spotify.com/track/2RHNirj8PxX3g6FBiHMney) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:44 |
 | 14 | [Mr\. Chainsaw](https://open.spotify.com/track/2LAL6TJoTWhqvI5b0rfYTV) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:05 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 22 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/0fYrJmSbKcBgRZAno8Jkns) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:00 |
 | 23 | [Take Lots with Alcohol](https://open.spotify.com/track/415ZhkOYcKRuV6SbRmGTnS) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:13 |
 | 24 | [Movin' Right Along](https://open.spotify.com/track/0avaVpOJTKyV87oMmjVMXw) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Muppets: The Green Album](https://open.spotify.com/album/77klgRm6FxdgXYArYvXGYj) | 2:33 |
-| 25 | [All on Black](https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 4:00 |
-| 26 | [I Found Away](https://open.spotify.com/track/3ylngIyRJLoXVFxJr5xnW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR), [Douglas P](https://open.spotify.com/artist/3j9Whe9AB0MoBumHAgko7S) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 4:00 |
+| 25 | [I Found Away](https://open.spotify.com/track/3ylngIyRJLoXVFxJr5xnW3) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR), [Douglas P](https://open.spotify.com/artist/3j9Whe9AB0MoBumHAgko7S) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 4:00 |
+| 26 | [All on Black](https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 4:00 |
 | 27 | [Steamer Trunk](https://open.spotify.com/track/6VlELdo8zKE5vSPxTddfHx) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 2:50 |
 | 28 | [Hot For Preacher](https://open.spotify.com/track/1UcN0LPyGfmprtp5PlivjG) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:45 |
 | 29 | [Fall Victim](https://open.spotify.com/track/5eAnduwqRr8gTOTxx8WOEk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 3:18 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 39 | [My Standard Break from Life](https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Remains](https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz) | 2:34 |
 | 40 | [Versions Of You](https://open.spotify.com/track/1mjnFCE5vwFOJqe4PCsoMH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:13 |
 | 41 | [Goodbye Forever](https://open.spotify.com/track/7BLDpoxWYAiRihzazyiOQu) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Alkaline Trio](https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH) | 2:50 |
-| 42 | [Love Love, Kiss Kiss](https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:25 |
-| 43 | [The Poison](https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:04 |
-| 44 | [Queen Of Pain](https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Split](https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw) | 3:57 |
+| 42 | [The Poison](https://open.spotify.com/track/2uO0Rd59JF7D1pWBUwEWKg) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 2:04 |
+| 43 | [Queen Of Pain](https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Split](https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw) | 3:57 |
+| 44 | [Love Love, Kiss Kiss](https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:25 |
 | 45 | [I Wanna Be A Warhol](https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [My Shame Is True \(Deluxe Edition\)](https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV) | 3:07 |
 | 46 | [Maybe I'll Catch Fire](https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 3:07 |
-| 47 | [Do You Wanna Know?](https://open.spotify.com/track/29PCRRuIs7enxT7Oih4VEE) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:36 |
-| 48 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 |
+| 47 | [Is This Thing Cursed?](https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 2:43 |
+| 48 | [Do You Wanna Know?](https://open.spotify.com/track/29PCRRuIs7enxT7Oih4VEE) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:36 |
 | 49 | [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 |
 | 50 | [Fuck You Aurora](https://open.spotify.com/track/2VDhNJigUBtbkxToyLPu2I) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:49 |
 
-Snapshot ID: `anZxgAAAAACJ2uOBp5QAp/K6aPz8dfl4`
+Snapshot ID: `anfDAAAAAADXLfGISTwU9Gu+xIqyCJkb`

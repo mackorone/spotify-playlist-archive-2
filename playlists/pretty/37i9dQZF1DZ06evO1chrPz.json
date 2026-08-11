@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 208291,
+  "num_followers": 208294,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAA/3Qu/5DY48K1sy+m5Wy2z",
+  "snapshot_id": "anfDAAAAAACNlp0akA1Ufd67E9aBUajw",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
       },
       "artists": [
         {
@@ -708,17 +708,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        },
-        {
-          "name": "Raquel Vega",
-          "url": "https://open.spotify.com/artist/3CWGrUvzZCBCxLI1bc9RgM"
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
         }
       ],
-      "duration_ms": 312426,
-      "name": "Ten Fe Coraz\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj"
+      "duration_ms": 373371,
+      "name": "He Has Done Great Things - Live",
+      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
     },
     {
       "added_at": null,
@@ -743,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
       },
       "artists": [
         {
@@ -752,33 +748,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 373371,
-      "name": "He Has Done Great Things - Live",
-      "url": "https://open.spotify.com/track/44xhaEDPSwHTo7YXL6yZsc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Raquel Vega",
+          "url": "https://open.spotify.com/artist/3CWGrUvzZCBCxLI1bc9RgM"
         }
       ],
-      "duration_ms": 260260,
-      "name": "You're Gonna Be Ok",
-      "url": "https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw"
+      "duration_ms": 312426,
+      "name": "Ten Fe Coraz\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 526890,
       "name": "Champion (Live)",
       "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 260260,
+      "name": "You're Gonna Be Ok",
+      "url": "https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw"
     },
     {
       "added_at": null,

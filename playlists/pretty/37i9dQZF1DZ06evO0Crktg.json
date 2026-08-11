@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 343412,
+  "num_followers": 343420,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABbQrKtopj9Xc8VbZPl6e/L",
+  "snapshot_id": "anfDAAAAAADX9ZOQtw3Kl+xsMVc1fy/Q",
   "tracks": [
     {
       "added_at": null,
@@ -99,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
       },
       "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE"
     },
     {
       "added_at": null,
@@ -131,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv"
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
       },
       "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE"
+      "duration_ms": 194000,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
     },
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "SINS OF THE FATHER",
+        "url": "https://open.spotify.com/album/0pvGVyHiRMgYy8NSA6GmxT"
       },
       "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 199546,
-      "name": "The Lost",
-      "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
+      "duration_ms": 215453,
+      "name": "BEGGING FOR CHANGE (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6CaSjezkMHIsiWeLj5gsce"
     },
     {
       "added_at": null,
@@ -495,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINS OF THE FATHER",
-        "url": "https://open.spotify.com/album/0pvGVyHiRMgYy8NSA6GmxT"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 215453,
-      "name": "BEGGING FOR CHANGE (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/6CaSjezkMHIsiWeLj5gsce"
+      "duration_ms": 199546,
+      "name": "The Lost",
+      "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
     },
     {
       "added_at": null,
@@ -675,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2lNvvHWi0K3J6KSpmUUPKn"
       },
       "artists": [
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
         }
       ],
-      "duration_ms": 198115,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
+      "duration_ms": 192969,
+      "name": "Cowboys",
+      "url": "https://open.spotify.com/track/6VhJjazWLRpXMNjT3AAEON"
     },
     {
       "added_at": null,
@@ -707,26 +711,6 @@
       "duration_ms": 254277,
       "name": "Life",
       "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/2lNvvHWi0K3J6KSpmUUPKn"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        }
-      ],
-      "duration_ms": 192969,
-      "name": "Cowboys",
-      "url": "https://open.spotify.com/track/6VhJjazWLRpXMNjT3AAEON"
     },
     {
       "added_at": null,
@@ -767,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapeutic Music 5",
-        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Smoking Section",
-      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 190000,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 198115,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Therapeutic Music 5",
+        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -911,18 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
       },
       "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 163103,
-      "name": "Hate Goes On",
-      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
+      "duration_ms": 280647,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
     }
   ],
   "unique_name": "This Is Jelly Roll",

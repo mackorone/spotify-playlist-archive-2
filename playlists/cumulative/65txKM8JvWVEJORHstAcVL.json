@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (19/7/2026)",
+  "name": "LA LLISTA DE FLAIXBAC (9/8/2026)",
   "tracks": [
     {
       "album": {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -1437,6 +1437,28 @@
     },
     {
       "album": {
+        "name": "El Far del Sud 40",
+        "url": "https://open.spotify.com/album/77Dq1ni9vymBpp9hCW9B2k"
+      },
+      "artists": [
+        {
+          "name": "Sopa De Cabra",
+          "url": "https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D"
+        },
+        {
+          "name": "Jordi Stone",
+          "url": "https://open.spotify.com/artist/42LbGTI3jOJjOtGH1ncNSV"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "El Far del Sud 40",
+      "url": "https://open.spotify.com/track/5bkZzfXgA6zMrbUiRrGAjc"
+    },
+    {
+      "album": {
         "name": "El ventilador",
         "url": "https://open.spotify.com/album/07TZGbKjn8xqDPHA0VJbWD"
       },
@@ -1976,7 +1998,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/5Cp75TUMrHF6c8xbhdligS"
@@ -2238,7 +2260,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 155192,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
@@ -3279,6 +3301,32 @@
     },
     {
       "album": {
+        "name": "Mi Chico (Official - Jason Derulo x Melody)",
+        "url": "https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3"
+      },
+      "artists": [
+        {
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125357,
+      "name": "Mi Chico - Official - Jason Derulo x Melody",
+      "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
+    },
+    {
+      "album": {
         "name": "Millor amb ell",
         "url": "https://open.spotify.com/album/3Fy0E5mS1F4FFfRcJyRCCI"
       },
@@ -3791,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+    },
+    {
+      "album": {
         "name": "On t'has ficat aquesta nit?",
         "url": "https://open.spotify.com/album/0CRI1sYFgajuz1EOh1tMui"
       },
@@ -4034,7 +4100,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 154340,
       "name": "Perdre el cap",
       "url": "https://open.spotify.com/track/0y5LTiNgYzGXTzPVFTQSko"
@@ -4636,7 +4702,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
@@ -4760,6 +4826,28 @@
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn"
+    },
+    {
+      "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
       "album": {
@@ -5252,6 +5340,24 @@
       "duration_ms": 180590,
       "name": "T\u00f2pics - Cap. I: R\u00e0bia",
       "url": "https://open.spotify.com/track/7aFKLY3GPC5fQ7nnRTKMqo"
+    },
+    {
+      "album": {
+        "name": "Un altre cop",
+        "url": "https://open.spotify.com/album/2DLZMrfogypgyVPn0OOAbJ"
+      },
+      "artists": [
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124096,
+      "name": "Un altre cop",
+      "url": "https://open.spotify.com/track/1uVxeC2DdSbPFcwOdhYMfs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,455 songs - 6 day 0 hr 31 min
+2,457 songs - 6 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1266,6 +1266,7 @@
 | [Luce](https://open.spotify.com/track/6LcC2XkDXsgFMWbtpsNHUw) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [Luce](https://open.spotify.com/album/5yek2EgefZAGdboXus2YRu) | 3:55 | 2024-06-18 |  |
 | [Luka Yang Bernama Kamu](https://open.spotify.com/track/2VXPqyN2N6J15Md9fSc8s9) | [Ekkyu](https://open.spotify.com/artist/6mT1w2xe3Os7CLSR1bAU6W) | [Luka Yang Bernama Kamu](https://open.spotify.com/album/3fhiugMLvJQfLRZoM3XItY) | 4:38 | 2026-06-23 |  |
 | [Lullaby](https://open.spotify.com/track/0JZBt9YycVqBGZqwshSUuu) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF) | [Lullaby](https://open.spotify.com/album/3e97pS7XBiFufcgcbuFlMY) | 5:08 | 2024-12-27 |  |
+| [Lumière Divine](https://open.spotify.com/track/16GL4tNeAw2elOzdmDTrjJ) | [ARNAUD KELLER](https://open.spotify.com/artist/33cRW5dZTJiwCHV9ybCFgB) | [Lumière Divine](https://open.spotify.com/album/5o5Iy7qR6zVO5uC8w6oxCd) | 2:41 | 2026-08-10 |  |
 | [Luna](https://open.spotify.com/track/7zjEbjiwsr25Aiow2V1290) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:20 | 2025-12-28 |  |
 | [Luna Park \(HIIT 30\-10\)](https://open.spotify.com/track/1pl8wZwGoNt0GGd9WuqmFg) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [80s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/6opKcFjmEz92mrvuMdD1c8) | 1:20 | 2024-03-04 |  |
 | [Lunar reflections](https://open.spotify.com/track/1WLESO2OfEUOyeX3gb3fm2) | [Albor Sereno](https://open.spotify.com/artist/4tqf9RyFsGtkvJ7D3OXq9v) | [Turns](https://open.spotify.com/album/5ZbPPmdnCpavZDaVA55n4P) | 2:32 | 2025-06-18 |  |
@@ -2435,6 +2436,7 @@
 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 | 2025-05-16 |  |
 | [Мы будем радоваться жизни](https://open.spotify.com/track/3Ixm23ATHd8yETGP7S4tOc) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Мы будем радоваться жизни](https://open.spotify.com/album/0bJ5TrgC7iAKatWzQtKH08) | 1:19 | 2026-04-30 |  |
 | [Мы зарастаем серебром](https://open.spotify.com/track/06xsD60yZKOhSoQzFBRnzT) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:05 | 2025-10-03 |  |
+| [Назавжди моя](https://open.spotify.com/track/5h3TBWJTbenoIDR7kaG0k7) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Назавжди моя](https://open.spotify.com/album/39THZ8TjSo1qpkhkRsr7Qc) | 3:40 | 2026-08-10 |  |
 | [Неосяжні](https://open.spotify.com/track/1D4Rt25ERzuRfr6ceMnJ9h) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Неосяжні](https://open.spotify.com/album/3zUvU1zfhWMZD1QwpoB8xA) | 3:38 | 2026-06-06 |  |
 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 | 2025-06-30 |  |
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-05-09 |  |

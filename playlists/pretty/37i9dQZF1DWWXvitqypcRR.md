@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,385 likes - 52 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,390 likes - 52 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 51 | [Betty](https://open.spotify.com/track/5qTcyrGCbHZCQ0lFYl9mRo) | [Toktok](https://open.spotify.com/artist/1lushyWgWbtaA0ET421RYM), [Soffy O](https://open.spotify.com/artist/0xoYQNWKDjmZ6sZPEoIhbj) | [Yes No Yes](https://open.spotify.com/album/15RcfJ4PAtpjrm1mYmbbPo) | 3:56 |
 | 52 | [Sing It Back](https://open.spotify.com/track/79q1KLEbrIbeY6e2Vhivr3) | [Hardt Antoine](https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA) | [Sing It Back](https://open.spotify.com/album/3P0AYlAbAKil3brTSOJXbm) | 3:28 |
 
-Snapshot ID: `AAAAAC2QbRzTchR1Z3C1avx608SKamvZ`
+Snapshot ID: `AAAAAO/HA4cUkoOSBuPXxnTzX7So/9XZ`

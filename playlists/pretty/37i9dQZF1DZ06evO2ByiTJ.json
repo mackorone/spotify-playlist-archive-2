@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAC0DYX0HRtd1CJiu9JwE/pK",
+  "snapshot_id": "anfDAAAAAAA943uRjSVT5MRUlrGg03k+",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 369280,
-      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elaine de Jesus - Manifesta\u00e7\u00e3o da Gl\u00f3ria (Ao Vivo)",
         "url": "https://open.spotify.com/album/60ZMKOiC9qr4U4Pjs2LICf"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 232146,
       "name": "Deus Tremendo (feat. Vanilda Bordieri, Eliane Silva, Lydia Mois\u00e9s, Suelen de Jesus, C\u00e9lia Sakamoto, Elaine Martins & Shirley Carvalhaes) - Ao Vivo",
       "url": "https://open.spotify.com/track/3DpGyWrBsi29h0ee7KldAe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 369280,
+      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e9 / De Valor em Valor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3DhKlsI0stUY6DR0NFd5Tu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "F\u00e9 / De Valor em Valor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7paEEGbwylvFQgP2Bnc9dH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samba Adorador (Ao Vivo)",
         "url": "https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 217640,
       "name": "Alvar\u00e1 (Ao Vivo) (feat. Elaine Martins)",
       "url": "https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e9 / De Valor em Valor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DhKlsI0stUY6DR0NFd5Tu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "F\u00e9 / De Valor em Valor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7paEEGbwylvFQgP2Bnc9dH"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus dos Deuses (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 255300,
+      "name": "Deus dos Deuses (Ao Vivo)",
+      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santifica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus dos Deuses (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 255300,
-      "name": "Deus dos Deuses (Ao Vivo)",
-      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Projeto \u00e9 Grande (Ao Vivo)",
         "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 249786,
       "name": "O Projeto \u00e9 Grande (Ao Vivo)",
       "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Segredo Pra Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 258239,
+      "name": "O Segredo Pra Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Segredo Pra Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 258239,
-      "name": "O Segredo Pra Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Senha",
         "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reaja",
-        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 256253,
-      "name": "Reaja",
-      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceano de L\u00e1grimas (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 257416,
       "name": "Oceano de L\u00e1grimas (Ao Vivo)",
       "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reaja",
+        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 256253,
+      "name": "Reaja",
+      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
     },
     {
       "added_at": null,

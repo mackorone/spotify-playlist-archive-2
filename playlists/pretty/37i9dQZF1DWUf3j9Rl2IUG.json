@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Rema",
-  "num_followers": 230136,
+  "num_followers": 230231,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKTLTsAWCGhcP3bUWPyyozTnBBBD",
+  "snapshot_id": "AAAAAMbblyh0nIlbwsGiNf4WeqnFWFdD",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:29",
@@ -63,18 +63,22 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+        "name": "Eja Meja (feat. Asake)",
+        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
       "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 170526,
-      "name": "MCBH",
-      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
+      "duration_ms": 158108,
+      "name": "Eja Meja (feat. Asake)",
+      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -95,22 +99,18 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "Eja Meja (feat. Asake)",
-        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
       "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 158108,
-      "name": "Eja Meja (feat. Asake)",
-      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
+      "duration_ms": 170526,
+      "name": "MCBH",
+      "url": "https://open.spotify.com/track/36PS8XCemqmPvigIL8S40B"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -151,6 +151,26 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 211090,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
         "name": "MOTION SICKNESS",
         "url": "https://open.spotify.com/album/0uyDxHJsxv7meDo3jI8geM"
       },
@@ -187,26 +207,6 @@
       "duration_ms": 172160,
       "name": "Aura Salad",
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "Back Outside",
-        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 211090,
-      "name": "Back Outside",
-      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 205674,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 205674,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5xFnqGLySijRJ2q6som381"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
+        "name": "Lifestyle (YA MAN)",
+        "url": "https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Lifestyle (YA MAN)",
+      "url": "https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "Lifestyle (YA MAN)",
-        "url": "https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Lifestyle (YA MAN)",
-      "url": "https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
         "name": "BB Lifestyle",
         "url": "https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE"
       },
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
+        "name": "B4SAVEME",
+        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 120302,
+      "name": "Tease Me",
+      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
         "name": "MY HEALER",
         "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 157023,
       "name": "MY HEALER",
       "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "B4SAVEME",
-        "url": "https://open.spotify.com/album/6ZcMtQFLlwsSwZaQe2MOLt"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 120302,
-      "name": "Tease Me",
-      "url": "https://open.spotify.com/track/1VjiMQA4ZnBQpgXE1yTs4A"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Ego - Live in London",
+      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Ego - Live in London",
-      "url": "https://open.spotify.com/track/6eS51q8SE2bdSVyecHtAWZ"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
         "name": "Agaba Romantic",
         "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
       },
@@ -703,6 +703,42 @@
       "duration_ms": 128316,
       "name": "100 Meters",
       "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 171999,
+      "name": "Bad Boy - Live in London",
+      "url": "https://open.spotify.com/track/7cVfyaApAStNeOqArVln4c"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -767,22 +803,6 @@
       "duration_ms": 178983,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 171999,
-      "name": "Bad Boy - Live in London",
-      "url": "https://open.spotify.com/track/7cVfyaApAStNeOqArVln4c"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -859,22 +879,6 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
@@ -891,6 +895,38 @@
       "duration_ms": 206968,
       "name": "BIG TIME (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "CLARITY OF MIND",
+        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 192419,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -915,58 +951,6 @@
       "duration_ms": 140505,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "CLARITY OF MIND",
-        "url": "https://open.spotify.com/album/28c5qLjX7puNQ96Wa86t5k"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 192419,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/1iDNf6nP0BCXilLVVptflh"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "Allonsy",
-        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
-      },
-      "artists": [
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Kvng Vinci",
-          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
-        }
-      ],
-      "duration_ms": 122711,
-      "name": "Allonsy",
-      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -1003,6 +987,42 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/6hq5k40Xy1HtlVh3rxubL4"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "Allonsy",
+        "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
+      },
+      "artists": [
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Kvng Vinci",
+          "url": "https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X"
+        }
+      ],
+      "duration_ms": 122711,
+      "name": "Allonsy",
+      "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "THAT GIRL!",
-        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 132817,
-      "name": "THAT GIRL!",
-      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
         "name": "Ijoba",
         "url": "https://open.spotify.com/album/3AqtjKftVt6WQncrByvBnj"
       },
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
         "name": "Shakabulizzy (Remix)",
         "url": "https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM"
       },
@@ -1227,38 +1243,6 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "Na Scra",
-        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Na Scra",
-      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
         "name": "Okpeke (Dance for Me)",
         "url": "https://open.spotify.com/album/2YTlHepyfJXo6VdFNCs0y9"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
+        "name": "Na Scra",
+        "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Na Scra",
+      "url": "https://open.spotify.com/track/4XHrQHvHWlE0RldeG8Nslq"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 181606,
       "name": "Titi",
       "url": "https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -1335,22 +1351,6 @@
       "duration_ms": 124878,
       "name": "GO GO!",
       "url": "https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "added_at": "2026-08-07 00:01:29",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-07 00:01:29",
       "album": {
-        "name": "WHY LOVE",
-        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "WHY LOVE",
-      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
-    },
-    {
-      "added_at": "2026-08-07 00:01:29",
-      "album": {
         "name": "HOW FAR (Remix)",
         "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 200617,
       "name": "HOW FAR - Remix",
       "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
+    },
+    {
+      "added_at": "2026-08-07 00:01:29",
+      "album": {
+        "name": "WHY LOVE",
+        "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WHY LOVE",
+      "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
     },
     {
       "added_at": "2026-08-07 00:01:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,920 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,962 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 49 | [All Night](https://open.spotify.com/track/0gv4JVcgmb8HihoucEXVxh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:48 |
 | 50 | [Fire’t Up](https://open.spotify.com/track/748wrs9n0dSXFyY3VRZB9w) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Fire & Brimstone](https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0) | 2:56 |
 
-Snapshot ID: `AAAAAIJ1KKkKW8mFlVavd6rkmaNo5+co`
+Snapshot ID: `AAAAAOBf5O7yvZet01SC3EAgoG2epkh5`

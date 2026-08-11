@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-418 songs - 1 day 1 hr 4 min
+420 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bild aus Asche](https://open.spotify.com/track/0IkqOwvBWA87kckTOEZi93) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Bild aus Asche](https://open.spotify.com/album/10nAsOXRGEtWfTTkWwBRfa) | 2:53 | 2026-03-24 | 2026-05-17 |
 | [Billionaire](https://open.spotify.com/track/1QZgcNDUg4TjD0bgRadlK9) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Billionaire](https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4) | 3:50 | 2025-12-13 | 2026-01-05 |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 | 2026-01-05 |
+| [Black Fruit No\. 2](https://open.spotify.com/track/3XZWRUFdjhhVIQviLZvPe7) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Black Fruit No\. 2](https://open.spotify.com/album/0lLLS72NE9M0msnI5PcfUS) | 3:57 | 2026-08-10 |  |
 | [Black Swan](https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Black Swan](https://open.spotify.com/album/3SYNo2RgNSlLptVzCXvRIs) | 3:31 | 2025-12-30 | 2026-01-21 |
 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 | 2026-04-06 | 2026-05-26 |
 | [Bleeding Rage](https://open.spotify.com/track/5OOTUzZhTPjYfFlp97yxIU) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Bleeding Rage](https://open.spotify.com/album/3Tih67eYTaq5xzKDMT0sAc) | 3:28 | 2026-01-19 | 2026-02-19 |
@@ -274,6 +275,7 @@
 | [Playing God](https://open.spotify.com/track/58MmPniM5FnH9c1WfeTzdO) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Playing God](https://open.spotify.com/album/2ZxXf7pkmshkpbMgHSfQnv) | 3:40 | 2026-01-10 | 2026-02-02 |
 | [Poison](https://open.spotify.com/track/3etMVsSrF9XZ4PbZKyvyQj) | [Noam Peri](https://open.spotify.com/artist/5jOb4IiotwIkHpg8wyRmzt) | [Poison](https://open.spotify.com/album/5hd5OYYmt8n6nkayRVVzqw) | 4:11 | 2026-05-31 | 2026-08-08 |
 | [ponte a pensar](https://open.spotify.com/track/7lrX4uvZ2jAxkYztRmb9T6) | [MARCADODEESO](https://open.spotify.com/artist/6opl25ebP1jA6bVWfI21JL) | [ponte a pensar](https://open.spotify.com/album/1noVGcsDJs7DHKturu2d5J) | 3:36 | 2026-01-06 | 2026-02-02 |
+| [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 | 2026-08-10 |  |
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-11-20 | 2025-12-12 |
 | [Predictable](https://open.spotify.com/track/58uPzPjEmM93usVWgvdezo) | [Jake Rouson](https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH) | [Predictable](https://open.spotify.com/album/0yzYOpUWL4n1kF8sGJ7eM6) | 3:41 | 2025-11-02 | 2025-12-06 |
 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-12-22 | 2026-01-21 |

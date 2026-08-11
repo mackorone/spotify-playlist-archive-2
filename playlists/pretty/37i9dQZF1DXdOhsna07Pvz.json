@@ -1,12 +1,12 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 116254,
+  "num_followers": 116290,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMQ3CJHVUrvHml88vr2Xs41tZnZ0",
+  "snapshot_id": "AAAAACN0YdsHP4RSz1MPT2XgrNvgL2Y6",
   "tracks": [
     {
       "added_at": "2025-10-04 00:28:31",
@@ -927,30 +927,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Nem um Dia (JAH-VAN)",
-        "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        },
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        },
-        {
-          "name": "Fernando Nunes",
-          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
-        }
-      ],
-      "duration_ms": 335796,
-      "name": "Nem um Dia - JAH-VAN",
-      "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Olorum",
         "url": "https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O"
       },
@@ -975,6 +951,30 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Nem um Dia (JAH-VAN)",
+        "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        },
+        {
+          "name": "Fernando Nunes",
+          "url": "https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9"
+        }
+      ],
+      "duration_ms": 335796,
+      "name": "Nem um Dia - JAH-VAN",
+      "url": "https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Pequim",
         "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Feiti\u00e7o Caboclo",
-        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
+        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
       },
       "artists": [
         {
-          "name": "Dona Onete",
-          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         }
       ],
-      "duration_ms": 267120,
-      "name": "Jamburana",
-      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
+      "duration_ms": 256053,
+      "name": "P\u00e9 do Meu Samba - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Mart'n\u00e1lia em Berlim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG"
+        "name": "Feiti\u00e7o Caboclo",
+        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Dona Onete",
+          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
         }
       ],
-      "duration_ms": 256053,
-      "name": "P\u00e9 do Meu Samba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
+      "duration_ms": 267120,
+      "name": "Jamburana",
+      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Vou Festejar",
+      "url": "https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Jaguatirica Print",
         "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 189525,
       "name": "Calor no Rio",
       "url": "https://open.spotify.com/track/3ThEeFihlrZhfaAPItIArO"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
-        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
-      },
-      "artists": [
-        {
-          "name": "Faf\u00e1 de Bel\u00e9m",
-          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Emori\u00f4",
-      "url": "https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn"
     }
   ],
   "unique_name": "Baile Maravilha",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > The Avalanches en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,026 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,002 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 11 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
 | 12 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 13 | [Tiger's Blood](https://open.spotify.com/track/4RTF94P3ywTBCtcJ3Crw9k) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Tiger's Blood](https://open.spotify.com/album/6hwLrLcbPU936YeG0rTHah) | 4:10 |
-| 14 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
+| 14 | [I Just Got Mad](https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Just Got Mad](https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA) | 2:29 |
 | 15 | [No pega igual \(Stuck on replay\)](https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [No pega igual \(Stuck on replay\)](https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y) | 3:05 |
-| 16 | [I Just Got Mad](https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Just Got Mad](https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA) | 2:29 |
+| 16 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 17 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
 | 18 | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [All I Did Was Dream of You \(feat\. The Marías\)](https://open.spotify.com/album/4cC1e65OnA1NdyiuvdnwSt) | 3:43 |
 | 19 | [heavy heart](https://open.spotify.com/track/24epSs0aus9cD2AKZW9Xpj) | [Blood Nose](https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa) | [heavy heart](https://open.spotify.com/album/7r9QbBIq31yn8R1lbQhDmi) | 1:15 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 37 | [the bridge](https://open.spotify.com/track/1PpODh3GDSFoG7EGOekVu2) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [new avatar](https://open.spotify.com/album/0t1I0Ic8IzTND3sesj9tDE) | 3:53 |
 | 38 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
 | 39 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
-| 40 | [Running](https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Running](https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf) | 4:12 |
+| 40 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
 | 41 | [Stray Dogs](https://open.spotify.com/track/2PPfvgdNJqXzHjg61y9AWh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Stray Dogs](https://open.spotify.com/album/6wwFB0YmjCiqCwyrQVXAkU) | 5:23 |
-| 42 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
+| 42 | [Running](https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Running](https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf) | 4:12 |
 | 43 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 |
 | 44 | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [When I Get Drunk \(I Want You Boy\)](https://open.spotify.com/album/7Mjk8VDHv2RD1pEqbMQCd7) | 3:25 |
 | 45 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/4JbyNMvp3BqVILVy4Bbevf) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 49 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 |
 | 50 | [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 |
 
-Snapshot ID: `AAAAALaQMM6/wxyhu3ZfRRsNB5wmJomQ`
+Snapshot ID: `AAAAAHNkj+bwcbKw+sTiYaRstBxpAh/R`

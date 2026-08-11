@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHl9o1S1D6ZqJnF0dYNwgr+gml2g",
+  "snapshot_id": "AAAAAHr0Wq4NuuCP6TyixroAHCGW+2oO",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:49",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 322066,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
         "name": "Crash First",
         "url": "https://open.spotify.com/album/4KDBHNs6XR1OqZETv8QXPi"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 223666,
       "name": "Crash First (with mgk)",
       "url": "https://open.spotify.com/track/5KoNZJsXDXoQrgCMoHY6FO"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 322066,
-      "name": "City Walls",
-      "url": "https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
+        "name": "Saw You Stand",
+        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 289187,
+      "name": "Saw You Stand",
+      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv"
       },
@@ -387,38 +403,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Saw You Stand",
-        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 289187,
-      "name": "Saw You Stand",
-      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "Foreign Tongues",
-        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 274061,
-      "name": "Mr Charm",
-      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "End of You",
         "url": "https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
+        "name": "Foreign Tongues",
+        "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 274061,
+      "name": "Mr Charm",
+      "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
         "name": "Easy Street",
         "url": "https://open.spotify.com/album/1RL2L40aUcxmRFKHJbhX8n"
       },
@@ -459,8 +459,8 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
+      "duration_ms": 249750,
+      "name": "Nails In The Coffin",
+      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -539,8 +539,8 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 249750,
-      "name": "Nails In The Coffin",
-      "url": "https://open.spotify.com/track/1mZjfaQkaaphQiaGmnCJzQ"
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "EI8HT",
         "url": "https://open.spotify.com/album/2YfHoHOnfIc2ilp8YLEDyB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 216670,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Wake Up Calling",
-        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Wake Up Calling",
-      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Drum Show",
         "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 199696,
-      "name": "Tell Me When You've Had Enough",
-      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Don't Play Nice",
         "url": "https://open.spotify.com/album/02keESBeIDZcNcfiK5fzWp"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 158347,
       "name": "Don't Play Nice",
       "url": "https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 199696,
+      "name": "Tell Me When You've Had Enough",
+      "url": "https://open.spotify.com/track/21gtso7RmFpu9051Ec2feu"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Who Will You Follow",
-        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
         }
       ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
+      "duration_ms": 236775,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1295,34 +1295,18 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "1x1",
-        "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
       },
       "artists": [
         {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 236775,
-      "name": "1x1",
-      "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "Paint It Red",
-        "url": "https://open.spotify.com/album/4Wi5IZG5ZIFs53Hr5tfJYN"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 214594,
-      "name": "Paint It Red",
-      "url": "https://open.spotify.com/track/31giOS9KhpK97GcG9eT7PP"
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1339,6 +1323,22 @@
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Paint It Red",
+        "url": "https://open.spotify.com/album/4Wi5IZG5ZIFs53Hr5tfJYN"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 214594,
+      "name": "Paint It Red",
+      "url": "https://open.spotify.com/track/31giOS9KhpK97GcG9eT7PP"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Idols (Complete)",
-        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 279798,
-      "name": "Suburban Requiem",
-      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 187249,
       "name": "You Broke Me Too (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Idols (Complete)",
+        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 279798,
+      "name": "Suburban Requiem",
+      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
     },
     {
       "added_at": "2026-08-06 22:00:49",

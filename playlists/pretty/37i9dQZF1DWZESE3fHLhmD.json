@@ -1,12 +1,12 @@
 {
   "description": "sonnige songs weil sommer und so \ud83e\udd1d \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1307916,
+  "num_followers": 1307811,
   "original_name": "Sommergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABPf4MAn3fDGgyTGxmTmivZp8ffi",
+  "snapshot_id": "AAAAAPzsNterseEE0c3MTVcrPdKVzpFa",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:46",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
-        "name": "Oh yeah?",
-        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 170584,
-      "name": "oh yeah?",
-      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2026-08-06 22:00:46",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-08-06 22:00:46",
       "album": {
+        "name": "Zu sp\u00e4t um umzudrehen - EP",
+        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "duration_ms": 177818,
+      "name": "Zimmer",
+      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
+    },
+    {
+      "added_at": "2026-08-06 22:00:46",
+      "album": {
         "name": "Gegenteil von Gl\u00fcck",
         "url": "https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 159811,
       "name": "Gegenteil von Gl\u00fcck",
       "url": "https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h"
-    },
-    {
-      "added_at": "2026-08-06 22:00:46",
-      "album": {
-        "name": "Zu sp\u00e4t um umzudrehen - EP",
-        "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "Zimmer",
-      "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
     },
     {
       "added_at": "2026-08-06 22:00:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,089 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,379 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 49 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 |
 | 50 | [BREAK OF DAWN](https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:34 |
 
-Snapshot ID: `anZxgAAAAAB1vmCODszfhwZC8WAcUfHj`
+Snapshot ID: `anfDAAAAAACxNTyvmVZmTbss/sKobjkK`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30028\u67086\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30028\u67089\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -48512,7 +48512,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 252665,
       "name": "Life Still Goes On",
       "url": "https://open.spotify.com/track/2t2V4IfuBGbm1XhQhIGvXA"
@@ -73793,6 +73793,24 @@
     },
     {
       "album": {
+        "name": "WARAiNA",
+        "url": "https://open.spotify.com/album/5uZNBbwugf5RtNFWtH0hnH"
+      },
+      "artists": [
+        {
+          "name": "ONE N' ONLY",
+          "url": "https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "Samba de Night Fever",
+      "url": "https://open.spotify.com/track/0lr7xhfyWvTwQuXGvVDJoL"
+    },
+    {
+      "album": {
         "name": "Same Blue",
         "url": "https://open.spotify.com/album/36xdrf8iLOjM0LFvG9auGT"
       },
@@ -80928,7 +80946,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 298746,
       "name": "STAY TUNE",
       "url": "https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7"
@@ -94038,7 +94056,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 213595,
       "name": "Wanna Buy A Plant + Cost Me",
       "url": "https://open.spotify.com/track/0iNyG60qrVpVQ1YOceyI2Y"
@@ -103996,7 +104014,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 257066,
       "name": "\u3055\u3088\u306a\u3089\u30a8\u30ec\u30b8\u30fc",
       "url": "https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI"
@@ -109582,7 +109600,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 274293,
       "name": "\u30a2\u30f3\u30d1\u30f3\u30de\u30f3\u305f\u3044\u305d\u3046",
       "url": "https://open.spotify.com/track/1uet9g0vZZPACZ83oMDDe4"
@@ -111506,7 +111524,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 241213,
       "name": "\u30ad\u30b1\u30f3\u30ca\u30a2\u30bd\u30d3",
       "url": "https://open.spotify.com/track/2XvtKqNuL8vCkekyzmb8OJ"
@@ -132886,7 +132904,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 182394,
       "name": "\u59cb\u307e\u308a\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi"
@@ -139758,7 +139776,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-30",
+      "date_removed": null,
       "duration_ms": 207898,
       "name": "\u6804\u5149\u306e\u6249",
       "url": "https://open.spotify.com/track/4Q0cwmEsjcP0tuYJ20FqU6"
@@ -144912,7 +144930,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh"
@@ -149002,7 +149020,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 279200,
       "name": "\u9053",
       "url": "https://open.spotify.com/track/6fZhokT7ADLeCcOyKL914T"
@@ -150348,7 +150366,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 187040,
       "name": "\u9752\u3044\u30bd\u30d5\u30a1\u306e\u4e0a\u3067",
       "url": "https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF"

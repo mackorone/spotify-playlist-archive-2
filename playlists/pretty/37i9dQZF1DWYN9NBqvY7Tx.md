@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,707 likes - 100 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,823 likes - 100 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [Where You Are \- Zedd Remix](https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Where You Are \(Zedd Remix\)](https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B) | 3:04 |
 | 100 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 |
 
-Snapshot ID: `AAAAAP62jt6odAhSzHHBXRHopBIRIxPY`
+Snapshot ID: `AAAAAJ61mQefV2csvU+CgODqWPhF6SL1`

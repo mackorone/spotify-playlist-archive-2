@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,535 songs - 3 day 15 hr 2 min
+1,536 songs - 3 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,7 @@
 | [Kings & Queens](https://open.spotify.com/track/1InCpEliLCkWHOBdXW7XSx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/6B1U2tJse7tS9Yi4VJjZAA) | 2:42 | 2020-10-09 | 2022-04-13 |
 | [Kings & Queens](https://open.spotify.com/track/76nqCfJOcFFWBJN32PAksn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Kings & Queens](https://open.spotify.com/album/6yUkGEJftbJl1QPvz4WTjO) | 2:42 | 2020-06-12 | 2021-01-27 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-28 | 2024-04-05 |
-| [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 | 2019-08-05 |  |
+| [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 | 2019-08-05 | 2026-08-11 |
 | [Kiss and Make Up](https://open.spotify.com/track/7jr3iPu4O4bTCVwLMbdU2i) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 3:09 | 2021-05-19 | 2022-04-09 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-05-25 | 2024-07-08 |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2021-08-04 | 2022-07-29 |
@@ -1310,6 +1310,7 @@
 | [That Word \(l.o.v.e.\)](https://open.spotify.com/track/09cipkVDxpgmbgG9HCLYjq) | [Deni Hines](https://open.spotify.com/artist/5EkpFNNGJTnndTQLzqTFut) | [Delicious](https://open.spotify.com/album/7IgYFMrRiybuW2T85jklrC) | 4:06 | 2021-03-11 | 2021-03-19 |
 | [That's Freedom](https://open.spotify.com/track/4LAxvLPIOzy8ZCL7H21Sa3) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Chain Reaction](https://open.spotify.com/album/5jnIkqro2uzzkqKe67UiPT) | 4:19 | 2022-04-05 | 2022-04-11 |
 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 | 2021-01-08 | 2022-04-18 |
+| [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2026-05-26 |  |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-08-09 | 2021-10-16 |
 | [The Boys Of Summer](https://open.spotify.com/track/0p7T2DoRUeLX47sa3Ar2Ny) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [Building The Perfect Beast](https://open.spotify.com/album/41IMzY1fwSwZHYxHnoF3jN) | 4:48 | 2019-07-30 | 2022-04-18 |
 | [The Buzz](https://open.spotify.com/track/0lFsdfJay6AM4m23hJYGEG) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Mataya](https://open.spotify.com/artist/6JW55AQgf9M9SZgzZou2NQ), [TAPZ](https://open.spotify.com/artist/7p54hwKypG19lucXWyQdGG) | [Dark Night Sweet Light](https://open.spotify.com/album/4qWHwJCpjIOPTwYgwjOwTO) | 3:42 | 2019-10-25 | 2019-10-26 |

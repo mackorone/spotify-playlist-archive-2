@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 25760,
+  "num_followers": 25759,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACtfLgx7Z7YiXO34LAYme/o",
+  "snapshot_id": "anfDAAAAAAAgA7dflMyUW+nR0pyfLoOg",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sittin' On 80 (Remastered)",
-        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Mechanised Swaggie",
-      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lights On The Hill (Remastered)",
         "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
       },
@@ -531,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makin' A Mile",
-        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Boomaroo Flyer",
-      "url": "https://open.spotify.com/track/4pZVl6zksJR8i2aZZHPPHr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me The Road (Remastered)",
         "url": "https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5"
       },
@@ -563,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trucks On The Track",
-        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+        "name": "Makin' A Mile",
+        "url": "https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v"
       },
       "artists": [
         {
@@ -572,9 +540,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 201573,
-      "name": "I'm Married To My Bulldog Mack",
-      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
+      "duration_ms": 213573,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/4pZVl6zksJR8i2aZZHPPHr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 156800,
       "name": "A Bad Day's Fishin'",
       "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trucks On The Track",
+        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "I'm Married To My Bulldog Mack",
+      "url": "https://open.spotify.com/track/4ReZWCRHUhkuWCoeU7z4Sq"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'99",
-        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Abalinga Mail",
-      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking Forward Looking Back",
         "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+        "name": "'99",
+        "url": "https://open.spotify.com/album/6PQ7WiRt56ugNzUiqVG7kr"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Plains Of Peppimenarti - 1998 Remaster",
-      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+      "duration_ms": 183760,
+      "name": "Abalinga Mail",
+      "url": "https://open.spotify.com/track/24FVM4cb3qAIiCzblZqjQA"
     },
     {
       "added_at": null,
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 112133,
-      "name": "Along The Road To Gundagai - Remaster 1995",
-      "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 463800,
-      "name": "The Man From Snowy River",
-      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+      "duration_ms": 112133,
+      "name": "Along The Road To Gundagai - Remaster 1995",
+      "url": "https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC"
     },
     {
       "added_at": null,
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Steadies The Lead",
-        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
+        "name": "Slim Dusty Sings Stan Coster",
+        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
       },
       "artists": [
         {
@@ -768,9 +752,25 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 267973,
-      "name": "No Man's Land - 1992 - Remaster",
-      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
+      "duration_ms": 178760,
+      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 463800,
+      "name": "The Man From Snowy River",
+      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slim Dusty Sings Stan Coster",
-        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
+        "name": "The Man Who Steadies The Lead",
+        "url": "https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 178760,
-      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
-      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+      "duration_ms": 267973,
+      "name": "No Man's Land - 1992 - Remaster",
+      "url": "https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy"
     },
     {
       "added_at": null,

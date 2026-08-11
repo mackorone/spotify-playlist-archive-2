@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 222723,
+  "num_followers": 222755,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL0Hg4aWAD5fRFu7LrH5C482SMYi",
+  "snapshot_id": "AAAAAJtCeg1GSJ8e/CbQHZmGwxAmwt1S",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:15",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Circo Beat",
         "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Despierta",
         "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 284531,
       "name": "Ella Dijo",
       "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Campanas en la Noche",
+        "url": "https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Cirug\u00eda (Portal Sessions)",
         "url": "https://open.spotify.com/album/4Dy7IxsvlG9rEt0lGECFDr"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 218952,
       "name": "Cirug\u00eda (Portal Sessions)",
       "url": "https://open.spotify.com/track/5ssgbRdJTVgTLmkJ7gmPuF"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Campanas en la Noche",
-        "url": "https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Flores Robadas",
+        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Si T\u00fa No Vuelves",
+      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Toda la vida",
         "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 274908,
       "name": "Toda la vida",
       "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Flores Robadas",
-        "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Si T\u00fa No Vuelves",
-      "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
     },
     {
       "added_at": "2026-07-31 03:00:15",

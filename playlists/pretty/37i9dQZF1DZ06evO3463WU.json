@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 160393,
+  "num_followers": 160401,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADoajj+o5mkMrL6U2DKjOAe",
+  "snapshot_id": "anfDAAAAAADwfJKmvyqktte+bCXb2fMA",
   "tracks": [
     {
       "added_at": null,
@@ -779,42 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 215224,
-      "name": "La Reyna de Mi Hogar - Remastered 2025",
-      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis 30 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Cien Por Ciento Sincero",
-      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -843,6 +807,42 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "Cien Por Ciento Sincero",
+      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 215224,
+      "name": "La Reyna de Mi Hogar - Remastered 2025",
+      "url": "https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,369 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,380 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 49 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
 | 50 | [Straight, No Chaser \(feat\. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones\)](https://open.spotify.com/track/7l5In0rLyHmqJhKlzZPtYo) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Philly Joe Jones](https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1) | [Milestones](https://open.spotify.com/album/56I4vUYWQ4aXLiyfo8XuZv) | 10:35 |
 
-Snapshot ID: `anZxgAAAAADMRth5IoEQNB+2jdLN/tNS`
+Snapshot ID: `anfDAAAAAAB09/M99sQcNq68qNsWYDWv`

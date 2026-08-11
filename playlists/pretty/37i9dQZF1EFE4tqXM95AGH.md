@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,443 likes - 190 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,444 likes - 190 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 96 | [Love of My Life](https://open.spotify.com/track/3o6dtVImjXolMR9EVwzJOG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:11 |
 | 97 | [The Other Side](https://open.spotify.com/track/1GbrJXEPkBb492q2t5mtRC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Other Side \(From "Sierra Burgess Is a Loser"\)](https://open.spotify.com/album/6PMDxho9YZstxzVxOLkVaY) | 2:59 |
 | 98 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 |
-| 99 | [Workin On It](https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:34 |
-| 100 | [Ghost](https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 4:15 |
+| 99 | [Ghost](https://open.spotify.com/track/3XeyI07raWwr8wbnaJeaVl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 4:15 |
+| 100 | [Workin On It](https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:34 |
 | 101 | [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 3:19 |
 | 102 | [Lie for Love](https://open.spotify.com/track/6MrYbA2BABupgYu3eONu7G) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:05 |
 | 103 | [Got the Feeling](https://open.spotify.com/track/3Z3U4m3C7WUoRf0lctIzfx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:37 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 189 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 190 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcZJgAAAAACExVFXMGoInBsAe6xrH4VC`
+Snapshot ID: `AcZPIAAAAABH5lfgEv4ZOt3LMqAY7RWZ`

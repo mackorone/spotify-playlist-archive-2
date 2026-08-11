@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 820 likes - 54 songs - 3 hr 2 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 820 likes - 56 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 52 | [Ocean of memories](https://open.spotify.com/track/21wG9vymoc022N5TLw8eNL) | [Slim Dragon](https://open.spotify.com/artist/312cwwaEcsB3saZEWLyQEO) | [Ocean of memories](https://open.spotify.com/album/4UOVCRIXxE9dtSndPTzfvB) | 3:22 |
 | 53 | [Get Loud](https://open.spotify.com/track/2zcVXazWslVP2YuZjRZkGH) | [Nuisance](https://open.spotify.com/artist/0EmWdAiVab7qmYaatq6Ttb) | [Get Loud](https://open.spotify.com/album/2zod2UcANo2xffg6EU3amr) | 2:21 |
 | 54 | [Marie](https://open.spotify.com/track/0UukYGJDTeWAhEg2pz5yR8) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 3:00 |
+| 55 | [Black Fruit No\. 2](https://open.spotify.com/track/3XZWRUFdjhhVIQviLZvPe7) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Black Fruit No\. 2](https://open.spotify.com/album/0lLLS72NE9M0msnI5PcfUS) | 3:57 |
+| 56 | [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 |
 
-Snapshot ID: `AAAD4PkOS0hooHto6YVW8Kznpggunrcb`
+Snapshot ID: `AAAD4k0QrkgKy7cXFZB1oEPqXKFbgKJb`

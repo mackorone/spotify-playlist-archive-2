@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,959 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,142 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 16 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 |
 | 17 | [Sin Pijama](https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:10 |
 | 18 | [Si Te Vas](https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:30 |
-| 19 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
+| 19 | [Con Otra](https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:51 |
 | 20 | [Ivonny Bonita](https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:42 |
-| 21 | [Con Otra](https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:51 |
+| 21 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 22 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
 | 23 | [Lento](https://open.spotify.com/track/2NsMwNWumJXCdTg2IZCLZ5) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:59 |
 | 24 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 54 | [Lárgate](https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Lárgate](https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit) | 3:00 |
 | 55 | [La\_Playlist.mpeg](https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La\_Playlist.mpeg](https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4) | 2:29 |
 | 56 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 57 | [JOJO](https://open.spotify.com/track/2saFG2pbkGxUeOIYStxvyx) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:10 |
-| 58 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
+| 57 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
+| 58 | [JOJO](https://open.spotify.com/track/2saFG2pbkGxUeOIYStxvyx) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:10 |
 | 59 | [Otra Noche de Llorar](https://open.spotify.com/track/5F8pOPLxQBJK6am1pNcN79) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Otra Noche de Llorar](https://open.spotify.com/album/2kSB4gQHyJmEfC8jDrwbeX) | 3:39 |
 | 60 | [ALL TIME](https://open.spotify.com/track/7lKEEchVEUdxZUJrqNbnUN) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3) | 2:54 |
 | 61 | [Down](https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down](https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW) | 3:15 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 75 | [Enamórate](https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Enamórate](https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32) | 2:27 |
 | 76 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 |
 | 77 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 |
-| 78 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
-| 79 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
+| 78 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
+| 79 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 80 | [A CABALLO](https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MALPORTADA](https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG) | 3:20 |
 | 81 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 |
 | 82 | [La Mala Era Yo](https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Mala Era Yo](https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV) | 2:30 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 94 | [POR EL CONTRARIO \(DEMO\)](https://open.spotify.com/track/2GIebvHnyaKLLHgQ58f98j) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [POR EL CONTRARIO](https://open.spotify.com/album/2cnThiqtDHLhqWA37xkDFh) | 3:17 |
 | 95 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 |
 | 96 | [Favorite Place](https://open.spotify.com/track/523GiEoDg0ulav50HZItuF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Favorite Place](https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6) | 3:16 |
-| 97 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
-| 98 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
+| 97 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
+| 98 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
 | 99 | [PORQUE SOY ABEJA REINA](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 |
 | 100 | [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 |
 
-Snapshot ID: `AAAAAJVd4v4yzmlhyx+HJ7A8coiTXwlE`
+Snapshot ID: `AAAAAIx7t2Q6GNoDRTNBeCdhjnUflVLV`

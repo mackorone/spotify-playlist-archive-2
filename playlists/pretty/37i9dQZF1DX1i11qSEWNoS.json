@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 645555,
+  "num_followers": 645557,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWpGi2PCnsJnVHSOzLe7tw2asCk",
+  "snapshot_id": "AAAAAJmba8GYoygBjK5FXeooLXUkDOwa",
   "tracks": [
     {
       "added_at": "2026-07-24 08:54:52",
@@ -719,22 +719,18 @@
     {
       "added_at": "2026-07-24 08:54:52",
       "album": {
-        "name": "Derni\u00e8re danse (Techno Mix)",
-        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        },
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Derni\u00e8re danse - Techno Mix",
-      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2026-07-24 08:54:52",
@@ -759,18 +755,22 @@
     {
       "added_at": "2026-07-24 08:54:52",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+        "name": "Derni\u00e8re danse (Techno Mix)",
+        "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        },
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+      "duration_ms": 197142,
+      "name": "Derni\u00e8re danse - Techno Mix",
+      "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
       "added_at": "2026-07-24 08:54:52",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-07-24 08:54:52",
       "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "added_at": "2026-07-24 08:54:52",
+      "album": {
         "name": "This Is The Life",
         "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 131388,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2026-07-24 08:54:52",
-      "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2026-07-24 08:54:52",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-07-24 08:54:52",
       "album": {
+        "name": "Mille Grazie",
+        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
+      },
+      "artists": [
+        {
+          "name": "Roy Bianco & Die Abbrunzati Boys",
+          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Bella Napoli",
+      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
+    },
+    {
+      "added_at": "2026-07-24 08:54:52",
+      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
-    },
-    {
-      "added_at": "2026-07-24 08:54:52",
-      "album": {
-        "name": "Mille Grazie",
-        "url": "https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD"
-      },
-      "artists": [
-        {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Bella Napoli",
-      "url": "https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP"
     },
     {
       "added_at": "2026-07-24 08:54:52",

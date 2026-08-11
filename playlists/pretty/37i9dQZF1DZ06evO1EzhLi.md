@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 
 > This is 3 Doors Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,589 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,597 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 9 | [Loser](https://open.spotify.com/track/1aC1IBAETh2XYGOE8kCC6t) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:24 |
 | 10 | [The Road I'm On](https://open.spotify.com/track/2C1m7Lw5cUpFWUkN6Tovik) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:59 |
 | 11 | [Let Me Be Myself](https://open.spotify.com/track/37K07PsEPk3SuYpAvjTbJO) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:48 |
-| 12 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
-| 13 | [Back To Me](https://open.spotify.com/track/5Zft9zIODo7ZnImwcbaO4Z) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:42 |
+| 12 | [Back To Me](https://open.spotify.com/track/5Zft9zIODo7ZnImwcbaO4Z) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 3:42 |
+| 13 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
 | 14 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
 | 15 | [Kryptonite](https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Acoustic Back Porch Jam](https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC) | 3:55 |
 | 16 | [Citizen/Soldier](https://open.spotify.com/track/7fKsaiVDwKe6VVsiGk48YG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:52 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 48 | [That Smell](https://open.spotify.com/track/2SPKOzUEeuXlZgUQ1OzEeh) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 5:48 |
 | 49 | [Dead Love \- Early Version](https://open.spotify.com/track/0DaLO1tFuqya69xGEoTEAG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:05 |
 
-Snapshot ID: `anZxgAAAAABQllok7cxM0Ad3iFV5tFEa`
+Snapshot ID: `anfDAAAAAACeiRaEr4bkLke8rLLVq2n5`

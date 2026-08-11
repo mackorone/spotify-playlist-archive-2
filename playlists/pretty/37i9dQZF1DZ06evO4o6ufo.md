@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,583 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,614 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 35 | [Que Tal Si Te Compro \- En Vivo](https://open.spotify.com/track/4CZLi5vfLciKUf01i7ahDO) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE) | 2:43 |
 | 36 | [Blindajes Peña \(En Vivo\)](https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 4:05 |
 | 37 | [La Gallada Pesada](https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 2:21 |
-| 38 | [El Guerrillero](https://open.spotify.com/track/4AAEYgoLtaYan4S9tk3gw5) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Guerrillero](https://open.spotify.com/album/4KvRlN28N7d8XdBah4hy7b) | 2:23 |
+| 38 | [Por El Bien De Los Dos](https://open.spotify.com/track/433ZZNwPfx0G9aexzSD79y) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Por El Bien De Los Dos](https://open.spotify.com/album/1Pzmvt4hwJjVMH5wnu80H2) | 3:15 |
 | 39 | [El 50 \- En Vivo](https://open.spotify.com/track/7BaMloayPXaFVmrS962HUk) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE) | 1:58 |
-| 40 | [Por El Bien De Los Dos](https://open.spotify.com/track/433ZZNwPfx0G9aexzSD79y) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Por El Bien De Los Dos](https://open.spotify.com/album/1Pzmvt4hwJjVMH5wnu80H2) | 3:15 |
+| 40 | [El Guerrillero](https://open.spotify.com/track/4AAEYgoLtaYan4S9tk3gw5) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Guerrillero](https://open.spotify.com/album/4KvRlN28N7d8XdBah4hy7b) | 2:23 |
 | 41 | [Amor De Locos](https://open.spotify.com/track/7zNQPNfOm4DtUdNbkNLNxN) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Chuyito](https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65) | [Amor De Locos](https://open.spotify.com/album/6tvjCm0QciHYaud26Q6SiQ) | 3:17 |
 | 42 | [Tus Videos Virales](https://open.spotify.com/track/001e1ksYKtxc72s6Cr0DLg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 3:18 |
 | 43 | [Ismael Pa’ Servirle](https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 49 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
 | 50 | [De Ahí Pal Real \(En Vivo\)](https://open.spotify.com/track/7oIyyaAqacrfMq1Y14vR1J) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Bienvenidos a Durango \(En Vivo\)](https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u) | 2:43 |
 
-Snapshot ID: `anZxgAAAAADevA3Yy7ku3JaEKQ+FPLSa`
+Snapshot ID: `anfDAAAAAAB0WH48Dessd375icYgrts/`

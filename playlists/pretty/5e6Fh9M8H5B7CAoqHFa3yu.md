@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 349 likes - 2,535 songs - 6 day 5 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 350 likes - 2,537 songs - 6 day 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2543,5 +2543,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2533 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 |
 | 2534 | [Urlo](https://open.spotify.com/track/4Q07s0mx7ztU5qpLdqZ0jL) | [Vitojazzband](https://open.spotify.com/artist/7vfInUCMKJLnqxxm7WSukQ) | [Urlo](https://open.spotify.com/album/3f9JbGTjZf1SJoHa7HUlgT) | 2:26 |
 | 2535 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 |
+| 2536 | [Lumière Divine](https://open.spotify.com/track/16GL4tNeAw2elOzdmDTrjJ) | [ARNAUD KELLER](https://open.spotify.com/artist/33cRW5dZTJiwCHV9ybCFgB) | [Lumière Divine](https://open.spotify.com/album/5o5Iy7qR6zVO5uC8w6oxCd) | 2:41 |
+| 2537 | [Назавжди моя](https://open.spotify.com/track/5h3TBWJTbenoIDR7kaG0k7) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Назавжди моя](https://open.spotify.com/album/39THZ8TjSo1qpkhkRsr7Qc) | 3:40 |
 
-Snapshot ID: `AAAKwaXBS93Ya59W1WEP/GF2i2TGPmiJ`
+Snapshot ID: `AAAKw/BioCrsZDVU9ZQaj/UWs2YEhyUV`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 857227,
+  "num_followers": 857278,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEfcf+vskdstMBh9hYoE0LggyRYw",
+  "snapshot_id": "AAAAANaK0yIuLvI8akXIB9WPff5v6+Wj",
   "tracks": [
     {
       "added_at": "2026-08-03 15:52:54",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
-        "name": "pa quererte",
-        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "pa quererte",
-      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
         "name": "Para Mi para Vos",
         "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
+        "name": "pa quererte",
+        "url": "https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "pa quererte",
+      "url": "https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
+        "name": "HABLAR DE TI (...)",
+        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 218190,
+      "name": "HABLAR DE TI (...)",
+      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
         "name": "Caminar\u00e1s Caminos",
         "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 183882,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
-        "name": "HABLAR DE TI (...)",
-        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 218190,
-      "name": "HABLAR DE TI (...)",
-      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
+        "name": "Desastres Fabulosos",
+        "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Desastres Fabulosos",
+      "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
         "name": "T\u00fa Me Dejaste De Querer",
         "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 198499,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
-        "name": "Desastres Fabulosos",
-        "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Desastres Fabulosos",
-      "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
     },
     {
       "added_at": "2026-08-03 15:52:54",

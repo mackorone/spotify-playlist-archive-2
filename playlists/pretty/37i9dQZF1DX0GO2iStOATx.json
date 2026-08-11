@@ -1,12 +1,12 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 235419,
+  "num_followers": 235471,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEykTRV/ooFeWoiObO0rBrNDoVpI",
+  "snapshot_id": "AAAAAOd76s9V0Ok0jf3YDCPvOfNXk/Tk",
   "tracks": [
     {
       "added_at": "2026-06-12 07:40:28",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Patiala Peg",
-        "url": "https://open.spotify.com/album/2wI6WGzFm4z1dPLjgfUd0m"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "Patiala Peg",
-      "url": "https://open.spotify.com/track/3chOtZ9EkYWYLT80Gjcptq"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Best of Punjabi Superstar Diljit Dosanjh",
         "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 190934,
       "name": "Ak 47 - From \"Hero Naam Yaad Rakhi\"",
       "url": "https://open.spotify.com/track/1sPu6Tfpdk5nksIKixMTJ6"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Patiala Peg",
+        "url": "https://open.spotify.com/album/2wI6WGzFm4z1dPLjgfUd0m"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "Patiala Peg",
+      "url": "https://open.spotify.com/track/3chOtZ9EkYWYLT80Gjcptq"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -571,8 +571,8 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Jimmy Choo (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/0VJliSn5RwwaoT1GuzaBPf"
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 234430,
-      "name": "Jimmy Choo (MTV Unplugged)",
-      "url": "https://open.spotify.com/track/6TVXQHkmfLWP9y0JBq04VV"
+      "duration_ms": 164133,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -611,8 +611,8 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Advisory",
-        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+        "name": "Jimmy Choo (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/0VJliSn5RwwaoT1GuzaBPf"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 164133,
-      "name": "Heer",
-      "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
+      "duration_ms": 234430,
+      "name": "Jimmy Choo (MTV Unplugged)",
+      "url": "https://open.spotify.com/track/6TVXQHkmfLWP9y0JBq04VV"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
+        "name": "Saanvle (feat. Raj Ranjodh)",
+        "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Saanvle (feat. Raj Ranjodh)",
+      "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 158513,
       "name": "Cali",
       "url": "https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
-        "name": "Saanvle (feat. Raj Ranjodh)",
-        "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Saanvle (feat. Raj Ranjodh)",
-      "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
     },
     {
       "added_at": "2026-06-12 05:30:19",

@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: george) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 297726,
+  "num_followers": 297714,
   "original_name": "K-Folk/Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABn+RUlp1SCTk0LlHTp+zw+9euHD",
+  "snapshot_id": "AAAAABuW2IDV82yz9hWdM/brF7KUMwOb",
   "tracks": [
     {
       "added_at": "2026-08-07 02:26:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-08-07 02:26:26",
       "album": {
-        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hong",
-          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
-    },
-    {
-      "added_at": "2026-08-07 02:26:26",
-      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 223933,
       "name": "Life goes on",
       "url": "https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt"
+    },
+    {
+      "added_at": "2026-08-07 02:26:26",
+      "album": {
+        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
     },
     {
       "added_at": "2026-08-07 02:26:26",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-08-07 02:26:26",
       "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc"
+        "name": "Undercover High School OST Part.2 (Soundtrack)",
+        "url": "https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD"
       },
       "artists": [
         {
-          "name": "Olivia Marsh",
-          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
         }
       ],
-      "duration_ms": 152786,
-      "name": "42",
-      "url": "https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b"
+      "duration_ms": 179999,
+      "name": "Love Is You",
+      "url": "https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a"
     },
     {
       "added_at": "2026-08-07 02:26:26",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-08-07 02:26:26",
       "album": {
-        "name": "Undercover High School OST Part.2 (Soundtrack)",
-        "url": "https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD"
+        "name": "42",
+        "url": "https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc"
       },
       "artists": [
         {
-          "name": "KIM PUREUM",
-          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
         }
       ],
-      "duration_ms": 179999,
-      "name": "Love Is You",
-      "url": "https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a"
+      "duration_ms": 152786,
+      "name": "42",
+      "url": "https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b"
     }
   ],
   "unique_name": "K-Folk/Acoustic",

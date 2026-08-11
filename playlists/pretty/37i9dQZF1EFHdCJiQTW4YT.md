@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7fz7UPTxns39Xp8gj9zoIB">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 148 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 515 likes - 149 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,21 +140,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHdCJiQTW4YT.md) - [plain]
 | 130 | [Blue](https://open.spotify.com/track/5BJxAC8z24xj9jLIkq6w1e) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [85% Proof](https://open.spotify.com/album/53BW7woIZ5rq1sjVFKxWhQ) | 3:35 |
 | 131 | [Better Place](https://open.spotify.com/track/3e1NZPkmRK1w4DujhS5j7G) | [Jonah Marais](https://open.spotify.com/artist/4h3Go7Vr34F8zzGvEFj9P8) | [Better Place](https://open.spotify.com/album/0feuFfcFRJpFFqx3lclxoi) | 3:11 |
 | 132 | [Crave](https://open.spotify.com/track/4dJIz3S6S2wQY5Sb1ZsL2A) | [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Bruises](https://open.spotify.com/album/0236kvYbYWUIXDWwxCh8ff) | 3:39 |
-| 133 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 |
-| 134 | [don't be so hard on yourself](https://open.spotify.com/track/5iMXZ1uxrnCg1mqL1tzkeL) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:06 |
-| 135 | [you got yours](https://open.spotify.com/track/5hYERZWgPCe3rLt8xDhi3V) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:28 |
-| 136 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
-| 137 | [just like you](https://open.spotify.com/track/0OmW4X1sTNYPwx6l1ufERh) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:54 |
-| 138 | [too close \- piano version](https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:24 |
-| 139 | [sometimes christmas is hard](https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:03 |
-| 140 | [another song about love](https://open.spotify.com/track/7gY9Ck93TNxekSqH1A2oFR) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:15 |
-| 141 | [Natural Disaster](https://open.spotify.com/track/1VjGZ2vz9DOKj4Gnt4DAPt) | [newfamiliar](https://open.spotify.com/artist/4Atzuue891wvRGEPkBcVt9) | [Textures](https://open.spotify.com/album/1rB7xOw49fRzqH1VwbL63I) | 3:14 |
-| 142 | [Shine](https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:48 |
-| 143 | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/track/7JqjKFamcUmaT5YcctWKZX) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/album/3frSVSjPe9Nuk3jFabhYYm) | 2:01 |
-| 144 | [Looking For Love](https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB) | [Carlos Vara](https://open.spotify.com/artist/42hROq8g0GtFMMYaHHQmrq) | [Have You Ever Seen a Boy Break Down?](https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o) | 2:36 |
-| 145 | [Bad Together](https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe) | [Knight Club A Cappella](https://open.spotify.com/artist/6dpp4QazrpGBqOeypsA59Z) | [Bad Together](https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4) | 4:03 |
-| 146 | [I'm Coming Around](https://open.spotify.com/track/0mwQdW5pZ0tofcvrYvUJTl) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [52 \| ATL x BNA](https://open.spotify.com/album/2IkLJf736V5DXV2Xt23TNH) | 3:39 |
-| 147 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
-| 148 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
+| 133 | [Ponyboy](https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Emptiness Is Godly](https://open.spotify.com/album/69WMt9yTuyzIIeMoRp0ti1) | 2:41 |
+| 134 | [love is not a simple thing to lose](https://open.spotify.com/track/0bmzFl5Cunl28EgqwODXEN) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 4:51 |
+| 135 | [don't be so hard on yourself](https://open.spotify.com/track/5iMXZ1uxrnCg1mqL1tzkeL) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:06 |
+| 136 | [you got yours](https://open.spotify.com/track/5hYERZWgPCe3rLt8xDhi3V) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 3:28 |
+| 137 | [all of a sudden](https://open.spotify.com/track/1kVyaiHsM6rhDKWUTR9FWm) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:06 |
+| 138 | [just like you](https://open.spotify.com/track/0OmW4X1sTNYPwx6l1ufERh) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 2:54 |
+| 139 | [too close \- piano version](https://open.spotify.com/track/33OkJmAdy8uBgUiCyu07hZ) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [piano](https://open.spotify.com/album/3sREfRBbHTPm8JRbdeLqJA) | 3:24 |
+| 140 | [sometimes christmas is hard](https://open.spotify.com/track/5937xcBaUz5xu38I2HloR2) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [merry christmas, merry christmas to you](https://open.spotify.com/album/7FM5R7EVnunwOE5r9fb5r5) | 3:03 |
+| 141 | [another song about love](https://open.spotify.com/track/7gY9Ck93TNxekSqH1A2oFR) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [based on a true story](https://open.spotify.com/album/4ADvz5GGargWCO6lEZXbT6) | 4:15 |
+| 142 | [Natural Disaster](https://open.spotify.com/track/1VjGZ2vz9DOKj4Gnt4DAPt) | [newfamiliar](https://open.spotify.com/artist/4Atzuue891wvRGEPkBcVt9) | [Textures](https://open.spotify.com/album/1rB7xOw49fRzqH1VwbL63I) | 3:14 |
+| 143 | [Shine](https://open.spotify.com/track/5hmTQFtqfDapaSqWY3arU3) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Let The Music Play](https://open.spotify.com/album/7nCXhDHK9lBJ66TVu1F5Ao) | 3:48 |
+| 144 | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/track/7JqjKFamcUmaT5YcctWKZX) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Pushing On \(Always Like Never Before\)](https://open.spotify.com/album/3frSVSjPe9Nuk3jFabhYYm) | 2:01 |
+| 145 | [Looking For Love](https://open.spotify.com/track/3u7WPMzK3sSLlbt3F19vPB) | [Carlos Vara](https://open.spotify.com/artist/42hROq8g0GtFMMYaHHQmrq) | [Have You Ever Seen a Boy Break Down?](https://open.spotify.com/album/6h8TTXMZFnJADFw5Ilf44o) | 2:36 |
+| 146 | [Bad Together](https://open.spotify.com/track/46fchGtcxeWEm1Fw5bI8Fe) | [Knight Club A Cappella](https://open.spotify.com/artist/6dpp4QazrpGBqOeypsA59Z) | [Bad Together](https://open.spotify.com/album/2SDtmGStLqOhcL9tBAxfu4) | 4:03 |
+| 147 | [I'm Coming Around](https://open.spotify.com/track/0mwQdW5pZ0tofcvrYvUJTl) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [52 \| ATL x BNA](https://open.spotify.com/album/2IkLJf736V5DXV2Xt23TNH) | 3:39 |
+| 148 | [Mean It](https://open.spotify.com/track/4XW0JyO4DKjyxAFJhNDbps) | [Dustin Domingo](https://open.spotify.com/artist/78bcX1rKaNUMVYutJ5Kq4L) | [Mean It](https://open.spotify.com/album/5dCqM12gg8X650WYNZcbuu) | 3:22 |
+| 149 | [Here Comes the Change](https://open.spotify.com/track/6mrrZi2rUwPhnVLWO7PtO5) | [JukeVox LibrAries](https://open.spotify.com/artist/3XCz6vtF1dsjFpVluDCFRm) | [Waiting For You](https://open.spotify.com/album/2dRmJE9oRpnCpy2eKk9q07) | 4:45 |
 
-Snapshot ID: `AcZJgAAAAAB38cE+uug9iS7ePKwFqqrp`
+Snapshot ID: `AcZPIAAAAADUiUR5HLOxRSswCbiwgaRV`

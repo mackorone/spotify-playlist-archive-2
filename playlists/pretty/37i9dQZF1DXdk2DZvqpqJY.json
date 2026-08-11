@@ -1,12 +1,12 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 124921,
+  "num_followers": 124965,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB2qvY6wZUL7385m1uRhVYPQLmG4",
+  "snapshot_id": "AAAAAN0Gn60B01vT7tsEA+rL39sLiU4c",
   "tracks": [
     {
       "added_at": "2026-06-09 09:45:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "At your place",
-        "url": "https://open.spotify.com/album/2wLyO0bm1UmYBmvF5C0JcU"
+        "name": "Easy Dreamin'",
+        "url": "https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2"
       },
       "artists": [
         {
-          "name": "Dave Oakley trio",
-          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
         }
       ],
-      "duration_ms": 198816,
-      "name": "At your place",
-      "url": "https://open.spotify.com/track/77JtSFO9b4BXKXIBGRng1U"
+      "duration_ms": 183946,
+      "name": "Ludlow",
+      "url": "https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Easy Dreamin'",
-        "url": "https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2"
+        "name": "At your place",
+        "url": "https://open.spotify.com/album/2wLyO0bm1UmYBmvF5C0JcU"
       },
       "artists": [
         {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+          "name": "Dave Oakley trio",
+          "url": "https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc"
         }
       ],
-      "duration_ms": 183946,
-      "name": "Ludlow",
-      "url": "https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv"
+      "duration_ms": 198816,
+      "name": "At your place",
+      "url": "https://open.spotify.com/track/77JtSFO9b4BXKXIBGRng1U"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Early Spring",
-        "url": "https://open.spotify.com/album/4k0FkqzLrEgDovXfESljSk"
-      },
-      "artists": [
-        {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Early Spring",
-      "url": "https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "All My Tomorrows",
         "url": "https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 201515,
       "name": "All My Tomorrows",
       "url": "https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Early Spring",
+        "url": "https://open.spotify.com/album/4k0FkqzLrEgDovXfESljSk"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Early Spring",
+      "url": "https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -635,38 +635,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/7p5N5Up8eojd9eqh0mkgbO"
-      },
-      "artists": [
-        {
-          "name": "Ray Love Trio",
-          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
-        }
-      ],
-      "duration_ms": 220658,
-      "name": "For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/16XLUnjRsRJ2ZAUTsxCH1D"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Jazz Odyssey",
-        "url": "https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa"
-      },
-      "artists": [
-        {
-          "name": "Red Brick Lane",
-          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
-        }
-      ],
-      "duration_ms": 170784,
-      "name": "Jazz Odyssey",
-      "url": "https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
       },
@@ -699,18 +667,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Gentle Rain",
-        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/7p5N5Up8eojd9eqh0mkgbO"
       },
       "artists": [
         {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+          "name": "Ray Love Trio",
+          "url": "https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ"
         }
       ],
-      "duration_ms": 192874,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
+      "duration_ms": 220658,
+      "name": "For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/16XLUnjRsRJ2ZAUTsxCH1D"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -727,6 +695,38 @@
       "duration_ms": 233319,
       "name": "Thank God It's Friday",
       "url": "https://open.spotify.com/track/42S2G34aFGrY68idLUPyHt"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Jazz Odyssey",
+        "url": "https://open.spotify.com/album/3g84J8lIoF12N7cnE9IrXa"
+      },
+      "artists": [
+        {
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+        }
+      ],
+      "duration_ms": 170784,
+      "name": "Jazz Odyssey",
+      "url": "https://open.spotify.com/track/3n3gfS8H6kpyqF2x5vUdLT"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Gentle Rain",
+        "url": "https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "duration_ms": 192874,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "The yellow note",
-        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
-      },
-      "artists": [
-        {
-          "name": "Hollbeck",
-          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
-        }
-      ],
-      "duration_ms": 229756,
-      "name": "The yellow note",
-      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 205500,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "The yellow note",
+        "url": "https://open.spotify.com/album/689a9eXhWGcqco8ZNUH8bD"
+      },
+      "artists": [
+        {
+          "name": "Hollbeck",
+          "url": "https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS"
+        }
+      ],
+      "duration_ms": 229756,
+      "name": "The yellow note",
+      "url": "https://open.spotify.com/track/36Uqy1JFiMsPx6UkLezyoJ"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Passing Time",
-        "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
-      },
-      "artists": [
-        {
-          "name": "Sean Murphy",
-          "url": "https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq"
-        }
-      ],
-      "duration_ms": 185842,
-      "name": "Passing Time",
-      "url": "https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "You\u2019re Always Waiting",
         "url": "https://open.spotify.com/album/1YNaoKQbG6i4xKUB7YQ2yQ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 159720,
       "name": "You\u2019re Always Waiting",
       "url": "https://open.spotify.com/track/6zDxfk0SAZnMVX4fvQ4Z2c"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Passing Time",
+        "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
+      },
+      "artists": [
+        {
+          "name": "Sean Murphy",
+          "url": "https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq"
+        }
+      ],
+      "duration_ms": 185842,
+      "name": "Passing Time",
+      "url": "https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Things To Look Forward To",
-        "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
+        "name": "Hometown Again",
+        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
         }
       ],
-      "duration_ms": 245681,
-      "name": "Things To Look Forward To",
-      "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
+      "duration_ms": 275959,
+      "name": "Hometown Again",
+      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Have You Seen Me Lately",
-        "url": "https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp"
+        "name": "Things To Look Forward To",
+        "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
       },
       "artists": [
         {
-          "name": "Gillian Spencer Trio",
-          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
         }
       ],
-      "duration_ms": 131219,
-      "name": "Have You Seen Me Lately",
-      "url": "https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s"
+      "duration_ms": 245681,
+      "name": "Things To Look Forward To",
+      "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Hometown Again",
-        "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
+        "name": "Have You Seen Me Lately",
+        "url": "https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp"
       },
       "artists": [
         {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
         }
       ],
-      "duration_ms": 275959,
-      "name": "Hometown Again",
-      "url": "https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn"
+      "duration_ms": 131219,
+      "name": "Have You Seen Me Lately",
+      "url": "https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Vine Street",
-        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
-      },
-      "artists": [
-        {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
-        }
-      ],
-      "duration_ms": 146020,
-      "name": "Vine Street",
-      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "My Midnight Velvet",
         "url": "https://open.spotify.com/album/6tAp0HAVpCH5nCi632oXNH"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 218336,
       "name": "My Midnight Velvet",
       "url": "https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Vine Street",
+        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "duration_ms": 146020,
+      "name": "Vine Street",
+      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Swedish sauce",
-        "url": "https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc"
-      },
-      "artists": [
-        {
-          "name": "Sodermalm Strand",
-          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
-        }
-      ],
-      "duration_ms": 201954,
-      "name": "Swedish sauce",
-      "url": "https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Autumn serenade",
         "url": "https://open.spotify.com/album/6UR6T9B1wTbPLrRw7ynlI2"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
+        "name": "Swedish sauce",
+        "url": "https://open.spotify.com/album/1obVmVYjVAIRiWOo97UNVc"
+      },
+      "artists": [
+        {
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+        }
+      ],
+      "duration_ms": 201954,
+      "name": "Swedish sauce",
+      "url": "https://open.spotify.com/track/17EQIcoPaLULq6gpDVwRWM"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
         "name": "For Ellen",
         "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 198750,
       "name": "For Ellen",
       "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1607,6 +1591,22 @@
       "duration_ms": 222259,
       "name": "My Piano",
       "url": "https://open.spotify.com/track/4aoq1u9tdtIrEqYrg08f85"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Mancuso's Joint",
-        "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
-      },
-      "artists": [
-        {
-          "name": "Norris Walker Trio",
-          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
-        }
-      ],
-      "duration_ms": 258836,
-      "name": "Mancuso's Joint",
-      "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
-    },
-    {
-      "added_at": "2026-06-09 09:45:00",
-      "album": {
         "name": "Dreams About Change",
         "url": "https://open.spotify.com/album/7fIIBv08dA6Nm8DSeu5whf"
       },
@@ -1739,18 +1723,18 @@
     {
       "added_at": "2026-06-09 09:45:00",
       "album": {
-        "name": "Akaishi",
-        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
+        "name": "Mancuso's Joint",
+        "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
       },
       "artists": [
         {
-          "name": "Moonside Trio",
-          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
         }
       ],
-      "duration_ms": 230192,
-      "name": "Akaishi",
-      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
+      "duration_ms": 258836,
+      "name": "Mancuso's Joint",
+      "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
     },
     {
       "added_at": "2026-06-09 09:45:00",
@@ -1783,6 +1767,22 @@
       "duration_ms": 189134,
       "name": "Blue Midnight",
       "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
+    },
+    {
+      "added_at": "2026-06-09 09:45:00",
+      "album": {
+        "name": "Akaishi",
+        "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
+      },
+      "artists": [
+        {
+          "name": "Moonside Trio",
+          "url": "https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA"
+        }
+      ],
+      "duration_ms": 230192,
+      "name": "Akaishi",
+      "url": "https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K"
     },
     {
       "added_at": "2026-06-09 09:45:00",

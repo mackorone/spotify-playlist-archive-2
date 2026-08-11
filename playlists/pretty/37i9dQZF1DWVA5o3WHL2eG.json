@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Luna Simao",
-  "num_followers": 50617,
+  "num_followers": 50671,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADcpYOQ6j646E7ZJb5AIQZxFlXwJ",
+  "snapshot_id": "AAAAAASARtizggjRF33PekkxsDUsJbct",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:28",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
+        "name": "IM NACHGANG",
+        "url": "https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "IM NACHGANG",
+      "url": "https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
         "name": "Bist du noch da?",
         "url": "https://open.spotify.com/album/6CNCgL41X0tHnuIlYHNE7P"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 141188,
       "name": "Alles nur f\u00fcr mich",
       "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
-        "name": "IM NACHGANG",
-        "url": "https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw"
-      },
-      "artists": [
-        {
-          "name": "CARLI",
-          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "IM NACHGANG",
-      "url": "https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "himbeersorbet",
-        "url": "https://open.spotify.com/album/01junsA8SQhsHhjYZbdH4Q"
-      },
-      "artists": [
-        {
-          "name": "maja kemper",
-          "url": "https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "himbeersorbet",
-      "url": "https://open.spotify.com/track/1dNOuGSRY0F6QwN0B75mts"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "der kleinste mensch der welt",
         "url": "https://open.spotify.com/album/3apTrA8dgbz4Uj7po2e8uO"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Alles was ich \u00fcber Liebe wei\u00df",
-        "url": "https://open.spotify.com/album/53GoIvKaF6B9YOSfJC0ipg"
+        "name": "himbeersorbet",
+        "url": "https://open.spotify.com/album/01junsA8SQhsHhjYZbdH4Q"
       },
       "artists": [
         {
-          "name": "Bekkaa",
-          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+          "name": "maja kemper",
+          "url": "https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk"
         }
       ],
-      "duration_ms": 173812,
-      "name": "Alles was ich \u00fcber Liebe wei\u00df",
-      "url": "https://open.spotify.com/track/3pN7xo5F7m68Rnyhwmaaa1"
+      "duration_ms": 160000,
+      "name": "himbeersorbet",
+      "url": "https://open.spotify.com/track/1dNOuGSRY0F6QwN0B75mts"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -311,6 +295,38 @@
       "duration_ms": 169204,
       "name": "mit anderen augen",
       "url": "https://open.spotify.com/track/4bEEO0oInGv3OYInricb0k"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "Besser",
+        "url": "https://open.spotify.com/album/60pFoCPesUaXGD7uGAzjl6"
+      },
+      "artists": [
+        {
+          "name": "Elif Sima",
+          "url": "https://open.spotify.com/artist/30qGo0yvjAFQ81C9MysBvz"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "Besser",
+      "url": "https://open.spotify.com/track/5m1PiXLsE95hAwm7G1Wrty"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "Alles was ich \u00fcber Liebe wei\u00df",
+        "url": "https://open.spotify.com/album/53GoIvKaF6B9YOSfJC0ipg"
+      },
+      "artists": [
+        {
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Alles was ich \u00fcber Liebe wei\u00df",
+      "url": "https://open.spotify.com/track/3pN7xo5F7m68Rnyhwmaaa1"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -347,22 +363,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "FU",
-        "url": "https://open.spotify.com/album/7AjqH6delBUZTlUPoi9H0J"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 127606,
-      "name": "FU",
-      "url": "https://open.spotify.com/track/5Epi46p3HR61x9uGZIyimP"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "Kleines M\u00e4dchen",
         "url": "https://open.spotify.com/album/1Vt36FzNKOt28j0akr1tST"
       },
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Besser",
-        "url": "https://open.spotify.com/album/60pFoCPesUaXGD7uGAzjl6"
+        "name": "FU",
+        "url": "https://open.spotify.com/album/7AjqH6delBUZTlUPoi9H0J"
       },
       "artists": [
         {
-          "name": "Elif Sima",
-          "url": "https://open.spotify.com/artist/30qGo0yvjAFQ81C9MysBvz"
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
         }
       ],
-      "duration_ms": 189226,
-      "name": "Besser",
-      "url": "https://open.spotify.com/track/5m1PiXLsE95hAwm7G1Wrty"
+      "duration_ms": 127606,
+      "name": "FU",
+      "url": "https://open.spotify.com/track/5Epi46p3HR61x9uGZIyimP"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "jeden tag neu",
-        "url": "https://open.spotify.com/album/2N2ogz5o77Ii7wreGUffFT"
-      },
-      "artists": [
-        {
-          "name": "cara",
-          "url": "https://open.spotify.com/artist/4kfgJKwiBXRK4hrB4vNSV0"
-        }
-      ],
-      "duration_ms": 171431,
-      "name": "jeden tag neu",
-      "url": "https://open.spotify.com/track/2BgbsLjtIlJke0OWtRynDx"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "Time Is Money",
         "url": "https://open.spotify.com/album/2l9iuFKUZ8AD0B5U1UXdGC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 136815,
       "name": "Time Is Money",
       "url": "https://open.spotify.com/track/7okZjET1pM0zgwB6vDBRAu"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "jeden tag neu",
+        "url": "https://open.spotify.com/album/2N2ogz5o77Ii7wreGUffFT"
+      },
+      "artists": [
+        {
+          "name": "cara",
+          "url": "https://open.spotify.com/artist/4kfgJKwiBXRK4hrB4vNSV0"
+        }
+      ],
+      "duration_ms": 171431,
+      "name": "jeden tag neu",
+      "url": "https://open.spotify.com/track/2BgbsLjtIlJke0OWtRynDx"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -539,18 +539,34 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Sch\u00f6n sein (ist fun)",
-        "url": "https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH"
+        "name": "Ich hasse die Sonne",
+        "url": "https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA"
       },
       "artists": [
         {
-          "name": "Emma Rose",
-          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+          "name": "piya",
+          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
         }
       ],
-      "duration_ms": 145641,
-      "name": "Sch\u00f6n sein (ist fun)",
-      "url": "https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5"
+      "duration_ms": 164250,
+      "name": "Ich hasse die Sonne",
+      "url": "https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "This Is Nice",
+        "url": "https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l"
+      },
+      "artists": [
+        {
+          "name": "My Ugly Clementine",
+          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "This Is Nice",
+      "url": "https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -575,34 +591,18 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "This Is Nice",
-        "url": "https://open.spotify.com/album/1XdY3LFfrRMLpQOtirJq0l"
+        "name": "Sch\u00f6n sein (ist fun)",
+        "url": "https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH"
       },
       "artists": [
         {
-          "name": "My Ugly Clementine",
-          "url": "https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y"
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
         }
       ],
-      "duration_ms": 158426,
-      "name": "This Is Nice",
-      "url": "https://open.spotify.com/track/1PATluDwNKgyj88RJA4a1Z"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
-        "name": "Ich hasse die Sonne",
-        "url": "https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA"
-      },
-      "artists": [
-        {
-          "name": "piya",
-          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Ich hasse die Sonne",
-      "url": "https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt"
+      "duration_ms": 145641,
+      "name": "Sch\u00f6n sein (ist fun)",
+      "url": "https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5"
     },
     {
       "added_at": "2026-08-04 22:00:28",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-08-04 22:00:28",
       "album": {
-        "name": "Savanna Savage",
-        "url": "https://open.spotify.com/album/7ngqA57C9eOJpdoRukBtnv"
-      },
-      "artists": [
-        {
-          "name": "Alice DiMar",
-          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
-        }
-      ],
-      "duration_ms": 196967,
-      "name": "Savanna Savage",
-      "url": "https://open.spotify.com/track/1ahR23D4S0uyNSQyI1QxDY"
-    },
-    {
-      "added_at": "2026-08-04 22:00:28",
-      "album": {
         "name": "I'm In Love With A German Film Star",
         "url": "https://open.spotify.com/album/7HFhSoPjp94HllaD56FvRM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 267500,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/0OOVYOv8PomdOADlYYj6Wj"
+    },
+    {
+      "added_at": "2026-08-04 22:00:28",
+      "album": {
+        "name": "Savanna Savage",
+        "url": "https://open.spotify.com/album/7ngqA57C9eOJpdoRukBtnv"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "duration_ms": 196967,
+      "name": "Savanna Savage",
+      "url": "https://open.spotify.com/track/1ahR23D4S0uyNSQyI1QxDY"
     },
     {
       "added_at": "2026-08-04 22:00:28",

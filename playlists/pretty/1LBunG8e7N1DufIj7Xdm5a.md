@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,677 songs - 10 day 11 hr 16 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,683 songs - 10 day 11 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4685,5 +4685,11 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4675 | [Believe in Me](https://open.spotify.com/track/2l5hnd81j2Yret3BMdlmef) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:30 |
 | 4676 | [Finding You](https://open.spotify.com/track/5uG4VoobJJyKA4pA4RSxQT) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Finding You](https://open.spotify.com/album/2TkUMuxxYLbfcZq49BMw1i) | 3:16 |
 | 4677 | [Four Truths and One Lie](https://open.spotify.com/track/1XemrHeWRlGv3pHOCJ2Srj) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Four Truths and One Lie](https://open.spotify.com/album/4JpkaVJCMeMqBQjOPmCVi4) | 3:32 |
+| 4678 | [Lost and Found](https://open.spotify.com/track/3qmTYEoQo7IwEsajEfFxfn) | [Cane Rouge](https://open.spotify.com/artist/1uiVgmOdSFSlgDfbJx1rJw) | [Lost and Found](https://open.spotify.com/album/1YRH642XRDebs2vrnsxw4k) | 3:30 |
+| 4679 | [Echoes of the Highland Wind](https://open.spotify.com/track/2IHbuudA1hWxgqVBHoxEEl) | [JeeJayMusic](https://open.spotify.com/artist/35N4chE84DQB88OCPr9PXB) | [Echoes of the Highland Wind](https://open.spotify.com/album/4pJ476DT11KfIVinwPnDA1) | 4:28 |
+| 4680 | [İster Misin](https://open.spotify.com/track/5znnHQBD33vFf8D588ZMD5) | [Ozan Uyan](https://open.spotify.com/artist/1jN6S75KOloD9lfXwTGKaq) | [İster Misin](https://open.spotify.com/album/4ZGYTry0nsZI3YA2ondqvN) | 5:36 |
+| 4681 | [Beautiful Anyway](https://open.spotify.com/track/7v8UIM62f5EZkE0ufwA89n) | [ExistentialRiffs](https://open.spotify.com/artist/4L0s0xTQ6F0GebW27GW1TJ) | [Beautiful Anyway](https://open.spotify.com/album/3zbQAIhVBRo2I2rZczo4yb) | 3:55 |
+| 4682 | [LOCO POR TI](https://open.spotify.com/track/3INdEiSFHpYLyiAt4asSVB) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [RINCONCITO AZUL](https://open.spotify.com/album/5H57RQfWsdZcdpD9YVYCJc) | 5:16 |
+| 4683 | [Tu No Estás Aquí](https://open.spotify.com/track/1EHHy2AEjNDIDwt1Bf6EDL) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Tu No Estás Aquí](https://open.spotify.com/album/37Ws9WLi21IYOivuLq13Tb) | 3:33 |
 
-Snapshot ID: `AAAJmq3sTqRYrxpp9SMTXyd1IWyX2hF3`
+Snapshot ID: `AAAJoDTRlOPUtykqT+TjlV/1OlzMkWJ9`

@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
-  "num_followers": 155314,
+  "num_followers": 155316,
   "original_name": "Good Feeling 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHcE7kSGfQCQpCDe+lKAeWTy7NxM",
+  "snapshot_id": "AAAAAEvKx9AoCq+GdUHonoOoS0h7dzjC",
   "tracks": [
     {
       "added_at": "2022-06-08 06:26:41",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "A New World Record",
         "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 212533,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "Not Fragile",
         "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
     },
     {
       "added_at": "2022-06-08 06:26:41",

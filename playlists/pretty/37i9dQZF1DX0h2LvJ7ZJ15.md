@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,650,218 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,650,372 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [worry \- Slowed](https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [riserayss](https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib) | [worry](https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML) | 3:21 |
-| 2 | [Golden Brown \- Slowed Down Version](https://open.spotify.com/track/612bl0KHzyyxEhPzuMqM6e) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Golden Brown](https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u) | 4:08 |
+| 1 | [Golden Brown \- Slowed Down Version](https://open.spotify.com/track/612bl0KHzyyxEhPzuMqM6e) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Golden Brown](https://open.spotify.com/album/6B9W97yJuTQvYL1ImrJJ6u) | 4:08 |
+| 2 | [worry \- Slowed](https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [riserayss](https://open.spotify.com/artist/3VSqabfX1NfwVkbLP9ZJib) | [worry](https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML) | 3:21 |
 | 3 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 | 4 | [TIKI TIKI \- Slowed](https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV) | [QMIIR](https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [TIKI TIKI](https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k) | 2:01 |
 | 5 | [LEGACY \(slowed down\)](https://open.spotify.com/track/0yFLCs151QFUOufMSti5Xo) | [backfromparadise](https://open.spotify.com/artist/6QDXQhMLrdtRsfZUeucO4E), [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [LEGACY \(slowed down\)](https://open.spotify.com/album/7ehm1EBMZUZbpVwnNfCBjj) | 2:41 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 14 | [Sem Tempo \- Super Slowed](https://open.spotify.com/track/780ZnY2NatxOl1olIhXSF9) | [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb) | [Sem Tempo](https://open.spotify.com/album/6uglHzHW6I7Byh9WXHH8bc) | 2:00 |
 | 15 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 |
 | 16 | [New Home \(Slowed\)](https://open.spotify.com/track/6h6runZeeczWEuEW2pFvYW) | [Austin Farwell](https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5) | [New Home \(Slowed\)](https://open.spotify.com/album/5abrKr37SdeemQnTuKewVq) | 2:54 |
-| 17 | [Nevada \- Slowed + Reverb](https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik) | 4:31 |
-| 18 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
+| 17 | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/track/1ExDyvuvYw8aDaqpPqsVZh) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Intro\) \[Slowed Down Version\]](https://open.spotify.com/album/0aqGz4Uth6nswnJifY4Cdv) | 2:06 |
+| 18 | [Nevada \- Slowed + Reverb](https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik) | 4:31 |
 | 19 | [Sleepwalker \- Slowed](https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [Sleepwalker \(Slowed\)](https://open.spotify.com/album/2EAUAqdIVckKAPCCT0hAQg) | 4:18 |
 | 20 | [3 am walk \- Slowed & Reverb Version](https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [3 am walk](https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT) | 3:19 |
 | 21 | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/track/3fC7BKJN66Tyq44x6Try2R) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13 \(Super Slowed\)](https://open.spotify.com/album/5a9uibuVUtMag0L3Fo8gkQ) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
 | 50 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
 
-Snapshot ID: `AAAAABjGFEWPNPxAJZJ2zhSQR+kafWpr`
+Snapshot ID: `AAAAACGOk45HDBgfumMeULiEx9SD9P8S`

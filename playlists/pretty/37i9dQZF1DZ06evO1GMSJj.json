@@ -1,12 +1,12 @@
 {
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
-  "num_followers": 29375,
+  "num_followers": 29387,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADASdfxb4TiCmsy2i5TlU+X",
+  "snapshot_id": "anfDAAAAAAAJnRcCzSdk3TUPe2gQBduI",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 78187,
-      "name": "Acts Of Magic",
-      "url": "https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA"
+      "duration_ms": 204834,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 204834,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR"
+      "duration_ms": 78187,
+      "name": "Acts Of Magic",
+      "url": "https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA"
     },
     {
       "added_at": null,

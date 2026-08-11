@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 139896,
+  "num_followers": 139903,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFg241Do+wQwQaorwRkITgoaVqXj",
+  "snapshot_id": "AAAAAAu4brJV37/nOOo2/S0Ap5LN4c8C",
   "tracks": [
     {
       "added_at": "2024-07-17 12:24:10",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 182360,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Adam's Apple (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 449773,
       "name": "Footprints - Remastered",
       "url": "https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -227,18 +227,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 251346,
-      "name": "Nobody Else But Me",
-      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
+      "duration_ms": 304426,
+      "name": "Melinda",
+      "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -307,22 +311,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 304426,
-      "name": "Melinda",
-      "url": "https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq"
+      "duration_ms": 251346,
+      "name": "Nobody Else But Me",
+      "url": "https://open.spotify.com/track/2QDrvpbDt5WnHIwqGZZSX0"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Fuchsia Swing Song",
-        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
       "artists": [
         {
-          "name": "Sam Rivers",
-          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 372306,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
+      "duration_ms": 435440,
+      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Night Dreamer",
-        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
+        "name": "Fuchsia Swing Song",
+        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
         }
       ],
-      "duration_ms": 435440,
-      "name": "Night Dreamer - Remastered 2004 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8"
+      "duration_ms": 372306,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Presenting The Gerry Mulligan Sextet",
-        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "King Of The Tenors (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Presenting The Gerry Mulligan Sextet",
+        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 323373,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Warm Valley",
-      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "That's Where It's At",
         "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 374626,
       "name": "Dorene Don't Cry, I - Remastered",
       "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Warm Valley",
+      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Giant Steps (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 287843,
-      "name": "Giant Steps - 2020 Remaster",
-      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Ben Webster Plays Ballads Remastered",
         "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 378784,
       "name": "Stardust - Remastered",
       "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Giant Steps (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 287843,
+      "name": "Giant Steps - 2020 Remaster",
+      "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "The Jimmy Giuffre 3",
         "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 340173,
       "name": "You've Come Home",
       "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 454720,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 454720,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Inner Urge (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
       },
@@ -1315,22 +1315,6 @@
       "duration_ms": 442200,
       "name": "You Know I Care - Remastered 2004/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7eHpseL2CAKKtZmM56SiGV"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
         }
       ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1383,6 +1367,22 @@
       "duration_ms": 376400,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 370693,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Quota",
         "url": "https://open.spotify.com/album/521dwYVqHB2JeJxIWUmSTy"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 389466,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/3UwGl9KiFX1XuonK1btQbQ"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 370693,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
       },
       "artists": [
         {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
         }
       ],
-      "duration_ms": 270960,
-      "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
-      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+      "duration_ms": 449293,
+      "name": "I Remember You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+        "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
       "artists": [
         {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
         }
       ],
-      "duration_ms": 449293,
-      "name": "I Remember You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
+      "duration_ms": 270960,
+      "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
+      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Complete Prestige Recordings",
-        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 641733,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Stan Getz Quartets (Remastered)",
         "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 173360,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Complete Prestige Recordings",
+        "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 641733,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2051,8 +2051,8 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
+        "name": "Triptykon",
+        "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
       "artists": [
         {
@@ -2060,17 +2060,17 @@
           "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
         },
         {
-          "name": "Miroslav Vitous",
-          "url": "https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD"
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
         },
         {
-          "name": "Peter Erskine",
-          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
+          "name": "Edward Vesala",
+          "url": "https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr"
         }
       ],
-      "duration_ms": 363333,
-      "name": "Lamenting",
-      "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
+      "duration_ms": 447600,
+      "name": "J.E.V.",
+      "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2147,8 +2147,8 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Triptykon",
-        "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
+        "name": "Star",
+        "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
       },
       "artists": [
         {
@@ -2156,17 +2156,17 @@
           "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
         },
         {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+          "name": "Miroslav Vitous",
+          "url": "https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD"
         },
         {
-          "name": "Edward Vesala",
-          "url": "https://open.spotify.com/artist/1L8P0focMerZcfKibETMRr"
+          "name": "Peter Erskine",
+          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
         }
       ],
-      "duration_ms": 447600,
-      "name": "J.E.V.",
-      "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
+      "duration_ms": 363333,
+      "name": "Lamenting",
+      "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
     },
     {
       "added_at": "2024-07-17 12:24:10",

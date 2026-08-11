@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Akashi Cruz, MHRAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,734 likes - 75 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,718 likes - 75 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [pintura \(bonus track\)](https://open.spotify.com/track/1QvbOIlIMvtZe3VycP1wUV) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7), [Matteo](https://open.spotify.com/artist/7kciSzJDv01OwFxtxCp4Ru), [prodyans](https://open.spotify.com/artist/2CkSJsVNYUgTsSfHt5LImW), [Bymd.wav](https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy) | [F.A.Q\. LUV](https://open.spotify.com/album/3uPRLUodZXaqFgDpOZO3rY) | 3:32 |
 | 75 | [Piloto II](https://open.spotify.com/track/4fhks3pfqdJZa9VCLDZgXE) | [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp) | [Ambition Cross](https://open.spotify.com/album/3RdWUjvf6b6HuES4oaNddh) | 4:15 |
 
-Snapshot ID: `AAAAAJh72AjsGqTff4haw7FcyYOGc1iG`
+Snapshot ID: `AAAAAB+Bxm4p7bnHj9e8zxnS+U/NZhd9`

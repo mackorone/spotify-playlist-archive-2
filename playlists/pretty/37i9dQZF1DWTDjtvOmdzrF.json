@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556889,
+  "num_followers": 556870,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISf9p9CYx1y0fCX7Y2C0xCEoAzp",
+  "snapshot_id": "AAAAAAbPnvRCz6mpZibuq1uCETiOLURG",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:13",
@@ -599,18 +599,18 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Rumah",
-        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+        "name": "Asmalibrasi",
+        "url": "https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw"
       },
       "artists": [
         {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+          "name": "Soegi Bornean",
+          "url": "https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel"
         }
       ],
-      "duration_ms": 258845,
-      "name": "Rumah",
-      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+      "duration_ms": 254862,
+      "name": "Asmalibrasi",
+      "url": "https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "Hari Baru",
         "url": "https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 268866,
       "name": "Dekat Di Hati",
       "url": "https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "Asmalibrasi",
-        "url": "https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw"
-      },
-      "artists": [
-        {
-          "name": "Soegi Bornean",
-          "url": "https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Asmalibrasi",
-      "url": "https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "8 Tahun",
-        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
-      },
-      "artists": [
-        {
-          "name": "Adhitia Sofyan",
-          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
-        }
-      ],
-      "duration_ms": 287453,
-      "name": "Sesuatu Di Jogja",
-      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 218293,
       "name": "Bimbang",
       "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "8 Tahun",
+        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
+      },
+      "artists": [
+        {
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+        }
+      ],
+      "duration_ms": 287453,
+      "name": "Sesuatu Di Jogja",
+      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "Gajah",
+        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "Gajah",
+      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "I Just Couldn't Save You Tonight (Story of Kale - Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 219600,
       "name": "I Just Couldn't Save You Tonight - Story of Kale - Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "Gajah",
-        "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "Gajah",
-      "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Dia",
         "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 207490,
       "name": "Dia",
       "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "18",
+        "url": "https://open.spotify.com/album/3rgZSxDc3XL6rgSshcqe9t"
+      },
+      "artists": [
+        {
+          "name": "Audy",
+          "url": "https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Menangis Semalam",
+      "url": "https://open.spotify.com/track/7Mje0E5sZXe0K3PvvixXPe"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "18",
-        "url": "https://open.spotify.com/album/3rgZSxDc3XL6rgSshcqe9t"
-      },
-      "artists": [
-        {
-          "name": "Audy",
-          "url": "https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Menangis Semalam",
-      "url": "https://open.spotify.com/track/7Mje0E5sZXe0K3PvvixXPe"
     },
     {
       "added_at": "2026-02-27 14:15:13",

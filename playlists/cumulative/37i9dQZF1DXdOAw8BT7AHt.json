@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best of every corner of modern punk rock. Cover: Militarie Gun & Mannequin Pussy",
+  "description": "The best of every corner of modern punk rock. Cover: Initiate",
   "name": "Today's Punk",
   "tracks": [
     {
@@ -1524,6 +1524,28 @@
       "duration_ms": 189600,
       "name": "BIG HIT SINGLE",
       "url": "https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD"
+    },
+    {
+      "album": {
+        "name": "BIG NOTER (feat. Joe Talbot)",
+        "url": "https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4"
+      },
+      "artists": [
+        {
+          "name": "BIG NOTER",
+          "url": "https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B"
+        },
+        {
+          "name": "Joe Talbot",
+          "url": "https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "BIG NOTER (feat. Joe Talbot)",
+      "url": "https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2"
     },
     {
       "album": {
@@ -3526,6 +3548,24 @@
       "duration_ms": 286272,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/2vbSolhCUDzOJ8nNaK2UKa"
+    },
+    {
+      "album": {
+        "name": "Democracy Manifest",
+        "url": "https://open.spotify.com/album/4eBylK5OV8GVQXSm3arSpe"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126840,
+      "name": "Democracy Manifest",
+      "url": "https://open.spotify.com/track/1AlqXBu6Y8fTnyjBWDDibl"
     },
     {
       "album": {
@@ -5639,6 +5679,24 @@
     },
     {
       "album": {
+        "name": "Halcyon Blues",
+        "url": "https://open.spotify.com/album/3vUBcLeVjcC2HIztGj0T7F"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187156,
+      "name": "Good Fortune",
+      "url": "https://open.spotify.com/track/6h9g67CxwZf4RcsQF4SZZb"
+    },
+    {
+      "album": {
         "name": "Effigy",
         "url": "https://open.spotify.com/album/3ITJHZF40YUacjdJS01ppt"
       },
@@ -6210,7 +6268,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 223416,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/69jRxSLeXXM0jDq5EFMc5O"
@@ -6964,6 +7022,24 @@
       "duration_ms": 105425,
       "name": "Iron Feet",
       "url": "https://open.spotify.com/track/4HDGRiM06AJMNVkmTaC59z"
+    },
+    {
+      "album": {
+        "name": "Hell Bent",
+        "url": "https://open.spotify.com/album/5QZwfVR6ZWmTXXk20Js9xq"
+      },
+      "artists": [
+        {
+          "name": "SKIRT.",
+          "url": "https://open.spotify.com/artist/1ncSEf033cpKhDR6NI0lke"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80136,
+      "name": "Irresistible Smile",
+      "url": "https://open.spotify.com/track/0FTydkxsutOv293dRN8yDw"
     },
     {
       "album": {
@@ -9552,10 +9628,28 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 177532,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/0TD9zLvWImAZMbMaP132IW"
+    },
+    {
+      "album": {
+        "name": "With Love // With Rage",
+        "url": "https://open.spotify.com/album/0Zv433jFPMYWbdbAe2On25"
+      },
+      "artists": [
+        {
+          "name": "Initiate",
+          "url": "https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177532,
+      "name": "Numb The Pain",
+      "url": "https://open.spotify.com/track/6R9tUf6lLut6cnp5tBodoJ"
     },
     {
       "album": {
@@ -9732,7 +9826,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 179000,
       "name": "ONLY FREE WHEN SLEEPING",
       "url": "https://open.spotify.com/track/2UrEoBlS2t0NsO1D75jfsN"
@@ -10760,7 +10854,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 191583,
       "name": "Rings True",
       "url": "https://open.spotify.com/track/70A1I5irEr0xAVplqH6ajm"
@@ -12958,7 +13052,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 447505,
       "name": "The Invisible Hurt",
       "url": "https://open.spotify.com/track/5xbG3PwIkkN1ftpJZ8p8WB"
@@ -13300,7 +13394,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 204773,
       "name": "Thoroughbreds",
       "url": "https://open.spotify.com/track/1c4Oq2SYTnRzt1gg4zCl9q"
@@ -14738,6 +14832,28 @@
       "duration_ms": 174521,
       "name": "worlds greatest emoter",
       "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
+    },
+    {
+      "album": {
+        "name": "Rifle",
+        "url": "https://open.spotify.com/album/25bhywJ1pdD8IYmEuMEZXc"
+      },
+      "artists": [
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/64deU7K1K6EWzFVoT0woah"
+        },
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119041,
+      "name": "Worthless",
+      "url": "https://open.spotify.com/track/12YdFNtjSjK1H3iZztoGKQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vitão
 
-1,197 songs - 2 day 11 hr 20 min
+1,198 songs - 2 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [Fórmula](https://open.spotify.com/track/6L7popTiDKKLHafG3X0ZSF) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Fórmula](https://open.spotify.com/album/1ncmgUI98E7illDvzbQNt0) | 2:26 | 2023-08-18 | 2023-09-02 |
 | [Fúria](https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Coral](https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs), [Fervo Unboxing](https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia) | [Fúria](https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx) | 3:13 | 2026-07-03 |  |
 | [Gamadona](https://open.spotify.com/track/6LiFJolwT0NIa0YMRrmRgG) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Weeze Cooker](https://open.spotify.com/artist/2rgWI1W1YEsU6oeYJLbfWo), [PS](https://open.spotify.com/artist/5iktjCeO7xYp63JGwmxP68) | [Gamadona](https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME) | 2:32 | 2023-09-15 | 2023-09-30 |
+| [Gamou](https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ) | [Bê Vieira](https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj) | [Tempo Bom](https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb) | 3:14 | 2026-08-07 |  |
 | [Gangorra](https://open.spotify.com/track/32z2XMNAqSNOB9lAxctyce) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [Gangorra](https://open.spotify.com/album/3RT2HCFAmlvkJ6eopeEYR5) | 3:47 | 2020-10-20 | 2022-07-29 |
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-03-06 | 2023-08-26 |
 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 | 2024-06-21 | 2024-08-17 |
@@ -874,7 +875,7 @@
 | [Prova Final \- Lance de Escola 4: Corações em Jogo](https://open.spotify.com/track/4xu0GjtwzvqdxZWPCXRCmB) | [Kysha e Mine](https://open.spotify.com/artist/7rYnbZAF39lmH90aJV3bXw) | [Prova Final \(Lance de Escola 4: Corações em Jogo\)](https://open.spotify.com/album/2gl3mYQfhDU5on8Pr1pB3F) | 3:10 | 2026-06-26 | 2026-07-03 |
 | [Príncipe Negro \(Pegada do Preto\)](https://open.spotify.com/track/5DExTwj5Nc7bpVD1EkVStI) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [PiraruCool](https://open.spotify.com/album/7yo6XUy0JbHVLL8p5kYTZV) | 2:52 | 2023-10-20 | 2023-11-11 |
 | [Psicose](https://open.spotify.com/track/3Hi829to1jWWtcUxMdbJng) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Psicose](https://open.spotify.com/album/5ysz79tt0Kj5DZFfv1dJiC) | 2:58 | 2020-10-20 | 2022-07-29 |
-| [Pura Poesia](https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi) | [Bia Trindade](https://open.spotify.com/artist/7l8w6DIaC0D9ioT6CvmVTT), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Pura Poesia](https://open.spotify.com/album/6FuUAYQPklC2nDknB1JPXN) | 3:00 | 2025-10-31 |  |
+| [Pura Poesia](https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi) | [Bia Trindade](https://open.spotify.com/artist/7l8w6DIaC0D9ioT6CvmVTT), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Pura Poesia](https://open.spotify.com/album/6FuUAYQPklC2nDknB1JPXN) | 3:00 | 2025-10-31 | 2026-08-11 |
 | [puro osso](https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso](https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0) | 3:37 | 2023-10-13 | 2023-11-11 |
 | [puro osso \- acústico](https://open.spotify.com/track/57vtkUpGz1m9OOhT56hRkl) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso \- acústico](https://open.spotify.com/album/7AqrBWUwuO3sZife9VTFkI) | 2:42 | 2023-09-22 | 2023-10-14 |
 | [putz](https://open.spotify.com/track/3eDcQ4Hb1C662e1iCYzxCL) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [putz](https://open.spotify.com/album/4jHIJVCbtAKEfvLg9gbdxl) | 1:48 | 2024-03-01 | 2024-03-30 |

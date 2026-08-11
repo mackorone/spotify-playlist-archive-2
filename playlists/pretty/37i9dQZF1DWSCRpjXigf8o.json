@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88626,
+  "num_followers": 88629,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIxSvRn+904s7FwTk4rgS8sotQm",
+  "snapshot_id": "AAAAAIj2bXvQtRgpvxrCRsykoQGrmfeJ",
   "tracks": [
     {
       "added_at": "2026-02-19 15:16:11",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/2A0ujima89BfVrpG0aJnIq"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "Rat Race",
-        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
-      },
-      "artists": [
-        {
-          "name": "Sophia Bel",
-          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
-        }
-      ],
-      "duration_ms": 190808,
-      "name": "Rat Race",
-      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u97f3\u30bf\u30a4\u30e0",
@@ -495,6 +479,22 @@
       "duration_ms": 165522,
       "name": "Need You Around",
       "url": "https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "Rat Race",
+        "url": "https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 190808,
+      "name": "Rat Race",
+      "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -745,26 +745,6 @@
       "url": "https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF"
     },
     {
-      "added_at": "2026-05-21 15:00:24",
-      "album": {
-        "name": "la misma piedra",
-        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
-      },
-      "artists": [
-        {
-          "name": "Ton Felices",
-          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
-        },
-        {
-          "name": "Rita Pay\u00e9s",
-          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
-        }
-      ],
-      "duration_ms": 216996,
-      "name": "la misma piedra",
-      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "I'd Be Lost",
@@ -795,6 +775,26 @@
       "duration_ms": 187666,
       "name": "\u706f\u53f0 (Live Session)",
       "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+    },
+    {
+      "added_at": "2026-05-21 15:00:24",
+      "album": {
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
+      },
+      "artists": [
+        {
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
     },
     {
-      "added_at": "2026-07-09 15:00:41",
-      "album": {
-        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
-      },
-      "artists": [
-        {
-          "name": "Sara Wakui",
-          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
-        }
-      ],
-      "duration_ms": 296282,
-      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
-      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
-    },
-    {
       "added_at": "2026-02-19 15:16:11",
       "album": {
         "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
@@ -891,6 +875,22 @@
       "duration_ms": 221339,
       "name": "\u30cd\u30a4\u30eb\u306e\u5cf6",
       "url": "https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2"
+    },
+    {
+      "added_at": "2026-07-09 15:00:41",
+      "album": {
+        "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+        "url": "https://open.spotify.com/album/65RpBciq29l3eI1zyCBpIR"
+      },
+      "artists": [
+        {
+          "name": "Sara Wakui",
+          "url": "https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9"
+        }
+      ],
+      "duration_ms": 296282,
+      "name": "\u8a00\u308f\u305b\u3070\u306a\u3044",
+      "url": "https://open.spotify.com/track/36jhFhPeioSElVDd0Y2FMM"
     },
     {
       "added_at": "2026-07-16 15:00:53",
@@ -927,18 +927,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
-        "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
+        "name": "Trio & Charm",
+        "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
       "artists": [
         {
           "name": "Ohashi Trio",
           "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        },
+        {
+          "name": "THE CHARM PARK",
+          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
         }
       ],
-      "duration_ms": 209899,
-      "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
-      "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
+      "duration_ms": 226585,
+      "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -975,6 +979,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 268313,
+      "name": "junior",
+      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -991,6 +1011,22 @@
       "duration_ms": 168658,
       "name": "Fall Into You",
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
+        "url": "https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "\u30ab\u30e9\u30bf\u30c1\u306e\u5922",
+      "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
     },
     {
       "added_at": "2026-07-09 15:00:41",
@@ -1011,42 +1047,6 @@
       "duration_ms": 312000,
       "name": "Accord",
       "url": "https://open.spotify.com/track/4YiSm3yWe57eX3ZDxhIzzO"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Trio & Charm",
-        "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        },
-        {
-          "name": "THE CHARM PARK",
-          "url": "https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb"
-        }
-      ],
-      "duration_ms": 226585,
-      "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "jones",
-        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 268313,
-      "name": "junior",
-      "url": "https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "NEW ERA",
         "url": "https://open.spotify.com/album/68M8Tmn6r8UHPjj9mEKfIv"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 279000,
       "name": "NEW ERA",
       "url": "https://open.spotify.com/track/0OGP0oE9f0TVu4RiLQIRmZ"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "ceremony",
-        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
-      },
-      "artists": [
-        {
-          "name": "Awesome City Club",
-          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
-        }
-      ],
-      "duration_ms": 275354,
-      "name": "ceremony",
-      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Turntable in the Lift",
         "url": "https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 249000,
       "name": "MY\u5922\u4e2d",
       "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "ceremony",
+        "url": "https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL"
+      },
+      "artists": [
+        {
+          "name": "Awesome City Club",
+          "url": "https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv"
+        }
+      ],
+      "duration_ms": 275354,
+      "name": "ceremony",
+      "url": "https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 145841,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 145841,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "burn blister",
+        "url": "https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "burn blister",
+      "url": "https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "pineapple bun",
         "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 243600,
       "name": "Here with me",
       "url": "https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "burn blister",
-        "url": "https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY"
-      },
-      "artists": [
-        {
-          "name": "cehryl",
-          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "burn blister",
-      "url": "https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88"
     },
     {
       "added_at": "2026-02-19 15:16:11",

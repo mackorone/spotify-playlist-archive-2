@@ -1,12 +1,12 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 127353,
+  "num_followers": 127368,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM4be/ePbWFS/IzHKRls/9wykklh",
+  "snapshot_id": "AAAAAOjAQzdpxyCdDUQ0PlMDnOXD+zka",
   "tracks": [
     {
       "added_at": "2025-11-20 11:23:04",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Grandes \u00c9xitos Regrabados",
         "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 242242,
       "name": "Iluminar\u00e1",
       "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -831,22 +831,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
         }
       ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+      "duration_ms": 191333,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -867,18 +863,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
       "artists": [
         {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
         }
       ],
-      "duration_ms": 191333,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+      },
+      "artists": [
+        {
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Compa\u00f1eros",
         "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 245581,
       "name": "Compa\u00f1eros",
       "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
-      },
-      "artists": [
-        {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
-        }
-      ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Rompi",
-        "url": "https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78"
-      },
-      "artists": [
-        {
-          "name": "Brian Lanzelotta",
-          "url": "https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3"
-        },
-        {
-          "name": "Santi y lo que faltaba",
-          "url": "https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "Rompi",
-      "url": "https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "\u00bfC\u00f3mo Te Explico?",
         "url": "https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 189231,
       "name": "\u00bfC\u00f3mo Te Explico?",
       "url": "https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Rompi",
+        "url": "https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78"
+      },
+      "artists": [
+        {
+          "name": "Brian Lanzelotta",
+          "url": "https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3"
+        },
+        {
+          "name": "Santi y lo que faltaba",
+          "url": "https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "Rompi",
+      "url": "https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf"
       },
       "artists": [
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Grupo Hechizo Chile",
+          "url": "https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
+      "duration_ms": 210285,
+      "name": "No Te Dejes",
+      "url": "https://open.spotify.com/track/1wxtqsneeTjeuUa86ZE6zX"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1683,34 +1683,34 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf"
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo Chile",
-          "url": "https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 210285,
-      "name": "No Te Dejes",
-      "url": "https://open.spotify.com/track/1wxtqsneeTjeuUa86ZE6zX"
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     },
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
       "artists": [
         {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 356938,
-      "name": "La Santa Diabla",
-      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
+      "duration_ms": 188053,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
       },
       "artists": [
         {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
         }
       ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+      "duration_ms": 356938,
+      "name": "La Santa Diabla",
+      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
     }
   ],
   "unique_name": "Cumbias para carretear",

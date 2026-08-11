@@ -1,12 +1,12 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 444301,
+  "num_followers": 444293,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFgaeCvDm3ffewNJQQJUb9f0a+an",
+  "snapshot_id": "AAAAAFE1HI9V7H41a1COFZ82R+FsX38l",
   "tracks": [
     {
       "added_at": "2026-08-06 14:00:14",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2026-08-06 14:00:14",
-      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 213493,
       "name": "You Should Probably Leave",
       "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+      "added_at": "2026-08-06 14:00:14",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -411,18 +411,22 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -491,22 +495,18 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
       "artists": [
         {
           "name": "Lady Gaga",
           "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "added_at": "2026-08-06 14:00:14",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2026-08-06 14:00:14",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -695,6 +695,26 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2026-08-06 14:00:14",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 297103,
       "name": "Orange Juice",
       "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl"
-    },
-    {
-      "added_at": "2026-08-06 14:00:14",
-      "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
-      },
-      "artists": [
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
-    },
-    {
-      "added_at": "2026-08-06 14:00:14",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "added_at": "2026-08-06 14:00:14",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 217480,
-      "name": "Almost (Sweet Music)",
-      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
-    },
-    {
-      "added_at": "2026-08-06 14:00:14",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 213760,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0"
+    },
+    {
+      "added_at": "2026-08-06 14:00:14",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 217480,
+      "name": "Almost (Sweet Music)",
+      "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+    },
+    {
+      "added_at": "2026-08-06 14:00:14",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2026-08-06 14:00:14",
-      "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
     },
     {
       "added_at": "2026-08-06 14:00:14",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-08-06 14:00:14",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
-    },
-    {
-      "added_at": "2026-08-06 14:00:14",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 187940,
       "name": "Before You",
       "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
+    },
+    {
+      "added_at": "2026-08-06 14:00:14",
+      "album": {
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
     }
   ],
   "unique_name": "Lazy Sunday",

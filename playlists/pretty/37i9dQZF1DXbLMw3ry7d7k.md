@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > The latest and greatest! Revive los éxitos latinos de los últimos meses.
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,033 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,095 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 43 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 | 44 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 45 | [TATTOO](https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [TATTOO](https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE) | 2:47 |
-| 46 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 |
+| 46 | [DÓNDE](https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:13 |
 | 47 | [M&M](https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 2:46 |
-| 48 | [DÓNDE](https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:13 |
+| 48 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 |
 | 49 | [miau](https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [miau](https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg) | 3:05 |
 | 50 | [dopamina](https://open.spotify.com/track/5t2uZtcH5UyXkCWYy5oxGo) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [dopamina](https://open.spotify.com/album/2xsxnqTNzAwnfhl5ETlmfg) | 3:05 |
 | 51 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 99 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 |
 | 100 | [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 |
 
-Snapshot ID: `AAAAAA95lmDIwcg1WfTmgAdr3d3yZdDW`
+Snapshot ID: `AAAAAMX0qDdTCIykLedkqSxiEibYP947`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Bia Soull
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,734 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,703 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Avant\-Garde](https://open.spotify.com/track/1HD47Yxz6wBBDDBzNt29mO) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [b0dy c0un1](https://open.spotify.com/album/6BoHLJKs4A259rPClVixzv) | 2:18 |
 | 50 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 
-Snapshot ID: `AAAAAIRTL7fo9HKc1jxl3aOEbSB6h19H`
+Snapshot ID: `AAAAAEpJTc7RtIfaRrioUzrWeqYoWnuD`

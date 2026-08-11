@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 230787,
+  "num_followers": 230836,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFrOCDh2syCeaZnk3YhBUPEqcE/r",
+  "snapshot_id": "AAAAAFd+ZeNJLTaKgjvGlj80F1lfmS8k",
   "tracks": [
     {
       "added_at": "2024-07-12 16:10:01",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Very Mercenary",
-        "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
+        "name": "Deadringer: Deluxe",
+        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
       "artists": [
         {
-          "name": "The Herbaliser",
-          "url": "https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w"
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
         }
       ],
-      "duration_ms": 216001,
-      "name": "The Sensual Woman",
-      "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
+      "duration_ms": 317933,
+      "name": "Ghostwriter",
+      "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Deadringer: Deluxe",
-        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Ghostwriter",
-      "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "A New Stereophonic Sound Spectacular",
         "url": "https://open.spotify.com/album/6FFKUYyfC9S8fDy725qLAq"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 284293,
       "name": "2 Wicky",
       "url": "https://open.spotify.com/track/4NyKEVldCvokxpmeFBNNXI"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Very Mercenary",
+        "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
+      },
+      "artists": [
+        {
+          "name": "The Herbaliser",
+          "url": "https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w"
+        }
+      ],
+      "duration_ms": 216001,
+      "name": "The Sensual Woman",
+      "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "A Grand Love Story",
-        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
-      },
-      "artists": [
-        {
-          "name": "Kid Loco",
-          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
-        }
-      ],
-      "duration_ms": 328265,
-      "name": "Relaxin' with cherry",
-      "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "G-Stoned",
         "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 386266,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "A Grand Love Story",
+        "url": "https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS"
+      },
+      "artists": [
+        {
+          "name": "Kid Loco",
+          "url": "https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL"
+        }
+      ],
+      "duration_ms": 328265,
+      "name": "Relaxin' with cherry",
+      "url": "https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
+        "name": "Felt Mountain",
+        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+      "duration_ms": 258026,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 324906,
       "name": "Peacock Tail",
       "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Felt Mountain",
-        "url": "https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
       },
       "artists": [
         {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
         }
       ],
-      "duration_ms": 290826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1383,18 +1383,50 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+        "name": "The Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
       },
       "artists": [
         {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3"
+      "duration_ms": 290826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Come Touch The Sun",
+        "url": "https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf"
+      },
+      "artists": [
+        {
+          "name": "Mo' Horizons",
+          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Yes Baby Yes",
+      "url": "https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1415,22 +1447,6 @@
       "duration_ms": 233226,
       "name": "Futures",
       "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1467,22 +1483,6 @@
       "duration_ms": 212693,
       "name": "Playground Love (with Gordon Tracks)",
       "url": "https://open.spotify.com/track/4mJ2jiw5WZgT1PIAEc7P5P"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Come Touch The Sun",
-        "url": "https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf"
-      },
-      "artists": [
-        {
-          "name": "Mo' Horizons",
-          "url": "https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP"
-        }
-      ],
-      "duration_ms": 300693,
-      "name": "Yes Baby Yes",
-      "url": "https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
+        }
+      ],
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Maim That Tune",
         "url": "https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF"
       },
@@ -1595,26 +1595,6 @@
       "duration_ms": 566146,
       "name": "A Zed And Two L's",
       "url": "https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        },
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
-      "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1651,6 +1631,26 @@
       "duration_ms": 139226,
       "name": "The Cosmic Game",
       "url": "https://open.spotify.com/track/3tg1p03BlubeFZbCLzmNwF"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        },
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
+      "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
     },
     {
       "added_at": "2024-07-12 16:10:01",

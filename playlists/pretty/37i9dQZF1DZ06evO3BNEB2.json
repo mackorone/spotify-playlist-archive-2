@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40846,
+  "num_followers": 40848,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAC3sZ+NXoHSndcRcIO+p2/X",
+  "snapshot_id": "anfDAAAAAABK1986sSjdyv7bRTXJ8YmB",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambition",
-        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
       },
       "artists": [
         {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 269266,
-      "name": "That Way (feat. Jeremih & Rick Ross)",
-      "url": "https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC"
+      "duration_ms": 277970,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
     },
     {
       "added_at": null,
@@ -523,22 +519,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1XNlRfQuMTW3IF0z0dUZgq"
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
       },
       "artists": [
         {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        },
-        {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 277970,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4L3HQD7tbXCPpO9Ps7rgdm"
+      "duration_ms": 269266,
+      "name": "That Way (feat. Jeremih & Rick Ross)",
+      "url": "https://open.spotify.com/track/7FAXe9lI8vzAJYgYv2xoSC"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friday Night Lights",
         "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
       },
@@ -1003,22 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
       "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
         {
           "name": "Wale",
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Feel the Love (feat. Wale)",
-      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
+      "duration_ms": 201000,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
     },
     {
       "added_at": null,
@@ -1039,6 +1019,26 @@
       "duration_ms": 249271,
       "name": "The Girls on Drugs",
       "url": "https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Feel the Love (feat. Wale)",
+      "url": "https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C"
     },
     {
       "added_at": null,

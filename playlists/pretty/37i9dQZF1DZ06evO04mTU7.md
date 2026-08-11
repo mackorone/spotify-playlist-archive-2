@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 
 > This is AJULLIACOSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,822 likes - 47 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,836 likes - 47 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 28 | [Amo Te Ver de Juju](https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:40 |
 | 29 | [Cifrão](https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Eh Noiz Ki Tá](https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1) | 3:06 |
 | 30 | [Do Corre](https://open.spotify.com/track/2s2bzNLPFLqDDvS5EyUAZZ) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET) | [Do Corre](https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP) | 3:15 |
-| 31 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
-| 32 | [Não Discuto por Telefone](https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [A Peça Final](https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ) | 2:27 |
+| 31 | [Não Discuto por Telefone](https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [A Peça Final](https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ) | 2:27 |
+| 32 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
 | 33 | [Tente Outra Vez](https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Sebrae Nosso Canto](https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA) | [Tente Outra Vez](https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq) | 1:54 |
 | 34 | [Cigana](https://open.spotify.com/track/2Fvnv1hJ3t9F1YygLQqy39) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 2:18 |
 | 35 | [O Suficiente \(feat\. N.I.N.A\)](https://open.spotify.com/track/5MfftqrTB2wHHJ3DbAL7Ih) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U), [N.I.N.A](https://open.spotify.com/artist/5Urbe9WT5EsIoKLy6hg7h1) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 3:24 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04mTU7.md) - [plain]
 | 46 | [OK](https://open.spotify.com/track/0zMq8ku7rPwkWiFgLNTJ4J) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [OK](https://open.spotify.com/album/5FAv7HvHUlRHB4FcpIlLFq) | 2:09 |
 | 47 | [Aju](https://open.spotify.com/track/5OKRfZjxg0rfrx8ZQxw8X0) | [AJULLIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Aju](https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6) | 2:33 |
 
-Snapshot ID: `anZxgAAAAABeitPh1U1vDbOU57oHmYtb`
+Snapshot ID: `anfDAAAAAAA2UZK4S/XWkhnsgcWvIZ5f`

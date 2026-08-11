@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: عشري
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: أبيوسف
 
-485 songs - 23 hr 39 min
+486 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [CAP MERCEDES](https://open.spotify.com/track/1e6lP3m32MeLVEtZ2W1tnI) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [CAP MERCEDES](https://open.spotify.com/album/5Xw5WVvVrPJTU96wj5gHgV) | 2:46 | 2023-07-26 | 2023-08-18 |
 | [Caravan](https://open.spotify.com/track/1mDomyxsV7TpNhjsHSdAim) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Caravan](https://open.spotify.com/album/3qwsyWmHGylqvRkqUvvuzJ) | 2:29 | 2023-01-18 | 2023-05-23 |
 | [Catalina](https://open.spotify.com/track/49b5PKQTRiFp6fJq0idjB8) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Catalina](https://open.spotify.com/album/0XcxqyJ2wJAKPFc7vpjnKX) | 2:14 | 2023-08-16 | 2023-08-25 |
+| [CHA CHA MATCHA](https://open.spotify.com/track/57dMVjmPjXVXGbbg5STyCb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [CHA CHA MATCHA](https://open.spotify.com/album/5TYiEK0q0nU8lXJWMerMKm) | 2:55 | 2026-08-10 |  |
 | [CHAPTER III: GORAA](https://open.spotify.com/track/11CLR83zp5oox9U0dr21Uw) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:02 | 2023-02-20 | 2023-03-03 |
 | [CITY](https://open.spotify.com/track/64TWN5dXHFAfPdTrl7tm6e) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [CITY](https://open.spotify.com/album/3CA3aSk21SllyOedccrxr9) | 2:45 | 2026-05-07 |  |
 | [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 | 2024-01-29 | 2025-10-07 |

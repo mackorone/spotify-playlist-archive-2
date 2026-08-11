@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,151 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,154 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,19 +76,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 66 | [bambino perfetto](https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [SKI](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [bambino perfetto](https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG) | 2:20 |
 | 67 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Matteo Guccini](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
 | 68 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
-| 69 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
-| 70 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 69 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 70 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
 | 71 | [nato per morire](https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [nato per morire](https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3) | 2:04 |
 | 72 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
 | 73 | [Lasciami Qui](https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Buone Maniere Per Giovani Predatori](https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp) | 3:53 |
 | 74 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
 | 75 | [polvere da sparo](https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [polvere da sparo](https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ) | 2:57 |
-| 76 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
-| 77 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 |
+| 76 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 |
+| 77 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
 | 78 | [:RRaGNaTELa](https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 3:49 |
 | 79 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 |
-| 80 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
-| 81 | [Ci siamo fatti male](https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ci siamo fatti male](https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58) | 2:50 |
+| 80 | [Ci siamo fatti male](https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ci siamo fatti male](https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58) | 2:50 |
+| 81 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
 | 82 | [Semprerosa](https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Semprerosa](https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F) | 3:20 |
 | 83 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 84 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 88 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 89 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
 | 90 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
-| 91 | [sfacciati](https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [sfacciati](https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD) | 2:25 |
+| 91 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
 | 92 | [Sotto lo zero](https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Sotto lo zero](https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE) | 3:00 |
 | 93 | [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 |
-| 94 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
-| 95 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
+| 94 | [sfacciati](https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [sfacciati](https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD) | 2:25 |
+| 95 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
 | 96 | [CAMBIARE VITA](https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [QUARTA DIMENSIONE](https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN) | 2:01 |
 | 97 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
 | 98 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 |
 | 99 | [Attacco di Panico](https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6) | [Attacco di Panico](https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli) | 2:25 |
 | 100 | [Acqua Fredda](https://open.spotify.com/track/56uVp5ERZsLrZyhUbMTmzb) | [Leevio](https://open.spotify.com/artist/5en4eW7F1gbtY1tazWg14O) | [Acqua Fredda](https://open.spotify.com/album/4AU5GCrPCn9DOyqS5XD36m) | 2:39 |
 
-Snapshot ID: `AAAAADXG2CA236uiIQNAn7SZZF8s6d5a`
+Snapshot ID: `AAAAABw7v4e8vC3I/8dwsH9OjHkK1xAi`

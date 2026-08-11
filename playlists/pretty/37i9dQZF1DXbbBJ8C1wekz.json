@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 189862,
+  "num_followers": 189944,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHl2yuRfX/texisJwV9LbzwtjAn",
+  "snapshot_id": "AAAAAAtG6PJwkm7qIJVEJmLHdEATZcWa",
   "tracks": [
     {
       "added_at": "2026-08-07 14:27:34",
@@ -975,54 +975,6 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
-        "name": "Outros Corpos",
-        "url": "https://open.spotify.com/album/7wIVaMzhi9Rbfh7syq39zb"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Ribb",
-          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Outros Corpos",
-      "url": "https://open.spotify.com/track/0ghm6bTrXuqnLDyvfsv2at"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "Fuso",
-        "url": "https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 114645,
-      "name": "Fuso",
-      "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
         "name": "Todo Mundo Odeia o IG",
         "url": "https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4"
       },
@@ -1055,6 +1007,54 @@
       "duration_ms": 164138,
       "name": "Ol\u00e1, Mo\u00e7a",
       "url": "https://open.spotify.com/track/7umgf0NrHZgIAI0ep64sLc"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Fuso",
+        "url": "https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 114645,
+      "name": "Fuso",
+      "url": "https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
+        "name": "Outros Corpos",
+        "url": "https://open.spotify.com/album/7wIVaMzhi9Rbfh7syq39zb"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Outros Corpos",
+      "url": "https://open.spotify.com/track/0ghm6bTrXuqnLDyvfsv2at"
     },
     {
       "added_at": "2026-08-07 14:27:34",
@@ -2167,6 +2167,30 @@
     {
       "added_at": "2026-08-07 14:27:34",
       "album": {
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+        }
+      ],
+      "duration_ms": 112131,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
+    },
+    {
+      "added_at": "2026-08-07 14:27:34",
+      "album": {
         "name": "THE BOX MEDLEY 8",
         "url": "https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk"
       },
@@ -2199,30 +2223,6 @@
       "duration_ms": 293337,
       "name": "THE BOX MEDLEY 8",
       "url": "https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK"
-    },
-    {
-      "added_at": "2026-08-07 14:27:34",
-      "album": {
-        "name": "Cyberpunk",
-        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
-        }
-      ],
-      "duration_ms": 112131,
-      "name": "Cyberpunk",
-      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
     },
     {
       "added_at": "2026-08-07 14:27:34",

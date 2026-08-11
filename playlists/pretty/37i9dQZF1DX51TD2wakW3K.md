@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,305 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,412 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 52 | [Cool Schmool](https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj) | 2:03 |
 | 53 | [Trust Me](https://open.spotify.com/track/2MJ99N6jENvKonfgegDtZx) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Bless My Psyche](https://open.spotify.com/album/6l15xlxmDJGC2C8xJNx673) | 3:00 |
 | 54 | [Worldwide](https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:34 |
-| 55 | [Brother](https://open.spotify.com/track/20JlEDQcD9ztcH7fpByrUA) | [The Organ](https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go) | [Grab That Gun](https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF) | 4:01 |
-| 56 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 55 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 56 | [Brother](https://open.spotify.com/track/20JlEDQcD9ztcH7fpByrUA) | [The Organ](https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go) | [Grab That Gun](https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF) | 4:01 |
 | 57 | [Womanarchist](https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc) | 2:52 |
 | 58 | [Terrorist](https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 1:57 |
 | 59 | [Special](https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:57 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 63 | [Woman Driver](https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Woman Driver](https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs) | 2:04 |
 | 64 | [Lucky Guy](https://open.spotify.com/track/2jSdbHZZRp6eLq8F5KPtoR) | [The Muffs](https://open.spotify.com/artist/4FYk4moRCGHdXIK3AMcelO) | [The Muffs](https://open.spotify.com/album/3f9SPyuKWxyufWWXdEmzT2) | 2:47 |
 | 65 | [Crimson Wave](https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [NVM](https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m) | 2:03 |
-| 66 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
-| 67 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
+| 66 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
+| 67 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
 | 68 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 69 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
 | 70 | [Don't Dictate \- Demo](https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk) | [Penetration](https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV) | [Moving Targets](https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb) | 2:56 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 75 | [I Hope You Know](https://open.spotify.com/track/5FnOK06ng2h8TwNtCk7DOt) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [I Hope You Know](https://open.spotify.com/album/2RK46DbriaUmep5XnMDLvE) | 2:20 |
 | 76 | [Getting Nowhere Fast](https://open.spotify.com/track/6sSYt3AFE99M6cqzD4xq3i) | [Girls At Our Best!](https://open.spotify.com/artist/5DYT0cYfntdC8sxyIOAhiC) | [Pleasure](https://open.spotify.com/album/5lkg7o5NcXN7PcfwBBv7sm) | 2:00 |
 | 77 | [It's Obvious](https://open.spotify.com/track/5gPOiq7h6NydcfXEv2XiYg) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/1rQBMMOdTHjqRcg3mD54VK) | 6:17 |
-| 78 | [No Control](https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [No Control](https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e) | 3:01 |
-| 79 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 |
+| 78 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 |
+| 79 | [No Control](https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [No Control](https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e) | 3:01 |
 | 80 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 |
 | 81 | [She's Crushing My Mind](https://open.spotify.com/track/1KRdlcpHmzF4KTldSGVthD) | [Team Dresch](https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs) | [Personal Best](https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5) | 1:42 |
 | 82 | [JJ](https://open.spotify.com/track/1orez4wPUf42d2jtvUpm0b) | [Priests](https://open.spotify.com/artist/5DT78nxI4rAHYddufPUOBx) | [Nothing Feels Natural](https://open.spotify.com/album/0JHreJbw5DKq7Nr9aW2KqI) | 2:57 |
 | 83 | [Looking for A Fight](https://open.spotify.com/track/2Uj3b1Ce5SLBN9Xp7Zqjp5) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Ride Your Heart](https://open.spotify.com/album/5pGaGSjUiidjJEixmde6Ha) | 2:17 |
 | 84 | [White Lies](https://open.spotify.com/track/7gkixf4Q6DRjjXakYReQzi) | [War On Women](https://open.spotify.com/artist/2cRFZn5EhqH0Wu1gHlOHlz) | [Wonderful Hell](https://open.spotify.com/album/25EyI6VNG9QS9TeQk6IJCY) | 3:30 |
-| 85 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
-| 86 | [Close](https://open.spotify.com/track/4zRUoox84YBfE9MznVfs0j) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Package Pt\. 2](https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW) | 3:57 |
+| 85 | [Close](https://open.spotify.com/track/4zRUoox84YBfE9MznVfs0j) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Package Pt\. 2](https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW) | 3:57 |
+| 86 | [Bad Reputation](https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:49 |
 | 87 | [The Surface](https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Cerebral Circus](https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss) | 1:55 |
 | 88 | [Last Breath](https://open.spotify.com/track/7xcWsqQONJZtcOdduYsdko) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Last Breath](https://open.spotify.com/album/1ABI2KGtoAW8aiJZ8KZyap) | 1:50 |
 | 89 | [I Don't Mind It](https://open.spotify.com/track/4azLr54wMnoayzplNpQpRh) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Castle Talk](https://open.spotify.com/album/4lUYpT7Ksnyn2TtLMJ6Nr8) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 99 | [You're All Talk](https://open.spotify.com/track/56laQa3PukNJ9Fg9k0bP4E) | [The Pandoras](https://open.spotify.com/artist/1IHit5q4Ut9MlbGZUZY94D) | [Stop Pretending](https://open.spotify.com/album/2TZAqOOjAs5lw5iUq2p3sB) | 2:52 |
 | 100 | [Twist Barbie](https://open.spotify.com/track/0cLMJ6Ajl5G2Av6PSu8xhM) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Burning Farm](https://open.spotify.com/album/30e1Zd04RWU9KVMwCrYiO6) | 2:32 |
 
-Snapshot ID: `AAAAAECFsWqg6IKFrN47SmZMMJgj52s6`
+Snapshot ID: `AAAAAL5Bb8Ie6IL9izCjVOr3WxNIDsir`

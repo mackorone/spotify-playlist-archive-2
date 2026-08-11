@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Mavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,694 likes - 49 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,657 likes - 49 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 48 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
 | 49 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 |
 
-Snapshot ID: `AAAAACw0fGtjiSHGjcY2DpsdlIwCRRP/`
+Snapshot ID: `AAAAAOYe0R3za/+t/wtf6zid7gMOZeiL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Madball
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,095 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,115 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [ENJOY THA SHOW](https://open.spotify.com/track/1Booi5UCbqmAT90XYqBvlq) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [ENJOY THA SHOW](https://open.spotify.com/album/0jHerjMBxVqINqU7HW7s9G) | 2:30 |
 | 100 | [Overruled](https://open.spotify.com/track/05hetI3VLMOdqgqz67iZzv) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Overruled](https://open.spotify.com/album/3TwuO5Xpqnzm1RE4tpfkEb) | 2:39 |
 
-Snapshot ID: `AAAAAKcUmIuwhKBK+5tk+xR4wEGE+APF`
+Snapshot ID: `AAAAAFpqy8wCGK6SY9sPB+u/3xYHPVag`

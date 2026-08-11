@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Bien Chaka con Christian Ortega & the hottest Corridos in the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,743 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,749 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 66 | [Recordando a Manuel](https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Jesús Chairez](https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:28 |
 | 67 | [Sanguinarios Del M1](https://open.spotify.com/track/4EAhDuoqyRtV4WiuN49OUe) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x), [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Los Buchones de Culiacan](https://open.spotify.com/artist/7J8LbpTbAh807es1ruPYNa), [Los 2 Primos](https://open.spotify.com/artist/2fcdtCvdYIYSNM8ywXHOua), [Erik Estrada](https://open.spotify.com/artist/5I6axWdAJlY0sDCzu8IM4A), [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH), [Los Nuevos Elegantes](https://open.spotify.com/artist/3RtWK9v7X0AvL18T3LeC7i), [Oscar Garcia](https://open.spotify.com/artist/1uy0dqC43A0d7K6yXTH7eP) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:31 |
 | 68 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 |
-| 69 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 |
-| 70 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
+| 69 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 |
+| 70 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 |
 | 71 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 |
 | 72 | [Filoso](https://open.spotify.com/track/6h3IkDgzW9livzwgH9dKeX) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Filoso](https://open.spotify.com/album/1OCQPMCZ5BcZXYBsxB0bLi) | 2:43 |
 | 73 | [Voy Enfierrado](https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Voy Enfierrado](https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 99 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:39 |
 | 100 | [PAJUELAZO](https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 3:11 |
 
-Snapshot ID: `AAAAAHq9UdxLSVePE5eXJzxO/eiX9dbg`
+Snapshot ID: `AAAAAECnEzt6KGhWN2Za0JUXHjGLBF+1`

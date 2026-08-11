@@ -4,7 +4,7 @@
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-132 songs - 6 hr 53 min
+133 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hasta Que Te Perdí](https://open.spotify.com/track/5RHnofPA7oYmF4L6jEdpcf) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 2:34 | 2022-08-23 |  |
 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 | 2022-06-01 |  |
 | [Infiel](https://open.spotify.com/track/2FFD33AvP59iPPenHKiwwU) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Tragos Amargos](https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo) | 2:43 | 2025-09-16 | 2026-03-03 |
+| [Infiel](https://open.spotify.com/track/1xWQhsJzXztApqA6zbUEQA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Entre Besos Y Heridas](https://open.spotify.com/album/2j0kTA0dSdo9N7CoOskR8i) | 2:44 | 2026-08-11 |  |
 | [Infiel](https://open.spotify.com/track/4QZ7045krnEuSUxrKOntxP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:44 | 2022-07-10 | 2023-07-13 |
 | [Infiel](https://open.spotify.com/track/4YmYjgg9BiISgPM7XivQsl) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 2:44 | 2023-11-10 | 2024-02-11 |
 | [Juramos Amarnos](https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CELEBRANDO CINCO DE MAYO](https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag) | 3:18 | 2022-06-03 |  |
@@ -119,7 +120,7 @@
 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 | 2022-07-30 |  |
 | [Seis Rosas Amarillas](https://open.spotify.com/track/4H5c5b83c5IvAJmdojrmFe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [DEBAJO DE AQUEL ÁRBOL / CUATRO CAMINOS \(GRABACIÓN ORIGINAL REMASTERIZADA\)](https://open.spotify.com/album/2dlKrcyJLsELo2zbU6WjpJ) | 2:42 | 2023-03-02 | 2023-06-26 |
 | [Señor Dios](https://open.spotify.com/track/7oFrzDDNmPCGbPDnvYdZXv) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:21 | 2022-06-01 | 2022-07-03 |
-| [Señor Dios](https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:21 | 2025-12-21 |  |
+| [Señor Dios](https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:21 | 2025-12-21 | 2026-08-11 |
 | [Señor Dios](https://open.spotify.com/track/76pn7rTenurEuF5ZPTfIG3) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Ayer, Hoy Y Siempre Con..\. Ramón Ayala Y Sus Bravos Del Norte](https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu) | 3:21 | 2023-11-10 | 2024-01-05 |
 | [Sólo una Patada](https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 2:46 | 2022-06-01 |  |
 | [Te Quedaste Sola](https://open.spotify.com/track/44Zfw3S5elENnz9NGDwQ1T) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Calles De Piedra](https://open.spotify.com/album/7kOrdFKcrKHNAk5Di7pDlf) | 2:55 | 2022-08-13 |  |

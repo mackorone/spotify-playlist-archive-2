@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 195291,
+  "num_followers": 195338,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABpMZwX3I1JyOZi1/eNO48p2iGLD",
+  "snapshot_id": "AAAAAFUhQN4z6qkuf7MIwu3UzxEZOulc",
   "tracks": [
     {
       "added_at": "2024-07-12 06:00:00",
@@ -559,18 +559,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+        "name": "Soy Como Quiero Ser (Deluxe)",
+        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 151712,
-      "name": "Aunque Ya Tengas Marido",
-      "url": "https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d"
+      "duration_ms": 183768,
+      "name": "Bandido de Amores",
+      "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -591,22 +595,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Soy Como Quiero Ser (Deluxe)",
-        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
       },
       "artists": [
         {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
         }
       ],
-      "duration_ms": 183768,
-      "name": "Bandido de Amores",
-      "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
+      "duration_ms": 151712,
+      "name": "Aunque Ya Tengas Marido",
+      "url": "https://open.spotify.com/track/4EwfGjLIQELHipH2w9jx8d"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje al Poeta Gracias Joan Sebastian",
-        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+        "name": "Volar\u00e9",
+        "url": "https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf"
       },
       "artists": [
         {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+          "name": "Julian Figueroa",
+          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
         }
       ],
-      "duration_ms": 181682,
-      "name": "El Ilegal",
-      "url": "https://open.spotify.com/track/43jcEGEx5ICgVx3PLWus1Y"
+      "duration_ms": 182276,
+      "name": "Un idiota",
+      "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Homenaje al Poeta Gracias Joan Sebastian",
+        "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "El Ilegal",
+      "url": "https://open.spotify.com/track/43jcEGEx5ICgVx3PLWus1Y"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Mexicano Hasta Las Pampas",
         "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 180113,
       "name": "Mil Navajas",
       "url": "https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Volar\u00e9",
-        "url": "https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf"
-      },
-      "artists": [
-        {
-          "name": "Julian Figueroa",
-          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
-        }
-      ],
-      "duration_ms": 182276,
-      "name": "Un idiota",
-      "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
     },
     {
       "added_at": "2024-07-12 06:00:00",

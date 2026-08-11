@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,245 likes - 481 songs - 23 hr 36 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,246 likes - 481 songs - 23 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

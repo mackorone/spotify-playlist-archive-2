@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-152 songs - 9 hr 47 min
+156 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Brand New Day](https://open.spotify.com/track/05lu0lLNyzUDNSsNZ5zBV9) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Brand New Day](https://open.spotify.com/album/0yUQUUzyflTJEswofjRxfg) | 3:28 | 2025-05-04 |  |
 | [Breezeblocks](https://open.spotify.com/track/1ZLroqJA8qoS5QEeCo0fA7) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6HbJlAnTRhWae1F3lEwGkv) | 3:47 | 2025-05-04 |  |
 | [Broken](https://open.spotify.com/track/6clNv6p0979OQHteQotpbd) | [The Trees](https://open.spotify.com/artist/5RfQnHitydzhcHZXwi02lt) | [From Well Rounded](https://open.spotify.com/album/2mEQTlVvdXDwyl17CP8Sld) | 4:05 | 2025-08-04 | 2026-05-16 |
+| [can you?](https://open.spotify.com/track/1zlLTjLoqR2N66xxrtY1hV) | [Jesse Cleaves](https://open.spotify.com/artist/15kRGaQ94f0HTKJx6iZDds) | [can you?](https://open.spotify.com/album/06u75g7TcKl5VOLOZnj8Vo) | 2:09 | 2026-08-10 |  |
 | [Candor](https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:37 | 2025-12-11 | 2026-02-07 |
 | [CANSADO DE ESPERAR](https://open.spotify.com/track/4NBelzixJZXf5rkGl5sOMR) | [SOLVIBRA](https://open.spotify.com/artist/6hghA6OshZBCb5plODJL8t) | [CANSADO DE ESPERAR](https://open.spotify.com/album/2zR395ICnNHfnGzhvuLxQK) | 3:19 | 2025-11-05 | 2025-12-08 |
 | [Champagne and Wine](https://open.spotify.com/track/3iYHnwXKlcbH1g57Hj7DzB) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d) | [Champagne and Wine](https://open.spotify.com/album/1ordiErJ2Se29N3PJPPOFE) | 3:48 | 2025-05-04 |  |
@@ -50,6 +51,7 @@
 | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/track/4DkFtR711mWQSXJO3PApXa) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/album/3jAPjP3mXAIslhjF2szkO2) | 2:55 | 2025-11-02 | 2026-02-07 |
 | [Durango 99](https://open.spotify.com/track/6VDuKcHNgUY77G5ySWOFIX) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Durango 99](https://open.spotify.com/album/6fC5Q1eFDunGgY2BSUpUfZ) | 1:35 | 2025-11-02 |  |
 | [Dutch for a Day](https://open.spotify.com/track/4A3j2sJk5lygsZ1cwrd4mk) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d) | [Dutch for a Day](https://open.spotify.com/album/3krX4MJQw2alLPlFSnO13Z) | 3:03 | 2025-05-04 | 2025-12-08 |
+| [dying \- Demo Version](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying \(Demo Version\)](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 | 2026-08-10 |  |
 | [Every Where](https://open.spotify.com/track/4y2chq4TIDQr6dVnMuvB0X) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 4:45 | 2025-09-09 | 2025-12-08 |
 | [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 | 2026-08-06 |  |
 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 | 2025-07-31 |  |
@@ -83,6 +85,7 @@
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-05-04 |  |
 | [La Decisión](https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 5:12 | 2026-04-04 | 2026-05-16 |
 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 | 2026-05-16 |
+| [Le chant du cygne \- Live](https://open.spotify.com/track/7mutnL7QlWUr3iduMEZnLF) | [Gabriel Keller](https://open.spotify.com/artist/0zOlM82GNeyKLBca65OwuG) | [Live \- La Rotonde](https://open.spotify.com/album/2Ee4IrT05W8EY5jQL8petg) | 5:28 | 2026-08-10 |  |
 | [Lesson to Be Learned](https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [HumaNature & Lesson to Be Learned](https://open.spotify.com/album/20AGbANuWzwx5p4gFJ7GUK) | 4:37 | 2026-07-07 |  |
 | [Let You In](https://open.spotify.com/track/1oBqxv3lalzgjPdzeU6Dd6) | [FallenNFaded](https://open.spotify.com/artist/3Ct1LFryNkGnWXa6BPqwkF) | [Let You In](https://open.spotify.com/album/5zm72aO0CU1HXwKUkdwboa) | 3:00 | 2026-07-26 |  |
 | [Lost & Found](https://open.spotify.com/track/2BWoxn24Y3TCo6S3YAyJNx) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Zen Project](https://open.spotify.com/album/336ZUWQwHQrwtVD2w71YC1) | 5:13 | 2026-05-14 |  |
@@ -137,6 +140,7 @@
 | [Tesla](https://open.spotify.com/track/6iJSBzhwuo10snNpJPlT6o) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Tesla](https://open.spotify.com/album/7fPZmtfCwbZfbMZNk5o4KG) | 4:44 | 2025-11-02 |  |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-04-04 |  |
 | [The Cycle](https://open.spotify.com/track/1Mwm0XKriYrpPL6xhSH9U4) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Cycle](https://open.spotify.com/album/5fODtmdm4JsifXS8emavBw) | 4:35 | 2026-07-07 |  |
+| [The Expanse](https://open.spotify.com/track/48ETTp7reeEDhZZJHxi6fY) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Sedative Sands](https://open.spotify.com/album/45fnkLss7v7uHi8lOcgQxV) | 2:16 | 2026-08-10 |  |
 | [The Other Side](https://open.spotify.com/track/1zuRRBvbWoZxwMdbchaR30) | [Sammy Vulcano](https://open.spotify.com/artist/1L3MIDDjLX2WaGGEv1bWCW) | [The Other Side](https://open.spotify.com/album/3GUpTkiyxktNs6yGJnF2rV) | 2:48 | 2026-08-09 |  |
 | [The Party Is Over](https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx) | [Atomium](https://open.spotify.com/artist/0KZxq71zg8JWEP22q0Qwff) | [The Party Is Over](https://open.spotify.com/album/4FKtBBuGUFTwsLAF4s219I) | 3:57 | 2026-05-14 |  |
 | [The Puppeteer](https://open.spotify.com/track/1EnSsLEzo4LuQRJ12kl9kn) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [The Puppeteer](https://open.spotify.com/album/5TsaiTsFKvWIEWa2VTsABH) | 3:48 | 2026-02-06 | 2026-04-05 |

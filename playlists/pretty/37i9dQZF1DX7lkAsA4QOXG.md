@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,229 likes - 125 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,246 likes - 125 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 20 | [Exit Music](https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 4:23 |
 | 21 | [Suzanne \(feat\. Gregory Porter\)](https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Suzanne](https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ) | 4:33 |
 | 22 | [Flowers](https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Flowers](https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2) | 2:56 |
-| 23 | [A Hard Day's Night](https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud) | [Les Crossaders](https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv), [Deborah Dixon](https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl) | [Sunday Morning](https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy) | 2:53 |
-| 24 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 |
+| 23 | [Diamonds And Pearls](https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 5:45 |
+| 24 | [A Hard Day's Night](https://open.spotify.com/track/3f3hT4I98nzIeqijasHcud) | [Les Crossaders](https://open.spotify.com/artist/2MmYl6uhjTpPB6mSnNOWHv), [Deborah Dixon](https://open.spotify.com/artist/1aHdv3nIrpIqY0Ot84aUCl) | [Sunday Morning](https://open.spotify.com/album/6yYoYbMFB4I37AgBBsbKMy) | 2:53 |
 | 25 | [Just a Girl](https://open.spotify.com/track/3Ss9u1AeSvIh3X3jQqFmOF) | [Dinah Eastwood](https://open.spotify.com/artist/0fEmrjJq8kgO5Vuomz0FJ9) | [Just a Girl](https://open.spotify.com/album/5Z6LPuC2WaYrNlIao72zH2) | 3:09 |
 | 26 | [Fire and Rain](https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [I Will Wait for You \(with Nils Landgren & FleshQuartet\)](https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE) | 4:02 |
 | 27 | [Wonderwall](https://open.spotify.com/track/7rAYud7r0T46QFoK1hG1eU) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/0lu611O6t7E8sd9E2LkImh) | 3:36 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 57 | [House of the Rising Sun](https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [House of the Rising Sun](https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof) | 3:45 |
 | 58 | [You've Got a Friend in Me](https://open.spotify.com/track/2QQteyYAiR8PKRdIQtT5hz) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:52 |
 | 59 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 |
-| 60 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 |
-| 61 | [Human Nature \(Trio Extension\)](https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Stephan Crump](https://open.spotify.com/artist/4nJDD9jIfsXuY93Kvx7bgT), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Accelerando](https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF) | 9:39 |
-| 62 | [Blowin' In The Wind](https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Reflections](https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu) | 2:32 |
+| 60 | [Human Nature \(Trio Extension\)](https://open.spotify.com/track/6vT6GhO6th2JE3NBQRlhKL) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Stephan Crump](https://open.spotify.com/artist/4nJDD9jIfsXuY93Kvx7bgT), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Accelerando](https://open.spotify.com/album/2FaaNlVFsJ74lmrOazjZFF) | 9:39 |
+| 61 | [Blowin' In The Wind](https://open.spotify.com/track/6jKnINtSHvjyz7jgw0pJnx) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Reflections](https://open.spotify.com/album/5NaIn42BHM4s814EXBSolu) | 2:32 |
+| 62 | [The Long and Winding Road](https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Staying in Touch](https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL) | 4:14 |
 | 63 | [Morning Has Broken](https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Everybody Loves Angels](https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm) | 5:20 |
 | 64 | [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 |
 | 65 | [Mr\. Tambourine Man](https://open.spotify.com/track/4kncjuH7HSX0hnpmdijflH) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Vicente Archer](https://open.spotify.com/artist/15iZckoaMxMCLvC1EY7Zot), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Uncle John's Band](https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY) | 9:09 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 124 | [Cecilia](https://open.spotify.com/track/7x5NXd6osgF8sJajvXsPlv) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1SdiMRASc3tRVgoLPXOHba) | 2:11 |
 | 125 | [The Fool on the Hill](https://open.spotify.com/track/4lkLGFTj0b95QpKdhv9hbv) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [Marius Beets](https://open.spotify.com/artist/5OdTxtGUOXe9h3UhPti9pK), [Eric Ineke](https://open.spotify.com/artist/5rBQKpKypyVegQLtS7APtx), [John Ruocco](https://open.spotify.com/artist/6tyFjAhvbV2tt8urz1THok) | [Lieb Plays the Beatles](https://open.spotify.com/album/7s2frTDC6eJUDZQMXeU71X) | 5:15 |
 
-Snapshot ID: `AAAAAFkGLE8YbRaZ2GvZqQ3+1HofDMOt`
+Snapshot ID: `AAAAADuoZGJpR1motzn6Ax6361aqV7g8`

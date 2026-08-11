@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 206934,
+  "num_followers": 206930,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHiMnB/K/Trku4w4iBifvNrirJbS",
+  "snapshot_id": "AAAAABpBENguO9A5lwt6DApKv7FUR0Yo",
   "tracks": [
     {
       "added_at": "2026-03-19 15:33:21",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/32NiN3HsKzBrSSo1PV2cpa"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 188054,
       "name": "The Fool - Version Remasteris\u00e9e 2021",
       "url": "https://open.spotify.com/track/256L5lP9i1w5PFIPEdZ1DJ"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2026-03-19 15:33:21",

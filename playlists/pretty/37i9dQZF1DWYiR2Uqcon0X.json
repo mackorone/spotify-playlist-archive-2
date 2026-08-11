@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 733836,
+  "num_followers": 733802,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAC6z0/L0TgGaOM42za60UiOUCNc",
+  "snapshot_id": "AAAAAMCy7xjVHt9MzGecoSOhyhMPSTq7",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:24",
@@ -967,8 +967,8 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2026-07-24 04:02:24",

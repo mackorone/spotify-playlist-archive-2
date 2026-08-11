@@ -1,12 +1,12 @@
 {
   "description": "Pop to fuel your gaming. Cover: CORTIS",
-  "num_followers": 466093,
+  "num_followers": 466122,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPw1ippRd5IjiCCRtWNcqDs2kQe/",
+  "snapshot_id": "AAAAAMEhMqliLJZWf1MJf1ehdd7tETbB",
   "tracks": [
     {
       "added_at": "2026-04-24 04:00:47",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
+      "added_at": "2026-05-22 04:50:44",
+      "album": {
+        "name": "Run Rabbit",
+        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 189111,
+      "name": "Run Rabbit",
+      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
       "added_at": "2024-09-06 04:01:00",
       "album": {
         "name": "Lovin On Me",
@@ -529,38 +545,6 @@
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2026-05-22 04:50:44",
-      "album": {
-        "name": "Run Rabbit",
-        "url": "https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4"
-      },
-      "artists": [
-        {
-          "name": "Mollie Elizabeth",
-          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
-        }
-      ],
-      "duration_ms": 189111,
-      "name": "Run Rabbit",
-      "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
-    },
-    {
       "added_at": "2025-06-20 04:00:48",
       "album": {
         "name": "bomb",
@@ -575,6 +559,22 @@
       "duration_ms": 188641,
       "name": "Billyeoon Goyangi (Do the Dance)",
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "ROXANNE",
-        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
-      },
-      "artists": [
-        {
-          "name": "Arizona Zervas",
-          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "ROXANNE",
-      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "ROXANNE",
+        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90"
+      },
+      "artists": [
+        {
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "ROXANNE",
+      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
+        "name": "Training Season",
+        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 205484,
       "name": "Come & Go (with Marshmello)",
       "url": "https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
         "name": "From the Start",
         "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2024-09-06 04:01:00",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2025-06-20 04:00:48",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "added_at": "2026-04-24 04:00:47",
@@ -873,20 +889,20 @@
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
     },
     {
-      "added_at": "2025-06-20 04:00:48",
+      "added_at": "2024-10-24 21:38:29",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
       "added_at": "2024-09-06 04:01:00",
@@ -915,22 +931,6 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2024-10-24 21:38:29",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
       "added_at": "2026-04-24 04:00:47",
@@ -1013,22 +1013,6 @@
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
-      "added_at": "2024-09-06 04:01:00",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
-    },
-    {
       "added_at": "2026-04-24 04:00:47",
       "album": {
         "name": "WOR$T GIRL IN AMERICA",
@@ -1043,6 +1027,22 @@
       "duration_ms": 175743,
       "name": "CRANK",
       "url": "https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
     },
     {
       "added_at": "2026-04-24 04:00:47",
@@ -1425,24 +1425,20 @@
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
-      "added_at": "2025-11-11 09:00:20",
+      "added_at": "2024-09-06 04:01:00",
       "album": {
-        "name": "M.I.A (VALORANT Game Changers Version)",
-        "url": "https://open.spotify.com/album/4w96kbeZiq2Q2n8dDAVi4K"
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        },
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 129587,
-      "name": "M.I.A - VALORANT Game Changers Version",
-      "url": "https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6"
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
     },
     {
       "added_at": "2025-10-10 04:00:48",
@@ -1461,20 +1457,24 @@
       "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
     },
     {
-      "added_at": "2024-09-06 04:01:00",
+      "added_at": "2025-11-11 09:00:20",
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+        "name": "M.I.A (VALORANT Game Changers Version)",
+        "url": "https://open.spotify.com/album/4w96kbeZiq2Q2n8dDAVi4K"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
         }
       ],
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+      "duration_ms": 129587,
+      "name": "M.I.A - VALORANT Game Changers Version",
+      "url": "https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6"
     },
     {
       "added_at": "2024-09-06 04:01:00",

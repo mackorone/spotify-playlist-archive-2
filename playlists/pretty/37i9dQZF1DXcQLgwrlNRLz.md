@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: TRK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,695 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,713 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 29 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
 | 30 | [Trop parler](https://open.spotify.com/track/3S1BOUUpxzHoSddKKsrg5z) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [MOOD3 \(Glish\)](https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR) | 3:03 |
 | 31 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 |
-| 32 | [NO LIMIT](https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe) | [BDLM VOL.1](https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y) | 3:14 |
+| 32 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
 | 33 | [Doucement](https://open.spotify.com/track/5oooP3k9wgJPSi1VL31J6Q) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Doucement](https://open.spotify.com/album/5t3kZ84tS3zxidUwy5qZaf) | 3:47 |
 | 34 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 |
-| 35 | [SO MAWA \(feat\. Mauvais djo\)](https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [JEUNE&INNOCENT](https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki) | 3:25 |
-| 36 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 |
-| 37 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
+| 35 | [Good Vibes](https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Good Vibes](https://open.spotify.com/album/6wAtf8uEQuwzFGFaVgdAb4) | 2:56 |
+| 36 | [SO MAWA \(feat\. Mauvais djo\)](https://open.spotify.com/track/64KtizdhpvWuiJJho1VSQ2) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [JEUNE&INNOCENT](https://open.spotify.com/album/5R2uDxo567c0A9DDV9pSki) | 3:25 |
+| 37 | [NO LIMIT](https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe) | [BDLM VOL.1](https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y) | 3:14 |
 | 38 | [Épouse\-moi](https://open.spotify.com/track/3PwfOXkcFmBhs7iXGymF5O) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 4:20 |
 | 39 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
-| 40 | [DANS LE DOS](https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18) | [NO PAIN NO GAIN](https://open.spotify.com/artist/4jMatNAUw3usV6EGr74CsJ), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [DANS LE DOS](https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d) | 3:10 |
-| 41 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 |
+| 40 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 |
+| 41 | [DANS LE DOS](https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18) | [NO PAIN NO GAIN](https://open.spotify.com/artist/4jMatNAUw3usV6EGr74CsJ), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [DANS LE DOS](https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d) | 3:10 |
 | 42 | [YOROBO DRILL ACTE 3](https://open.spotify.com/track/1OD1skHTgSSLF8lmWTqbB6) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [JEUNE & RICHE \(DELUXE\)](https://open.spotify.com/album/3yNYy5fvug5JKo755SZaEE) | 2:49 |
 | 43 | [Kaay Waay](https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b) | [VJ](https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao) | [DM](https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe) | 3:03 |
 | 44 | [SL](https://open.spotify.com/track/7rKlN5VfDQ54sM4mHPTg6P) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 7:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 | 80 | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 |
 
-Snapshot ID: `AAAAALZiagfDZC/MMvtPCCJbPWYOQodZ`
+Snapshot ID: `AAAAAOaxmC7GZpUuCFMFs7Nfx88oiGbB`

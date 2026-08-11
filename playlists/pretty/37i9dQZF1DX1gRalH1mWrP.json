@@ -1,12 +1,12 @@
 {
   "description": "All the hits you'll need to make your summer sizzle.",
-  "num_followers": 2065071,
+  "num_followers": 2067147,
   "original_name": "Summer Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE34lmG5zyZBju9kvRrSuQqLbuuH",
+  "snapshot_id": "AAAAAIU0np+ze3x3LA0RaT6ISlR+iCpq",
   "tracks": [
     {
       "added_at": "2026-08-07 05:01:52",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
         "name": "Choosin' Texas",
         "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -639,18 +639,18 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 188722,
-      "name": "Shabang",
-      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
-        "name": "Less than a Lover",
-        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 145680,
-      "name": "Less than a Lover",
-      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+      "duration_ms": 188722,
+      "name": "Shabang",
+      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -823,22 +839,6 @@
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
-        "name": "Who's the Clown?",
-        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-08-07 05:01:52",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Girl Like Me",
-      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
         "name": "SLICK",
         "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 106909,
       "name": "SLICK",
       "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -1163,22 +1163,6 @@
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
-    },
-    {
-      "added_at": "2026-08-07 05:01:52",
-      "album": {
-        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 178016,
-      "name": "Material Lover",
-      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "added_at": "2026-08-07 05:01:52",
@@ -1215,6 +1199,22 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2026-08-07 05:01:52",
+      "album": {
+        "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 178016,
+      "name": "Material Lover",
+      "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
     },
     {
       "added_at": "2026-08-07 05:01:52",

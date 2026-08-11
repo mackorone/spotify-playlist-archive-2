@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,592 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,594 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 49 | [Carne \- En Vivo](https://open.spotify.com/track/0DWKN008tO0MAwil7cVSDE) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Claudio Valenzuela](https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE) | [Carne \(En Vivo\)](https://open.spotify.com/album/5xT4omRJmTehWIb1y9LT4e) | 5:59 |
 | 50 | [Brígida](https://open.spotify.com/track/2wl5Cvzz0t3xmakrka5Ccs) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [De Saloon](https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22) | 3:35 |
 
-Snapshot ID: `anZxgAAAAABPwjSNqrCQJ9dzbWXUwx+b`
+Snapshot ID: `anfDAAAAAAD5d8HaplRzT09e7il5xo7e`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,852 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,851 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 98 | [In The Middle](https://open.spotify.com/track/3aTtbSM7gX011qAtinh6nP) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [In The Middle](https://open.spotify.com/album/0Mbg1FWqCSLumCIxpA3zmN) | 2:59 |
 | 99 | [MIXTAPE LINER NOTES VAR\. VII](https://open.spotify.com/track/36KhMPmmcZlyLWvFAMIBK6) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [1000 Variations on the Same Song](https://open.spotify.com/album/0UUvgHaTGyQ27kM4eaJuN4) | 3:00 |
 
-Snapshot ID: `AAAAAFI3/n40KRAIwvzUVAc0S4u3Me/f`
+Snapshot ID: `AAAAAL6ofLNWGfvo8h8nfha+rsw8KfAZ`

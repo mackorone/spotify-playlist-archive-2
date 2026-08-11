@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 95181,
+  "num_followers": 95197,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAABF99pO0gpB/RCMa2mbKlhlHRUe",
+  "snapshot_id": "AAAAAF4KBlpHusbExErcyuxSrm5IA87X",
   "tracks": [
     {
       "added_at": "2024-10-09 21:55:22",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "hi, i'm dante",
+        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 116349,
+      "name": "movinglikeazombie",
+      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "food house",
         "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 247917,
       "name": "mos thoser",
       "url": "https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "hi, i'm dante",
-        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 116349,
-      "name": "movinglikeazombie",
-      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
     },
     {
       "added_at": "2024-10-09 21:55:22",

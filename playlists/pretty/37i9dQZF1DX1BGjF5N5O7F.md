@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > emotionally destroyed by yet another hockey show
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,307 likes - 101 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,315 likes - 101 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 100 | [Archie, Marry Me](https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 2:29 |
 | 101 | [All of Me Wants All of You](https://open.spotify.com/track/4lyIHAc8sk6lm9iN5B8nmj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:41 |
 
-Snapshot ID: `AAAAAFkL/KljDS2wzXIoZaUfvu97sKNL`
+Snapshot ID: `AAAAAERnOyPNt5v3mU2beiMkfrK/KWT2`

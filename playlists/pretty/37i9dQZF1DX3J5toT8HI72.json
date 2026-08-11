@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 829127,
+  "num_followers": 829090,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJaUCiOF6TevsKH/BIypl2yKk/4C",
+  "snapshot_id": "AAAAAOCQbBfTodot4LBqujyXv9J5Bmel",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:32",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "Nossa Miss\u00e3o",
+        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Quero Ser Feliz Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Nossa Miss\u00e3o",
-        "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "Quero Ser Feliz Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -395,18 +395,18 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "V\u00e1rias Queixas",
-        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+        "name": "Banda do Mar",
+        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
       "artists": [
         {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+          "name": "Banda do Mar",
+          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
         }
       ],
-      "duration_ms": 156970,
-      "name": "Vento Alecrim",
-      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
+      "duration_ms": 168640,
+      "name": "Mais Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -427,18 +427,18 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+        "name": "V\u00e1rias Queixas",
+        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
       },
       "artists": [
         {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Mais Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
+      "duration_ms": 156970,
+      "name": "Vento Alecrim",
+      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "As Super Novas",
+        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Quando A Chuva Passar",
+      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "As Super Novas",
-        "url": "https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Quando A Chuva Passar",
-      "url": "https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "O \u00daltimo Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Um certo algu\u00e9m",
+      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "MAIS FORTE QUE A D\u00daVIDA",
         "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 206171,
       "name": "ANA",
       "url": "https://open.spotify.com/track/7GOUnrow71w6FbKGwgjDLX"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "O \u00daltimo Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Um certo algu\u00e9m",
-      "url": "https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 134755,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
         "name": "Era Uma Vez o Amanh\u00e3",
         "url": "https://open.spotify.com/album/3qK39wEZFlXd28eOMtj9Ox"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 228317,
       "name": "Can\u00e7\u00e3o pra Te Amar no Fim do Mundo",
       "url": "https://open.spotify.com/track/6JiZHun6ZdLLqAoSg5znG7"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 134755,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -1399,24 +1415,8 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
       },
       "artists": [
         {
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 198058,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
+      "duration_ms": 394706,
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1443,6 +1443,26 @@
       "duration_ms": 191933,
       "name": "Amor I Love You / Cita\u00e7\u00e3o: Trecho Da Obra Intitulada \"Primo Basilio\" De E\u00e7a De Queiroz Declamado Por Arnaldo Antunes",
       "url": "https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo"
+    },
+    {
+      "added_at": "2026-08-07 03:00:32",
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184267,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
     },
     {
       "added_at": "2026-08-07 03:00:32",
@@ -1479,28 +1499,8 @@
     {
       "added_at": "2026-08-07 03:00:32",
       "album": {
-        "name": "Fica",
-        "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 184267,
-      "name": "Fica",
-      "url": "https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6"
-    },
-    {
-      "added_at": "2026-08-07 03:00:32",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT"
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
       },
       "artists": [
         {
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
-      "duration_ms": 394706,
-      "name": "Quando Bate Aquela Saudade",
-      "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2026-08-07 03:00:32",

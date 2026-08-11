@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,036 likes - 38 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,075 likes - 38 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 16 | [Malbec](https://open.spotify.com/track/7AonNAWzRDcSwMrUyX9mOz) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Malbec](https://open.spotify.com/album/4hzIwO5SMhBYbTfl46wfOz) | 4:24 |
 | 17 | [Por Favor](https://open.spotify.com/track/6x4hov4il890wqz0eIvSgo) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Por Favor](https://open.spotify.com/album/5qCmR3OrPit1qoYrldJEbx) | 3:29 |
 | 18 | [Morfina](https://open.spotify.com/track/0zLr0KLp3KUKGRBzgsrVK2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/7h9iBBAZPjCnpStB4XXLgx) | 5:50 |
-| 19 | [Templo de Piceas](https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 3:27 |
-| 20 | [1960](https://open.spotify.com/track/06AwEOu3Zk5qiYuafTqIuu) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 6:10 |
+| 19 | [1960](https://open.spotify.com/track/06AwEOu3Zk5qiYuafTqIuu) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 6:10 |
+| 20 | [Templo de Piceas](https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 3:27 |
 | 21 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
 | 22 | [50mm](https://open.spotify.com/track/3N4AdTLLsW7zA4QuBqTDfh) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/7h9iBBAZPjCnpStB4XXLgx) | 3:03 |
-| 23 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
-| 24 | [bien hecho](https://open.spotify.com/track/26iieQn6hzv43ovDur6LW8) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 4:01 |
+| 23 | [bien hecho](https://open.spotify.com/track/26iieQn6hzv43ovDur6LW8) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 4:01 |
+| 24 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |
 | 25 | [sanvalentín:\(](https://open.spotify.com/track/6oyz3h6HEpmzvXxjWcf8J6) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:02 |
 | 26 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
-| 27 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 |
-| 28 | [ASTROS ݁⋆ ★ ˚｡⋆](https://open.spotify.com/track/18L48PuAinaG6L3JVBIdg0) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 3:35 |
+| 27 | [ASTROS ݁⋆ ★ ˚｡⋆](https://open.spotify.com/track/18L48PuAinaG6L3JVBIdg0) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/4WVPxy8e7tnStXdSmS4zc9) | 3:35 |
+| 28 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 |
 | 29 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 |
 | 30 | [tú me hiciste volar](https://open.spotify.com/track/7gx3fwyhHjpLbuW236QYiT) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:06 |
 | 31 | [CÓMO RESPIRAR???](https://open.spotify.com/track/3SLao8qTGy9iAQqhZcCluv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:41 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 37 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
 | 38 | [yo x3](https://open.spotify.com/track/2CyfjFIIHRItMz1TbjA0MP) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:42 |
 
-Snapshot ID: `anZxgAAAAABjhryHpb6q9Cb8dcRc5nnd`
+Snapshot ID: `anfDAAAAAABbzzgSV65gQVHx/AE+2ZB5`

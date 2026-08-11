@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Et2NX.md) - [plain]
 
 > This is Sleater\-Kinney\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,053 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,056 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Et2NX.md) - [plain]
 | 12 | [Can I Go On](https://open.spotify.com/track/1krtlGy6LlyMpgz4RkVGwS) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/1572ze92PysstxyxM8nFh3) | 3:30 |
 | 13 | [You're No Rock n' Roll Fun](https://open.spotify.com/track/7lTFxSZLqVLhjavLUU9vba) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 2:37 |
 | 14 | [Words and Guitar](https://open.spotify.com/track/7b6wCOUbe9nugBfiTrekTH) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:21 |
-| 15 | [Call the Doctor](https://open.spotify.com/track/2rhHotHUkQTBUfpMVne5rZ) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:30 |
-| 16 | [Entertain](https://open.spotify.com/track/0Sq6xHWDpECstZ76RKavQY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 4:55 |
+| 15 | [Entertain](https://open.spotify.com/track/0Sq6xHWDpECstZ76RKavQY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 4:55 |
+| 16 | [Call the Doctor](https://open.spotify.com/track/2rhHotHUkQTBUfpMVne5rZ) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:30 |
 | 17 | [All Hands on the Bad One](https://open.spotify.com/track/0ja5aZwGxpdDT1sKNL67t7) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 2:57 |
 | 18 | [Little Babies](https://open.spotify.com/track/4U9Va0fTTbMdN80z2NZFDL) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:23 |
 | 19 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Et2NX.md) - [plain]
 | 28 | [Stay Where You Are](https://open.spotify.com/track/3ZL06j6DJy3rsfeFEokm42) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:24 |
 | 29 | [What's Mine Is Yours](https://open.spotify.com/track/223VJtlBkIoeIqVMQ8Dc47) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 4:58 |
 | 30 | [Hurry On Home](https://open.spotify.com/track/2m3YK65b88DBDmSceFT8HD) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Center Won't Hold](https://open.spotify.com/album/1572ze92PysstxyxM8nFh3) | 2:48 |
-| 31 | [No Cities To Love](https://open.spotify.com/track/0wpRFd0TbToitoqseB4rm7) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A) | 3:05 |
-| 32 | [A Quarter to Three](https://open.spotify.com/track/4r5Z9l5cZE1qVSj3j4Hv8G) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 4:01 |
+| 31 | [A Quarter to Three](https://open.spotify.com/track/4r5Z9l5cZE1qVSj3j4Hv8G) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 4:01 |
+| 32 | [No Cities To Love](https://open.spotify.com/track/0wpRFd0TbToitoqseB4rm7) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A) | 3:05 |
 | 33 | [Wilderness](https://open.spotify.com/track/3EVA7xy8HhfFzeyPq3MB7t) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:40 |
 | 34 | [Ironclad](https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 2:34 |
 | 35 | [A Real Man](https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 1:04 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Et2NX.md) - [plain]
 | 41 | [Anonymous](https://open.spotify.com/track/1UCFR0huAtHLoDbyO81ysJ) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:28 |
 | 42 | [Untidy Creature](https://open.spotify.com/track/2RNw5tEPBdJ2oT6Gp8Ws7M) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:28 |
 | 43 | [Hell](https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hell](https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK) | 3:13 |
-| 44 | [Light Rail Coyote](https://open.spotify.com/track/64TJvG2yQQJTUSWHHDsiHt) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [One Beat \(Remastered\)](https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD) | 3:08 |
-| 45 | [\#1 Must Have](https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 3:03 |
-| 46 | [The Size of Our Love](https://open.spotify.com/track/0ZUQDCwaQdq3JzzdOBS9Ng) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 3:11 |
-| 47 | [The Last Song](https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 3:38 |
-| 48 | [Funeral Song](https://open.spotify.com/track/4599gPXYzgwfSXwBjoGb6S) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [One Beat \(Remastered\)](https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD) | 2:47 |
-| 49 | [Needlessly Wild](https://open.spotify.com/track/5o3ombwsKQAYnHyKa9Jbwg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 2:51 |
-| 50 | [Price Tag](https://open.spotify.com/track/6EMWlmbIgSzXHSBjV3lfm8) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A) | 3:54 |
+| 44 | [\#1 Must Have](https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 3:03 |
+| 45 | [The Size of Our Love](https://open.spotify.com/track/0ZUQDCwaQdq3JzzdOBS9Ng) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 3:11 |
+| 46 | [The Last Song](https://open.spotify.com/track/2y8H6JFMSZ1QXhoaiBajjK) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 3:38 |
+| 47 | [Light Rail Coyote](https://open.spotify.com/track/64TJvG2yQQJTUSWHHDsiHt) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [One Beat \(Remastered\)](https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD) | 3:08 |
+| 48 | [Needlessly Wild](https://open.spotify.com/track/5o3ombwsKQAYnHyKa9Jbwg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 2:51 |
+| 49 | [Surface Envy](https://open.spotify.com/track/7p2T6ivlXN6n79DBfg8Lrv) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A) | 3:06 |
+| 50 | [Don't Think You Wanna](https://open.spotify.com/track/6cvYKDTkkT6LVSISHjq60D) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 1:52 |
 
-Snapshot ID: `anZxgAAAAABcAaWH6wWun+IVXypniTEq`
+Snapshot ID: `anfDAAAAAACDe1bN5LOtQIfjmyOqdmVu`

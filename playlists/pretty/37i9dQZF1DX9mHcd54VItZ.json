@@ -1,12 +1,12 @@
 {
   "description": "The best new and classic South African Rock. Cover: Francois van Coke",
-  "num_followers": 28196,
+  "num_followers": 28200,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPMnk/BTZz4sk1tU9U7Glxa62mRv",
+  "snapshot_id": "AAAAAKdJsn/JAjWloRj0+r/i8dTGHdaA",
   "tracks": [
     {
       "added_at": "2026-07-30 22:01:23",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "SELFBEWUS",
-        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 192794,
-      "name": "SELFBEWUS",
-      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
         "name": "TREAT HIM LIKE A BABY",
         "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 149446,
       "name": "TREAT HIM LIKE A BABY",
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "SELFBEWUS",
+        "url": "https://open.spotify.com/album/5dgrXBpfhTr0vC5qCYqWam"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 192794,
+      "name": "SELFBEWUS",
+      "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
     },
     {
-      "added_at": "2026-07-02 22:01:16",
+      "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "HYMN",
-        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
       "artists": [
         {
-          "name": "Pussy Heaven",
-          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
         }
       ],
-      "duration_ms": 184682,
-      "name": "GIZMO",
-      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2026-07-30 22:01:23",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
     },
     {
-      "added_at": "2026-04-24 09:03:29",
+      "added_at": "2026-07-02 22:01:16",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+        "name": "HYMN",
+        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
       },
       "artists": [
         {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+          "name": "Pussy Heaven",
+          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
+      "duration_ms": 184682,
+      "name": "GIZMO",
+      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
     },
     {
       "added_at": "2026-04-24 09:03:29",

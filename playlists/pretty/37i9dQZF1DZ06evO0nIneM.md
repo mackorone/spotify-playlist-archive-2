@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,286 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,293 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 6 | [Aan De Kust](https://open.spotify.com/track/7yVyTfEMnR4p1LcAbo2uiF) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Naakt Onder De Hemel](https://open.spotify.com/album/01QYbTcPYUIw0kNkFRcWiq) | 3:43 |
 | 7 | [Glas](https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Glas](https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx) | 3:35 |
 | 8 | [Zo Stil](https://open.spotify.com/track/6W74Ymk7rKgYBWfoG4tuKk) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Stil](https://open.spotify.com/album/18DX3wMUWFEVCVx0xDOgss) | 4:00 |
-| 9 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
-| 10 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:43 |
+| 9 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/7MOX3ibncypw3xGb4HZVFA) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:43 |
+| 10 | [Omarm](https://open.spotify.com/track/2hEqbMDgjr86WBWQi0pIIo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Omarm](https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv) | 4:12 |
 | 11 | [Wat Zou Je Doen? \- Live From The Nighttrain, Netherlands / 1998](https://open.spotify.com/track/2mJyFLhoJtIcl2zh69JxuX) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Helder \(inclusief Live Bonus Tracks\)](https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0) | 4:50 |
 | 12 | [Hier](https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:08 |
 | 13 | [Later Als Ik Groter Ben](https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Later Als Ik Groter Ben](https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze) | 3:24 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 15 | [Liefs Uit Londen](https://open.spotify.com/track/0KCcRzDsTMAbivhwGzdFZx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Helder \(inclusief Live Bonus Tracks\)](https://open.spotify.com/album/72x70QVko5v9g0F1GCtAi0) | 3:58 |
 | 16 | [Zoutelande](https://open.spotify.com/track/6aAJY5FYW0TMLsUe2T7x4p) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 3:39 |
 | 17 | [Dichterbij Dan Ooit](https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:21 |
-| 18 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
-| 19 | [Mannenharten](https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:32 |
+| 18 | [Mannenharten](https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Zo Van Ah Yeah](https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe) | 3:32 |
+| 19 | [Laat Me Los](https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 3:58 |
 | 20 | [Over De Dam](https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Aan](https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59) | 4:10 |
 | 21 | [Alles Is Liefde](https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Is Liefde](https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ) | 3:29 |
 | 22 | [Hou Vol Hou Vast](https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nIneM.md) - [plain]
 | 49 | [Vallende Engel](https://open.spotify.com/track/1zK2P4mDjEPrWQPnwAISv1) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Oktober](https://open.spotify.com/album/3Lz7PoKa3KzYBsP12TI9I0) | 4:40 |
 | 50 | [Regen](https://open.spotify.com/track/46V1YQy4dwmVG9zB5PkawO) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Francis](https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2) | 3:26 |
 
-Snapshot ID: `anZxgAAAAAByWrKzwOzUgiaY+Hs9aZHz`
+Snapshot ID: `anfDAAAAAACNrsVcKIcPjdFzBUusUxqz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,117 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,182 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 58 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 |
 | 59 | [Beat It \- Studio Version](https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [\*\*\*\* Live In Phoenix](https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh) | 3:47 |
 | 60 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
-| 61 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
-| 62 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
+| 61 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
+| 62 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
 | 63 | [Billie Jean](https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Carry On](https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb) | 4:41 |
 | 64 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
 | 65 | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/503JPUMXxOdBet88wQUwg1) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [Dust in the Wind \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/1DwoCOyyBFoQTkjE4zSkRq) | 4:18 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 86 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
 | 87 | [Alive](https://open.spotify.com/track/1ip7DKU9LjT6aR4FdvD3Mv) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Alive](https://open.spotify.com/album/3I7151w5slYCNssX8nmUNL) | 4:22 |
 | 88 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
-| 89 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
-| 90 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
+| 89 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 |
+| 90 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 91 | [Silver Springs \- Live at Brixton Academy](https://open.spotify.com/track/1fiWssJa2EUFvm2ObOQnxO) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Silver Springs \(Live at Brixton Academy\)](https://open.spotify.com/album/2etGf71a0OUWfnfRSkeO3o) | 4:18 |
 | 92 | [Uninvited](https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Uninvited](https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8) | 4:19 |
 | 93 | [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 95 | [Landslide \- Remastered](https://open.spotify.com/track/2dc1BYopTHgviDXawShfME) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Pisces Iscariot \(Remastered\)](https://open.spotify.com/album/0WMWadJs4xUOIv5bmgR79W) | 3:10 |
 | 96 | [Immigrant Song](https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Trent Reznor](https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma), [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM) | [The Girl With the Dragon Tattoo](https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7) | 2:47 |
 | 97 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
-| 98 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
-| 99 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
+| 98 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
+| 99 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |
 | 100 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 |
 
-Snapshot ID: `AAAAAF9gbV4nQauNAszuTKPXblyRU/WP`
+Snapshot ID: `AAAAAF3eEG2keCloldplykdx+MxglNZR`

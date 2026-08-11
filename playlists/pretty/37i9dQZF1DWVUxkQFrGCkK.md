@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,910 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,956 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [WHAT!](https://open.spotify.com/track/1vnEr5iuAEGZco3ryl6kfg) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803), [Yuvèe](https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f) | [WHAT!](https://open.spotify.com/album/032Gx82p6cpYLnPfe1ixFX) | 3:19 |
 | 100 | [Groovejet \(If This Ain’t Love\) \- not without friends Remix](https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [not without friends](https://open.spotify.com/artist/2KAgMiCIqPHTA04WRNrhWg), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jordan Brando](https://open.spotify.com/artist/1LvEV4mvbTOdntchECXeAO), [William Kiss](https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx) | [Groovejet \(If This Ain’t Love\) \[not without friends Remix\]](https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF) | 3:00 |
 
-Snapshot ID: `AAAAAF1jt1Zic09Q6Ievls6RzkhSk2ru`
+Snapshot ID: `AAAAAM7Ucl2NtOR5+sqN3tMMOxm76Apv`

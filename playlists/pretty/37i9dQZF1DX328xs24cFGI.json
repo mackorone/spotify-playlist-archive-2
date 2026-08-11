@@ -1,12 +1,12 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 198372,
+  "num_followers": 198409,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzrhb7d0v9hjbcbFxIYgz8m6FYb",
+  "snapshot_id": "AAAAAKh3cUsbZjDaKJd27QhyvS/F0guR",
   "tracks": [
     {
       "added_at": "2026-07-28 15:01:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-28 15:01:06",
       "album": {
-        "name": "\u6ce3\u304d\u305f\u304f\u306a\u308b\u307b\u3069\u5b09\u3057\u3044\u65e5\u3005\u306b",
-        "url": "https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq"
-      },
-      "artists": [
-        {
-          "name": "Creep Hyp",
-          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
-        }
-      ],
-      "duration_ms": 261546,
-      "name": "\u681e",
-      "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"
-    },
-    {
-      "added_at": "2026-07-28 15:01:06",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 188120,
       "name": "Toki Yo Tomare",
       "url": "https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg"
+    },
+    {
+      "added_at": "2026-07-28 15:01:06",
+      "album": {
+        "name": "\u6ce3\u304d\u305f\u304f\u306a\u308b\u307b\u3069\u5b09\u3057\u3044\u65e5\u3005\u306b",
+        "url": "https://open.spotify.com/album/4uSVHc1t7GkuQOdAm7mcXq"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "duration_ms": 261546,
+      "name": "\u681e",
+      "url": "https://open.spotify.com/track/2Bsg6EfrmEx0x0eC8v4vuG"
     },
     {
       "added_at": "2026-07-28 15:01:06",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-07-28 15:01:06",
       "album": {
-        "name": "Waltz for Lily",
-        "url": "https://open.spotify.com/album/7Ki3941etyXLcskScwiXBV"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Waltz for Lily",
-      "url": "https://open.spotify.com/track/2s32faGqPq6hRh002FGQhf"
-    },
-    {
-      "added_at": "2026-07-28 15:01:06",
-      "album": {
         "name": "Delight",
         "url": "https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 292306,
       "name": "\u30d2\u30ab\u30ea\u30d8",
       "url": "https://open.spotify.com/track/6Ko5MADnkgh7GZJfieBnln"
+    },
+    {
+      "added_at": "2026-07-28 15:01:06",
+      "album": {
+        "name": "Waltz for Lily",
+        "url": "https://open.spotify.com/album/7Ki3941etyXLcskScwiXBV"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Waltz for Lily",
+      "url": "https://open.spotify.com/track/2s32faGqPq6hRh002FGQhf"
     },
     {
       "added_at": "2026-07-28 15:01:06",

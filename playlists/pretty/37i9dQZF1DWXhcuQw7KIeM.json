@@ -1,12 +1,12 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 593695,
+  "num_followers": 593767,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK7KJVPaOL7Qo1hLfJBQ+U//ArHM",
+  "snapshot_id": "AAAAAHH+X55AnzMrPtGXSLwIROEESlbj",
   "tracks": [
     {
       "added_at": "2025-11-14 04:00:17",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "The Loom",
-        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
-      },
-      "artists": [
-        {
-          "name": "Anilah",
-          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
-        }
-      ],
-      "duration_ms": 433858,
-      "name": "The Loom",
-      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "The Great Feast Underground",
         "url": "https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 284018,
       "name": "The Great Feast Underground",
       "url": "https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "The Loom",
+        "url": "https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj"
+      },
+      "artists": [
+        {
+          "name": "Anilah",
+          "url": "https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW"
+        }
+      ],
+      "duration_ms": 433858,
+      "name": "The Loom",
+      "url": "https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA"
     },
     {
       "added_at": "2025-11-14 04:00:17",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Future To Come",
-        "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
-      },
-      "artists": [
-        {
-          "name": "Furor Gallico",
-          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Future to Come",
-      "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Caravans to the Outer Worlds",
         "url": "https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 337133,
       "name": "Ruun II - The Epitaph",
       "url": "https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Future To Come",
+        "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
+      },
+      "artists": [
+        {
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Future to Come",
+      "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
     },
     {
       "added_at": "2025-11-14 04:00:17",

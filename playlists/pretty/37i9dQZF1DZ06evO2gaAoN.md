@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,568 likes - 42 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,599 likes - 42 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 34 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [KOOLDRINK](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 |
 | 35 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 36 | [Girls Need Love \(Girls Mix\) \(feat\. Tyla\)](https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Girls Need Love \(Girls Mix\)](https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71) | 2:38 |
-| 37 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
-| 38 | [Pum Pum Jump \(feat\. Jill Scott & Tyla\)](https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
+| 37 | [Pum Pum Jump \(feat\. Jill Scott & Tyla\)](https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
+| 38 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 39 | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/track/1Nx3wKSjqj51Vslhc7CAhy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [KOOLDRINK](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Overdue \(feat\. DJ Lag & Kooldrink\)](https://open.spotify.com/album/6Uq5Pk9aQB5hM4hiFOvdOq) | 3:46 |
 | 40 | [Ke Shy](https://open.spotify.com/track/46JbnUilMIKcoeXYpZyB53) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [LuuDaDeejay](https://open.spotify.com/artist/1XoIF7wcOtFdQdB6vJQumb), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Piano Republik](https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO) | 3:19 |
 | 41 | [Thata Ahh \(feat\. Young Stunna, Madumane & Tyla\)](https://open.spotify.com/track/1lp3GifJS4r6hE6vUCfBzS) | [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [THATA USHAKA](https://open.spotify.com/album/39VFIViSgxPiIsiYvD4nzL) | 6:13 |
 | 42 | [La Di](https://open.spotify.com/track/4OCK9za3Z06Oqj4HaKBE2S) | [Mykyle](https://open.spotify.com/artist/3EdCT2bYR55ySYU7hwbmcG), [Si Xiazi](https://open.spotify.com/artist/0DhzfTcgpek8kkWvNJKwtB), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [La Di](https://open.spotify.com/album/0dSB2LstksZRA0adSfyTbV) | 4:09 |
 
-Snapshot ID: `anZxgAAAAADkSJ8RdeLjkFHC/zb8sOLQ`
+Snapshot ID: `anfDAAAAAADvgovHdpnybUne9fKEOs/O`

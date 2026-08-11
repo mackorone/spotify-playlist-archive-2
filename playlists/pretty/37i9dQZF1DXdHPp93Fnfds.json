@@ -1,12 +1,12 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 135913,
+  "num_followers": 135901,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGdmvuY8UC4lHg16KHVmNMp9o6M",
+  "snapshot_id": "AAAAAIb6rI3Mli7YD/EYtHUUiBTW2m2+",
   "tracks": [
     {
       "added_at": "2025-07-17 22:42:38",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Entr\u00e9gate",
-        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 191232,
-      "name": "Entr\u00e9gate",
-      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Esta podr\u00eda ser la se\u00f1al",
         "url": "https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE"
       },
@@ -295,18 +279,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+        "name": "Entr\u00e9gate",
+        "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
       },
       "artists": [
         {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
+      "duration_ms": 191232,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -323,6 +307,22 @@
       "duration_ms": 173000,
       "name": "Protagonista",
       "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Chica Violeta",
+        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 386900,
+      "name": "Chica Violeta",
+      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 184256,
       "name": "Con Mi Amiga",
       "url": "https://open.spotify.com/track/4BKlOSA4wnaqaqcGDrHucE"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Chica Violeta",
-        "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
-      },
-      "artists": [
-        {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
-        }
-      ],
-      "duration_ms": 386900,
-      "name": "Chica Violeta",
-      "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 181274,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Blue Planet",
+        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "Blue Planet",
+      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "This is un volc\u00e1n",
         "url": "https://open.spotify.com/album/0XXAchuaAzOTRIDA4usuif"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 206808,
       "name": "This is un volc\u00e1n",
       "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Blue Planet",
-        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "Blue Planet",
-      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "San Juan",
         "url": "https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 225587,
       "name": "San Juan",
       "url": "https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "El Gobierno de China",
-        "url": "https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b"
-      },
-      "artists": [
-        {
-          "name": "Pantocrator",
-          "url": "https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3"
-        }
-      ],
-      "duration_ms": 142871,
-      "name": "El Gobierno de China",
-      "url": "https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 208822,
       "name": "AMORA",
       "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "El Gobierno de China",
+        "url": "https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b"
+      },
+      "artists": [
+        {
+          "name": "Pantocrator",
+          "url": "https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3"
+        }
+      ],
+      "duration_ms": 142871,
+      "name": "El Gobierno de China",
+      "url": "https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "llorando en la luna",
         "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 177265,
       "name": "llorando en la luna",
       "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "No hay m\u00e1s tiempo",
-        "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 187786,
-      "name": "No hay m\u00e1s tiempo",
-      "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Mis Demonios",
-        "url": "https://open.spotify.com/album/631gWDOw3iyvZFmQNhTlJF"
+        "name": "No hay m\u00e1s tiempo",
+        "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
       },
       "artists": [
         {
-          "name": "Ankli",
-          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 229649,
-      "name": "Mis Demonios",
-      "url": "https://open.spotify.com/track/0DZqLd2nINJDHa9ITZBP4H"
+      "duration_ms": 187786,
+      "name": "No hay m\u00e1s tiempo",
+      "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1279,6 +1263,22 @@
       "duration_ms": 193004,
       "name": "Otra Manera",
       "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Mis Demonios",
+        "url": "https://open.spotify.com/album/631gWDOw3iyvZFmQNhTlJF"
+      },
+      "artists": [
+        {
+          "name": "Ankli",
+          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
+        }
+      ],
+      "duration_ms": 229649,
+      "name": "Mis Demonios",
+      "url": "https://open.spotify.com/track/0DZqLd2nINJDHa9ITZBP4H"
     },
     {
       "added_at": "2025-07-17 22:42:38",

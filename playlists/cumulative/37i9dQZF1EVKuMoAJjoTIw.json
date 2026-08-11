@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVVqYYNA6ypy>John Legend</a>, <a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a>, <a href=spotify:playlist:37i9dQZF1EIV630wDjArgt>P!nk</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIX11fykfK86c>R.E.M.</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIWgyOG2kVVJa>Snow Patrol</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -968,7 +968,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 269556,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
@@ -3148,7 +3148,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 267960,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
@@ -9322,7 +9322,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 242721,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -10934,7 +10934,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 268426,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
@@ -11922,7 +11922,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 208733,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc"
@@ -17298,7 +17298,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 241688,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"

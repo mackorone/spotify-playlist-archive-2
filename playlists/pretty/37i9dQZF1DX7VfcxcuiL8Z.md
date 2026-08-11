@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: BIG NOTER & Joe Talbot
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,282 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,278 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [The Hallway](https://open.spotify.com/track/72t91cy0ZOAZmFIPG32PI8) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [The Hallway](https://open.spotify.com/album/5WPDCTU1UNc9Cfi9eAU5RR) | 3:12 |
 | 80 | [Head On](https://open.spotify.com/track/2UtqgSde6wOGbdXa5ShRq5) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Head On](https://open.spotify.com/album/7l9b9zoidvTrvs0GIIxbG2) | 4:37 |
 
-Snapshot ID: `AAAAAPWhk9GoNUH9kqZx+6HzYnNA31Lx`
+Snapshot ID: `AAAAAIFoSDVYOU3bttffyG2njQmr2WYW`

@@ -1,12 +1,12 @@
 {
   "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
-  "num_followers": 5665,
+  "num_followers": 5667,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABXarmNmie08VHjMJ4db8rB",
+  "snapshot_id": "anfDAAAAAACOwyFDHP/hikiwIVkvowUA",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Estoy Ardiendo",
-      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' And Rollin'",
         "url": "https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 180760,
       "name": "Pinches Mariguanos",
       "url": "https://open.spotify.com/track/3abqHxzHzh7yTj6WTiy4J1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Estoy Ardiendo",
+      "url": "https://open.spotify.com/track/2B473hcOdYC3PiwOz8SNVK"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 175906,
-      "name": "La Rubia",
-      "url": "https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5"
+      "duration_ms": 304800,
+      "name": "Ya No Te Tengo",
+      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 304800,
-      "name": "Ya No Te Tengo",
-      "url": "https://open.spotify.com/track/4sk8Co7iAm0U67qQD1RFDr"
+      "duration_ms": 175906,
+      "name": "La Rubia",
+      "url": "https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5"
     },
     {
       "added_at": null,
@@ -527,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decreto por el Regreso de los Buenos Tiempos",
-        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+        "name": "Rock Star",
+        "url": "https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA"
       },
       "artists": [
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 309626,
-      "name": "Prot\u00e9geme",
-      "url": "https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F"
+      "duration_ms": 254733,
+      "name": "No Te Mueras en Mi Casa",
+      "url": "https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q"
     },
     {
       "added_at": null,
@@ -563,34 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Star",
-        "url": "https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA"
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
       },
       "artists": [
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 254733,
-      "name": "No Te Mueras en Mi Casa",
-      "url": "https://open.spotify.com/track/0y5Mr4YTjAuuth9RYLVf7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
-        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
-      },
-      "artists": [
+        },
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 190026,
-      "name": "Blues para Trabajar - En Vivo",
-      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+      "duration_ms": 309626,
+      "name": "Prot\u00e9geme",
+      "url": "https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F"
     },
     {
       "added_at": null,
@@ -615,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decreto por el Regreso de los Buenos Tiempos",
-        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+        "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
+        "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
       },
       "artists": [
         {
@@ -624,25 +608,9 @@
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 226520,
-      "name": "\u00a1Vete al Carajo!",
-      "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Barcelona",
-        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "No Me la Acab\u00f3",
-      "url": "https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v"
+      "duration_ms": 190026,
+      "name": "Blues para Trabajar - En Vivo",
+      "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
     },
     {
       "added_at": null,
@@ -663,22 +631,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pares y Duetos: Disco 2",
-        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+        "name": "Hotel Barcelona",
+        "url": "https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT"
       },
       "artists": [
         {
           "name": "Charlie Monttana",
           "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        },
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
         }
       ],
-      "duration_ms": 192333,
-      "name": "Estoy Tan Solo",
-      "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
+      "duration_ms": 247200,
+      "name": "No Me la Acab\u00f3",
+      "url": "https://open.spotify.com/track/2O6PTggiZQT3kRZ20EIX1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Decreto por el Regreso de los Buenos Tiempos",
+        "url": "https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "\u00a1Vete al Carajo!",
+      "url": "https://open.spotify.com/track/6b6IB01M7qXg4WyqD5EQKI"
     },
     {
       "added_at": null,
@@ -695,6 +675,26 @@
       "duration_ms": 214853,
       "name": "Derramando Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4XOXidN0LU6uX4DcJmwkyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pares y Duetos: Disco 2",
+        "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 192333,
+      "name": "Estoy Tan Solo",
+      "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
     },
     {
       "added_at": null,

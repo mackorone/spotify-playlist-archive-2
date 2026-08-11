@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 382227,
+  "num_followers": 382375,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMaCzPT8/v/ycYHHuFaqpVu39XUw",
+  "snapshot_id": "AAAAABtg/C2++MuWTD5J4FfSxaRKK+M3",
   "tracks": [
     {
       "added_at": "2024-03-22 15:59:52",
@@ -183,18 +183,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
+        "name": "Hypnotica (Benny Benassi Presents The Biz)",
+        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
       },
       "artists": [
         {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "The Biz",
+          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
         }
       ],
-      "duration_ms": 290493,
-      "name": "Hey Boy Hey Girl",
-      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+      "duration_ms": 285570,
+      "name": "Satisfaction - Isak Original Extended",
+      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -251,22 +255,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Hypnotica (Benny Benassi Presents The Biz)",
-        "url": "https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
       "artists": [
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        },
-        {
-          "name": "The Biz",
-          "url": "https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 285570,
-      "name": "Satisfaction - Isak Original Extended",
-      "url": "https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL"
+      "duration_ms": 290493,
+      "name": "Hey Boy Hey Girl",
+      "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Domino Remixes",
-        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
-      },
-      "artists": [
-        {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        }
-      ],
-      "duration_ms": 435266,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Time For Change",
         "url": "https://open.spotify.com/album/2rBMhWTkBHdjWqpQkHbzI5"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 464160,
       "name": "Camdino Soul",
       "url": "https://open.spotify.com/track/6jO4uy595sAigCrkKJIhdU"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Domino Remixes",
+        "url": "https://open.spotify.com/album/70AZz9g5tbnbURmbuAbCxI"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "duration_ms": 435266,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6VGNzYErt08Rai78mLkIzI"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Experience: Expanded (Remastered)",
-        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Out Of Space (Remastered)",
-      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Put Your Hands Up For Detroit",
         "url": "https://open.spotify.com/album/5NaES6denS6wM2M2zV1YkR"
       },
@@ -1311,34 +1295,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Upstairs at Eric's",
-        "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
+        "name": "Experience: Expanded (Remastered)",
+        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
         }
       ],
-      "duration_ms": 345626,
-      "name": "Situation - 12\" Remix",
-      "url": "https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 253773,
-      "name": "Natural Blues",
-      "url": "https://open.spotify.com/track/6hmtNel4OKlBpBcTO7ao3o"
+      "duration_ms": 298533,
+      "name": "Out Of Space (Remastered)",
+      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1359,6 +1327,38 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 253773,
+      "name": "Natural Blues",
+      "url": "https://open.spotify.com/track/6hmtNel4OKlBpBcTO7ao3o"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Upstairs at Eric's",
+        "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 345626,
+      "name": "Situation - 12\" Remix",
+      "url": "https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Carboot Soul",
         "url": "https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR"
       },
@@ -1375,22 +1375,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Canoa",
-        "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
+        "name": "Innovator",
+        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
       },
       "artists": [
         {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
         }
       ],
-      "duration_ms": 546791,
-      "name": "Canoa",
-      "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
+      "duration_ms": 362946,
+      "name": "Strings Of Life",
+      "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
     }
   ],
   "unique_name": "Ibiza Classics",

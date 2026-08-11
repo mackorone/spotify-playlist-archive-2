@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,311 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,331 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 37 | [Dead Roses](https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Nowhere, At Last](https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E) | 3:29 |
 | 38 | [Butterfly Effect](https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Butterfly Effect](https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L) | 2:56 |
 | 39 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
-| 40 | [King Kong](https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [King Kong](https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E) | 3:26 |
-| 41 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 |
-| 42 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
-| 43 | [Over My Head](https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Over My Head](https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a) | 3:02 |
-| 44 | [Is This What I’m Made Of](https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Is This What I’m Made Of](https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R) | 2:58 |
+| 40 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 |
+| 41 | [King Kong](https://open.spotify.com/track/10JHslZOfHk53jbNWnTPty) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [King Kong](https://open.spotify.com/album/0O2XkD064Dt2f2jjYHYp6E) | 3:26 |
+| 42 | [Is This What I’m Made Of](https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Is This What I’m Made Of](https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R) | 2:58 |
+| 43 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
+| 44 | [Over My Head](https://open.spotify.com/track/4E2Hj7wwnslMK5G9TOVZJX) | [Not My Weekend](https://open.spotify.com/artist/5t72ReZUIAKtmjO3Q3B72X) | [Over My Head](https://open.spotify.com/album/20R4HWQ8aLGp04syk1eT8a) | 3:02 |
 | 45 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
 | 46 | [Twice](https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Heard This Before](https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv) | 2:32 |
-| 47 | [Stare at the Sun](https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Stare at the Sun](https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy) | 2:52 |
-| 48 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
+| 47 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
+| 48 | [Stare at the Sun](https://open.spotify.com/track/3n9SUVGqDwNKaRPeOjeEcC) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Stare at the Sun](https://open.spotify.com/album/1gnGoWFZChwOHLXYllPKEy) | 2:52 |
 | 49 | [Vodka Soda](https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Vodka Soda](https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X) | 3:13 |
 | 50 | [Good For Me](https://open.spotify.com/track/1OAMZ1AV5y6DHI5kzP0L3V) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Good For Me](https://open.spotify.com/album/4eQhubbT1QHzrBqAynOWhq) | 2:54 |
 | 51 | [Hard Call](https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Hard Call](https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy) | 3:10 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 77 | [MissingNo.](https://open.spotify.com/track/2jJkqTRSJ9EHIGQXckDW20) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Moments Before The Wind](https://open.spotify.com/album/3PFZyu1ND2jxImmSSonOng) | 3:09 |
 | 78 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
 | 79 | [That's So True](https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH) | [Jack The Underdog](https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A) | [That's So True](https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4) | 2:47 |
-| 80 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
-| 81 | [Right Thing, Wrong Time \(feat\. State Champs\)](https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [LET'S DO SOMETHING STUPID!](https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX) | 2:45 |
+| 80 | [Right Thing, Wrong Time \(feat\. State Champs\)](https://open.spotify.com/track/1SHycdx16OZ7Qp2GMm8QR2) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [LET'S DO SOMETHING STUPID!](https://open.spotify.com/album/4gyEST1wQDRwIcGTXbsnDX) | 2:45 |
+| 81 | [Back To Basics](https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O) | [iNTeRNeT FReNDz](https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ) | [Back To Basics](https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc) | 2:40 |
 | 82 | [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 |
 | 83 | [FAKE FEELINGS](https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5) | [all in ur head](https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd) | [FAKE FEELINGS](https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF) | 3:05 |
 | 84 | [By My Side](https://open.spotify.com/track/37WXuf4FKCFgJ58YOHqTIu) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [By My Side](https://open.spotify.com/album/22jvQUpeTifAL3JSyptoeX) | 3:29 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 94 | [me against me](https://open.spotify.com/track/2lj5ljvoJTA7wZnEHL8gnI) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [me against me](https://open.spotify.com/album/0OCwUiSpRZNj9GQATlexSE) | 3:43 |
 | 95 | [Obsessed](https://open.spotify.com/track/60ONsKRNx01Zr4W0lVWs7A) | [Diva Bleach](https://open.spotify.com/artist/2VxQbMGeePVnCV94WQbVqF) | [Can You Keep A Secret?](https://open.spotify.com/album/5gwPzLwLxz3XljcPbXJFL8) | 2:26 |
 | 96 | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW) | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42) | 3:42 |
-| 97 | [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 |
-| 98 | [Shadows](https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [Shadows](https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj) | 3:17 |
+| 97 | [Shadows](https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [Shadows](https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj) | 3:17 |
+| 98 | [oxygen.](https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8) | [OUT IN FRONT](https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx) | [oxygen.](https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9) | 2:48 |
 | 99 | [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 |
 | 100 | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 |
 
-Snapshot ID: `AAAAALwrwYYKeZNSeRoKSke2t69SVitE`
+Snapshot ID: `AAAAAHSE5vWBk92mgZpfgBIs4khRHZAD`

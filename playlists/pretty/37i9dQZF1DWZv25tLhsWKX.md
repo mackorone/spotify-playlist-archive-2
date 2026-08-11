@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv25tLhsWKX.md) - [plain]
 | 100 | [Bouquet Of Roses](https://open.spotify.com/track/7oI3Fv5ODSXjG9za7fiV9W) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [B.W\. Goes C.W.](https://open.spotify.com/album/19y16Sf0U5Hx3KLjHQPE4H) | 2:45 |
 | 101 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 
-Snapshot ID: `AAAAAAESU88PhvluamjrZxG6SCNfeIdl`
+Snapshot ID: `AAAAADyLDg4XZ4Yw1xML2xp7SAHpNVqy`

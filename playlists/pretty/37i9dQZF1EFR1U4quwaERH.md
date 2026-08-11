@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 81 | [Quit My Life](https://open.spotify.com/track/5vt1ysjL6f5u4woxChkCWq) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 2:46 |
 | 82 | [Multiplicity](https://open.spotify.com/track/5FJrp4xbFzQmup3qKAl3Zd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Subject To Change](https://open.spotify.com/album/1qcVJ1Bp9CmACPIj0jmbmr) | 3:22 |
 | 83 | [Don't Stop](https://open.spotify.com/track/5draS2gXFNSnUazm4YHeiW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Start Again](https://open.spotify.com/album/6UwelQHVWYMc580BAnq1av) | 3:09 |
-| 84 | [Just Like Magic](https://open.spotify.com/track/4qiyNCTRPTMQsWcANwYSMt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3), [Genuine](https://open.spotify.com/artist/4nmRuRFucxxIWpYvlYyPcq) | [THE COLLECTIVE \(VOLUME 01\)](https://open.spotify.com/album/3h5rFOauIzjwqCUMWFNDLi) | 2:24 |
-| 85 | [Light My Soul](https://open.spotify.com/track/0Ii3RfMvpW0IgfYusSfHLT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:30 |
-| 86 | [Problematic](https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:24 |
+| 84 | [Problematic](https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:24 |
+| 85 | [Just Like Magic](https://open.spotify.com/track/4qiyNCTRPTMQsWcANwYSMt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3), [Genuine](https://open.spotify.com/artist/4nmRuRFucxxIWpYvlYyPcq) | [THE COLLECTIVE \(VOLUME 01\)](https://open.spotify.com/album/3h5rFOauIzjwqCUMWFNDLi) | 2:24 |
+| 86 | [Light My Soul](https://open.spotify.com/track/0Ii3RfMvpW0IgfYusSfHLT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:30 |
 | 87 | [Leaving](https://open.spotify.com/track/71PF1sL6JiNmeoMXcnquae) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:40 |
 | 88 | [Down The Middle](https://open.spotify.com/track/4Qso9aF5ZPpMOP9FKoBTEU) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:15 |
 | 89 | [Kettle](https://open.spotify.com/track/5LwGInwOgFjIIVer2kPxxW) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Fuck the Numbers](https://open.spotify.com/album/1kWoB4QqqP1Y30PAzEIGo7) | 2:40 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 102 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 103 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcZJbAAAAAD8APMtmXdmuay6pRKrpcRo`
+Snapshot ID: `AcZPDAAAAAAF05ZMQ6FquqWRFpp2YDAt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1St9w8DIFsyXLZAnjNUpZ1">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029 likes - 120 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028 likes - 120 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 68 | [The Pause](https://open.spotify.com/track/18YzQn4Tgib169dXJ6gZlC) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Madness](https://open.spotify.com/album/2ploE2Xfb4u43TnK7OAos3) | 3:57 |
 | 69 | [Already Gone](https://open.spotify.com/track/7e6K0ZWjHjFJxk2k7aeu2v) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 3:10 |
 | 70 | [Positive Spin](https://open.spotify.com/track/6ywWV1XI3mWogQALI07rWB) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/6MrSPNedgZaHfO4KFzerPj) | 3:22 |
-| 71 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
-| 72 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 71 | [4 Better 4 Worse](https://open.spotify.com/track/1VVx8V9T7AKIHqcRqvbdJd) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Never Waste A Heartbreak](https://open.spotify.com/album/1pDrtSjfeGl78gKFL67OaL) | 2:37 |
+| 72 | [Villain in Me](https://open.spotify.com/track/446BbuQVXxRVT3RwKnDeab) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:37 |
 | 73 | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/track/3UKobrVucp8j0sP8Anxqs1) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:05 |
 | 74 | [I Know I'm Not the Only One](https://open.spotify.com/track/0kTzTXAzvfx4ojKw8aLgT6) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Hey, I'm Just like You](https://open.spotify.com/album/4tnkPLLedgamtrRCDdpqwX) | 3:00 |
 | 75 | [Piece by Piece](https://open.spotify.com/track/2qRkZwDiXkZ3pn9J986wGB) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Burnt Letters](https://open.spotify.com/album/35q6agQrUXirvl16mq8YAa) | 2:59 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 119 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 | 120 | [Look On](https://open.spotify.com/track/5j8txL4kkBL71lbHFfdPX0) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [The Start of Something Beautiful](https://open.spotify.com/album/2I0Fq1wuE7WffXEYdiy5QJ) | 3:03 |
 
-Snapshot ID: `AcZJgAAAAAAQEM92hth3Po51bNZh8dGn`
+Snapshot ID: `AcZPIAAAAABgrl74OGzgynflMY3zfXZt`

@@ -4,7 +4,7 @@
 
 > This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
 
-76 songs - 5 hr 0 min
+77 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Por el Resto](https://open.spotify.com/track/2tgUxOJHTjFxKHmfhyZGuS) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:25 | 2022-10-26 | 2023-02-08 |
 | [Por el Resto](https://open.spotify.com/track/2Goy8S7mDU8mDrbgxlQ2WA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habitaciones Extrañas](https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2) | 4:26 | 2023-02-07 |  |
 | [Por el Resto de Tus Días](https://open.spotify.com/track/5rdHg2px3yuSOFd9r6bGxQ) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 4:20 | 2026-06-06 |  |
-| [Qué Hacemos](https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 4:43 | 2026-06-07 |  |
+| [Qué Hacemos](https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 4:43 | 2026-06-07 | 2026-08-11 |
 | [Resplandor De Afecto](https://open.spotify.com/track/5MI3exdi79w0zDhD9vlXVA) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Big Bang](https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a) | 3:50 | 2023-03-24 | 2023-03-26 |
 | [Simulacro de Tensión](https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:30 | 2022-10-26 |  |
 | [Solo Alguien Como Vos](https://open.spotify.com/track/2A4TWy24vrDNFektqrH2As) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Recupera tus Clásicos](https://open.spotify.com/album/3S7WO2zK4dDDDBCnaR9JwU) | 2:40 | 2022-10-26 | 2022-12-10 |
@@ -82,6 +82,7 @@
 | [Tu Cárcel \(En Vivo\)](https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:18 | 2022-10-26 |  |
 | [Tus Viejas Cartas](https://open.spotify.com/track/4HfB46YTIChEV3Z3LoOFCD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 3:30 | 2023-06-27 |  |
 | [Tus Viejas Cartas](https://open.spotify.com/track/3C4tV3EN4GuNrrD65b9iMa) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 3:32 | 2022-10-26 | 2023-06-28 |
+| [Típico Domingo](https://open.spotify.com/track/5jNN6EfGEzoyAJUh5TdDfV) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Habia Una Vez](https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C) | 3:20 | 2026-08-11 |  |
 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 | 2022-10-26 |  |
 | [Y Ahora Te Vas](https://open.spotify.com/track/6WVg7yYHCSKqOqo6BYxv8O) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Y Ahora Te Vas](https://open.spotify.com/album/5ZT7aS23AS0hbaxyotZvHP) | 4:19 | 2022-10-26 |  |
 

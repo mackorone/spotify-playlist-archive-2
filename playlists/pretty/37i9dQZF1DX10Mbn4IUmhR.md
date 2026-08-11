@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,762 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,761 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 27 | [Zoo](https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT) | 3:10 |
 | 28 | [someone new](https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [someone new](https://open.spotify.com/album/2tMJTMdoSMJJwOd56sjyRV) | 2:34 |
 | 29 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
-| 30 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
-| 31 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
+| 30 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
+| 31 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
 | 32 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
 | 33 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
 | 34 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 37 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 38 | [Side Effects](https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:17 |
 | 39 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 |
-| 40 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
-| 41 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
+| 40 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
+| 41 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
 | 42 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [So Easy \(To Fall In Love\)](https://open.spotify.com/album/7lgnL2Z6WqvP4qDArZGnE5) | 3:16 |
 | 43 | [Head First](https://open.spotify.com/track/4I5lKYfIKEpZNHZUZrrY65) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Head First](https://open.spotify.com/album/6JLlSBC50bWGZhtZ8hYj5L) | 2:41 |
 | 44 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
-| 45 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 |
-| 46 | [Golden Burning Sun](https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:54 |
+| 45 | [Golden Burning Sun](https://open.spotify.com/track/3MYz54tDi5fnEJjjCfPPlZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:54 |
+| 46 | [Heaven](https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Heaven](https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp) | 3:10 |
 | 47 | [MY EVERYTHING](https://open.spotify.com/track/45SDkqqvrrJmTAC70jKcr8) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [PARADISE LOST](https://open.spotify.com/album/57X2ytsj3pZbog809Pt7r9) | 3:16 |
 | 48 | [There's Just Something About Her](https://open.spotify.com/track/7Ae3TUjIzn3gIHPMpZKhot) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 3:12 |
 | 49 | [Tyla](https://open.spotify.com/track/71ntODiMqKLIyFFmw1Kj5M) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:03 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 77 | [Letting go](https://open.spotify.com/track/4nYZTjP9ueozE3FIzzaQLg) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [Letting go](https://open.spotify.com/album/3aRWXtqMee8FRTTqcgtu0c) | 2:40 |
 | 78 | [Honey, If It's Not Weird](https://open.spotify.com/track/3JLgrNYIzT5fe1TXRgXlGj) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Honey, If It's Not Weird](https://open.spotify.com/album/4owrM8K2AWD6SymvGz1BEd) | 3:33 |
 | 79 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
-| 80 | [Hello Goodbye](https://open.spotify.com/track/42Ls6yMxH0HdVkZdbdB8fy) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp) | [Hello Goodbye](https://open.spotify.com/album/4oArlyQMejUAK1jdPWhfUz) | 3:05 |
+| 80 | [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 |
 
-Snapshot ID: `AAAAAI2gCE2PTUWhTlHpsCskhNjsjenh`
+Snapshot ID: `AAAAAMQeea1XuxhKLPx0ZRIpGzEk27hg`

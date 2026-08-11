@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,188 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,195 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 19 | [Cielo Rojo](https://open.spotify.com/track/7DZ8PrFCOtxR1VSFqKm2HT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:57 |
 | 20 | [Fallaste Corazón](https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:44 |
 | 21 | [Tu Voz \(with Lila Downs\)](https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 2:46 |
-| 22 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
-| 23 | [El Beso](https://open.spotify.com/track/28pBWsRsiegR4UbeKfHpQQ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:05 |
-| 24 | [Calaveras](https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha de la Vida](https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD) | 4:29 |
-| 25 | [Cuando Me Tocas Tú](https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:35 |
+| 22 | [El Beso](https://open.spotify.com/track/28pBWsRsiegR4UbeKfHpQQ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 4:05 |
+| 23 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
+| 24 | [Cuando Me Tocas Tú](https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:35 |
+| 25 | [Calaveras](https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha de la Vida](https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD) | 4:29 |
 | 26 | [Mexicana \(feat\. Lila Downs\)](https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mexicana \(feat\. Lila Downs\)](https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU) | 3:19 |
 | 27 | [Un Mundo Raro \(feat\. Diego El Cigala\)](https://open.spotify.com/track/2JrXRQpnbx1ljJYYLBFcQ0) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Salón Lágrimas y Deseo](https://open.spotify.com/album/3z957l9ojCmtKtR4RQaKZy) | 3:32 |
 | 28 | [Palomo Del Comalito](https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:08 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 46 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 |
 | 47 | [El Jardín del Placer](https://open.spotify.com/track/2fqClf29qnE9n2zHp9lNc5) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Cambias Mi Mundo](https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06) | 3:46 |
 | 48 | [Sabor a Mi](https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:20 |
-| 49 | [El Relampago](https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 3:07 |
-| 50 | [Rayito de Luna \- En Vivo](https://open.spotify.com/track/1IatPDlv63A9TahdsfchRU) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Andrés Cepeda Big Band 2 \(En Vivo\)](https://open.spotify.com/album/0fHDVxeLaVosk2hNYpRoWz) | 2:46 |
+| 49 | [Rayito de Luna \- En Vivo](https://open.spotify.com/track/1IatPDlv63A9TahdsfchRU) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Andrés Cepeda Big Band 2 \(En Vivo\)](https://open.spotify.com/album/0fHDVxeLaVosk2hNYpRoWz) | 2:46 |
+| 50 | [El Relampago](https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 3:07 |
 
-Snapshot ID: `anZxgAAAAABL29wpV2NT0SJi0Pe4gonW`
+Snapshot ID: `anfDAAAAAADSzDv2+Ky1AbrOJtfd0L47`

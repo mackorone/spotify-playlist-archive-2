@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,673 likes - 150 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,706 likes - 150 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 149 | [AKNEW](https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST) | [Michael J\. Blood](https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT) | [Spaces In Between](https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4) | 3:28 |
 | 150 | [Trails](https://open.spotify.com/track/7DSynJzS7ooU7ocEttxpD6) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Trails](https://open.spotify.com/album/1OPu88xdvOBQqbswBUBEL2) | 2:54 |
 
-Snapshot ID: `AAAAAMGXml33jhxIEM8jjcbHm/pWQwhi`
+Snapshot ID: `AAAAAFzO9LFyWoqDQFfN8gOfQ4siOyP0`

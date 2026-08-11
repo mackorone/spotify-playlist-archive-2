@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,560 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,568 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 10 | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [If I have you only \(My love X Nerd Connection\)](https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b) | 4:10 |
 | 11 | [Like Animals](https://open.spotify.com/track/1gvhtkVO3kvPnh8XcSkNGX) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:09 |
 | 12 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 |
-| 13 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
+| 13 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
 | 14 | [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 |
-| 15 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
+| 15 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 |
 | 16 | [The Reasons of My Smiles](https://open.spotify.com/track/1amowbJ9HHFFSFdg2ubM7G) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [Queen of Tears \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF) | 3:33 |
 | 17 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 |
 | 18 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 55 | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Let's Stay Well \(My love X Roy Kim\)](https://open.spotify.com/album/434PxpoRd7LBO2VdPuefao) | 4:18 |
 | 56 | [Because I Don't Love You](https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Because I Don't Love You](https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU) | 3:43 |
 | 57 | [If We Ever Meet Again](https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:34 |
-| 58 | [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 |
-| 59 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 |
+| 58 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 |
+| 59 | [Heaven Knows](https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Heaven Knows](https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR) | 4:04 |
 | 60 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
 | 61 | [COVID\-19 \(feat\. SUPERBEE\)](https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [COVID\-19](https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5) | 3:16 |
 | 62 | [blue daisy \(Feat\. Mulasaki Ima\)](https://open.spotify.com/track/60cwUqVU2BtRzZW2hnUD6X) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [can't be blue](https://open.spotify.com/album/2vdPz23c5T1CixcxLUBcTH) | 3:25 |
-| 63 | [Be with U](https://open.spotify.com/track/0BSMFWQxVWlFG4dtw7QVpx) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [We Are All Trying Here \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1vuyFbNIp8V2MprNjev7Dz) | 3:49 |
-| 64 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 |
+| 63 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 |
+| 64 | [Be with U](https://open.spotify.com/track/0BSMFWQxVWlFG4dtw7QVpx) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [We Are All Trying Here \(Original Soundtrack\) Part.1](https://open.spotify.com/album/1vuyFbNIp8V2MprNjev7Dz) | 3:49 |
 | 65 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
 | 66 | [Love..What is it](https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Love..What is it](https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4) | 3:45 |
 | 67 | [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 69 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 |
 | 70 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 |
 | 71 | [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 |
-| 72 | [No More Encore](https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Bloom Again](https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94) | 4:05 |
-| 73 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 |
+| 72 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 |
+| 73 | [No More Encore](https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Bloom Again](https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94) | 4:05 |
 | 74 | [You may live in happiness \(2022\)](https://open.spotify.com/track/0D5e4R40frQYkr2PzdMpHL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [You may live in happiness \(2022\)](https://open.spotify.com/album/6Bnnguv7ITOcrnTcqGQIy8) | 4:34 |
 | 75 | [A Day](https://open.spotify.com/track/2D5oPboweT5vaFJ4JYUJ6W) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [EXchange4, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/4s6inCc9IB6RHP1B6uyEZI) | 2:57 |
 | 76 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 79 | [Love Sick](https://open.spotify.com/track/4olnn5uPUcuHTbzDZb7kq2) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Love Sick](https://open.spotify.com/album/6fYDT5VwUzrIhHReFszTcH) | 4:07 |
 | 80 | [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 |
 
-Snapshot ID: `AAAAAFfWWvXz9VAfAuHz9X2EdRMRR7ph`
+Snapshot ID: `AAAAAOq6yKNr96AW+GpsOdw2dxSoVdPh`

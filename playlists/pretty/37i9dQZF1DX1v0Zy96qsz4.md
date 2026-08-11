@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/skylardigginssmith/">Skylar Diggins\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,338 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,343 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1v0Zy96qsz4.md) - [plain]
 | 49 | [I'm Different](https://open.spotify.com/track/6J5sxraPPZ4b0CVOGAgpXj) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Based On A T.R.U\. Story \(Deluxe\)](https://open.spotify.com/album/1wBFRaacNYmqfkidUZ0NtM) | 3:27 |
 | 50 | [Roses Remix \(feat\. Future\)](https://open.spotify.com/track/1KyZ4rUiW2lkqGNLQYKpcC) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Roses Remix \(feat\. Future\)](https://open.spotify.com/album/1yhDNVAm4gq1TuYdSbpEar) | 3:07 |
 
-Snapshot ID: `AAAAALjkuTSNSES8U3Ux8DSr8HhMXv+S`
+Snapshot ID: `AAAAAKp3Pbp2IJm244KNs8YR8xzcEcu7`

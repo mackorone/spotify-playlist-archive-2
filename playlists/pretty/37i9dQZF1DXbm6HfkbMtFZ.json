@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 843048,
+  "num_followers": 843078,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEp/YkJ8JGqKM39yoHIU3K8NeAIY",
+  "snapshot_id": "AAAAAEsmqjsYTOF5KR/stqyeXX4aJEDW",
   "tracks": [
     {
       "added_at": "2026-07-28 22:35:25",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -475,18 +491,18 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+        "name": "man oh man !",
+        "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
         }
       ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+      "duration_ms": 170903,
+      "name": "hello !",
+      "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -503,22 +519,6 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "man oh man !",
-        "url": "https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Luke Brown",
-          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
-        }
-      ],
-      "duration_ms": 170903,
-      "name": "hello !",
-      "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Apoptosis",
-        "url": "https://open.spotify.com/album/5Kl37pew4uRgdOjttuQHSN"
-      },
-      "artists": [
-        {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
-        }
-      ],
-      "duration_ms": 236599,
-      "name": "Take 3",
-      "url": "https://open.spotify.com/track/6PnOrZaQR29E7Y5KPuSYUn"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Pronounced McGee",
         "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 310597,
       "name": "You",
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Apoptosis",
+        "url": "https://open.spotify.com/album/5Kl37pew4uRgdOjttuQHSN"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 236599,
+      "name": "Take 3",
+      "url": "https://open.spotify.com/track/6PnOrZaQR29E7Y5KPuSYUn"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 214142,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "The Switch",
         "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 189536,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Picture Frame",
-        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
-      },
-      "artists": [
-        {
-          "name": "Hector Morlet",
-          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
-        }
-      ],
-      "duration_ms": 195276,
-      "name": "Picture Frame",
-      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 191560,
       "name": "You're A Song (That I Can't Sing)",
       "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Picture Frame",
+        "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
+      },
+      "artists": [
+        {
+          "name": "Hector Morlet",
+          "url": "https://open.spotify.com/artist/1xgCILfNVWEJx7EBN1rC2A"
+        }
+      ],
+      "duration_ms": 195276,
+      "name": "Picture Frame",
+      "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "Damn It All",
+        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
+      },
+      "artists": [
+        {
+          "name": "Rob Galbraith",
+          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Tell Me With Your Eyes (Just Be You)",
+      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "The Road From Memphis (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 199680,
       "name": "Progress",
       "url": "https://open.spotify.com/track/0AuM6Fku5nWZ0CM21YEzty"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "Damn It All",
-        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
-      },
-      "artists": [
-        {
-          "name": "Rob Galbraith",
-          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Tell Me With Your Eyes (Just Be You)",
-      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
     },
     {
       "added_at": "2026-07-28 22:35:25",

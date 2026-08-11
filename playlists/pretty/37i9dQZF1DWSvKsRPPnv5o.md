@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 03 Greedo and Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,953 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,915 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [Brrrrrdadumdum](https://open.spotify.com/track/6kWcOCCyJ2Pk3tLNBbxHw1) | [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [LA Nights](https://open.spotify.com/album/2zDpiDdNVACJmuA2G18EdH) | 2:40 |
 | 100 | [All That](https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Thirsty P](https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx) | [All That](https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2) | 3:01 |
 
-Snapshot ID: `AAAAAKw2iJA/CV8IHU84GQqin2lS4LD3`
+Snapshot ID: `AAAAAGd7hS0gm5j9skZpu27MgtF0GGow`

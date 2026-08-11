@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,631 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,641 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Feel It](https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa) | [Stacey Pullen](https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y) | [Feel It / Circus Act](https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0) | 7:38 |
 | 50 | [Lightyears](https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk) | 6:07 |
 
-Snapshot ID: `AAAAAA/iVSuLK0mGLDasfDJrxphv8tO9`
+Snapshot ID: `AAAAAFc9DTlxpsn2qoo+PnT0JoVlnbjp`

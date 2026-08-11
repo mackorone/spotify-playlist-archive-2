@@ -1,12 +1,12 @@
 {
   "description": "Du neuf, du bon, du  <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex\">franco</a> !  avec Richard Desjardins, Hansom \u0112li, Kanda Gang, Tayc, Gabriel Fredette, et plus!",
-  "num_followers": 48192,
+  "num_followers": 48190,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJj5HvFjyErNDB25PJJsR4gKU2KF",
+  "snapshot_id": "AAAAAA0lzhdzF2GlgFtWuCmb/GsNsIwU",
   "tracks": [
     {
       "added_at": "2026-08-07 18:17:28",
@@ -222,6 +222,10 @@
         {
           "name": "Shapat",
           "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        },
+        {
+          "name": "La Diktatur",
+          "url": "https://open.spotify.com/artist/7J1BOYaYUEEDSjQ5om9mbF"
         }
       ],
       "duration_ms": 162000,

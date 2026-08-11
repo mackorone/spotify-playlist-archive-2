@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,393 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,401 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 41 | [Qué Bonito](https://open.spotify.com/track/3WuXX621m0Vuh8j9VEWvNN) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 2:47 |
 | 42 | [De Frente Al Mar](https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs) | 3:05 |
 | 43 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Vuelve Por Favor](https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC) | 2:36 |
-| 44 | [La Reyna de Mi Hogar \- Remastered 2025](https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:35 |
+| 44 | [Acá Entre Nos \(En Vivo\)](https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE) | 4:14 |
 | 45 | [Cien Por Ciento Sincero](https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:07 |
-| 46 | [Acá Entre Nos \(En Vivo\)](https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE) | 4:14 |
+| 46 | [La Reyna de Mi Hogar \- Remastered 2025](https://open.spotify.com/track/38cbzqx5JErHASEDOOz8V3) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 3:35 |
 | 47 | [Arráncame La Vida](https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Vuelve Por Favor](https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC) | 2:37 |
 | 48 | [Borracho De Besos](https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [35 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z) | 3:41 |
 | 49 | [El Último Minuto](https://open.spotify.com/track/4ZcEXJttYmZQloj11vYB7U) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Último Minuto](https://open.spotify.com/album/4lx4yigcoGuTxFWptr1aps) | 3:31 |
 | 50 | [Amor Que Mata](https://open.spotify.com/track/55708pC6YpRlAt9YYnls5H) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Papá Soltero](https://open.spotify.com/album/23EvXog4CEAVbWcSOWhKSW) | 4:15 |
 
-Snapshot ID: `anZxgAAAAADoajj+o5mkMrL6U2DKjOAe`
+Snapshot ID: `anfDAAAAAADwfJKmvyqktte+bCXb2fMA`

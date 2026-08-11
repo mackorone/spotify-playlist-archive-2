@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,568 likes - 122 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,612 likes - 122 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 44 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 |
 | 45 | [Wild Things \- Acoustic Version](https://open.spotify.com/track/3FAzlNPlVImGsbjnHHft6K) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:11 |
 | 46 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 |
-| 47 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
-| 48 | [Over My Head \(Cable Car\) \- Live at Sirius Radio, NYC, NY \- May 2006](https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Over My Head \(Cable Car\)](https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz) | 3:50 |
+| 47 | [Over My Head \(Cable Car\) \- Live at Sirius Radio, NYC, NY \- May 2006](https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Over My Head \(Cable Car\)](https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz) | 3:50 |
+| 48 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
 | 49 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 |
 | 50 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 |
 | 51 | [Waiting Game](https://open.spotify.com/track/2qLCoKtnmGCzV8fqG6HeR6) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [The Temple EP](https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9) | 3:52 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 57 | [Don't Call Me Up \- Acoustic](https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Don't Call Me Up \(Acoustic\)](https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr) | 3:32 |
 | 58 | [Dove](https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 6:09 |
 | 59 | [Hotel Walls \- Acoustic Version](https://open.spotify.com/track/5pW8171RuTAYU9hAN54QpM) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Hotel Walls \(Acoustic Version\)](https://open.spotify.com/album/6a7fNHZ8qbkAvmoOEhpIuC) | 3:27 |
-| 60 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 |
-| 61 | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 |
+| 60 | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/track/7Js0XIcvp0lavx7G8fInJA) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [I'll Scream \(All The Words\) \(feat\. Jessie Reyez\)](https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB) | 3:43 |
+| 61 | [Rescue Me \- Acoustic](https://open.spotify.com/track/3LS8Asffy5knMgZu4wrePz) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Rescue Me \(Acoustic\)](https://open.spotify.com/album/4FKJzm7dX080AbyIJd6VKZ) | 2:44 |
 | 62 | [Just Let It Go](https://open.spotify.com/track/4IDe0WWK5PbypEgZ7Lusec) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Just Let It Go](https://open.spotify.com/album/7FcwV8GFESKvmdEUV7WAC0) | 3:29 |
 | 63 | [Breakeven \(Acoustic\)](https://open.spotify.com/track/13KmiyueaRdBDC5SY4oxPI) | [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Unreleased \(EP\)](https://open.spotify.com/album/3pplGqCt5EYp1Mc9yv56td) | 3:25 |
 | 64 | [Under The Sun \- Acoustic](https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/0rGSRypl3i16bk9X5f2nDQ) | 3:10 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 96 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/2QfNZWOVYeycSM2bmrpm9W) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Wake Me Up](https://open.spotify.com/album/0SjMEy7ulz2ygRziPJl7v0) | 3:45 |
 | 97 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk) | 3:44 |
 | 98 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 |
-| 99 | [Mercy \- Acoustic Version](https://open.spotify.com/track/1uZ9Sb4JJRiG4gvINBfZMM) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Spotify Session](https://open.spotify.com/album/5feWfhvdBhDbolLTe4myfu) | 3:33 |
-| 100 | [Just You and I](https://open.spotify.com/track/2yPqhfL7EeQlEdz7rAQfU9) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/4hzjnFFytkQZVyooMg86RW) | 3:16 |
+| 99 | [Just You and I](https://open.spotify.com/track/2yPqhfL7EeQlEdz7rAQfU9) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/4hzjnFFytkQZVyooMg86RW) | 3:16 |
+| 100 | [Mercy \- Acoustic Version](https://open.spotify.com/track/1uZ9Sb4JJRiG4gvINBfZMM) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Spotify Session](https://open.spotify.com/album/5feWfhvdBhDbolLTe4myfu) | 3:33 |
 | 101 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7hmcaSpHioj7SGfOU565WI) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [September Song \(Guitar Acoustic\)](https://open.spotify.com/album/5jnRfyqVu1M8ATrJ0hOrVD) | 3:32 |
 | 102 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 |
 | 103 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 121 | [Recognise \- Acoustic Version](https://open.spotify.com/track/3InsMHQ7uECgOSGAe5ycXq) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Acoustic Version\)](https://open.spotify.com/album/5gdWwNy11VATD0CbTcRVjK) | 2:49 |
 | 122 | [Turn Out the Lights](https://open.spotify.com/track/3JFeaupbz1zMukrzCTURyB) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/0T5oDfLwS6oWPTrzVRmOFB) | 3:23 |
 
-Snapshot ID: `AAAAAH5QnORIsXE1TqcCEWQezbsIlJDD`
+Snapshot ID: `AAAAAC3bityvwlNhFKOtReJTjBwF7/xg`

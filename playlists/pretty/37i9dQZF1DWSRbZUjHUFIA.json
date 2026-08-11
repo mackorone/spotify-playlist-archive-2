@@ -1,12 +1,12 @@
 {
   "description": "Keep your workout 100 with these Hip Hop motivators.",
-  "num_followers": 108403,
+  "num_followers": 108429,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnxsWCcWS4GqkQLRiTXnEfci4tU",
+  "snapshot_id": "AAAAAHTzXTcUcYRfM8/QOJY3f9DZrEsD",
   "tracks": [
     {
       "added_at": "2025-07-31 04:22:53",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
-      "added_at": "2025-07-31 04:22:53",
-      "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
-    },
-    {
       "added_at": "2025-12-18 13:00:12",
       "album": {
         "name": "Century",
@@ -307,6 +291,22 @@
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
+    },
+    {
+      "added_at": "2025-07-31 04:22:53",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     },
     {
       "added_at": "2026-08-03 05:54:10",
@@ -625,6 +625,26 @@
       "url": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
     },
     {
+      "added_at": "2025-07-31 04:22:53",
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Taste (feat. Offset)",
+      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
+    },
+    {
       "added_at": "2026-08-03 05:54:10",
       "album": {
         "name": "ADL",
@@ -647,26 +667,6 @@
     {
       "added_at": "2025-07-31 04:22:53",
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Taste (feat. Offset)",
-      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
-    },
-    {
-      "added_at": "2025-07-31 04:22:53",
-      "album": {
         "name": "WAP (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
       },
@@ -683,38 +683,6 @@
       "duration_ms": 187546,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": "2026-08-03 05:54:10",
-      "album": {
-        "name": "THAT GUY",
-        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "THAT GUY",
-      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
-    },
-    {
-      "added_at": "2025-07-31 04:22:53",
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2025-07-31 04:22:53",
@@ -735,6 +703,22 @@
     {
       "added_at": "2025-07-31 04:22:53",
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2025-07-31 04:22:53",
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2026-08-03 05:54:10",
+      "album": {
+        "name": "THAT GUY",
+        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "THAT GUY",
+      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
     },
     {
       "added_at": "2025-07-31 04:22:53",

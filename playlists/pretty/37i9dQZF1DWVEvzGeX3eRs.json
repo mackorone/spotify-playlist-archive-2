@@ -1,12 +1,12 @@
 {
   "description": "in the mood for love.",
-  "num_followers": 2537525,
+  "num_followers": 2537397,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOeoG4XoA+efhbLqEv7abqQfM/h6",
+  "snapshot_id": "AAAAAFfKGJnobOJT04d5z8iZJfca2+NJ",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -245,6 +245,22 @@
       "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
     },
     {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "In Full Bloom",
+        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 291760,
+      "name": "Wishing on a Star",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
+    },
+    {
       "added_at": "2025-01-23 21:05:21",
       "album": {
         "name": "The Best of Tevin Campbell",
@@ -275,22 +291,6 @@
       "duration_ms": 428200,
       "name": "Any Time, Any Place",
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
-    },
-    {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "In Full Bloom",
-        "url": "https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 291760,
-      "name": "Wishing on a Star",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
     },
     {
-      "added_at": "2025-01-23 21:05:21",
-      "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 307106,
-      "name": "Share My World",
-      "url": "https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr"
-    },
-    {
       "added_at": "2021-03-05 00:03:16",
       "album": {
         "name": "Lose Control",
@@ -375,6 +359,22 @@
       "duration_ms": 274533,
       "name": "Freak Me",
       "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
+    },
+    {
+      "added_at": "2025-01-23 21:05:21",
+      "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 307106,
+      "name": "Share My World",
+      "url": "https://open.spotify.com/track/1HvmjWFZpe1lrEl1ehLsvr"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -733,20 +733,20 @@
       "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
+      "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Deele: Greatest Hits",
-        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
+        "name": "Michel'le",
+        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
       },
       "artists": [
         {
-          "name": "The Deele",
-          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
+          "name": "Michel'le",
+          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
         }
       ],
-      "duration_ms": 258426,
-      "name": "Two Occasions",
-      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
+      "duration_ms": 353000,
+      "name": "Something in My Heart",
+      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
     },
     {
       "added_at": "2025-01-23 21:05:21",
@@ -767,34 +767,38 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Michel'le",
-        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
+        "name": "If I Ever Fall In Love",
+        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
       "artists": [
         {
-          "name": "Michel'le",
-          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
+        },
+        {
+          "name": "Bill Appleberry",
+          "url": "https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ"
         }
       ],
-      "duration_ms": 353000,
-      "name": "Something in My Heart",
-      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
+      "duration_ms": 289693,
+      "name": "If I Ever Fall In Love",
+      "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
     },
     {
       "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "Spark Of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
+        "name": "The Deele: Greatest Hits",
+        "url": "https://open.spotify.com/album/1lmVbo0X0edbEQPqdywGAI"
       },
       "artists": [
         {
-          "name": "Lenny Williams",
-          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
+          "name": "The Deele",
+          "url": "https://open.spotify.com/artist/7ohSq6OUvkH1hkslgXfGMi"
         }
       ],
-      "duration_ms": 429120,
-      "name": "'Cause I Love You",
-      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
+      "duration_ms": 258426,
+      "name": "Two Occasions",
+      "url": "https://open.spotify.com/track/0mt80ksFAwPHXyAlArU5Yc"
     },
     {
       "added_at": "2025-01-23 21:05:21",
@@ -813,24 +817,20 @@
       "url": "https://open.spotify.com/track/5aVnC5HP5LtiGsx6OUyfUr"
     },
     {
-      "added_at": "2021-03-05 00:03:16",
+      "added_at": "2023-02-02 23:04:07",
       "album": {
-        "name": "If I Ever Fall In Love",
-        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
+        "name": "Spark Of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
       },
       "artists": [
         {
-          "name": "Shai",
-          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
-        },
-        {
-          "name": "Bill Appleberry",
-          "url": "https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ"
+          "name": "Lenny Williams",
+          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
         }
       ],
-      "duration_ms": 289693,
-      "name": "If I Ever Fall In Love",
-      "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
+      "duration_ms": 429120,
+      "name": "'Cause I Love You",
+      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
     }
   ],
   "unique_name": "Love Deluxe",

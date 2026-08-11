@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,271 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,281 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FiQUm1UvSn.md) - [plain]
 | 62 | [Girls Just Want to Have Fun](https://open.spotify.com/track/6CEzzw32qK4EqmmdFXaGEv) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Girls Just Want to Have Fun](https://open.spotify.com/album/0ANpeLpdSK3wVjIt8nJgI4) | 2:53 |
 | 63 | [One Dance](https://open.spotify.com/track/2StjDIpRLEKBHcOGsZ2bk1) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [One Dance](https://open.spotify.com/album/0kWyfddavCea1xEhaPPdi8) | 2:32 |
 
-Snapshot ID: `AAAAAPKcPHsLOqIAEQswDU7si/n/1mLx`
+Snapshot ID: `AAAAAC88DSG+7zDupOmnBHpd7IeJH46v`

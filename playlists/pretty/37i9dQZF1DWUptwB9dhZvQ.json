@@ -1,58 +1,18 @@
 {
   "description": "Its time to relish the best themes of Kollywood!\nCover : DC",
-  "num_followers": 108211,
+  "num_followers": 108227,
   "original_name": "Kollywood Themes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQqx1pY/YXZQdXlZqaaAZth4cZJ",
+  "snapshot_id": "AAAAAPznKdkfcJJYZMbdGnJIEt6fuz10",
   "tracks": [
     {
-      "added_at": "2026-02-21 14:23:56",
+      "added_at": "2026-08-10 10:15:06",
       "album": {
-        "name": "Aaja Raja (From \"KH x RK Reunion\")",
-        "url": "https://open.spotify.com/album/5NGHCyeSDYkhIY4kIHF8fz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Chintu",
-          "url": "https://open.spotify.com/artist/4GbARQ6FEQHOhK0WrnBSWj"
-        }
-      ],
-      "duration_ms": 128031,
-      "name": "Aaja Raja (From \"KH x RK Reunion\")",
-      "url": "https://open.spotify.com/track/5yKz9IRNzuWJiwXERpfVY3"
-    },
-    {
-      "added_at": "2026-07-23 07:04:06",
-      "album": {
-        "name": "Jana Nayagan",
-        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Amogh Balaji",
-          "url": "https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz"
-        }
-      ],
-      "duration_ms": 110049,
-      "name": "The True Leader",
-      "url": "https://open.spotify.com/track/2BuKEQWXyf3mDFpUS4CVIL"
-    },
-    {
-      "added_at": "2025-10-23 10:53:36",
-      "album": {
-        "name": "Arasan Theme (From \"Arasan\")",
-        "url": "https://open.spotify.com/album/4i8vipMWDGOBV42a0pjmvb"
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
       },
       "artists": [
         {
@@ -60,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 94569,
-      "name": "Arasan Theme (From \"Arasan\")",
-      "url": "https://open.spotify.com/track/2adSlLAfZrcgkkphMVjTKk"
+      "duration_ms": 131250,
+      "name": "Raga of Revenge",
+      "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"
     },
     {
       "added_at": "2026-07-03 11:17:10",
@@ -85,6 +45,26 @@
       "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
     },
     {
+      "added_at": "2026-02-21 14:23:56",
+      "album": {
+        "name": "Aaja Raja (From \"KH x RK Reunion\")",
+        "url": "https://open.spotify.com/album/5NGHCyeSDYkhIY4kIHF8fz"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Chintu",
+          "url": "https://open.spotify.com/artist/4GbARQ6FEQHOhK0WrnBSWj"
+        }
+      ],
+      "duration_ms": 128031,
+      "name": "Aaja Raja (From \"KH x RK Reunion\")",
+      "url": "https://open.spotify.com/track/5yKz9IRNzuWJiwXERpfVY3"
+    },
+    {
       "added_at": "2026-07-06 15:54:27",
       "album": {
         "name": "Aane Wala Star",
@@ -105,36 +85,44 @@
       "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
     },
     {
-      "added_at": "2021-11-01 22:19:07",
+      "added_at": "2026-08-10 10:15:06",
       "album": {
-        "name": "Master (Original Background Score)",
-        "url": "https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2"
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
         }
       ],
-      "duration_ms": 80000,
-      "name": "JD Intro - Background Score",
-      "url": "https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC"
+      "duration_ms": 205714,
+      "name": "Bum Baa Diga Diga",
+      "url": "https://open.spotify.com/track/7sNHxjkI4mzpmz6ZVS6TF7"
     },
     {
-      "added_at": "2025-09-10 13:05:37",
+      "added_at": "2021-11-01 22:19:07",
       "album": {
-        "name": "Coolie (Original Background Score)",
-        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
+        "name": "Mankatha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
         }
       ],
-      "duration_ms": 85917,
-      "name": "Powerhouse x Disco",
-      "url": "https://open.spotify.com/track/6SSnh9P1xYHjTfbVBMmsTv"
+      "duration_ms": 189360,
+      "name": "Mankatha Theme Music",
+      "url": "https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8"
     },
     {
       "added_at": "2026-06-24 12:28:09",
@@ -155,22 +143,6 @@
       "duration_ms": 105046,
       "name": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
       "url": "https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps"
-    },
-    {
-      "added_at": "2021-11-01 22:19:07",
-      "album": {
-        "name": "Mankatha (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5SV5Wjj3CH23kMOg4VrO33"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Mankatha Theme Music",
-      "url": "https://open.spotify.com/track/1A1YlVucS5hugYaeWXfCA8"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -221,6 +193,26 @@
       "url": "https://open.spotify.com/track/2ev3UOM2TLhquAupkuTd6v"
     },
     {
+      "added_at": "2026-07-23 07:04:06",
+      "album": {
+        "name": "Jana Nayagan",
+        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 102033,
+      "name": "Thalapathy Vetri Kondan",
+      "url": "https://open.spotify.com/track/1UBTWr92y3Nh93TewXycYS"
+    },
+    {
       "added_at": "2025-03-24 13:58:02",
       "album": {
         "name": "Dragon (Original Score)",
@@ -255,22 +247,6 @@
     {
       "added_at": "2021-11-01 22:19:07",
       "album": {
-        "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
-        "url": "https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        }
-      ],
-      "duration_ms": 70500,
-      "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
-      "url": "https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5"
-    },
-    {
-      "added_at": "2021-11-01 22:19:07",
-      "album": {
         "name": "Soorarai Pottru (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1YXlDrh64M5ttCaRXn7fp5"
       },
@@ -287,6 +263,22 @@
       "duration_ms": 70000,
       "name": "Maara Theme (Tamil)",
       "url": "https://open.spotify.com/track/6yxXPjFdAGOhv0diL81YLu"
+    },
+    {
+      "added_at": "2021-11-01 22:19:07",
+      "album": {
+        "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
+        "url": "https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "duration_ms": 70500,
+      "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
+      "url": "https://open.spotify.com/track/5QNBsU077byAbXLLwXBCo5"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -553,22 +545,6 @@
       "url": "https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k"
     },
     {
-      "added_at": "2026-08-04 10:38:48",
-      "album": {
-        "name": "Dayangaram Swag (From \u201cDayangaram\")",
-        "url": "https://open.spotify.com/album/5AC5RUjcMlJW4gkUIYNdI2"
-      },
-      "artists": [
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "Dayangaram Swag - (From \u201cDayangaram\")",
-      "url": "https://open.spotify.com/track/7eVeBXfYait7Ev2r31g6sz"
-    },
-    {
       "added_at": "2023-04-24 14:19:01",
       "album": {
         "name": "Kanguva Title Announcement (From \"Kanguva\")",
@@ -601,22 +577,6 @@
       "url": "https://open.spotify.com/track/69RyTphfpI2ySydSDLbVLE"
     },
     {
-      "added_at": "2021-11-01 22:19:07",
-      "album": {
-        "name": "Valimai Motion Poster Theme (From \"Valimai\")",
-        "url": "https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        }
-      ],
-      "duration_ms": 87600,
-      "name": "Valimai Motion Poster Theme (From \"Valimai\")",
-      "url": "https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL"
-    },
-    {
       "added_at": "2024-12-10 12:12:55",
       "album": {
         "name": "Lubber Pandhu (Original Background Score)",
@@ -631,6 +591,22 @@
       "duration_ms": 180208,
       "name": "Gethu Crosses the Line",
       "url": "https://open.spotify.com/track/6kkmaPmJDrV4HvaBbEjh4m"
+    },
+    {
+      "added_at": "2021-11-01 22:19:07",
+      "album": {
+        "name": "Valimai Motion Poster Theme (From \"Valimai\")",
+        "url": "https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        }
+      ],
+      "duration_ms": 87600,
+      "name": "Valimai Motion Poster Theme (From \"Valimai\")",
+      "url": "https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -749,20 +725,24 @@
       "url": "https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF"
     },
     {
-      "added_at": "2026-05-18 09:32:38",
+      "added_at": "2026-07-24 12:46:38",
       "album": {
-        "name": "Raga of Revenge (From \"DC\")",
-        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
       },
       "artists": [
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Shivapriya",
+          "url": "https://open.spotify.com/artist/1ZNJgmNVon2tZK2UpmWMjH"
         }
       ],
-      "duration_ms": 131250,
-      "name": "Raga of Revenge (From \"DC\")",
-      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
+      "duration_ms": 140806,
+      "name": "Thaalam Trip - Instrumental",
+      "url": "https://open.spotify.com/track/0JSvcsAbGElf7TqcsATZwe"
     },
     {
       "added_at": "2021-12-22 11:09:17",
@@ -799,22 +779,6 @@
     {
       "added_at": "2021-11-01 22:19:07",
       "album": {
-        "name": "S3 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5eoSgIGH6QNQbOo0Bij06j"
-      },
-      "artists": [
-        {
-          "name": "MC Vickey",
-          "url": "https://open.spotify.com/artist/1eWk4QMHl7GeXDEv2Rvml2"
-        }
-      ],
-      "duration_ms": 92400,
-      "name": "S3 Vetta (Theme Music)",
-      "url": "https://open.spotify.com/track/6yPRM7zwvtrl47XvIGx7Am"
-    },
-    {
-      "added_at": "2021-11-01 22:19:07",
-      "album": {
         "name": "Masss (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC"
       },
@@ -827,26 +791,6 @@
       "duration_ms": 143142,
       "name": "Con Man Theme (From \"Masss\")",
       "url": "https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b"
-    },
-    {
-      "added_at": "2026-07-23 07:04:06",
-      "album": {
-        "name": "Jana Nayagan",
-        "url": "https://open.spotify.com/album/3cCMiFqRYcra7j50I1uVso"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 102033,
-      "name": "Thalapathy Vetri Kondan",
-      "url": "https://open.spotify.com/track/1UBTWr92y3Nh93TewXycYS"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -863,6 +807,26 @@
       "duration_ms": 83173,
       "name": "Manmadhan Theme Music",
       "url": "https://open.spotify.com/track/5Q0ffIynfGqumKoJuqjlEC"
+    },
+    {
+      "added_at": "2026-07-24 12:46:38",
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 198875,
+      "name": "Raga of Madness",
+      "url": "https://open.spotify.com/track/7pfh5uXaQKnk6h0dRpui9M"
     },
     {
       "added_at": "2021-11-01 22:19:07",
@@ -1001,10 +965,10 @@
       "url": "https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y"
     },
     {
-      "added_at": "2022-06-23 13:38:20",
+      "added_at": "2022-02-24 15:44:57",
       "album": {
-        "name": "Beast (Original Background Score)",
-        "url": "https://open.spotify.com/album/0mZe6r4eaGrhuCvx6dzxey"
+        "name": "Beast Announcement Theme (From \"Beast\")",
+        "url": "https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF"
       },
       "artists": [
         {
@@ -1012,25 +976,9 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 44637,
-      "name": "Cucumba",
-      "url": "https://open.spotify.com/track/0uswgpVQNDT9DfEyzzCQcg"
-    },
-    {
-      "added_at": "2025-09-10 13:05:37",
-      "album": {
-        "name": "Coolie (Original Background Score)",
-        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 222445,
-      "name": "Kaleesha",
-      "url": "https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT"
+      "duration_ms": 62302,
+      "name": "Beast Announcement Theme (From \"Beast\")",
+      "url": "https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz"
     },
     {
       "added_at": "2024-10-14 14:49:45",
@@ -1049,10 +997,10 @@
       "url": "https://open.spotify.com/track/3Z8FAlpN5ARYkcCihIvkNj"
     },
     {
-      "added_at": "2022-02-24 15:44:57",
+      "added_at": "2025-09-10 13:05:37",
       "album": {
-        "name": "Beast Announcement Theme (From \"Beast\")",
-        "url": "https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF"
+        "name": "Coolie (Original Background Score)",
+        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
       },
       "artists": [
         {
@@ -1060,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         }
       ],
-      "duration_ms": 62302,
-      "name": "Beast Announcement Theme (From \"Beast\")",
-      "url": "https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz"
+      "duration_ms": 222445,
+      "name": "Kaleesha",
+      "url": "https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT"
     },
     {
       "added_at": "2022-07-08 13:39:05",
@@ -1177,22 +1125,6 @@
       "url": "https://open.spotify.com/track/48pWf7gVrD3ftzkyzUJqVu"
     },
     {
-      "added_at": "2021-11-01 22:19:07",
-      "album": {
-        "name": "Petta (Original Background Score)",
-        "url": "https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 52800,
-      "name": "Rhythm of Petta",
-      "url": "https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy"
-    },
-    {
       "added_at": "2025-09-10 12:08:27",
       "album": {
         "name": "Madharaasi (Original Motion Picture Soundtrack)",
@@ -1223,6 +1155,22 @@
       "duration_ms": 206470,
       "name": "Vaathi Kabbadi - Background Score",
       "url": "https://open.spotify.com/track/4U8wO7PDX3fz9L3Ne1U0eg"
+    },
+    {
+      "added_at": "2021-11-01 22:19:07",
+      "album": {
+        "name": "Petta (Original Background Score)",
+        "url": "https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 52800,
+      "name": "Rhythm of Petta",
+      "url": "https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy"
     },
     {
       "added_at": "2022-09-13 05:37:43",
@@ -1273,22 +1221,6 @@
       "url": "https://open.spotify.com/track/2sW8zbqjQsOnwTcjC2JWBO"
     },
     {
-      "added_at": "2021-11-01 22:19:07",
-      "album": {
-        "name": "Vedalam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 112405,
-      "name": "The Theri Theme",
-      "url": "https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP"
-    },
-    {
       "added_at": "2025-02-18 10:52:00",
       "album": {
         "name": "Vidaamuyarchi (Original Motion Picture Soundtrack)",
@@ -1307,6 +1239,86 @@
       "duration_ms": 174347,
       "name": "Perseverance Theme",
       "url": "https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO"
+    },
+    {
+      "added_at": "2023-09-21 12:58:01",
+      "album": {
+        "name": "Varman Theme (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 82750,
+      "name": "Varman Theme (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg"
+    },
+    {
+      "added_at": "2021-11-01 22:19:07",
+      "album": {
+        "name": "Maari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 30753,
+      "name": "The Maari Swag",
+      "url": "https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX"
+    },
+    {
+      "added_at": "2023-09-08 08:39:19",
+      "album": {
+        "name": "Mathew Theme (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 129373,
+      "name": "Mathew Theme (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2"
+    },
+    {
+      "added_at": "2022-12-15 09:48:39",
+      "album": {
+        "name": "Muthuvel Pandian Theme (From \"Jailer\")",
+        "url": "https://open.spotify.com/album/610ByI4AyDj3TdrMDZbKWS"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 103571,
+      "name": "Muthuvel Pandian Theme (From \"Jailer\")",
+      "url": "https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1"
+    },
+    {
+      "added_at": "2022-07-08 13:39:05",
+      "album": {
+        "name": "Vikram (Original Background Score)",
+        "url": "https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 148023,
+      "name": "Amar Theme - Background Score",
+      "url": "https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo"
     }
   ],
   "unique_name": "Kollywood Themes",

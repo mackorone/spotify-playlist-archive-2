@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Pink Pablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,360 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,319 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [DESASTRE](https://open.spotify.com/track/5NMlBtIr4iJ5mPrh4b9lfN) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ) | [ATLÁNTICO](https://open.spotify.com/album/4pkWNa2blLWxTPPTOQXwoz) | 3:05 |
 | 50 | [Falta Por Vivir](https://open.spotify.com/track/6un269HzjfCh3dtOFlmAoX) | [Teo](https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq) | [Falta Por Vivir](https://open.spotify.com/album/3tnPfi8LJwFAajmS0QMT6H) | 3:44 |
 
-Snapshot ID: `AAAAAKHxWcCGrBI04SfmHebOzyTAMixQ`
+Snapshot ID: `AAAAAHbjXxfn2LiebMQ1tU6id6Cx6BBv`

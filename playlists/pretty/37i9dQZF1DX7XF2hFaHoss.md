@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,833 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,850 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 37 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 |
 | 38 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
 | 39 | [Is There Something in the Movies?](https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:30 |
-| 40 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
-| 41 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
-| 42 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
+| 40 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
+| 41 | [Little Runaway](https://open.spotify.com/track/12GVuNDjD80UjEmkO46Hd8) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Little Runaway](https://open.spotify.com/album/3l0s7gDB5V4xj4TSsEMHj6) | 2:59 |
+| 42 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
 | 43 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 | 44 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 45 | [Émigré](https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS) | [Alela Diane](https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7) | [Cusp](https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4) | 3:11 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 82 | [See the Day](https://open.spotify.com/track/02FXmW3KGdhRZKGNccwl5r) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [See the Day](https://open.spotify.com/album/69DnDDvVwm7QHff7CLWWT4) | 3:08 |
 | 83 | [Soundings](https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [Soundings](https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC) | 2:55 |
 | 84 | [3 Crow](https://open.spotify.com/track/0cPoclGkGpbGEcbOH7K80P) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Funeral for My Past](https://open.spotify.com/album/2rtING8KxtmLyi9PPgqwn8) | 3:28 |
-| 85 | [Nothing We Say](https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 3:31 |
-| 86 | [The Low Hum](https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [California Calling](https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi) | 4:01 |
+| 85 | [The Low Hum](https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [California Calling](https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi) | 4:01 |
+| 86 | [Nothing We Say](https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Nothing We Say \- EP](https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7) | 3:31 |
 | 87 | [American Crow](https://open.spotify.com/track/1Z1Fo7DlxPhlbR7Q9hhgKg) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & the New Hip](https://open.spotify.com/artist/3A9RsQhAsUFqIdTKJdK51d) | [New Frontier](https://open.spotify.com/album/6FU2w4wTADCGBJsYKkyz47) | 3:19 |
 | 88 | [Unsteady Ground](https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX) | 3:51 |
 | 89 | [Good for Something](https://open.spotify.com/track/2KKPd7nqbhDzgAYsFjC9WA) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Good for Something](https://open.spotify.com/album/7rh14CSLmsm9HXtLIfq6tC) | 3:20 |
 | 90 | [Real Love](https://open.spotify.com/track/2rQMHZq7jnK0J2izGbCj0Z) | [Cammy Enaharo](https://open.spotify.com/artist/0iM6AplgWF7ISiwJaBhXLF) | [Hard To Look At](https://open.spotify.com/album/22dE6uGzAupKicgRGotoNv) | 2:29 |
 
-Snapshot ID: `AAAAABL+awQzQ9hYNLC+d2EFMwKZCe/o`
+Snapshot ID: `AAAAAFWUbHIgn/nn8NBDa//G+YxJ2ud1`

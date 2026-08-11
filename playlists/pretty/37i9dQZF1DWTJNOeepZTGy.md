@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,826 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,810 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 21 | [Lately](https://open.spotify.com/track/2931VBrdy0FnvNmjfyRPD9) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Lately](https://open.spotify.com/album/5OUPs3doEKFc9Mm2NGGiwD) | 4:02 |
 | 22 | [You](https://open.spotify.com/track/4RMIDsxooqjhLIkxhlWzLa) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [The Love Experience](https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0) | 5:02 |
 | 23 | [Stars](https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [Surrender to Love](https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO) | 5:09 |
-| 24 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 |
-| 25 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
+| 24 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 |
+| 25 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 |
 | 26 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
 | 27 | [Another Life](https://open.spotify.com/track/2f9mmR37OEceYERbXml0Nj) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:58 |
 | 28 | [Inside My Love \- Remastered 1993](https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Capitol Gold: The Best Of Minnie Riperton](https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL) | 3:58 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 31 | [Forever, For Always, For Love](https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Outrun The Sky](https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE) | 5:52 |
 | 32 | [Between the Sheets](https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:38 |
 | 33 | [Never Felt This Way](https://open.spotify.com/track/3ETM5bHqW8RtMsP9PauI6S) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Brian McKnight](https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG) | 5:35 |
-| 34 | [Lovin U](https://open.spotify.com/track/5WTkxsVu35amucxPu4wi9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 |
-| 35 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
+| 34 | [Still](https://open.spotify.com/track/36tR7kGlYwgi9IWpuUSbp1) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:50 |
+| 35 | [Lovin U](https://open.spotify.com/track/5WTkxsVu35amucxPu4wi9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:48 |
 | 36 | [Say So](https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Say So](https://open.spotify.com/album/7nc9NmxMiErW3UeeKeQ4Hq) | 3:32 |
 | 37 | [All I Ever Think About](https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Epiphany](https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN) | 3:40 |
 | 38 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 46 | [You Were Meant for Me](https://open.spotify.com/track/4RSKpohiL1nDPn7rGxsBYl) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:51 |
 | 47 | [Love Natural](https://open.spotify.com/track/0AZTkbO9umWmABq28mfkle) | [Frank Mccomb](https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt) | [Love Stories](https://open.spotify.com/album/5XK8uXGzRxYbNxx43BppMM) | 6:55 |
 | 48 | [Love Like Yours And Mine](https://open.spotify.com/track/76PUohgHDZNGvj7uXFLpAC) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Love Like Yours And Mine](https://open.spotify.com/album/18o37lm8WSUU10qNWCbQfp) | 3:39 |
-| 49 | [THIS COULD BE US](https://open.spotify.com/track/0miHCBjdt3mvJAKQGnS22b) | [The PLAYlist](https://open.spotify.com/artist/1nSfOAkqOqmmnCY6OfoPS5), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Chasing Goosebumps](https://open.spotify.com/album/2bwJ67gJzPogCpCIglLi2H) | 4:18 |
-| 50 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
+| 49 | [First Began \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles](https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1) | 3:31 |
+| 50 | [THIS COULD BE US](https://open.spotify.com/track/0miHCBjdt3mvJAKQGnS22b) | [The PLAYlist](https://open.spotify.com/artist/1nSfOAkqOqmmnCY6OfoPS5), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Chasing Goosebumps](https://open.spotify.com/album/2bwJ67gJzPogCpCIglLi2H) | 4:18 |
 
-Snapshot ID: `AAAAAC8nmy0YoPWKYbPbEWomD+N7smdP`
+Snapshot ID: `AAAAAPA/OnyejpBi7qRDLWcVSEyMKS0b`

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Siri Xander",
-  "num_followers": 20122,
+  "num_followers": 20133,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKf7RSMLRXgfUmg9U/LgbO1lukjc",
+  "snapshot_id": "AAAAAIRpr2xzPbE/LNbQ2TzHy0HJ0six",
   "tracks": [
     {
       "added_at": "2026-07-31 10:52:19",
@@ -251,6 +251,26 @@
       "duration_ms": 196909,
       "name": "Yaaraahi",
       "url": "https://open.spotify.com/track/4sP1IZeMzJoCQFQGBRRiAO"
+    },
+    {
+      "added_at": "2026-08-10 10:30:26",
+      "album": {
+        "name": "I-Popstar Tamil | Ep 09",
+        "url": "https://open.spotify.com/album/2VUNrm34E74MAkHnnTgOBB"
+      },
+      "artists": [
+        {
+          "name": "Sai Prashob",
+          "url": "https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "duration_ms": 190846,
+      "name": "Ellam Neeye",
+      "url": "https://open.spotify.com/track/7wTUCkOEI0fjXy4MmpvYh7"
     },
     {
       "added_at": "2026-07-16 15:08:35",

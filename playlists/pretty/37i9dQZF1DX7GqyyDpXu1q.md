@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,511 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,514 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 59 | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC) | [The Picturebooks](https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo), [Jon Harvey](https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN), [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Holy Ghost \(feat\. Jon Harvey \[Monster Truck\]\)](https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye) | 3:40 |
 | 60 | [Interstate Cowboy](https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS) | [The Vegabonds](https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh), [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Interstate Cowboy](https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj) | 3:34 |
 | 61 | [Break My Heart](https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Break My Heart](https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq) | 4:14 |
-| 62 | [In Stride](https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u) | 3:47 |
-| 63 | [Stare at the Sun](https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x) | [Duane Betts](https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Stare At The Sun](https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa) | 4:32 |
+| 62 | [Stare at the Sun](https://open.spotify.com/track/291cAsS3pwo7l2iv89mS3x) | [Duane Betts](https://open.spotify.com/artist/0Hd5wMyas6F2k5kBNeBmnB), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Stare At The Sun](https://open.spotify.com/album/3TWBQYucrIM6yQ0F3uzAZa) | 4:32 |
+| 63 | [In Stride](https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u) | 3:47 |
 | 64 | [Ain't None Watered Down](https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Ain't None Watered Down](https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2) | 3:12 |
 | 65 | [Revival](https://open.spotify.com/track/7aBTTnmPNOnxns4zUqKFbl) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/2KYRGdnQoz7pkCMY2Ot9RM) | 3:49 |
 | 66 | [Goin' Back Where I Came From](https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Summer Skin](https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2) | 2:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 74 | [First High](https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [First High](https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs) | 3:07 |
 | 75 | [God's Gonna Cut You Down](https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb) | [The Native Howl](https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4) | [God's Gonna Cut You Down](https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt) | 3:30 |
 
-Snapshot ID: `AAAAAHf9NVZfueXFknYyj5J1HErCocjq`
+Snapshot ID: `AAAAAAYkTy8IK5c0+NuOGFxEWNCA2SCj`

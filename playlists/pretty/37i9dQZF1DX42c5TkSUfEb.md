@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,193 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,167 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 11 | [Walk On the Wild Side](https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 4:15 |
 | 12 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 |
 | 13 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
-| 14 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
-| 15 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:48 |
+| 14 | [Blowin' in the Wind](https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:48 |
+| 15 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 16 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 |
 | 17 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 |
 | 18 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 |
@@ -80,16 +80,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 70 | [Tableau](https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Joli monde](https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6) | 3:48 |
 | 71 | [Il neige](https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les bruits de la ville](https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI) | 4:24 |
 | 72 | [Beautiful Thingz](https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Beautiful Thingz](https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ) | 3:28 |
-| 73 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
-| 74 | [Le temps passe](https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe etc.](https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g) | 3:12 |
+| 73 | [Le temps passe](https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Le temps passe etc.](https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g) | 3:12 |
+| 74 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
 | 75 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
-| 76 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
-| 77 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 |
-| 78 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
+| 76 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
+| 77 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
+| 78 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 |
 | 79 | [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 |
 | 80 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
-| 81 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
-| 82 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
+| 81 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
+| 82 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
 | 83 | [Brown Eyes](https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Brown Eyes](https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE) | 3:17 |
 | 84 | [echo](https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Mixtape Telecom](https://open.spotify.com/album/5iuLIPxKzU0X9FjaQLwN9r) | 2:47 |
 | 85 | [Helsinki](https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [My Name](https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w) | 5:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [If Only](https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR) | [Aiden](https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma) | [If Only](https://open.spotify.com/album/7d05HveiLG4742vBLElcSE) | 3:06 |
 | 100 | [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 |
 
-Snapshot ID: `AAAAAAsDZBq47q8JOk14DEADVI4QMsk4`
+Snapshot ID: `AAAAABp5FWotrKIOQ6a1zApOKeSviNvp`

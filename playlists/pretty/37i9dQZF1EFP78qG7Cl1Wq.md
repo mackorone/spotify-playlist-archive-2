@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,112 likes - 252 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,113 likes - 252 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,16 +128,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 118 | [Call Me Crazy](https://open.spotify.com/track/5Kxs4hSxjT9faa77ZMql6o) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 3:40 |
 | 119 | [Spring Cleaning](https://open.spotify.com/track/4Z5ZGYDG3yn73kEAa0BMIX) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Through The Madness Vol\. 2](https://open.spotify.com/album/5s1S4QUVIVFRg9gLOz9ves) | 2:32 |
 | 120 | [Relapse](https://open.spotify.com/track/0Ky7dNE5kiSBgqNiwwl1jx) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [While You Were Out](https://open.spotify.com/album/6lYGdrU9Qg9qLLUAEoFcqi) | 2:52 |
-| 121 | [So Good](https://open.spotify.com/track/4dLN7SiPi5EspQwirFSAIQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:45 |
-| 122 | [something like this](https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [something like this](https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR) | 2:49 |
+| 121 | [something like this](https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [something like this](https://open.spotify.com/album/5E85uZf3BYeVO3kSBxwqGR) | 2:49 |
+| 122 | [So Good](https://open.spotify.com/track/4dLN7SiPi5EspQwirFSAIQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [A.K.A\. \(Deluxe\)](https://open.spotify.com/album/5sgtN5B8rUr6nfUzJ4RRIk) | 3:45 |
 | 123 | [Set The Roof](https://open.spotify.com/track/3FiPLOhNiB2Ox4ut1jJxE2) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Set The Roof](https://open.spotify.com/album/5DUPSEYAsHkWIF2DZ3rXty) | 4:28 |
 | 124 | [ain't a lonely christmas song \(feat\. Tayla Parx\)](https://open.spotify.com/track/1WSOncoBvbmkvujGKVBQKu) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:52 |
 | 125 | [Paris On a Sunny Day](https://open.spotify.com/track/2iWF723SL2T6qAW9RBls1c) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 5:07 |
 | 126 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 |
 | 127 | [Deserve](https://open.spotify.com/track/4RuI0ItCK4wjtLJi9hhJEU) | [Teairra Marí](https://open.spotify.com/artist/6Mox9P9U7HpuAd9ULwvP7N) | [Deserve \- Single](https://open.spotify.com/album/5bvgBtWKI8bTsekfaFGeyM) | 3:17 |
 | 128 | [Just Like You](https://open.spotify.com/track/5ff9NJ1oh2PncBD8R00jJ6) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 3:52 |
-| 129 | [Cruel](https://open.spotify.com/track/3JOpBLWIyYdW3sEnlRdXeR) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Cruel](https://open.spotify.com/album/0RGen35uwkusSOtNRzAuC5) | 3:56 |
-| 130 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 129 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 130 | [Cruel](https://open.spotify.com/track/3JOpBLWIyYdW3sEnlRdXeR) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Cruel](https://open.spotify.com/album/0RGen35uwkusSOtNRzAuC5) | 3:56 |
 | 131 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 |
 | 132 | [Settle The Score \(with DUCKWRTH\)](https://open.spotify.com/track/5K7OgzqlXtwWb01MyrlqVO) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 2:29 |
 | 133 | [Lie to Me](https://open.spotify.com/track/5i0OHpGf0sBnQhxdpxHjwC) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [Flip](https://open.spotify.com/artist/1939X6ROqtaab8VT01Yaty) | [Coke Boys Tour](https://open.spotify.com/album/5OAG6xARCduo9svbhzuF0s) | 4:11 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 201 | [Stupid Crazy](https://open.spotify.com/track/4w9s8Ci6Sn8nuW8tWs9lOU) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:15 |
 | 202 | [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
 | 203 | [holdupbaby!](https://open.spotify.com/track/3ixIYD1ALxfnrmNCEndpq0) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:04 |
-| 204 | [Act Right](https://open.spotify.com/track/4o6IOdfo5PGPwvjmkHQkfd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:46 |
-| 205 | [Amnesia](https://open.spotify.com/track/52zws8gg9knDauxewOuvNX) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:59 |
+| 204 | [Amnesia](https://open.spotify.com/track/52zws8gg9knDauxewOuvNX) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Just Keke](https://open.spotify.com/album/4qewouaN4cljIXNhTK3SPV) | 1:59 |
+| 205 | [Act Right](https://open.spotify.com/track/4o6IOdfo5PGPwvjmkHQkfd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:46 |
 | 206 | [Where I Belong](https://open.spotify.com/track/0ThrgSYBDexaGfJMBRXrSa) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Where I Belong EP](https://open.spotify.com/album/6FLKHS3sz64yWyvWGSNs3i) | 2:39 |
 | 207 | [Versions of Me](https://open.spotify.com/track/6SOCvo8NKJm5tfXqfBG0Uq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Versions of Me](https://open.spotify.com/album/701oucP6kZjma5iqb7cdX8) | 2:12 |
 | 208 | [Cheap Liquor](https://open.spotify.com/track/42oi5SgSne2Wvt3dkiX4pu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 1:59 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 251 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 252 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcZJlAAAAACfYbt7cs4Lvrd4klBBbY/J`
+Snapshot ID: `AcZPKgAAAAAfM1GUh1Nm2PfKld2p53Tb`

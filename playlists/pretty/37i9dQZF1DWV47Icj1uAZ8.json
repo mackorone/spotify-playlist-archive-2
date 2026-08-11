@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 46583,
+  "num_followers": 46592,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtN59PoBVA2M1+eHSmaH7Iw/6Fz",
+  "snapshot_id": "AAAAALoQdcgmPQoFPppqMGePWS28SdA/",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "American Gangster",
+        "url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 248920,
+      "name": "Blue Magic",
+      "url": "https://open.spotify.com/track/3E8mkgsexzpLBGd6o4iCGC"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 223517,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "American Gangster",
-        "url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 248920,
-      "name": "Blue Magic",
-      "url": "https://open.spotify.com/track/3E8mkgsexzpLBGd6o4iCGC"
     },
     {
       "added_at": "2022-10-01 16:00:00",

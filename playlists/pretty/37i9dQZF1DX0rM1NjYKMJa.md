@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,440 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,501 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 69 | [Guh Down \- Remix](https://open.spotify.com/track/7piySJTKBIshzRFrUtBLlo) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [The Return](https://open.spotify.com/album/3q4JOlFXQ20ZaZsjIZwMwC) | 3:29 |
 | 70 | [Toast](https://open.spotify.com/track/45tHjcM6gERQ7kCEDTG4al) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture](https://open.spotify.com/album/2DlocpnzvkFXxV7iBy3wbZ) | 3:11 |
 
-Snapshot ID: `AAAAANvlY3D7scJz0udGuVFdV6bci2lD`
+Snapshot ID: `AAAAAAczvrEFGjr6lJ7/rkzlKFYJ71m8`

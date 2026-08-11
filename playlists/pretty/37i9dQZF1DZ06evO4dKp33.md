@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 
 > This is PinkPantheress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,141 likes - 45 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,192 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 22 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 |
 | 23 | [Last Valentines](https://open.spotify.com/track/5aX9ocVkS6HqK5orEbsOoe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:13 |
 | 24 | [Nice to Know You](https://open.spotify.com/track/39BYU2nLFR8Q1RcPdVvUMn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:50 |
-| 25 | [Feel complete](https://open.spotify.com/track/2bBh5UwbVLkA3WB44iXBye) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:43 |
+| 25 | [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:45 |
 | 26 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 |
 | 27 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 |
 | 28 | [Do You Miss Me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 |
-| 29 | [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:45 |
+| 29 | [Feel complete](https://open.spotify.com/track/2bBh5UwbVLkA3WB44iXBye) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:43 |
 | 30 | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL) | 2:48 |
 | 31 | [Where You Are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 |
 | 32 | [tinkerbell is overrated feat\. PinkPantheress](https://open.spotify.com/track/2pm4A5nkkA8Cf4NcFEUzVE) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:48 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 44 | [Stars + Yves](https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:21 |
 | 45 | [Romeo + Rachel Chinouriri](https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:46 |
 
-Snapshot ID: `anZxgAAAAACxJWFc3JAeJgZwPjmIX5hi`
+Snapshot ID: `anfDAAAAAABYllyeD3v31+22qHYnCyJ1`

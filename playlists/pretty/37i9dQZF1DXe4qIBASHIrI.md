@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,852 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,874 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 27 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
 | 28 | [Quiéreme Mucho](https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 3:38 |
 | 29 | [Why?](https://open.spotify.com/track/1QyPYtnOVwmprWCjVgPo1Q) | [She's A Tease](https://open.spotify.com/artist/1Vv6KQLygM1XDyikIMaN9W) | [Millonaria](https://open.spotify.com/album/3IbOWCON3FLtK3Yp7ZBC6A) | 3:40 |
-| 30 | [Mi Castillo de Blanca Arena](https://open.spotify.com/track/2WFKRQJeQMCUatF7ufzfCs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 2:29 |
+| 30 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
 | 31 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 |
-| 32 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |
+| 32 | [Mi Castillo de Blanca Arena](https://open.spotify.com/track/2WFKRQJeQMCUatF7ufzfCs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 2:29 |
 | 33 | [Amor Sin Fin](https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:13 |
 | 34 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
 | 35 | [Murasaki](https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Murasaki](https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj) | 3:33 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 60 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 |
 | 61 | [Sixteen](https://open.spotify.com/track/6aV7F6tMDe5f2ZZTGrtVXO) | [Los Super Elegantes](https://open.spotify.com/artist/6Aim4Lm9mDZd0W3F8XkF36) | [Los Super Elegantes Ep](https://open.spotify.com/album/0KV2EOtafNLgeBw7xDi0di) | 3:45 |
 | 62 | [Vivimos In L.A.](https://open.spotify.com/track/55tL4KL8uXjXJHTvIKB4vE) | [Aeiou](https://open.spotify.com/artist/165DZ07075Tx8igd7lKfQB) | [Space Hymns](https://open.spotify.com/album/2kJe0uAxDLlAnRy0Mk0I7M) | 3:42 |
-| 63 | [Minutos de Aire \(feat\. Jorge Gonzalez\)](https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 5 Coyote Nights](https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F) | 4:37 |
-| 64 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
-| 65 | [Cielo](https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Salvaje](https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E) | 4:23 |
+| 63 | [Cielo](https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Salvaje](https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E) | 4:23 |
+| 64 | [Minutos de Aire \(feat\. Jorge Gonzalez\)](https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [Happy\-fi Compilación Vol\. 5 Coyote Nights](https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F) | 4:37 |
+| 65 | [El Ultimo](https://open.spotify.com/track/1LnHgQUu6IBqDLlXH4A3Vq) | [Los Odio!](https://open.spotify.com/artist/0tqpmKIKOBpH3PESt3W93v) | [Los Odio](https://open.spotify.com/album/4jnjFnZIJ7kHm2VIfQwQFC) | 3:35 |
 | 66 | [Ja Ja Ja](https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Never Greens, Vol\. 1](https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh) | 4:01 |
 | 67 | [Chubaca Tiene un Secreto](https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Levantate Sakuraba](https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS) | 3:33 |
 | 68 | [Dejé de Ser Yo](https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 2:54 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 88 | [Natsuko](https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g) | [Los Plastics Revolution](https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V) | [Natsuko](https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u) | 4:19 |
 | 89 | [Natural](https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Natural](https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X) | 3:38 |
 | 90 | [Muchacho Satanico \- 2002 version](https://open.spotify.com/track/2W6y3hTo9bC2ptXAr5yjCl) | [Mario\*](https://open.spotify.com/artist/6LuoxHz3XHf2nh6UHM2tZB) | [Happy\-fi Compilación Vol\. 2](https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE) | 3:03 |
-| 91 | [Mexa](https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff) | [Colores Santos](https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA) | [Tortugas](https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD) | 3:59 |
-| 92 | [Agua De Coco](https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [Madre Mía](https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9) | 3:46 |
+| 91 | [Agua De Coco](https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2) | [Salvador y el Unicornio](https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm) | [Madre Mía](https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9) | 3:46 |
+| 92 | [Mexa](https://open.spotify.com/track/5jnpABLU8hh8yQ06deN7ff) | [Colores Santos](https://open.spotify.com/artist/5c9epmcDnbf7CBNBdYYdSA) | [Tortugas](https://open.spotify.com/album/0YUKJtumdS4Py8UzUMM4pD) | 3:59 |
 | 93 | [Psicomagia](https://open.spotify.com/track/7Bxd7yC2SktQp6YeWff0Vx) | [Timothy The Master](https://open.spotify.com/artist/13R6YHfwwwKYybPifJvftJ) | [Buffalo Beat EP](https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56) | 5:15 |
 | 94 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
 | 95 | [Robot](https://open.spotify.com/track/1kQyVGpK1b2Uq1fCpWgDjQ) | [Furland](https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ) | [A Casa Voy \- EP](https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4) | 5:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 99 | [Soy Aquel](https://open.spotify.com/track/5wHK6JuDl0vQtM44WYMfLq) | [La Banderville](https://open.spotify.com/artist/5bHvEzZCBiHrBWMiwXFLgD) | [4 Décadas de Rock en Tu Idioma](https://open.spotify.com/album/1EGgFPVygTlqdd5LqD3kiL) | 4:38 |
 | 100 | [Lámpara de Lava](https://open.spotify.com/track/0rQJAyaTlRna0nCxpiOl4u) | [Furland](https://open.spotify.com/artist/6Tf0naaPUrHxhByC152BiQ) | [A Casa Voy \- EP](https://open.spotify.com/album/6BWzhtLuDftRsj1AD5EtM4) | 3:41 |
 
-Snapshot ID: `AAAAAK41lF/yWJP2uUH6N7AwY/C91a/Q`
+Snapshot ID: `AAAAAFo9bofe61dQ1dias+1+0+9O31WS`

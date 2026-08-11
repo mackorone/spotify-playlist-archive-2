@@ -10930,7 +10930,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 188253,
       "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
@@ -18480,7 +18480,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 205841,
       "name": "Housekeeping",
       "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
@@ -35130,7 +35130,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 184740,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K"
@@ -35264,6 +35264,24 @@
       "duration_ms": 161652,
       "name": "She's Just the Type of Girl",
       "url": "https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc"
+    },
+    {
+      "album": {
+        "name": "She's The Only One",
+        "url": "https://open.spotify.com/album/1p9MIpHyhfw9aVHcYJXCvW"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200417,
+      "name": "She's The Only One",
+      "url": "https://open.spotify.com/track/5ipoqLoXRhdeMB5FcpJWMQ"
     },
     {
       "album": {

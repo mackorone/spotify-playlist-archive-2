@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  Young Miko
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,364 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,365 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 22 | [Can't Touch This](https://open.spotify.com/track/04B7iuFOZSGr0zyMP3PFkQ) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Can't Touch This](https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi) | 2:28 |
 | 23 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 24 | [Bitches](https://open.spotify.com/track/6M1i8I1dRCTw0VESPXikw6) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Bitches](https://open.spotify.com/album/6md6XQS1qEmxx4UDyEx9qa) | 3:48 |
-| 25 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
-| 26 | [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 |
+| 25 | [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 |
+| 26 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
 | 27 | [Raining Inside](https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Pink Pocket Pistol](https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v) | 3:40 |
 | 28 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
 | 29 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
 | 32 | [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 |
 | 33 | [High Pony](https://open.spotify.com/track/5INLroy9fRR1w5NdshKuxw) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [High Pony](https://open.spotify.com/album/2AfwyV0pnRmPb55yNXlgfO) | 2:54 |
-| 34 | [Living Room Floor](https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Living Room Floor](https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO) | 4:19 |
-| 35 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
+| 34 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
+| 35 | [Living Room Floor](https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Living Room Floor](https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO) | 4:19 |
 | 36 | [Chrome Heart Diaper Bag](https://open.spotify.com/track/0czIeeoUmB2SiXyZs4H8cL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O) | 2:56 |
 | 37 | [Ain't Over Me Yet](https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Ain't Over Me Yet](https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p) | 3:24 |
 | 38 | [listening](https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us](https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit) | 3:53 |
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 43 | [Scoreboard](https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA) | [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [I Just Wanna Be Loved](https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg) | 3:24 |
 | 44 | [MOSH★PIT](https://open.spotify.com/track/6FLKhl5TbJSfNGRo3ryUi3) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/1jSJILLPsnuiUod858Mmzj) | 2:44 |
 | 45 | [Shine](https://open.spotify.com/track/3c4MBlHdGeDQgpbzk6glMG) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Shine](https://open.spotify.com/album/79sl7pH8FhvSRfazOKQdOI) | 3:14 |
-| 46 | [Hell On Me](https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr) | 3:08 |
+| 46 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
 | 47 | [On Demand](https://open.spotify.com/track/2AvfSSr0Wazcs643jYBzoO) | [Imani Imani](https://open.spotify.com/artist/6xVhh5b5hrrFjSjBcSuQRQ) | [Papercut](https://open.spotify.com/album/5q3xwmFq7Hgfyq6UUCgwpf) | 2:41 |
-| 48 | [Spring summer](https://open.spotify.com/track/3lKB7OuBglrz7Pjpe0e3sk) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:08 |
-| 49 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
+| 48 | [Hell On Me](https://open.spotify.com/track/3VeiX8rGAwlFMcqV0ScviA) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Middle of Nowhere](https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr) | 3:08 |
+| 49 | [Spring summer](https://open.spotify.com/track/3lKB7OuBglrz7Pjpe0e3sk) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:08 |
 | 50 | [Stars Stay Awake](https://open.spotify.com/track/0655XrFPQT3Z4vgmDqgXEi) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Fake Brave Life](https://open.spotify.com/album/2sDJqorHBWS3QPm8WW5jeo) | 2:27 |
 | 51 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 |
 | 52 | [What you Know](https://open.spotify.com/track/2tbxEdJWzM7vT2OR8zLDFs) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Diary Of A Young Lit B\*tch](https://open.spotify.com/album/5fmJLK908UzunIOHhZE5Au) | 1:42 |
 | 53 | [Nothing's Accidental](https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Nothing's Accidental](https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh) | 3:19 |
 | 54 | [Won't Force You](https://open.spotify.com/track/4c7awiaRsAal1uZXPDbpBr) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:26 |
 
-Snapshot ID: `AAAAAC0gXCR5eO/avn/uB6xvomO7n5CV`
+Snapshot ID: `AAAAANkxwBoRjfUAIAOSvcyqTtXiAnhX`

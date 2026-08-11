@@ -1569,6 +1569,24 @@
     },
     {
       "album": {
+        "name": "Anima Mundi",
+        "url": "https://open.spotify.com/album/0rP2OZvtfQDZE8sKYYZfok"
+      },
+      "artists": [
+        {
+          "name": "ROGUZMAN",
+          "url": "https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194516,
+      "name": "Anima Mundi",
+      "url": "https://open.spotify.com/track/6gSBDseBDva8QQdW0uZ3As"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/4WumWxIaJFjux1pDq0LhbB"
       },

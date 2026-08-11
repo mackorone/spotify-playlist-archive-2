@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 708762,
+  "num_followers": 708779,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMM0dJRgW6N94UGVP7Uql7ilkHpw",
+  "snapshot_id": "AAAAAMEdd6lqJIi7L3ZNftCreDhtb23k",
   "tracks": [
     {
       "added_at": "2026-05-08 04:01:55",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 218240,
       "name": "America",
       "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "Greatest Hits And Others",
+        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Greatest Hits And Others",
-        "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "The Way You Make Me Feel",
         "url": "https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 232200,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+      },
+      "artists": [
+        {
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Mr. Sandman",
-        "url": "https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Mr. Sandman",
-      "url": "https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Mr. Sandman",
+        "url": "https://open.spotify.com/album/2fdSGlrhEbkEC9an1uPg9b"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/1ibQiWl2i50MGt3SpRuE0D"
     },
     {
       "added_at": "2026-05-08 04:01:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,551 likes - 182 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,550 likes - 182 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 181 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 182 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AcZJgAAAAAB5P/uom6f4RmtCLS65LlVR`
+Snapshot ID: `AcZPIAAAAAB2w9qokD0LOVx35rDdVxVj`

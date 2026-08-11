@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxGD6X6tjNiZCFvxK6FUF34ZuSF",
+  "snapshot_id": "AAAAAJgY36laEZHETmOxOuLhIXJqe/0m",
   "tracks": [
     {
       "added_at": "2026-08-01 02:41:17",
@@ -219,22 +219,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Que Se Llene Tu Casa",
-        "url": "https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm"
+        "name": "A Danzar",
+        "url": "https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1"
       },
       "artists": [
         {
-          "name": "Juana",
-          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
-        },
-        {
           "name": "Canticuentos",
           "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        },
+        {
+          "name": "Coro Renacer",
+          "url": "https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP"
         }
       ],
-      "duration_ms": 195984,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb"
+      "duration_ms": 91666,
+      "name": "A Danzar",
+      "url": "https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -255,22 +255,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "A Danzar",
-        "url": "https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1"
+        "name": "Que Se Llene Tu Casa",
+        "url": "https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm"
       },
       "artists": [
         {
-          "name": "Canticuentos",
-          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+          "name": "Juana",
+          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
         },
         {
-          "name": "Coro Renacer",
-          "url": "https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP"
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
         }
       ],
-      "duration_ms": 91666,
-      "name": "A Danzar",
-      "url": "https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp"
+      "duration_ms": 195984,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -307,18 +307,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Verano Con Jes\u00fas",
-        "url": "https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn"
+        "name": "No Hay Lugar M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU"
       },
       "artists": [
         {
-          "name": "Los Gigantes De La Fe",
-          "url": "https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh"
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+        },
+        {
+          "name": "Juana",
+          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
         }
       ],
-      "duration_ms": 187384,
-      "name": "Verano Con Jes\u00fas",
-      "url": "https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa"
+      "duration_ms": 217751,
+      "name": "No Hay Lugar M\u00e1s Alto",
+      "url": "https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "No Hay Lugar M\u00e1s Alto",
-        "url": "https://open.spotify.com/album/26iKn1gikP7rCaL7yVsLpU"
+        "name": "Verano Con Jes\u00fas",
+        "url": "https://open.spotify.com/album/4XRuN8MX1YcoWisEwV2ljn"
       },
       "artists": [
         {
-          "name": "Canticuentos",
-          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
-        },
-        {
-          "name": "Juana",
-          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
+          "name": "Los Gigantes De La Fe",
+          "url": "https://open.spotify.com/artist/0UA43hj3hEP3CzT488TGKh"
         }
       ],
-      "duration_ms": 217751,
-      "name": "No Hay Lugar M\u00e1s Alto",
-      "url": "https://open.spotify.com/track/7GprxftlfJVlGnkVfxhegJ"
+      "duration_ms": 187384,
+      "name": "Verano Con Jes\u00fas",
+      "url": "https://open.spotify.com/track/4cQfWBzuw1CawGIxjADbfa"
     },
     {
       "added_at": "2026-08-01 02:41:17",

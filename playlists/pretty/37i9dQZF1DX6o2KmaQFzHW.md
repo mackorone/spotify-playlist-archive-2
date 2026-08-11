@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Lo mejor del folklore nacional 📸  Sele Vera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,774 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,782 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 99 | [La Cautiva](https://open.spotify.com/track/3CoSoKjB1jTBDUl4nbZfGB) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune\-Los Elegidos](https://open.spotify.com/album/40jHMGBc83ukE2rXbRUlIX) | 3:54 |
 | 100 | [A Don Ata](https://open.spotify.com/track/5ahNFk2wkkKqsLHBeSt6Ow) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:13 |
 
-Snapshot ID: `AAAAAEYBiOfKuv/SA31Onxo2xB1uTQJD`
+Snapshot ID: `AAAAAJ+ajIJPMmJOr9gPW80CduuP1WwL`

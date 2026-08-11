@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,739 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,706 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 38 | [You're Welcome](https://open.spotify.com/track/6U4VqEHy4n5VeiH4pQPL24) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 |
 | 39 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
 | 40 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r) | 3:47 |
-| 41 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 |
-| 42 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
+| 41 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
+| 42 | [Who Says](https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI) | [Selena Gomez & The Scene](https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO) | [When The Sun Goes Down](https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox) | 3:15 |
 | 43 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 |
 | 44 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 45 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 70 | [Nice to Meet You](https://open.spotify.com/track/6KmrCHbuNOsdoeDOpwetr7) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 3:10 |
 | 71 | [Move Your Feet / D.A.N.C.E\. / It's A Sunshine Day](https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ron Funches](https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP), [Walt Dohrn](https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd), [Caroline Hjelt](https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME), [Aino Jawo](https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV), [Kunal Nayyar](https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 2:36 |
 | 72 | [I'm A Believer \- From "Shrek" Motion Picture Soundtrack](https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:05 |
-| 73 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 |
-| 74 | [Bottle Up \- from PAW Patrol: The Dino Movie](https://open.spotify.com/track/7LAcikXNoHVAQFeEx8caQ2) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7), [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Bottle Up \(from PAW Patrol: The Dino Movie\)](https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR) | 3:37 |
+| 73 | [Bottle Up \- from PAW Patrol: The Dino Movie](https://open.spotify.com/track/7LAcikXNoHVAQFeEx8caQ2) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7), [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Bottle Up \(from PAW Patrol: The Dino Movie\)](https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR) | 3:37 |
+| 74 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 |
 | 75 | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [Kung Fu Panda 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6n2FMmygekI4wcwaRf0LGj) | 3:12 |
 
-Snapshot ID: `AAAAAFjqFftZ+ksB+KldPPtHBbmn6Eug`
+Snapshot ID: `AAAAAJ5/yOtzwN2HRvs7BjwaW+yQaySU`

@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: southstar",
-  "num_followers": 421222,
+  "num_followers": 421708,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALN2CG/Ky/XBMK+IohW0RDRrRFiJ",
+  "snapshot_id": "AAAAALFWGK8GflYhII0hEh9EcIl461we",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
+        "name": "What's a Girl to Do in '25",
+        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 148047,
+      "name": "What's a Girl to Do in '25",
+      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/5q3jPN4pN99nvgzvHuNwie"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 204000,
       "name": "Moment",
       "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
-        "name": "What's a Girl to Do in '25",
-        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 148047,
-      "name": "What's a Girl to Do in '25",
-      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -995,26 +995,42 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "Transgender",
-        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
+        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
       },
       "artists": [
         {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
         },
         {
-          "name": "Police In Paris",
-          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
-        },
-        {
-          "name": "Staarz",
-          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
         }
       ],
-      "duration_ms": 176516,
-      "name": "Transgender",
-      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+      "duration_ms": 164919,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
+        "name": "It's That Time",
+        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "It's That Time",
+      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1043,42 +1059,26 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "It's That Time",
-        "url": "https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt"
+        "name": "Transgender",
+        "url": "https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
         },
         {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "It's That Time",
-      "url": "https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-        "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
         },
         {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+          "name": "Staarz",
+          "url": "https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL"
         }
       ],
-      "duration_ms": 164919,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn]",
-      "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+      "duration_ms": 176516,
+      "name": "Transgender",
+      "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "WILD",
-        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
-      },
-      "artists": [
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        },
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        }
-      ],
-      "duration_ms": 140459,
-      "name": "WILD",
-      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
         "name": "I Like",
         "url": "https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 195918,
       "name": "I Like",
       "url": "https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
+        "name": "WILD",
+        "url": "https://open.spotify.com/album/5FsMk34JEYtLATtx2BN0Jv"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        },
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        }
+      ],
+      "duration_ms": 140459,
+      "name": "WILD",
+      "url": "https://open.spotify.com/track/3bcuj62DusW3T4UhAgdlOU"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
+        "name": "Hooked on the Bassline",
+        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Hooked on the Bassline",
+      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
-        "name": "Hooked on the Bassline",
-        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Hooked on the Bassline",
-      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1355,6 +1355,26 @@
       "duration_ms": 250145,
       "name": "Romantika",
       "url": "https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
+        "name": "By My Side (Stolen Dance)",
+        "url": "https://open.spotify.com/album/2UJToXhv3T8uO73RHPXKPr"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "By My Side (Stolen Dance)",
+      "url": "https://open.spotify.com/track/0F07aAx61BGVJ0S1BJX6pY"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1411,22 +1431,18 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "By My Side (Stolen Dance)",
-        "url": "https://open.spotify.com/album/2UJToXhv3T8uO73RHPXKPr"
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
       },
       "artists": [
         {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        },
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 164493,
-      "name": "By My Side (Stolen Dance)",
-      "url": "https://open.spotify.com/track/0F07aAx61BGVJ0S1BJX6pY"
+      "duration_ms": 156000,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/5YGMtwLhbqumvZN8nqaEYc"
-      },
-      "artists": [
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/0Y8MXfSe2LcThivikQ9cEa"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
         "name": "Le Ball",
         "url": "https://open.spotify.com/album/4HUdMNeCtEH1FxaCoXFCSb"
       },
@@ -1535,42 +1535,6 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "Diamond Heart",
-        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 152519,
-      "name": "Diamond Heart",
-      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
-        "name": "Party People",
-        "url": "https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 193653,
-      "name": "Party People",
-      "url": "https://open.spotify.com/track/4Rbj7CS2UJq6ehpZgiY7Kw"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
         "name": "Stomp Your Feet",
         "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
       },
@@ -1595,6 +1559,26 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
+        "name": "Diamond Heart",
+        "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 152519,
+      "name": "Diamond Heart",
+      "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
         "name": "Uh Na Na",
         "url": "https://open.spotify.com/album/4YAnAToqaEOHHt1Cyxk9RE"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 120033,
       "name": "Uh Na Na",
       "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/4Rbj7CS2UJq6ehpZgiY7Kw"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 224591,
       "name": "Damager",
       "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
+        "name": "Toter Schmetterling",
+        "url": "https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2"
+      },
+      "artists": [
+        {
+          "name": "Klangkuenstler",
+          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Toter Schmetterling",
+      "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
+    },
+    {
+      "added_at": "2026-08-06 22:01:00",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/08R9vWGp22a2x5iqsGgMxH"
       },
@@ -1791,46 +1811,22 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "Toter Schmetterling",
-        "url": "https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2"
+        "name": "SEXY",
+        "url": "https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu"
       },
       "artists": [
         {
-          "name": "Klangkuenstler",
-          "url": "https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk"
+          "name": "Para\u00e7ek",
+          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
         },
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u"
+          "name": "CARGO",
+          "url": "https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe"
         }
       ],
-      "duration_ms": 233846,
-      "name": "Toter Schmetterling",
-      "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
-    },
-    {
-      "added_at": "2026-08-06 22:01:00",
-      "album": {
-        "name": "U Got 2 Know",
-        "url": "https://open.spotify.com/album/7t8YmvmfTEq68vRFGPijxe"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "Wippenberg",
-          "url": "https://open.spotify.com/artist/0Orz1QOZQrwampy0S742oK"
-        }
-      ],
-      "duration_ms": 142344,
-      "name": "U Got 2 Know",
-      "url": "https://open.spotify.com/track/5mZDiIV5z3mmYnIvXGENFX"
+      "duration_ms": 196583,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"
     },
     {
       "added_at": "2026-08-06 22:01:00",
@@ -1871,42 +1867,46 @@
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "where are you taking me? (mente)",
-        "url": "https://open.spotify.com/album/1aycvMYkEvofbfft4h9wo5"
+        "name": "U Got 2 Know",
+        "url": "https://open.spotify.com/album/7t8YmvmfTEq68vRFGPijxe"
       },
       "artists": [
         {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Wippenberg",
+          "url": "https://open.spotify.com/artist/0Orz1QOZQrwampy0S742oK"
         }
       ],
-      "duration_ms": 227938,
-      "name": "where are you taking me? (mente)",
-      "url": "https://open.spotify.com/track/7JFH1pIbhv14d2TE6KiAeN"
+      "duration_ms": 142344,
+      "name": "U Got 2 Know",
+      "url": "https://open.spotify.com/track/5mZDiIV5z3mmYnIvXGENFX"
     },
     {
       "added_at": "2026-08-06 22:01:00",
       "album": {
-        "name": "SEXY",
-        "url": "https://open.spotify.com/album/2mvBle8cY9KZwcS4QsnnHu"
+        "name": "4am In A Rave / Speed Is A Deed",
+        "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
       },
       "artists": [
         {
-          "name": "Para\u00e7ek",
-          "url": "https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1"
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
         },
         {
-          "name": "CARGO",
-          "url": "https://open.spotify.com/artist/47itHYdiZPEbLJcpWfTqbe"
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
         }
       ],
-      "duration_ms": 196583,
-      "name": "SEXY",
-      "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"
+      "duration_ms": 147121,
+      "name": "4am In A Rave (feat. rhys from the sticks)",
+      "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
     }
   ],
   "unique_name": "rave",

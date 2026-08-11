@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Reforzando la alianza Colombia\-México\. Con Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,616 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,643 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 79 | [daño](https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:17 |
 | 80 | [Pienso En Ti](https://open.spotify.com/track/6ZA4xgOuvzkWc8ow843Q3t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Es de Madera](https://open.spotify.com/album/5hf6WT0Zv9JyQCiZNo6hGv) | 2:37 |
 
-Snapshot ID: `AAAAAMDnMLbFSqY9ep6AYr5vVwWwe9El`
+Snapshot ID: `AAAAAFdPQWMo/PDBEEuEzes6GqB0/YwI`

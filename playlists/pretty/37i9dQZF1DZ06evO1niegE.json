@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9242,
+  "num_followers": 9245,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABbu5trWUZpEPvJQEfCKNAC",
+  "snapshot_id": "anfDAAAAAACRwUS2qtZOCIoKrrtaqfMR",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": null,
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Vivir En Silencio",
-      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
+      "duration_ms": 219760,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retrofuturismo",
-        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
-      },
-      "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/11rPbUpu1jCyf674N8Nkdk"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 217232,
       "name": "M\u00cdO",
       "url": "https://open.spotify.com/track/5zoOsXcKzGKyfqKgxbJYI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retrofuturismo",
+        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
     },
     {
       "added_at": null,

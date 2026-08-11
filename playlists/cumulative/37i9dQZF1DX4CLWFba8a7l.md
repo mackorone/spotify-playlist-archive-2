@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Pretty Girl
 
-708 songs - 1 day 15 hr 32 min
+709 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv) | 3:30 | 2024-10-31 | 2025-01-10 |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-12 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2024-05-31 | 2024-07-27 |
+| [Do You Want This](https://open.spotify.com/track/6ITfKmdTryTr2Fc119YIvg) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Do You Want This](https://open.spotify.com/album/5iWax2Wx9uQ4q4paIo3wde) | 3:31 | 2026-08-07 |  |
 | [Doin To Me](https://open.spotify.com/track/7jBMjGaPJRSGBceGblQ8Rf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Did I Stutter?](https://open.spotify.com/album/4AlRLAS1bFJ8G6BmYfYwnE) | 2:35 | 2025-06-19 | 2025-06-27 |
 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 | 2025-02-13 | 2026-07-24 |
 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 | 2025-06-12 | 2025-06-20 |
@@ -273,7 +274,7 @@
 | [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 | 2025-04-05 |
 | [Hold On \(Young Heart\)](https://open.spotify.com/track/3LvEDt0pBDKzsODbpZk9e3) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Hold On \(Young Heart\)](https://open.spotify.com/album/4sBG7LXU3LXfEPLY2uDsiF) | 3:16 | 2025-06-26 | 2025-09-01 |
 | [Hold On You](https://open.spotify.com/track/01Rxgjh6AJ2jc8CTt1tUfk) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Hold On You](https://open.spotify.com/album/0lGoTug0XeSiwiEYrcekWM) | 2:32 | 2025-07-03 | 2025-07-25 |
-| [Holy Grail](https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Holy Grail](https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD) | 3:34 | 2026-05-14 |  |
+| [Holy Grail](https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Holy Grail](https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD) | 3:34 | 2026-05-14 | 2026-08-11 |
 | [HOME](https://open.spotify.com/track/5h3s7DuhKOOHPPHgMynX73) | [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [Vol\. 2 If You Don't Laugh, You'll Cry](https://open.spotify.com/album/7N14Rkinb2eJlvV2URn46A) | 2:49 | 2026-03-12 | 2026-04-10 |
 | [Honey N Lemon](https://open.spotify.com/track/5Jl0mPHioA6Vn9DPjVwY7A) | [Jonny Chopps](https://open.spotify.com/artist/0fd9HlnFdsNSBrIMHluGrS) | [Catalyst](https://open.spotify.com/album/1o9APyXJ97FvGiJZbFZjst) | 2:21 | 2026-07-30 | 2026-08-07 |
 | [HOOD BE HOT](https://open.spotify.com/track/4s6hbl1lK9nYOABDviWTOq) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Kayem2x](https://open.spotify.com/artist/0qo7gqk9EnojsHT1K8tQ1h) | [HOOD BE HOT](https://open.spotify.com/album/5hvgW9avPhROfmQpzZMEwJ) | 2:24 | 2025-09-01 | 2025-09-05 |

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: B\u00ea Vieira",
-  "num_followers": 289690,
+  "num_followers": 289679,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKH+DEXpBtj+nEwIkZ+S3UUKFb5l",
+  "snapshot_id": "AAAAALikqPCukKdvQdKBy9c/fVGt9O3o",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:15",
@@ -215,6 +215,34 @@
     {
       "added_at": "2026-08-07 03:00:15",
       "album": {
+        "name": "Duas Vezes",
+        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "duration_ms": 160784,
+      "name": "Duas Vezes",
+      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": "2026-08-07 03:00:15",
+      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -263,34 +291,6 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
-    },
-    {
-      "added_at": "2026-08-07 03:00:15",
-      "album": {
-        "name": "Duas Vezes",
-        "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
-      },
-      "artists": [
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        },
-        {
-          "name": "Niina",
-          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
-        }
-      ],
-      "duration_ms": 160784,
-      "name": "Duas Vezes",
-      "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
     },
     {
       "added_at": "2026-08-07 03:00:15",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-08-07 03:00:15",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2026-08-07 03:00:15",
-      "album": {
         "name": "MOSAICO",
         "url": "https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 224800,
       "name": "No Pain No Gain",
       "url": "https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K"
+    },
+    {
+      "added_at": "2026-08-07 03:00:15",
+      "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2026-08-07 03:00:15",
@@ -631,6 +631,26 @@
     {
       "added_at": "2026-08-07 03:00:15",
       "album": {
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
+    },
+    {
+      "added_at": "2026-08-07 03:00:15",
+      "album": {
         "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
         "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 202285,
       "name": "Seu Her\u00f3i",
       "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
-    },
-    {
-      "added_at": "2026-08-07 03:00:15",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-08-07 03:00:15",
@@ -867,30 +867,6 @@
     {
       "added_at": "2026-08-07 03:00:15",
       "album": {
-        "name": "Barulho Das Ondas",
-        "url": "https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6"
-      },
-      "artists": [
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        }
-      ],
-      "duration_ms": 208365,
-      "name": "Barulho Das Ondas",
-      "url": "https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN"
-    },
-    {
-      "added_at": "2026-08-07 03:00:15",
-      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": "2026-08-07 03:00:15",
+      "album": {
+        "name": "Barulho Das Ondas",
+        "url": "https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6"
+      },
+      "artists": [
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        }
+      ],
+      "duration_ms": 208365,
+      "name": "Barulho Das Ondas",
+      "url": "https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN"
     },
     {
       "added_at": "2026-08-07 03:00:15",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-08-07 03:00:15",
       "album": {
-        "name": "Aquelas Coisas",
-        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Aquelas Coisas",
-      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
-    },
-    {
-      "added_at": "2026-08-07 03:00:15",
-      "album": {
         "name": "Quem Vai Ser?",
         "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 157918,
       "name": "Quem Vai Ser?",
       "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+    },
+    {
+      "added_at": "2026-08-07 03:00:15",
+      "album": {
+        "name": "Aquelas Coisas",
+        "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Aquelas Coisas",
+      "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
     },
     {
       "added_at": "2026-08-07 03:00:15",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-08-07 03:00:15",
       "album": {
+        "name": "Linda e Perigosa",
+        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Linda e Perigosa",
+      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
+    },
+    {
+      "added_at": "2026-08-07 03:00:15",
+      "album": {
         "name": "Pra todo mundo que \u00e9 emocionado",
         "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
-    },
-    {
-      "added_at": "2026-08-07 03:00:15",
-      "album": {
-        "name": "Linda e Perigosa",
-        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Linda e Perigosa",
-      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
     },
     {
       "added_at": "2026-08-07 03:00:15",

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 498948,
+  "num_followers": 498939,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPsVtH/V8KxKhxm+aHLdck450/ga",
+  "snapshot_id": "AAAAAIhN3nE6FT+5m7ZsUTsEofszk5kx",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:43",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Somebody's Pleasure",
-        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 223957,
-      "name": "Somebody's Pleasure",
-      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Somebody's Pleasure",
+        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 223957,
+      "name": "Somebody's Pleasure",
+      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
-        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
-      },
-      "artists": [
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
-        }
-      ],
-      "duration_ms": 249503,
-      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
-      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Dia",
         "url": "https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 207490,
       "name": "Dia",
       "url": "https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
+        "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
+      },
+      "artists": [
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 249503,
+      "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
+      "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
     },
     {
       "added_at": "2026-02-27 14:15:43",

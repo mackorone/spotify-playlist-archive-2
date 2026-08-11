@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADhMxJmg93lPAZ22NkM1ruW",
+  "snapshot_id": "anfDAAAAAADuCM5rtlBd6n0nL/APATom",
   "tracks": [
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 225770,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dicen Que Soy Belic\u00f3n",
         "url": "https://open.spotify.com/album/0gqpwRVmf1HVKJPJOBLGix"
       },
@@ -883,6 +863,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 225770,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Cargo del Terreno",
+        "url": "https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 142474,
+      "name": "A Cargo del Terreno",
+      "url": "https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adiamantado",
         "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 179000,
       "name": "Adiamantado",
       "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Cargo del Terreno",
-        "url": "https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 142474,
-      "name": "A Cargo del Terreno",
-      "url": "https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L"
     },
     {
       "added_at": null,

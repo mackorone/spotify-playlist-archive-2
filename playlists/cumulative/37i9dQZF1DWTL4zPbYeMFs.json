@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "T-Series Mixtape",
+        "url": "https://open.spotify.com/album/29plpgMqtx10CBwMzOvRLW"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272868,
+      "name": "Agar Tum Saath Ho-Maahi Ve",
+      "url": "https://open.spotify.com/track/7E8emnJJGI1JLN7ClE5nmC"
+    },
+    {
+      "album": {
         "name": "Fukrey",
         "url": "https://open.spotify.com/album/5PWhrKKFYTMnutQ4x5DqHd"
       },
@@ -638,7 +660,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 402733,
       "name": "Chhup Gaya",
       "url": "https://open.spotify.com/track/7CPt1MsPdOE1x3LbMLgR17"

@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49662,
+  "num_followers": 49665,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADXJgCvjY/wak6Euaz88Dlv",
+  "snapshot_id": "anfDAAAAAABFfw/9wiYxrXBtQB3Qzya8",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RENDEZVOUS (2017 Remaster)",
+        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
+      },
+      "artists": [
+        {
+          "name": "Sadao Watanabe",
+          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 279920,
+      "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
+      "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Lives Forever",
         "url": "https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 420986,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RENDEZVOUS (2017 Remaster)",
-        "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
-      },
-      "artists": [
-        {
-          "name": "Sadao Watanabe",
-          "url": "https://open.spotify.com/artist/2hGDAhezELu9olOncSWZYI"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 279920,
-      "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
-      "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
     },
     {
       "added_at": null,
@@ -716,9 +716,25 @@
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Sunday and Sister Jones",
-      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
+      "duration_ms": 436453,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Ballad of the Sad Young Men",
+      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
     },
     {
       "added_at": null,
@@ -743,54 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Ballad of the Sad Young Men",
-      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Montreux Years (Live)",
-        "url": "https://open.spotify.com/album/73vbaUJKvJacWy8BMBxIaB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "More Than You'll Ever Know - Live at Montreux, 1990",
-      "url": "https://open.spotify.com/track/0VJpSDHNUgjA2XZQvbFa4x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 436453,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RENDEZVOUS (2017 Remaster)",
         "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 266160,
       "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Sunday and Sister Jones",
+      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Montreux Years (Live)",
+        "url": "https://open.spotify.com/album/73vbaUJKvJacWy8BMBxIaB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 297640,
+      "name": "More Than You'll Ever Know - Live at Montreux, 1990",
+      "url": "https://open.spotify.com/track/0VJpSDHNUgjA2XZQvbFa4x"
     },
     {
       "added_at": null,

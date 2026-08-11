@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1051561,
+  "num_followers": 1051505,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPdCyOtBkN7rJkoz4nwHO4frRfBb",
+  "snapshot_id": "AAAAAIOKNzunDVeofXJUDOZMtZy91i83",
   "tracks": [
     {
       "added_at": "2026-07-17 15:52:29",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sea of Dreams",
-        "url": "https://open.spotify.com/album/4eSSmYkCYc2NnxY48fmYPg"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Sea of Dreams",
-      "url": "https://open.spotify.com/track/78Tp3xlTJ9GnqCCMgE9ZCy"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Pay No Mind / Taking My Time",
         "url": "https://open.spotify.com/album/5otPafjZPLq0cDEdNhCjvV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 173637,
       "name": "Pay No Mind",
       "url": "https://open.spotify.com/track/36hdtlZ3njdcD6Iq4YWeR6"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Sea of Dreams",
+        "url": "https://open.spotify.com/album/4eSSmYkCYc2NnxY48fmYPg"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Sea of Dreams",
+      "url": "https://open.spotify.com/track/78Tp3xlTJ9GnqCCMgE9ZCy"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 131855,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Summer Salt (with Tribal Seeds)",
         "url": "https://open.spotify.com/album/1CPsrMHMjJIMMQJkHwAvW4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 224094,
       "name": "Summer Salt (with Tribal Seeds)",
       "url": "https://open.spotify.com/track/3d6TWcd6c9mw6RpzSOu6V5"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "duration_ms": 131855,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "From Here To Now To You",
         "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 179346,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/5WjDmjD39LsFCRRALhorjd"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -987,18 +987,38 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/4kUcJe4ZMdK6zz4zovWHTB"
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
       },
       "artists": [
         {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 211061,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/7IlH1aO95KHenk0e8kZ6Vc"
+      "duration_ms": 197183,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1023,38 +1043,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2q59WbPEzBKEVJlKkh4Rp1"
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/4kUcJe4ZMdK6zz4zovWHTB"
       },
       "artists": [
         {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
         }
       ],
-      "duration_ms": 138466,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4ChYzD2AahSZSSSevWrrbw"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 197183,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC"
+      "duration_ms": 211061,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/7IlH1aO95KHenk0e8kZ6Vc"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/1HNGz1Ltvn2pM559lKcDyW"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 176399,
-      "name": "Moon Palace",
-      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
+      "duration_ms": 266481,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/4Yy6k6BnisqPKcMEJ1YmJI"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/49den6feXc9vnoJnkVdmL8"
-      },
-      "artists": [
-        {
-          "name": "Stylie",
-          "url": "https://open.spotify.com/artist/4FKRIBsyFirblW4qsSKVRZ"
-        },
-        {
-          "name": "Sons of Paradise",
-          "url": "https://open.spotify.com/artist/5fBAZtGCe3ECGkgeuOfOG3"
-        }
-      ],
-      "duration_ms": 272379,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/2DXAcNUYnUG6MG3FG88Ps1"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "The Mighty",
         "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/49den6feXc9vnoJnkVdmL8"
+      },
+      "artists": [
+        {
+          "name": "Stylie",
+          "url": "https://open.spotify.com/artist/4FKRIBsyFirblW4qsSKVRZ"
+        },
+        {
+          "name": "Sons of Paradise",
+          "url": "https://open.spotify.com/artist/5fBAZtGCe3ECGkgeuOfOG3"
+        }
+      ],
+      "duration_ms": 272379,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/2DXAcNUYnUG6MG3FG88Ps1"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Some Say the Ocean",
-        "url": "https://open.spotify.com/album/6AQGebTVJIyQocK20zK6Fd"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 246795,
-      "name": "Some Say the Ocean",
-      "url": "https://open.spotify.com/track/4HjlaIg0PufGB2nDlb8T4d"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Too Late (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
       },
@@ -1571,6 +1555,38 @@
       "duration_ms": 157084,
       "name": "Too Late (with Jared Watson of Dirty Heads)",
       "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Some Say the Ocean",
+        "url": "https://open.spotify.com/album/6AQGebTVJIyQocK20zK6Fd"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 246795,
+      "name": "Some Say the Ocean",
+      "url": "https://open.spotify.com/track/4HjlaIg0PufGB2nDlb8T4d"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "River Guide You",
+        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 189702,
+      "name": "River Guide You",
+      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1607,22 +1623,6 @@
       "duration_ms": 233093,
       "name": "Gunman",
       "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "River Guide You",
-        "url": "https://open.spotify.com/album/2Ff5jcRSKQmxECSQSgsDZm"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 189702,
-      "name": "River Guide You",
-      "url": "https://open.spotify.com/track/08UyoxARdyvcrsdtNQygaU"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
-        "url": "https://open.spotify.com/album/592WXDHttlFbqJIpYUbDiK"
-      },
-      "artists": [
-        {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
-        },
-        {
-          "name": "Jared Watson of Dirty Heads",
-          "url": "https://open.spotify.com/artist/1rDWfKTXV9EaAydhQbTtv9"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
-      "url": "https://open.spotify.com/track/5FnqGGSJz7wccw4dywNfZI"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Batshit Crazy",
         "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 235294,
       "name": "Some Say the Ocean - Reggae Remix",
       "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
+        "url": "https://open.spotify.com/album/592WXDHttlFbqJIpYUbDiK"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        },
+        {
+          "name": "Jared Watson of Dirty Heads",
+          "url": "https://open.spotify.com/artist/1rDWfKTXV9EaAydhQbTtv9"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
+      "url": "https://open.spotify.com/track/5FnqGGSJz7wccw4dywNfZI"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1867,30 +1867,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Corona and Lime",
-        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
-      },
-      "artists": [
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Corona and Lime",
-      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "I Fall in Love Too Easily (with The Elovaters) [Reggae Remix]",
         "url": "https://open.spotify.com/album/1kXZ59UugA3KIt8jMuDTL8"
       },
@@ -1911,6 +1887,30 @@
       "duration_ms": 245063,
       "name": "I Fall in Love Too Easily (with The Elovaters) - Reggae Remix",
       "url": "https://open.spotify.com/track/7Ej86ZIZqCqOOvddpaySZK"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Corona and Lime",
+        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Corona and Lime",
+      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
-      },
-      "artists": [
-        {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Respect",
         "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 204000,
       "name": "Respect",
       "url": "https://open.spotify.com/track/75aYfg2Tji6Uxmreajjxsg"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
+      },
+      "artists": [
+        {
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Shwaycation",
         "url": "https://open.spotify.com/album/6UJlSwpYKNIOWwRWIHZopF"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 181445,
       "name": "Tequila La La La La",
       "url": "https://open.spotify.com/track/3fm7nlDQB74jy4NoPg3j57"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2547,18 +2547,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Welcome to Florida",
-        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
+        "name": "I OWE THE IRS 60K DOLLARS (DEMOS)",
+        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
       },
       "artists": [
         {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+          "name": "The Holdup",
+          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
         }
       ],
-      "duration_ms": 170608,
-      "name": "Stayed",
-      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
+      "duration_ms": 217177,
+      "name": "COMING WITH GUNS",
+      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2583,18 +2583,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "I OWE THE IRS 60K DOLLARS (DEMOS)",
-        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
+        "name": "Welcome to Florida",
+        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
       },
       "artists": [
         {
-          "name": "The Holdup",
-          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
         }
       ],
-      "duration_ms": 217177,
-      "name": "COMING WITH GUNS",
-      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
+      "duration_ms": 170608,
+      "name": "Stayed",
+      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
     },
     {
       "added_at": "2026-07-17 15:52:29",

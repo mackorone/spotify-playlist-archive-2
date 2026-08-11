@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 
 > Revisit the best Kwaito songs ever released\. Cover: Bongo Maffin
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,662 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,683 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsJXPjB3v.md) - [plain]
 | 41 | [Vat\-En\-Sit](https://open.spotify.com/track/4sBITIyxAyTtd9NuhSM11I) | [Spikiri](https://open.spotify.com/artist/3fP5hWCOBvndu3JLD7HlAi) | [King Don Father 2002](https://open.spotify.com/album/3c5ue20ray1aFt7GvAzrv3) | 5:58 |
 | 42 | [Kleva](https://open.spotify.com/track/5RTDTOmZNe16758vrx6qnX) | [Mapaputsi](https://open.spotify.com/artist/22IsfJqYsmzkvuOdUZjBld) | [Kleva](https://open.spotify.com/album/6HGVwDKHwADl1R8b7VfnJD) | 5:03 |
 | 43 | [Bula Boot](https://open.spotify.com/track/0jXSQJ2oamQ9YcW4Ugq8Mm) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Chizboy](https://open.spotify.com/album/1aY6VgE2UhKtmGesDYB4Il) | 5:32 |
-| 44 | [Sigiya Ngengoma](https://open.spotify.com/track/2NFgJok0ycyOrUGDuqkiH8) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/3QMYpyJMH57DfTGqZMEYGo) | 6:39 |
+| 44 | [Fohloza](https://open.spotify.com/track/3DKfxpqCVoWmqObaLbkWLy) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Mapantsula](https://open.spotify.com/album/3sc7RKWeBiYxA1uRe7xghs) | 7:03 |
 | 45 | [Ntozabantu](https://open.spotify.com/track/0ctxUNhzXY1IKozDdgmJRJ) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Dream](https://open.spotify.com/album/1TwfdWbuA3s0hfDfcNKhex) | 5:09 |
 | 46 | [Klaimar](https://open.spotify.com/track/4K20wEBypHu07QPODkWsBT) | [Chiskop](https://open.spotify.com/artist/7wTsm3OFBk9W6BwPponZYt) | [Bash Mix 2](https://open.spotify.com/album/35tW0ha48NxHh4MDx8od96) | 4:03 |
-| 47 | [Fohloza](https://open.spotify.com/track/3DKfxpqCVoWmqObaLbkWLy) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Mapantsula](https://open.spotify.com/album/3sc7RKWeBiYxA1uRe7xghs) | 7:03 |
+| 47 | [Sigiya Ngengoma](https://open.spotify.com/track/2NFgJok0ycyOrUGDuqkiH8) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018) | [Sigiya Ngengoma](https://open.spotify.com/album/3QMYpyJMH57DfTGqZMEYGo) | 6:39 |
 | 48 | [Safety Belt](https://open.spotify.com/track/3bd3f5BXwLs2p7kRHY5a8j) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Kalawa Jazmee Classics: Thebe, The Top Dawg](https://open.spotify.com/album/0PSKT9iKGBHpTxJ5IdDjl0) | 4:15 |
 | 49 | [Tsodiyo](https://open.spotify.com/track/3j6YbumB0YDhhA2ZFRtbcA) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Incomplete Without](https://open.spotify.com/album/5jeAuGi3HKd1mV7W2Q5joX) | 3:50 |
 | 50 | [Skangkgata](https://open.spotify.com/track/70e5LboOZBwRrbwZb36ISE) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Tempy Life](https://open.spotify.com/album/6QLge9AA2UY7zgR7DNtaUN) | 4:23 |
 
-Snapshot ID: `AAAAAPk/YwgRYqLXMOteaoHG0t9CND3l`
+Snapshot ID: `AAAAAGBhopWbNQazU3EdV6YST76PyCgK`

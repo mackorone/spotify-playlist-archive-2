@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 32442,
+  "num_followers": 32451,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAQ5y8RpkBtFmZFP6/SNosU",
+  "snapshot_id": "anfDAAAAAADPaH8/os1hUaKnu/c+QK0T",
   "tracks": [
     {
       "added_at": null,
@@ -551,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edas de Ayer",
-        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
+        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
+        "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
         }
       ],
-      "duration_ms": 206213,
-      "name": "D\u00edas de Ayer",
-      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
+      "duration_ms": 287205,
+      "name": "Y Te Lo Pido - En Vivo",
+      "url": "https://open.spotify.com/track/1HEAlw55kD0vSm9iZa5iIx"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Pulido & Friends Una Tuya Y Una M\u00eda (Vol.2/En Vivo)",
-        "url": "https://open.spotify.com/album/0JnZUa2c5sC0xJoSSaoybG"
+        "name": "D\u00edas de Ayer",
+        "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
       },
       "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
         }
       ],
-      "duration_ms": 287205,
-      "name": "Y Te Lo Pido - En Vivo",
-      "url": "https://open.spotify.com/track/1HEAlw55kD0vSm9iZa5iIx"
+      "duration_ms": 206213,
+      "name": "D\u00edas de Ayer",
+      "url": "https://open.spotify.com/track/3nNExpEv8J5DNv5oSQUIII"
     },
     {
       "added_at": null,

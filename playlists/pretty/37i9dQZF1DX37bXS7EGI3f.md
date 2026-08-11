@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,774 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,798 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 89 | [Empire](https://open.spotify.com/track/6oOZSrzBB2QTSRY3qoWaYy) | [Memoremains](https://open.spotify.com/artist/59YzmPPL4s9KUfV4kqWYS1) | [Pop Metal](https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz) | 3:11 |
 | 90 | [As Empires Fall](https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [As Empires Fall](https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk) | 3:54 |
 | 91 | [Steel And Gold](https://open.spotify.com/track/42yMBH3H2enXtdBJehyT8o) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Steel And Gold](https://open.spotify.com/album/508iYwTcyag9Ve7fVaRBqv) | 4:07 |
-| 92 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
-| 93 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
-| 94 | [In The Eyes Of The Enemy](https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b) | [Grailknights](https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR), [Chiara Tricarico](https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi) | [In The Eyes Of The Enemy](https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy) | 3:56 |
-| 95 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
-| 96 | [Awakening](https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Awakening](https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas) | 3:36 |
-| 97 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
-| 98 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
-| 99 | [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 |
+| 92 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
+| 93 | [Cicada](https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Cicada](https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x) | 4:31 |
+| 94 | [Now Is the Time](https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Now Is the Time](https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV) | 6:18 |
+| 95 | [In The Eyes Of The Enemy](https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b) | [Grailknights](https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR), [Chiara Tricarico](https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi) | [In The Eyes Of The Enemy](https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy) | 3:56 |
+| 96 | [Target Acquired](https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Target Acquired \(feat\. Megan McDuffee\)](https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt) | 4:48 |
+| 97 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
+| 98 | [Awakening](https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Awakening](https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas) | 3:36 |
+| 99 | [Warning Sign](https://open.spotify.com/track/5VnkSM5gqh2wfkoqb0H3wZ) | [Dark Sarah](https://open.spotify.com/artist/6TvwiAPxsB2Zj2o8bNlogk) | [Warning Sign](https://open.spotify.com/album/2XiflLd5EaQLlTTTDElXwH) | 4:19 |
 | 100 | [Sapphire](https://open.spotify.com/track/3kmcAMRPenmsQQscDK1sLO) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Sapphire](https://open.spotify.com/album/7j1sJdgfPIcW8Rx2RfllUH) | 3:54 |
 
-Snapshot ID: `AAAAAM8cq3vLizSBeSPAzV4hB1slz+fw`
+Snapshot ID: `AAAAAIznlL/wm4eKSYONk36MMheg37IV`

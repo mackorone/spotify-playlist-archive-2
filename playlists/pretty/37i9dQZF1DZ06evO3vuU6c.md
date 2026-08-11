@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,434,727 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,755 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 42 | [Gimme Love Orchestra](https://open.spotify.com/track/3e3zugz8yZ7Y48RyLWyKWd) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MOVIE](https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR) | 2:59 |
 | 43 | [Alive](https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 4:23 |
 | 44 | [Je te pardonne \(feat\. Sia\) \- Pilule bleue](https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:33 |
-| 45 | [Floating Through Space](https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:57 |
-| 46 | [You're Never Fully Dressed Without a Smile \(2014 Film Version\)](https://open.spotify.com/track/0IjQeHaDwRljTnROP955YG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You're Never Fully Dressed Without a Smile \(2014 Film Version\)](https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG) | 3:10 |
+| 45 | [You're Never Fully Dressed Without a Smile \(2014 Film Version\)](https://open.spotify.com/track/0IjQeHaDwRljTnROP955YG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You're Never Fully Dressed Without a Smile \(2014 Film Version\)](https://open.spotify.com/album/3S9fcmRyIt5K4jwh7wXmKG) | 3:10 |
+| 46 | [Floating Through Space](https://open.spotify.com/track/0XwSUpdrF7nR7hVxbDs7mb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:57 |
 | 47 | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/track/3SQ4TlJjloLCfiCvVYYN0J) | [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [You Can Do Anything \(MTG DA SIA\) \(with Jason Derulo\)](https://open.spotify.com/album/3gZ64K8yS6ZqYToAEvqFFt) | 2:01 |
 | 48 | [Bang My Head \(feat\. Sia & Fetty Wap\)](https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:13 |
 | 49 | [No New Friends \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 2:55 |
 | 50 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 |
 
-Snapshot ID: `anZxgAAAAAC1zgb0++1/Pvhgn7PNo0o7`
+Snapshot ID: `anfDAAAAAAA0ErdhtnojffN2Ttb9/Afs`

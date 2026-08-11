@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,565 likes - 100 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,582 likes - 100 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Acid Roulette](https://open.spotify.com/track/65TTWkvvYTpvseubg1pmRa) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei) | 5:49 |
 | 100 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
 
-Snapshot ID: `AAAAALVscUQO7u2GIjD+3aYTzeDQ+slI`
+Snapshot ID: `AAAAADoQQbMN2XeoZGRWXnjrymPSScjG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,361,587 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,361,829 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 31 | [Who Shot Ya? \- 2005 Remaster](https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:19 |
 | 32 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
 | 33 | [Full Clip](https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Full Clip: A Decade Of Gang Starr](https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh) | 3:37 |
-| 34 | [I Get Around](https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:19 |
-| 35 | [Hard Knock Life \(Ghetto Anthem\)](https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 3:58 |
+| 34 | [Hard Knock Life \(Ghetto Anthem\)](https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Vol.2..\. Hard Knock Life](https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb) | 3:58 |
+| 35 | [I Get Around](https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:19 |
 | 36 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
 | 37 | [Twinz \(Deep Cover 98\) \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
 | 38 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
 | 100 | [C'Mon wit da Git Down](https://open.spotify.com/track/3MnwLa9KRUiv2gNFtWPvib) | [Artifacts](https://open.spotify.com/artist/4hz8ohK9ESaFbJBAXvWJGL) | [Between A Rock And A Hard Place](https://open.spotify.com/album/0x4ZQDTaX3vyqP8ZCd4BcE) | 4:04 |
 
-Snapshot ID: `AAAAAGt3WhKo1T7cdFXC+eb/mq7TnPzx`
+Snapshot ID: `AAAAAOisPTjt3eLad4Td41D1eggha3dN`

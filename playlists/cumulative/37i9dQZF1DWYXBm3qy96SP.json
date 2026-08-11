@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
+      "album": {
         "name": "777 (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
         "url": "https://open.spotify.com/album/4b432huYiZYsf9N5IYzglh"
       },
@@ -33720,7 +33738,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 182156,
       "name": "Sweet Hallelujah",
       "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"

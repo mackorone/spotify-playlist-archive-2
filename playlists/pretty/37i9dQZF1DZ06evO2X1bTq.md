@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,267,672 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267,723 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 24 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 |
 | 25 | [When Love Comes To Town](https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 4:14 |
 | 26 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 |
-| 27 | [Ordinary Love \- Extraordinary Mix](https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:47 |
-| 28 | [Take Me To The Clouds Above \- LMC Vs\. U2 / Radio Edit](https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Take Me To The Clouds Above \(LMC Vs\. U2 / Remixes\)](https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC) | 2:51 |
+| 27 | [Take Me To The Clouds Above \- LMC Vs\. U2 / Radio Edit](https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Take Me To The Clouds Above \(LMC Vs\. U2 / Remixes\)](https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC) | 2:51 |
+| 28 | [Ordinary Love \- Extraordinary Mix](https://open.spotify.com/track/5K8cyMKcnG4rx5ocW3u7OW) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:47 |
 | 29 | [Ultra Violet \(Light My Way\)](https://open.spotify.com/track/5WCtoomAl0y1mgVh1Yuj0a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 5:30 |
 | 30 | [In God's Country \- Remastered 2007](https://open.spotify.com/track/1jNWu1c5ilLHUHT0DhLOQB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 2:56 |
 | 31 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
 | 50 | [Resurrection Song](https://open.spotify.com/track/09QaPzjG6mCiiTrT9hlerp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 5:02 |
 
-Snapshot ID: `anZxgAAAAAC0zJdb3imAqy7Ziwq8W0l7`
+Snapshot ID: `anfDAAAAAAAmlw9HbIagFVqVTJ6TvrEB`

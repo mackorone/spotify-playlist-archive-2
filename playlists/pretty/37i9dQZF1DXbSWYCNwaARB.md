@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. \(Cover: ARTMS\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,956 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,960 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 49 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 50 | [METRONOME](https://open.spotify.com/track/0lcaaS20sIJaLeVsAyAiKf) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SET THE TEMPO](https://open.spotify.com/album/4s5mNvXC1yAcVUibN83EnB) | 2:59 |
 
-Snapshot ID: `AAAAAJ/PJlPhPCyZHyferpVkgIxzL49C`
+Snapshot ID: `AAAAAAPwwkgfH01splfunFU2nhUd69W1`

@@ -1,12 +1,12 @@
 {
   "description": "songs that make you feel like you're levitating",
-  "num_followers": 1574065,
+  "num_followers": 1574117,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANG4V8TeLsaPmHBTjjK7y2ctw7oz",
+  "snapshot_id": "AAAAAF7BX0gLgPWm6Xw/oPGxnXIU/BLg",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:36",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 169560,
       "name": "Breathe (In the Air)",
       "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "AT.LONG.LAST.A$AP",
-        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 238314,
-      "name": "L$D",
-      "url": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 181481,
       "name": "One Of Your Girls",
       "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 238314,
+      "name": "L$D",
+      "url": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 170892,
-      "name": "Steeeam",
-      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "Heaven or Las Vegas",
         "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Shelly",
+        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
+      },
+      "artists": [
+        {
+          "name": "Shelly",
+          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
+        }
+      ],
+      "duration_ms": 170892,
+      "name": "Steeeam",
+      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi"
     },
     {
-      "added_at": "2026-07-10 04:01:07",
-      "album": {
-        "name": "From Down Here",
-        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 241470,
-      "name": "From Down Here",
-      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
-    },
-    {
       "added_at": "2026-06-08 16:01:54",
       "album": {
         "name": "WASTELAND",
@@ -999,6 +983,22 @@
       "duration_ms": 169013,
       "name": "JACKIE BROWN",
       "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2026-07-10 04:01:07",
+      "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
     },
     {
-      "added_at": "2026-06-08 18:42:25",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/4uTvPEr01pjTbZgl7jcKBD"
-    },
-    {
       "added_at": "2026-06-08 16:01:54",
       "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
@@ -1071,6 +1055,22 @@
       "duration_ms": 319493,
       "name": "Hummingbird (Metro Boomin & James Blake)",
       "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
+    },
+    {
+      "added_at": "2026-06-08 18:42:25",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/4uTvPEr01pjTbZgl7jcKBD"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 197311,
-      "name": "Doesn't Just Happen",
-      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
-    },
-    {
-      "added_at": "2026-06-08 16:01:54",
-      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 118153,
       "name": "PIMMIE'S DILEMMA",
       "url": "https://open.spotify.com/track/3CY3zAjrxKVInh2Lq1QiRb"
+    },
+    {
+      "added_at": "2026-06-08 16:01:54",
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 197311,
+      "name": "Doesn't Just Happen",
+      "url": "https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe"
     },
     {
       "added_at": "2026-06-08 16:01:54",
@@ -1685,20 +1685,20 @@
       "url": "https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn"
     },
     {
-      "added_at": "2026-07-15 02:06:32",
+      "added_at": "2026-06-08 16:01:54",
       "album": {
-        "name": "borderline",
-        "url": "https://open.spotify.com/album/4RuzjsaUT6UbmPRITLM54U"
+        "name": "No Audience",
+        "url": "https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t"
       },
       "artists": [
         {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 264573,
-      "name": "borderline",
-      "url": "https://open.spotify.com/track/55sxV91ONwaNz31R3HESnV"
+      "duration_ms": 173334,
+      "name": "No Audience",
+      "url": "https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp"
     }
   ],
   "unique_name": "Levitate",

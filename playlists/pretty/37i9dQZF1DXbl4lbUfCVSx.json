@@ -1,12 +1,12 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 37476,
+  "num_followers": 37479,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACIzka0ZTxxaWdNhr/HDfDnKBu79",
+  "snapshot_id": "AAAAAJK+IoM0P1/kAKnQSSkpx1UFJ1Oa",
   "tracks": [
     {
       "added_at": "2026-05-14 04:00:06",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-05-14 04:00:06",
       "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
+      },
+      "artists": [
+        {
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+        }
+      ],
+      "duration_ms": 307493,
+      "name": "Ma Cherie Je T'aime",
+      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
+    },
+    {
+      "added_at": "2026-05-14 04:00:06",
+      "album": {
         "name": "JIJE'M",
         "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
       },
@@ -603,18 +619,22 @@
     {
       "added_at": "2026-05-14 04:00:06",
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/2GmGtLgBeAS5JDfaJhlNkG"
+        "name": "Time To Shine",
+        "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
       },
       "artists": [
         {
-          "name": "T-Vice",
-          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
+          "name": "Kenny Haiti",
+          "url": "https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM"
+        },
+        {
+          "name": "Mickael Guirand",
+          "url": "https://open.spotify.com/artist/43vOXEBUxefgXGncnaeYUn"
         }
       ],
-      "duration_ms": 307493,
-      "name": "Ma Cherie Je T'aime",
-      "url": "https://open.spotify.com/track/6bqLE3Gwym6sw6s3iILtSk"
+      "duration_ms": 285346,
+      "name": "Bif",
+      "url": "https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d"
     },
     {
       "added_at": "2026-05-14 04:00:06",
@@ -647,26 +667,6 @@
       "duration_ms": 293035,
       "name": "Wet the hell map vini - Zouk",
       "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
-    },
-    {
-      "added_at": "2026-05-14 04:00:06",
-      "album": {
-        "name": "Time To Shine",
-        "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
-      },
-      "artists": [
-        {
-          "name": "Kenny Haiti",
-          "url": "https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM"
-        },
-        {
-          "name": "Mickael Guirand",
-          "url": "https://open.spotify.com/artist/43vOXEBUxefgXGncnaeYUn"
-        }
-      ],
-      "duration_ms": 285346,
-      "name": "Bif",
-      "url": "https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d"
     },
     {
       "added_at": "2026-05-14 04:00:06",

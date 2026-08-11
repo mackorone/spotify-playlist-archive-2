@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,318 likes - 53 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,376 likes - 53 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 52 | [River of Dreams](https://open.spotify.com/track/303q7nGbVGdxUvbhbEfHzS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 3:03 |
 | 53 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 |
 
-Snapshot ID: `AAAAAPbF2UtYy/CGiLXAyS94vKDg1iXj`
+Snapshot ID: `AAAAAHgW9fz1zm/Ra24QoBAF8Xl8wbCb`

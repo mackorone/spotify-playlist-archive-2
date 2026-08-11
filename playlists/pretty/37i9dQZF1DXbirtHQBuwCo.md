@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: Big Naughty\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,798 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,706 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 66 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 |
 | 67 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
 | 68 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 |
-| 69 | [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 |
+| 69 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 |
 | 70 | [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 |
-| 71 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 |
+| 71 | [Chi\-Ka](https://open.spotify.com/track/3aUySszCHEifnEOqm0nCKr) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [Chi\-Ka](https://open.spotify.com/album/6r2U2zmsO98xn2s7MGt4Pb) | 3:23 |
 | 72 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 73 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
 | 74 | [Layback](https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [TR.EE](https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA) | 3:11 |
 | 75 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
 
-Snapshot ID: `AAAAALTyYMvAUGohCfst08lVcWEuiX6i`
+Snapshot ID: `AAAAANHmoGI1K/YdIiDa0XjTALOZBeSh`

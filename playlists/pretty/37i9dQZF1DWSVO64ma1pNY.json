@@ -1,12 +1,12 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 303870,
+  "num_followers": 303867,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPHedEgIeHx1Lj97FC68n4S6yxP",
+  "snapshot_id": "AAAAAFb6gyx7AasSHx33pxXG4e1zEC9p",
   "tracks": [
     {
       "added_at": "2024-12-03 09:27:47",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Appeal To Reason",
-        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Re-Education (Through Labor)",
-      "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 216000,
       "name": "Jamie All Over",
       "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 222453,
+      "name": "Re-Education (Through Labor)",
+      "url": "https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Contraband",
-        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
-      },
-      "artists": [
-        {
-          "name": "Velvet Revolver",
-          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Slither",
-      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Contraband",
+        "url": "https://open.spotify.com/album/64GnrmrpL1fvfF0r1AoZLB"
+      },
+      "artists": [
+        {
+          "name": "Velvet Revolver",
+          "url": "https://open.spotify.com/artist/7CHilrn81OdYjkh4uSVnYM"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/7kF1iPJTj3VFJX9XokQ80F"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "The Strange Case of...",
         "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 191333,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "AB III",
-        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 253720,
-      "name": "Isolation",
-      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 185131,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "AB III",
+        "url": "https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
       },
       "artists": [
         {
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 283469,
-      "name": "But Here We Are",
-      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+      "duration_ms": 261511,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
       "artists": [
         {
@@ -1108,25 +1108,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 261511,
-      "name": "Love Dies Young",
-      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "S!CK",
-        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 192734,
-      "name": "S!CK",
-      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
+      "duration_ms": 283469,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1143,6 +1127,22 @@
       "duration_ms": 140027,
       "name": "Never Fucked Up Once",
       "url": "https://open.spotify.com/track/1PaGbgK8KEwtaukD0YzGsi"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "S!CK",
+        "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 192734,
+      "name": "S!CK",
+      "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Sitting Confused",
-        "url": "https://open.spotify.com/album/3TmTuVp63IEJ8hNBiaAm8e"
-      },
-      "artists": [
-        {
-          "name": "Flowers For Emily",
-          "url": "https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Sitting Confused",
-      "url": "https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Emotion Sickness",
         "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Sitting Confused",
+        "url": "https://open.spotify.com/album/3TmTuVp63IEJ8hNBiaAm8e"
+      },
+      "artists": [
+        {
+          "name": "Flowers For Emily",
+          "url": "https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Sitting Confused",
+      "url": "https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG"
     },
     {
       "added_at": "2024-12-03 09:27:47",

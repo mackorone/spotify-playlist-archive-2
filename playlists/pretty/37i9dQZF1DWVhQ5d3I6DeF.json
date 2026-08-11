@@ -1,12 +1,12 @@
 {
   "description": "Upbeat pop bangers to keep you going",
-  "num_followers": 633653,
+  "num_followers": 633752,
   "original_name": "Fast Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIUyRi2A/kys+n3D0TEaby3vLunv",
+  "snapshot_id": "AAAAAD5E1QyolxnhRK+YUJc5N7DgUao5",
   "tracks": [
     {
       "added_at": "2026-06-18 23:00:54",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-06-18 23:00:54",
       "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2026-06-18 23:00:54",
+      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-06-18 23:00:54",
-      "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2026-06-18 23:00:54",

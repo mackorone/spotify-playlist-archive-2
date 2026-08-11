@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-359 songs - 20 hr 34 min
+360 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Boys & Guitars](https://open.spotify.com/track/6LSHzrVhxFtkPfiS6HMPiK) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Boys & Guitars](https://open.spotify.com/album/7z3zXiBIHkhGuEqvAi84vf) | 3:55 | 2024-09-19 | 2024-12-10 |
 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 | 2025-07-17 |  |
 | [Broken Glass](https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Broken Glass](https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG) | 3:16 | 2025-08-14 | 2026-08-02 |
-| [Brown Sugar](https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Brown Sugar](https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe) | 3:09 | 2026-05-25 |  |
+| [Brown Sugar](https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Brown Sugar](https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe) | 3:09 | 2026-05-25 | 2026-08-11 |
 | [BYOD](https://open.spotify.com/track/3psmzK5er4ieYNeJ7DUiyo) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [BYOD](https://open.spotify.com/album/7K0PrHSmkeep8lxTWt2Zet) | 3:21 | 2025-05-01 | 2025-05-09 |
 | [California](https://open.spotify.com/track/49SB6SrYqi7mswTaLQL2HO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 2:58 | 2024-05-20 | 2024-11-08 |
 | [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 | 2026-06-11 |  |
@@ -237,6 +237,7 @@
 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 | 2025-01-09 | 2025-04-06 |
 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 | 2024-09-12 | 2024-12-13 |
 | [Night Like This](https://open.spotify.com/track/6qaRzZs9xEN9BpJ9qxmaKh) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Night Like This](https://open.spotify.com/album/4wI3VU8L0pgcKBFi3Xa0E3) | 2:59 | 2024-05-20 | 2024-11-08 |
+| [No Excuses](https://open.spotify.com/track/0PuxAQgCYmfLBabuVR7OlY) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [No Excuses](https://open.spotify.com/album/7gCGb9oTHGniVU8yjXOtnf) | 3:31 | 2026-08-06 |  |
 | [No God](https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [No God](https://open.spotify.com/album/3U3C86jnUyvNbqbML8o2uC) | 2:44 | 2024-10-18 | 2024-11-08 |
 | [No Joy](https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [No Joy](https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7) | 3:17 | 2025-06-26 | 2025-10-19 |
 | [Not This Time](https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Not This Time](https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe) | 3:21 | 2024-09-12 | 2024-11-08 |

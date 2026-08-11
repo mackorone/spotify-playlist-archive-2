@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83209,
+  "num_followers": 83206,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGk0c1JVeXxOk1iKQTGnmMVw2h+q",
+  "snapshot_id": "AAAAABMJoNaM5MBi2dLmXQuXVRDSKMeB",
   "tracks": [
     {
       "added_at": "2024-07-08 19:10:57",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Ah Vai Ter Que Descer - Remix",
+        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
+      },
+      "artists": [
+        {
+          "name": "LC DE VV",
+          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
+        }
+      ],
+      "duration_ms": 102511,
+      "name": "Ah Vai Ter Que Descer - Remix",
+      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Sou Eu (Speed)",
         "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 125270,
       "name": "Sou Eu - Speed",
       "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Ah Vai Ter Que Descer - Remix",
-        "url": "https://open.spotify.com/album/7hb5M57k7UhjH4ReSryqWv"
-      },
-      "artists": [
-        {
-          "name": "LC DE VV",
-          "url": "https://open.spotify.com/artist/2N11bSwFZ641NOPMMBdm5p"
-        }
-      ],
-      "duration_ms": 102511,
-      "name": "Ah Vai Ter Que Descer - Remix",
-      "url": "https://open.spotify.com/track/3Ghgj25OQNnBFPj1lkPBCf"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Pe\u00e7a",
-        "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
-      },
-      "artists": [
-        {
-          "name": "soiff",
-          "url": "https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk"
-        },
-        {
-          "name": "uhENZX",
-          "url": "https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz"
-        }
-      ],
-      "duration_ms": 135418,
-      "name": "Pe\u00e7a - Speed",
-      "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Tipo Naldo",
         "url": "https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 138754,
       "name": "Tipo Naldo - Speed Up",
       "url": "https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Pe\u00e7a",
+        "url": "https://open.spotify.com/album/7E3g8qsgfOfCeLkipm0PSt"
+      },
+      "artists": [
+        {
+          "name": "soiff",
+          "url": "https://open.spotify.com/artist/1WDWki77tJepD82NpS4xIk"
+        },
+        {
+          "name": "uhENZX",
+          "url": "https://open.spotify.com/artist/52fAfxMuT0da9zgXHlixmz"
+        }
+      ],
+      "duration_ms": 135418,
+      "name": "Pe\u00e7a - Speed",
+      "url": "https://open.spotify.com/track/5IpBsqWPLu7PEeT2nwc8gV"
     },
     {
       "added_at": "2024-07-08 19:10:57",

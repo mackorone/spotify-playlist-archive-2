@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 106595,
+  "num_followers": 106617,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACWn2xTpn29e0UwQYCfHhiz",
+  "snapshot_id": "anfDAAAAAADydCpGcwsu5wbn2DaDngnX",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 200682,
-      "name": "Seguimos M\u00e1s Fuertes",
-      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEGENDARIO",
         "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 165500,
       "name": "MOTA CHERRY",
       "url": "https://open.spotify.com/track/68jkcpiDPPd5zdmE5VLlfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "Seguimos M\u00e1s Fuertes",
+      "url": "https://open.spotify.com/track/6NxRSjUHkxYsSRpZP6lWMf"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 130250,
+      "name": "RANCHO MC",
+      "url": "https://open.spotify.com/track/1zK8d2a9L8pBQ8dgvarae1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -615,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo con Tololoche Vol. 1",
+        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 174739,
+      "name": "Pancho Conos",
+      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEGENDARIO",
         "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
       },
@@ -624,9 +656,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 130250,
-      "name": "RANCHO MC",
-      "url": "https://open.spotify.com/track/1zK8d2a9L8pBQ8dgvarae1"
+      "duration_ms": 210750,
+      "name": "PERSONAL",
+      "url": "https://open.spotify.com/track/3UCeBT8e9J8tPombqlPVR6"
     },
     {
       "added_at": null,
@@ -651,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo con Tololoche Vol. 1",
-        "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 174739,
-      "name": "Pancho Conos",
-      "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Michoacan",
         "url": "https://open.spotify.com/album/6JNBghccdWUKfOdfVXDS5A"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 162375,
       "name": "Soy de Michoacan",
       "url": "https://open.spotify.com/track/5ZwLG5AaxZuRLoIBZE5KR4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "PERSONAL",
-      "url": "https://open.spotify.com/track/3UCeBT8e9J8tPombqlPVR6"
     },
     {
       "added_at": null,

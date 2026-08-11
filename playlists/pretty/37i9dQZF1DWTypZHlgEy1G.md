@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,747 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,737 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 6 | [Non, je ne regrette rien](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 2:22 |
 | 7 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 |
 | 8 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
-| 9 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
-| 10 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 |
+| 9 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 |
+| 10 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 11 | [La vie en rose](https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 3:06 |
 | 12 | [La mauvaise réputation](https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens chante les chansons poétiques \(et souvent gaillardes\) N°1](https://open.spotify.com/album/4qZ1goadMIs9rX2RrF2F8X) | 2:12 |
 | 13 | [L'aigle noir](https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [L'Aigle Noir](https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe) | 4:57 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 27 | [Qui saura](https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20 Chansons D'or](https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h) | 3:20 |
 | 28 | [Les Aristochats](https://open.spotify.com/track/2SDU9Ls1XkvkbmlUgzyx2x) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [The Aristocats Original Soundtrack](https://open.spotify.com/album/4xP8YdX6dIi649dxAH2PXO) | 2:20 |
 | 29 | [Armstrong](https://open.spotify.com/track/2tBJhIMLX1bDjlaE8sSb4Y) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Best Of](https://open.spotify.com/album/0ghJEu8n6iOLO5dzHxOBN5) | 3:19 |
-| 30 | [Paris](https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:42 |
-| 31 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 2:55 |
+| 30 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Forever Dalida](https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa) | 2:55 |
+| 31 | [Paris](https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:42 |
 | 32 | [La java bleue](https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq) | [Fréhel](https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho) | [Fréhel \[Collection disques Pathé\]](https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI) | 2:45 |
 | 33 | [Paris sera toujours Paris](https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Fleur De Paris](https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc) | 3:14 |
 | 34 | [Je suis malade](https://open.spotify.com/track/4jmrFoFwAMeDqoDSWyI1C7) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 4:09 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 84 | [Chez Laurette](https://open.spotify.com/track/4vLqJ8khGI4VpdINhXrxi9) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Les 50 plus belles chansons](https://open.spotify.com/album/1RjaSfFBL6CkpHO7XW9A7D) | 3:30 |
 | 85 | [Que C'est Triste Venise](https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:36 |
 
-Snapshot ID: `AAAAAFfWpP5Qo0wq5XMcN1Zso9VEKNNN`
+Snapshot ID: `AAAAAJzg4SoCBalNuGUxWPsiBFFWY6xf`

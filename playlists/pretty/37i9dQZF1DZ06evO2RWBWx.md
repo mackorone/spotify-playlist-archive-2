@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 > This is imase\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,729 likes - 47 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,738 likes - 47 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 46 | [Greedy Greedy \- feat.imase](https://open.spotify.com/track/6I3iulO4fB0hbsWV62CeK9) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Greedy Greedy \(feat.imase\)](https://open.spotify.com/album/6rxL4plJ3rWifn4MwpmBR1) | 3:10 |
 | 47 | [いい湯だな 2025 \- imase × mabanua MIX](https://open.spotify.com/track/5kHa1Ag8bUjrdE6siBrW4N) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [いい湯だな 2025 \(imase × mabanua MIX\)](https://open.spotify.com/album/2O5ETs89V5gXynbnNXMd2z) | 3:54 |
 
-Snapshot ID: `anZxgAAAAABMWBt5JI0D/y8W1IYisdRG`
+Snapshot ID: `anfDAAAAAABa3M/y9NjQhLxg1Q9J4Xv7`

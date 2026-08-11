@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 394880,
+  "num_followers": 394840,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPy0EP+htCWymnbsEcAr5nNp1ryg",
+  "snapshot_id": "AAAAAOUCfVTJycHv1rftdPy9VRVOHLqm",
   "tracks": [
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "Bossa Covers",
-        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
-      },
-      "artists": [
-        {
-          "name": "Nara",
-          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
-        },
-        {
-          "name": "Bossa Bros",
-          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
-        }
-      ],
-      "duration_ms": 250575,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 248013,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
+        "name": "Bossa Covers",
+        "url": "https://open.spotify.com/album/4PqKilSesJz6BjuccmQNye"
+      },
+      "artists": [
+        {
+          "name": "Nara",
+          "url": "https://open.spotify.com/artist/17bmLZfybbQpZtJCxmcL81"
+        },
+        {
+          "name": "Bossa Bros",
+          "url": "https://open.spotify.com/artist/5jd0MgoI9F3hxcQHBPEk6V"
+        }
+      ],
+      "duration_ms": 250575,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/4zGap9GhyeMN1QleAmvR1F"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1593,7 +1593,7 @@
       "artists": [
         {
           "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/5kzBZ1hAd7xSzNUbGxACee"
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
         }
       ],
       "duration_ms": 301600,

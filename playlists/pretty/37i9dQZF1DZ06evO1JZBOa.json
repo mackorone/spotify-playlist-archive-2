@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 10202,
+  "num_followers": 10203,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAC8qTN6LfxbT/ZYIQZHD6qw",
+  "snapshot_id": "anfDAAAAAADwmvPVKgFlSBIrJ/glJZZS",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quinta",
-        "url": "https://open.spotify.com/album/32S67vRw57J7ogWOXrbsEt"
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
       },
       "artists": [
-        {
-          "name": "Mariana Ramos",
-          "url": "https://open.spotify.com/artist/0ATMSWY1RjRk97SZGXme0Z"
-        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 236355,
-      "name": "Fidjo Femea",
-      "url": "https://open.spotify.com/track/1rAiQdbWr2TQYZpzxihLgy"
+      "duration_ms": 153097,
+      "name": "Groovy Flute",
+      "url": "https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw"
     },
     {
       "added_at": null,
@@ -167,18 +163,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+        "name": "Quinta",
+        "url": "https://open.spotify.com/album/32S67vRw57J7ogWOXrbsEt"
       },
       "artists": [
+        {
+          "name": "Mariana Ramos",
+          "url": "https://open.spotify.com/artist/0ATMSWY1RjRk97SZGXme0Z"
+        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 153097,
-      "name": "Groovy Flute",
-      "url": "https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw"
+      "duration_ms": 236355,
+      "name": "Fidjo Femea",
+      "url": "https://open.spotify.com/track/1rAiQdbWr2TQYZpzxihLgy"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World Psychedelic Classics: Love's A Real Thing",
+        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 309800,
+      "name": "Ceddo End Title",
+      "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marabout",
         "url": "https://open.spotify.com/album/1iSYAl8J4OCu4ca3LrPjG3"
       },
@@ -563,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Immortel - The 60's Rumba Revolution in Congo",
-        "url": "https://open.spotify.com/album/12nK0B6YzXEb1LvBbpOJba"
-      },
-      "artists": [
-        {
-          "name": "Franklin Boukaka",
-          "url": "https://open.spotify.com/artist/2XeTb1Zh39rA70DxAq9qxC"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "Le Bucheron",
-      "url": "https://open.spotify.com/track/145fFjQbOk4F9hlf0ZUOgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M Boa Su",
         "url": "https://open.spotify.com/album/1lo2A0uheGNXIf0WXGRTMP"
       },
@@ -595,6 +591,22 @@
       "duration_ms": 264226,
       "name": "Aye Africa",
       "url": "https://open.spotify.com/track/3BK6pxhrHxtppr367i3Sxr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home Made",
+        "url": "https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 502693,
+      "name": "Tropical Garden",
+      "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
     },
     {
       "added_at": null,
@@ -639,24 +651,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Psychedelic Classics: Love's A Real Thing",
-        "url": "https://open.spotify.com/album/2v9cqVqtCqgdQ1Q2YZTDbR"
+        "name": "L'Immortel - The 60's Rumba Revolution in Congo",
+        "url": "https://open.spotify.com/album/12nK0B6YzXEb1LvBbpOJba"
       },
       "artists": [
+        {
+          "name": "Franklin Boukaka",
+          "url": "https://open.spotify.com/artist/2XeTb1Zh39rA70DxAq9qxC"
+        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 309800,
-      "name": "Ceddo End Title",
-      "url": "https://open.spotify.com/track/5P65x0PDpXSM3pC8V9EqsP"
+      "duration_ms": 211053,
+      "name": "Le Bucheron",
+      "url": "https://open.spotify.com/track/145fFjQbOk4F9hlf0ZUOgs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Home Made",
-        "url": "https://open.spotify.com/album/5L3ihXiPtFHrLZhlG0KIa6"
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 502693,
-      "name": "Tropical Garden",
-      "url": "https://open.spotify.com/track/1WdixZ4J8I8hlgCIEqZkdc"
+      "duration_ms": 136360,
+      "name": "Africadelic",
+      "url": "https://open.spotify.com/track/3oViSE4pEzB9UT6Lo5XJyF"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 426000,
       "name": "Waka Juju",
       "url": "https://open.spotify.com/track/6BUSGAPVXxkfIXcrQuZFDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africadelic",
-        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 136360,
-      "name": "Africadelic",
-      "url": "https://open.spotify.com/track/3oViSE4pEzB9UT6Lo5XJyF"
     },
     {
       "added_at": null,
@@ -847,6 +847,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wolves of Africa Part (1/2)",
+        "url": "https://open.spotify.com/album/0S7d8pQYnM3UL5NS5d9vKY"
+      },
+      "artists": [
+        {
+          "name": "James BKS",
+          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
+        },
+        {
+          "name": "Allan Kingdom",
+          "url": "https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 201472,
+      "name": "Kwele",
+      "url": "https://open.spotify.com/track/4PYyBVUmrP9Rs7i0ire14N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 188025,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/3h5mkWhcVV9jVv7XxFfTlE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolves of Africa Part (1/2)",
-        "url": "https://open.spotify.com/album/0S7d8pQYnM3UL5NS5d9vKY"
-      },
-      "artists": [
-        {
-          "name": "James BKS",
-          "url": "https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV"
-        },
-        {
-          "name": "Allan Kingdom",
-          "url": "https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 201472,
-      "name": "Kwele",
-      "url": "https://open.spotify.com/track/4PYyBVUmrP9Rs7i0ire14N"
     }
   ],
   "unique_name": "This Is Manu Dibango",

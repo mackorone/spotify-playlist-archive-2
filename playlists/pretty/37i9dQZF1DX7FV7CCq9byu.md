@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,523 likes - 122 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,521 likes - 122 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gravity](https://open.spotify.com/track/27NCPgfAJ3i4epMbWcMfd1) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Gravity](https://open.spotify.com/album/4KaqbSuXThiupKsPGA097L) | 3:13 |
-| 2 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
-| 3 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 |
-| 4 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 |
-| 5 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
-| 6 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
+| 1 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
+| 2 | [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 |
+| 3 | [Gravity](https://open.spotify.com/track/27NCPgfAJ3i4epMbWcMfd1) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Gravity](https://open.spotify.com/album/4KaqbSuXThiupKsPGA097L) | 3:13 |
+| 4 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
+| 5 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
+| 6 | [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 |
 | 7 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
-| 8 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 |
-| 9 | [Sommarflamma](https://open.spotify.com/track/4Yy2IG4c2R5SpmqmZWmXNM) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Sommarflamma](https://open.spotify.com/album/7cBwO2EKohCzADXdUBn9lI) | 2:47 |
+| 8 | [Sommarflamma](https://open.spotify.com/track/4Yy2IG4c2R5SpmqmZWmXNM) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Sommarflamma](https://open.spotify.com/album/7cBwO2EKohCzADXdUBn9lI) | 2:47 |
+| 9 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
 | 10 | [One Life To Give](https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [One Life To Give](https://open.spotify.com/album/1DnpAElpk83B3mKAoiZSmE) | 2:45 |
-| 11 | [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 |
-| 12 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
+| 11 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
+| 12 | [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 |
 | 13 | [Remedy](https://open.spotify.com/track/7sZ1YpqIgxRKIbSQkOAINO) | [The Square](https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C) | [Remedy](https://open.spotify.com/album/6VMwEvzB5o0YntMMm5P8HR) | 2:12 |
 | 14 | [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 |
 | 15 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 121 | [C'est La Vie](https://open.spotify.com/track/6PH8uO0RpimMOU5pMmgi7D) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/7aQhFdYGBss6RCYMa7fwyp) | 3:30 |
 | 122 | [Animal](https://open.spotify.com/track/04hCF2m0TsrSL0OwgYJHHx) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Animal](https://open.spotify.com/album/2rU0hPF2YxpLbCx0dcgHlz) | 3:34 |
 
-Snapshot ID: `AAAAAA93/PFnC3KLlJji55qTXWNE/c5q`
+Snapshot ID: `AAAAAAYGr4Y3lB3ac01fpC9o+6waL29x`

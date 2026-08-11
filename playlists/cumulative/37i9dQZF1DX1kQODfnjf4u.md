@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: ADÉLA
+> 50 nejžhavějších hitů v České republice\. Cover: Sara Rikas
 
-252 songs - 12 hr 18 min
+253 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Ice Baby Melt](https://open.spotify.com/track/2uXWBou22TwQ2O40B5dTm5) | [Loudz1](https://open.spotify.com/artist/2tYKs5FOsdGeRqjBkIDCiX), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TOO LOUD](https://open.spotify.com/album/1QVYseairX2FD9USXcU0go) | 2:56 | 2025-02-10 | 2025-04-01 |
 | [Iné Plemená](https://open.spotify.com/track/0Bb5TRJzYDMOswry6GKDSr) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Iné Plemená](https://open.spotify.com/album/4Qbvqfwp9frD49exTkomCV) | 3:08 | 2024-12-16 | 2026-03-03 |
 | [Jak Robot](https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [BOYBAND](https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB) | 2:26 | 2026-01-13 | 2026-05-26 |
+| [Jan Koller](https://open.spotify.com/track/7bAHmn4F4qOjXk53gWJx7m) | [Mc Kenny](https://open.spotify.com/artist/4080d3GW1xemdMcw9cEju0) | [CITYBOYZ NEVER LOSE](https://open.spotify.com/album/1hws0UmqK6YWhCCk7UWKOu) | 3:07 | 2026-08-10 |  |
 | [Jazda](https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [SWAG SIDE STORY](https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt) | 2:35 | 2024-10-28 | 2024-12-17 |
 | [Jenom ať nesním.\. \(feat\. Calin\)](https://open.spotify.com/track/1xqRQAe2Gic8HJgg6uGKO2) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [blue.](https://open.spotify.com/album/21WNqI8VHCWS5vA8cJg7YU) | 2:32 | 2025-03-31 | 2025-09-11 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-07 | 2026-04-21 |
@@ -250,7 +251,7 @@
 | [VÍŠ JAK BOLÍ ŘÍKAT RIP](https://open.spotify.com/track/5jIAUi4NrvDDqA9Ma32Ej2) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [KARAKORAM](https://open.spotify.com/album/165gdnouYKd779Par0BJE3) | 2:20 | 2025-10-13 | 2025-11-18 |
 | [WAGWAN](https://open.spotify.com/track/3uuVaRYdplEzu9akDjXPSX) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C) | [WAGWAN](https://open.spotify.com/album/5bMBiptclUjKLfEDRyBIna) | 1:42 | 2025-09-22 | 2026-06-16 |
 | [Warriors](https://open.spotify.com/track/5lUf8yrXsncPi61f06Kzak) | [Smack One](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Warriors](https://open.spotify.com/album/4QBiQ6bef3G3T1adP5W9uD) | 3:34 | 2026-04-27 | 2026-05-05 |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-10-06 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-10-06 | 2026-08-11 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-29 | 2024-09-17 |
 | [Window Shopper](https://open.spotify.com/track/2x39J1ztiWV60Q7WeSHIpW) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [juli koli](https://open.spotify.com/artist/3F4MshW2XrEex8rNOrrU4w) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:00 | 2024-07-01 | 2025-09-11 |
 | [Woah](https://open.spotify.com/track/1HukU2OM3TeTPnZzWkLP5y) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Woah](https://open.spotify.com/album/6Hfyf9kjaXHqdgmIZdtn6L) | 1:30 | 2025-12-15 | 2026-08-06 |

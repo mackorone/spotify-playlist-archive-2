@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,862 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,872 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 64 | [Satisfaction Skank](https://open.spotify.com/track/75PWvCyXFTuXvwmntGMhuB) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank \(High Contrast Remix\)](https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb) | 3:19 |
 | 65 | [Finder \- Radio\-Edit](https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 3:26 |
 | 66 | [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 |
-| 67 | [Get Buck](https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Get Buck](https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl) | 2:30 |
-| 68 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
-| 69 | [Good Life](https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml) | 3:01 |
+| 67 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
+| 68 | [Good Life](https://open.spotify.com/track/5dtFOeNz6FEtZSPkm5f1Ed) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life](https://open.spotify.com/album/6SIJVH2p0eLprExmSDDCml) | 3:01 |
+| 69 | [Get Buck](https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Get Buck](https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl) | 2:30 |
 | 70 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 | 71 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
 | 72 | [Don’t Forget My Love](https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 79 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
 | 80 | [Face 2 Face](https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392) | [Face 2 Face](https://open.spotify.com/album/1Hb12RMgFSsYtdhw4bqc97) | 3:41 |
 
-Snapshot ID: `AAAAAC8N2s5lD+ZxfFGXl5eA6oNF1q8d`
+Snapshot ID: `AAAAAHe9cRpNdO8L+Rk5fSusQkR4DDHu`

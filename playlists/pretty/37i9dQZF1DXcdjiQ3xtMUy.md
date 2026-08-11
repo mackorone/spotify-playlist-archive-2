@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Danae
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,336 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,332 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Rebetiko](https://open.spotify.com/track/4oHhqNrZtxCPqlTnCsAE92) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Rebetiko](https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd) | 2:23 |
 | 50 | [Fotia Sti Nihta](https://open.spotify.com/track/6JsLcU3XFElXEhC7tPbeIl) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Fotia Sti Nihta](https://open.spotify.com/album/1lPjjBHjkvjugsBGIlO8hW) | 3:18 |
 
-Snapshot ID: `AAAAAFUWUGugwm2vLOdg9F/txI7+l7TQ`
+Snapshot ID: `AAAAAK3eA7Q245Opvpmtma6jQ1+DnaZU`

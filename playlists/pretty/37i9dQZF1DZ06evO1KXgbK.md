@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,911 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,917 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 29 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 |
 | 30 | [Love Is Like a Butterfly](https://open.spotify.com/track/7d4hiv8TcJ2vx9BjSxqvj8) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love Is Like a Butterfly](https://open.spotify.com/album/3MLoZC9rEBvyA2zLKBNYxT) | 2:23 |
 | 31 | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [God Only Knows \(with Dolly Parton\)](https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF) | 3:33 |
-| 32 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
-| 33 | [Butterfly \(feat\. Dolly Parton\)](https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love & Fear](https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3) | 4:04 |
-| 34 | [Words](https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Words](https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp) | 3:11 |
-| 35 | [Night Moves](https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:39 |
+| 32 | [Night Moves](https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 5:39 |
+| 33 | [Words](https://open.spotify.com/track/733sNPL4OMX4iN8DE6p2RH) | [Barry Gibb](https://open.spotify.com/artist/7Hd38PVp634oGEb9pIDs5d), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Words](https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp) | 3:11 |
+| 34 | [Butterfly \(feat\. Dolly Parton\)](https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Love & Fear](https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3) | 4:04 |
+| 35 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
 | 36 | [Baby I'm Burnin'](https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Heartbreaker](https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh) | 2:37 |
 | 37 | [Silver Threads and Golden Needles](https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:23 |
 | 38 | [Jolene \(feat\. Dolly Parton\)](https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [PTX Vol\. IV \- Classics](https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Applejack](https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 3:25 |
 | 50 | [Lovesick Blues \(with Patsy Cline\)](https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:18 |
 
-Snapshot ID: `anZxgAAAAABBENU6BuyvX4Gp44Lqarhl`
+Snapshot ID: `anfDAAAAAADlhc8BEhTWahXJSNRTkiiG`

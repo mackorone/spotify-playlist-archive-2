@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 160966,
+  "num_followers": 160999,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADt6ZkRWMMrdqAkH0PE6jIRABG0y",
+  "snapshot_id": "AAAAAHmdS2BSfAZygB7VhgZ1ZuEgVfTa",
   "tracks": [
     {
       "added_at": "2026-08-01 02:46:09",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Bailo Contigo",
         "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 183389,
       "name": "Bailo Contigo",
       "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Viene Alegr\u00eda",
-        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
-      },
-      "artists": [
-        {
-          "name": "Linaje Escogido",
-          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
-        }
-      ],
-      "duration_ms": 165611,
-      "name": "Viene Alegr\u00eda",
-      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Para Arriba",
         "url": "https://open.spotify.com/album/0AkVe6YgAwsXlFI8wwRgdM"
       },
@@ -723,22 +707,6 @@
       "duration_ms": 217090,
       "name": "Para Arriba",
       "url": "https://open.spotify.com/track/3YRRxySE58AkGlEErDS0GB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Corazon Cerrado",
-        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 194380,
-      "name": "Corazon Cerrado",
-      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -759,22 +727,34 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Ya Casi (EP)",
-        "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
+        "name": "Corazon Cerrado",
+        "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
       },
       "artists": [
         {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Perfecto Amor",
-      "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
+      "duration_ms": 194380,
+      "name": "Corazon Cerrado",
+      "url": "https://open.spotify.com/track/1tj83Rq985nZNdvTFhYL0N"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Viene Alegr\u00eda",
+        "url": "https://open.spotify.com/album/7fEMiyVusEo7lbKoh101ow"
+      },
+      "artists": [
+        {
+          "name": "Linaje Escogido",
+          "url": "https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0"
+        }
+      ],
+      "duration_ms": 165611,
+      "name": "Viene Alegr\u00eda",
+      "url": "https://open.spotify.com/track/3UOh60UqUq4HLlJ5WbNlwS"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -791,6 +771,26 @@
       "duration_ms": 162751,
       "name": "No se Compara",
       "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Ya Casi (EP)",
+        "url": "https://open.spotify.com/album/5D37Ew73jCOQzlLdMznYrb"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Perfecto Amor",
+      "url": "https://open.spotify.com/track/0jBbeVhkryAwD2APDFLF7v"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Morales",
-          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "LA CARRERA",
         "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 177605,
       "name": "LA CARRERA",
       "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Morales",
+          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Momento",
-        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "BUENO",
         "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 168214,
       "name": "BUENO",
       "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Celebra",
-        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
-      },
-      "artists": [
-        {
-          "name": "Sion Naci\u00f3n Santa",
-          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Celebra",
-      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "GRACIAS",
         "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 166310,
       "name": "GRACIAS",
       "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Celebra",
+        "url": "https://open.spotify.com/album/3CRB5EWMcLGpteMimvceRh"
+      },
+      "artists": [
+        {
+          "name": "Sion Naci\u00f3n Santa",
+          "url": "https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Celebra",
+      "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Hombre Nuevo",
+        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
+      },
+      "artists": [
+        {
+          "name": "Yore",
+          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Hombre Nuevo",
+      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Hombre Nuevo",
-        "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
-      },
-      "artists": [
-        {
-          "name": "Yore",
-          "url": "https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Hombre Nuevo",
-      "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+      },
+      "artists": [
+        {
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Vers\u00e1til, Vol. 2",
         "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
       },
@@ -1455,18 +1471,18 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
       },
       "artists": [
         {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
         }
       ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1483,22 +1499,6 @@
       "duration_ms": 160000,
       "name": "Por \u00c9l",
       "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Al Que Tenga O\u00eddos",
+        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 283425,
+      "name": "Al Que Tenga O\u00eddos",
+      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Volver\u00e1",
         "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 168000,
       "name": "Volver\u00e1",
       "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Al Que Tenga O\u00eddos",
-        "url": "https://open.spotify.com/album/495hr9d0zX8u9sQNpdrGKs"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 283425,
-      "name": "Al Que Tenga O\u00eddos",
-      "url": "https://open.spotify.com/track/6lvxBy3WOcvso7klc5Yr3F"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/1ffbgSXEQkbdW6ETywjnCJ"
-      },
-      "artists": [
-        {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        }
-      ],
-      "duration_ms": 177546,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/7xQQ13GBlcbxKuIDIpa05y"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Todo Te Lo Debo a T\u00ed",
         "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 169624,
       "name": "Todo Te Lo Debo a T\u00ed",
       "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/1ffbgSXEQkbdW6ETywjnCJ"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 177546,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/7xQQ13GBlcbxKuIDIpa05y"
     },
     {
       "added_at": "2026-08-01 02:46:09",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Pooh Shiesty, Hurricane Wisdom,  Nino Paid and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,555 likes - 54 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,607 likes - 54 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 53 | [Ludacris](https://open.spotify.com/track/0QKJqlUIkx6s2tTayLxK8G) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Lil Brasi](https://open.spotify.com/album/7uo2NvNSIeynIcnuLP7Vyg) | 2:05 |
 | 54 | [Yahtzee](https://open.spotify.com/track/1T2P6Vz8xIvHMLxyLIv8Xe) | [The Koreatown Oddity](https://open.spotify.com/artist/5p2gVFoALyOtm13Fv5TjgQ) | [Yahtzee](https://open.spotify.com/album/6fQzRSPgRvs2te2jj3WZPk) | 2:52 |
 
-Snapshot ID: `AAAAAAuI7JtUqzilnyTT8qJ8SApW0DW7`
+Snapshot ID: `AAAAAEoOQ5i9+xxRKhAIKWUfWTe7tXQ8`

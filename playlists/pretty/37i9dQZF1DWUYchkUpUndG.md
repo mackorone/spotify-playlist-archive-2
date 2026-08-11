@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Prinx Emmanuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,621 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,110 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/track/4o96oxKtDcOfUYY8nrGPun) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/album/5lzkLpPjHD7a8hFZdogPDr) | 15:55 |
 | 100 | [Lesson](https://open.spotify.com/track/7zB2Z50kZgykmKlEj3Gjtn) | [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Sekrade](https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG), [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz) | [Lesson](https://open.spotify.com/album/2eWjOh4EctkT2HvwrNbgn7) | 2:42 |
 
-Snapshot ID: `AAAAAKCWmvmbnMQLpj15YhtWy3mSuKTW`
+Snapshot ID: `AAAAAGIhFTI/7u8mGW5cusyorLL3dGIC`

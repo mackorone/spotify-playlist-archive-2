@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,155 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,209 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 41 | [Long Haired Country Boy](https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 4:00 |
 | 42 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
 | 43 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 |
-| 44 | [The Conversation](https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:52 |
-| 45 | [The Road Goes On Forever](https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa) | [The Road Goes On Forever](https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l) | 4:41 |
+| 44 | [The Road Goes On Forever](https://open.spotify.com/track/5QvUIQYaDBvssqnxrw1X49) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa) | [The Road Goes On Forever](https://open.spotify.com/album/0MsVHNUVzAoSbDuoK2y93l) | 4:41 |
+| 45 | [The Conversation](https://open.spotify.com/track/7GIBwtwVahJvvpot8g4Z4V) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [Whiskey Bent And Hell Bound](https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb) | 3:52 |
 | 46 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 |
 | 47 | [Between Jennings And Jones](https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:11 |
 | 48 | [Living on the Run](https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 2:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 70 | [Hard Out Here For A Country Boy](https://open.spotify.com/track/0Mt1EgjhezhBXd1WUmsWhn) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [COUNTRY FUZZ](https://open.spotify.com/album/3X1vz2Rj2Ld3KibvjaNVjV) | 3:28 |
 | 71 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 |
 | 72 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
-| 73 | [MATTER OF TIME](https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [HANDMADE HORSEPOWER](https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c) | 2:47 |
-| 74 | [Nothing On Me](https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS) | [Chris Knight](https://open.spotify.com/artist/2XJzOLYV2mF5K2JfUhJEK0) | [Little Victories](https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ) | 3:34 |
+| 73 | [Nothing On Me](https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS) | [Chris Knight](https://open.spotify.com/artist/2XJzOLYV2mF5K2JfUhJEK0) | [Little Victories](https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ) | 3:34 |
+| 74 | [MATTER OF TIME](https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [HANDMADE HORSEPOWER](https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c) | 2:47 |
 | 75 | [Jingle and Go](https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 3:52 |
 | 76 | [The Road Goes On Forever](https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Love And Danger](https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A) | 4:33 |
 | 77 | [I'm Just an Old Chunk of Coal \(But I'm Gonna Be a Diamond Someday\)](https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday](https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq) | 2:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 79 | [Why You Been Gone so Long](https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [A Country Star Is Born](https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae) | 3:08 |
 | 80 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 |
 
-Snapshot ID: `AAAAAMACOo4tlNGmQHpiUxvq8GRRHAUH`
+Snapshot ID: `AAAAAM9a/YXyNELDrd08j/k3MxZuobwe`

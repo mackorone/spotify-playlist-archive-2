@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 114212,
+  "num_followers": 114222,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABt2oPh6KqHV74I5bVTfE2x",
+  "snapshot_id": "anfDAAAAAAC+lArCVhGXRhvBxWdxSv2/",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        },
-        {
-          "name": "Hevenshe",
-          "url": "https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft"
-        }
-      ],
-      "duration_ms": 240631,
-      "name": "A Deathless Song",
-      "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -488,9 +468,45 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 196840,
-      "name": "Mutiny",
-      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
+      "duration_ms": 211106,
+      "name": "Gimme a D",
+      "url": "https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        },
+        {
+          "name": "Hevenshe",
+          "url": "https://open.spotify.com/artist/5DegVfL32IL9s3kokWEtft"
+        }
+      ],
+      "duration_ms": 240631,
+      "name": "A Deathless Song",
+      "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 155013,
+      "name": "Feed Them to the Pigs",
+      "url": "https://open.spotify.com/track/7eGhm9Bc3TKfaOQXC9fU1d"
     },
     {
       "added_at": null,
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
+        "name": "Killing with a Smile",
+        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 155013,
-      "name": "Feed Them to the Pigs",
-      "url": "https://open.spotify.com/track/7eGhm9Bc3TKfaOQXC9fU1d"
+      "duration_ms": 196840,
+      "name": "Mutiny",
+      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
     },
     {
       "added_at": null,
@@ -547,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing with a Smile",
-        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
       },
       "artists": [
         {
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211106,
-      "name": "Gimme a D",
-      "url": "https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D"
+      "duration_ms": 103146,
+      "name": "Moments in Oblivion",
+      "url": "https://open.spotify.com/track/2XqHqiETEwPa9XBPVHa300"
     },
     {
       "added_at": null,
@@ -579,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
+        "name": "Killing with a Smile",
+        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
       },
       "artists": [
         {
@@ -588,9 +604,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 103146,
-      "name": "Moments in Oblivion",
-      "url": "https://open.spotify.com/track/2XqHqiETEwPa9XBPVHa300"
+      "duration_ms": 163280,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5RJWDvwgWbaGxgsm4aZyPf"
     },
     {
       "added_at": null,
@@ -611,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing with a Smile",
-        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
       },
       "artists": [
         {
@@ -620,9 +636,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 163280,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/5RJWDvwgWbaGxgsm4aZyPf"
+      "duration_ms": 48560,
+      "name": "Begin",
+      "url": "https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME"
     },
     {
       "added_at": null,
@@ -643,38 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 48560,
-      "name": "Begin",
-      "url": "https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 139473,
-      "name": "Unrest",
-      "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire",
-        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 263962,
-      "name": "Writings on the Wall",
-      "url": "https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp"
+      "duration_ms": 139473,
+      "name": "Unrest",
+      "url": "https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+        "name": "Ire",
+        "url": "https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 201034,
-      "name": "Wreckage",
-      "url": "https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5"
+      "duration_ms": 263962,
+      "name": "Writings on the Wall",
+      "url": "https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 206374,
       "name": "Devil's Calling",
       "url": "https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 201034,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Mando en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,824 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,842 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 37 | [Chance](https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Chance](https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9) | 2:36 |
 | 38 | [Paisajes](https://open.spotify.com/track/11IRh2oN3EOPkoIVaWN1r9) | [CD9](https://open.spotify.com/artist/3mOd9j63D2DAPnOzQBJhQJ) | [Otra Vez \(Vol\. 1\)](https://open.spotify.com/album/0b4VElQYfmR48jOBIcsNeo) | 2:52 |
 | 39 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
-| 40 | [QUIERO OLVIDARTE \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [QUIERO OLVIDARTE \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
-| 41 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
-| 42 | [Juntos](https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 3:11 |
+| 40 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
+| 41 | [Juntos](https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 3:11 |
+| 42 | [QUIERO OLVIDARTE \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [QUIERO OLVIDARTE \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
 | 43 | [qué ves en mí?](https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [qué ves en mí? / interesante](https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw) | 3:24 |
 | 44 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
 | 45 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 65 | [Amantes](https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amantes](https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC) | 2:33 |
 | 66 | [Angustia Existencial](https://open.spotify.com/track/6yFWnK67fl1pRxB9ne24lu) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [Angustia Existencial](https://open.spotify.com/album/2V8AN2FpYqueiuvPHC6Buw) | 3:13 |
 | 67 | [Estúpida Inocente](https://open.spotify.com/track/7K1xys7lxKtsUDvzNzvcVi) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Estúpida Inocente](https://open.spotify.com/album/2VIGYABy9GUfiFIIpDgSLi) | 3:03 |
-| 68 | [CORAZON PESAO](https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [CORAZON PESAO](https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L) | 2:22 |
-| 69 | [Hot Cherry Bomb](https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hot Cherry Bomb](https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV) | 2:08 |
+| 68 | [Hot Cherry Bomb](https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hot Cherry Bomb](https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV) | 2:08 |
+| 69 | [CORAZON PESAO](https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [CORAZON PESAO](https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L) | 2:22 |
 | 70 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
 
-Snapshot ID: `AAAAAB/kk1ybaabZaoMCVOg/6dCZ66o1`
+Snapshot ID: `AAAAAN8U7X2BZxED/DqM6dlpzX3OvEWq`

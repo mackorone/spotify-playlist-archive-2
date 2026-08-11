@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,292 likes - 222 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,406 likes - 220 songs - 11 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,11 +224,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 | 214 | [London Bridge](https://open.spotify.com/track/2a7LbIOIZVlYzfKTIvjD8B) | [Larry Groce](https://open.spotify.com/artist/2z9Y52xPb933l5cs0GNvnc), [Disneyland Children's Sing\-Along Chorus](https://open.spotify.com/artist/6ZFgQo1KEKV4ADP8mAw7xg) | [Best of Children's Favorites\- Mickey's Top 40 Tunes](https://open.spotify.com/album/6FtSPgr7FkvIlSoaidnXsH) | 1:35 |
 | 215 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/5lfSdkJDgfFWflXlPq5Gsx) | [Jackie Cusic](https://open.spotify.com/artist/6uANe2zVTu4iieBxdMpq6t) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 1:34 |
 | 216 | [Hush, Little Baby](https://open.spotify.com/track/4Rctu4Z1guLTduopKPl1L0) | [Rick Schulman](https://open.spotify.com/artist/5toTIOdBS511bK9fc9eTjY) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 2:02 |
-| 217 | [Rockabye Baby](https://open.spotify.com/track/1UE6gmD89HzSCtsmbah7OC) | [Larry Groce](https://open.spotify.com/artist/2z9Y52xPb933l5cs0GNvnc) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 1:25 |
-| 218 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 |
-| 219 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/337NNxsOqWueShlE1lozpQ) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 |
-| 220 | [Hera's Theme](https://open.spotify.com/track/4NljQvHzcAIMzrQ7Hno57U) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 1](https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl) | 3:36 |
-| 221 | [Life Day](https://open.spotify.com/track/6hD8ymJ1uxlvPIDHb8WOCn) | [Jose "Choco" Reynoso](https://open.spotify.com/artist/2Ri2EWwkdbDoJg3hVQ8Zq1), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 3](https://open.spotify.com/album/3vPzpEXIJ7o1Lmgl9LvJY3) | 1:25 |
-| 222 | [Winnie the Pooh](https://open.spotify.com/track/7gKHQy915DlMWd1xuF11BO) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 2:54 |
+| 217 | [Lullaby and Goodnight](https://open.spotify.com/track/78DGsk0TY2sjHRfTVZmp4I) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 2](https://open.spotify.com/album/520WQQc962SKwk7dGYojxQ) | 1:23 |
+| 218 | [Rock\-a\-Bye Baby](https://open.spotify.com/track/337NNxsOqWueShlE1lozpQ) | [Rob Cantor For Kids!](https://open.spotify.com/artist/0sEDLWlvde4D2GLUFufjSO) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:26 |
+| 219 | [Hera's Theme](https://open.spotify.com/track/4NljQvHzcAIMzrQ7Hno57U) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 1](https://open.spotify.com/album/7pUhf9YyQeLkuGdWusUHYl) | 3:36 |
+| 220 | [Time Travel Lullaby](https://open.spotify.com/track/59SfkZXgHjIg4fMIR9EO8p) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh), [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [Time and Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5sVIzxyjjOpOt2cxbdsE76) | 2:50 |
 
-Snapshot ID: `AAAAAFdFcIaQL0qAYTpS5FhJgbbfCz1j`
+Snapshot ID: `AAAAAEAenlUrRW1cokdHr1Z99qPbjXwI`

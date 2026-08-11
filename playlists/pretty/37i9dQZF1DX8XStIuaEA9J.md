@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: ME:I
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,865 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,861 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 69 | [Kodoku](https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Kodoku EP](https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg) | 3:01 |
 | 70 | [あぶく](https://open.spotify.com/track/59h6J25QnnT8xshPTFLkpe) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [あぶく](https://open.spotify.com/album/7gfuOSKYUVBQBdg8Onas9L) | 3:54 |
 
-Snapshot ID: `AAAAAOp9+/A8e0pA8TBYs3A2pxXthbqo`
+Snapshot ID: `AAAAAP4l25bi5AzMcPyPcnin07gyLcfE`

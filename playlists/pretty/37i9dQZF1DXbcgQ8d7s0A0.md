@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,415,283 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,415,338 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,11 +67,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 57 | [On My Own](https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [The Collection](https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs) | 4:49 |
 | 58 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
 | 59 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
-| 60 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
-| 61 | [Wish I Didn't Miss You](https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Hits: The Very Best Of Angie Stone](https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc) | 4:29 |
+| 60 | [Wish I Didn't Miss You](https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Hits: The Very Best Of Angie Stone](https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc) | 4:29 |
+| 61 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 62 | [Try A Little Tenderness](https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 3:20 |
 | 63 | [Turn Your Love Around \- 2015 GH Version](https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Ultimate Collection](https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv) | 3:49 |
 | 64 | [If I Ain't Got You \(feat\. Usher\)](https://open.spotify.com/track/41osd5ueK4Z4KWldcluCWW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Love Songs](https://open.spotify.com/album/74RK3gsxjigff01cRt7pLL) | 3:50 |
 | 65 | [Biggest Part of Me \- Remastered Version](https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Soul Hooligan](https://open.spotify.com/artist/4X9dxL0KqEpgay3AVU9sLW) | [The Essentials: Ambrosia](https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW) | 5:26 |
 
-Snapshot ID: `AAAAAAZXqWbI3idEofF90nAkNwDOik1Q`
+Snapshot ID: `AAAAAENPz7Qg0t1m1CaHUz7lhaN+Mk22`

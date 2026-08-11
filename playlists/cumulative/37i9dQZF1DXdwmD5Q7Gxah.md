@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> 👀 Mackeeper <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
+> let it be known this is a RE ADD of C,XOXO to this list 👀 Cover: Mackeeper <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
 3,924 songs - 8 day 23 hr 2 min
 
@@ -279,7 +279,7 @@
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-03-14 | 2024-07-27 |
 | [Awkward Conversations](https://open.spotify.com/track/3IWMJdzSOZyGi9jMGIWmrU) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Awkward Conversations](https://open.spotify.com/album/0BB9ouB4kSMT5u52Lsocxf) | 3:19 | 2022-05-06 | 2022-06-18 |
 | [Açaí Bowl](https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Açaí Bowl](https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D) | 2:57 | 2019-07-30\* | 2023-04-19 |
-| [B.O.A.T.](https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 2:56 | 2024-10-11 | 2025-01-25 |
+| [B.O.A.T.](https://open.spotify.com/track/1jrW4fPx5gavi8sw9QlnS6) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \(Magic City Edition\)](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 2:56 | 2024-10-11 |  |
 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 | 2024-04-03 | 2024-05-11 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-14 | 2024-12-21 |
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2020-10-08 | 2020-12-04 |

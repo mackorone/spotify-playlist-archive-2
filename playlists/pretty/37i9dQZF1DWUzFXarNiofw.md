@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Fana Hues
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,756 likes - 275 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,767 likes - 275 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -255,14 +255,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 245 | [EVE/LUST](https://open.spotify.com/track/5gdrTl4EYmC27T0Xn6gmhq) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [DEMO TAPE 2](https://open.spotify.com/album/7xk5aFVMqVf5cwRQiedk3Q) | 3:19 |
 | 246 | [Ole](https://open.spotify.com/track/2z1DTHOawvhWrHFFAGZqOg) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Ole](https://open.spotify.com/album/3Nc4U7DbWgEt0bbTJZ48Er) | 2:46 |
 | 247 | [Hurry Hurry](https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offering](https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj) | 3:06 |
-| 248 | [RIDE \(feat\. Kojey Radical\)](https://open.spotify.com/track/3JQ0sEbIbg68rbtQ87fjvH) | [KINGH](https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [DARE TO DREAM](https://open.spotify.com/album/4A2aq0w9IL99fyktiu992F) | 3:19 |
+| 248 | [RIDE](https://open.spotify.com/track/3JQ0sEbIbg68rbtQ87fjvH) | [KINGH](https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [DARE TO DREAM](https://open.spotify.com/album/4A2aq0w9IL99fyktiu992F) | 3:19 |
 | 249 | [Baby Blues](https://open.spotify.com/track/3TUzOccwRBTf8qPdcMBHBZ) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Baby Blues](https://open.spotify.com/album/61SyFAr4dpZm19Sr3jnC5r) | 3:07 |
 | 250 | [Suddenly](https://open.spotify.com/track/23jMmesMkvNstAt0m5lR1W) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Suddenly](https://open.spotify.com/album/6QVu2pywpuoATTXnuGqilj) | 2:23 |
 | 251 | [MAKE IT SO HARD](https://open.spotify.com/track/5YBEItelNfu4Im6S39vXs5) | [Kyleigh](https://open.spotify.com/artist/3HnQZzOMKsDqYmF6ikIw4N) | [MAKE IT SO HARD](https://open.spotify.com/album/6VBY4W3p9vWpkooDuk0k2E) | 2:44 |
 | 252 | [Daisy \(from The Chi: Showtime Original Series\)](https://open.spotify.com/track/7xfQjnuTAH4JDRpgBQJJ1c) | [b.kae](https://open.spotify.com/artist/5rSJfEByCzRNbjRmhJ96GD) | [Daisy \(from The Chi: Showtime Original Series\)](https://open.spotify.com/album/5lU0tYXiC24v4YK6wJ0dQ3) | 3:08 |
 | 253 | [I Like the Way \(Kissing Game\)](https://open.spotify.com/track/0OPf7NynS7pgRbV5JtAp2d) | [Sydney Renae](https://open.spotify.com/artist/1WCkk0zp3ukPnap26Ffe34) | [I Like the Way \(Kissing Game\)](https://open.spotify.com/album/4jHZwZH0jSWGdMjDOHlGWf) | 2:31 |
 | 254 | [Craving](https://open.spotify.com/track/3W20jmVQZaiCnmVN9qsxDn) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [Craving](https://open.spotify.com/album/15ucu5Kz9pC9T1k4MmeQZJ) | 3:10 |
-| 255 | [Sun Goes Down](https://open.spotify.com/track/2a2RfvXYrEJJLvBSSRH67I) | [Dyllón Burnside](https://open.spotify.com/artist/70P3P13wKq4OwV4JlnrCiV) | [Genesis](https://open.spotify.com/album/0i60LhMau1euhT2GayOEOL) | 2:07 |
+| 255 | [Sun Goes Down](https://open.spotify.com/track/2a2RfvXYrEJJLvBSSRH67I) | [Dyllón Burnside](https://open.spotify.com/artist/70P3P13wKq4OwV4JlnrCiV) | [genesis](https://open.spotify.com/album/0i60LhMau1euhT2GayOEOL) | 2:07 |
 | 256 | [Man On A Mission \(feat\. Wizkid\)](https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [BROWN \(The Chocolate Edition\)](https://open.spotify.com/album/1D43ezrQX3k6lqAoRVrghb) | 3:52 |
 | 257 | [Talking Dirty](https://open.spotify.com/track/0TvgV79xVI0t2022ABkxS4) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Resurrection](https://open.spotify.com/album/0YwFC9K2Xqgz9DsLOuZuMn) | 2:12 |
 | 258 | [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 274 | [After Party](https://open.spotify.com/track/22Icf9HFciTcBTcQc908uu) | [Qiuntellii](https://open.spotify.com/artist/7z4jd5dG5vdldHa66iHZvS) | [After Party](https://open.spotify.com/album/2wC9Q0kbqgU0xpI4o4xZw0) | 2:16 |
 | 275 | [High](https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [High](https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5) | 2:55 |
 
-Snapshot ID: `AAAAABvppm7ImvC7h/F2LU+NZXVJ9lUH`
+Snapshot ID: `AAAAAPEm0tvLCcbsHMzhsAhPNuf/9NcT`

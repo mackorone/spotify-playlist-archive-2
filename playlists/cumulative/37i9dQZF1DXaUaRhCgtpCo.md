@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-189 songs - 10 hr 33 min
+190 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [The Moisture Farm](https://open.spotify.com/track/2D9uc4pL6wor8560PWMj8h) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars Episode IV: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva) | 2:25 | 2021-05-14 | 2022-07-29 |
 | [The Moisture Farm \- From "Star Wars: A New Hope"](https://open.spotify.com/track/3U2qtOplwv1pPSW5ZSXtA0) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars Sampler](https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c) | 2:25 | 2022-06-28 | 2026-05-02 |
 | [The Ninth Jedi \- Prologue](https://open.spotify.com/track/2Vu0gB2LQJsHd9jdquA9Wu) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg) | 2:07 | 2021-10-14 | 2026-05-02 |
+| [The Ninth Jedi Main Theme](https://open.spotify.com/track/4oUWmJ0VAh7GNNp8phxCtY) | [Nobuko Toda](https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ), [Kazuma Jinnouchi](https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i) | [Star Wars: Visions Presents \- The Ninth Jedi \(Original Soundtrack\)](https://open.spotify.com/album/30D74GKJMhxjYPcxWoJ5kW) | 2:42 | 2026-08-10 |  |
 | [The Noodle Shop Fight](https://open.spotify.com/track/5L0uMqtvUX2v4cSOzz109G) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Star Wars: The Acolyte \- Vol\. 1 \(Episodes 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/1B035XnkYbQd223wGi1bgU) | 4:13 | 2024-07-10 | 2026-05-02 |
 | [The Power of Many / End Title](https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Star Wars: The Acolyte \(Original Soundtrack\)](https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW) | 3:16 | 2024-07-19 | 2025-05-06 |
 | [The Rebellion Is Reborn](https://open.spotify.com/track/17UYYIhQ8IDbm1ImKRblxE) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:59 | 2021-05-14 | 2026-05-02 |

@@ -1,13 +1,29 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 186515,
+  "num_followers": 186557,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOj7XoWSgrSuV37QfF3o2suCpkf5",
+  "snapshot_id": "AAAAABaY1BFwogcJOTrNSyG0fCCL1o/o",
   "tracks": [
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Fran\u00e7ois",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 246000,
       "name": "Soleil Bleu",
       "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
-        "name": "Fran\u00e7ois",
-        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
-      },
-      "artists": [
-        {
-          "name": "Desireless",
-          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "99 Nights (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 203160,
       "name": "Le temps est bon",
       "url": "https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -163,22 +163,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "On s'attache",
-      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "C'est d\u00e9j\u00e0 \u00e7a",
         "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 324906,
       "name": "Foule sentimentale",
       "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "On s'attache",
+      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Kendji",
-        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Andalouse",
-      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
         "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 207040,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Kendji",
+        "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Andalouse",
+      "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "The Origin Of Love",
-        "url": "https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Elle me dit",
-      "url": "https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 191659,
       "name": "Lady M\u00e9lody",
       "url": "https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "The Origin Of Love",
+        "url": "https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 218906,
+      "name": "Elle me dit",
+      "url": "https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Chaque seconde",
-        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 174506,
-      "name": "Ceux qu'on \u00e9tait",
-      "url": "https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "La goffa Lolita",
         "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 221149,
       "name": "La goffa Lolita",
       "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Chaque seconde",
+        "url": "https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 174506,
+      "name": "Ceux qu'on \u00e9tait",
+      "url": "https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Engelberg",
-        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
-      },
-      "artists": [
-        {
-          "name": "Stephan Eicher",
-          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "D\u00e9jeuner en paix",
-      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Cach\u00e9 derri\u00e8re",
         "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215160,
       "name": "Le pouvoir des fleurs",
       "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Engelberg",
+        "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
+      },
+      "artists": [
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "D\u00e9jeuner en paix",
+      "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Le vagabond",
         "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192506,
       "name": "Cette ann\u00e9e-l\u00e0",
       "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ne partons pas f\u00e2ch\u00e9s",
-      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
+      },
+      "artists": [
+        {
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ne partons pas f\u00e2ch\u00e9s",
+      "url": "https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Mes Fantaisies",
-        "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
-      },
-      "artists": [
-        {
-          "name": "Shy'm",
-          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Femme de couleur",
-      "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Le Dernier Jour du Disco",
         "url": "https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 206480,
       "name": "Le Dernier Jour du Disco",
       "url": "https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Mes Fantaisies",
+        "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
+      },
+      "artists": [
+        {
+          "name": "Shy'm",
+          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Femme de couleur",
+      "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
     },
     {
       "added_at": "2026-04-17 09:45:18",

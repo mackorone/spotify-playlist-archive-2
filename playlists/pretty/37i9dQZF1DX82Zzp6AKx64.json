@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these rock power ballads. Cover: Tina Turner",
-  "num_followers": 1239131,
+  "num_followers": 1239175,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM2clg30z4VCFZpiqtP9R75m5lBA",
+  "snapshot_id": "AAAAABoyb4JUzOT8baThw54Jev1ZiEEY",
   "tracks": [
     {
       "added_at": "2024-06-26 02:22:53",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-06-26 02:22:53",
       "album": {
-        "name": "Trixter",
-        "url": "https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb"
-      },
-      "artists": [
-        {
-          "name": "Trixter",
-          "url": "https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ"
-        }
-      ],
-      "duration_ms": 305706,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6"
-    },
-    {
-      "added_at": "2024-06-26 02:22:53",
-      "album": {
         "name": "Cherry Pie (Expanded Edition)",
         "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
+    },
+    {
+      "added_at": "2024-06-26 02:22:53",
+      "album": {
+        "name": "Trixter",
+        "url": "https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb"
+      },
+      "artists": [
+        {
+          "name": "Trixter",
+          "url": "https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ"
+        }
+      ],
+      "duration_ms": 305706,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6"
     },
     {
       "added_at": "2024-06-26 02:22:53",

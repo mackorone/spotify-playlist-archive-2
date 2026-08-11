@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36660,
+  "num_followers": 36665,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADVGWfUBhB2dH7l20JT7Irb",
+  "snapshot_id": "anfDAAAAAACDGVOLqvoupiAGBJDpXiO9",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol5 / 1937",
+        "url": "https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -207,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol5 / 1937",
-        "url": "https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
       "artists": [
         {
@@ -216,9 +232,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 162733,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B"
+      "duration_ms": 167573,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3ZJ0YC0bTd04N03gVsPDUb"
     },
     {
       "added_at": null,
@@ -239,22 +255,6 @@
       "duration_ms": 163226,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3ZJ0YC0bTd04N03gVsPDUb"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Topsy",
+      "url": "https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Louis Blues",
         "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 186437,
       "name": "I Found a New Baby",
       "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Topsy",
-      "url": "https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Anniversary Song",
+      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol.12 / 1940 - 1941",
         "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 168400,
       "name": "Swing 42",
       "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Anniversary Song",
-      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
     },
     {
       "added_at": null,
@@ -603,18 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+        "name": "Djangology (feat. St\u00e9phane Grappelli)",
+        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
       "artists": [
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         }
       ],
-      "duration_ms": 133866,
-      "name": "Les yeux noirs (Dark Eyes)",
-      "url": "https://open.spotify.com/track/4cOhTQgJqBtnIws8Il92Ww"
+      "duration_ms": 182800,
+      "name": "Menilmontant (feat. St\u00e9phane Grappelli) - Remastered 2002",
+      "url": "https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa"
     },
     {
       "added_at": null,
@@ -639,26 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangology (feat. St\u00e9phane Grappelli)",
-        "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
       "artists": [
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Menilmontant (feat. St\u00e9phane Grappelli) - Remastered 2002",
-      "url": "https://open.spotify.com/track/6ZiZFzYHPKeNO6i98ubnqa"
+      "duration_ms": 133866,
+      "name": "Les yeux noirs (Dark Eyes)",
+      "url": "https://open.spotify.com/track/4cOhTQgJqBtnIws8Il92Ww"
     },
     {
       "added_at": null,

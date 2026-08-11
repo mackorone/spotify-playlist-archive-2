@@ -7620,7 +7620,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 203200,
       "name": "DON'T B E L O N G",
       "url": "https://open.spotify.com/track/7cBK7AcFMiOhCCfMyA0xba"
@@ -15698,7 +15698,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 169945,
       "name": "Kill The Light",
       "url": "https://open.spotify.com/track/11lSODTR9IuEnnMB7zAvL9"
@@ -16748,6 +16748,24 @@
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+    },
+    {
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0EPu0Y8gcdsRWd7bcFYGuv"
+      },
+      "artists": [
+        {
+          "name": "Any Given Sin",
+          "url": "https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/3QFVFxNgz4JZse0FnhFoeG"
     },
     {
       "album": {
@@ -33564,6 +33582,28 @@
       "duration_ms": 216670,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
+    },
+    {
+      "album": {
+        "name": "yOunG BLoOds (feat. Howard Jones)",
+        "url": "https://open.spotify.com/album/2XUiKVDAArlT0zMjz8Uzb1"
+      },
+      "artists": [
+        {
+          "name": "Autumn Kings",
+          "url": "https://open.spotify.com/artist/7BYLAgXd3LygQ9aJupZ6p8"
+        },
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/5T0Vi8WwwfjX9tmUI9Mae9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178274,
+      "name": "yOunG BLoOds (feat. Howard Jones)",
+      "url": "https://open.spotify.com/track/2sGaeSqNVPvvVKjmSa028Q"
     },
     {
       "album": {

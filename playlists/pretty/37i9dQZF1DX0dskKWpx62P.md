@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,280 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,312 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 33 | [Carrito del Regreso](https://open.spotify.com/track/6E37bI48bQcPPJj20aNCOL) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 2:41 |
 | 34 | [Yo Soy el Amor](https://open.spotify.com/track/71uueguZUf1L9CqA8zQM0B) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Yo Soy el Amor, Vol\. 15](https://open.spotify.com/album/6gCMVRPtf57mWK4belnSRo) | 5:40 |
 | 35 | [Pucay Punchochay](https://open.spotify.com/track/4BkniuKguT4KuXGW2Nv9su) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Los Grandes del Folklore Peruano](https://open.spotify.com/album/5ZG4tBKt2aJqOtaX2qbuUF) | 2:47 |
-| 36 | [Expreso Puquio](https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 4:24 |
+| 36 | [Koka kintucha](https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 3:58 |
 | 37 | [Donde Estarás Palomita](https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN) | [Kiko Revatta](https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa) | [Ayacucho En El Corazon De Todos Vol.2](https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi) | 3:17 |
 | 38 | [Mauka Zapato](https://open.spotify.com/track/6zGjm3uaP6gxoC4BslW05f) | [Alicia Maguiña](https://open.spotify.com/artist/1OJ21FFw1XbFVGx4SN13Fv) | [La Santa Tierra](https://open.spotify.com/album/1Et11TUnb0Hw7NcqpmAZYC) | 3:28 |
 | 39 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 |
 | 40 | [Remembranzas](https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR) | [Los Puquiales](https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
-| 41 | [Koka kintucha](https://open.spotify.com/track/0GF5O4jv4zIrrV5EWNdSL1) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 3:58 |
+| 41 | [Expreso Puquio](https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K) | [Manuelcha Prado](https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22) | [Madre Andina](https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe) | 4:24 |
 | 42 | [Sirwana](https://open.spotify.com/track/4DAavl2OUBU180DLfSeY5r) | [Los Apus](https://open.spotify.com/artist/0AFZV1o9URU4250NqeLuvf) | [El Imperio de los Apus](https://open.spotify.com/album/0CK8pR74Lrzmh0NIOTy5Dh) | 3:59 |
 | 43 | [Huaynos Norteños \(Todo Empezó Como Jugando / Casualidad\)](https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY) | [Max Castro](https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr) | [Para Ti](https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu) | 6:01 |
 | 44 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Cajamarquina](https://open.spotify.com/track/4TV3DDrm1RixW2HT7lQLeC) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvídame](https://open.spotify.com/album/0i9FcKBWpzLO6HoST7sY1O) | 4:29 |
 | 60 | [Amor Verdadero \(feat\. Raices de Jauja\)](https://open.spotify.com/track/6mfSHLAzJIg8WRPPiytos7) | [Damaris](https://open.spotify.com/artist/6FjlllIP4Dqj9PEEZX8f0j), [Raices de Jauja](https://open.spotify.com/artist/13fJROwEQGh0hO2BK0SVmP) | [Tu Puedes Volar](https://open.spotify.com/album/46QKsVjYkxcFHBqTYp0GvF) | 4:10 |
 
-Snapshot ID: `AAAAAG+lLYLbcyiPBO75St3nAKaWGyjK`
+Snapshot ID: `AAAAAKxoqWnl/4EI1cwM6Uuv3soGxQNk`

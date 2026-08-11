@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring MAXARKA\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,272 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,286 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 69 | [frog](https://open.spotify.com/track/1Th4LRavIwNpCEOHjS1RU5) | [monica.com](https://open.spotify.com/artist/091RYc5KZSMbiaQ2JsfgRe) | [turbine / frog](https://open.spotify.com/album/5DtSUckKsdlixH2M4jwSQz) | 2:34 |
 | 70 | [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 |
 
-Snapshot ID: `AAAAAMF9MvYv1zm8mVhgePK7lLcTc7Ig`
+Snapshot ID: `AAAAAGkYLonPFAjGLcb9HRiWFVP0+xhf`

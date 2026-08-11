@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,312,583 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,312,413 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 24 | [Pum Pum Jump \(feat\. Jill Scott & Tyla\)](https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
 | 25 | [B.E.D.](https://open.spotify.com/track/1B6TmCvKjC4dopBohVW51x) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:56 |
 | 26 | [Pity](https://open.spotify.com/track/4pVApaU0G1eIk5pJ0jDueU) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 3:17 |
-| 27 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
+| 27 | [Wicked Games](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 |
 | 28 | [feels like love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [feels like love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 29 | [Fire & Desire](https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 3:58 |
 | 30 | [DESIRES](https://open.spotify.com/track/78omDaOydsuQysk72GOmHf) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [LVRS PARADISE \(SIDE A\)](https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG) | 2:49 |
 | 31 | [Freak & A Friend](https://open.spotify.com/track/3aLexKSJUByg49fRnVLG9C) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Freak & A Friend](https://open.spotify.com/album/1xZoFlfMDbElbUxFfFCHqn) | 2:25 |
-| 32 | [Wicked Games](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 |
+| 32 | [Earned It \(Fifty Shades Of Grey\)](https://open.spotify.com/track/4frLb7nWtsz2ymBE6k2GRP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:37 |
 | 33 | [WAITING ON YOU \(feat\. Tone Stith\)](https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL) | [Camper](https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [WAITING ON YOU \(feat\. Tone Stith\)](https://open.spotify.com/album/1fuINvuJbtiNvH3N6oNYhr) | 2:28 |
 | 34 | [Rehab \(Winter In Paris\)](https://open.spotify.com/track/0zWbYGQq5O1KQd0iqzgjP6) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 3:00 |
 | 35 | [AEOMG](https://open.spotify.com/track/5WXHgksaf5IXbYA7MbNkdT) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 2:24 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 96 | [act vi: mad man](https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:38 |
 | 97 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
 | 98 | [SAME MISTAKE](https://open.spotify.com/track/2WFPw4XpswToe0t3MhzhCN) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [SUBMISSIVE2](https://open.spotify.com/album/0qxSlnuP5AvTEeQJwPWYlo) | 2:58 |
-| 99 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
-| 100 | [Come See Me](https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:25 |
+| 99 | [Come See Me](https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:25 |
+| 100 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
 
-Snapshot ID: `AAAAAObpxJacGeJa2ioYd9f/4YuqjQJM`
+Snapshot ID: `AAAAADVLupT1O2hIXXpFeX3ozcFmO9tP`

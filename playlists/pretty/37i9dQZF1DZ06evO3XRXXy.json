@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 153657,
+  "num_followers": 153669,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADCZL6DiGTJP7PK5K5+o3PF",
+  "snapshot_id": "anfDAAAAAACFdh7co3fq++wpFW7MlTwW",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duotones",
+        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303506,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time, Love & Tenderness",
         "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 273306,
       "name": "Missing You Now (feat. Kenny G)",
       "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duotones",
-        "url": "https://open.spotify.com/album/4Ptfthe5KoQuCNxcXbcoL1"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303506,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/5a2lHMvRRwhQp2zSwtjNmq"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lullaby Tres",
+        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 124976,
+      "name": "Lullaby Tres",
+      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You're The Inspiration: The Music Of David Foster And Friends (Int'l DMD)",
         "url": "https://open.spotify.com/album/7zXao5a6CPcsA8mbmdKpVs"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 176626,
       "name": "Love Theme from St. Elmo's Fire (feat. Kenny G) - Live",
       "url": "https://open.spotify.com/track/7AcZoTDqYtqYyYYt3CBPSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lullaby Tres",
-        "url": "https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 124976,
-      "name": "Lullaby Tres",
-      "url": "https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT"
     },
     {
       "added_at": null,

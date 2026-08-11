@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Cornelio Vega y su Dinastía en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,729 likes - 125 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,818 likes - 125 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 124 | [La Siembra En El Cerro](https://open.spotify.com/track/1JwfEcCXRBONintEFJZtsG) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:28 |
 | 125 | [El Dos de los Antrax](https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Dos de los Antrax](https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS) | 3:19 |
 
-Snapshot ID: `AAAAAPdacV3qotR+qzlZQZ8dYl+E36sN`
+Snapshot ID: `AAAAAAOaU4NdPj6hzOw3ck2mKS1QDbb4`

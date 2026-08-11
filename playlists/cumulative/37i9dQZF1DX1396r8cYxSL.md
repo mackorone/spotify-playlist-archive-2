@@ -2,7 +2,7 @@
 
 ### [Yaz Hitleri 2026](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2026 yazının şarkıları\. Kapak: Hadise
+> 2026 yazının şarkıları\. Kapak: Sibel Can, Eypio
 
 208 songs - 9 hr 58 min
 

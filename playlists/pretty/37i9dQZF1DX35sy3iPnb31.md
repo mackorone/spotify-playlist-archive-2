@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,294 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Adam West](https://open.spotify.com/track/2F5b6igudY64NBG42TCDjR) | [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Adam West](https://open.spotify.com/album/0MgV3Mr6t1dCpgHX9REqSY) | 3:45 |
 | 50 | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 |
 
-Snapshot ID: `AAAAAJzDnYNXxWknovapCNMr5nhMYPFZ`
+Snapshot ID: `AAAAAJlzymVDdJNwlqLbhU9qLdZFkQwN`

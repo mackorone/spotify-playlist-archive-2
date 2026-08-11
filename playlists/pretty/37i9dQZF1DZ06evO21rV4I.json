@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 176278,
+  "num_followers": 176325,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABXteJ4RAT0gQp0tLK8iFyY",
+  "snapshot_id": "anfDAAAAAAD5ImaUeoRsZl+diGQdQI1n",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 206968,
-      "name": "BIG TIME (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STATE OF MIND",
         "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 192227,
       "name": "STATE OF MIND",
       "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 206968,
+      "name": "BIG TIME (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DYNAMITE",
-        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "DYNAMITE",
-      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) [Remix]",
         "url": "https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 215516,
       "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
       "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DYNAMITE",
+        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 250685,
+      "name": "Sweet One",
+      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 250685,
-      "name": "Sweet One",
-      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 233147,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KING COAL",
         "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 158539,
       "name": "Oshe",
       "url": "https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 233147,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -1011,38 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "2 Sugar (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 172466,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/5HeW3DSp2lsfcXXRuJkZUy"
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
     },
     {
       "added_at": null,
@@ -1067,6 +1031,42 @@
       "duration_ms": 185123,
       "name": "Ease Your Mind (feat. Wizkid & Kel-P)",
       "url": "https://open.spotify.com/track/7LbgrMEa9n3FwEc2sEOGnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/5HeW3DSp2lsfcXXRuJkZUy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 209735,
+      "name": "Mood (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
     }
   ],
   "unique_name": "This Is Wizkid",

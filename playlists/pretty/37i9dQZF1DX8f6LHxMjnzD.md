@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,883 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,789 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
 | 40 | [Trail Mix \(3pm\)](https://open.spotify.com/track/0nl0UQJrmmkxJx3kHKftpE) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The Hours: High Noon](https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3) | 2:24 |
 
-Snapshot ID: `AAAAAICxurtdyMswSzs1WiQBMaTlfGI4`
+Snapshot ID: `AAAAAEgjreZtyCjbVGo1gXA1FO4jCmQn`

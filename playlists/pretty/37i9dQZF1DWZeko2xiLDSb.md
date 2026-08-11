@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,912 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,909 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 22 | [Motel 6](https://open.spotify.com/track/6hUTzxvNiJ1c0lYqgoOTBW) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Kindness, A Rebel](https://open.spotify.com/album/1RNcYrqXqFyb3R6jjQrwT7) | 3:15 |
 | 23 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 |
 | 24 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
-| 25 | [Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Capsule Losing Contact](https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq) | 1:58 |
-| 26 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 |
+| 25 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 |
+| 26 | [Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Capsule Losing Contact](https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq) | 1:58 |
 | 27 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 |
 | 28 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 | 29 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
 | 30 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 31 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
 | 32 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
-| 33 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
-| 34 | [snowfall \(Sped Up\)](https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Sped Up\)](https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g) | 1:50 |
+| 33 | [snowfall \(Sped Up\)](https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Sped Up\)](https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g) | 1:50 |
+| 34 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 35 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
 | 36 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 37 | [Crush \- Stripped](https://open.spotify.com/track/0doTgRQa7qyw5JYPfwhPcK) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/10fYQ1V2fQb9JVTFFdr5TA) | 3:49 |
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 78 | [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 |
 | 79 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 80 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 |
-| 81 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
-| 82 | [Without Warning](https://open.spotify.com/track/0PTYNosRcem1jpR2AAFwrs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:20 |
+| 81 | [Without Warning](https://open.spotify.com/track/0PTYNosRcem1jpR2AAFwrs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:20 |
+| 82 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
 | 83 | [Honey](https://open.spotify.com/track/6RVhSOj4c0drAWKyoHemQS) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Honey](https://open.spotify.com/album/692s2gPrIiqJfZbg3yMyDu) | 3:58 |
 | 84 | [Sunset Boulevard Expedition](https://open.spotify.com/track/64SZmjw3aY5bZigPevDCHw) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 8:19 |
 | 85 | [the view from my bathroom window \(feat\. guccihighwaters\)](https://open.spotify.com/track/4tFoX0vJIeVN082xbA6wCN) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 2:37 |
 | 86 | [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 |
 | 87 | [Downtown](https://open.spotify.com/track/6FHdo5HsFJxkeS59sngpAq) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/18KIyhRKtEw2azZW2k9rOF) | 4:09 |
-| 88 | [Dance](https://open.spotify.com/track/7yTVPPF2gLkV0jLl61MPdk) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Forever Overhead](https://open.spotify.com/album/3EQsbRsoo2okliGGLrnBZX) | 4:42 |
-| 89 | [Especially Me](https://open.spotify.com/track/2Hm71PK61Rh5g6ahFx96kH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Health](https://open.spotify.com/album/5dkO8KovHFmdfXAJHQ8BhB) | 4:15 |
+| 88 | [Especially Me](https://open.spotify.com/track/2Hm71PK61Rh5g6ahFx96kH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Health](https://open.spotify.com/album/5dkO8KovHFmdfXAJHQ8BhB) | 4:15 |
+| 89 | [Dance](https://open.spotify.com/track/7yTVPPF2gLkV0jLl61MPdk) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Forever Overhead](https://open.spotify.com/album/3EQsbRsoo2okliGGLrnBZX) | 4:42 |
 | 90 | [Whose face am I](https://open.spotify.com/track/7hdSVanm1ob3fY8JPDMrMF) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Whose face am I](https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx) | 2:15 |
 | 91 | [Luther](https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Luther](https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP) | 3:18 |
 | 92 | [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 99 | [Seasons Change](https://open.spotify.com/track/3XlKF7jaEQhVc3FcmN6ao1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:29 |
 | 100 | [Heavy Snow](https://open.spotify.com/track/4KkTT6zm7CIYIPUIceNtgM) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [I Can Wonder What You Did With Your Day](https://open.spotify.com/album/6L9fsxsnt4HjSMjBY7NHzn) | 3:00 |
 
-Snapshot ID: `AAAAAN4ExTyHkcFpJlejz7+wxxZ/pjLU`
+Snapshot ID: `AAAAAFpiizNTzmkS0FRHIm0SND1E8TMw`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1921877,
+  "num_followers": 1921898,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAD0vQpcVFkdsfxhnDEL7VrA",
+  "snapshot_id": "anfDAAAAAADwbjZNw8vVwAgPe72cq2fz",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Sidewalks",
-      "url": "https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -775,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "Sidewalks",
+      "url": "https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me Home",
-        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
-      },
-      "artists": [
-        {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
     },
     {
       "added_at": null,
@@ -835,6 +815,26 @@
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me Home",
+        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
     },
     {
       "added_at": null,

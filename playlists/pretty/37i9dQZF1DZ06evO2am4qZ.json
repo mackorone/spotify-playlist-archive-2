@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5257,
+  "num_followers": 5258,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAB833n26xNRrDbt+TJfWEBL",
+  "snapshot_id": "anfDAAAAAAB4Ofi66qnGXf4cjDxl+F4h",
   "tracks": [
     {
       "added_at": null,
@@ -383,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Alaya",
-          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
-        }
-      ],
-      "duration_ms": 192697,
-      "name": "Like We",
-      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
         "url": "https://open.spotify.com/album/7kNSP0jOh4pBmKvWNQEHaj"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 189960,
       "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
       "url": "https://open.spotify.com/track/6YvzWqCKEUwKIOozTK0x47"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Alaya",
+          "url": "https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG"
+        }
+      ],
+      "duration_ms": 192697,
+      "name": "Like We",
+      "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 157575,
-      "name": "Straight",
-      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What's Love / Sl*t Him Out",
         "url": "https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 250774,
       "name": "What's Love",
       "url": "https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 157575,
+      "name": "Straight",
+      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
     },
     {
       "added_at": null,
@@ -967,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk"
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 270186,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8"
+      "duration_ms": 162492,
+      "name": "Wig",
+      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
     },
     {
       "added_at": null,

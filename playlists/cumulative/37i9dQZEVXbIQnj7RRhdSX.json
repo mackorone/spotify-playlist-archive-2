@@ -15561,6 +15561,36 @@
     },
     {
       "album": {
+        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        },
+        {
+          "name": "R3versal",
+          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
+    },
+    {
+      "album": {
         "name": "OCEANO PARADISO",
         "url": "https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m"
       },
@@ -19516,7 +19546,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"

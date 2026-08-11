@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,491 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,469 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 48 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
 | 49 | [Twin Skeleton's \(Hotel In NYC\)](https://open.spotify.com/track/2WWP0IPX9xFjAMraNHX390) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:40 |
 | 50 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
-| 51 | [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 |
-| 52 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
+| 51 | [Halloween Theme \- Main Title](https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Halloween Motion Picture Soundtrack](https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP) | 2:55 |
+| 52 | [Ritual](https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J) | 4:28 |
 | 53 | [Undead Ahead 2: The Tale of the Midnight Ride](https://open.spotify.com/track/4DQPKxM9mp70Nxz0FH051A) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/album/4JECM4NZhtpjDX4JbYkh00) | 4:33 |
 | 54 | [Spiders](https://open.spotify.com/track/3ViTZxW9satrTEMRu1GCLV) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [We Are Not Your Kind](https://open.spotify.com/album/754RY5WpZ2LTUZsk8kDBju) | 4:03 |
 | 55 | [Ghost On The Dance Floor](https://open.spotify.com/track/0LC3SKxY9PteyLLxhfFY5d) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 4:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 79 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 |
 | 80 | [A Shrine to Madness](https://open.spotify.com/track/0VEk1PEMmFPb0dwoAK30sk) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Ritual](https://open.spotify.com/album/787iiwJUZgZLZzRIZWzNeK) | 4:40 |
 
-Snapshot ID: `AAAAAOysLVLs89gXsYMsIYXbU4iQXxLq`
+Snapshot ID: `AAAAAOVCJWvoRJqneqNvB49iIHZVBg1f`

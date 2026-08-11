@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring saint clair
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,231 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,213 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 79 | [Greeting](https://open.spotify.com/track/4CqCQwlWYqysAsuLtSQ716) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Greeting / I Am Kind](https://open.spotify.com/album/0OkkMf17vufxSQgq5g3HWL) | 2:28 |
 | 80 | [Candlelight](https://open.spotify.com/track/6oHLiMAN1cp8nlTNTKx1aG) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX), [Rael](https://open.spotify.com/artist/44mRUBKLs6EOQ2CyN9Jfr7), [Will Lister](https://open.spotify.com/artist/1odMNU4WdV8g46ku7SgfJz) | [Candlelight](https://open.spotify.com/album/6TV6kDLZ8FzbgHNqCQyI2m) | 3:18 |
 
-Snapshot ID: `AAAAALj190tXake+wx10OtWU8QUnevHs`
+Snapshot ID: `AAAAAA+KwrlMTbx6KpuV1wQq47mBIGlS`

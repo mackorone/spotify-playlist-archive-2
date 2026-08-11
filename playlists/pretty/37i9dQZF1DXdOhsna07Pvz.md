@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,254 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,290 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 53 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |
 | 54 | [São Jorge](https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM) | [Juçara Marçal e Kiko Dinucci](https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m) | [Padê](https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU) | 3:05 |
 | 55 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
-| 56 | [Nem um Dia \- JAH\-VAN](https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Nem um Dia \(JAH\-VAN\)](https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut) | 5:35 |
-| 57 | [Canta Sabiá](https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8) | [Mateus Aleluia](https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [Olorum](https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O) | 4:18 |
+| 56 | [Canta Sabiá](https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8) | [Mateus Aleluia](https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [Olorum](https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O) | 4:18 |
+| 57 | [Nem um Dia \- JAH\-VAN](https://open.spotify.com/track/24ffNZygIHA8qF2Ty41Hkr) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm), [Fernando Nunes](https://open.spotify.com/artist/3JkbXt88UMxAQouuL7QwI9) | [Nem um Dia \(JAH\-VAN\)](https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut) | 5:35 |
 | 58 | [Pequim](https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Pequim](https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz) | 3:18 |
-| 59 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
+| 59 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
 | 60 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
-| 61 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
+| 61 | [Jamburana](https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM) | [Dona Onete](https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc) | [Feitiço Caboclo](https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW) | 4:27 |
 | 62 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
 | 63 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 |
 | 64 | [Danada](https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk) | [Banda Eddie](https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO) | [Metropolitano](https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M) | 4:46 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 66 | [Conto De Areia](https://open.spotify.com/track/2BAja01vq4rH7KthUMNGnE) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 3:40 |
 | 67 | [Meu Sangue Ferve Por Você](https://open.spotify.com/track/7DFmmRFl6ms2E9FNCVyM0T) | [Sidney Magal](https://open.spotify.com/artist/5rTeMryHu78OcG49ySDHU1) | [Chacrinha \- O Musical](https://open.spotify.com/album/0BA8MBSI22zv5YhFeAUEHe) | 3:14 |
 | 68 | [Um raio laser](https://open.spotify.com/track/2s1BwI22Ay6ZagD1ube6yn) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Um Raio Laser](https://open.spotify.com/album/7inldfPDvUkQCvJkBrsf0m) | 3:26 |
-| 69 | [Calor no Rio](https://open.spotify.com/track/3ThEeFihlrZhfaAPItIArO) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 3:09 |
-| 70 | [Emoriô](https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 2:42 |
+| 69 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
+| 70 | [Calor no Rio](https://open.spotify.com/track/3ThEeFihlrZhfaAPItIArO) | [Luísa e os Alquimistas](https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC), [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU) | [Jaguatirica Print](https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl) | 3:09 |
 
-Snapshot ID: `AAAAAMQ3CJHVUrvHml88vr2Xs41tZnZ0`
+Snapshot ID: `AAAAACN0YdsHP4RSz1MPT2XgrNvgL2Y6`

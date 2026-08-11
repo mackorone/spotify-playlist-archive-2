@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 54055,
+  "num_followers": 54080,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACAKE1wqfxEgXW94yf0Mo5V",
+  "snapshot_id": "anfDAAAAAADXaYWXmT+Hg0imgu//n8dT",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "METAL FORTH",
+        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 200698,
+      "name": "My Queen (feat. Spiritbox)",
+      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/1wgweZqqZYCIuW7DroiVDR"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 276153,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/4q1LQDKbCd6JX2EDJTRZjn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "METAL FORTH",
-        "url": "https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 200698,
-      "name": "My Queen (feat. Spiritbox)",
-      "url": "https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ"
     },
     {
       "added_at": null,

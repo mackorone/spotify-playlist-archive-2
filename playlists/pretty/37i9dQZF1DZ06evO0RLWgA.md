@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,640 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,646 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [Ground Hog Blues \- Single Version](https://open.spotify.com/track/2zwnpN2MCs6hCxaXhFZJK4) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [House Of The Blues](https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3) | 2:55 |
 | 50 | [Coming To Town \- The Hot Spot/Soundtrack Version](https://open.spotify.com/track/7tH9PzY1d4aWrceT0OZhzb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Hot Spot \(Soundtrack\)](https://open.spotify.com/album/3Td8XNwieYqSWDGNoki3CX) | 3:08 |
 
-Snapshot ID: `anZxgAAAAADdlHJ9HM389N07FjfZk7sC`
+Snapshot ID: `anfDAAAAAAApuu3TMQCUQTv1G+jom3kg`

@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 156923,
       "name": "Alo",
       "url": "https://open.spotify.com/track/0tEIOQkNRNn6ZGoalxsXDq"
@@ -8924,7 +8924,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 157142,
       "name": "DAAROM",
       "url": "https://open.spotify.com/track/4a3hygWhqQUcQu8kOfhnN3"
@@ -15326,7 +15326,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 164324,
       "name": "Hay Baya",
       "url": "https://open.spotify.com/track/2mysP7k0C31asMj7vzWd1f"
@@ -16442,7 +16442,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 178144,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR"
@@ -16644,7 +16644,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 132500,
       "name": "IDK (I Don't Know)",
       "url": "https://open.spotify.com/track/1oMbTpdtc5NqsLLyniQazx"
@@ -18314,7 +18314,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 116400,
       "name": "Jumeirah",
       "url": "https://open.spotify.com/track/3Ewy8OjmSR3Oy9oaluDjhI"
@@ -19290,6 +19290,24 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
+    },
+    {
+      "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
     },
     {
       "album": {
@@ -22549,6 +22567,32 @@
     },
     {
       "album": {
+        "name": "Mashakil",
+        "url": "https://open.spotify.com/album/4viU1BpfiU4LPAHgBO9uL2"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167704,
+      "name": "Mashakil",
+      "url": "https://open.spotify.com/track/6h0dya6yxt7gPkD9uHEq4y"
+    },
+    {
+      "album": {
         "name": "Matcha Coco",
         "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
       },
@@ -23865,6 +23909,36 @@
     },
     {
       "album": {
+        "name": "Money & Family",
+        "url": "https://open.spotify.com/album/69qyf5mlcwflQ5cHdKBYoY"
+      },
+      "artists": [
+        {
+          "name": "Bailey KBC",
+          "url": "https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4"
+        },
+        {
+          "name": "MeoKidd",
+          "url": "https://open.spotify.com/artist/4ZZaPbicmQeuSRcPlbv4o6"
+        },
+        {
+          "name": "Oykie",
+          "url": "https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ"
+        },
+        {
+          "name": "Omachh",
+          "url": "https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139598,
+      "name": "Money & Family",
+      "url": "https://open.spotify.com/track/1XUoIr4goxR4TyDFMTiz8y"
+    },
+    {
+      "album": {
         "name": "Money & Love",
         "url": "https://open.spotify.com/album/1a936IexPb6wtpMlymctZz"
       },
@@ -24694,6 +24768,24 @@
       "duration_ms": 171493,
       "name": "M\u00e9chante",
       "url": "https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lo D\u00e9cal\u00e9",
+        "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156066,
+      "name": "M\u00e9lo D\u00e9cal\u00e9",
+      "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     },
     {
       "album": {
@@ -27352,7 +27444,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 160629,
       "name": "OutSide",
       "url": "https://open.spotify.com/track/6IG0iq4FFvfJfMKQwdD3Fx"
@@ -31092,7 +31184,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 171396,
       "name": "SCHADE",
       "url": "https://open.spotify.com/track/3A10KOEd7y8thZNSQD1tFF"
@@ -32338,6 +32430,24 @@
       "duration_ms": 97906,
       "name": "Slapen Jij",
       "url": "https://open.spotify.com/track/3qOeRiVgIAMQMI8QU1JOfk"
+    },
+    {
+      "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
     },
     {
       "album": {
@@ -36538,7 +36648,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 152500,
       "name": "Una A La Vez",
       "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
@@ -37860,6 +37970,24 @@
       "duration_ms": 137277,
       "name": "Wacht Op Mij",
       "url": "https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK"
+    },
+    {
+      "album": {
+        "name": "Wagyu",
+        "url": "https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117691,
+      "name": "Wagyu",
+      "url": "https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX"
     },
     {
       "album": {
@@ -39186,7 +39314,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 165752,
       "name": "WNS",
       "url": "https://open.spotify.com/track/2b0tLmwswosWgEyl9QGDUr"
@@ -40048,7 +40176,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 168000,
       "name": "Zij Wilt Die Guap",
       "url": "https://open.spotify.com/track/1W3ZckZwxt0mX4MctU54hG"
@@ -40082,6 +40210,32 @@
       "duration_ms": 166400,
       "name": "Zijkant",
       "url": "https://open.spotify.com/track/65bKgp0oPps8YDFaCWsMjg"
+    },
+    {
+      "album": {
+        "name": "Zijkant",
+        "url": "https://open.spotify.com/album/1F1NPIhGAbhk7BVdoPVQ3r"
+      },
+      "artists": [
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Giniio",
+          "url": "https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM"
+        },
+        {
+          "name": "CLEP",
+          "url": "https://open.spotify.com/artist/6desZuBn3Le1Pef7K1WHR4"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Zijkant",
+      "url": "https://open.spotify.com/track/7jlGrikpMi8kWojRzKDy1q"
     },
     {
       "album": {

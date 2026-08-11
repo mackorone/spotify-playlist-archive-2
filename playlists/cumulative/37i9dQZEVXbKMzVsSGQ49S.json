@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 324568,
       "name": "Afgan",
       "url": "https://open.spotify.com/track/4OVD1iLIGfdYhh0jUWsluy"
@@ -14602,7 +14602,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -16466,7 +16466,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 208608,
       "name": "El milagro de tenerte",
       "url": "https://open.spotify.com/track/4fyCY6UM8GlSVEntWO1KLD"
@@ -18314,7 +18314,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -34592,7 +34592,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 209558,
       "name": "Lj\u00f3sin Kvikna",
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
@@ -34966,6 +34966,24 @@
       "duration_ms": 160754,
       "name": "Lose Your Mind",
       "url": "https://open.spotify.com/track/25gN4UD3E442ebofOVbWhQ"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {
@@ -37728,7 +37746,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -39876,7 +39894,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 161133,
       "name": "Naggar",
       "url": "https://open.spotify.com/track/0yHR1QnAjAsSC8WAJIWXSS"
@@ -46938,7 +46956,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -66528,7 +66546,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 199505,
       "name": "\u00c9g er farinn",
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"

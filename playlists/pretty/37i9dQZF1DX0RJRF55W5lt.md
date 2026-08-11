@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,521 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,601 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 70 | [Sorry! \(Didn't Know\) \[Original Radio Edit\]](https://open.spotify.com/track/1ElsvWNXbo3jXs4OuakQLn) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/2jMkOKyXgCi9NI4dxm4EkN) | 4:10 |
 | 71 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 72 | [Dooms Night \- Timo Maas Radio Edit](https://open.spotify.com/track/5EI0N84j0ReqnQmDfalEmf) | [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/2218GRd8YlRG9RMVx6mD5N) | 3:46 |
-| 73 | [Why?](https://open.spotify.com/track/4KVqDHIZYuAk7CObeTlYSU) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Best Of](https://open.spotify.com/album/3084CrngEXCmjpox0sNJqS) | 3:20 |
-| 74 | [Things We Do For Love](https://open.spotify.com/track/6WhWEu5LqhSjG37ZSk4gAe) | [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD), [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V4](https://open.spotify.com/album/7AzNk36ApocG0SuvlKK3K2) | 3:31 |
-| 75 | [Girls Like Us \- Radio Edit](https://open.spotify.com/track/2OiFLUUvtJg03Zh2xr7HOU) | [B15 Project](https://open.spotify.com/artist/6dflJhpEMW53KdFMj4myPc), [Crissy D](https://open.spotify.com/artist/3Pu3KpT4wihOuoADlMWRSh), [Lady G](https://open.spotify.com/artist/6dvIEb67jvtYQnnXrgwrxJ) | [Girls Like Us](https://open.spotify.com/album/2hmf2BtDupXSYz3TbXq2be) | 5:56 |
+| 73 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
+| 74 | [Why?](https://open.spotify.com/track/4KVqDHIZYuAk7CObeTlYSU) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Best Of](https://open.spotify.com/album/3084CrngEXCmjpox0sNJqS) | 3:20 |
+| 75 | [Things We Do For Love](https://open.spotify.com/track/6WhWEu5LqhSjG37ZSk4gAe) | [Kele Le Roc](https://open.spotify.com/artist/6147A0TM1JrrEkin51nwnD), [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V4](https://open.spotify.com/album/7AzNk36ApocG0SuvlKK3K2) | 3:31 |
 
-Snapshot ID: `AAAAAHNOUQoJhP2W91tWlJ4guRtk2dfq`
+Snapshot ID: `AAAAAOo5G4+jEZAZy5KSeTr2Kvqa86EW`

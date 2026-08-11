@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Mary Ann Alexander",
+  "description": "Most exciting artists from the Indian Indie scene. Cover: Temsu Clover",
   "name": "RADAR India",
   "tracks": [
     {
@@ -2556,6 +2556,24 @@
       "duration_ms": 184090,
       "name": "Farq hai",
       "url": "https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg"
+    },
+    {
+      "album": {
+        "name": "feeling good",
+        "url": "https://open.spotify.com/album/6j3hoQTyj96ANnqCZXDcTS"
+      },
+      "artists": [
+        {
+          "name": "Temsu Clover",
+          "url": "https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201235,
+      "name": "feeling good",
+      "url": "https://open.spotify.com/track/1VXRl2GXUBaHboKPq7usqS"
     },
     {
       "album": {
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 211833,
       "name": "Mulaqaat",
       "url": "https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd"

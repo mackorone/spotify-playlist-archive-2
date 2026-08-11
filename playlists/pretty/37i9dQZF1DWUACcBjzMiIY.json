@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 300668,
+  "num_followers": 300707,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxTrEegaKBF9SSCXzWUGyB3dxAs",
+  "snapshot_id": "AAAAAJBjp+2O3pLENy8kQhq/5G1Q2IXM",
   "tracks": [
     {
       "added_at": "2024-07-05 23:01:26",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 241853,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Beautiful Trauma",
         "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
       "artists": [
         {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+      "duration_ms": 241853,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -703,6 +687,22 @@
       "duration_ms": 312626,
       "name": "One Headlight",
       "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Something to Be",
-        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Ever the Same",
-      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Part Of The Light",
         "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 298133,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Something to Be",
+        "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
+      },
+      "artists": [
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Ever the Same",
+      "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Nine Track Mind",
-        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "One Call Away",
-      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Deeper Well",
         "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 191413,
       "name": "Cardinal",
       "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Nine Track Mind",
+        "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "One Call Away",
+      "url": "https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Foreword",
-        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 197846,
-      "name": "Dear No One",
-      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 251440,
       "name": "Arms Of A Woman",
       "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Foreword",
+        "url": "https://open.spotify.com/album/44D28vK3JSIQ7oQNAfoeBD"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "Dear No One",
+      "url": "https://open.spotify.com/track/2wWboDFZJPWXVNlHUbdSVQ"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Time Without Consequence",
         "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 297120,
       "name": "All My Days",
       "url": "https://open.spotify.com/track/3RPerpXuNznZbCuWYEBz5i"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Jagged Little Pill",
+        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "You Learn",
+      "url": "https://open.spotify.com/track/1HsbGJnOXPWfocSS6FoR60"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "Hurt Somebody",
         "url": "https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow"
       },
@@ -2275,22 +2291,6 @@
       "duration_ms": 168640,
       "name": "Hurt Somebody (With Julia Michaels)",
       "url": "https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Jagged Little Pill",
-        "url": "https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "You Learn",
-      "url": "https://open.spotify.com/track/1HsbGJnOXPWfocSS6FoR60"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Tee Shirt",
-        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Tee Shirt - Soundtrack Version",
-      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 263253,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Tee Shirt",
+        "url": "https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 159506,
+      "name": "Tee Shirt - Soundtrack Version",
+      "url": "https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2955,22 +2955,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 213080,
-      "name": "No Strings",
-      "url": "https://open.spotify.com/track/68pyB1eDufuDzXXhwh4vCQ"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/6PgmdqJEtZ2Uz8nrh1IzEt"
       },
@@ -2983,6 +2967,22 @@
       "duration_ms": 172506,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/6j7oqmFB8mlCfmakwfQU1A"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 213080,
+      "name": "No Strings",
+      "url": "https://open.spotify.com/track/68pyB1eDufuDzXXhwh4vCQ"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3183,22 +3183,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG"
       },
@@ -3211,6 +3195,22 @@
       "duration_ms": 249173,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
       "added_at": "2024-07-05 23:01:26",

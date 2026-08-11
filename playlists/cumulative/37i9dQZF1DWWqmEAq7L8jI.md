@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 RUGGERO
 
-490 songs - 1 day 2 hr 36 min
+491 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2023-03-17 | 2023-07-08 |
 | [Miénteme](https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:45 | 2023-10-04 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2023-03-17 | 2023-08-12 |
-| [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 | 2026-03-06 |  |
+| [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 | 2026-03-06 | 2026-08-11 |
 | [Morirme con vos](https://open.spotify.com/track/68TQC7YHkhh0Vx2beqgvpu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Morirme con vos](https://open.spotify.com/album/3A8EQyuP4PHYsjBNEt6KAE) | 3:27 | 2026-05-08 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:54 | 2023-03-17 | 2023-08-12 |
 | [Motivos](https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Abel](https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW) | 3:01 | 2023-10-04 |  |
@@ -302,6 +302,7 @@
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2023-03-17 | 2023-08-12 |
 | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [MYA LIVE P3: Qué Pasará](https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E) | 3:33 | 2023-10-04 |  |
 | [Mystica!](https://open.spotify.com/track/5zaQp9y2PVJv8sNa9vnfll) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Ilusiones de Amor](https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz) | 2:41 | 2026-05-29 | 2026-06-12 |
+| [Mística](https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Mística](https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub) | 3:52 | 2026-07-31 |  |
 | [N5](https://open.spotify.com/track/6WZk0S0t6YP414VJz99mWT) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [N5](https://open.spotify.com/album/0vWaEsVo9edkkpkGWAUqBd) | 2:34 | 2023-07-28 | 2023-10-14 |
 | [Nada es lo Mismo](https://open.spotify.com/track/2JriBiHousQyoPZxUFdjyL) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Nada es lo Mismo](https://open.spotify.com/album/3C3jbzl4S0gAhKfGTrY3sk) | 3:04 | 2025-11-20 |  |
 | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Nasty Girl \(feat\. Ingratax\)](https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs) | 4:05 | 2023-06-16 | 2023-06-23 |

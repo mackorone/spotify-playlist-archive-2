@@ -4661,6 +4661,24 @@
     },
     {
       "album": {
+        "name": "Zonnebank",
+        "url": "https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E"
+      },
+      "artists": [
+        {
+          "name": "Ray & Beer",
+          "url": "https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184656,
+      "name": "Zonnebank",
+      "url": "https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK"
+    },
+    {
+      "album": {
         "name": "\u00c7a Va",
         "url": "https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3"
       },

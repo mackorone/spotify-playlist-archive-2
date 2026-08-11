@@ -1,12 +1,12 @@
 {
   "description": "This is X-Ray Spex. The essential tracks, all in one playlist.",
-  "num_followers": 2798,
+  "num_followers": 2800,
   "original_name": "This Is X-Ray Spex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADP5D0l8OQuexYUJCjBZ4Lb",
+  "snapshot_id": "anfDAAAAAACJRwb9uEfdMSJJJNtuOtu3",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
         }
       ],
-      "duration_ms": 168933,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/3AekeEt7Fn2erIUo1YoOQa"
+      "duration_ms": 179000,
+      "name": "Good Time Girl",
+      "url": "https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Good Time Girl",
-      "url": "https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9"
+      "duration_ms": 168933,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/3AekeEt7Fn2erIUo1YoOQa"
     }
   ],
   "unique_name": "This Is X-Ray Spex",

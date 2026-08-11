@@ -1,12 +1,12 @@
 {
   "description": "\u30db\u30fc\u30e0\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u697d\u3057\u3080\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002\u5973\u5b50\u4f1a\u3001\u30ac\u30fc\u30eb\u30ba\u30ca\u30a4\u30c8\u306e\u304a\u4f9b\u306b\u3002\n\n",
-  "num_followers": 105469,
+  "num_followers": 105464,
   "original_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD20fAbRNc3uhTix6Dwu+5/Zdr8B",
+  "snapshot_id": "AAAAAEhrpdgHW9WKOzEsN2mMQg6yBmT6",
   "tracks": [
     {
       "added_at": "2026-07-30 15:02:29",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-07-30 15:02:29",
       "album": {
-        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
-        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         }
       ],
-      "duration_ms": 153954,
-      "name": "Stick With You",
-      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
+      "duration_ms": 211786,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
     },
     {
       "added_at": "2026-07-30 15:02:29",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-07-30 15:02:29",
       "album": {
-        "name": "Get Weird (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+        "name": "7TH YEAR: A Moment of Stillness in the Thorns",
+        "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
+      "duration_ms": 153954,
+      "name": "Stick With You",
+      "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
     },
     {
       "added_at": "2026-07-30 15:02:29",
@@ -551,18 +551,18 @@
     {
       "added_at": "2026-07-30 15:02:29",
       "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
       "added_at": "2026-07-30 15:02:29",
@@ -603,18 +603,22 @@
     {
       "added_at": "2026-07-30 15:02:29",
       "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
       "added_at": "2026-07-30 15:02:29",
@@ -635,22 +639,18 @@
     {
       "added_at": "2026-07-30 15:02:29",
       "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-07-30 15:02:29",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-07-30 15:02:29",
       "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
+      "duration_ms": 168104,
+      "name": "Midnight Fiction",
+      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
     }
   ],
   "unique_name": "\u30ac\u30fc\u30eb\u30ba\u30fb\u30ca\u30a4\u30c8",

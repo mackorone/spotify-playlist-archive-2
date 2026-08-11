@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,521 likes - 41 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,519 likes - 41 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 40 | [Time's Arrow](https://open.spotify.com/track/2EPYehgxIsqGvxUcxwgxkH) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:13 |
 | 41 | [Last Call](https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:03 |
 
-Snapshot ID: `anZxgAAAAACF+NYH3RzZYRx2FcKuPeLD`
+Snapshot ID: `anfDAAAAAADabVXNEHkUQkjMcuZ5FiAj`

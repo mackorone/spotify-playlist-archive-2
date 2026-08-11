@@ -2423,6 +2423,24 @@
     },
     {
       "album": {
+        "name": "Emptiness Is Godly",
+        "url": "https://open.spotify.com/album/69WMt9yTuyzIIeMoRp0ti1"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161416,
+      "name": "Ponyboy",
+      "url": "https://open.spotify.com/track/593kawmuK8Zkl8iHfeSESv"
+    },
+    {
+      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw"
       },

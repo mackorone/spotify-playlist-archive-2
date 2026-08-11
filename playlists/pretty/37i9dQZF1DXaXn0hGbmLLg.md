@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! August ambassador: <a href="spotify:artist:2sGGaKKex7GgNlH1DRXZSa">Inez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,374 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,384 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 4 | [Niet Naar Huis](https://open.spotify.com/track/2VHZrsSSLNvnfqUO2qt6sC) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Niet Naar Huis](https://open.spotify.com/album/5dnGno5uQ18Y1StP7oCMWT) | 2:41 |
 | 5 | [Here With Me](https://open.spotify.com/track/4lGvzUh0fApdiJ4hMPvkF5) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Here With Me](https://open.spotify.com/album/7nelv3ZYPwq30wiugEJkJr) | 3:19 |
 | 6 | [Met Mij Zijn](https://open.spotify.com/track/1EOSFJC2w4LvFaInJr9G4T) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Met Mij Zijn](https://open.spotify.com/album/2slIoPsgmDzAcvkF5g2Uyt) | 2:33 |
-| 7 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
-| 8 | [Complicated](https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Complicated](https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE) | 3:39 |
-| 9 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
+| 7 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
+| 8 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
+| 9 | [Complicated](https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Complicated](https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE) | 3:39 |
 | 10 | [Call for Change](https://open.spotify.com/track/4oLrikt1RciSZOSttW7Z65) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Call For Change](https://open.spotify.com/album/0iVuaj5BrkdvcgTUsDaQXw) | 3:29 |
-| 11 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/1zsJSTm6wlqdRMRl4dbvGg) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/album/75uyPFs1xFcE11CviRMV7S) | 2:47 |
-| 12 | [Landing Soft](https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Landing Soft](https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW) | 4:15 |
+| 11 | [Landing Soft](https://open.spotify.com/track/5QNO6F2umr9c8miGBaU3cr) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Landing Soft](https://open.spotify.com/album/1MZv2k2og4lbTBuredHjLW) | 4:15 |
+| 12 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/1zsJSTm6wlqdRMRl4dbvGg) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/album/75uyPFs1xFcE11CviRMV7S) | 2:47 |
 | 13 | [So Amazing](https://open.spotify.com/track/2K4g1jqXcHov6GBfSaBd25) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [So Amazing](https://open.spotify.com/album/4lpKhHcpX7Cq2Z70z9rhFt) | 2:28 |
 | 14 | [We Doen Toch Allemaal Maar Wat](https://open.spotify.com/track/5ktNHD5xIuRnjoV8nZrRhu) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [We Doen Toch Allemaal Maar Wat](https://open.spotify.com/album/7yJ9nMQSVSqo5SumCIax20) | 2:39 |
 | 15 | [Do You Want It Right Now](https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Do You Want It Right Now](https://open.spotify.com/album/2eHQRRCQNj2lFDXYcPtj2M) | 2:27 |
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 29 | [Feestje](https://open.spotify.com/track/3qSOnPQwf2YmGjIKdipwaQ) | [Femke Hengeveld](https://open.spotify.com/artist/4UK3zaAUen6v98wEdv0gL5) | [Feestje](https://open.spotify.com/album/25omnEwBe9qcWD1AgjGlhZ) | 2:38 |
 | 30 | [Echo Zonder Naam](https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Echo Zonder Naam](https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd) | 3:33 |
 | 31 | [Searching For Love](https://open.spotify.com/track/54kVAiP9Rw1QZUFVTgYC9H) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Searching For Love](https://open.spotify.com/album/3oJ9E6jIEqMwxJGdbLkvgU) | 2:37 |
-| 32 | [De Stilte](https://open.spotify.com/track/7unuI0bmqLzpfqoF3ONK5L) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [De Stilte](https://open.spotify.com/album/5EtuU469Nf7Ujdaz0gFqPc) | 2:27 |
-| 33 | [Half 8](https://open.spotify.com/track/5g2wZR34Z0owtSuENnMuPI) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Half 8](https://open.spotify.com/album/3wGnxqkeBM6UtTgK57cA5q) | 2:29 |
+| 32 | [Half 8](https://open.spotify.com/track/5g2wZR34Z0owtSuENnMuPI) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Half 8](https://open.spotify.com/album/3wGnxqkeBM6UtTgK57cA5q) | 2:29 |
+| 33 | [De Stilte](https://open.spotify.com/track/7unuI0bmqLzpfqoF3ONK5L) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [De Stilte](https://open.spotify.com/album/5EtuU469Nf7Ujdaz0gFqPc) | 2:27 |
 | 34 | [DEGRASSI](https://open.spotify.com/track/21rs4Tu7vEgUhPmmoBRZb6) | [Natalie La Rose](https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i), [Micah D'vinci](https://open.spotify.com/artist/4NIhpmDgwf9lMADtyIW2G2) | [DEGRASSI](https://open.spotify.com/album/4gnxdiqWpd5sABgXuAuUq7) | 2:24 |
 | 35 | [OOK EEN POSE](https://open.spotify.com/track/63p8iUcJnoe6hPUggOHtUT) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp), [Reanny](https://open.spotify.com/artist/5tWcufVAXq2gkxkfo8vWYd) | [OOK EEN POSE](https://open.spotify.com/album/79zcSAMYMxf4WYBYbDho46) | 2:58 |
 | 36 | [Astronaut](https://open.spotify.com/track/1UDekAHHjZsAUs3RWRBhKr) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Astronaut](https://open.spotify.com/album/1yEWyUGH94b5OIKxGQR9co) | 2:29 |
 | 37 | [Ik Wil Je Terug](https://open.spotify.com/track/0hAJJ3P8CnHixr0AhySogi) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [Ik Wil Je Terug](https://open.spotify.com/album/06L4yCUAIIVZH7XghhyDdl) | 2:46 |
 | 38 | [The Guy Bangs](https://open.spotify.com/track/4gLZNTqgvZ9Om5mpUGISFc) | [Caro](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [The Guy Bangs](https://open.spotify.com/album/3tdVX17x8s67uIZxxIZQ0T) | 3:58 |
 | 39 | [Stay](https://open.spotify.com/track/1RXW31o9gvK3bBvIcreHFF) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Stay](https://open.spotify.com/album/00wO5edPzxpaDAgQY37RoQ) | 2:53 |
-| 40 | [lastig :\(](https://open.spotify.com/track/1YFqduTRbwsxPWXa3d3Fe4) | [Zoë Low](https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec) | [lastig :\(](https://open.spotify.com/album/4RLeuOclPtyk7RBkgJmkXk) | 2:53 |
-| 41 | [Que Rico](https://open.spotify.com/track/5EquLMxMnBX2hSS9SyDooO) | [Luna & Lenthe](https://open.spotify.com/artist/5QNRJW51rDBkAOmrWlXLVg) | [Que Rico](https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng) | 3:38 |
-| 42 | [Owe You Something](https://open.spotify.com/track/7Isx6NJbq9EfoKgkFjM272) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Owe You Something](https://open.spotify.com/album/22KXKnrcyNxZw4nBDQZHDI) | 2:51 |
-| 43 | [Caracol](https://open.spotify.com/track/0OoVX3AdicKdF7DSbITI3Q) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Caracol](https://open.spotify.com/album/2Kie6xh7kO8piNoLYIepz8) | 2:57 |
-| 44 | [Coming up for Air](https://open.spotify.com/track/3xjtL3xd3VYg7qSLSGlH0A) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [Raging Storms Turned to Beach Weather](https://open.spotify.com/album/5BZbnRd4Xc4bPAowC39ur1) | 2:53 |
+| 40 | [Que Rico](https://open.spotify.com/track/5EquLMxMnBX2hSS9SyDooO) | [Luna & Lenthe](https://open.spotify.com/artist/5QNRJW51rDBkAOmrWlXLVg) | [Que Rico](https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng) | 3:38 |
+| 41 | [lastig :\(](https://open.spotify.com/track/1YFqduTRbwsxPWXa3d3Fe4) | [Zoë Low](https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec) | [lastig :\(](https://open.spotify.com/album/4RLeuOclPtyk7RBkgJmkXk) | 2:53 |
+| 42 | [Coming up for Air](https://open.spotify.com/track/3xjtL3xd3VYg7qSLSGlH0A) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [Raging Storms Turned to Beach Weather](https://open.spotify.com/album/5BZbnRd4Xc4bPAowC39ur1) | 2:53 |
+| 43 | [Owe You Something](https://open.spotify.com/track/7Isx6NJbq9EfoKgkFjM272) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Owe You Something](https://open.spotify.com/album/22KXKnrcyNxZw4nBDQZHDI) | 2:51 |
+| 44 | [Caracol](https://open.spotify.com/track/0OoVX3AdicKdF7DSbITI3Q) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Caracol](https://open.spotify.com/album/2Kie6xh7kO8piNoLYIepz8) | 2:57 |
 | 45 | [The Gardener](https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [The Gardener](https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E) | 2:28 |
 | 46 | [Back voor je needs](https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi) | [NOELL3](https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB) | [Back voor je needs](https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD) | 1:52 |
 | 47 | [Love Me \(Soul Card Never Declines\)](https://open.spotify.com/track/6d4JIch090xEhhxPfk1Slt) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Love Me \(Soul Card Never Declines\)](https://open.spotify.com/album/4zNLKcm2F1Wwazx7QKj2nR) | 2:49 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 49 | [Fast Paced Society](https://open.spotify.com/track/6FtD6D6SoPG0Xk3d19HJnX) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Fast Paced Society](https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P) | 3:13 |
 | 50 | [stupid](https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [AURORA](https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5) | 2:19 |
 | 51 | [Perception](https://open.spotify.com/track/5s6SQ85tdstlHhQKY2pVIJ) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [Perception](https://open.spotify.com/album/2lDANQGfYfXQoY44oeLOSC) | 3:16 |
-| 52 | [Stargazing](https://open.spotify.com/track/7nUrhcVX8F1KUrkd07cSRY) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Stargazing](https://open.spotify.com/album/6l5AHOZgUmR4LXN2vsuiD2) | 2:58 |
-| 53 | [July](https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J) | [Iris Noëlle](https://open.spotify.com/artist/5j64iek3q0Ma2O9HSIdkoi) | [July](https://open.spotify.com/album/3R9zDIiHPez2zbX0AR8yP1) | 2:27 |
+| 52 | [July](https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J) | [Iris Noëlle](https://open.spotify.com/artist/5j64iek3q0Ma2O9HSIdkoi) | [July](https://open.spotify.com/album/3R9zDIiHPez2zbX0AR8yP1) | 2:27 |
+| 53 | [Stargazing](https://open.spotify.com/track/7nUrhcVX8F1KUrkd07cSRY) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [Stargazing](https://open.spotify.com/album/6l5AHOZgUmR4LXN2vsuiD2) | 2:58 |
 | 54 | [Unholy Sigh](https://open.spotify.com/track/0hPnLSvCt3FWuniVuS1X6H) | [Nelleke](https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu) | [Unholy Sigh](https://open.spotify.com/album/1PecMc39JTlIBH5wdeb7PK) | 3:47 |
 | 55 | [Metamorfose](https://open.spotify.com/track/3OdKVzO9nvHTDG5U1pL0T5) | [Teddy Fee](https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc) | [Metamorfose](https://open.spotify.com/album/4G8iMtkUqayoKTSecl9GJL) | 2:48 |
 | 56 | [Sad & Horny](https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe) | [Mila & Mira](https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg) | [Sad & Horny](https://open.spotify.com/album/7bb2fOmEUOosOAhinucFd0) | 3:01 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 64 | [De Zon](https://open.spotify.com/track/4vnPFSnJa5GdHUg7Xd02O4) | [Amélie Esmée](https://open.spotify.com/artist/4F6j4Zt7hozI7BtYPCUMgI) | [De Zon](https://open.spotify.com/album/7lTszhv7bJviybhIV48Cax) | 2:28 |
 | 65 | [Heimwee \- Remix](https://open.spotify.com/track/0A1NMwgibqs2klSlgPUcFM) | [Jasha Eliane](https://open.spotify.com/artist/6aY6UyadP2c9dOcc8kIkRU) | [Heimwee \(Remix\)](https://open.spotify.com/album/0GUXlrV5QrgRqPvdgOfOaP) | 2:41 |
 
-Snapshot ID: `AAAAAJZcrdOjZVOUlTVYqYXyYNU3nx1Z`
+Snapshot ID: `AAAAALM/HFcbvvhsjIR09tls9M7J3oh1`

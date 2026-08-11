@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5eENjzQVV1Oe8jaF4lni0J">Evan Blair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 114 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 201 likes - 114 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 26 | [dear god](https://open.spotify.com/track/39HJJEgUFZcnhH4ziSqomg) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:12 |
 | 27 | [do you really want to hurt me?](https://open.spotify.com/track/2xMY0vcPCP5GHHqom5i6Gl) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever \(extended\)](https://open.spotify.com/album/7vXNMveRwef98O1M6I3Lrb) | 2:09 |
 | 28 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 |
-| 29 | [grave](https://open.spotify.com/track/7pjlSvtMtqybSo198LE0P6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:27 |
-| 30 | [Young American Heart](https://open.spotify.com/track/7gBoKtmVpD4QQ0AJHjpo5L) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:52 |
+| 29 | [Young American Heart](https://open.spotify.com/track/7gBoKtmVpD4QQ0AJHjpo5L) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:52 |
+| 30 | [grave](https://open.spotify.com/track/7pjlSvtMtqybSo198LE0P6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:27 |
 | 31 | [i wanna die](https://open.spotify.com/track/0NgEQBlWn3GbVyBkOvCMuD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:46 |
 | 32 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 |
 | 33 | [Reminds Me Of You](https://open.spotify.com/track/7LHy7Dcts0UDZ6kXa9TgkE) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:58 |
@@ -64,15 +64,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 54 | [hot shit](https://open.spotify.com/track/0TCvlopfjeObjLxIsZ0Lvh) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:55 |
 | 55 | [Black Prada Dress](https://open.spotify.com/track/3m4wYBGRO2a16f9tVh2XCH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Black Prada Dress](https://open.spotify.com/album/0sTzl6hBpE0L7EAYjy5XXd) | 3:19 |
 | 56 | [Happiest Girl](https://open.spotify.com/track/1MzUTezJeXRqFRWBpa3U9m) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:47 |
-| 57 | [lucky star](https://open.spotify.com/track/0Vmqffk8xvREgRCdUf3yfG) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 1:23 |
-| 58 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 |
+| 57 | [Drinking Game](https://open.spotify.com/track/3NpotblRm0XLn747iCZ75w) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Drinking Game](https://open.spotify.com/album/6yBtHDlryRS2EQAfGYNMQN) | 2:50 |
+| 58 | [lucky star](https://open.spotify.com/track/0Vmqffk8xvREgRCdUf3yfG) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 1:23 |
 | 59 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 |
 | 60 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 |
 | 61 | [i hope i never fall in love](https://open.spotify.com/track/19v4Pp2J8bkpZYmVcFRvjA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 3:36 |
 | 62 | [forgot to be my lover](https://open.spotify.com/track/3HMxNEaOXOjedAhKxYHZEy) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [don't hold me accountable](https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB) | 2:13 |
 | 63 | [pretty years](https://open.spotify.com/track/5TBkWxfdtylJzNmwXt9Gm9) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [pretty years](https://open.spotify.com/album/3Cc93a6n5rYgFDi7oTND03) | 2:59 |
-| 64 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 |
-| 65 | [Holly!](https://open.spotify.com/track/4zxQeZ8bwNnYHhPqYGtl6i) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 2\)](https://open.spotify.com/album/3qE3tGZxXzTvhhI92csWfN) | 3:10 |
+| 64 | [Holly!](https://open.spotify.com/track/4zxQeZ8bwNnYHhPqYGtl6i) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 2\)](https://open.spotify.com/album/3qE3tGZxXzTvhhI92csWfN) | 3:10 |
+| 65 | [Best Junkie You Adore](https://open.spotify.com/track/1M3EiXZ6IKE3rdDRQIr6F9) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 2:56 |
 | 66 | [you're a liar \(you love me\)](https://open.spotify.com/track/1LI8rDhxrRe9iQLECjntwG) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [you're a liar \(you love me\)](https://open.spotify.com/album/3kpCZBJAjvZn4UihCRDdxi) | 2:54 |
 | 67 | [Move On](https://open.spotify.com/track/5U8w6VEEWziplSyWHaQoO5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:11 |
 | 68 | [OBSESSED](https://open.spotify.com/track/3MVuuSJqmJvBNbDYi74O8v) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:25 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMjU0MUX28ZR.md) - [plain]
 | 113 | [Tactical](https://open.spotify.com/track/0K4medaHHc6OjEEgBy2qHn) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 6:31 |
 | 114 | [Dojo](https://open.spotify.com/track/6EdpnaVhFJZGkI0th2SQwW) | [Charlie Darker](https://open.spotify.com/artist/7C0yh6MRghHb3T7lPvtSjX) | [Dojo EP](https://open.spotify.com/album/3TYmNSqOycjNSMaXmG46zf) | 5:03 |
 
-Snapshot ID: `AcZJgAAAAAA7XViop4oAaVbYlnrGAPaz`
+Snapshot ID: `AcZPIAAAAADkLneyfg5LqhUjRZ0Tsuvp`

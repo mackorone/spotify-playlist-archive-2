@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,813 likes - 90 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,808 likes - 90 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 36 | [Call Me The Witch](https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Call Me The Witch](https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz) | 3:06 |
 | 37 | [We Only Come Out At Night \- Remastered 2012](https://open.spotify.com/track/4vkcU3UFjYsKuBibmYA3hL) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:05 |
 | 38 | [head, shoulders, knees and ankles](https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [head, shoulders, knees and ankles](https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN) | 3:12 |
-| 39 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
-| 40 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
+| 39 | [Blood Gets Thin](https://open.spotify.com/track/4Ik9Yhh91b4KsCuyx9NtyF) | [Pete And The Pirates](https://open.spotify.com/artist/4s80V6BJwBbS1UEbjeQejQ) | [One Thousand Pictures](https://open.spotify.com/album/21HqWBPHTbiD5tM7XM2Z3h) | 3:08 |
+| 40 | [Flexorcist](https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Flexorcist](https://open.spotify.com/album/182ckyYQ6wiPAbi121pAKb) | 5:57 |
 | 41 | [River Styx](https://open.spotify.com/track/6F9KW2QPgUH7GNxVWku4Nu) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo \(Deluxe Version\)](https://open.spotify.com/album/5hqmEMXO32v9e8mjWljKkP) | 3:52 |
 | 42 | [Halloween Parade](https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [New York](https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t) | 3:33 |
 | 43 | [Frankenstein](https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Frankenstein](https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB) | 4:28 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 46 | [Standing on Ghosts](https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Four Words to Stand On](https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5) | 3:31 |
 | 47 | [Skeleton Song](https://open.spotify.com/track/6r2PtKqXYf0MfAG74uLvsL) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Made of Bricks](https://open.spotify.com/album/2gDCBa5P6SnAaY0cadefQS) | 5:07 |
 | 48 | [Halloween Store](https://open.spotify.com/track/3oWGBitSdsizfiIlCfwUqV) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:59 |
-| 49 | [Season of Freaks](https://open.spotify.com/track/2zXMvhx7FN3KMumYFxkXaE) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Season of Freaks](https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd) | 3:50 |
-| 50 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
-| 51 | [Vampire Again](https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Vampire Again](https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ) | 4:02 |
+| 49 | [The Feast](https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [The Feast](https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu) | 5:02 |
+| 50 | [Vampire Again](https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Vampire Again](https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ) | 4:02 |
+| 51 | [Season of Freaks](https://open.spotify.com/track/2zXMvhx7FN3KMumYFxkXaE) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Season of Freaks](https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd) | 3:50 |
 | 52 | [Suck the Blood from My Wound](https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Transangelic Exodus](https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN) | 4:49 |
 | 53 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 |
 | 54 | [Scarecrow](https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ) | 4:15 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 80 | [To Lose My Life](https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 3:11 |
 | 81 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
 | 82 | [Blood Red Moon](https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj) | 4:31 |
-| 83 | [Hunting for Witches](https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In the City](https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y) | 3:31 |
-| 84 | [Zombie](https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs) | 4:06 |
-| 85 | [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 |
-| 86 | [Trick or Treatz](https://open.spotify.com/track/6IvJzqlKRjOaJwe85k4PHK) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Pip Paine \[Pay The £5000 You Owe\]](https://open.spotify.com/album/0LBrYpF7s0wQSyLX4Nza7w) | 4:41 |
+| 83 | [Trick or Treatz](https://open.spotify.com/track/6IvJzqlKRjOaJwe85k4PHK) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Pip Paine \[Pay The £5000 You Owe\]](https://open.spotify.com/album/0LBrYpF7s0wQSyLX4Nza7w) | 4:41 |
+| 84 | [Hunting for Witches](https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In the City](https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y) | 3:31 |
+| 85 | [Zombie](https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs) | 4:06 |
+| 86 | [delulu](https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi) | [NESYA](https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp) | [Never Truly Happy](https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh) | 2:16 |
 | 87 | [Pumpkin](https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl) | [Starlight Mints](https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE) | [Drowaton](https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw) | 2:42 |
 | 88 | [Skeleton Dance](https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K) | 3:37 |
 | 89 | [Right On, Frankenstein!](https://open.spotify.com/track/6enpWqM9QhTk7qQTXp1KB5) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [The Physical World](https://open.spotify.com/album/0jwaEsMikUvFhywAHDFrVw) | 3:05 |
 | 90 | [Halloween Blues](https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine](https://open.spotify.com/album/20K4oohZg7r3nYN8VSBtj6) | 3:16 |
 
-Snapshot ID: `AAAAAMp0xek1e3fzDIVx4cK3t4sRSp9w`
+Snapshot ID: `AAAAAHZxBa+uzb2uA1+TMQqmyDaq982a`

@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Ladipoe",
-  "num_followers": 193140,
+  "num_followers": 193157,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOfSlfOTCyX2gOVrmrh5+YwTNCWT",
+  "snapshot_id": "AAAAADWhji7fj7UXrIqi0b919xEe80z3",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:27",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-08-07 00:01:27",
       "album": {
+        "name": "E No Easy",
+        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 190719,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
+    },
+    {
+      "added_at": "2026-08-07 00:01:27",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 190515,
       "name": "Exopa",
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
-    },
-    {
-      "added_at": "2026-08-07 00:01:27",
-      "album": {
-        "name": "E No Easy",
-        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 190719,
-      "name": "E No Easy",
-      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
     },
     {
       "added_at": "2026-08-07 00:01:27",

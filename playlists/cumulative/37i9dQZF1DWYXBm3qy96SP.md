@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: DIIV
 
-2,207 songs - 5 day 8 hr 35 min
+2,208 songs - 5 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [6or9](https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [6or9](https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW) | 3:35 | 2023-09-07 | 2023-09-22 |
 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 | 2023-04-27 | 2023-05-19 |
 | [72 Seasons](https://open.spotify.com/track/6txhb14PWs9yrkTgR2jnU4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc) | 7:39 | 2023-03-30 | 2023-04-14 |
+| [7563](https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [7563](https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL) | 4:03 | 2026-08-07 |  |
 | [777 \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/2T0PkwQizLJNcOstG1ssam) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [777 \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/4b432huYiZYsf9N5IYzglh) | 3:05 | 2026-07-09 |  |
 | [81 Tonnes](https://open.spotify.com/track/45X2Oew48LzoTigtwQ5axt) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [81 Tonnes](https://open.spotify.com/album/3g1RYqFhHKypcYSibeWFoS) | 4:00 | 2024-01-25 | 2024-02-02 |
 | [89cc](https://open.spotify.com/track/5YKFXw9jVuOyNBuHT3rwGg) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [89cc](https://open.spotify.com/album/4ZCJoY5oxxn0BqMOOyUtEo) | 2:31 | 2023-08-24 | 2023-09-01 |
@@ -1820,7 +1821,7 @@
 | [Survivor](https://open.spotify.com/track/6LduKPr8tiHg0sNk6hHOvL) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STRUGGLER](https://open.spotify.com/album/08pAfyf7MaZumnHQ2yzOU6) | 2:11 | 2023-11-30 | 2023-12-08 |
 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 | 2024-01-25 | 2024-02-29 |
 | [SWEAT](https://open.spotify.com/track/17UhmlhHX5kj1MFOnvo5FT) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [SWEAT](https://open.spotify.com/album/1Opey02fRwqQTeOqwUSvY7) | 3:33 | 2025-05-22 | 2025-06-13 |
-| [Sweet Hallelujah](https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sweet Hallelujah](https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0) | 3:02 | 2026-04-09 |  |
+| [Sweet Hallelujah](https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sweet Hallelujah](https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0) | 3:02 | 2026-04-09 | 2026-08-11 |
 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-17 | 2023-08-25 |
 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga & Stevie Wonder\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 | 2023-09-28 | 2023-11-23 |
 | [Swimming with Sharks](https://open.spotify.com/track/7sQKGs82nvqz9bo5BCOdQu) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Swimming with Sharks](https://open.spotify.com/album/2pvIuGee0HSDfKN0huClZe) | 2:47 | 2024-10-17 | 2024-10-25 |

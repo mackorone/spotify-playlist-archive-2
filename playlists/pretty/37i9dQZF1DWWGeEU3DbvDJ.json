@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85285,
+  "num_followers": 85286,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKvV2wJziWkJ2L1Ja8MhvAs866eW",
+  "snapshot_id": "AAAAAANIL0G20ULn+C7V6UiNrLccc8S0",
   "tracks": [
     {
       "added_at": "2024-11-25 16:13:36",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -403,38 +419,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "one of wun",
-      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -639,22 +623,18 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -671,6 +651,26 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "The Prodigal",
-        "url": "https://open.spotify.com/album/1VI09clJhudhhJ88pARERD"
-      },
-      "artists": [
-        {
-          "name": "Josiah Queen",
-          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
-        }
-      ],
-      "duration_ms": 193048,
-      "name": "The Prodigal",
-      "url": "https://open.spotify.com/track/6BqobW3pEDxEvgznbam8kv"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 136960,
       "name": "UP!",
       "url": "https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "The Prodigal",
+        "url": "https://open.spotify.com/album/1VI09clJhudhhJ88pARERD"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        }
+      ],
+      "duration_ms": 193048,
+      "name": "The Prodigal",
+      "url": "https://open.spotify.com/track/6BqobW3pEDxEvgznbam8kv"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "That's Who I Praise",
-        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 228285,
-      "name": "That's Who I Praise",
-      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "That's Who I Praise",
+        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 228285,
+      "name": "That's Who I Praise",
+      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 129686,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/2eKoPnGnuHqIpfph45z44W"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "THINK LATER",
-        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 129686,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1531,38 +1531,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "Us Vs. Them",
-      "url": "https://open.spotify.com/track/73nX7BaV2Rat4AFVNV3YGR"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma",
-      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Popular",
         "url": "https://open.spotify.com/album/0p0FGxiCrl3afABenvtWbQ"
       },
@@ -1583,6 +1551,38 @@
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna)",
       "url": "https://open.spotify.com/track/1L8ObNUDCh7k6GwDIbfx9Q"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma",
+      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "Us Vs. Them",
+      "url": "https://open.spotify.com/track/73nX7BaV2Rat4AFVNV3YGR"
     },
     {
       "added_at": "2024-11-25 16:13:36",

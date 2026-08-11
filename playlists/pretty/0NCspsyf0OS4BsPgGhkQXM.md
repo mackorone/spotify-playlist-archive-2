@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 1,991,158 likes - 150 songs - 7 hr 45 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 1,990,849 likes - 151 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 28 | [Alive Again](https://open.spotify.com/track/5g5CCZImtkNV2LLAuLpk1A) | [Reed Wonder](https://open.spotify.com/artist/7LaEPzqOfzvbRCBTpzRkQv), [Aurora Olivas](https://open.spotify.com/artist/6OB7PzOSbC30b8E5uGjRBo) | [Alive Again](https://open.spotify.com/album/0CZBro2uO2wKiBbmCqDd3F) | 4:00 |
 | 29 | [Tonight](https://open.spotify.com/track/3q8cHHfOVlcilIpvfoAn1h) | [Highway Gloom](https://open.spotify.com/artist/0ohZI3gXk1CQiyoTpcSyT1) | [Tonight](https://open.spotify.com/album/73UKS3QbVugiekYb4ktOfy) | 2:18 |
 | 30 | [Blue KNY Factory Remix \- KNY Factory Remix](https://open.spotify.com/track/2Be2IeraxfBRyyZoID1cx2) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Kny factory](https://open.spotify.com/artist/175xNk1ZMOKlcRaTiWB7Wy) | [Blue KNY Factory Remix](https://open.spotify.com/album/4hbExwrtN2PYGnnGVchbsK) | 4:10 |
-| 31 | [if u want me](https://open.spotify.com/track/4kupKSEh2N586EvBClD0wi) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [if u want me](https://open.spotify.com/album/6RxwwgN2lzj8N7PnDKrUTF) | 1:40 |
+| 31 | [if u want me](https://open.spotify.com/track/4kupKSEh2N586EvBClD0wi) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [if u want me](https://open.spotify.com/album/6RxwwgN2lzj8N7PnDKrUTF) | 1:40 |
 | 32 | [Hope](https://open.spotify.com/track/6zMU2vqQ30YjN20oOVeDDO) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Hope](https://open.spotify.com/album/6pc5xp2N8MAJxrNfwA3vrA) | 3:41 |
 | 33 | [Xenogenesis](https://open.spotify.com/track/5iRVNYbhfWNO2VzBykX7GS) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Xenogenesis](https://open.spotify.com/album/07ej3OfHDl0ppyUrK7bTUF) | 3:53 |
 | 34 | [Queen & Poet](https://open.spotify.com/track/3VVrW80FcTYkUIMoAwckrr) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Queen & Poet](https://open.spotify.com/album/2pX1AkVkJzGKxzU64jh5wh) | 2:57 |
@@ -158,5 +158,6 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 148 | [Puppet](https://open.spotify.com/track/5EphWkRuqee9EE3Ubm1XCy) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Puppet](https://open.spotify.com/album/1WnVA6pu7yWWKDysSpzGW8) | 2:14 |
 | 149 | [did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O) | 1:55 |
 | 150 | [Missing Piece](https://open.spotify.com/track/25DOfzfpERYnUtEauoZgNA) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Missing Piece](https://open.spotify.com/album/7F5Rsmf9CA7kj2HTkGNQqk) | 2:10 |
+| 151 | [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 |
 
-Snapshot ID: `AAA6UhFU/zvrA/NLZGIIkS9o0tmFVRiY`
+Snapshot ID: `AAA6U9AnWYTY5mfHo8fYqaNdk5asqWnJ`

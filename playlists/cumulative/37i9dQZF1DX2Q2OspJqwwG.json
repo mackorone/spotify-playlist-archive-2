@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -1967,6 +1967,24 @@
     },
     {
       "album": {
+        "name": "Despre El",
+        "url": "https://open.spotify.com/album/5YtnfGrPcILTwBgZ3rfIHz"
+      },
+      "artists": [
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211967,
+      "name": "Ce S-A Intamplat Cu Noi",
+      "url": "https://open.spotify.com/track/4DTuzPQcPAJCvM4mbfAmkn"
+    },
+    {
+      "album": {
         "name": "Ce Te-as Suna",
         "url": "https://open.spotify.com/album/3ABAsh0MkHFdmZClm95xod"
       },
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 180725,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 133220,
       "name": "Dame Un Grrr",
       "url": "https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX"
@@ -3066,6 +3084,24 @@
       "duration_ms": 143315,
       "name": "De ce te ui\u021bi a\u0219a?",
       "url": "https://open.spotify.com/track/79rksdIBECEMhSlpSB1NYE"
+    },
+    {
+      "album": {
+        "name": "De Dorul Tau",
+        "url": "https://open.spotify.com/album/1WaCLEOSvu57lpH2p5Du0l"
+      },
+      "artists": [
+        {
+          "name": "ADDA",
+          "url": "https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "De Dorul Tau",
+      "url": "https://open.spotify.com/track/6GWGjOnlKZRGQToYlnqvac"
     },
     {
       "album": {
@@ -5901,6 +5937,24 @@
     },
     {
       "album": {
+        "name": "Leg\u0103m\u00e2nt",
+        "url": "https://open.spotify.com/album/3FUeLlstajzUI1oZsJWBa5"
+      },
+      "artists": [
+        {
+          "name": "Alina Divina",
+          "url": "https://open.spotify.com/artist/7nRzs8UFn7oQDkNv11F2n9"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "Leg\u0103m\u00e2nt",
+      "url": "https://open.spotify.com/track/371PKwUfIYywakui5jqNDS"
+    },
+    {
+      "album": {
         "name": "LET THE WORLD BURN",
         "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
       },
@@ -6052,6 +6106,24 @@
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {
@@ -6470,7 +6542,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 142796,
       "name": "Marimea J-Lo",
       "url": "https://open.spotify.com/track/0JQQukgIdXIP6NzaXsRxVv"
@@ -10423,6 +10495,32 @@
     },
     {
       "album": {
+        "name": "UP",
+        "url": "https://open.spotify.com/album/6HNKceDWutd60fr1e7HugQ"
+      },
+      "artists": [
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        },
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137431,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/6JrqrPXatWyG1Ra1dFE8LE"
+    },
+    {
+      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -10796,7 +10894,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 214875,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/1rTJyMvqXGedPGNPCTweHj"

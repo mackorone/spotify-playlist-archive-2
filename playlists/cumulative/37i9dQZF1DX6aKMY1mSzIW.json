@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2200",
+        "url": "https://open.spotify.com/album/0iSCzBT88AsxPalWKOc1pE"
+      },
+      "artists": [
+        {
+          "name": "EZ MIL",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185485,
+      "name": "2200",
+      "url": "https://open.spotify.com/track/0XhcCOuGBMOgckZbnY0bEv"
+    },
+    {
+      "album": {
         "name": "2GOOD4U",
         "url": "https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6"
       },
@@ -20,6 +38,42 @@
       "duration_ms": 170400,
       "name": "2GOOD4U",
       "url": "https://open.spotify.com/track/4f0XOmZT9i5n9xwUlofqwo"
+    },
+    {
+      "album": {
+        "name": "A$tro ft. Jose At Melodiya - ANG SARAP MAGTRIP (MUSIC VIDEO)",
+        "url": "https://open.spotify.com/album/0HQp1XcAv5YHLvyNzRu7E2"
+      },
+      "artists": [
+        {
+          "name": "A$tro",
+          "url": "https://open.spotify.com/artist/5794gAYyVyxoZKIhyN9OUq"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247296,
+      "name": "A$tro ft. Jose At Melodiya - ANG SARAP MAGTRIP (MUSIC VIDEO)",
+      "url": "https://open.spotify.com/track/2I9Xjb9Ppbr5XeWMxi2XWS"
+    },
+    {
+      "album": {
+        "name": "ALL NIGHT LONG",
+        "url": "https://open.spotify.com/album/1o31jfmI9e85pPuWjmNXfu"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142910,
+      "name": "ALL NIGHT LONG",
+      "url": "https://open.spotify.com/track/0vjaH9Lnm1zhMD1Q8iah9r"
     },
     {
       "album": {
@@ -74,7 +128,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 153918,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb"
@@ -216,10 +270,28 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 239480,
       "name": "Dating Tayo",
       "url": "https://open.spotify.com/track/78uCp7K1jgwSYTtgv9iPpg"
+    },
+    {
+      "album": {
+        "name": "Di Man Tinadhana",
+        "url": "https://open.spotify.com/album/3NINfcWezPVOtM1b58Yj9Z"
+      },
+      "artists": [
+        {
+          "name": "Noah Alejandre",
+          "url": "https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262058,
+      "name": "Di Man Tinadhana",
+      "url": "https://open.spotify.com/track/02X6Ujbwhdj71RZDoAWFE9"
     },
     {
       "album": {
@@ -274,7 +346,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 192380,
       "name": "Dilaw",
       "url": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW"
@@ -350,7 +422,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 206621,
       "name": "Fetty",
       "url": "https://open.spotify.com/track/1O26SjawSDVCpikl9nNUyp"
@@ -368,7 +440,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 176753,
       "name": "First Luv",
       "url": "https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP"
@@ -386,10 +458,28 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 214700,
       "name": "Ganda Gandahan",
       "url": "https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3"
+    },
+    {
+      "album": {
+        "name": "Get Dat",
+        "url": "https://open.spotify.com/album/5bm1oMsFNTXnL0bzMocRoK"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154261,
+      "name": "Get Dat",
+      "url": "https://open.spotify.com/track/61QUUWXBP6WOq0JV1iJWhp"
     },
     {
       "album": {
@@ -430,7 +520,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
@@ -466,10 +556,28 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 199436,
       "name": "Hurt Me Too",
       "url": "https://open.spotify.com/track/0vOJuzy8PJqErvoPPAWX8H"
+    },
+    {
+      "album": {
+        "name": "i dont wanna wake you up",
+        "url": "https://open.spotify.com/album/1JBK2LAmzS2P6i09W36Far"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "i dont wanna wake you up",
+      "url": "https://open.spotify.com/track/7BW76QL2BA1Trd5mrr2JnH"
     },
     {
       "album": {
@@ -532,7 +640,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 211000,
       "name": "KALAKAL",
       "url": "https://open.spotify.com/track/1cFGU7MQu0mHS5uVyD1STP"
@@ -558,10 +666,28 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 195237,
       "name": "Kunan Mong Pic",
       "url": "https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo"
+    },
+    {
+      "album": {
+        "name": "Langit",
+        "url": "https://open.spotify.com/album/7j4HxXSkpja1EYuUkIrkfc"
+      },
+      "artists": [
+        {
+          "name": "Ame",
+          "url": "https://open.spotify.com/artist/5FBMWQ27y0de4TaZawQ7bN"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328512,
+      "name": "Langit",
+      "url": "https://open.spotify.com/track/1hhFrtEV6mIySRYiXzbcHE"
     },
     {
       "album": {
@@ -619,6 +745,24 @@
     },
     {
       "album": {
+        "name": "MANHID",
+        "url": "https://open.spotify.com/album/4e1y1d6hU8avOrDH0ZTNM2"
+      },
+      "artists": [
+        {
+          "name": "LU MARZAN",
+          "url": "https://open.spotify.com/artist/2PFOavJcy4B4Eom96N7vDl"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "MANHID",
+      "url": "https://open.spotify.com/track/0Omc5FhrLMPwUQe914TgMa"
+    },
+    {
+      "album": {
         "name": "Marikit Sa Dilim",
         "url": "https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l"
       },
@@ -660,6 +804,28 @@
       "duration_ms": 221641,
       "name": "Misteryoso",
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
+    },
+    {
+      "album": {
+        "name": "MOVES",
+        "url": "https://open.spotify.com/album/7gSKdoFvMcjhkd4u9jjCFA"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191978,
+      "name": "MOVES",
+      "url": "https://open.spotify.com/track/7ftuZSdJkvRgBrAPLIwPLW"
     },
     {
       "album": {
@@ -772,6 +938,24 @@
       "duration_ms": 254400,
       "name": "Pano",
       "url": "https://open.spotify.com/track/5xes4vXHGTX4WFdX7A07Ka"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0q4PnCIkuRM46aiTltyqwg"
+      },
+      "artists": [
+        {
+          "name": "Maymay Entrata",
+          "url": "https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158793,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6JUaqyBQHFnWd4vrYHj7F0"
     },
     {
       "album": {
@@ -899,6 +1083,24 @@
     },
     {
       "album": {
+        "name": "Sorry Na Pwede Ba?",
+        "url": "https://open.spotify.com/album/26tm2scgwM8Y6wiK7eqFLw"
+      },
+      "artists": [
+        {
+          "name": "LEYO",
+          "url": "https://open.spotify.com/artist/4u5AQvOTwv3AxWAJxjt2Fg"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207424,
+      "name": "Sorry Na Pwede Ba?",
+      "url": "https://open.spotify.com/track/774LoPcw5RNuW2PGxCXSri"
+    },
+    {
+      "album": {
         "name": "Sweet Nothings (Chapter 1)",
         "url": "https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX"
       },
@@ -950,6 +1152,24 @@
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
+    },
+    {
+      "album": {
+        "name": "TATLONG WIFE",
+        "url": "https://open.spotify.com/album/4dNYpqaOVbCn4YbqLhcWMe"
+      },
+      "artists": [
+        {
+          "name": "Bugoy Na Koykoy",
+          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126058,
+      "name": "TATLONG WIFE",
+      "url": "https://open.spotify.com/track/6K6zRSzjshJPrHnndRp2JB"
     },
     {
       "album": {
@@ -1018,7 +1238,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 173500,
       "name": "TORPE",
       "url": "https://open.spotify.com/track/3IgRFhLTRlMhYApdcQ8Bot"
@@ -1094,7 +1314,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 212943,
       "name": "Yoko Na",
       "url": "https://open.spotify.com/track/6SIaYQUPOJpO8XFWeTl5dC"

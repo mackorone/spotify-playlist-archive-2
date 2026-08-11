@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,497,088 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,497,031 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 97 | [Blunt Force Blues](https://open.spotify.com/track/2k5xRkoaO5NGKzDY1mmbS3) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:11 |
 | 98 | [Behemoth](https://open.spotify.com/track/15s8i5mWdtOlkxy3iYdLHE) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Season of Surrender](https://open.spotify.com/album/0mVE3llKm6n3I41bbwjIus) | 3:39 |
 | 99 | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv) | 2:56 |
-| 100 | [Revenant](https://open.spotify.com/track/7Lt57VWFV2MRbn9fzY0kp9) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s) | [Revenant](https://open.spotify.com/album/7Cb7gWgJmePlHHhO7WAyKH) | 3:31 |
+| 100 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 |
 
-Snapshot ID: `AAAAAFzf8XBHmS+tlQXFvILAvG8fzcnS`
+Snapshot ID: `AAAAANK0KTyWUroyxEqSUkkJX/Z52tvP`

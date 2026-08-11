@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,719 likes - 160 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,762 likes - 160 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 159 | [Write You Wrong](https://open.spotify.com/track/2Ruh0fa2YupvKDIVoSagLh) | [Any Young Mechanic](https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf) | [The Modern Shoe Is Ruining The Foot](https://open.spotify.com/album/5xDsLg99JHxPwsGzVpGG21) | 4:18 |
 | 160 | [I Was Wrong](https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/70NqxOOQGVxrqUPYWa9xX4) | 3:30 |
 
-Snapshot ID: `AAAAAEj3oPTtFxFQjUnaTLBkpVfQflIW`
+Snapshot ID: `AAAAAKu6C9NdI0QTix8LZ7eqRutKZaOa`

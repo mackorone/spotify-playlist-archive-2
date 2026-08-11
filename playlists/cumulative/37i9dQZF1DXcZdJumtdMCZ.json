@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 224285,
       "name": "Boom\u2026Boom\u2026Boom",
       "url": "https://open.spotify.com/track/16b5pZ5wVxo0ot7W2u7So0"
@@ -3078,6 +3078,28 @@
       "duration_ms": 138548,
       "name": "Kaipulla",
       "url": "https://open.spotify.com/track/2hMv5q3vOFyYDdzLgH723o"
+    },
+    {
+      "album": {
+        "name": "I-Popstar Tamil | Ep 08",
+        "url": "https://open.spotify.com/album/748wx0GN1pPL9J8LEXe1x0"
+      },
+      "artists": [
+        {
+          "name": "Dosa Kallu",
+          "url": "https://open.spotify.com/artist/0UV8GmHrMz7yAWyjsgYMBo"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169727,
+      "name": "Kal Dosa ila Dosa Kall",
+      "url": "https://open.spotify.com/track/0Xrvc9NfL3nGmemZCZkWXT"
     },
     {
       "album": {
@@ -5710,6 +5732,28 @@
       "duration_ms": 202666,
       "name": "Ragala",
       "url": "https://open.spotify.com/track/0fDzTuuyKa2NJ8eKXUaAIL"
+    },
+    {
+      "album": {
+        "name": "I-Popstar Tamil | Ep 09",
+        "url": "https://open.spotify.com/album/2VUNrm34E74MAkHnnTgOBB"
+      },
+      "artists": [
+        {
+          "name": "Aadhithan",
+          "url": "https://open.spotify.com/artist/3X38v4REx7uRR5C7Dic22h"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136344,
+      "name": "Raja Mandhiri Kathai",
+      "url": "https://open.spotify.com/track/54kSieYbc6UeZMrxMJF7Q7"
     },
     {
       "album": {

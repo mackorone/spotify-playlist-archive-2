@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,870 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,945 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 78 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 |
 | 79 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 |
 | 80 | [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 |
-| 81 | [OFE NSALA](https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [OFE NSALA](https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi) | 2:10 |
-| 82 | [OMO TI O COMMON](https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [OMO TI O COMMON](https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE) | 2:54 |
+| 81 | [OMO TI O COMMON](https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [OMO TI O COMMON](https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE) | 2:54 |
+| 82 | [OFE NSALA](https://open.spotify.com/track/0dGs4wzlDrttu0YzSOaiO7) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [OFE NSALA](https://open.spotify.com/album/4NNGYV2DNrAerETQDyNUPi) | 2:10 |
 | 83 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
 | 84 | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [DJ 808](https://open.spotify.com/artist/3SsrfKWSui6m0RYGGjP8Eg) | [W For Wetego \(feat\. Young Jonn, Phyno & DJ 808\)](https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4) | 3:37 |
 | 85 | [Yebo](https://open.spotify.com/track/5gmKbf0xU7lN4hJueFRchB) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z) | [Yebo](https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0) | 4:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 99 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 100 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 |
 
-Snapshot ID: `AAAAAHIG6qs5Sl/XhTgkL5/Dozvunsoi`
+Snapshot ID: `AAAAAFtUaS94HgZwP/z9ub64xh0tCPjM`

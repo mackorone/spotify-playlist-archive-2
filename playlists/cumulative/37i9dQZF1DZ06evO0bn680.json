@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 217546,
       "name": "A Flower Remembered",
       "url": "https://open.spotify.com/track/3HJ10LoVkbMcyNhxCt9gGx"
@@ -2002,6 +2002,32 @@
       "duration_ms": 116093,
       "name": "Jesu dulcis memoria",
       "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"
+    },
+    {
+      "album": {
+        "name": "Images of Christ",
+        "url": "https://open.spotify.com/album/0undQIywvAA5eUvFzdMoy3"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Luis de Victoria",
+          "url": "https://open.spotify.com/artist/6kxOoWR3e76CmJsX9WIu4d"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104120,
+      "name": "Jesu, Dulcis Memoria",
+      "url": "https://open.spotify.com/track/1Swo8nREx4yWbFU1XPmJc3"
     },
     {
       "album": {

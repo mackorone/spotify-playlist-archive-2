@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 46106,
+  "num_followers": 46110,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAB9X+8FeLrIUfxe+FisFf2o",
+  "snapshot_id": "anfDAAAAAADyem6XbzujtCEKjC+a7Rk7",
   "tracks": [
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LQRA Session #3",
-        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
-      },
-      "artists": [
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 174285,
-      "name": "LQRA Session #3",
-      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Quiero Verte",
         "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 205714,
       "name": "Ya No Quiero Verte",
       "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LQRA Session #3",
+        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 174285,
+      "name": "LQRA Session #3",
+      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
     },
     {
       "added_at": null,
@@ -1195,6 +1195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed Estamos",
         "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 183771,
       "name": "Aqu\u00ed Estamos",
       "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PILLS",
-        "url": "https://open.spotify.com/album/5TeehqNvWD1PW3g2dg40Z9"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "PILLS",
-      "url": "https://open.spotify.com/track/1p27MVcoU5Z7XrnMbmiqXp"
     },
     {
       "added_at": null,

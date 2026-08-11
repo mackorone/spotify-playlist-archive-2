@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,450 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,454 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 39 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 40 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 41 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 |
-| 42 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
-| 43 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
+| 42 | [Bad For You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:50 |
+| 43 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
 | 44 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
 | 45 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 46 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
-| 47 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
-| 48 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
-| 49 | [Dream Girl](https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dream Girl](https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i) | 2:32 |
+| 47 | [Dream Girl](https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dream Girl](https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i) | 2:32 |
+| 48 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
+| 49 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 50 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
 
-Snapshot ID: `AAAAAEbbVmDIhoUijb5KR0wnGeoJNFAC`
+Snapshot ID: `AAAAAPxQ8yf8ePB/X0yhqfZ5AHztxFrA`

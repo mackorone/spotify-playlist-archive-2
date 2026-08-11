@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,253 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,293 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 29 | [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 |
 | 30 | [Lifers](https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 |
 | 31 | [Teeth](https://open.spotify.com/track/6d96mLOd9hUdJJVw2KFQAA) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 3:46 |
-| 32 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
-| 33 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
+| 32 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
+| 33 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
 | 34 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
 | 35 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
 | 36 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 39 | [Because I Am My Own Dog](https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Lullabies for Dogs](https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk) | 3:43 |
 | 40 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 | 41 | [Gratitude](https://open.spotify.com/track/7DqzvnJveG59t2lrbBOqHc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:13 |
-| 42 | [Cooler](https://open.spotify.com/track/2cdoxlerkmCNrwfCpxtXHj) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cooler](https://open.spotify.com/album/09u6OZ2HbGNibfg7IaYb2V) | 3:17 |
-| 43 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
+| 42 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
+| 43 | [Cooler](https://open.spotify.com/track/2cdoxlerkmCNrwfCpxtXHj) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cooler](https://open.spotify.com/album/09u6OZ2HbGNibfg7IaYb2V) | 3:17 |
 | 44 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 45 | [Dusty](https://open.spotify.com/track/6ixVpkrFvgd7EPVTLVXwwn) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Dusty](https://open.spotify.com/album/0aQlTOObqjOaKo7FYopRi5) | 2:33 |
 | 46 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 59 | [Big\-Box Store Heart](https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Big\-Box Store Heart](https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM) | 3:35 |
 | 60 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
 | 61 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
-| 62 | [noitanitsarcorP](https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Trying Not to Have a Thought](https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM) | 4:09 |
-| 63 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
+| 62 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
+| 63 | [noitanitsarcorP](https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Trying Not to Have a Thought](https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM) | 4:09 |
 | 64 | [espresso lemonade](https://open.spotify.com/track/0oyIQwGA643nX5gM934FtV) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [espresso lemonade](https://open.spotify.com/album/0HU8Quj0rptShKDVllOWoE) | 2:33 |
 | 65 | [No One is Gonna Love You](https://open.spotify.com/track/1s9gkaK7yVGhXznpDQf2Xi) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [I Just Kept On Forgetting](https://open.spotify.com/album/0ciqBm0Emp0XdOCagR0ax6) | 2:30 |
 | 66 | [This Is Teamwork!](https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [This Is Teamwork!](https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E) | 3:24 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 86 | [Cactus Song](https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [Cactus Song](https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W) | 3:02 |
 | 87 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 |
 | 88 | [Tofurkey Tough](https://open.spotify.com/track/3euvyTQL3FzbvL1MRJ2Y0M) | [Oolong](https://open.spotify.com/artist/5afJutitnXqj6M7QglqzdM) | [Oolong](https://open.spotify.com/album/09FrmnTKU7jcO8bD5NMt1r) | 3:47 |
-| 89 | [Stupefied](https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Stupefied](https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG) | 2:52 |
-| 90 | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI) | [Tired Radio](https://open.spotify.com/artist/6im3GUuYNQtmULnJgTuEpk) | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm) | 3:27 |
+| 89 | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/track/4PIdO6b98egzf3nTFDWjRI) | [Tired Radio](https://open.spotify.com/artist/6im3GUuYNQtmULnJgTuEpk) | [D.R.E.A.M\. \(Depression Ruins Everything Around Me\)](https://open.spotify.com/album/0Fx8RE2nenb0q2EPGpPMWm) | 3:27 |
+| 90 | [Stupefied](https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Stupefied](https://open.spotify.com/album/2uDfhC6awFXvovXquieyzG) | 2:52 |
 | 91 | [Yesterday](https://open.spotify.com/track/3Qmp3Q050aV20drU1kbYx9) | [Tiny Voices](https://open.spotify.com/artist/09slOICvQXnXEGDUSjmEaD), [Chris Freeman](https://open.spotify.com/artist/5EPSzvtQgmhsD7jPs26ass) | [Backseat Therapist](https://open.spotify.com/album/6OdRUVTlGm3qVwBBJe5mdJ) | 2:53 |
 | 92 | [Wind\-Up Toy](https://open.spotify.com/track/4Dc80Dqs8DZFHnL67hwypo) | [Hey, Ily](https://open.spotify.com/artist/73XtH9MpvvvcUxQxYEAX15) | [Hey, I Loathe You!](https://open.spotify.com/album/1vzhHMqzTPZVX7We3rrua1) | 3:32 |
-| 93 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 |
-| 94 | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9) | 3:04 |
+| 93 | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9) | 3:04 |
+| 94 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 |
 | 95 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
 | 96 | [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 |
 | 97 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 99 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 |
 | 100 | [Never Meant To](https://open.spotify.com/track/5NtfFrcimmMi0VNn2Nt1tO) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [Never Meant To](https://open.spotify.com/album/6G43jE12MNPUbmdzbSlBOo) | 3:04 |
 
-Snapshot ID: `AAAAAG6GaWQiH09tuq/sBKp61si38T2R`
+Snapshot ID: `AAAAAJyIZGpy9TRaFX8Uvx4z929d4sUk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con benny blanco, Selena Gomez & Becky G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,602,819 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,602,704 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 | 49 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
 | 50 | [Caramel](https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Caramel](https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI) | 2:14 |
 
-Snapshot ID: `AAAAAIkLhAyxXtG9sOFgJuQfRfzaUL+s`
+Snapshot ID: `AAAAAFxhppYMLUYl8y8A01A/WED+aGKI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Tulus
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,065 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,999 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 49 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 50 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 |
 
-Snapshot ID: `AAAAANuKFtk18j/35G/wWGYxzVWrIxRJ`
+Snapshot ID: `AAAAAGFqu4gRxE6lNjBSvhZNvbmqZd4f`

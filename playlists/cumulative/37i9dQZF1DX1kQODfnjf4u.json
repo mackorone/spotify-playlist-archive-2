@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: AD\u00c9LA",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Sara Rikas",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
     {
@@ -2058,6 +2058,24 @@
       "duration_ms": 146823,
       "name": "Jak Robot",
       "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
+    },
+    {
+      "album": {
+        "name": "CITYBOYZ NEVER LOSE",
+        "url": "https://open.spotify.com/album/1hws0UmqK6YWhCCk7UWKOu"
+      },
+      "artists": [
+        {
+          "name": "Mc Kenny",
+          "url": "https://open.spotify.com/artist/4080d3GW1xemdMcw9cEju0"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187512,
+      "name": "Jan Koller",
+      "url": "https://open.spotify.com/track/7bAHmn4F4qOjXk53gWJx7m"
     },
     {
       "album": {
@@ -4948,7 +4966,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

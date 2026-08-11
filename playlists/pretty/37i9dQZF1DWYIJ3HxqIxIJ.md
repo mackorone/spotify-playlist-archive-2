@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: daine
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,871 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 49 | [Can't Keep Doing This](https://open.spotify.com/track/65EI5wAUiOuIT7fcoeI8nu) | [Tyla Rodrigues](https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV) | [Hold On Tight](https://open.spotify.com/album/6DhnIrxXCMzkShjGiaJLIs) | 3:40 |
 | 50 | [Release Me](https://open.spotify.com/track/66PKx8UjBJtOsZFUytpUns) | [KSMBA](https://open.spotify.com/artist/6Mlg0F6j2vEBt6d4LqGjoS) | [Release Me](https://open.spotify.com/album/1KmCB3zdqrH4cxI7c3kyTJ) | 3:05 |
 
-Snapshot ID: `AAAAABr66zDSUXO9x3ctWlHdHAtfxM++`
+Snapshot ID: `AAAAANbxSn+/xdizO46dft9c3lLYYwCq`

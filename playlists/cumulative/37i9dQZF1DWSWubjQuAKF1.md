@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Basia Małecka
 
-938 songs - 1 day 21 hr 46 min
+939 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Jak autobus po mieście](https://open.spotify.com/track/6xN1I0OusRB4q49oFxzasz) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Jak autobus po mieście](https://open.spotify.com/album/6Dmz9cFWmUynb4SkQD6Uiv) | 2:28 | 2026-05-29 | 2026-06-29 |
 | [jak mam](https://open.spotify.com/track/4xgTQMScb4nqX20eNVmU5K) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [jak mam](https://open.spotify.com/album/4inuIu4ArQXEbT0Z6JVSvJ) | 2:14 | 2024-08-01 | 2025-01-24 |
 | [Jak się dziś masz?](https://open.spotify.com/track/4072h3LkxudmZImsxR9fCQ) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Po zmroku](https://open.spotify.com/album/0eqe0KUqvdMqa2GB3YtcQz) | 4:02 | 2025-03-13 | 2025-03-21 |
+| [Jak się masz?](https://open.spotify.com/track/2v47bRt43uKCgSz4S0A6eF) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Jak się masz?](https://open.spotify.com/album/7tVBD8s3hArTYpLBr5WLlH) | 2:33 | 2026-08-06 |  |
 | [Jak się trzymasz?](https://open.spotify.com/track/3UVT5F9UB61H6Q0p1fksI3) | [Promień](https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl) | [Jak się trzymasz?](https://open.spotify.com/album/72ki9XRChViCzvMWsn2ZBN) | 2:33 | 2024-07-18 | 2024-08-23 |
 | [jak to jest?](https://open.spotify.com/track/0ubUWjVsO0HcIThLXkEEff) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [jak to jest?](https://open.spotify.com/album/1YmW3cBML2TmEKWE82r8A6) | 3:41 | 2024-07-25 | 2024-09-28 |
 | [Jeans](https://open.spotify.com/track/30zdqL78rZFXVRCTFDw8zu) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Jeans](https://open.spotify.com/album/3oxAD1pjomOuHWlDlZkk1R) | 2:35 | 2026-04-17 | 2026-05-17 |
@@ -351,7 +352,7 @@
 | [jeśli pozwolisz](https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ) | [jeśli pozwolisz](https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE) | 2:12 | 2026-07-16 |  |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 | 2025-05-23 |
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
-| [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 | 2026-07-16 |  |
+| [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 | 2026-07-16 | 2026-08-11 |
 | [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
 | [Kalifornia](https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Kalifornia](https://open.spotify.com/album/7kD8PQnZQ5WetSlvANmeQk) | 4:33 | 2025-04-24 | 2025-08-20 |
 | [Kamień z serca](https://open.spotify.com/track/7zbQXoTGpZWpTekjTxfv7L) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Kamień z serca](https://open.spotify.com/album/748zCQqQwaa18ZqOExNGon) | 3:52 | 2024-06-28 | 2024-08-02 |

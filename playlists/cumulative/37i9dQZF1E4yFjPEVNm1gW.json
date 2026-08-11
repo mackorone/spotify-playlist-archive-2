@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 102738,
       "name": "drama queen",
       "url": "https://open.spotify.com/track/39Q83U8EJjNU90MIQA1Wgh"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
@@ -5159,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "Till i make a difference",
+        "url": "https://open.spotify.com/album/2KMmEDBbSxgnDdpD3VaHkY"
+      },
+      "artists": [
+        {
+          "name": "SeaWicked",
+          "url": "https://open.spotify.com/artist/24M5JwSGVpiQhLQv86ky46"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126647,
+      "name": "Till i make a difference",
+      "url": "https://open.spotify.com/track/2XB94htX0pZYdhzxCsgrtY"
+    },
+    {
+      "album": {
         "name": "Time (TopOppGen)",
         "url": "https://open.spotify.com/album/6yYdwxE24hJAdBZm7a9OTZ"
       },
@@ -5482,7 +5500,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 165575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
@@ -5688,7 +5706,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 140326,
       "name": "Won't Change",
       "url": "https://open.spotify.com/track/0xdMI51U6FoTqKRPYLH96w"
@@ -5746,7 +5764,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 138814,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"

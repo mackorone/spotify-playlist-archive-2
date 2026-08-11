@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,457 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,497 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 21 | [Sunrise at Mount Fuji](https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Sunrise at Mount Fuji](https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd) | 2:19 |
 | 22 | [ゆれる \- Instrumental\-](https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [Sketchbook](https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY) | 3:08 |
 | 23 | [So Real \(Instrumental\)](https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [So Real \(Instrumental\)](https://open.spotify.com/album/1Zm3xiOYcPdj0yGcoFqeAR) | 3:08 |
-| 24 | [Elnino](https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Stem.​tδpe](https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S) | 1:30 |
-| 25 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 |
+| 24 | [North Wing](https://open.spotify.com/track/05kA0tTx15o8wx0vYqm251) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender](https://open.spotify.com/album/6xSM45V8BDQAkDudFVCCHA) | 2:34 |
+| 25 | [Elnino](https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Stem.​tδpe](https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S) | 1:30 |
 | 26 | [Distant Lights](https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Distant Lights](https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6) | 2:17 |
 | 27 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 |
 | 28 | [just forget](https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS) | 3:55 |
-| 29 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 |
-| 30 | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi) | 3:13 |
+| 29 | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi) | 3:13 |
+| 30 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 |
 | 31 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 |
 | 32 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 |
 | 33 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 40 | [insideout](https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [insideout](https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW) | 2:25 |
 | 41 | [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 |
 | 42 | [アルゴリズム \(Algorithm\)](https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [アルゴリズム \(Algorithm\)](https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY) | 3:27 |
-| 43 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 |
-| 44 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
+| 43 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
+| 44 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 |
 | 45 | [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 |
 | 46 | [For a While](https://open.spotify.com/track/3ceTmI36BzFxm6zbI0bfnn) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Tones](https://open.spotify.com/album/5GQMwiF23cqZ5Fk3gQ76zp) | 2:48 |
 | 47 | [迷いの森](https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [迷いの森](https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 49 | [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 |
 | 50 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 |
 
-Snapshot ID: `AAAAAMCj/OsF9NCKNOZX4pynLgvUGJv9`
+Snapshot ID: `AAAAAJhLwvnlAUaC8/RXTdMaJusJ4d9Y`

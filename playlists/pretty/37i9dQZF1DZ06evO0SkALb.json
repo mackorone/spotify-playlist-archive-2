@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAARvhlJo7/g7/rjLVHnmqLS",
+  "snapshot_id": "anfDAAAAAADpVSVeIdp6d4rX7iejGahF",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmistakably Lou",
-        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 266872,
-      "name": "Spring Again",
-      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brotherman!: Lou Rawls Sings His Hits",
         "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 305053,
       "name": "This Song Will Last Forever",
       "url": "https://open.spotify.com/track/4iuXDdLvdWLg5hSHz90ii2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmistakably Lou",
+        "url": "https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 266872,
+      "name": "Spring Again",
+      "url": "https://open.spotify.com/track/0ycmyqOKpNNgjGNcENcVR6"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brotherman!: Lou Rawls Sings His Hits",
         "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 176466,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
     },
     {
       "added_at": null,
@@ -707,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+        "name": "Portrait Of The Blues",
+        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
       },
       "artists": [
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Phoebe Snow",
+          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
         }
       ],
-      "duration_ms": 291173,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
+      "duration_ms": 184026,
+      "name": "A Lover's Question",
+      "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
     },
     {
       "added_at": null,
@@ -739,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portrait Of The Blues",
-        "url": "https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE"
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
       "artists": [
         {
           "name": "Lou Rawls",
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Phoebe Snow",
-          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
         }
       ],
-      "duration_ms": 184026,
-      "name": "A Lover's Question",
-      "url": "https://open.spotify.com/track/0VYRZNTuSBR7mQrwOcR8yX"
+      "duration_ms": 291173,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/4lWVcoQHCX8UJJfTJJsQTw"
     },
     {
       "added_at": null,

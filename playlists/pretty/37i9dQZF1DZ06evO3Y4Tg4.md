@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,878 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,945 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 38 | [Hangman](https://open.spotify.com/track/7r7NTwtWAhPRtzylDu3hnE) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Hangman](https://open.spotify.com/album/5M13djplqPTZNq7eFBPKdg) | 3:54 |
 | 39 | [Psycho](https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:08 |
 | 40 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
-| 41 | [Samantha](https://open.spotify.com/track/4YLzVD32aMH4qgSsSPtNbl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Samantha](https://open.spotify.com/album/7gZazM80DtQjZyFz2e9tJe) | 3:40 |
-| 42 | [How I Met My Ex](https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 7:25 |
+| 41 | [How I Met My Ex](https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 7:25 |
+| 42 | [Samantha](https://open.spotify.com/track/4YLzVD32aMH4qgSsSPtNbl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Samantha](https://open.spotify.com/album/7gZazM80DtQjZyFz2e9tJe) | 3:40 |
 | 43 | [Disaster \(feat\. J Hus\)](https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:00 |
 | 44 | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Wanna Know Remix \(feat\. Drake\)](https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB) | 3:19 |
 | 45 | [Venting](https://open.spotify.com/track/0no5A5TF0u0k8HIf3ianXs) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Crop Circle](https://open.spotify.com/album/4375umzAIqqlWI49eue7Na) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [My 19th Birthday](https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 8:58 |
 | 50 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 
-Snapshot ID: `anZxgAAAAABiGYlqjdHh4WfcUIvYkKMv`
+Snapshot ID: `anfDAAAAAAC/selfL0FQhwuJ78kbrCi5`

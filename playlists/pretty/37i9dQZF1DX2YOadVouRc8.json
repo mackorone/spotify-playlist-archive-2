@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRPpUXgKEJVT2kn0COJSS0LKXSP",
+  "snapshot_id": "AAAAAPTTDf/nH5pZ+4Wlu/OCOOWRTCpe",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:26",
@@ -387,6 +387,26 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-08-07 00:01:26",
+      "album": {
         "name": "STATE OF MIND",
         "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
       },
@@ -403,22 +423,6 @@
       "duration_ms": 192227,
       "name": "STATE OF MIND",
       "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
-    },
-    {
-      "added_at": "2026-08-07 00:01:26",
-      "album": {
-        "name": "SHON PE (Count Your Money)",
-        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "SHON PE (Count Your Money)",
-      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -459,6 +463,22 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
+        "name": "SHON PE (Count Your Money)",
+        "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "SHON PE (Count Your Money)",
+      "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
+    },
+    {
+      "added_at": "2026-08-07 00:01:26",
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -483,42 +503,22 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
-        "name": "THAT GIRL!",
-        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
       },
       "artists": [
         {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 132817,
-      "name": "THAT GIRL!",
-      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
-    },
-    {
-      "added_at": "2026-08-07 00:01:26",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 170823,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
+      "duration_ms": 206968,
+      "name": "BIG TIME (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 206968,
-      "name": "BIG TIME (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
-    },
-    {
-      "added_at": "2026-08-07 00:01:26",
-      "album": {
         "name": "Candor",
         "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
@@ -579,18 +559,22 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
-        "name": "Before I Blow",
-        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 160776,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
+      "duration_ms": 170823,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -611,6 +595,22 @@
       "duration_ms": 174253,
       "name": "Bad Girl (feat. Asake)",
       "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "added_at": "2026-08-07 00:01:26",
+      "album": {
+        "name": "Before I Blow",
+        "url": "https://open.spotify.com/album/3KXJjWAeS9wJt5e7NvrELr"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/3dbLZHZTVgF75iVNqM0Iik"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 140367,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2026-08-07 00:01:26",
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 205373,
       "name": "Slow (feat. Ana\u00efs Cardot)",
       "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+    },
+    {
+      "added_at": "2026-08-07 00:01:26",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 140367,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 159994,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
-    },
-    {
-      "added_at": "2026-08-07 00:01:26",
-      "album": {
         "name": "Morayo",
         "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 190120,
       "name": "A Million Blessings",
       "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
+    },
+    {
+      "added_at": "2026-08-07 00:01:26",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159994,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -1135,6 +1135,38 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Sevn",
+          "url": "https://open.spotify.com/artist/31oth0hCsj7X96TO2FBBlo"
+        },
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        },
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        },
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "duration_ms": 186902,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC"
+    },
+    {
+      "added_at": "2026-08-07 00:01:26",
+      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -1175,54 +1207,22 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4"
+        "name": "Splendid (with ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
       },
       "artists": [
         {
-          "name": "Mavins",
-          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+          "name": "Osaze & Marcus",
+          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
         },
         {
-          "name": "Sevn",
-          "url": "https://open.spotify.com/artist/31oth0hCsj7X96TO2FBBlo"
-        },
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        },
-        {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
-        },
-        {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 186902,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC"
-    },
-    {
-      "added_at": "2026-08-07 00:01:26",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187037,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+      "duration_ms": 170000,
+      "name": "Splendid (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -1267,6 +1267,26 @@
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
+    },
+    {
+      "added_at": "2026-08-07 00:01:26",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187037,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -1351,22 +1371,22 @@
     {
       "added_at": "2026-08-07 00:01:26",
       "album": {
-        "name": "Splendid (with ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/4ynSvpsyERXcp6TCMW8EXA"
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
       },
       "artists": [
         {
-          "name": "Osaze & Marcus",
-          "url": "https://open.spotify.com/artist/41TLQZzGqqKFI9haJjCAhy"
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Splendid (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0M5fXyCkMgXEGeugrrU19n"
+      "duration_ms": 136533,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
     },
     {
       "added_at": "2026-08-07 00:01:26",
@@ -1471,26 +1491,6 @@
       "duration_ms": 190515,
       "name": "Exopa",
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
-    },
-    {
-      "added_at": "2026-08-07 00:01:26",
-      "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
-      },
-      "artists": [
-        {
-          "name": "K-Trap",
-          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 136533,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
     },
     {
       "added_at": "2026-08-07 00:01:26",

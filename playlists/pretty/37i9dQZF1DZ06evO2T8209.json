@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 740787,
+  "num_followers": 740765,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABrASyjBLfymRiuWoC+DpQA",
+  "snapshot_id": "anfDAAAAAAB0GmCF3XWy7g9Ewa02kn5z",
   "tracks": [
     {
       "added_at": null,
@@ -371,42 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 230090,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 253834,
-      "name": "Darling, I (feat. Teezo Touchdown)",
-      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -431,6 +395,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 253834,
+      "name": "Darling, I (feat. Teezo Touchdown)",
+      "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 230090,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -447,18 +447,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 161051,
-      "name": "Sucka Free",
-      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
+      "duration_ms": 121572,
+      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
     },
     {
       "added_at": null,
@@ -487,26 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 121572,
-      "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"
+      "duration_ms": 161051,
+      "name": "Sucka Free",
+      "url": "https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GENTLEMEN'S CLUB",
-        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "ON THE LOW feat tyler, the creator",
-      "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GENTLEMEN'S CLUB",
+        "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "ON THE LOW feat tyler, the creator",
+      "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
     },
     {
       "added_at": null,

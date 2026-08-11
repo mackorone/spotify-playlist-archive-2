@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,808 likes - 50 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,806 likes - 50 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 44 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:02 |
 | 45 | [Ancla](https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Ancla](https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A) | 8:19 |
 | 46 | [Cristo Es Necesario](https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 4:05 |
-| 47 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
+| 47 | [Esa Es La Razón \- Live](https://open.spotify.com/track/03tTO4GzNcT7ubU4QsCmGW) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Celebraré \(Live\)](https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS) | 6:35 |
 | 48 | [Seguirte](https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:38 |
-| 49 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
-| 50 | [Esa Es La Razón \- Live](https://open.spotify.com/track/03tTO4GzNcT7ubU4QsCmGW) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Celebraré \(Live\)](https://open.spotify.com/album/6Nfk8Ah8XL6RTBVw3QeCfS) | 6:35 |
+| 49 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
+| 50 | [Loco Amor \- Spanish Version](https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Loco Amor \(Spanish Version\)](https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do) | 5:03 |
 
-Snapshot ID: `anZxgAAAAADPLbjIuvb+QN7QW+aha5Wz`
+Snapshot ID: `anfDAAAAAAD29F+DOZ/oE90luwUqfem9`

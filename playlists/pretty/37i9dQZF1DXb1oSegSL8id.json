@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863544,
+  "num_followers": 863529,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANhxhXprVcPUpg3OrTAqtdgPo6WV",
+  "snapshot_id": "AAAAAJ82ygdTGPSxBjXkcjYz70SChRzU",
   "tracks": [
     {
       "added_at": "2026-06-22 17:28:18",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Contatinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
       },
@@ -503,42 +519,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "Parada Louca",
+        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "Jogadora Cara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
-      },
-      "artists": [
-        {
-          "name": "Filtr Music Brasil",
-          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         },
         {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
         }
       ],
-      "duration_ms": 154997,
-      "name": "Jogadora Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
+      "duration_ms": 179031,
+      "name": "Parada Louca",
+      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -563,22 +559,26 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Parada Louca",
-        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
+        "name": "Jogadora Cara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Filtr Music Brasil",
+          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
         },
         {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
         }
       ],
-      "duration_ms": 179031,
-      "name": "Parada Louca",
-      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
+      "duration_ms": 154997,
+      "name": "Jogadora Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Terra do Nunca (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 196830,
       "name": "Pouco a Pouco (Ao Vivo) (feat. Sorriso Maroto)",
       "url": "https://open.spotify.com/track/2lm3Ric7MeBk8hLfsiVokr"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -911,22 +911,18 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Acabei de Terminar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
+        "name": "Eu e Voc\u00ea Sempre",
+        "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
       },
       "artists": [
         {
-          "name": "Paulo e Nathan",
-          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
-        },
-        {
-          "name": "Hugo & Guilherme",
-          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
         }
       ],
-      "duration_ms": 223489,
-      "name": "Acabei de Terminar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
+      "duration_ms": 208173,
+      "name": "Me Apaixonei Pela Pessoa Errada",
+      "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -951,18 +947,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Eu e Voc\u00ea Sempre",
-        "url": "https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF"
+        "name": "Acabei de Terminar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
       },
       "artists": [
         {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+          "name": "Paulo e Nathan",
+          "url": "https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv"
+        },
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
         }
       ],
-      "duration_ms": 208173,
-      "name": "Me Apaixonei Pela Pessoa Errada",
-      "url": "https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB"
+      "duration_ms": 223489,
+      "name": "Acabei de Terminar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Ousadia & Alegria (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 148386,
       "name": "Ousadia & Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
     },
     {
       "added_at": "2026-06-22 17:28:18",

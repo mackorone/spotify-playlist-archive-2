@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 
 > Die Klassiker des Schweizer Hip\-Hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,287 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,288 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 27 | [Ein Koenig Regiert](https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0) | [EKR](https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL) | [Fresh Stuff 3](https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF) | 4:59 |
 | 28 | [I dier](https://open.spotify.com/track/6rMrK337tJujRXWYMs2QnF) | [Rotchopf](https://open.spotify.com/artist/2O6CRAwvhDRQEPSBcdIl2z) | [Freshman 2015](https://open.spotify.com/album/2atDkxK4rK89hcOWvoVNr0) | 3:20 |
 | 29 | [Nackt](https://open.spotify.com/track/0M4egOl3bq3YnaYm2H7651) | [CBN](https://open.spotify.com/artist/6J4GECNmYunLtUBdV3kknJ) | [Papillon](https://open.spotify.com/album/6xSCPgzot5N8EEHZ8Px85J) | 3:45 |
-| 30 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
-| 31 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
+| 30 | [Wenn I Läb, Wenn I Stirb](https://open.spotify.com/track/539kZ2pC0Z6SgfXz6vOZaP) | [Boys On Pills](https://open.spotify.com/artist/4q432HNxWLljhWJlYBaUDb) | [Nacht](https://open.spotify.com/album/7K0Zi0wRJt4CDVot8tvpXh) | 3:03 |
+| 31 | [Weisch Du no?](https://open.spotify.com/track/23Sd2rLCLz1Bd9BHbZb9iQ) | [Knackeboul](https://open.spotify.com/artist/5bp4bA5lgte1Iag0omrGYw), [Polo Hofer](https://open.spotify.com/artist/5J0q4JXRlR7EjwTU8gThxF) | [Picasso](https://open.spotify.com/album/15CdVyhICOqQrPprJEh7v2) | 2:50 |
 | 32 | [Min Ort 2010](https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Discochugle](https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK) | 3:40 |
 | 33 | [Summer für immer](https://open.spotify.com/track/4qg7hAn4Qyt4gx1BAoCMkO) | [Chlyklass](https://open.spotify.com/artist/1qBjtwUEeQ3Ub1ABCbRgUT) | [Ke Summer](https://open.spotify.com/album/30Mi9NDU5H1nMN39FeupxK) | 4:05 |
 | 34 | [Gott spile](https://open.spotify.com/track/45HWwavpJRnDz8NhLzlRAi) | [Diens](https://open.spotify.com/artist/20t32G3brXR31BhtjShxt0) | [Schwarzmale](https://open.spotify.com/album/7rJzADS9WauL8RXiV0Ze6d) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ENQ5d8ERww.md) - [plain]
 | 49 | [Grächtigkeitsgass \[feat\. Lo & Leduc\]](https://open.spotify.com/track/3OPLuQps2zDnD0vmhTeXIn) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Vögu zum Geburtstag](https://open.spotify.com/album/5jlOlbLwRxl46TaqbpLhy9) | 4:01 |
 | 50 | [Die Grundregeln](https://open.spotify.com/track/45mo0hGu4G9aN0P9uTHpui) | [Beat Dictator Crew](https://open.spotify.com/artist/5bj84ajO1AAm0eoF77GMQo), [Bdc](https://open.spotify.com/artist/79hvWSUEeiNSrwukWPbf1V) | [Mitgehen oder Aussteigen](https://open.spotify.com/album/3fVEtUSIcU4h73mh4diMAH) | 3:40 |
 
-Snapshot ID: `AAAAAEZmJ3Hm7vfvM/5lnuhP7LV7BXb4`
+Snapshot ID: `AAAAAESa2g3Uyc4ElS1VwkFpoySF0qny`

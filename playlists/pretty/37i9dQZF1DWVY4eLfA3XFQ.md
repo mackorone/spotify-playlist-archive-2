@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house ✈️ Tech house operators, featuring WELKER
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,845 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,933 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Swagger](https://open.spotify.com/track/468PuGB2Aii62sRbKupxD9) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [WELKER](https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t) | [Swagger](https://open.spotify.com/album/0B7bXDBpSaOWEL4yASImrW) | 3:09 |
 | 125 | [For The Soul](https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [For The Soul](https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW) | 2:55 |
 
-Snapshot ID: `AAAAAF+Hfmwj+Hs9wfuaOroalK/WODh2`
+Snapshot ID: `AAAAABM2IJGWtnvQrzNQf8x6bTrk51M8`

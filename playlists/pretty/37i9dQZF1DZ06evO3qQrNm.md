@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 
 > This is RÜFÜS DU SOL\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,546 likes - 40 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,806 likes - 40 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3qQrNm.md) - [plain]
 | 32 | [Unforgiven \- The Presets Remix](https://open.spotify.com/track/4Gim2bNaeGvR9K4zxD19nO) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Makaw](https://open.spotify.com/artist/1xaih1SB9X3RKnav4OGpEc), [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Atlas \(10 Year Anniversary\)](https://open.spotify.com/album/0cY0tA0ermWHywPtSy01oe) | 4:42 |
 | 33 | [Two Clocks](https://open.spotify.com/track/4ynDU2MqVAUmh9nWxoPYVj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 3:48 |
 | 34 | [New York \- Fahlberg Remix](https://open.spotify.com/track/7uQ6n8cAnm3yTb5QSwrTVR) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Inhale / Exhale Remixed, Vol\. 1](https://open.spotify.com/album/1Dh0p4T4xkmUuTFI1QViss) | 6:53 |
-| 35 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 |
-| 36 | [Wildfire \- Colyn Remix](https://open.spotify.com/track/6l4DAumg138A324aTQfXUi) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 7:42 |
+| 35 | [Wildfire \- Colyn Remix](https://open.spotify.com/track/6l4DAumg138A324aTQfXUi) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 7:42 |
+| 36 | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Miracle \- RÜFÜS DU SOL Remix](https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW) | 8:23 |
 | 37 | [Modest Life](https://open.spotify.com/track/0zWYh6P2LatyIs2w8fk6Qw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas](https://open.spotify.com/album/1AD72FZKFKPeamhZzcuW9l) | 3:42 |
 | 38 | [Exhale \- &friends & David Mackay Remix](https://open.spotify.com/track/3ct1EhKSNsCGkKDepzSc0n) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt) | [Inhale / Exhale Remixed, Vol\. 2](https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6) | 4:18 |
 | 39 | [Valley of the Yuccas \- Live from Joshua Tree](https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Live from Joshua Tree](https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv) | 3:47 |
 | 40 | [Standing at the Gates \- Weval Remix](https://open.spotify.com/track/1opUUDEWEvvYmNa3FzzlFA) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Inhale / Exhale Remixed, Vol\. 2](https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6) | 3:44 |
 
-Snapshot ID: `anZxgAAAAABsUWAvXwQNgiJ519sER6dX`
+Snapshot ID: `anfDAAAAAACDKWdjeixK0p0Qy+XxxvOw`

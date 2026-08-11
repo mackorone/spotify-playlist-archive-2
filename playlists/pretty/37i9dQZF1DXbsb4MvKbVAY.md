@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 74 | [Pieni exit](https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74) | [Malla](https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj) | [Pieni exit](https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f) | 3:38 |
 | 75 | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7) | [Ruusut](https://open.spotify.com/artist/5mNowcxxg3M2Iros4GTfXw), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/album/0zDctSZEAs3YRdXWy62D5m) | 3:53 |
 | 76 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 77 | [Heaven](https://open.spotify.com/track/0TkPciIoXbq6Gh7XAxghDn) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heaven](https://open.spotify.com/album/1XiXKL1F8ueDzYSGWG32tV) | 3:52 |
-| 78 | [Tower](https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Sunder](https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908) | 2:51 |
-| 79 | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT) | 3:27 |
+| 77 | [Tower](https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Sunder](https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908) | 2:51 |
+| 78 | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT) | 3:27 |
+| 79 | [Heaven](https://open.spotify.com/track/0TkPciIoXbq6Gh7XAxghDn) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heaven](https://open.spotify.com/album/1XiXKL1F8ueDzYSGWG32tV) | 3:52 |
 | 80 | [Elämä jatkuu](https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Elämä jatkuu](https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u) | 3:00 |
 | 81 | [Heart Said No](https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [Heart Said No](https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG) | 3:22 |
 | 82 | [Keho muistaa](https://open.spotify.com/track/29njXdJZFfFaFes7iP96OH) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Keho muistaa](https://open.spotify.com/album/08ZOrlXuKJJD9E9xuKDwrR) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 99 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
 | 100 | [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 |
 
-Snapshot ID: `AAAAAKe7NW3a7RX4/AvYzR0dlAHjIJS1`
+Snapshot ID: `AAAAAA49pU0ZVRoH7lw/MdtIErw1S4EP`

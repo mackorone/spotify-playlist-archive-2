@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 
 > This is Alexis Ffrench\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,311 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,327 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31nMcV.md) - [plain]
 | 49 | [The Promise](https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Escape](https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV) | 2:13 |
 | 50 | [Paper Hearts](https://open.spotify.com/track/0KFKTwfybfg4Y2A28rA00I) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Paper Hearts](https://open.spotify.com/album/4Qqrbs0aM85WekFlyqnCHR) | 3:34 |
 
-Snapshot ID: `anZxgAAAAABHA/mjN7TRnRs+QD4mJqf4`
+Snapshot ID: `anfDAAAAAADYqZw7wPioErLzVFVrKccy`

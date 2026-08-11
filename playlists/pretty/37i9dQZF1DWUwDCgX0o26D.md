@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Ellie Goulding
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,003 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,001 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 |
 | 50 | [Playboy](https://open.spotify.com/track/4Rp718wkIlPZtZuRPYP5qd) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Playboy](https://open.spotify.com/album/3xduUbS2Nci0y01gYmzsmv) | 3:29 |
 
-Snapshot ID: `AAAAAFrJ5ZIRPZRmCPFMmnMHRpu6BPmM`
+Snapshot ID: `AAAAAPCSMJe8Mz6efiDjS4YT4sC4QPSU`

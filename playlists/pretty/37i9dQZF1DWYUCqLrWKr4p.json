@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 263611,
+  "num_followers": 263653,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJMRqsD7uhALmK1OxkW/pVxthJM",
+  "snapshot_id": "AAAAACd7PGbYOlGgiqnj5xG2r65/fL7P",
   "tracks": [
     {
       "added_at": "2024-07-14 11:25:03",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-14 11:25:03",
       "album": {
-        "name": "Save the Last Dance for Me",
-        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "Save the Last Dance for Me",
-      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
-    },
-    {
-      "added_at": "2024-07-14 11:25:03",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2024-07-14 11:25:03",
+      "album": {
+        "name": "Save the Last Dance for Me",
+        "url": "https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "Save the Last Dance for Me",
+      "url": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
     },
     {
       "added_at": "2024-07-14 11:25:03",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-14 11:25:03",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 165173,
-      "name": "Lady Willpower",
-      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
-    },
-    {
-      "added_at": "2024-07-14 11:25:03",
-      "album": {
         "name": "Complete A And B Sides 1963 - 1970",
         "url": "https://open.spotify.com/album/1nqFVeqOlIVan8xkKX0O6j"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 211026,
       "name": "The Look Of Love - Mono Version",
       "url": "https://open.spotify.com/track/0j4nxNMlaLybQ2sLA1Nxpr"
+    },
+    {
+      "added_at": "2024-07-14 11:25:03",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "duration_ms": 165173,
+      "name": "Lady Willpower",
+      "url": "https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9"
     },
     {
       "added_at": "2024-07-14 11:25:03",

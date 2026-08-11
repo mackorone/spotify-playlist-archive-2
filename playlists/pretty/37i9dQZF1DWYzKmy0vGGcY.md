@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 
 > Mellow songs from the 1960s\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,074 likes - 150 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,163 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 34 | [Only the Lonely](https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Sings Lonely and Blue](https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS) | 2:27 |
 | 35 | [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 |
 | 36 | [I Like The Way You Love Me](https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:43 |
-| 37 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
+| 37 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 |
 | 38 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
-| 39 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 |
+| 39 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
 | 40 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 |
 | 41 | [Both Sides Now](https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:33 |
 | 42 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:14 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 115 | [Darling Baby \- Mono](https://open.spotify.com/track/66EcsKLusAz7ydla0ENGkg) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Motown Anthology](https://open.spotify.com/album/5VPaWphXyRUpqdXtgQqegP) | 2:35 |
 | 116 | [My True Story](https://open.spotify.com/track/1paWReMsPIqKGEOxdlHT2D) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Collectors Gold Series](https://open.spotify.com/album/5UPn8inqJJYHwFjdqTsKnq) | 2:35 |
 | 117 | [Holiday](https://open.spotify.com/track/4v691ZpLue4dwsV7eJQkIB) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Bee Gees 1st \(Deluxe Version\)](https://open.spotify.com/album/1gdufKFjd3BrmWh824oNk6) | 2:54 |
-| 118 | [Love Letters \(Alternate Take\)](https://open.spotify.com/track/3DDV3CsZan0GcUVZAtvs7N) | [Ketty Lester](https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi) | [Ketty Lester Presenting Love Letters](https://open.spotify.com/album/3u5x4ufBilwbvdf6qt61yF) | 2:42 |
-| 119 | [Sitting In The Park \- Single Version](https://open.spotify.com/track/2DW26fhI4XCVUmR0ong4Nn) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [Chess Pieces: The Very Best Of Chess Records](https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv) | 3:15 |
+| 118 | [Sitting In The Park \- Single Version](https://open.spotify.com/track/2DW26fhI4XCVUmR0ong4Nn) | [Billy Stewart](https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J) | [Chess Pieces: The Very Best Of Chess Records](https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv) | 3:15 |
+| 119 | [Love Letters](https://open.spotify.com/track/770bUE65sXIhYuLNGm4CIL) | [Ketty Lester](https://open.spotify.com/artist/36pJnWrcvAsoWm6fUqGaHi) | [You Can Have Him: Ketty Lester Sings Love Letters and Other Greats](https://open.spotify.com/album/4T9K5QKfouurfYzJ9mbAAR) | 2:36 |
 | 120 | [I'll Never Fall in Love Again](https://open.spotify.com/track/0Bx8q1kYXV4PUf4cKwszAG) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Sings Burt Bacharach](https://open.spotify.com/album/4FGkmrsBTrNdmVqUIAaRKJ) | 3:01 |
 | 121 | [Joanna](https://open.spotify.com/track/3wU4Rm4aNBXTTOTZNOEyEz) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott Walker & The Walker Brothers \- 1965\-1970](https://open.spotify.com/album/7LLelvBlEjv6EnwUiQm8Ad) | 3:53 |
 | 122 | [Runaround](https://open.spotify.com/track/4yWlf1jgRtN25PrbwVwifd) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [The Very Best of the Fleetwoods](https://open.spotify.com/album/0tudSH6CckIKFMUAP0RRf6) | 2:34 |
@@ -142,10 +142,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 132 | [Somethin' Stupid](https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [The World We Knew](https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK) | 2:42 |
 | 133 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 134 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
-| 135 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:47 |
-| 136 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 |
+| 135 | [Harbor Lights](https://open.spotify.com/track/3bZGw3sNQ1rQoosJzr7G2e) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Reflections](https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F) | 3:14 |
+| 136 | [Words](https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1) | 3:17 |
 | 137 | [Strangers In The Night](https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv) | 2:37 |
-| 138 | [Words](https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1) | 3:17 |
+| 138 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/6AIB4vBOGWM4FJ65yNWaXu) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:47 |
 | 139 | [Can't Help Falling In Love \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3hnTlNIWecT7V0IkxWHeqS) | 3:18 |
 | 140 | [A Change Is Gonna Come](https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News \(Remastered\)](https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG) | 3:11 |
 | 141 | [I Left My Heart In San Francisco](https://open.spotify.com/track/3nr6QXimwd9K4hpuFdgr6N) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Definitive 60's \(sixties\)](https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX) | 2:49 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzKmy0vGGcY.md) - [plain]
 | 149 | [Honey](https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [This Is..\. 1968](https://open.spotify.com/album/4ThbPOaSGQqqsn5FRKBX5i) | 4:01 |
 | 150 | [It Was A Very Good Year](https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA) | 4:27 |
 
-Snapshot ID: `AAAAACcricaKrg6DRbFc9bTT44ehISE7`
+Snapshot ID: `AAAAAIZ/epk5L/4s7+uJX2fvBFzSvfSn`

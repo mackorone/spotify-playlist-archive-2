@@ -1,12 +1,12 @@
 {
   "description": "The whole truth. Cover: Rick Ross",
-  "num_followers": 270416,
+  "num_followers": 270420,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG1uozBxGaup+JdgUbLKNtxXdQ4U",
+  "snapshot_id": "AAAAANQutzT9e28q0QbaFTytNOTPm5/N",
   "tracks": [
     {
       "added_at": "2026-07-16 23:00:27",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
+        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
         "name": "Watch Me Now! (with NLE Choppa)",
         "url": "https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 135000,
       "name": "Watch Me Now! (with NLE Choppa)",
       "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
-        "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "GUILT TRIPPIN (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ"
     },
     {
       "added_at": "2026-07-16 23:00:27",

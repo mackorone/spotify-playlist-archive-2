@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKXFmhEN5MF.md) - [plain]
 
 > Songs to make your Zumba workout extra fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,746 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,803 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKXFmhEN5MF.md) - [plain]
 | 49 | [Ainvayi Ainvayi](https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Band Baaja Baaraat](https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU) | 4:27 |
 | 50 | [Chammak Challo](https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Hamsika Iyer](https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Niranjan Iyengar](https://open.spotify.com/artist/5YvkJtCfhsoiQ7TjFo1Z3i) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 3:47 |
 
-Snapshot ID: `AAAAAO6C7+K0cKEKqgt0ZmHwPQnR1Lj3`
+Snapshot ID: `AAAAACEEv2HaWsFwbrhwJl+OtIr3XaiE`

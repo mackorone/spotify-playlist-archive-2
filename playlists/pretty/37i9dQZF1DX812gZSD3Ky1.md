@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงไวรัลและเพลงในกระแสตอนนี้\. ศิลปิน: FAVIQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,999 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,998 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 74 | [ถ้าเกิด \(If Only\)](https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ถ้าเกิด \(If Only\)](https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv) | 4:24 |
 | 75 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
 
-Snapshot ID: `AAAAADKnigWVBcCxgsfPlfKFQo478QhI`
+Snapshot ID: `AAAAAF/1MmgnqV4OMIt8THCD5OkOTi7Q`

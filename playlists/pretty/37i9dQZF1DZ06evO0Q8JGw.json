@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 808434,
+  "num_followers": 808470,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADqFokCNs4eH3NlpBstsTIL",
+  "snapshot_id": "anfDAAAAAAAYP0sNydyB2fIMbaijDCZd",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lightning Bolt",
-        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 340320,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
+      "duration_ms": 174173,
+      "name": "Soldier of Love",
+      "url": "https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+        "name": "Lightning Bolt",
+        "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 174173,
-      "name": "Soldier of Love",
-      "url": "https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB"
+      "duration_ms": 340320,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
     },
     {
       "added_at": null,

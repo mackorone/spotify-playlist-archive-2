@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Todavía queda verano que celebrar y con el nuevo álbum de RØZ, mejor! Escucha lo más relevante de la semana aquí mero
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,402 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,372 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 48 | [Mentirasmentiras](https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Mentirasmentiras](https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef) | 4:08 |
 | 49 | [El Ceviche](https://open.spotify.com/track/1Iqaw43wwpxLqZCb06YK18) | [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [El Ceviche](https://open.spotify.com/album/4vZeSqIMoFzwXCne8uyGcL) | 2:46 |
 | 50 | [Besos Pendientes](https://open.spotify.com/track/0mxWQ2nVDq7m2QrKLewLIe) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Besos Pendientes](https://open.spotify.com/album/3UiJZvZHh5VNDX8HM5C0oJ) | 2:12 |
-| 51 | [Contrabando](https://open.spotify.com/track/28u7Opeh19ezZal5fCshci) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [PLACERES](https://open.spotify.com/album/7nfdYQ6saypU0zS9t0OBFf) | 2:52 |
+| 51 | [Contrabando](https://open.spotify.com/track/28u7Opeh19ezZal5fCshci) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Young Weapon](https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx) | [PLACERES](https://open.spotify.com/album/7nfdYQ6saypU0zS9t0OBFf) | 2:52 |
 | 52 | [Las Fotos](https://open.spotify.com/track/3CYX8cFIuYtniThns4zvLx) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Las Fotos](https://open.spotify.com/album/12H2GukasyoPShDZkTicVv) | 2:49 |
 | 53 | [MOV00445](https://open.spotify.com/track/4jQar7poXIKpICuanvMZR2) | [008RACCA](https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM) | [MOV00445](https://open.spotify.com/album/5usUFMmjcUYq7njl6g7rGE) | 2:16 |
 | 54 | [La Espina](https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Espina](https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf) | 3:26 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 81 | [Pausa](https://open.spotify.com/track/71H5hTp54VZa50oTSP8UPY) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Pausa](https://open.spotify.com/album/7qMMTRCvc1eoSbLDWfaUeB) | 3:05 |
 | 82 | [Me voy](https://open.spotify.com/track/0Vlcr8RRd1dUatoZTcWk8b) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Me voy](https://open.spotify.com/album/54tBpV6QTpf16CkxfpRD9R) | 2:50 |
 
-Snapshot ID: `AAAAAIl8wJpMzyfFFZpK39DIQsJW2Hsy`
+Snapshot ID: `AAAAABHDtVs7eoy3DrzIkgScP/QXoDZ+`

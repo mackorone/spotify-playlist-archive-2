@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vit\u00e3o",
-  "num_followers": 358051,
+  "num_followers": 358006,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB6qRm19JQleDb7evwWocqEqz9CF",
+  "snapshot_id": "AAAAAOUiRc/bHygfMQE1BWD2jbT3x+p5",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:10",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "TALVEZ",
+        "url": "https://open.spotify.com/album/50T4v8yCb0Goip3Jw5RLuo"
+      },
+      "artists": [
+        {
+          "name": "Pri Jardim",
+          "url": "https://open.spotify.com/artist/5KdNzdjfk8cr8cttGMzkg1"
+        }
+      ],
+      "duration_ms": 156694,
+      "name": "TALVEZ",
+      "url": "https://open.spotify.com/track/4BuvuVojKBW8jLiTdLStkY"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 177130,
       "name": "BABY",
       "url": "https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "TALVEZ",
-        "url": "https://open.spotify.com/album/50T4v8yCb0Goip3Jw5RLuo"
-      },
-      "artists": [
-        {
-          "name": "Pri Jardim",
-          "url": "https://open.spotify.com/artist/5KdNzdjfk8cr8cttGMzkg1"
-        }
-      ],
-      "duration_ms": 156694,
-      "name": "TALVEZ",
-      "url": "https://open.spotify.com/track/4BuvuVojKBW8jLiTdLStkY"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "Vers\u00e3o dos Fatos",
+        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 162532,
+      "name": "Vers\u00e3o dos Fatos",
+      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 169806,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "acho que sou rom\u00e2ntica",
         "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 152042,
       "name": "eu me entendo mal",
       "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "Vers\u00e3o dos Fatos",
-        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 162532,
-      "name": "Vers\u00e3o dos Fatos",
-      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Caipiranhas",
-        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
-      },
-      "artists": [
-        {
-          "name": "Aretuza Lovi",
-          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
-        }
-      ],
-      "duration_ms": 116097,
-      "name": "Caipiranhas",
-      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Te Amar",
         "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 178645,
       "name": "Te Amar",
       "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Caipiranhas",
+        "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        }
+      ],
+      "duration_ms": 116097,
+      "name": "Caipiranhas",
+      "url": "https://open.spotify.com/track/5OqyGoao9eplES1cFvA4JZ"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Tudo Pelo Show",
-        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 152232,
-      "name": "Os Mo\u00e7os da R\u00e1dio",
-      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "F\u00faria",
         "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
-      },
-      "artists": [
-        {
-          "name": "Lorenza Pozza",
-          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
-        }
-      ],
-      "duration_ms": 220750,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 122628,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
+      },
+      "artists": [
+        {
+          "name": "Lorenza Pozza",
+          "url": "https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "CASA MOLHADA",
-        "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
-      },
-      "artists": [
-        {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 145237,
-      "name": "N\u00c3O VOU PARAR",
-      "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Te Amar Me D\u00e1 Asas",
         "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
       },
@@ -923,6 +903,26 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "CASA MOLHADA",
+        "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 145237,
+      "name": "N\u00c3O VOU PARAR",
+      "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Eu N\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/6ymAyOn4z2ERHg0QbzLtyG"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 192857,
       "name": "Eu N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -971,6 +955,22 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Dias de Mar",
-        "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
-      },
-      "artists": [
-        {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Dias de Mar",
-      "url": "https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "No Mar",
         "url": "https://open.spotify.com/album/0UIt3RBifk0pziphGUHL2i"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 171194,
       "name": "No Mar",
       "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Dias de Mar",
+        "url": "https://open.spotify.com/album/6SZga9uv9jw1js7wphE1Vo"
+      },
+      "artists": [
+        {
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Dias de Mar",
+      "url": "https://open.spotify.com/track/5QkmTeCtJrJxOkc2Dryc9d"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "Brisa Boa",
+        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00eatu",
+          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Brisa Boa",
+      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "Brisa Boa",
-        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00eatu",
-          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Brisa Boa",
-      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Caos e Poesia",
         "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
       },
@@ -1247,26 +1263,6 @@
       "duration_ms": 185333,
       "name": "Vida N\u00e3o Termina",
       "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "Pura Poesia",
-        "url": "https://open.spotify.com/album/6FuUAYQPklC2nDknB1JPXN"
-      },
-      "artists": [
-        {
-          "name": "Bia Trindade",
-          "url": "https://open.spotify.com/artist/7l8w6DIaC0D9ioT6CvmVTT"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Pura Poesia",
-      "url": "https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi"
     }
   ],
   "unique_name": "Palco POP",

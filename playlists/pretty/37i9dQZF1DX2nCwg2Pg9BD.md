@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nCwg2Pg9BD.md) - [plain]
 
 > Authentic, bold stories centering trans voices, told on their own terms.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAAGNSzbAQPJDpr570dhcV5arA3RM`
+Snapshot ID: `AAAAAEyo6BgT0RJzcQu9Q8J29uQmLaj3`

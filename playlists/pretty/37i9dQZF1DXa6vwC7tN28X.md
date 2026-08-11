@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,796 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,801 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 16 | [La Tangómana](https://open.spotify.com/track/2J4tKJ8yxPAwXCpJZsYAbf) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 2:20 |
 | 17 | [Malena](https://open.spotify.com/track/4fpCB6Xu0cs8kBDFWb15iW) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El cantante](https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr) | 2:27 |
 | 18 | [Irresponsables](https://open.spotify.com/track/4dOwGU2xdR8Yh5w4yJJLOU) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:23 |
-| 19 | [Whisky Doble](https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Pecado Capital](https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79) | 5:03 |
-| 20 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
+| 19 | [Por Una Cabeza](https://open.spotify.com/track/2ENmZ1pXioaCPhFqE6rArK) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 4:38 |
+| 20 | [Whisky Doble](https://open.spotify.com/track/4X5rdCoiPwvSabu9A44UVD) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Pecado Capital](https://open.spotify.com/album/3SBFhUZkLnK5cqbKg6bn79) | 5:03 |
 | 21 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 |
 | 22 | [Mano a mano](https://open.spotify.com/track/1AqNn5SBTndUxzCqFI6brK) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 3:18 |
 | 23 | [Volver Ni A Palos](https://open.spotify.com/track/1sVcH6JpkTidkzcfKQuioM) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Otro Le Travaladna](https://open.spotify.com/album/78CgEIHzH8TtgNmV63lMbF) | 2:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 44 | [Ciudad de los Tangos Sarpados](https://open.spotify.com/track/42aMjiZ6vLYCe7yD8RM0H9) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Federico Mizrahi](https://open.spotify.com/artist/2L2vj05sMjVY6kh1UEHhjg), [Luis Longhi](https://open.spotify.com/artist/4Cgo07ZCIZW8VnYn2sjflH), [Walter Chino Laborde](https://open.spotify.com/artist/16dxgUOiCDItNawZjRwgOI), [Omar Mollo](https://open.spotify.com/artist/1mgAJTJwXEJYkRdePQ5nEW) | [El Tango Es Puro Cuento](https://open.spotify.com/album/4wee0rFwBNvKpKIWHmhm6c) | 3:16 |
 | 45 | [Yira Yira](https://open.spotify.com/track/4H4UcF9pCpX3vAImo2dBam) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 3:01 |
 
-Snapshot ID: `AAAAAPx0WEt7FS9wwGCuSHqEn1jLaxaO`
+Snapshot ID: `AAAAADY/lW5uXa2uxOBB3jZt8da6kEhN`

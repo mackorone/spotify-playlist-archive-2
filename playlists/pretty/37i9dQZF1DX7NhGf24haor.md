@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Rebelion & The Saints
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,251 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,280 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 119 | [You Were Never Mine](https://open.spotify.com/track/3GNeKccwYGYVz53tnjLEad) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [You Were Never Mine](https://open.spotify.com/album/1qXglUZbKDmBvMH75Gk21f) | 3:15 |
 | 120 | [Enter The Rawzone \- Rawzone Arena 2026 Anthem](https://open.spotify.com/track/1YMIAPZm1o63EBQ0lmfjBg) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Losty](https://open.spotify.com/artist/0OGSmH6Q5cwSCp9R7FWqHY) | [Enter The Rawzone \(Rawzone Arena 2026 Anthem\)](https://open.spotify.com/album/3RtNBfs4L6BRst7jIBj1JR) | 4:19 |
 
-Snapshot ID: `AAAAAHL3VX69y21x1bNC8XAxPXwzxb0V`
+Snapshot ID: `AAAAADJjPy919cbKKRHSf/dO0ntIAo5W`

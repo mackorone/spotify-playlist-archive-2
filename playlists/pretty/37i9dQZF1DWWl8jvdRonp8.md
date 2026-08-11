@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,041 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,118 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 65 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
 | 66 | [Invéntame](https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:25 |
 | 67 | [Antes de Que Te Vayas](https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Antes de Que Te Vayas](https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0) | 3:25 |
-| 68 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:48 |
-| 69 | [Mira Nomas](https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
-| 70 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
+| 68 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
+| 69 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:48 |
+| 70 | [Mira Nomas](https://open.spotify.com/track/3rgDRWbIntoNsUeui2q0NE) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
 | 71 | [Prefiero Partir](https://open.spotify.com/track/4BQsF3AM4l1i1vLlcIwajQ) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [No Conozco el Miedo](https://open.spotify.com/album/6ST9whr0v2d5ABrMDAyKKb) | 3:26 |
 | 72 | [Y Ahora Te Vas](https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:18 |
 | 73 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 85 | [O Me Voy O Te Vas](https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:51 |
 | 86 | [¿ A Dónde Vamos A Parar ?](https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:55 |
 | 87 | [Y Ahora Te Vas](https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:35 |
-| 88 | [Para Que No Te Vayas](https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
-| 89 | [Sigue Sin Mi](https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:04 |
-| 90 | [Mi Rechazo](https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:34 |
+| 88 | [Sigue Sin Mi](https://open.spotify.com/track/0AVLg8enpkzc7cypGu1wYQ) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:04 |
+| 89 | [Mi Rechazo](https://open.spotify.com/track/7mPVt1aTriYEefSYJP49Xy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:34 |
+| 90 | [Para Que No Te Vayas](https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
 | 91 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
 | 92 | [Presiento Que Voy A LLorar](https://open.spotify.com/track/7JCwx7zdxadadsOP8Z2til) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:13 |
 | 93 | [Homenaje A Los Bukis](https://open.spotify.com/track/2uIA8ma0GIFyvJqCUhjlLv) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya) | [Homenaje A Los Bukis](https://open.spotify.com/album/2R2Jh0U1XVnthWL63gZy3K) | 10:19 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [La Pareja Ideal](https://open.spotify.com/track/2eJRI9i2EoNxYSkc2jvFfH) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Sin Él](https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK) | 3:31 |
 | 125 | [Presiento que voy a llorar](https://open.spotify.com/track/0fIvZVrFW3K9k1042sAZWw) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y carisias](https://open.spotify.com/album/0UKsPxUwVah0LYXoAKQXNV) | 3:20 |
 
-Snapshot ID: `AAAAAH0ais7yBrqNwRjkR/skZSZ1qL/H`
+Snapshot ID: `AAAAAKxM3A1Wgah4ekvmVmIXTXn0Lx2+`

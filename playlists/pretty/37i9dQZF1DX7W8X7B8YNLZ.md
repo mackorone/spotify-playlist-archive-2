@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,029 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,060 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 49 | [L'avventura](https://open.spotify.com/track/3E1xf2aDc3eRFt69PrXnaw) | [Stone & Charden](https://open.spotify.com/artist/4ndPdP6aVSDCvhsjOHLGjb) | [22 titres inoubliables](https://open.spotify.com/album/72euUqr3HkpoXf7I8UUGAs) | 3:36 |
 | 50 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 
-Snapshot ID: `AAAAAMS3hwmfcxMnE1ezGbL9ZVGBtaWZ`
+Snapshot ID: `AAAAAEOPPpZ5598UW2YcOEt6Yz1MIw8Z`

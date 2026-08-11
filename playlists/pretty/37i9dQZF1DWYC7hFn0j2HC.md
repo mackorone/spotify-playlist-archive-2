@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Antonio Aguilar en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,173,945 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,173,947 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
 | 70 | [El Aventurero \(Yo El Aventurero\)](https://open.spotify.com/track/4v0CTkZMtlTrFSjNaD4Y27) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [El Charro de México](https://open.spotify.com/album/4O87qGykYzHA5dk9PjLJnm) | 3:14 |
 
-Snapshot ID: `AAAAAEwwPuev34h86F9G+LYHngnGIr8s`
+Snapshot ID: `AAAAACOdSbGeT5zSi76RviouxQ3fVrNH`

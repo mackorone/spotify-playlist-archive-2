@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: This Is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,937,233 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937,035 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [sucker punch !](https://open.spotify.com/track/0btEFu2NtMqxTdHwpp1svx) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [sucker punch !](https://open.spotify.com/album/2u2RAhN8yXLb5P4Glbskgo) | 2:04 |
 | 80 | [tough luck](https://open.spotify.com/track/2tzM3oS9IyfDzSCIgzT31M) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [tough luck](https://open.spotify.com/album/6AfNejrkObB7aCHssKIM0j) | 1:31 |
 
-Snapshot ID: `AAAAAKXom991QCfSgq0vDj7UdAYhIQ4Z`
+Snapshot ID: `AAAAAAtAh3klPK9Aq134DVk8R33bzRPg`

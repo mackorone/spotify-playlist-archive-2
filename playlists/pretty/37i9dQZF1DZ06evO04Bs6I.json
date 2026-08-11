@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 117086,
+  "num_followers": 117088,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABgkVs3HYKKAvgKE5+H8Og1",
+  "snapshot_id": "anfDAAAAAAAhsE8FsApBJgcCXq7yRksd",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Faz Al\u00e9m (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
+        "name": "O Nome de Jesus",
+        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
       },
       "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 290080,
-      "name": "Deus Faz Al\u00e9m - Ao Vivo",
-      "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
+      "duration_ms": 307741,
+      "name": "O Nome de Jesus",
+      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nome de Jesus",
-        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
+        "name": "Deus Faz Al\u00e9m (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
       "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 307741,
-      "name": "O Nome de Jesus",
-      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
+      "duration_ms": 290080,
+      "name": "Deus Faz Al\u00e9m - Ao Vivo",
+      "url": "https://open.spotify.com/track/5tteTRlti30bR43W34YYbQ"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
         "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 518306,
       "name": "Tetelestai (Ao Vivo) (feat. Carol Tauber)",
       "url": "https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,

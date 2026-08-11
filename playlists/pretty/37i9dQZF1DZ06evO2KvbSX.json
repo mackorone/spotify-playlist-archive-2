@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 810106,
+  "num_followers": 810152,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADYM6a0dpnQ9zD/v6yGag4u",
+  "snapshot_id": "anfDAAAAAADykBXUwdMjUeR4BCqtrjb+",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Survive - EP",
-        "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 174688,
-      "name": "The Day That I Die",
-      "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 218900,
       "name": "Before You Go - Guitar Acoustic",
       "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survive - EP",
+        "url": "https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 174688,
+      "name": "The Day That I Die",
+      "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
     },
     {
       "added_at": null,

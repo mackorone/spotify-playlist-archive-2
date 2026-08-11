@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,520 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,516 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 52 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
 | 53 | [No Hook](https://open.spotify.com/track/6p4ZXhG1JvoKDSQXPWaaBK) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [No Hook](https://open.spotify.com/album/4s7wzQo9sxeBz8TvS1uBHz) | 2:19 |
 | 54 | [Bait](https://open.spotify.com/track/1oQ6nzW5K2z2BLOugUOZKZ) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [Bait](https://open.spotify.com/album/5DqnYPAj92aFItb4q4jc22) | 2:13 |
-| 55 | [DPMO](https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ) | [Equation Billionz](https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL) | [DPMO](https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY) | 2:27 |
-| 56 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
+| 55 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
+| 56 | [DPMO](https://open.spotify.com/track/2Se2z9lj8LLzTdNP6GnhJJ) | [Equation Billionz](https://open.spotify.com/artist/2VIodUBANwxtofvbxmZ0PL) | [DPMO](https://open.spotify.com/album/0a6VY1IPF1Gv77FeCXp7XY) | 2:27 |
 | 57 | [Glistenin'](https://open.spotify.com/track/5wlDMTdMvXSOmfDz9Cqb0I) | [JAY MALAKHI](https://open.spotify.com/artist/3P8v5QqGUYcqpL2IqJs6Rb) | [Glistenin'](https://open.spotify.com/album/4Nhvj3dexYXs3jecSBlMRy) | 2:58 |
 | 58 | [Couple Little Things](https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:26 |
 | 59 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 60 | [LTC](https://open.spotify.com/track/4fgEnPmto9LJyvJVulYi1f) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 3:01 |
 | 61 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
 | 62 | [Because Of You](https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7), [Serena](https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX) | [Because Of You](https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO) | 2:57 |
-| 63 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
-| 64 | [Sexy Back](https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Sexy Back](https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC) | 2:24 |
+| 63 | [Sexy Back](https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Sexy Back](https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC) | 2:24 |
+| 64 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
 | 65 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |
 | 66 | [NOT THAT DEEP](https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV) | [somecallmewale](https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI) | [NOT THAT DEEP](https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3) | 4:00 |
 | 67 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 76 | [Lies](https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [Lies](https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe) | 3:23 |
 | 77 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
 | 78 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 |
-| 79 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
-| 80 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
-| 81 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
-| 82 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 |
+| 79 | [Love Don't Change](https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus) | [K5ive](https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM) | [Love Don't Change](https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5) | 3:34 |
+| 80 | [Again](https://open.spotify.com/track/3AaVZnhCa0yMWnZmnSeCh4) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Again](https://open.spotify.com/album/50jLOnNEfgFgO3AG15uIq4) | 2:14 |
+| 81 | [Frozen Gold](https://open.spotify.com/track/0yKiMguQ0krHIg1mnZxHaC) | [MKAY](https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej) | [Frozen Gold](https://open.spotify.com/album/6nhUUjIpCcOTn8cUbOGCPy) | 2:18 |
+| 82 | [Why you gotta lie?](https://open.spotify.com/track/1wLzyMznZ5BmyRLAmxpDXa) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/1ZXPhI3Vizsp17BV9lrlg7) | 2:36 |
 | 83 | [If I Die Young](https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [If I Die Young](https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX) | 3:09 |
 | 84 | [Late Night Trips](https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Late Night Trips](https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE) | 1:37 |
-| 85 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
-| 86 | [Love Don't Change](https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus) | [K5ive](https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM) | [Love Don't Change](https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5) | 3:34 |
+| 85 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 |
+| 86 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
 | 87 | [2:30AM](https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [2:30AM](https://open.spotify.com/album/3rEQWtgp62x1l4iXVGoTmv) | 3:02 |
 | 88 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 89 | [Up all night](https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt) | [LBSZN](https://open.spotify.com/artist/0f4fUl6px5XFPGW9FXi5Ff) | [Up all night](https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [One Mic](https://open.spotify.com/track/4dNN3iheouRkT2A9WELKpn) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [One Mic](https://open.spotify.com/album/0WjAPpOCAJlotirvomOlrS) | 2:01 |
 | 100 | [Love Letter](https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3) | 2:32 |
 
-Snapshot ID: `AAAAAN+Xuv70qzckPQypXYHyxzOtLqEg`
+Snapshot ID: `AAAAAOL826z/4dxJWTeKRMyfFfewAu5b`

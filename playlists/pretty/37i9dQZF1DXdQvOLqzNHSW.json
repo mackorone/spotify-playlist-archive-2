@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1013823,
+  "num_followers": 1013775,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnD6qMQCephzI8rZNW9ur72cpMG",
+  "snapshot_id": "AAAAAHIONe0elUQl7Yu2hmVzBA4rz6mg",
   "tracks": [
     {
       "added_at": "2026-03-23 14:42:41",
@@ -515,6 +515,30 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Fauxllennium (Japanese Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        },
+        {
+          "name": "Neggy Gemmy",
+          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Monday, Monday",
+      "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 175612,
       "name": "I'll Still Call",
       "url": "https://open.spotify.com/track/1SerYv7SabsGxVl0qIKES9"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Fauxllennium (Japanese Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        },
-        {
-          "name": "Neggy Gemmy",
-          "url": "https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Monday, Monday",
-      "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "If Not Now?",
-        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Theirs13",
-      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Your Touch",
         "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 206394,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Bubba",
-      "url": "https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Floating Parade",
         "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 229619,
       "name": "Floating Parade",
       "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Bubba",
+      "url": "https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "Pleasure Is Everything",
+        "url": "https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 167231,
+      "name": "Cold Paris Vogue",
+      "url": "https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "Six Songs",
         "url": "https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Pleasure Is Everything",
-        "url": "https://open.spotify.com/album/2DYTOO7Rmhn1XXR8kfnI52"
+        "name": "Best Comedown Ever",
+        "url": "https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv"
       },
       "artists": [
         {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+          "name": "Swimm",
+          "url": "https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX"
         }
       ],
-      "duration_ms": 167231,
-      "name": "Cold Paris Vogue",
-      "url": "https://open.spotify.com/track/5HNFaTFYk4oa21lpT5lmLz"
+      "duration_ms": 217483,
+      "name": "No Ties",
+      "url": "https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1187,22 +1203,6 @@
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Best Comedown Ever",
-        "url": "https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv"
-      },
-      "artists": [
-        {
-          "name": "Swimm",
-          "url": "https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX"
-        }
-      ],
-      "duration_ms": 217483,
-      "name": "No Ties",
-      "url": "https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "I Ask Nothing of You",
-        "url": "https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT"
-      },
-      "artists": [
-        {
-          "name": "LOMELI",
-          "url": "https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB"
-        }
-      ],
-      "duration_ms": 254300,
-      "name": "Human Breach",
-      "url": "https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "Sorrow",
         "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
       },
@@ -1303,22 +1287,6 @@
       "duration_ms": 140898,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 218848,
-      "name": "Really You",
-      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1339,6 +1307,38 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
+        "name": "I Ask Nothing of You",
+        "url": "https://open.spotify.com/album/2gPfwzwUnPooH6Ax6lHVWT"
+      },
+      "artists": [
+        {
+          "name": "LOMELI",
+          "url": "https://open.spotify.com/artist/5HhNeohGg8OhavQVZsiHxB"
+        }
+      ],
+      "duration_ms": 254300,
+      "name": "Human Breach",
+      "url": "https://open.spotify.com/track/0XFV1dLOQNdzEhiNUHH0VP"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 218848,
+      "name": "Really You",
+      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "go steady",
-        "url": "https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3"
-      },
-      "artists": [
-        {
-          "name": "TENDER",
-          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
-        }
-      ],
-      "duration_ms": 237321,
-      "name": "go steady",
-      "url": "https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "What\u2019s In The Tea?",
         "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 173052,
       "name": "What\u2019s In The Tea?",
       "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "go steady",
+        "url": "https://open.spotify.com/album/3zKPxCnOoNvoDKAElJAvI3"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "duration_ms": 237321,
+      "name": "go steady",
+      "url": "https://open.spotify.com/track/29kTSgO3YHSArvtVZwiX2r"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
-      },
-      "artists": [
-        {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
         "name": "yoyo",
         "url": "https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 322586,
       "name": "Dot",
       "url": "https://open.spotify.com/track/4zgwH2Bcs2dweaZ71hNotH"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1595,34 +1595,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Lionel Boy",
-        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
+        "name": "Holy Waters",
+        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
       },
       "artists": [
         {
-          "name": "Lionel Boy",
-          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
         }
       ],
-      "duration_ms": 224133,
-      "name": "Flower Girl",
-      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
-    },
-    {
-      "added_at": "2026-03-23 14:42:41",
-      "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
-      },
-      "artists": [
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 150402,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
+      "duration_ms": 183426,
+      "name": "Dream Of You",
+      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1643,18 +1627,34 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Holy Waters",
-        "url": "https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy"
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/1kbef2cypHylGieQcwSInH"
       },
       "artists": [
         {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
         }
       ],
-      "duration_ms": 183426,
-      "name": "Dream Of You",
-      "url": "https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n"
+      "duration_ms": 150402,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f"
+    },
+    {
+      "added_at": "2026-03-23 14:42:41",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "duration_ms": 221692,
+      "name": "Don Lemon",
+      "url": "https://open.spotify.com/track/78qzUOwcFqXdA5npQMLwAh"
     },
     {
       "added_at": "2026-03-23 14:42:41",
@@ -1675,22 +1675,18 @@
     {
       "added_at": "2026-03-23 14:42:41",
       "album": {
-        "name": "Hundred Fifty Roses",
-        "url": "https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR"
+        "name": "Lionel Boy",
+        "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
       },
       "artists": [
         {
-          "name": "Du\u00f1e",
-          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh"
+          "name": "Lionel Boy",
+          "url": "https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh"
         }
       ],
-      "duration_ms": 96525,
-      "name": "Flowers & Honey Interlude",
-      "url": "https://open.spotify.com/track/6DsvXic2O817vrPB0btljC"
+      "duration_ms": 224133,
+      "name": "Flower Girl",
+      "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
     }
   ],
   "unique_name": "late night vibes",

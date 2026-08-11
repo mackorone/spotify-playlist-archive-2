@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 
 > mood:  😎✈️
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,998 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,009 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 29 | [Overdoze](https://open.spotify.com/track/28jJuD6gIFSySMYy9DTmwZ) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:22 |
 | 30 | [MAGHRIBI](https://open.spotify.com/track/1Z420TiuEXtSn9SEUIC3ks) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 4:14 |
 | 31 | [T9aws](https://open.spotify.com/track/4nlCsDNb1kXoFzshANeIfT) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [AUJ](https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx) | 3:42 |
-| 32 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
-| 33 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
+| 32 | [PSYCHO](https://open.spotify.com/track/7xd3yfmMFrbgNWCcazYOeG) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [A9RASS x PSYCHO](https://open.spotify.com/album/1SzqinDG9Pfvg59qYnwJHs) | 3:40 |
+| 33 | [Sabab 3lach](https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Sabab 3lach](https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS) | 3:40 |
 | 34 | [Gospel](https://open.spotify.com/track/1aDxG3kCAjBXBKz7IdrIKN) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Molno Jorjo](https://open.spotify.com/album/5kQ3ixWHYSnogyUZpurEkc) | 2:36 |
 | 35 | [LILLAH](https://open.spotify.com/track/7wHBBddAaSSkIWpfwMhqdU) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 2:27 |
 | 36 | [B&M](https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [Phoenix](https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5NxMJ2fu7Y.md) - [plain]
 | 49 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 |
 | 50 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 |
 
-Snapshot ID: `AAAAANXo99H9cJMAyjgqBDFZwvXxm116`
+Snapshot ID: `AAAAAFZGRS9QJAP5wJKx4++vvHUfCSaa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,383 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,405 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 41 | [El Gallo de Sinaloa](https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Gallo de Sinaloa](https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H) | 3:27 |
 | 42 | [El Dos Dedos \- Remastered 2025](https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:27 |
 | 43 | [Rigo Coria](https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez Con Banda Brava](https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF) | 3:32 |
-| 44 | [El Sapo \- Remastered 2025](https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Más Éxitos con Chalino Sánchez \(Remastered 2025\)](https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt) | 4:10 |
-| 45 | [Prajedes Félix](https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:30 |
+| 44 | [Prajedes Félix](https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Corridos De Los Félix Y Los Quintero](https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc) | 4:30 |
+| 45 | [El Sapo \- Remastered 2025](https://open.spotify.com/track/4rI1lvOtfHKIkKuPyC4k31) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Más Éxitos con Chalino Sánchez \(Remastered 2025\)](https://open.spotify.com/album/60lbOsjz2mb4daGTXsdpdt) | 4:10 |
 | 46 | [Dinastía de los Ochoa \- Remastered 2025](https://open.spotify.com/track/72lurftDROYvnKSIzgQPwn) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas \(Remastered 2025\)](https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV) | 3:11 |
 | 47 | [El Branco Fajiado](https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Puros Éxitos de Colección!](https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3) | 2:41 |
 | 48 | [Lucero Negro](https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Hermosísimo Lucero](https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT) | 3:22 |
 | 49 | [Reto a la Muerte](https://open.spotify.com/track/7oY11deENXtxFukMtNLXbb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Exitos de Colección, Vol.1](https://open.spotify.com/album/7vlwwgfC7ZQDnfRNDNGxgX) | 3:00 |
 | 50 | [Que Me Entierren Cantando](https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Los Inmortales](https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5) | 2:43 |
 
-Snapshot ID: `anZxgAAAAABUZ4yg3jXELEPLR5qXI/JB`
+Snapshot ID: `anfDAAAAAADTcDJ4dEM4QJ3YWxua4Jd3`

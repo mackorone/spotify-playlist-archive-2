@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,096 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,100 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 34 | [Trova Azul](https://open.spotify.com/track/01lLpcMp5aLUH3BRdLoKHH) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Trova Azul](https://open.spotify.com/album/77rRwgkqNQbzxf6t4Ffb1K) | 3:51 |
 | 35 | [Dime Corazón](https://open.spotify.com/track/0mojkCfeqko2sQk1KsDCHP) | [Amaury Gutiérrez](https://open.spotify.com/artist/5bnH2idOWAXzMEbw9gIP5D), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Sesiones Íntimas](https://open.spotify.com/album/4oZVAbazCKoqmjRpGAwD5A) | 4:23 |
 | 36 | [La vida entera](https://open.spotify.com/track/5es8rVnIOOHzZ2FsFQBftF) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [La vida entera](https://open.spotify.com/album/1v0TN5nqDNPhvOa35y4IOH) | 3:48 |
-| 37 | [Usted No Debería](https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [De Ti o de Nadie](https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x) | 3:19 |
-| 38 | [La LLamada](https://open.spotify.com/track/1fAGyap6nJcPEyMeVXbekV) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 5:58 |
+| 37 | [La LLamada](https://open.spotify.com/track/1fAGyap6nJcPEyMeVXbekV) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 5:58 |
+| 38 | [Usted No Debería](https://open.spotify.com/track/4aHorudydhwrPUT4tN2k6R) | [Carlos Macías](https://open.spotify.com/artist/6tUBc12V14eu8JRyN7PL9X) | [De Ti o de Nadie](https://open.spotify.com/album/7KWFLNIn1JR9hdVj9CCA7x) | 3:19 |
 | 39 | [Al Doblar la Esquina](https://open.spotify.com/track/20Z6RhspI9iQOGPwJ6oDl9) | [Juan Salvador](https://open.spotify.com/artist/58wRCWfE39AuN6fvXRdWN2) | [La Gran Coleccion Del 60 Aniversario CBS \-Juan Salvador](https://open.spotify.com/album/4P0x8TOzFL9fQNebb6nlBx) | 2:54 |
 | 40 | [Coincidir](https://open.spotify.com/track/5dlC3IfY7JHpQhhhBWnH4P) | [Alberto Escobar](https://open.spotify.com/artist/3bZiqqT0b4rEuU0IZgspIM) | [Coincidir](https://open.spotify.com/album/42Ls1ElKBppdAbUM7aw2Vf) | 4:06 |
 | 41 | [Hoy Como Ayer](https://open.spotify.com/track/2f1q9NPLts5gFxzjxQryRW) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Hoy Como Ayer](https://open.spotify.com/album/0VoJQbEFnbUZbwhkTxC4q4) | 4:32 |
 | 42 | [Todo El Año](https://open.spotify.com/track/7usrCxShd2epjMs0GDClGP) | [Obie Bermudez](https://open.spotify.com/artist/0caLxEeeNrpE0noxdInoGe) | [Solo Exitos](https://open.spotify.com/album/1wJksWydcUG8t9gmdBVHU1) | 4:00 |
 | 43 | [De Vez en Cuando \- Acústica](https://open.spotify.com/track/65dCQYpdfGA1Cuj72krPov) | [Miguel Inzunza](https://open.spotify.com/artist/6BoD6RlEPXtsku4JA9rrdb), [Pavel Nuñez](https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN) | [De Vez en Cuando](https://open.spotify.com/album/6WgEvTz5MwBvud1zzVoETc) | 4:13 |
-| 44 | [A Sabicas \(with Joaquín Sabina & Miguel Poveda\)](https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [14 de Ciento Volando de 14](https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX) | 2:34 |
-| 45 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
+| 44 | [Hasta Donde tu vayas](https://open.spotify.com/track/2xldlQfIZeDGsDztec4FkI) | [Tres de Copas](https://open.spotify.com/artist/2lCFn8Sdm6YQYmFXzrZItY) | [Tres De Copas](https://open.spotify.com/album/0KDMxNFaMvMwc58iRZul3i) | 4:14 |
+| 45 | [A Sabicas \(with Joaquín Sabina & Miguel Poveda\)](https://open.spotify.com/track/4wc6PmKBQUA1VNvrmk89Ad) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [14 de Ciento Volando de 14](https://open.spotify.com/album/3LsMHrpcvea3tvd3zl16DX) | 2:34 |
 | 46 | [Obsceno](https://open.spotify.com/track/5fqLZkJiVyAPWJs7oc4YC1) | [Alejandro Santiago](https://open.spotify.com/artist/7yc8RHPDlQji4ztS6pgrk0) | [Nómada](https://open.spotify.com/album/2OQpoFrcbrhVCWzjNFJF4l) | 3:32 |
 | 47 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 |
 | 48 | [Ojalá](https://open.spotify.com/track/2PptHH46AdfiLRh4964cch) | [Héctor Filio](https://open.spotify.com/artist/5RUEbv1G2nJCo9vZ4tZxmj) | [Ojalá](https://open.spotify.com/album/6oMISU4bH3Bcj5XW6D0qDw) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [El Manual de Lo Prohibido](https://open.spotify.com/track/4ZigeFK2QTarNLSLallsti) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Raúl Ornelas](https://open.spotify.com/artist/3C6Jn2YYPlZoe7pBPQl845) | [Sólo / Ni Tan Sólo 2](https://open.spotify.com/album/4nB4bxKtBnl30ZhYLs6o6T) | 4:05 |
 | 100 | [Porque la Queria](https://open.spotify.com/track/4qGQMRzfi3zZRTMy5HIevR) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl) | [Te Seguiré](https://open.spotify.com/album/1oxsfEFwpEc1PnUYTBQpjH) | 3:39 |
 
-Snapshot ID: `AAAAAClFLAETd58+8QVWHrvJ8s7+LFkg`
+Snapshot ID: `AAAAAB/eeIGFWxY8rCUqZWPRXivSwTP8`

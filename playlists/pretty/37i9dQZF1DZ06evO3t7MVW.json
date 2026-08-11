@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 98025,
+  "num_followers": 98042,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADJsRBvlj2isAXnFaz1ti6S",
+  "snapshot_id": "anfDAAAAAABosW9To5D4ePz/7lMtWMkp",
   "tracks": [
     {
       "added_at": null,
@@ -338,15 +338,11 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 305493,
-      "name": "Choice Is Yours (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
+      "duration_ms": 327986,
+      "name": "Fire on the Horizon",
+      "url": "https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot"
     },
     {
       "added_at": null,
@@ -418,11 +414,15 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 327986,
-      "name": "Fire on the Horizon",
-      "url": "https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot"
+      "duration_ms": 305493,
+      "name": "Choice Is Yours (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "In This Love",
-      "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 283793,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "In This Love",
+      "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Local Motion",
-        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Warning (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 194225,
       "name": "Show Love (with Stick Figure)",
       "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Local Motion",
+        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Warning (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacred Sound",
-        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
       },
       "artists": [
-        {
-          "name": "Iya Terra",
-          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 216476,
-      "name": "Give Thanks (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
+      "duration_ms": 304613,
+      "name": "Hawaii Song",
+      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
     },
     {
       "added_at": null,
@@ -791,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+        "name": "Sacred Sound",
+        "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
       },
       "artists": [
+        {
+          "name": "Iya Terra",
+          "url": "https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Hawaii Song",
-      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
+      "duration_ms": 216476,
+      "name": "Give Thanks (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
     }
   ],
   "unique_name": "This Is Stick Figure",

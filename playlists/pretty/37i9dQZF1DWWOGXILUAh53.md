@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Empress Of & Cecile Believe
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,253 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,341 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Peepin'](https://open.spotify.com/track/05PPn5rFEiAXgn3fYgl7HC) | [Reysha Rami](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [Peepin'](https://open.spotify.com/album/6nnKlVsfkKVgOBSIdEKkz5) | 2:10 |
 | 100 | [Remember Us \(feat\. Dustin Lynch\)](https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:50 |
 
-Snapshot ID: `AAAAAOq74dVN5jCt4mbTJ8cR5YokmzBY`
+Snapshot ID: `AAAAALy13z6yOIvOz1UYCUF0TF49OXxb`

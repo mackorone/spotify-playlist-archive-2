@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נונו
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,161 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,172 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [לא הצלחתי לרקוד](https://open.spotify.com/track/3jPqSkOWtxmRHG1nexDWBa) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [כל מה שעוזר](https://open.spotify.com/artist/2PAjCGmElG2oGRlrLkPdCu) | [לא הצלחתי לרקוד](https://open.spotify.com/album/2dNPbdzRhnGp5A4RFQ8f9E) | 3:24 |
 | 50 | [גיבור מנייר](https://open.spotify.com/track/2VgcII6aKobzryNqTt0mfn) | [Harel Moyal](https://open.spotify.com/artist/2icfuQZ4Mhw10Kbrzzsm4z) | [גיבור מנייר](https://open.spotify.com/album/52RCEf5pJWeMEWNK2keSkr) | 3:32 |
 
-Snapshot ID: `AAAAAFfZ3FIDllvnyHwYLcjsJXEO7y7t`
+Snapshot ID: `AAAAADHVAa8s91Y1yOXOVtpdDLIHFWSZ`

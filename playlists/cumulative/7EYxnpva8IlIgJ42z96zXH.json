@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "ALL I NEED",
+        "url": "https://open.spotify.com/album/6CP7xwDA4hKcCDuPtSZ9bj"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166861,
+      "name": "ALL I NEED",
+      "url": "https://open.spotify.com/track/14k3fOEja2IFadhBMWqEp3"
+    },
+    {
+      "album": {
         "name": "All I Need (Franky Wah Remix)",
         "url": "https://open.spotify.com/album/0IHvUSCIdZeMXNeoFoSIPB"
       },
@@ -10170,6 +10188,28 @@
       "duration_ms": 174818,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/2EMj2j03BtJeAmbfl7TeEr"
+    },
+    {
+      "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "I Need Your Love (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE"
     },
     {
       "album": {
@@ -19874,7 +19914,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 165961,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4EyIt50f46KvqdJphEPg8U"
@@ -21398,7 +21438,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 162346,
       "name": "The One",
       "url": "https://open.spotify.com/track/2nG2kgL2gTXd9s2RmD0u18"

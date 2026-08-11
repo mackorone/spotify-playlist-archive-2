@@ -1,12 +1,12 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5787,
+  "num_followers": 5786,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABd4UmMozcunjDTYakPacEKkzjws",
+  "snapshot_id": "AAAAAA++2ezEwk+h0DMOrwDJ56Jcs2nm",
   "tracks": [
     {
       "added_at": "2026-05-07 06:03:41",
@@ -223,8 +223,8 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
+        "name": "Chopin: Piano Concerto No. 2; Scherzi",
+        "url": "https://open.spotify.com/album/0NICuwUdAdabpvnHpbTgzy"
       },
       "artists": [
         {
@@ -232,13 +232,21 @@
           "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
         }
       ],
-      "duration_ms": 254653,
-      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
+      "duration_ms": 864320,
+      "name": "Piano Concerto No. 2 in F Minor, Op. 21: I. Maestoso",
+      "url": "https://open.spotify.com/track/3xdfrsXKfVmotMOzCQg6v8"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -319,8 +327,8 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Chopin: Piano Concerto No. 2; Scherzi",
-        "url": "https://open.spotify.com/album/0NICuwUdAdabpvnHpbTgzy"
+        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
       },
       "artists": [
         {
@@ -328,21 +336,13 @@
           "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Gianandrea Noseda",
-          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
         }
       ],
-      "duration_ms": 864320,
-      "name": "Piano Concerto No. 2 in F Minor, Op. 21: I. Maestoso",
-      "url": "https://open.spotify.com/track/3xdfrsXKfVmotMOzCQg6v8"
+      "duration_ms": 254653,
+      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Espero 1st, Romance on Classic",
+        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
+      },
+      "artists": [
+        {
+          "name": "Espero",
+          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
+        },
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
       },
@@ -1631,42 +1651,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Espero 1st, Romance on Classic",
-        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
-      },
-      "artists": [
-        {
-          "name": "Espero",
-          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
-        },
-        {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 195283,
-      "name": "When We Meet Again",
-      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "MOZART: Piano Works 1",
         "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
       },
@@ -1687,18 +1671,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
       },
       "artists": [
         {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+      "duration_ms": 195283,
+      "name": "When We Meet Again",
+      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
       },
@@ -1731,22 +1731,6 @@
       "duration_ms": 157946,
       "name": "In Love",
       "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 348446,
-      "name": "Cello Forest",
-      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1771,18 +1755,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Esthesia",
-        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
       },
       "artists": [
         {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
         }
       ],
-      "duration_ms": 243640,
-      "name": "Esthesia",
-      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+      "duration_ms": 348446,
+      "name": "Cello Forest",
+      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Esthesia",
+        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Esthesia",
+      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Enrique Granados \u2013 Goyescas",
         "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
       },
@@ -1827,6 +1827,26 @@
       "duration_ms": 412120,
       "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
       "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1855,22 +1875,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "MOZART: Piano Works 1",
-        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
         },
         {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
-      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1935,26 +1955,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
-      },
-      "artists": [
-        {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
-        },
-        {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
-        }
-      ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Timepass",
         "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
       },
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
-        }
-      ],
-      "duration_ms": 441320,
-      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
-      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Cantar",
         "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
       },
@@ -2031,18 +2011,42 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Modern Cello",
-        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
       },
       "artists": [
         {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Blooming",
-      "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
+      "duration_ms": 441320,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
+      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Deep Sleep Deep",
+        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
+      },
+      "artists": [
+        {
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Yeongene",
+          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "iMessage (feat. Yeongene)",
+      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
     }
   ],
   "unique_name": "Classics Korea",

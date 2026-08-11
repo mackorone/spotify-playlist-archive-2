@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,586 likes - 46 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,604 likes - 46 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 45 | [The Throne Room and End Title](https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:34 |
 | 46 | [Princess Leia's Theme](https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 4:23 |
 
-Snapshot ID: `anZxgAAAAACHp2y/FaEW9szI+ZVR/nSf`
+Snapshot ID: `anfDAAAAAADcnBO6sCBqIsxQ5h8E1kvB`

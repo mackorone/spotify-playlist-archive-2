@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,932 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,959 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 15 | [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 |
 | 16 | [Falle Für Dich](https://open.spotify.com/track/1RUp6d887zj0N9CrTwYb1j) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Falle Für Dich](https://open.spotify.com/album/0P5Ge8SdDUCZRmaLPNUeNH) | 2:30 |
 | 17 | [Jeden Tag mehr](https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [LIEBE IN GEFAHR](https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe) | 2:44 |
-| 18 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
-| 19 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
-| 20 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 |
-| 21 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
+| 18 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
+| 19 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
+| 20 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
+| 21 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 |
 | 22 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
 | 23 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 24 | [Bei Dir](https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7) | [KIOX](https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS) | 3:42 |
-| 25 | [Größer als Liebe](https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Größer als Liebe](https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd) | 3:06 |
-| 26 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
+| 25 | [Das Beste](https://open.spotify.com/track/3FEhbAkm1Dy21UvhbYhFM3) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Laut Gedacht \(Re\-Edition\)](https://open.spotify.com/album/2KFT1WSnztunN6NB65IKuo) | 4:44 |
+| 26 | [Größer als Liebe](https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Größer als Liebe](https://open.spotify.com/album/4dnAM5LPg5SUh0umeW2Ogd) | 3:06 |
 | 27 | [Kaum Erwarten](https://open.spotify.com/track/6UR0WjQTWLgyVWxAaXfrH5) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Irgendwie anders](https://open.spotify.com/album/5tNgkRtA8Bx1cAYLLmxomw) | 3:13 |
 | 28 | [Kleiner Finger Schwur](https://open.spotify.com/track/3PBPLps3EbPjBSSOpKmJ8J) | [Florian Künstler](https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE) | [Kleiner Finger Schwur](https://open.spotify.com/album/4ZntzEwvOddrjI2omwBzqn) | 2:48 |
 | 29 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 59 | [Immer Nur An Dich](https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Immer Nur An Dich](https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC) | 1:57 |
 | 60 | [Beste](https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Beste](https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV) | 2:08 |
 
-Snapshot ID: `AAAAAIqx07VJzpG0Dklhqk2KCFfoYMm2`
+Snapshot ID: `AAAAAF7OIui+cHdkHBLb9ZzDIMhyu5q/`

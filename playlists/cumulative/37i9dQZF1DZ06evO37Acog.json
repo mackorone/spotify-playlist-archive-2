@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "Entre Besos Y Heridas",
+        "url": "https://open.spotify.com/album/2j0kTA0dSdo9N7CoOskR8i"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1xWQhsJzXztApqA6zbUEQA"
+    },
+    {
+      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 201653,
       "name": "Se\u00f1or Dios",
       "url": "https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq"

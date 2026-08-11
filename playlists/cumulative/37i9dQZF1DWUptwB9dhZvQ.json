@@ -336,7 +336,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 148023,
       "name": "Amar Theme - Background Score",
       "url": "https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 94569,
       "name": "Arasan Theme (From \"Arasan\")",
       "url": "https://open.spotify.com/track/2adSlLAfZrcgkkphMVjTKk"
@@ -769,6 +769,32 @@
     },
     {
       "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Bum Baa Diga Diga",
+      "url": "https://open.spotify.com/track/7sNHxjkI4mzpmz6ZVS6TF7"
+    },
+    {
+      "album": {
         "name": "Bus Fight X Powerhouse X Disco (From \"Coolie BGM\")",
         "url": "https://open.spotify.com/album/2QMLORj3nZDtyhmhSF53iP"
       },
@@ -1068,7 +1094,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 44637,
       "name": "Cucumba",
       "url": "https://open.spotify.com/track/0uswgpVQNDT9DfEyzzCQcg"
@@ -1156,7 +1182,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 80000,
       "name": "Dayangaram Swag - (From \u201cDayangaram\")",
       "url": "https://open.spotify.com/track/7eVeBXfYait7Ev2r31g6sz"
@@ -1716,7 +1742,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 80000,
       "name": "JD Intro - Background Score",
       "url": "https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC"
@@ -2564,7 +2590,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 129373,
       "name": "Mathew Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2"
@@ -2672,7 +2698,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 103571,
       "name": "Muthuvel Pandian Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1"
@@ -2934,7 +2960,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 85917,
       "name": "Powerhouse x Disco",
       "url": "https://open.spotify.com/track/6SSnh9P1xYHjTfbVBMmsTv"
@@ -3028,10 +3054,28 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 198875,
       "name": "Raga of Madness",
       "url": "https://open.spotify.com/track/7pfh5uXaQKnk6h0dRpui9M"
+    },
+    {
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Raga of Revenge",
+      "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"
     },
     {
       "album": {
@@ -3046,7 +3090,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 131250,
       "name": "Raga of Revenge (From \"DC\")",
       "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
@@ -3308,7 +3352,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 92400,
       "name": "S3 Vetta (Theme Music)",
       "url": "https://open.spotify.com/track/6yPRM7zwvtrl47XvIGx7Am"
@@ -3672,7 +3716,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 140806,
       "name": "Thaalam Trip - Instrumental",
       "url": "https://open.spotify.com/track/0JSvcsAbGElf7TqcsATZwe"
@@ -3896,7 +3940,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 30753,
       "name": "The Maari Swag",
       "url": "https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX"
@@ -3976,7 +4020,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 112405,
       "name": "The Theri Theme",
       "url": "https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP"
@@ -3998,7 +4042,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 110049,
       "name": "The True Leader",
       "url": "https://open.spotify.com/track/2BuKEQWXyf3mDFpUS4CVIL"
@@ -4230,7 +4274,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 82750,
       "name": "Varman Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg"

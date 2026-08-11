@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Tigres Del Norte en portada.",
-  "num_followers": 531212,
+  "num_followers": 531207,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOaZWxUEl5oS3mJNxgm9s9Si+FeW",
+  "snapshot_id": "AAAAAHY4VG+mlpRDjG4dps2yDAJwmoal",
   "tracks": [
     {
       "added_at": "2026-07-31 09:14:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "El Proximo Viernes",
-        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 198073,
-      "name": "El Proximo Viernes",
-      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
         "name": "El Scrappy",
         "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 227551,
       "name": "El Scrappy",
       "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "El Proximo Viernes",
+        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 198073,
+      "name": "El Proximo Viernes",
+      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -815,26 +815,6 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
-        "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "El Baron del Desierto - En Vivo",
-      "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
         "name": "Dos Pa\u2019 Llevar",
         "url": "https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez"
       },
@@ -855,22 +835,22 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "Ni Tu Perro Ni Tu Gato",
-        "url": "https://open.spotify.com/album/3PbUM4389tkvMKmgTnf8XA"
+        "name": "\"De Rancho en Rancho\" Vol. 1 Edicion: Guasave (En Vivo)",
+        "url": "https://open.spotify.com/album/47aTy4eu806DDgrTkkpHlz"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         },
         {
-          "name": "Grupo Escal\u00f3n",
-          "url": "https://open.spotify.com/artist/2rF3zUvGtxvO1W1E4AHqIl"
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
         }
       ],
-      "duration_ms": 158850,
-      "name": "Ni Tu Perro Ni Tu Gato",
-      "url": "https://open.spotify.com/track/4j4FrTLZf7O92PLZ4UekoN"
+      "duration_ms": 183428,
+      "name": "El Baron del Desierto - En Vivo",
+      "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -911,6 +891,26 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
+        "name": "Ni Tu Perro Ni Tu Gato",
+        "url": "https://open.spotify.com/album/3PbUM4389tkvMKmgTnf8XA"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        },
+        {
+          "name": "Grupo Escal\u00f3n",
+          "url": "https://open.spotify.com/artist/2rF3zUvGtxvO1W1E4AHqIl"
+        }
+      ],
+      "duration_ms": 158850,
+      "name": "Ni Tu Perro Ni Tu Gato",
+      "url": "https://open.spotify.com/track/4j4FrTLZf7O92PLZ4UekoN"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
         "name": "EnerG\u00edtimo",
         "url": "https://open.spotify.com/album/5GJ6cfGildyJHI9yP3DoYh"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 180096,
       "name": "Conc\u00e9deme El Honor",
       "url": "https://open.spotify.com/track/5Lk2YI8YpvqV7f5F3OIJLS"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
-        "name": "Jammin' sessions",
-        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
-      },
-      "artists": [
-        {
-          "name": "Predilecto",
-          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
-        }
-      ],
-      "duration_ms": 183562,
-      "name": "Cosas Del Amor - Live",
-      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -991,42 +975,18 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "La Soluci\u00f3n",
-        "url": "https://open.spotify.com/album/19E4ufXA3L3OWneXKxqSSC"
+        "name": "Jammin' sessions",
+        "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+          "name": "Predilecto",
+          "url": "https://open.spotify.com/artist/4aSPfFWnPIu4zsbGm0FZM2"
         }
       ],
-      "duration_ms": 146474,
-      "name": "La Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
-        "name": "Vida y Libertad",
-        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
-      },
-      "artists": [
-        {
-          "name": "Omar Cardenas",
-          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "La Bolsita",
-      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
+      "duration_ms": 183562,
+      "name": "Cosas Del Amor - Live",
+      "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1063,6 +1023,46 @@
       "duration_ms": 166338,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "La Soluci\u00f3n",
+        "url": "https://open.spotify.com/album/19E4ufXA3L3OWneXKxqSSC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "duration_ms": 146474,
+      "name": "La Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "Vida y Libertad",
+        "url": "https://open.spotify.com/album/02Dlbr18vUlPLRJdTKzADJ"
+      },
+      "artists": [
+        {
+          "name": "Omar Cardenas",
+          "url": "https://open.spotify.com/artist/1qBSUcTlQ7s7pPcnYeRK4c"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "La Bolsita",
+      "url": "https://open.spotify.com/track/2LaJmeLE4BQDlR5P5KWQzw"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 207886,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
         "name": "Al Modo Villa",
         "url": "https://open.spotify.com/album/0yYyjz1d3UK1Lz5AlXDbr9"
       },
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "HOME RUN",
-        "url": "https://open.spotify.com/album/2Jd7QeAp7XUPr2dgJqplpV"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 207886,
-      "name": "HOME RUN",
-      "url": "https://open.spotify.com/track/5q4KZBaQrMnj5FAvprBLQO"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
         "name": "En Vivo Vol.4",
         "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 226101,
       "name": "Y Por Lo Pronto - En Vivo",
       "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "Con Los Ojos Cerrados",
+        "url": "https://open.spotify.com/album/6IGg5yVMpBMZpgI02Ltb4f"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 185997,
+      "name": "Con Los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/54xWzsmkmnYYDvi3GzdneW"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1191,22 +1207,6 @@
       "duration_ms": 178500,
       "name": "Celos Enfermizos",
       "url": "https://open.spotify.com/track/7EqaHbY1uwWET2CwpCj1c2"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
-        "name": "Con Los Ojos Cerrados",
-        "url": "https://open.spotify.com/album/6IGg5yVMpBMZpgI02Ltb4f"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 185997,
-      "name": "Con Los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/54xWzsmkmnYYDvi3GzdneW"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "Las Tres Vueltas",
-        "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
-      },
-      "artists": [
-        {
-          "name": "Banda Cruz de Oro",
-          "url": "https://open.spotify.com/artist/0iHljO1e4ZiVTPIqtnUBrK"
-        },
-        {
-          "name": "Los Mentados De Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Las Tres Vueltas",
-      "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
         "name": "El Lunar",
         "url": "https://open.spotify.com/album/5D6JdOEKLfQNWSu4xBI1hK"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 257655,
       "name": "El Lunar",
       "url": "https://open.spotify.com/track/5bQO212Zuy5C0dZetIB6BB"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "Las Tres Vueltas",
+        "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
+      },
+      "artists": [
+        {
+          "name": "Banda Cruz de Oro",
+          "url": "https://open.spotify.com/artist/0iHljO1e4ZiVTPIqtnUBrK"
+        },
+        {
+          "name": "Los Mentados De Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Las Tres Vueltas",
+      "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
     },
     {
       "added_at": "2026-07-31 09:14:20",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-31 09:14:20",
       "album": {
-        "name": "IMPERIO",
-        "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
-      },
-      "artists": [
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 238463,
-      "name": "Las Drzl",
-      "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
-    },
-    {
-      "added_at": "2026-07-31 09:14:20",
-      "album": {
         "name": "Seras Mia",
         "url": "https://open.spotify.com/album/06W0RYfvO5ZVW2DpKOUy2A"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 256587,
       "name": "Seras Mia",
       "url": "https://open.spotify.com/track/1eYNeNvks6wWxaIKL2mCtf"
+    },
+    {
+      "added_at": "2026-07-31 09:14:20",
+      "album": {
+        "name": "IMPERIO",
+        "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
+      },
+      "artists": [
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "duration_ms": 238463,
+      "name": "Las Drzl",
+      "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
     },
     {
       "added_at": "2026-07-31 09:14:20",

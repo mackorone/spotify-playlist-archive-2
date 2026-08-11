@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 
 > This is Elevation Worship\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,939 likes - 50 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,997 likes - 50 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 29 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
 | 30 | [I Got Saved \(feat\. Chris Brown\)](https://open.spotify.com/track/0Fcu29KCsISZx8SIFIuGWw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:13 |
 | 31 | [Give Me Faith](https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Kingdom Come](https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH) | 4:54 |
-| 32 | [Digno \(Worthy\)](https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:18 |
-| 33 | [Joy In The Morning](https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 8:48 |
+| 32 | [Joy In The Morning](https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 8:48 |
+| 33 | [Digno \(Worthy\)](https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0) | [Aleluya \(En La Tierra\)](https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH) | 6:18 |
 | 34 | [Your Name Is God](https://open.spotify.com/track/6cb1D54z0BgnRijrk2E3Sa) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Leeland Mooring](https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb) | [SO BE IT](https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp) | 5:03 |
 | 35 | [My Testimony \(Live\)](https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 4:51 |
 | 36 | [Owe You Praise](https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [When Wind Meets Fire](https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0) | 6:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jUWJ2.md) - [plain]
 | 49 | [RATTLE! \(Live\)](https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6) | 7:12 |
 | 50 | [Vida aos Sepulcros](https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Vida aos Sepulcros](https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV) | 4:53 |
 
-Snapshot ID: `anZxgAAAAACjlqyy9vitUdYB+XxogIAA`
+Snapshot ID: `anfDAAAAAAAxqEGMFtrNOGjwWHlTrzN5`

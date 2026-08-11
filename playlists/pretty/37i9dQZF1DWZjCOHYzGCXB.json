@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38\ud83c\udf38",
-  "num_followers": 320495,
+  "num_followers": 320476,
   "original_name": "pov: ur that girl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5lrBwxwkfSU2UlldWGKQjDSp29",
+  "snapshot_id": "AAAAAEFGjbTpkr8KpTn7ALdkTcl3LeUC",
   "tracks": [
     {
       "added_at": "2026-07-31 13:20:05",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 251244,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
-    },
-    {
-      "added_at": "2026-07-31 13:20:05",
-      "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
       },
@@ -303,18 +287,34 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
+      "duration_ms": 251244,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2026-07-31 13:20:05",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172001,
+      "name": "nowhere, nobody",
+      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH"
     },
     {
       "added_at": "2026-07-31 13:20:05",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 172001,
-      "name": "nowhere, nobody",
-      "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH"
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
     },
     {
       "added_at": "2026-07-31 13:20:05",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
-        "name": "SS26",
-        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "SS26",
-      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
-    },
-    {
-      "added_at": "2026-07-31 13:20:05",
-      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+    },
+    {
+      "added_at": "2026-07-31 13:20:05",
+      "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
     },
     {
       "added_at": "2026-07-31 13:20:05",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "The Peace",
+      "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
+    },
+    {
+      "added_at": "2026-07-31 13:20:05",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-07-31 13:20:05",
-      "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "The Peace",
-      "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
     },
     {
       "added_at": "2026-07-31 13:20:05",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 196043,
-      "name": "Break the Ice",
-      "url": "https://open.spotify.com/track/52K4Nl7eVNqUpUeJeWJlwT"
-    },
-    {
-      "added_at": "2026-07-31 13:20:05",
-      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 207296,
       "name": "Music",
       "url": "https://open.spotify.com/track/6gPbjxlebqkFyCaLY4SRVm"
+    },
+    {
+      "added_at": "2026-07-31 13:20:05",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 196043,
+      "name": "Break the Ice",
+      "url": "https://open.spotify.com/track/52K4Nl7eVNqUpUeJeWJlwT"
     },
     {
       "added_at": "2026-07-31 13:20:05",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156709,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3"
-    },
-    {
-      "added_at": "2026-07-31 13:20:05",
-      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 213145,
       "name": "Do It",
       "url": "https://open.spotify.com/track/4BBL8YQ1SUhSbcsEguX8kL"
+    },
+    {
+      "added_at": "2026-07-31 13:20:05",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 156709,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3"
     },
     {
       "added_at": "2026-07-31 13:20:05",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2026-07-31 13:20:05",
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 224661,
+      "name": "SAME LA",
+      "url": "https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M"
+    },
+    {
+      "added_at": "2026-07-31 13:20:05",
+      "album": {
         "name": "the bridge",
         "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 233533,
       "name": "the bridge",
       "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
-    },
-    {
-      "added_at": "2026-07-31 13:20:05",
-      "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Day",
-          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
-        }
-      ],
-      "duration_ms": 224661,
-      "name": "SAME LA",
-      "url": "https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M"
     },
     {
       "added_at": "2026-07-31 13:20:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,807 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,002 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 16 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 |
 | 17 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 |
 | 18 | [All I Need](https://open.spotify.com/track/3OQk21nMrEPnc5KXePcv6E) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:47 |
-| 19 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 |
-| 20 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 |
+| 19 | [Neverender \- Rampa Remix](https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Neverender \(Rampa Remix\)](https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa) | 6:24 |
+| 20 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 |
 | 21 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 22 | [Hold On, Let Go \(ft\. WAYNE SNOW & 3DDY\)](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go \(ft\. WAYNE SNOW & 3DDY\)](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 |
 | 23 | [Not Giving You Up](https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Not Giving You Up](https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM) | 2:52 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 29 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 30 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Alyzée](https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 |
 | 31 | [More To Life](https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [More To Life](https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm) | 3:24 |
-| 32 | [Thus Far](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Colours of the Sky](https://open.spotify.com/album/79F4YnYB1ZN0eo4baMeLh5) | 3:51 |
-| 33 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 32 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
+| 33 | [Thus Far](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Colours of the Sky](https://open.spotify.com/album/79F4YnYB1ZN0eo4baMeLh5) | 3:51 |
 | 34 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
 | 35 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 36 | [Karibu](https://open.spotify.com/track/4oBXxS2vGRFQkAJCtDOhFI) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/0q7npq36aBv8f5C2SZzhbJ) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 |
 | 50 | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad) | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8) | 4:02 |
 
-Snapshot ID: `AAAAAD04XXOq6Y9fXyKgZgnENAdHAPVc`
+Snapshot ID: `AAAAAKxt5p3ZjJtQKpyi/P5bMZ6APZkc`

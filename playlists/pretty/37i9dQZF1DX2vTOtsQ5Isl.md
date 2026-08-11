@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,643 likes - 61 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,727 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 60 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
 | 61 | [Echo Echo](https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Echo Echo](https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI) | 2:13 |
 
-Snapshot ID: `AAAAAI1OagiC2mjMV3g92fvhjhwIq3ne`
+Snapshot ID: `AAAAAL+bFTeUyICWdwLOWQNG+JA5j2KX`

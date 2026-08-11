@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,016 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,029 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 5 | [In the Name of Tragedy](https://open.spotify.com/track/0jVKdXM4LQm94SP33rNbi9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 3:03 |
 | 6 | [Rock 'n' Roll](https://open.spotify.com/track/738MwM1wbo84IO5DaQma1e) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 3:47 |
 | 7 | [Hellraiser \- 30th Anniversary Edition](https://open.spotify.com/track/0BW3ImhGyAdbM62rHPyNNB) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No More Tears \(30th Anniversary Expanded Edition\)](https://open.spotify.com/album/44Jg8c04OLxA7nH6xbuoXo) | 4:55 |
-| 8 | [Damage Case](https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 3:02 |
-| 9 | [The Chase Is Better Than the Catch](https://open.spotify.com/track/16CovcwRSjvpz0I4ZFflUv) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 4:16 |
+| 8 | [The Chase Is Better Than the Catch](https://open.spotify.com/track/16CovcwRSjvpz0I4ZFflUv) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 4:16 |
+| 9 | [Damage Case](https://open.spotify.com/track/3EkLYcqCD35q1Ws4rwY1Wk) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 3:02 |
 | 10 | [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 |
 | 11 | [Bomber](https://open.spotify.com/track/5YxehSAZjBMcCIUlxGPit9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:40 |
 | 12 | [Iron Fist](https://open.spotify.com/track/5GLfSOVpSKwPBlqfjGqvfy) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Iron Fist](https://open.spotify.com/album/728HEEgXa98wouqC8nOdQR) | 2:51 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 44 | [1916](https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 3:44 |
 | 45 | [I Ain't No Nice Guy](https://open.spotify.com/track/4cmC2SW1RVZusILirCrsCs) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:15 |
 | 46 | [Eat the Rich](https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 4:34 |
-| 47 | [Iron Horse / Born to Lose](https://open.spotify.com/track/36RgRUa3BvsValxV6Jjdao) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 5:20 |
-| 48 | [Whiplash](https://open.spotify.com/track/7rBSxKyrMzVKgzg8Ki0FJC) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death \(20th Anniversary Edition\)](https://open.spotify.com/album/1pU3yOqCRZbSyNFlCj5reN) | 3:49 |
+| 47 | [Whiplash](https://open.spotify.com/track/7rBSxKyrMzVKgzg8Ki0FJC) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death \(20th Anniversary Edition\)](https://open.spotify.com/album/1pU3yOqCRZbSyNFlCj5reN) | 3:49 |
+| 48 | [Iron Horse / Born to Lose](https://open.spotify.com/track/36RgRUa3BvsValxV6Jjdao) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 5:20 |
 | 49 | [Thunder & Lightning](https://open.spotify.com/track/1icsGmCKFX7KA250aDRhma) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/3yRGBNzOdNXmA8YR9hd37X) | 3:06 |
 | 50 | [Please Don't Touch \(feat\. Motörhead\)](https://open.spotify.com/track/6Ud2ag3Rxz2ak0KhLG3KXP) | [Girlschool](https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8), [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best of Girlschool](https://open.spotify.com/album/2CjpvOVU8ThxJM9ghDngID) | 2:47 |
 
-Snapshot ID: `anZxgAAAAAABBQ73mShZBdeafyBzy47J`
+Snapshot ID: `anfDAAAAAAAC/1Se9jFQm/RfN7TFIj5c`

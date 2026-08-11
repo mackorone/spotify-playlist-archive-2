@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from FLO, Ernie Zakri, Stray Kids, Red Velvet, 蔡恩雨 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,136 likes - 88 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,130 likes - 88 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 87 | [The Ever After](https://open.spotify.com/track/5kop1pa4mJso9v6Uz9wvNf) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Ever After](https://open.spotify.com/album/6mlnFCmVsUFI9ZeAesrogh) | 5:18 |
 | 88 | [Reborn](https://open.spotify.com/track/2SyKKIaY3buKvidX8VPtJn) | [Girls Archives.](https://open.spotify.com/artist/4iAzYOFlBDA9cIJtwWF97h) | [Reborn](https://open.spotify.com/album/55UpcId53ZrBz2NDNuPcBT) | 2:49 |
 
-Snapshot ID: `AAAAAGOIPyeZp7cQYT+Yb/McPxitHSbg`
+Snapshot ID: `AAAAAAFOAXbV2QJt+nkdAiM8b7kz3dQ+`

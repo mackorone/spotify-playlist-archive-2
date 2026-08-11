@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Simiran Kaur Dhadli
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,967 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,970 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 | 50 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 
-Snapshot ID: `AAAAAD586CF/ZJzN6pAQ0L4173djRVgX`
+Snapshot ID: `AAAAAEP0JvwtDnFWL5ATzaIfZsAhtqVe`

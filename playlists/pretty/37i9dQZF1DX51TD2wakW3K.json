@@ -1,12 +1,12 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 25305,
+  "num_followers": 25412,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAECFsWqg6IKFrN47SmZMMJgj52s6",
+  "snapshot_id": "AAAAAL5Bb8Ie6IL9izCjVOr3WxNIDsir",
   "tracks": [
     {
       "added_at": "2026-07-01 16:22:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Grab That Gun",
-        "url": "https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF"
-      },
-      "artists": [
-        {
-          "name": "The Organ",
-          "url": "https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/20JlEDQcD9ztcH7fpByrUA"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Dig Me Out (Remastered)",
         "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 199693,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Grab That Gun",
+        "url": "https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF"
+      },
+      "artists": [
+        {
+          "name": "The Organ",
+          "url": "https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/20JlEDQcD9ztcH7fpByrUA"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 173637,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Nailed It",
         "url": "https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 193013,
       "name": "Fight Like a Girl",
       "url": "https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Cut (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 95960,
       "name": "Shoplifting",
       "url": "https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Package Pt. 2",
         "url": "https://open.spotify.com/album/7I0F67GkYeGYEXfBpnUABW"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 237864,
       "name": "Close",
       "url": "https://open.spotify.com/track/4zRUoox84YBfE9MznVfs0j"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-07-01 16:22:16",

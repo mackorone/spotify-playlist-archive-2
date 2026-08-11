@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 337492,
+  "num_followers": 337507,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAD2QSjVMpUx+T1xbxrwdZ1W",
+  "snapshot_id": "anfDAAAAAADwSCnmnfqxzC2q3p5cYv2P",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BELOVED: ACT II",
         "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 183990,
       "name": "SAVE SOME FOR ME (feat. Kehlani)",
       "url": "https://open.spotify.com/track/1IOzlMpIx4oLxo88nNbd1u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2D37uNhXgherfImusGBKTx"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 268401,
-      "name": "When He's Not There (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/7nBH9p1JeLmvkxW17JRprs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 278715,
       "name": "Hate the Club (feat. Masego)",
       "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 268401,
+      "name": "When He's Not There (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/7nBH9p1JeLmvkxW17JRprs"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 229736,
-      "name": "Clothes Off (feat. kwn)",
-      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SLIDER II",
         "url": "https://open.spotify.com/album/3jwPo6mAL7jtRXRWHLkSD0"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 142768,
       "name": "go",
       "url": "https://open.spotify.com/track/7aV29KhhOFLawanslvY7Mg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 229736,
+      "name": "Clothes Off (feat. kwn)",
+      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
     },
     {
       "added_at": null,

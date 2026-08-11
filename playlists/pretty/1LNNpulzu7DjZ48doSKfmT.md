@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 474 likes - 355 songs - 18 hr 31 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 475 likes - 358 songs - 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -363,5 +363,8 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 353 | [Credits](https://open.spotify.com/track/08xOFmTJcF3M8b1r3XE5bQ) | [Riller](https://open.spotify.com/artist/2iLUU22DqBx4z35DRcnpmL) | [Credits](https://open.spotify.com/album/2NtgVixfWHgXwzCRxBKCZh) | 3:02 |
 | 354 | [Scamper](https://open.spotify.com/track/33cvxWouRD7uwhefSJfqXv) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Disorder](https://open.spotify.com/album/5oRozT9emswgPLn4mjlNGz) | 3:15 |
 | 355 | [All the Days](https://open.spotify.com/track/1JKMMx5g3ShrVa0R7vjdqU) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [All the Days](https://open.spotify.com/album/0Y08f2d57uXxG4dj1zIzHf) | 5:08 |
+| 356 | [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 |
+| 357 | [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 |
+| 358 | [My Baby](https://open.spotify.com/track/2WgLjntbN2M7ZS5pigUtoX) | [Adam Leenz](https://open.spotify.com/artist/78K6L79SKvspzzeIJdqPT9) | [My Baby](https://open.spotify.com/album/0tMSeci4dT8BQV0LwhUxh8) | 3:24 |
 
-Snapshot ID: `AAAefGvKoMwoZgJLf0lqCkMacmncWcGX`
+Snapshot ID: `AAAef+Oejl89rfMhj69JZ0ZALH4DgXyC`

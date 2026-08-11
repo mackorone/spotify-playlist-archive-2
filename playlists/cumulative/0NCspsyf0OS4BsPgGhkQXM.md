@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,140 songs - 2 day 10 hr 34 min
+1,141 songs - 2 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Eyes On Me](https://open.spotify.com/track/2RDr6nVQtnhhTkAo9O72Ri) | [Kila](https://open.spotify.com/artist/6Dlk0WuhXm3vfgOd13LahR) | [Eyes On Me](https://open.spotify.com/album/1DgeQW9EsUh3aR5dHV5mn4) | 2:24 | 2022-02-04 | 2022-03-05 |
 | [F\*ck](https://open.spotify.com/track/0e7QrydNDrJGRxXvdRUIZf) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [sebabrazy](https://open.spotify.com/artist/2lqxkxCk1iXBOOI9EH3ur0), [Kiyashqo](https://open.spotify.com/artist/13m70A1sL3JXe8ZhRougy5) | [F\*ck](https://open.spotify.com/album/7eeap4wOpwBXK2pe78HMGk) | 2:23 | 2024-03-13 | 2024-05-11 |
 | [Fair](https://open.spotify.com/track/0haIAixw7fe0YZY21cNnqi) | [Xaron](https://open.spotify.com/artist/7MS6GFUsSbDdEvh9VMzgfD) | [Fair](https://open.spotify.com/album/6yxgumRMIKq5OaZvKTiTM2) | 2:20 | 2022-06-17 | 2022-07-29 |
+| [FAIR DINKUM](https://open.spotify.com/track/22je5kAHjwf98UwKbLUfh8) | [Sollyy](https://open.spotify.com/artist/3HokwUmCzY9bqzFrnOIVWf), [Breakfast Road](https://open.spotify.com/artist/444KERNPfWuFIVw7TxEev6), [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FAIR DINKUM](https://open.spotify.com/album/4pyxnGUHJvDanfdvtgduqO) | 2:36 | 2026-08-10 |  |
 | [Faith](https://open.spotify.com/track/3aSC3RjZapfw4A8VmAkalH) | [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Misdom](https://open.spotify.com/artist/1DbEQeF7ssOqCMwr6B9jPt) | [Faith](https://open.spotify.com/album/38yUqXLMhbRkYnYT1gFS79) | 4:12 | 2023-10-06 | 2023-10-28 |
 | [FAITHLESS](https://open.spotify.com/track/5EBDcfAWfJBhWK7YKmZou9) | [sapphyre](https://open.spotify.com/artist/5nqa17OYrgbn9JX5ra4EgS) | [FAITHLESS](https://open.spotify.com/album/5PtTtZDCnQsDLl8oXHg0Cz) | 3:18 | 2023-10-13 | 2023-11-10 |
 | [Fake Friends](https://open.spotify.com/track/0EmRpbJRA31htpY92zd8uA) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Fake Friends](https://open.spotify.com/album/73svpOwVvDjEnSXAaL6U3G) | 2:12 | 2024-01-12 | 2024-02-17 |
@@ -481,7 +482,7 @@
 | [ID\-1999](https://open.spotify.com/track/0p04xEOgqfbzwUc4tcW2vt) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco) | [ID\-1999](https://open.spotify.com/album/42PYPVdXv4kGetNfShSWzb) | 2:53 | 2022-03-07 | 2022-04-02 |
 | [IDGAF](https://open.spotify.com/track/0LbUIB8LnedfY0nbPPouN6) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp), [Big Melancholy](https://open.spotify.com/artist/1Ed0HN8RP6sHQCud1P8QWr), [luna online](https://open.spotify.com/artist/4uhnWSGtIqr0dlua70UCAF), [Xaron](https://open.spotify.com/artist/7MS6GFUsSbDdEvh9VMzgfD) | [IDGAF](https://open.spotify.com/album/5Z3PUFseqdLBimouApxeaR) | 1:33 | 2023-09-22 | 2023-10-14 |
 | [IDK](https://open.spotify.com/track/2GYjSu8UPhlOHDIjmc4ltN) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [IDK](https://open.spotify.com/album/3n50gOQTJOqXQipa4RNevS) | 3:31 | 2024-01-26 | 2024-07-02 |
-| [if u want me](https://open.spotify.com/track/4kupKSEh2N586EvBClD0wi) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Daiela](https://open.spotify.com/artist/44whqkFHSInFDnpZ4xsTG6) | [if u want me](https://open.spotify.com/album/6RxwwgN2lzj8N7PnDKrUTF) | 1:40 | 2024-07-22 |  |
+| [if u want me](https://open.spotify.com/track/4kupKSEh2N586EvBClD0wi) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [if u want me](https://open.spotify.com/album/6RxwwgN2lzj8N7PnDKrUTF) | 1:40 | 2024-07-22 |  |
 | [IMMORTAL](https://open.spotify.com/track/0bKSDHj1UbeHkoAp7DDvx9) | [AENEAS](https://open.spotify.com/artist/0jxe1oY7DFUhgw97SFrKe5), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [IMMORTAL](https://open.spotify.com/album/18PQAswvtOmLzJqmIt09Dq) | 3:18 | 2023-07-07 | 2023-09-09 |
 | [Import Tuner](https://open.spotify.com/track/3mUSP6Ln9vcpdWjxXmXnfi) | [shxde](https://open.spotify.com/artist/6rCnAlUYZj7i19NEeRlwCr) | [Import Tuner](https://open.spotify.com/album/21qkQkz1fYketSDDNZhPNd) | 3:12 | 2023-06-09 | 2023-07-22 |
 | [In My Bones](https://open.spotify.com/track/2YoWM3j6C41afmEXqiKaNV) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [CHPTR.](https://open.spotify.com/artist/15ha0mOZUeMNOMJuL9ea3e) | [In My Bones](https://open.spotify.com/album/2NQM7lP9XRO7JY0QrdJUia) | 3:46 | 2024-11-12 | 2025-02-28 |

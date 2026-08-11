@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 > Pop on the rise you should know, featuring LAGOS & Yorghaki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,850 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,879,540 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
 | 50 | [Natural](https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:59 |
 
-Snapshot ID: `AAAAANZQMBvU04XvunyLZm2pi4dqohoT`
+Snapshot ID: `AAAAAPaY7udipOunr9FwYxaCe2/wdAQD`

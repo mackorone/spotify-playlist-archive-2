@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Rolling Stones",
-  "num_followers": 625363,
+  "num_followers": 625467,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxB9RGdErEgFvS0fftm41kh+uBa",
+  "snapshot_id": "AAAAADxcK/mKLQMvQniVPdJCiXzAHmO7",
   "tracks": [
     {
       "added_at": "2026-05-07 23:00:24",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 252773,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 240213,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/3skn2lauGk7Dx6bVIt5DVj"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 199703,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 199703,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -1052,25 +1052,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Songbird - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
+      "duration_ms": 269813,
+      "name": "The Chain - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -1087,6 +1071,22 @@
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 269813,
-      "name": "The Chain - 2004 Remaster",
-      "url": "https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc"
+      "duration_ms": 200813,
+      "name": "Songbird - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
     },
     {
       "added_at": "2026-05-07 23:00:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-07 23:00:24",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2026-05-07 23:00:24",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 163693,
       "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
       "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2026-05-07 23:00:24",
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2026-05-07 23:00:24",

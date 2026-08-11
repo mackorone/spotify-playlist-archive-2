@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,876 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,875 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 53 | [Lo Mismo Que A Mí](https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Lo Mismo Que A Mí](https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6) | 3:06 |
 | 54 | [Gritaría \- Remix](https://open.spotify.com/track/4r3gyRGbwgL5gdQT4AIwuz) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Gritaría \(Remix\)](https://open.spotify.com/album/4Irm6WebB7Z2OT8Z4tnPQJ) | 3:29 |
 | 55 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |
-| 56 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
-| 57 | [Un Besito Más](https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [PA'L CORA EP\. 01](https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV) | 3:04 |
+| 56 | [Un Besito Más](https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [PA'L CORA EP\. 01](https://open.spotify.com/album/0CcqlfIynthDbMOXbc8cIV) | 3:04 |
+| 57 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 58 | [El Destino Nos Separa](https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El Destino Nos Separa](https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f) | 2:15 |
 | 59 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
 | 60 | [Desvelado](https://open.spotify.com/track/53TrBLNj6U6Sq8rb7ITcGt) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Pensando En Ti](https://open.spotify.com/album/7DzkW7rT5IaticSjXvs9ac) | 3:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 95 | [NO TE HUBIERA BESADO](https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [NO TE HUBIERA BESADO](https://open.spotify.com/album/2plPejGZIWWggruY0NizsL) | 2:19 |
 | 96 | [Lo que hay x aquí](https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [La Receta, Jambao, G Sony \| Sin Miedo al Éxito \#2](https://open.spotify.com/album/7L1MfLpHzxgCAGUi0hgu6P) | 3:03 |
 | 97 | [Mirame \(feat\. Blessd\) \- Remix](https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mirame \(feat\. Blessd\) \[Remix\]](https://open.spotify.com/album/0VwgnKU3yLwiMnkutv5btR) | 3:13 |
-| 98 | [Si A Todo](https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:53 |
-| 99 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
+| 98 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
+| 99 | [Si A Todo](https://open.spotify.com/track/55yeoyVLs09v8qKpLrSpDL) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Cumbia y Amor](https://open.spotify.com/album/5DGuCQcoaVK1Vems5uswJ0) | 2:53 |
 | 100 | [Adoro](https://open.spotify.com/track/10DXxZz4pj3Y3kNrutKbB8) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Adoro](https://open.spotify.com/album/5j4gCXvNTkOlYblzmA7eYR) | 3:30 |
 
-Snapshot ID: `AAAAABquaM7fpo4p37/71GluCUBaHKs5`
+Snapshot ID: `AAAAAG8Upy/95nDi1px3ZBR5UGT5/+wn`

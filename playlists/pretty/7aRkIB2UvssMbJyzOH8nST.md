@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 
 ### [Sunday Morning \| Chill Vibes](https://open.spotify.com/playlist/7aRkIB2UvssMbJyzOH8nST)
 
-> Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
+> Ease into your  morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 271,045 likes - 130 songs - 7 hr 46 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 271,056 likes - 130 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 | 129 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 |
 | 130 | [Next Summer](https://open.spotify.com/track/71GABxN1QMc3RbtKqhYvXb) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 2:45 |
 
-Snapshot ID: `AAAiQ5lDhgCV2THuVwjYkQxpON6ethLi`
+Snapshot ID: `AAAiRjncn/myh1V/Jddf0jYcbSFIxcg/`

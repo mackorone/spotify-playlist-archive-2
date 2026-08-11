@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133868,
+  "num_followers": 133866,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/ZEer+1/vsIDPuLJ1pQWSrWHRA",
+  "snapshot_id": "AAAAAJTpsmdd9GSN8UUS1+vDKQv7MnAz",
   "tracks": [
     {
       "added_at": "2026-05-08 03:01:30",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Viagem",
-        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "L\u00e9o Batista",
-          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "Viagem",
-      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Controle (Remix)",
         "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 159640,
       "name": "Controle (Remix)",
       "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "Viagem",
+        "url": "https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "L\u00e9o Batista",
+          "url": "https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "Viagem",
+      "url": "https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -739,6 +739,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Nisso Eu Vou Acreditar",
+        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Luiz Alves Filho",
+          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Nisso Eu Vou Acreditar",
+      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Nisso Eu Vou Acreditar",
-        "url": "https://open.spotify.com/album/6deZ0rhWw0o879HXu8AvM9"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Luiz Alves Filho",
-          "url": "https://open.spotify.com/artist/2UNNSwddqIJzwHXI4EIHU2"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Nisso Eu Vou Acreditar",
-      "url": "https://open.spotify.com/track/1Elp54OTW5xTiVXqAPRDJe"
     },
     {
       "added_at": "2026-05-08 03:01:30",

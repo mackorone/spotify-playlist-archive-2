@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
+    },
+    {
+      "album": {
         "name": "4 Track EP",
         "url": "https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 220821,
       "name": "Future Heat feat. Keagan Raphael",
       "url": "https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT"

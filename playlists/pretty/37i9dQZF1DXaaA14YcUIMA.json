@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 672084,
+  "num_followers": 672201,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABaIgYwX+bkj5TYHdfqB7cy34AfW",
+  "snapshot_id": "AAAAAOJRUeLRxbJM6oR6M/lhi9qNyM22",
   "tracks": [
     {
       "added_at": "2026-07-17 06:00:22",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/46HSR9UPHXZxeR7EUvFERG"
     },
     {
+      "added_at": "2026-08-10 20:28:58",
+      "album": {
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/0oTtqBAfTxeawxx1saJQSh"
+    },
+    {
       "added_at": "2026-07-17 06:00:22",
       "album": {
         "name": "Sue\u00f1o Y Realidad",
@@ -39,22 +55,6 @@
       "duration_ms": 177040,
       "name": "Piensa En M\u00ed",
       "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Tu Amor O Tu Desprecio",
-        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 209506,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -91,26 +91,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Reg\u00e1lame",
-        "url": "https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
-        },
-        {
-          "name": "Elaine Haro",
-          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
-        }
-      ],
-      "duration_ms": 158945,
-      "name": "Reg\u00e1lame",
-      "url": "https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Internacionales Y Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
       },
@@ -123,6 +103,22 @@
       "duration_ms": 175013,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Tu Amor O Tu Desprecio",
+        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -175,22 +171,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Intimidades",
-        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Como Una Novela",
-      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Tu \u00daltima Canci\u00f3n",
         "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
       },
@@ -203,6 +183,22 @@
       "duration_ms": 262333,
       "name": "Tu \u00daltima Canci\u00f3n",
       "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Intimidades",
+        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Como Una Novela",
+      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -255,22 +251,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 208640,
-      "name": "Voy a pintar un coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Tu \u00daltima Canci\u00f3n",
         "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
       },
@@ -283,6 +263,22 @@
       "duration_ms": 242733,
       "name": "Eres un Sue\u00f1o",
       "url": "https://open.spotify.com/track/4gxzgTzA4MSLf5rje1rX65"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 208640,
+      "name": "Voy a pintar un coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -335,22 +331,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
-      },
-      "artists": [
-        {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
-        }
-      ],
-      "duration_ms": 254440,
-      "name": "La Loca",
-      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Mi Vida Eres T\u00fa",
         "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
       },
@@ -363,6 +343,22 @@
       "duration_ms": 250026,
       "name": "Mi Vida Eres T\u00fa",
       "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+      },
+      "artists": [
+        {
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+        }
+      ],
+      "duration_ms": 254440,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -563,22 +559,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 177853,
-      "name": "Supe Perder",
-      "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
       },
@@ -595,6 +575,22 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 177853,
+      "name": "Supe Perder",
+      "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/0IrCscdgJQiDQLQjYhKMdV"
       },
@@ -607,6 +603,22 @@
       "duration_ms": 168720,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/0NZtpFRzI4ZygqISV7fTtD"
+    },
+    {
+      "added_at": "2026-08-10 20:28:58",
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 178607,
+      "name": "No Le Tengas Compasi\u00f3n",
+      "url": "https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -819,22 +831,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Quier\u00e9me M\u00e1s",
-        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
-      },
-      "artists": [
-        {
-          "name": "Grupo Modelo",
-          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Qui\u00e9reme M\u00e1s",
-      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -847,6 +843,22 @@
       "duration_ms": 185880,
       "name": "A Donde Iras Ahora",
       "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Quier\u00e9me M\u00e1s",
+        "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
+      },
+      "artists": [
+        {
+          "name": "Grupo Modelo",
+          "url": "https://open.spotify.com/artist/1wJ2aDtLBcymSre3vQUBoG"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Qui\u00e9reme M\u00e1s",
+      "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -915,22 +927,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 218866,
-      "name": "Enamorado De Tus Ojos",
-      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Por El Mundo",
         "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
       },
@@ -947,6 +943,22 @@
       "duration_ms": 211346,
       "name": "Adoro (with Armando Manzanero) - Remasterizado",
       "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "Enamorado De Tus Ojos",
+      "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -999,22 +1011,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 205346,
-      "name": "Me Qued\u00e9 Llorando",
-      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
       },
@@ -1027,6 +1023,22 @@
       "duration_ms": 240133,
       "name": "Coraz\u00f3n M\u00e1gico",
       "url": "https://open.spotify.com/track/3Hj11HLySjrLEPAQya90TC"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Me Qued\u00e9 Llorando",
+      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1095,22 +1107,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Todo... Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz"
-      },
-      "artists": [
-        {
-          "name": "Organizaci\u00f3n Genesis",
-          "url": "https://open.spotify.com/artist/3ODA1BEMLHdea29BorDZ9H"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Juguete Caro - Remastered",
-      "url": "https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
@@ -1123,6 +1119,22 @@
       "duration_ms": 192293,
       "name": "Limosnero De Cari\u00f1o",
       "url": "https://open.spotify.com/track/12wge7SE8mvrJRPvgH5Jw6"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Todo... Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz"
+      },
+      "artists": [
+        {
+          "name": "Organizaci\u00f3n Genesis",
+          "url": "https://open.spotify.com/artist/3ODA1BEMLHdea29BorDZ9H"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Juguete Caro - Remastered",
+      "url": "https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1159,22 +1171,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Antolog\u00eda. . . Los Freddy's",
         "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
       },
@@ -1187,6 +1183,22 @@
       "duration_ms": 183266,
       "name": "El primer tonto",
       "url": "https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1207,22 +1219,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "En La Luna",
-        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
-      },
-      "artists": [
-        {
-          "name": "Los Carlos",
-          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "P\u00eddeme La Luna",
-      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
@@ -1235,6 +1231,22 @@
       "duration_ms": 169146,
       "name": "Cosas Buenas Que Parecen Malas",
       "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "En La Luna",
+        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
+      },
+      "artists": [
+        {
+          "name": "Los Carlos",
+          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1355,6 +1367,26 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
+        "name": "Reg\u00e1lame",
+        "url": "https://open.spotify.com/album/7hBobMi2V10BchhtucB3NV"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        },
+        {
+          "name": "Elaine Haro",
+          "url": "https://open.spotify.com/artist/2g55yY73Y02L4FpXJT02gS"
+        }
+      ],
+      "duration_ms": 158945,
+      "name": "Reg\u00e1lame",
+      "url": "https://open.spotify.com/track/00uf9pQwn1uxlEH3OSHEOO"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
         "name": "Lo Mejor De Guardianes Del Amor",
         "url": "https://open.spotify.com/album/4Asr02QFyUUEcwtcnGCYhx"
       },
@@ -1421,20 +1453,20 @@
       "url": "https://open.spotify.com/track/1j24uoQ72zDdXKnYdY1QSo"
     },
     {
-      "added_at": "2026-07-17 06:00:22",
+      "added_at": "2026-08-10 20:28:58",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l"
+        "name": "20 Kilates",
+        "url": "https://open.spotify.com/album/0SIyYEU7gsKhUSIltPrgum"
       },
       "artists": [
         {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+          "name": "Los Humildes",
+          "url": "https://open.spotify.com/artist/6SvtFKeZVpC4VTq5HQf7zm"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Notas De Sociedad",
-      "url": "https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0"
+      "duration_ms": 158893,
+      "name": "Chulita",
+      "url": "https://open.spotify.com/track/1fPYLBGvGFj7GPLa6zdnDw"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1451,6 +1483,22 @@
       "duration_ms": 218200,
       "name": "Dame un Beso y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Notas De Sociedad",
+      "url": "https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1503,22 +1551,6 @@
     {
       "added_at": "2026-07-17 06:00:22",
       "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
         "name": "25 A\u00f1os De Fama",
         "url": "https://open.spotify.com/album/7siu4Zgk4UKPWbRr7v1iZw"
       },
@@ -1531,6 +1563,22 @@
       "duration_ms": 175293,
       "name": "Tu Tienes Que Vivir Conmigo",
       "url": "https://open.spotify.com/track/57MsWWE95Vtn8jtmIiDSXl"
+    },
+    {
+      "added_at": "2026-07-17 06:00:22",
+      "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
     },
     {
       "added_at": "2026-07-17 06:00:22",
@@ -1983,54 +2031,6 @@
       "duration_ms": 203560,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "Bendito Cielo",
-        "url": "https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "A Mentir A La Calle",
-      "url": "https://open.spotify.com/track/7mGWklhUXaOYARbuq7woAQ"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "15 \u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/14CGdvyatc8A1qzeNJ01wi"
-      },
-      "artists": [
-        {
-          "name": "Los Chicanos",
-          "url": "https://open.spotify.com/artist/4CtmyXgladHink6882NHrX"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Frio de Ausencia",
-      "url": "https://open.spotify.com/track/1fpRDxobYnQsp8wgHOCncv"
-    },
-    {
-      "added_at": "2026-07-17 06:00:22",
-      "album": {
-        "name": "15 Exitos - Felinos",
-        "url": "https://open.spotify.com/album/1WINkjIcYmvV3TGG3ezQfd"
-      },
-      "artists": [
-        {
-          "name": "Felinos",
-          "url": "https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy"
-        }
-      ],
-      "duration_ms": 162237,
-      "name": "Morena De 15 A\u00f1os",
-      "url": "https://open.spotify.com/track/0ZTOUnF9SYd4fjnPMwLRpK"
     }
   ],
   "unique_name": "Romance Grupero",

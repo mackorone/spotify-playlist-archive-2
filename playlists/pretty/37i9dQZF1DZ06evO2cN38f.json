@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1683,
+  "num_followers": 1685,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADdC/7+CgBdlD2r4bxundha",
+  "snapshot_id": "anfDAAAAAACWhBCqYlb/0UoOzODCf6TB",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+        "name": "I'm Your Muse (Ron Trent Remix)",
+        "url": "https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF"
       },
       "artists": [
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         }
       ],
-      "duration_ms": 221153,
-      "name": "Feel the Same Way",
-      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
+      "duration_ms": 476763,
+      "name": "I'm Your Muse - Ron Trent Remix",
+      "url": "https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn"
     },
     {
       "added_at": null,
@@ -327,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Muse (Ron Trent Remix)",
-        "url": "https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF"
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
       },
       "artists": [
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         }
       ],
-      "duration_ms": 476763,
-      "name": "I'm Your Muse - Ron Trent Remix",
-      "url": "https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn"
+      "duration_ms": 221153,
+      "name": "Feel the Same Way",
+      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
     },
     {
       "added_at": null,

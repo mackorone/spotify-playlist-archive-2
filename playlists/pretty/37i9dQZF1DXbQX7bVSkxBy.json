@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Joepraize",
-  "num_followers": 59853,
+  "num_followers": 59882,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0Du2Eo00tmJTpXL1W9rCgO20hq",
+  "snapshot_id": "AAAAAPuU84dXiIIBghk0TOYaznypjU3k",
   "tracks": [
     {
       "added_at": "2024-12-06 00:01:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+    },
+    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "GOD IS GOOD",
@@ -603,22 +619,6 @@
       "duration_ms": 207529,
       "name": "GOD IS GOOD",
       "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -881,6 +881,26 @@
       "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "The Maverick Way Complete",
@@ -903,26 +923,6 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth, Chandler Moore )",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "added_at": "2026-03-13 00:01:18",

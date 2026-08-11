@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
 
-1,071 songs - 2 day 10 hr 2 min
+1,073 songs - 2 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Daydream](https://open.spotify.com/track/06QuQaDv68bvr8oaNXoSSY) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [OCTAVE / Daydream](https://open.spotify.com/album/5xFM0bU4tuO8e67eOgtaPA) | 3:31 | 2024-02-20 | 2024-05-29 |
 | [Days](https://open.spotify.com/track/1f8qRx4uWmiwSIsQoZU5rH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [NOT OKAY](https://open.spotify.com/album/7uBc2WW6vvm2QH6Nre7ND1) | 4:19 | 2024-02-27 | 2024-05-29 |
 | [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 | 2026-05-11 |  |
-| [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 | 2026-03-17 |  |
+| [DEAD MAN WALKING](https://open.spotify.com/track/523i3lvg9ih2bgsMZZCLSX) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [NO DOUBT](https://open.spotify.com/album/3Fn1iVu9HzAzX1akVqxRLG) | 2:31 | 2026-03-17 | 2026-08-11 |
 | [Dealio!?](https://open.spotify.com/track/0QiNhV9XSsnQxVWzZtjiO5) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/55rN1Mparq98YdjAH8PrbD) | 3:02 | 2025-05-06 | 2025-07-16 |
 | [Dear DIVA](https://open.spotify.com/track/4vCZibK8wRUrHgHQ58FkWN) | [ROIROM](https://open.spotify.com/artist/3g5EB8SrWpWGz82HifWZSj) | [Dear DIVA](https://open.spotify.com/album/4yQDzvSV87kmm3GDg1G6lq) | 3:28 | 2025-11-18 | 2025-12-10 |
 | [DEAR MY LOVER](https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [P.U!](https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU) | 4:59 | 2024-01-02 | 2025-03-07 |
@@ -447,7 +447,7 @@
 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 | 2025-02-18 | 2025-04-30 |
 | [Keep on Moving](https://open.spotify.com/track/4nS2rDbFUcvcrNoTEQFJJM) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe \(Japanese Ver.\) / Keep on Moving \-Special Edition\-](https://open.spotify.com/album/5tyosIYVnbP67FGL9o8Xx6) | 3:06 | 2024-08-22 | 2024-09-25 |
 | [Keep on Moving \(Korean Version\)](https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Keep on Moving \(Korean Version\)](https://open.spotify.com/album/4q1Pmz0UWvz6LoiNF6q63r) | 3:06 | 2024-09-24 | 2024-10-16 |
-| [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 | 2026-04-09 |  |
+| [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 | 2026-04-09 | 2026-08-11 |
 | [Kids Return](https://open.spotify.com/track/0R6FvzEYhEzeE2q03EfXWI) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<itsnotover>](https://open.spotify.com/album/2J0bo8DrmROWhOzHltbUyn) | 3:06 | 2026-07-13 |  |
 | [KILL SHOT](https://open.spotify.com/track/0E2uBfka0bJQjzco0OGjgT) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [KILL SHOT](https://open.spotify.com/album/1ZNVbLc6DaYeY5F3QJVUGx) | 3:12 | 2026-04-20 | 2026-06-16 |
 | [Killa](https://open.spotify.com/track/4KwBjOcDve0jQrvD9eQljz) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Inception](https://open.spotify.com/album/5qb6vswL32wO47scCrZ7EL) | 3:24 | 2024-06-12 | 2024-07-10 |
@@ -975,6 +975,7 @@
 | [わたし](https://open.spotify.com/track/3Fe0fU2ugeqK7rd5Smpat0) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [わたし](https://open.spotify.com/album/3iWKJAWZA2vtdAZhLKqps8) | 4:23 | 2024-07-09 | 2024-07-31 |
 | [アプデライフ](https://open.spotify.com/track/6jy7ZZFpfHsx9gUncP6W15) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [アプデライフ](https://open.spotify.com/album/4EMfb42stEGsMlYKOA8Kot) | 3:33 | 2024-02-29 | 2024-04-03 |
 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 | 2024-01-23 | 2024-07-31 |
+| [イグジステンス](https://open.spotify.com/track/48m7ipLnWLf5UlArZvthQ4) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [イグジステンス](https://open.spotify.com/album/3yLu6EBuyD4kmKD3Tcb1dY) | 3:33 | 2026-08-10 |  |
 | [エンドレス・ジャーニー](https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [エンドレス・ジャーニー](https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR) | 2:55 | 2024-05-21 | 2024-07-31 |
 | [オオカミと彗星](https://open.spotify.com/track/1A2J7Pccy4Ur0lwP0HYJaJ) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [オオカミと彗星](https://open.spotify.com/album/5yKELJirAKvjSwJR3uwysm) | 4:30 | 2024-01-02 | 2024-01-24 |
 | [オドロウゼ！](https://open.spotify.com/track/0MV9cdI2SS1s0tIkl9fTR8) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [オドロウゼ！](https://open.spotify.com/album/2mBBbMDUPBWUpwLoJcEp3u) | 3:51 | 2026-02-22 | 2026-05-05 |
@@ -1076,6 +1077,7 @@
 | [青春インクレディブル](https://open.spotify.com/track/2L6ygU5hYwjoFIu8Hi8Vu7) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [青春インクレディブル](https://open.spotify.com/album/21dxmeoefdXwNNTJ3Yxwvn) | 2:54 | 2025-10-14 | 2026-02-18 |
 | [飛龍\-FeiLong\-](https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [飛龍\-FeiLong\-](https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3) | 3:03 | 2023-12-19 | 2024-01-03 |
 | [鬼事](https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [鬼事](https://open.spotify.com/album/7IxbIYQOOQKgoQZzpFTArJ) | 3:00 | 2026-07-21 |  |
+| [鸢 \(Vision Wings\)](https://open.spotify.com/track/52eusU4cqmyZ54z6AC2zDv) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Vision Wings \- The 8th Mini Album](https://open.spotify.com/album/3XrN05Mq3LTXwBMz40TGjQ) | 3:42 | 2026-08-10 |  |
 | [꿈의 버스 Dream Bus](https://open.spotify.com/track/5cE6bNjhhuJnrrDdkcZmv0) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/7MGEb2kSPjn7izDAul5bAh) | 2:41 | 2025-09-05 | 2025-12-16 |
 | [눈에 거슬리고 싶어 \(Eye\-Poppin'\)](https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Kick](https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j) | 2:42 | 2026-04-06 |  |
 | [처음 불러보는 노래 \(My First Love Song\)](https://open.spotify.com/track/3wlSKXBySBUG5Wv9FTXxgm) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Flip](https://open.spotify.com/album/04Yv1WojhqaF5sn1iHyj87) | 2:44 | 2025-09-22 | 2026-02-25 |

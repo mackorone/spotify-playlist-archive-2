@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,212 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,194 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 45 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 |
 | 46 | [Travelling](https://open.spotify.com/track/4CEMsS2qz4JScCJlV2mNbg) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Travelling](https://open.spotify.com/album/2sNUqlx4pyjnMstGPGkZ6u) | 2:46 |
 | 47 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 |
-| 48 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 |
-| 49 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 |
+| 48 | [Instant Need](https://open.spotify.com/track/6obKvh06VvBZP98oqU6YR7) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Time for a Change](https://open.spotify.com/album/5NPQ3KFdwLrZKuOebTAIzb) | 4:30 |
+| 49 | [Roches blanches](https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj) | [Mizmo](https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV) | [Roches blanches](https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d) | 2:36 |
 | 50 | [Actually](https://open.spotify.com/track/3hN5cipCofNVspWVkToiQD) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 3:47 |
 | 51 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
 | 52 | [Il Sogno \- House Mix](https://open.spotify.com/track/4dR5z9BXbCWYeicagTa93o) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 2:41 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 76 | [Good Life \(Remastered\)](https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life \(Remastered\)](https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK) | 3:16 |
 | 77 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 78 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
-| 79 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
+| 79 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 | 80 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
-| 81 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
+| 81 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 |
 | 82 | [Jazz Feel](https://open.spotify.com/track/3wBbSVC0FmbcQ0zlkBrNdC) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Jazz Feel](https://open.spotify.com/album/5Son32jRjljMaKwXfjmgRp) | 2:34 |
 | 83 | [Leave My Home](https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX) | 3:41 |
 | 84 | [Da Fonk \(feat\. Joni\) \- \[Dub\]](https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 5:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 | 100 | [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 |
 
-Snapshot ID: `AAAAAH25/SYdt0YqFfkkM1tREog1Nl83`
+Snapshot ID: `AAAAAP99AIfqwatcLn8LlUFQYRt54bLL`

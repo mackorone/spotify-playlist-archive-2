@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,384 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,380 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/5qlUx9z0dElbbWFP8VRz4p) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Mirrors](https://open.spotify.com/album/5kHtzdMxZ2ubNUktPtHRV1) | 2:07 |
 | 50 | [call me back](https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [call me back](https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1) | 1:54 |
 
-Snapshot ID: `AAAAAORAvp8MFGr+j4022jOFira1YDly`
+Snapshot ID: `AAAAAGdeuxcJCNpSL070UI0dphPLXHqM`

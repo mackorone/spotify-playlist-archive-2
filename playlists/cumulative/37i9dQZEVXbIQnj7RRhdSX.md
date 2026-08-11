@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-3,148 songs - 6 day 16 hr 58 min
+3,149 songs - 6 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Dai che fai](https://open.spotify.com/track/21KdF0KGmSXmDBcif3XZd4) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Mediterraneo](https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd) | 3:20 | 2025-06-07 | 2026-02-01 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-23 |  |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-12 | 2025-07-14 |
+| [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [R3versal](https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV) | 3:08 | 2026-08-10 |  |
 | [Damerino \(feat\. Taxi B\)](https://open.spotify.com/track/6cijWtR2c5UzbRqZ9X3mrw) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [OCEANO PARADISO](https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m) | 2:21 | 2021-10-17 | 2021-10-18 |
 | [DAMME 'NA MANO](https://open.spotify.com/track/3hjG2x6wWyJ84ue7GESTVR) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/33Fn5GCd1FuV43TNfZgro4) | 2:58 | 2025-02-13 | 2025-03-30 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-22 | 2023-09-24 |
@@ -924,7 +925,7 @@
 | [Entro nel posto \(feat\. Tony Boy, Kid Yugi & Capo Plaza\)](https://open.spotify.com/track/0mEyPi2ya8h8632gp9XmmQ) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:59 | 2024-10-12 | 2024-12-15 |
 | [Envidioso \(feat\. Morad\)](https://open.spotify.com/track/4jEPGkpoaINmlOYGVs79Ok) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PLAZA](https://open.spotify.com/album/47DVzb5aN7FnF9htmpoLK3) | 3:16 | 2021-04-18 | 2021-05-14 |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-04-28 | 2022-04-30 |
-| [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2026-02-10 |  |
+| [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2026-02-10 | 2026-08-11 |
 | [EPISODIO D'AMORE](https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:16 | 2024-06-08 | 2025-04-13 |
 | [Equilibrio mentale \- Home piano session](https://open.spotify.com/track/5frS6Yg6s0QBDca1rpnQqq) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Solo](https://open.spotify.com/album/6a2IzTknTaQDYIV46Q5gd4) | 3:34 | 2022-03-26 | 2022-03-28 |
 | [Era già scritto](https://open.spotify.com/track/0OVFJH2jT5mamCId7HLW1x) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 1:58 | 2023-09-09 | 2023-09-11 |

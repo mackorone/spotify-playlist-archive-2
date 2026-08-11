@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 77 songs - 4 hr 37 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 86 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,14 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 75 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 |
 | 76 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
 | 77 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 |
+| 78 | [Don't Eat Don't Sleep](https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Don't Eat Don't Sleep](https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn) | 3:32 |
+| 79 | [Cosmonaut Blues](https://open.spotify.com/track/2Pyj8r96O3ASYRMUHYCTKl) | [Rakowsky](https://open.spotify.com/artist/6vj4Sod1PzG5SmBkrz1oiK) | [Sun Sick](https://open.spotify.com/album/7fYxIGkzp2UptMmNUZpYch) | 3:22 |
+| 80 | [The Night House](https://open.spotify.com/track/5GY7dUhx8z5a9wbRvVpwKy) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 1:38 |
+| 81 | [Bar Iberia](https://open.spotify.com/track/76Rz27zD938VRuC6cTHhRb) | [Dougie Jones](https://open.spotify.com/artist/6NCCTLRLhPbKwN6veHPIdh) | [Bar Iberia](https://open.spotify.com/album/0Pi35XMoSUD1o9mgosIh1I) | 3:02 |
+| 82 | [Upside Down](https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Upside Down](https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG) | 2:36 |
+| 83 | [Lost in a Prayer](https://open.spotify.com/track/4nngNN4918GGctBPfNTDH8) | [Mai Doan](https://open.spotify.com/artist/5uFWFzNpvSy1BEF9hOT7Ps) | [Lost in a Prayer](https://open.spotify.com/album/4x6vhTPnMf5QjV6QQBTSEP) | 3:31 |
+| 84 | [Sweet Tooth](https://open.spotify.com/track/5dWoXHpRHmDUpqVfbtUegp) | [Against the Voices](https://open.spotify.com/artist/1PbZi3MMzd2reijr7fnndu) | [Sweet Tooth](https://open.spotify.com/album/1FDAcSLPnGveYgYoUrYKOO) | 4:12 |
+| 85 | [Bullet For Your Gun](https://open.spotify.com/track/2J4EC6Gb119yhv9Yyhb7jY) | [Former Teen](https://open.spotify.com/artist/1Vzt8cjNUHR5ZZ7i99Bh1u) | [Bullet For Your Gun](https://open.spotify.com/album/5cIH1H2S4rLLrAYoQ7t1Sr) | 4:06 |
+| 86 | [The ritual sound of silence](https://open.spotify.com/track/0RJ2p6teIbZtKbj2y4e2Bg) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 4:07 |
 
-Snapshot ID: `AAAPuTWpNJ0X2VVUhoK65xJK1O8e5RfD`
+Snapshot ID: `AAAPwvmqgwUGRnWCSCC0Kwm/k2qObYd2`

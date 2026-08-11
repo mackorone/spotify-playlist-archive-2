@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 
 > sugar and spice but for the eyes\. MVs only available for Spotify premium subscribers\. Cover: BTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,599 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,602 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 | 43 | [Beautiful Strangers](https://open.spotify.com/track/19ATlltGZxoYLBallj64nV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Beautiful Strangers](https://open.spotify.com/album/4wg920jmXzQFTstRzODmHK) | 3:14 |
 | 44 | [Secret Garden](https://open.spotify.com/track/3GnJI7OWCMANWYzdnfvb2B) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Secret Garden](https://open.spotify.com/album/6oTo8KY02bgxBoTRaoQ6Pd) | 3:32 |
 | 45 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
-| 46 | [Stardust Forever](https://open.spotify.com/track/5lyhVD94kdyF2GaR844zPa) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/2DuzA2TVZxOXkIt4xuuSwE) | 2:49 |
-| 47 | [All of You](https://open.spotify.com/track/2NNLoaWUSCekOx0X9oiLnW) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:58 |
+| 46 | [Stardust Forever](https://open.spotify.com/track/5lyhVD94kdyF2GaR844zPa) | [BALLISTIK BOYZ](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/2DuzA2TVZxOXkIt4xuuSwE) | 2:49 |
+| 47 | [All of You](https://open.spotify.com/track/2NNLoaWUSCekOx0X9oiLnW) | [BALLISTIK BOYZ](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Stardust Forever](https://open.spotify.com/album/5wRZA4UGl6Rxm2lDSnrsdh) | 2:58 |
 | 48 | [NOT OKAY](https://open.spotify.com/track/6w5aKGapYq9GIrHVFhzXB3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 3:34 |
 | 49 | [Birthday](https://open.spotify.com/track/1cQr35R6g1TucvVctoF8yO) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Ashes to Light](https://open.spotify.com/album/0N3IF32AyRsrhGO8YIl4qF) | 2:44 |
 | 50 | [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1njLqea3MtJCFQYRcz6K6D) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \(狂想曲\)](https://open.spotify.com/album/0iZHacBPz21y0VbKh9hxjU) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 | 99 | [อินเธอเวิร์ต \(Into You\) \[feat\. PiXXiE\]](https://open.spotify.com/track/2RaxNwqGyHg3D5ONL3OPto) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [อินเธอเวิร์ต \(Into You\) \[feat\. PiXXiE\]](https://open.spotify.com/album/2CMGG2i69eN696O4lWa5NQ) | 3:39 |
 | 100 | [BAD](https://open.spotify.com/track/6o0jmD1rCPYp7uZBtbUrya) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [BAD](https://open.spotify.com/album/2UiwzTFOuIkZm0OT4ld0HS) | 3:38 |
 
-Snapshot ID: `AAAAAIlnXOa8RIqIlVmAhGcpR7YEzxGU`
+Snapshot ID: `AAAAALM0Y9yJY/sFW2/sfLYEio+96Zjf`

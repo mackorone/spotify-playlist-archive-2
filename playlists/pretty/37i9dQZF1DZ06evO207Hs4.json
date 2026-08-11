@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Cliff. The essential tracks, all in one playlist.",
-  "num_followers": 43742,
+  "num_followers": 43740,
   "original_name": "This Is Jimmy Cliff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAADmvIFl4OnlgKY9haZHVel9",
+  "snapshot_id": "anfDAAAAAAAVSVXTbemM1v0m4OQuL1JO",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebel Light",
+        "url": "https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 144864,
+      "name": "Miss Jamaica",
+      "url": "https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm Of The Pride Lands",
         "url": "https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj"
       },
@@ -487,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebel Light",
-        "url": "https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
       },
       "artists": [
         {
@@ -496,25 +512,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 144864,
-      "name": "Miss Jamaica",
-      "url": "https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Goodbye Yesterday",
-        "url": "https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Bongo Man",
-      "url": "https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n"
+      "duration_ms": 262866,
+      "name": "Roots Radical",
+      "url": "https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w"
+        "name": "Goodbye Yesterday",
+        "url": "https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 262866,
-      "name": "Roots Radical",
-      "url": "https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n"
+      "duration_ms": 245533,
+      "name": "Bongo Man",
+      "url": "https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Jimmy Cliff",
-        "url": "https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Let Your Yeah Be Yeah",
-      "url": "https://open.spotify.com/track/0eOWjvKQunKXGy3eKmqwFn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Power And The Glory",
         "url": "https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 238306,
       "name": "Love Solution",
       "url": "https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Jimmy Cliff",
+        "url": "https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Let Your Yeah Be Yeah",
+      "url": "https://open.spotify.com/track/0eOWjvKQunKXGy3eKmqwFn"
     },
     {
       "added_at": null,

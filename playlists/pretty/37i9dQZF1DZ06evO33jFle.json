@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 553985,
+  "num_followers": 554028,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAASS4UJ9i3tbMG7mggXOYfs",
+  "snapshot_id": "anfDAAAAAAA1yZRuKLhQhYpztc8ldoBW",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Besos y Copas Desde Hollywood (En Vivo)",
+        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 200081,
-      "name": "Sufriendo a Solas - En Vivo",
-      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos y Copas Desde Hollywood (En Vivo)",
-        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Besos y Copas - En Vivo",
-      "url": "https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp"
+      "duration_ms": 200081,
+      "name": "Sufriendo a Solas - En Vivo",
+      "url": "https://open.spotify.com/track/2MhTfp7RJMUi7eGgltSyLW"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
-        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
+        "name": "Besos y Copas Desde Hollywood (En Vivo)",
+        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 167386,
-      "name": "La Mentada Contestada",
-      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
+      "duration_ms": 209906,
+      "name": "Juro Que Nunca Volver\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos y Copas Desde Hollywood (En Vivo)",
-        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
+        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Juro Que Nunca Volver\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/4MQQ60Rvvm31Ecs7bAxecM"
+      "duration_ms": 167386,
+      "name": "La Mentada Contestada",
+      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
     },
     {
       "added_at": null,

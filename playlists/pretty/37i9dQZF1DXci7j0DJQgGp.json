@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1679827,
+  "num_followers": 1679731,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHW6FDRVC1qxh77gIqIJ95lMyJRf",
+  "snapshot_id": "AAAAAH1mx66AkBlWzVazpabm/Qk+DkpX",
   "tracks": [
     {
       "added_at": "2026-04-20 20:08:42",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "I Got Heaven",
         "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 224373,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/2VO8CVuLDVXynM8tQECALM"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "No Driver",
-        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "No Driver",
-      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Daniel",
         "url": "https://open.spotify.com/album/6hklBSOyHrnC42LQksxrzd"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 168173,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4fqNoM2d2URotMit7GlmlI"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "No Driver",
+        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "No Driver",
+      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Bed Head (Acoustic)",
         "url": "https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 243456,
       "name": "Bed Head - Acoustic",
       "url": "https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "I Love You, Brae",
-        "url": "https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00e9ar",
-          "url": "https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Queenstown",
-      "url": "https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Faith Crisis Pt 1",
         "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 266292,
       "name": "Holocene [feat. Weyes Blood]",
       "url": "https://open.spotify.com/track/0zbc8UgOfYyG96pAWjx3hH"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "I Love You, Brae",
+        "url": "https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00e9ar",
+          "url": "https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Queenstown",
+      "url": "https://open.spotify.com/track/7EzhSMssOShDH5PfOW2sOe"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "Two Sides",
         "url": "https://open.spotify.com/album/3FG64GXbcfsmnx1ocD7kwk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 230759,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/3CXYKSBNOQxfIGHLcbra1f"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
     },
     {
       "added_at": "2026-04-20 20:08:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6641,
+  "num_followers": 6642,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABBY2pZZdTqe3Or06ecRruy",
+  "snapshot_id": "anfDAAAAAACaWj+vRgoKyZI2m34iLjBd",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 171226,
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 154000,
       "name": "La Tijanita",
       "url": "https://open.spotify.com/track/4u0Tk3GBHUpJOt80xT6wBY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Town Recordando los Exitos, Vol. 6",
-        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 163000,
       "name": "El Pajaro Chogui",
       "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Town Recordando los Exitos, Vol. 6",
+        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
     },
     {
       "added_at": null,

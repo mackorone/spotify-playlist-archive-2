@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,525 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,563 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [Un Poco](https://open.spotify.com/track/3MVTefqbeNX5yHFOmnHy3X) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 2.0](https://open.spotify.com/album/0hl8Hs6SM4NfS5TOrkOfRU) | 3:08 |
 | 40 | [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 |
 
-Snapshot ID: `AAAAAAdY8zTB9IeMc0WTcRu+i3lR0jJ+`
+Snapshot ID: `AAAAAH7zo1tE5/beypfSnNOECbfkcsLS`

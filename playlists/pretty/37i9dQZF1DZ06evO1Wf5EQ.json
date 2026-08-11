@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 820,
+  "num_followers": 821,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAC0m+PlIP+6R5JKA/RAFzgg",
+  "snapshot_id": "anfDAAAAAABRhTCn8dgkKybUwF5P+IpU",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
       "duration_ms": 137454,
       "name": "Ceiling Games",
       "url": "https://open.spotify.com/track/3ATRPvWFMu2F1U8b1Bh7ep"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hacks: Season 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 77822,
+      "name": "Unhoused Residents - Ava's Theme - Alternate",
+      "url": "https://open.spotify.com/track/4cWL6iAoBFVMcjBBdzFXEu"
     },
     {
       "added_at": null,
@@ -336,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 130728,
-      "name": "Best Alone",
-      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
+      "duration_ms": 83131,
+      "name": "Calvin",
+      "url": "https://open.spotify.com/track/2GNgQFDxgVamyS8D2LL7wg"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

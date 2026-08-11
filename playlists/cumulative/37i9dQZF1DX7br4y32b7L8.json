@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "#fyp songs voor je playlist Cover: DJ LARITA, Afro Bros, Billy Dans & Carmell",
+  "description": "#fyp songs voor je playlist Cover: Ray & Beer",
   "name": "Viral Hits NL",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 207407,
       "name": "AMG Met Matje",
       "url": "https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/1fdgakuuEEfjRt3KYF36eG"
@@ -6436,7 +6436,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 158291,
       "name": "Head & Shoulders",
       "url": "https://open.spotify.com/track/4p2muUO2MvaxjqpLzzql80"
@@ -8690,6 +8690,24 @@
       "duration_ms": 161831,
       "name": "Leidseplein",
       "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
+    },
+    {
+      "album": {
+        "name": "Lekker genieten",
+        "url": "https://open.spotify.com/album/0PIc4vComeWtDdIvjKJGBZ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Hoer\u00e9",
+          "url": "https://open.spotify.com/artist/5AcEJsrjeoYnZ0T3e67FFH"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159061,
+      "name": "Lekker genieten",
+      "url": "https://open.spotify.com/track/6IGHqk7kREFuc5mLndl0MU"
     },
     {
       "album": {
@@ -13596,7 +13614,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 173755,
       "name": "RUBBERZ",
       "url": "https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh"
@@ -18364,6 +18382,46 @@
       "duration_ms": 134026,
       "name": "Zombieland",
       "url": "https://open.spotify.com/track/02Z1ITPGpqifrF3WDLyaK6"
+    },
+    {
+      "album": {
+        "name": "Zomerblousje",
+        "url": "https://open.spotify.com/album/1djXceTDm9c0k2MDP4nTTv"
+      },
+      "artists": [
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117987,
+      "name": "Zomerblousje",
+      "url": "https://open.spotify.com/track/29nZWbihJC0l6ijK7sJFkb"
+    },
+    {
+      "album": {
+        "name": "Zonnebank",
+        "url": "https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E"
+      },
+      "artists": [
+        {
+          "name": "Ray & Beer",
+          "url": "https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184656,
+      "name": "Zonnebank",
+      "url": "https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-904 songs - 2 day 8 hr 54 min
+910 songs - 2 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Desperate Others](https://open.spotify.com/track/6l81uKx4RM53K8KpyOFMcw) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Desperate Others](https://open.spotify.com/album/2Lt0mEW4Rm53g2UIVYbmfU) | 3:13 | 2024-12-23 | 2025-03-24 |
 | [Did My Best](https://open.spotify.com/track/0YdSIXOY8QWbRtWaBlnlNo) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Did My Best](https://open.spotify.com/album/5Osm6Z5sBGots1YGx9pBt6) | 4:56 | 2024-06-06 |  |
 | [Die Anywhere Else](https://open.spotify.com/track/4oCeMWwBmMmfAjGwSvrTa4) | [Alec Holowka](https://open.spotify.com/artist/2msAsizgFUJio7s8sgme16) | [Night in the Woods \(Original Soundtrack, Vol\. 1\) \[At the End of Everything\]](https://open.spotify.com/album/0f0tXQKGvvaYRsVZrzr4O8) | 2:24 | 2023-11-14 |  |
+| [Dine N'Dash](https://open.spotify.com/track/22a006OJm48zH87SkPpSVx) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 5:03 | 2026-08-10 |  |
 | [Disciples](https://open.spotify.com/track/2gNfxysfBRfl9Lvi9T3v6R) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:48 | 2024-01-17 |  |
 | [Do You Wanna Get High?](https://open.spotify.com/track/6JwesoWbzk5pjBi3gaMWjb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 3:27 | 2024-06-06 | 2026-03-03 |
 | [Don't Let Go](https://open.spotify.com/track/4EDN1wMNGoDyvkD6QlS8C1) | [Same Eyes](https://open.spotify.com/artist/4FgcfyIpQvBbL61ZuOJtYR) | [Don't Let Go](https://open.spotify.com/album/7dZ5Xwp3kmrd7nMpZKrXCM) | 2:40 | 2024-12-23 | 2025-05-29 |
@@ -271,6 +272,7 @@
 | [Glass](https://open.spotify.com/track/1eSNIUtkDHVOMSBpE1aOcq) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:20 | 2024-06-10 |  |
 | [Go Away](https://open.spotify.com/track/0NwuqeOCKJ0YpoqZSENzhp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 3:13 | 2024-05-19 | 2025-12-29 |
 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 | 2026-04-07 |  |
+| [Going to Babble On](https://open.spotify.com/track/2nxsLJwW4eFDwl36fUQJWe) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 4:06 | 2026-08-10 |  |
 | [Golden Lights \- 2011 Remaster](https://open.spotify.com/track/4i95WTacwOWK6ave3Y3I0u) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:41 | 2025-12-15 |  |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2026-03-07 |  |
 | [Good Morning](https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:15 | 2024-03-27 |  |
@@ -347,6 +349,7 @@
 | [I'll Be Your Shelter \(Just Like a Shelter\)](https://open.spotify.com/track/4WIiDXzsCQ3hD636xfVuQU) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [London 0 Hull 4](https://open.spotify.com/album/4BNELxLJPRYIEOiYGPAET9) | 4:53 | 2024-04-07 | 2026-03-07 |
 | [I'm Sorry I Hit You with My Flip Flop](https://open.spotify.com/track/39TQNdNwF1jBR7SDMQ5SLu) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 2:14 | 2024-12-28 | 2026-02-28 |
 | [I've Had It Up To Here](https://open.spotify.com/track/6ZykKZTLXuruJTgyDLFCN2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 2:49 | 2024-05-19 | 2024-06-04 |
+| [Idea For A Story](https://open.spotify.com/track/62QXJxUHrBICmAW9sarWi5) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Mercury \(7" Version\)](https://open.spotify.com/album/5ZPfMnmGRxHmlaVwTj6veL) | 5:04 | 2026-08-10 |  |
 | [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 | 2026-03-08 |  |
 | [if i fall \(would you crawl under my skin\)](https://open.spotify.com/track/409alrVnmAfZBMhfPkIJIt) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [as i watch my life online](https://open.spotify.com/album/4jcWDyIoZ1WVswLlWgF1Oq) | 4:45 | 2026-03-12 |  |
 | [if i knew i was dying \(i would stare at the sun\)](https://open.spotify.com/track/6RFGNlTYxDhBvn9mRRM4th) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [as i watch my life online](https://open.spotify.com/album/4jcWDyIoZ1WVswLlWgF1Oq) | 0:16 | 2026-03-12 | 2026-03-25 |
@@ -419,6 +422,7 @@
 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2024-01-05 |  |
 | [Letter to My Son](https://open.spotify.com/track/7g4Yp9G2N9KiiVU7FhX3F1) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 4:24 | 2026-02-04 |  |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2023-11-12 | 2024-06-17 |
+| [Liar's Remorse](https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 4:50 | 2026-08-10 |  |
 | [Life Is Simple in the Moonlight](https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 4:15 | 2024-05-10 |  |
 | [Like Eating Glass](https://open.spotify.com/track/0K3Xm2MeSXKbvydIJfTpuN) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:20 | 2024-12-29 |  |
 | [List Of People \(To Try And Forget About\)](https://open.spotify.com/track/01iiEi9h8CQGUN2K1xBbTj) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:39 | 2026-04-10 |  |
@@ -427,6 +431,7 @@
 | [Little Thoughts](https://open.spotify.com/track/6col06dC7iossljlQQ1Xx2) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:27 | 2024-12-29 |  |
 | [London \- 2011 Remaster](https://open.spotify.com/track/0UFQE2kic1X8iwC4A25ghj) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:07 | 2025-12-14 |  |
 | [Lonely Girl](https://open.spotify.com/track/0y3iV86ui1KhuKB0x4dNQ8) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 2:49 | 2024-05-19 |  |
+| [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 | 2026-08-10 |  |
 | [Lonesome Cowboy Bill \- 2015 Remaster](https://open.spotify.com/track/6AzAWzsXXIChy2aulERrD0) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded \(2015 Remaster\)](https://open.spotify.com/album/4RMGrhJRnGiNqmKqhqpLlX) | 2:43 | 2024-07-11 |  |
 | [Looking Out for You](https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3) | 2:59 | 2024-05-29 | 2025-10-10 |
 | [Lotus](https://open.spotify.com/track/09tyNbt7AVzBKHIRqaYhMm) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Blue Fairy](https://open.spotify.com/album/5KVrBZhszK5SXeLDmScFNZ) | 3:45 | 2026-05-15 |  |
@@ -574,6 +579,7 @@
 | [Powerlines](https://open.spotify.com/track/7nmtH3cyqEmKz8F09V60yO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents B\-Sides & Remixes](https://open.spotify.com/album/04uXkrNhFJ1iWEo88MGPva) | 4:18 | 2026-04-10 |  |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-03-12 | 2025-10-14 |
 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 | 2024-04-05 |  |
+| [Psycho Shit](https://open.spotify.com/track/1bsPoGSrs4Vv8iuUs9GQI7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 5:23 | 2026-08-10 |  |
 | [Pufferfish](https://open.spotify.com/track/4rct9hBjzNXAeEZmtxtfLB) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/7K4MJf0pCkZGoxGvYJebWD) | 3:28 | 2026-03-12 |  |
 | [Puking Rainbows](https://open.spotify.com/track/540V3yM3Ep4O5ose94oC1w) | [//orangenoise](https://open.spotify.com/artist/6e9m9OMFmpzGzaMiLYXP6D) | [A Journey to the Heart of Matter \(Remastered 2022\)](https://open.spotify.com/album/5SAaWiWlLmKeLtB7hGGPTU) | 4:01 | 2026-05-18 |  |
 | [Pyramid of Bones](https://open.spotify.com/track/0tfvDUmADEEEqrPcRJNT29) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 4:28 | 2024-06-06 |  |

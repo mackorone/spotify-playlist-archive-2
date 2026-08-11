@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,858 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 59 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 |
 | 60 | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \- De Navidad](https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \(De Navidad\)](https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW) | 4:41 |
 | 61 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 62 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
-| 63 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Billo'S & Los Melódicos de Colección, Vol\. 1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
+| 62 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Billo'S & Los Melódicos de Colección, Vol\. 1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 |
+| 63 | [Oiga, Mire, Vea](https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2) | 5:25 |
 | 64 | [Rebelión](https://open.spotify.com/track/0b4VE6epbojSyLeyyuEJga) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 6:16 |
 | 65 | [Blanca Navidad](https://open.spotify.com/track/5wGw97pjNm9kdtv9DbpvYF) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:18 |
 | 66 | [A Dormir Juntitos \- Liz featuring Eddy Herrera](https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Paso Firme](https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP) | 4:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 74 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
 | 75 | [Viejo Año](https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 3:16 |
 
-Snapshot ID: `AAAAAAGYNsYp02gq419MwEAvKCukSw/I`
+Snapshot ID: `AAAAACx3H4Pdlt7JREBGzzfAAxE17s8G`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena, Lola Indigo",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Abraham Mateo, Mar\u00eda Becerra.",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 204750,
       "name": "10.000 KMS",
       "url": "https://open.spotify.com/track/7N3cn6luTXylCtEnNrH2xo"
+    },
+    {
+      "album": {
+        "name": "1000 Canciones",
+        "url": "https://open.spotify.com/album/2WgVqsPVdWTFMkwJe0Yp9F"
+      },
+      "artists": [
+        {
+          "name": "Gon Abril",
+          "url": "https://open.spotify.com/artist/33E9EiMUaBxMlQwamgda4W"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204242,
+      "name": "1000 Canciones",
+      "url": "https://open.spotify.com/track/3MZCfVvR05Z6J8A8rEYo0b"
     },
     {
       "album": {
@@ -790,7 +808,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 146153,
       "name": "ALELUYA",
       "url": "https://open.spotify.com/track/4T5nKKZ0ytaYvJk9TBTjhc"
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 163681,
       "name": "B\u00c9SAME SUAVE",
       "url": "https://open.spotify.com/track/4sJNYn0AeGcA4jE6UQOi2g"
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 170360,
       "name": "favorita de la vida",
       "url": "https://open.spotify.com/track/3Ai6dySKDJj7M9D7oz1Yxx"
@@ -10324,7 +10342,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 144650,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
@@ -10680,6 +10698,24 @@
       "duration_ms": 179158,
       "name": "Me Vuelves Puto Loco",
       "url": "https://open.spotify.com/track/5yPiHX1ph8maeqvsolo2AV"
+    },
+    {
+      "album": {
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/18F8quZNsKHvaMCKy4FaKK"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "Mediocre",
+      "url": "https://open.spotify.com/track/2px95c8blC3ZqpVbREoXdf"
     },
     {
       "album": {
@@ -13683,6 +13719,24 @@
     },
     {
       "album": {
+        "name": "Pistoletazo de salida",
+        "url": "https://open.spotify.com/album/0laCOGaD7dAgqIFagBEZnQ"
+      },
+      "artists": [
+        {
+          "name": "Lola Tuduri",
+          "url": "https://open.spotify.com/artist/0RvRK3lAtCszsu5IaYvCtm"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163834,
+      "name": "Pistoletazo de salida",
+      "url": "https://open.spotify.com/track/0VYsFvL9seNKxU4Bu8okFR"
+    },
+    {
+      "album": {
         "name": "Placer de vivir",
         "url": "https://open.spotify.com/album/2GjY9NfZdA8glT6Mzd26C3"
       },
@@ -13844,6 +13898,28 @@
       "duration_ms": 165267,
       "name": "Polonia",
       "url": "https://open.spotify.com/track/3UNrrmmtFQlDx075B8JEBp"
+    },
+    {
+      "album": {
+        "name": "Mi Carpe Diem",
+        "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204508,
+      "name": "Ponte a Pensar",
+      "url": "https://open.spotify.com/track/3ty3o40yxItfYoAcrT69GT"
     },
     {
       "album": {
@@ -14242,7 +14318,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 205653,
       "name": "principiante",
       "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
@@ -19102,6 +19178,28 @@
       "duration_ms": 124365,
       "name": "yo as\u00ed",
       "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
+    },
+    {
+      "album": {
+        "name": "Yo Era Poes\u00eda",
+        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194923,
+      "name": "Yo Era Poes\u00eda",
+      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
     },
     {
       "album": {

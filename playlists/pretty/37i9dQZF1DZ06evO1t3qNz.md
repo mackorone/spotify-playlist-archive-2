@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,757 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,776 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 35 | [Wildflowers and Wine](https://open.spotify.com/track/3DjBBD4u8mxzAQRsS9ua1u) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 4:31 |
 | 36 | [No Chance](https://open.spotify.com/track/2hlqy1X7LxeE8IvBCFU7Re) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 1:57 |
 
-Snapshot ID: `anZxgAAAAADeoxFbS3KcR7pMeUuG/c9g`
+Snapshot ID: `anfDAAAAAABX35pLcGxkTaDLcYXenUoy`

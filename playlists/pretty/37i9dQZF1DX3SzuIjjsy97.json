@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN3lEuNyHFV7QQUR913ZsU+l68+3",
+  "snapshot_id": "AAAAAI8uuPnoluuZGktPLEFdb9Q8+05Y",
   "tracks": [
     {
       "added_at": "2026-07-29 10:41:14",
@@ -215,26 +215,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 194848,
       "name": "Into the Unknown",
       "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Hugh Jackman",
-          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
-        },
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        }
-      ],
-      "duration_ms": 214373,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Zac Efron",
+          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -739,22 +739,18 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
       },
       "artists": [
         {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Original Broadway Cast of Dear Evan Hansen",
-          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
         }
       ],
-      "duration_ms": 236360,
-      "name": "Waving Through A Window",
-      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz"
     },
     {
       "added_at": "2026-07-29 10:41:14",
@@ -787,18 +783,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
       },
       "artists": [
         {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Original Broadway Cast of Dear Evan Hansen",
+          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
         }
       ],
-      "duration_ms": 223840,
-      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz"
+      "duration_ms": 236360,
+      "name": "Waving Through A Window",
+      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
     },
     {
       "added_at": "2026-07-29 10:41:14",

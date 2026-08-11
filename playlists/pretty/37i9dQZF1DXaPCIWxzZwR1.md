@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Kylie Cantrall
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,608 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,546 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [OLD TECHNOLOGY](https://open.spotify.com/track/02rYuBEPjNLm74mN9IxH0v) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [OLD TECHNOLOGY](https://open.spotify.com/album/6GkFvjqAuoIXk1SoAmG6Iw) | 2:39 |
 | 100 | [START OVER](https://open.spotify.com/track/23iKYWszFScsU02y1HJb92) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [START OVER](https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4) | 2:50 |
 
-Snapshot ID: `AAAAAEhRqGVsvhf9MYqwp2h3ozAhhEgb`
+Snapshot ID: `AAAAAO4gk3Qa4dtmxoOVk1S5x1pmvw8o`

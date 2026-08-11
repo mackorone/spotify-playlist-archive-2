@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48585,
+  "num_followers": 48593,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACpXXcbGzqijYVCsQydkS0Q",
+  "snapshot_id": "anfDAAAAAACIjWaZd0OPKBOBVtWvOMsE",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 253202,
-      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
-      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 165906,
       "name": "LA SANTA",
       "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 253202,
+      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
+      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 192292,
-      "name": "YO TE LLEVO",
-      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 234480,
       "name": "DRAG\u00d3N",
       "url": "https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 192292,
+      "name": "YO TE LLEVO",
+      "url": "https://open.spotify.com/track/1Fa4oDtnqvcXsvtybrJMZ0"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 164293,
       "name": "AN1MAL",
       "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Quiero N\u00e1",
+        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "Ya No Quiero N\u00e1",
+      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Romeo Y Julieta",
         "url": "https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX"
       },
@@ -907,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero N\u00e1",
-        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
       },
       "artists": [
         {
@@ -916,9 +932,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 192975,
-      "name": "Ya No Quiero N\u00e1",
-      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
+      "duration_ms": 189731,
+      "name": "MISSION005",
+      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
     },
     {
       "added_at": null,
@@ -939,22 +955,6 @@
       "duration_ms": 187263,
       "name": "Lola Bunny",
       "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 189731,
-      "name": "MISSION005",
-      "url": "https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y"
     },
     {
       "added_at": null,

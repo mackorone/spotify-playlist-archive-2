@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "can you?",
+        "url": "https://open.spotify.com/album/06u75g7TcKl5VOLOZnj8Vo"
+      },
+      "artists": [
+        {
+          "name": "Jesse Cleaves",
+          "url": "https://open.spotify.com/artist/15kRGaQ94f0HTKJx6iZDds"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "can you?",
+      "url": "https://open.spotify.com/track/1zlLTjLoqR2N66xxrtY1hV"
+    },
+    {
+      "album": {
         "name": "Haze",
         "url": "https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn"
       },
@@ -762,6 +780,24 @@
       "duration_ms": 183672,
       "name": "Dutch for a Day",
       "url": "https://open.spotify.com/track/4A3j2sJk5lygsZ1cwrd4mk"
+    },
+    {
+      "album": {
+        "name": "dying (Demo Version)",
+        "url": "https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA"
+      },
+      "artists": [
+        {
+          "name": "AG3HA",
+          "url": "https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178744,
+      "name": "dying - Demo Version",
+      "url": "https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh"
     },
     {
       "album": {
@@ -1364,6 +1400,24 @@
       "duration_ms": 204000,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
+    },
+    {
+      "album": {
+        "name": "Live - La Rotonde",
+        "url": "https://open.spotify.com/album/2Ee4IrT05W8EY5jQL8petg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Keller",
+          "url": "https://open.spotify.com/artist/0zOlM82GNeyKLBca65OwuG"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Le chant du cygne - Live",
+      "url": "https://open.spotify.com/track/7mutnL7QlWUr3iduMEZnLF"
     },
     {
       "album": {
@@ -2348,6 +2402,24 @@
       "duration_ms": 275433,
       "name": "The Cycle",
       "url": "https://open.spotify.com/track/1Mwm0XKriYrpPL6xhSH9U4"
+    },
+    {
+      "album": {
+        "name": "Sedative Sands",
+        "url": "https://open.spotify.com/album/45fnkLss7v7uHi8lOcgQxV"
+      },
+      "artists": [
+        {
+          "name": "A Walking Miracle",
+          "url": "https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136493,
+      "name": "The Expanse",
+      "url": "https://open.spotify.com/track/48ETTp7reeEDhZZJHxi6fY"
     },
     {
       "album": {

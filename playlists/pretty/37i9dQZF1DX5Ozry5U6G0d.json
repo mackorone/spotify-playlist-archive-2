@@ -1,12 +1,12 @@
 {
   "description": "That summer sound.",
-  "num_followers": 2077622,
+  "num_followers": 2077463,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAzN1X02Io6NVlZkZLWuHQ4pYSLe",
+  "snapshot_id": "AAAAAB9DAaZhqPWFBfvAqQItX0cQ1bLy",
   "tracks": [
     {
       "added_at": "2026-07-17 04:15:30",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
         "name": "Despacito Feat. Justin Bieber (Remix)",
         "url": "https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 228826,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
       "added_at": "2026-07-17 04:15:30",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-07-17 04:15:30",
       "album": {
+        "name": "Bag Raiders (Deluxe)",
+        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
+    },
+    {
+      "added_at": "2026-07-17 04:15:30",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2026-07-17 04:15:30",
-      "album": {
-        "name": "Bag Raiders (Deluxe)",
-        "url": "https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x"
     },
     {
       "added_at": "2026-07-17 04:15:30",

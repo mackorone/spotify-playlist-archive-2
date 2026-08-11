@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Słońce, leżak i letnia błogość w dźwiękach ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,255 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,285 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 48 | [Whale Call](https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Whale Call](https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0) | 4:19 |
 | 49 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
 | 50 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
-| 51 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
-| 52 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 51 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 52 | [In The Night](https://open.spotify.com/track/2bZfAudzSHbqXRS1o9BBu7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [In The Night](https://open.spotify.com/album/5X0ukxkeLLHxCU2RDG9Nwm) | 2:58 |
 | 53 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 54 | [Stumilowy las](https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Stumilowy las](https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd) | 4:42 |
 | 55 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
-| 56 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 |
+| 56 | [Love & Tears](https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 3:38 |
 | 57 | [Gotham](https://open.spotify.com/track/0z96iKCMr5H0js13xzklJe) | [MECNER](https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf) | [Gotham](https://open.spotify.com/album/7tAIDXIVVN2IzLOKDPqCEU) | 2:55 |
-| 58 | [Love & Tears](https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 3:38 |
+| 58 | [Happy Now](https://open.spotify.com/track/3oDgRi2mzumNXRYWoizNOY) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 2:42 |
 | 59 | [Yeti](https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Yeti i W objęciach](https://open.spotify.com/album/6gp2qShAeyYIU02kQpso1u) | 3:20 |
 | 60 | [Without You](https://open.spotify.com/track/1EHIhtFlI9cFgAcKuuMGXu) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Without You](https://open.spotify.com/album/6Elarrs52LqvI6bURFzhRU) | 3:57 |
 
-Snapshot ID: `AAAAABrQKqW7cHHQTqHHn/3IAVeVqmRa`
+Snapshot ID: `AAAAAAPPok7nvrYO6yNegM/TfFSxjnhi`

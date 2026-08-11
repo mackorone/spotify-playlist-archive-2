@@ -1,12 +1,12 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23377,
+  "num_followers": 23379,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9fD6Ci+EZUB44yzoUjjsY4qzEG",
+  "snapshot_id": "AAAAALG4z7fZq6mnh4wccqrvZGTcJE3O",
   "tracks": [
     {
       "added_at": "2026-08-07 14:28:28",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "EXPECTATIVAS",
-        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "EXPECTATIVAS",
-      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "R.U. (Raw & Unfiltered) Vol.1",
         "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 200314,
       "name": "Private Chef (feat. MC Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
+        "name": "EXPECTATIVAS",
+        "url": "https://open.spotify.com/album/172ipzW34GEnl38MHofXcf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "EXPECTATIVAS",
+      "url": "https://open.spotify.com/track/6pFD81uwGh25w62Ut3XSqd"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
         "name": "PR\u00caMIO",
         "url": "https://open.spotify.com/album/2XfYpuHfSxCYfPRlLogUIn"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 164165,
       "name": "PR\u00caMIO",
       "url": "https://open.spotify.com/track/5JsziaZLCG9b96OtrXgq8c"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
-        "name": "PILLOW",
-        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 125672,
-      "name": "PILLOW",
-      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "C\u00ea Decide",
         "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 116035,
       "name": "C\u00ea Decide",
       "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "AR\ua4d8ANO",
-        "url": "https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        }
-      ],
-      "duration_ms": 142736,
-      "name": "Seu",
-      "url": "https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "Dengo",
         "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "Coulda Shown You",
-        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+        "name": "AR\ua4d8ANO",
+        "url": "https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl"
       },
       "artists": [
         {
-          "name": "Lucca DL",
-          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
-        },
-        {
-          "name": "Killa",
-          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
         }
       ],
-      "duration_ms": 141130,
-      "name": "Coulda Shown You",
-      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+      "duration_ms": 142736,
+      "name": "Seu",
+      "url": "https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -855,6 +835,26 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
+        "name": "Coulda Shown You",
+        "url": "https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n"
+      },
+      "artists": [
+        {
+          "name": "Lucca DL",
+          "url": "https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP"
+        },
+        {
+          "name": "Killa",
+          "url": "https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Coulda Shown You",
+      "url": "https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 164000,
       "name": "Blues",
       "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
-        "name": "M\u00fasicas Para Mulheres, Vol. 1",
-        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
-      },
-      "artists": [
-        {
-          "name": "Dash Foreal",
-          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
-        }
-      ],
-      "duration_ms": 167876,
-      "name": "S\u00f3 pra voc\u00ea",
-      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -911,6 +895,22 @@
       "duration_ms": 167853,
       "name": "Porta Aberta",
       "url": "https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "Sem nada",
         "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 156038,
       "name": "Sem nada",
       "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2026-08-07 14:28:28",

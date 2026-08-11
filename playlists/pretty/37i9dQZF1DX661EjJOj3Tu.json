@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Gracias por la m\u00fasica, Eddie Palmieri \ud83d\udd4a\ufe0f",
-  "num_followers": 513292,
+  "num_followers": 513279,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG8QcbaBTLtwhVkc8mQu/vF25n64",
+  "snapshot_id": "AAAAAFo4758pBweJ9+F6l3Yip66mWb76",
   "tracks": [
     {
       "added_at": "2025-08-07 16:57:48",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Timba a la Americana",
-        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
-      },
-      "artists": [
-        {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "Conga a la Americana",
-      "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 311920,
       "name": "En Esta Tarde Gris",
       "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Timba a la Americana",
+        "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "duration_ms": 193342,
+      "name": "Conga a la Americana",
+      "url": "https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/2fM4QCvifFnt0h9aYsNETv"
       },
@@ -935,26 +919,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "The Pedrito Martinez Group",
-        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
-      },
-      "artists": [
-        {
-          "name": "Pedrito Martinez",
-          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
-        },
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        }
-      ],
-      "duration_ms": 352779,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Tr\u00edo Oriental",
         "url": "https://open.spotify.com/album/2xxEkQlYyJCe36tOWKUfUX"
       },
@@ -979,18 +943,34 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+        "name": "Acertijos",
+        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
       "artists": [
         {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+          "name": "Pedrito Martinez",
+          "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
         }
       ],
-      "duration_ms": 263515,
-      "name": "Agua Fresca",
-      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
+      "duration_ms": 364237,
+      "name": "Yo S\u00ed Quiero",
+      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1011,6 +991,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
+      },
+      "artists": [
+        {
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
+        }
+      ],
+      "duration_ms": 263515,
+      "name": "Agua Fresca",
+      "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
       },
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Acertijos",
-        "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
+        "name": "The Pedrito Martinez Group",
+        "url": "https://open.spotify.com/album/2qmw3qCOSM8FkZkiaRE04L"
       },
       "artists": [
         {
           "name": "Pedrito Martinez",
           "url": "https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
         }
       ],
-      "duration_ms": 364237,
-      "name": "Yo S\u00ed Quiero",
-      "url": "https://open.spotify.com/track/6KLC0zmNHvqTrQLsQlxw21"
+      "duration_ms": 352779,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/36484w7R8IJmkFfPVyT6cv"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Broasted or Fried",
-        "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 235543,
-      "name": "Broasted or Fried",
-      "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Listen Here",
         "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 435226,
       "name": "La Gitana",
       "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Broasted or Fried",
+        "url": "https://open.spotify.com/album/6pp0ioGUccRIFwT2hOlBqL"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Broasted or Fried",
+      "url": "https://open.spotify.com/track/2qoCpDq50LWRd5CXVzN4x0"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
-      },
-      "artists": [
-        {
-          "name": "Ray Mantilla",
-          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Martinez",
-      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Te Escucho",
         "url": "https://open.spotify.com/album/4YKvsvmt6eSImzRk33GtS8"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 230550,
       "name": "Te Escucho",
       "url": "https://open.spotify.com/track/4h7TaUKl9oPS6c7mvnFgF7"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5M0nR871JA8z3cQyCJKa4u"
+      },
+      "artists": [
+        {
+          "name": "Ray Mantilla",
+          "url": "https://open.spotify.com/artist/2RoFymB5k9pWkAtFIaMl7I"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Martinez",
+      "url": "https://open.spotify.com/track/44re98tanNL8atNuJtRCYC"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1471,6 +1471,30 @@
       "duration_ms": 269480,
       "name": "I'll Call You Later",
       "url": "https://open.spotify.com/track/6s8PZTZXFqIxwnhf1RA1fn"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/00Omo2fyZ3yWOPuHYJhU8U"
+      },
+      "artists": [
+        {
+          "name": "Samuel Torres",
+          "url": "https://open.spotify.com/artist/534PyMqeIHt7rLR4cdpKnw"
+        },
+        {
+          "name": "Marshall Gilkes",
+          "url": "https://open.spotify.com/artist/1dTkq7rRkNoklaRTVWMylE"
+        },
+        {
+          "name": "Luis Perdomo",
+          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+        }
+      ],
+      "duration_ms": 397860,
+      "name": "Salsa, Jazz y Choke",
+      "url": "https://open.spotify.com/track/6FswmOfZgnEha9XVPCTNnE"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1515,26 +1539,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Alegria",
-        "url": "https://open.spotify.com/album/00Omo2fyZ3yWOPuHYJhU8U"
+        "name": "Dear Diz (Every Day I Think Of You)",
+        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
       },
       "artists": [
         {
-          "name": "Samuel Torres",
-          "url": "https://open.spotify.com/artist/534PyMqeIHt7rLR4cdpKnw"
-        },
-        {
-          "name": "Marshall Gilkes",
-          "url": "https://open.spotify.com/artist/1dTkq7rRkNoklaRTVWMylE"
-        },
-        {
-          "name": "Luis Perdomo",
-          "url": "https://open.spotify.com/artist/6WKgUeuEzIDoZcIH2l8q52"
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
         }
       ],
-      "duration_ms": 397860,
-      "name": "Salsa, Jazz y Choke",
-      "url": "https://open.spotify.com/track/6FswmOfZgnEha9XVPCTNnE"
+      "duration_ms": 408920,
+      "name": "Salt Peanuts! (Mani Salado)",
+      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Dear Diz (Every Day I Think Of You)",
-        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 408920,
-      "name": "Salt Peanuts! (Mani Salado)",
-      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Acertijos",
         "url": "https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF"
       },
@@ -1587,62 +1587,6 @@
       "duration_ms": 311920,
       "name": "My Father's Eyes",
       "url": "https://open.spotify.com/track/4j44KbgdZjKygQlGoDZaPc"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Raise up off Me",
-        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
-      },
-      "artists": [
-        {
-          "name": "Ralph Peterson",
-          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
-        },
-        {
-          "name": "Eguie Castrillo",
-          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
-        }
-      ],
-      "duration_ms": 354049,
-      "name": "Blue Hughes",
-      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Tocororo",
-        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Ay, Mam\u00e1 In\u00e9s",
-      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Sonero: The Music of Ismael Rivera",
-        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
-      },
-      "artists": [
-        {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
-        }
-      ],
-      "duration_ms": 496926,
-      "name": "El Negro Bemb\u00f3n",
-      "url": "https://open.spotify.com/track/4lksEid3JeMWn2OGkKdAda"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1691,6 +1635,42 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Raise up off Me",
+        "url": "https://open.spotify.com/album/49qisly3p7r0M8olieO1D8"
+      },
+      "artists": [
+        {
+          "name": "Ralph Peterson",
+          "url": "https://open.spotify.com/artist/1vTCrjGTHg84CihmLX5Hi7"
+        },
+        {
+          "name": "Eguie Castrillo",
+          "url": "https://open.spotify.com/artist/2o8Ic3nnJg47sAw7xcxEW4"
+        }
+      ],
+      "duration_ms": 354049,
+      "name": "Blue Hughes",
+      "url": "https://open.spotify.com/track/6d83fOPssWlHzDmc6MnBS8"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Sonero: The Music of Ismael Rivera",
+        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 496926,
+      "name": "El Negro Bemb\u00f3n",
+      "url": "https://open.spotify.com/track/4lksEid3JeMWn2OGkKdAda"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "The Latin Side of Horace Silver",
         "url": "https://open.spotify.com/album/6Plg1VTOVvb6kt2Gxcd7Ix"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 306857,
       "name": "NY Latin Jazz Mambo",
       "url": "https://open.spotify.com/track/7CUsMkg3J43xFzyidb4fZz"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Tocororo",
+        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Ay, Mam\u00e1 In\u00e9s",
+      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "A Donde Voy",
-        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
       },
       "artists": [
         {
-          "name": "Luaz\u00f3",
-          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+          "name": "Edmar Casta\u00f1eda",
+          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
         }
       ],
-      "duration_ms": 279848,
-      "name": "A Donde Voy",
-      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
+      "duration_ms": 307817,
+      "name": "Canci\u00f3n Con Todos",
+      "url": "https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
-      },
-      "artists": [
-        {
-          "name": "Edmar Casta\u00f1eda",
-          "url": "https://open.spotify.com/artist/6VxDAcLZ7MRxztuhhFfy90"
-        }
-      ],
-      "duration_ms": 307817,
-      "name": "Canci\u00f3n Con Todos",
-      "url": "https://open.spotify.com/track/2gIVZ8hTq4ZxvMnIj28k1r"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Sonero: The Music of Ismael Rivera",
         "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 427964,
       "name": "Qu\u00edtate de la V\u00eda, Perico",
       "url": "https://open.spotify.com/track/6VlqmHJ356t7kvTGWbDQQk"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "A Donde Voy",
+        "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
+      },
+      "artists": [
+        {
+          "name": "Luaz\u00f3",
+          "url": "https://open.spotify.com/artist/2hQLLVGIGVE2XiQfXFTa8s"
+        }
+      ],
+      "duration_ms": 279848,
+      "name": "A Donde Voy",
+      "url": "https://open.spotify.com/track/6Q10bO5VPryNqa61gclfS4"
     }
   ],
   "unique_name": "Latin Jazz",

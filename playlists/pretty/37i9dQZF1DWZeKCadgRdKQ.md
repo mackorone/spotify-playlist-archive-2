@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,979,382 likes - 224 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,979,534 likes - 224 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 223 | [Glow](https://open.spotify.com/track/7ho0SRwjAkk4HMdyaGKmVD) | [Lany Mokita](https://open.spotify.com/artist/5A9ZWS5PafMTvNvLdKC8zB) | [Glow](https://open.spotify.com/album/1TTxfVIhSnguW6FLj0dQVU) | 2:23 |
 | 224 | [Darker](https://open.spotify.com/track/092DLaLs5wYSKgbvdcsa13) | [Echo Dunes](https://open.spotify.com/artist/50Ezs7XNWax4alIPBDUeg1) | [Darker](https://open.spotify.com/album/5PW6HuCP8f10mFdiCeQGu6) | 2:14 |
 
-Snapshot ID: `AAAAAEJir/YzjvcuRjkugtkTNSPfgvK1`
+Snapshot ID: `AAAAABmB/N7VHsiAyL+7jAluKe6EUCoK`

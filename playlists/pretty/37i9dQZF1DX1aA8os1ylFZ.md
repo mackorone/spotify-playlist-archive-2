@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,750 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,727 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,18 +56,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 46 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 47 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
 | 48 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
-| 49 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
-| 50 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
+| 49 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
+| 50 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
 | 51 | [U Gotta](https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [U Gotta](https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci) | 2:02 |
 | 52 | [Hold of Me](https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Hold of Me](https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN) | 3:33 |
 | 53 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 54 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
 | 55 | [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 |
 | 56 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
-| 57 | [back 'n forth](https://open.spotify.com/track/57c824155MOILKW4B9i26h) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [back 'n forth](https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED) | 3:17 |
-| 58 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
-| 59 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 |
-| 60 | [SA NA SAN](https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [SA NA SAN](https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8) | 2:35 |
+| 57 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
+| 58 | [back 'n forth](https://open.spotify.com/track/57c824155MOILKW4B9i26h) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [back 'n forth](https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED) | 3:17 |
+| 59 | [SA NA SAN](https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [SA NA SAN](https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8) | 2:35 |
+| 60 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 |
 | 61 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 62 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 |
 | 63 | [Sleepwalking](https://open.spotify.com/track/33AhUMkQqyaRGJi0U9hXxt) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Sleepwalking](https://open.spotify.com/album/0Bf1QKo9KdzPtpLY3pRPEO) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 |
 | 100 | [One More Time](https://open.spotify.com/track/2aW0YxPMcioaMvioYZgYf1) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [One More Time](https://open.spotify.com/album/2UgBgSaNVEblHh3IXBqHXN) | 2:40 |
 
-Snapshot ID: `AAAAAId09WYeW7Yhq6WHu3dhxgcDelo2`
+Snapshot ID: `AAAAALhcCTsTu2Y1Xk63F7+udhpiphIJ`

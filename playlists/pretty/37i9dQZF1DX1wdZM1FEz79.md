@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: george\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,726 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,714 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 40 | [You're My Pretty Star](https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw) | [MRT](https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj) | [You're My Pretty Star](https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf) | 3:36 |
 | 41 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
 | 42 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
-| 43 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
-| 44 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
+| 43 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
+| 44 | [In You](https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Our Unwritten Seoul \(Original Soundtrack\) Part.4](https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3) | 3:46 |
 | 45 | [I’m No Astronomer, But](https://open.spotify.com/track/5SKfC9wAd7elQ6z2QI6gbg) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 2:53 |
 | 46 | [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 |
 | 47 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
-| 48 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 |
+| 48 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 49 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
-| 50 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
+| 50 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 |
 
-Snapshot ID: `AAAAABn+RUlp1SCTk0LlHTp+zw+9euHD`
+Snapshot ID: `AAAAABuW2IDV82yz9hWdM/brF7KUMwOb`

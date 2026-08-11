@@ -11781,6 +11781,24 @@
     },
     {
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl"
+      },
+      "artists": [
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197229,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2024 (Aflevering 3- Matthijn Buwalda)",
         "url": "https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq"
       },

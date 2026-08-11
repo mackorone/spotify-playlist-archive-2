@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 475894,
+  "num_followers": 475927,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABEpUWKTVtyPSuU5183uBKk",
+  "snapshot_id": "anfDAAAAAABJCIqIwLHvuKDqnGaHnGlH",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "En Preparacion",
-      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "En Preparacion",
+      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Globall",
-        "url": "https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu"
-      },
-      "artists": [
-        {
-          "name": "3BallMTY",
-          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "La Noche Es Tuya",
-      "url": "https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 158373,
       "name": "Lider Del Genocidio",
       "url": "https://open.spotify.com/track/0E2WszOuFf5OhFy3WQD0Mu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Globall",
+        "url": "https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu"
+      },
+      "artists": [
+        {
+          "name": "3BallMTY",
+          "url": "https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "La Noche Es Tuya",
+      "url": "https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU"
     },
     {
       "added_at": null,

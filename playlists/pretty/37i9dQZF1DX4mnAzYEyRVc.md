@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: La Pegatina
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,293 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,307 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 51 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
 | 52 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
 | 53 | [Action \(VS\. 稲葉浩志\)](https://open.spotify.com/track/2rwkaFdBNUlYHEpInYEeM0) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Action \(VS\. 稲葉浩志\)](https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs) | 3:48 |
-| 54 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
-| 55 | [Cuando Salga El Sol](https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6) | 3:01 |
+| 54 | [Cuando Salga El Sol](https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6) | 3:01 |
+| 55 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 56 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
 | 57 | [Balkan Boys](https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF) | [Dubioza kolektiv](https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY) | [Balkan Boys](https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0) | 2:04 |
 | 58 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 66 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
 | 67 | [El Mosquito](https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [El Mosquito](https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr) | 3:08 |
 | 68 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
-| 69 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
-| 70 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
+| 69 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
+| 70 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
 | 71 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 72 | [Grüße ins Neandertal](https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Grüße ins Neandertal](https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup) | 1:46 |
 | 73 | [Juice](https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K) | [Sublime Reggae Kings](https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN), [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [Juice](https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp) | 2:59 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 85 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
 | 86 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
 | 87 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
-| 88 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
-| 89 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
+| 88 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
+| 89 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
 | 90 | [Weit, weit weg](https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc) | [Sondaschule](https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk) | [Weit, weit weg](https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9) | 2:37 |
 | 91 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 92 | [Toro](https://open.spotify.com/track/2IUZYc5zUcE2jEJkH9IJJN) | [Boikot](https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn) | [Toro](https://open.spotify.com/album/6Ml0HOZfLtluOpHM9bjik5) | 3:26 |
-| 93 | [Pancho](https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC) | [Fast Food Orchestra](https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN) | [Pancho](https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf) | 2:41 |
-| 94 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
+| 93 | [Zombiler](https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz) | [Second](https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi) | [Zombiler](https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z) | 3:26 |
+| 94 | [Pancho](https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC) | [Fast Food Orchestra](https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN) | [Pancho](https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf) | 2:41 |
 | 95 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 | 96 | [Yes It's True](https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Yes It's True](https://open.spotify.com/album/6D70PLpzfIDrILrQDNGsqQ) | 4:03 |
 | 97 | [Desert Rose](https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Clive Hunt](https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8) | [Desert Rose](https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
 | 100 | [El Febrero](https://open.spotify.com/track/27QfV2StXia4q47sioekXv) | [Lollypop Lorry](https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX) | [El Febrero](https://open.spotify.com/album/1TEaTV2ZG9dCUJznxq2QdD) | 2:58 |
 
-Snapshot ID: `AAAAAOXqtrTfxuXMAD79n9XzURA3JlaS`
+Snapshot ID: `AAAAAESA44ruzmwv310LAW+QaGyK2V42`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 
 > This is Zolita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,224 likes - 43 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,227 likes - 43 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 7 | [Single In September](https://open.spotify.com/track/2OigxU9wBGUMndN0PTQQB5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single In September](https://open.spotify.com/album/6N04UZxm95ds9VHro2wI4x) | 3:15 |
 | 8 | [20 Questions](https://open.spotify.com/track/3lSrMxJwwGawtXZflUa1iN) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [20 Questions](https://open.spotify.com/album/1Jiprq0sbMHmBKOXbHZtVG) | 2:59 |
 | 9 | [Small Town Scandal](https://open.spotify.com/track/6HDN6dR62FhfxT9vhlXqfR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:30 |
-| 10 | [Hypocrite](https://open.spotify.com/track/4kqrvXW9JKqikb7K2Iyps0) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts \(Deluxe Edition\)](https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh) | 2:43 |
-| 11 | [VOODOO DOLL](https://open.spotify.com/track/2Z6x8QvT0cv0ZbQ7i3CL1p) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [VOODOO DOLL](https://open.spotify.com/album/4tGltm6yCCNsjn7i5hyRSw) | 2:26 |
+| 10 | [VOODOO DOLL](https://open.spotify.com/track/2Z6x8QvT0cv0ZbQ7i3CL1p) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [VOODOO DOLL](https://open.spotify.com/album/4tGltm6yCCNsjn7i5hyRSw) | 2:26 |
+| 11 | [Hypocrite](https://open.spotify.com/track/4kqrvXW9JKqikb7K2Iyps0) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts \(Deluxe Edition\)](https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh) | 2:43 |
 | 12 | [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 |
 | 13 | [All Girls Go to Heaven](https://open.spotify.com/track/7lm66m2dAZUVDH1a2w7iJ7) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:44 |
 | 14 | [Holy](https://open.spotify.com/track/31fgruFIDb9BwdU3xZgtHe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:02 |
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mJNbq.md) - [plain]
 | 32 | [Grave](https://open.spotify.com/track/5XZj0TXYvV7c34lP69peNI) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grave](https://open.spotify.com/album/1qzE9q5WIok3jj1LOiMtuQ) | 2:32 |
 | 33 | [Like Heaven](https://open.spotify.com/track/2ZmZ536Je4LyhwfkmvjozR) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:47 |
 | 34 | [Drag Me to Hell](https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:30 |
-| 35 | [Black Magic](https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:12 |
+| 35 | [Mad](https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 2:58 |
 | 36 | [Kill for You](https://open.spotify.com/track/1ciiCR9U41zWj3JrMfHTyi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:29 |
 | 37 | [New You](https://open.spotify.com/track/1IM5NzUgVym6ERZc2nO0a2) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:44 |
 | 38 | [Truth Tea](https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 3:35 |
-| 39 | [Mad](https://open.spotify.com/track/4mm4gtJhqVxJPxNGDhNmrp) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 2:58 |
+| 39 | [Black Magic](https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:12 |
 | 40 | [Drug Me Now](https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Immaculate Conception](https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7) | 3:39 |
 | 41 | [Spotless](https://open.spotify.com/track/2mqLJT1iTLvcPNlDalHLUe) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 3:41 |
 | 42 | [Retrograde](https://open.spotify.com/track/2MLtYl74hh8UBf1lbiDI0P) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 0:34 |
 | 43 | [Remind Me](https://open.spotify.com/track/1UCYSP9JPrHQuaJYHZjiw9) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Sappho](https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx) | 4:04 |
 
-Snapshot ID: `anZxgAAAAABpebmOwYFiUiCGQ97em075`
+Snapshot ID: `anfDAAAAAAA748HvIiV8lXyd3cslGwsK`

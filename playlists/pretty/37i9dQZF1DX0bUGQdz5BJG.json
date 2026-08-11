@@ -1,12 +1,12 @@
 {
   "description": "Your ears on the ground in Music City. Cover: Erin Kinsey",
-  "num_followers": 250494,
+  "num_followers": 250521,
   "original_name": "Coming Up Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMlyoql9q+X3y4lr1smnWYUJYNdU",
+  "snapshot_id": "AAAAAJtgmz3NuBlG41kutgohersHseom",
   "tracks": [
     {
       "added_at": "2026-08-07 04:02:20",
@@ -171,6 +171,22 @@
       "duration_ms": 156943,
       "name": "Talkin Bout",
       "url": "https://open.spotify.com/track/6l7mJw260oLKqRdAOUg9D2"
+    },
+    {
+      "added_at": "2026-08-11 00:41:11",
+      "album": {
+        "name": "TAKES ME BACK",
+        "url": "https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 189224,
+      "name": "TAKES ME BACK",
+      "url": "https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ"
     },
     {
       "added_at": "2026-08-07 04:02:20",

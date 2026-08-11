@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Stella Lefty, Koe Wetzel with Ella Langley, Gavin Adcock and more.
 
-13,567 songs - 30 day 21 hr 55 min
+13,568 songs - 30 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11125,6 +11125,7 @@
 | [Takes A Breakup](https://open.spotify.com/track/1BesyrX3wr6QzbXhx2HYLy) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [Takes A Breakup](https://open.spotify.com/album/4qkr2g9ZK2cqNcv4cTk5xq) | 2:57 | 2023-01-20 | 2023-01-28 |
 | [Takes After You](https://open.spotify.com/track/4xqyXdcLeaqDD5XDBg1BuR) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Takes After You](https://open.spotify.com/album/1wLYS5lFasLJ9By9Khyi8K) | 3:04 | 2023-05-12 | 2023-05-20 |
 | [Takes Its Time](https://open.spotify.com/track/4C0BiRXpbQL9ZyrhtyXUzP) | [Cort Carpenter](https://open.spotify.com/artist/6lfRjPeIhzhxRovhoTGtsn) | [Takes Its Time](https://open.spotify.com/album/6cEUvCmRPSQCTFPUFEnPih) | 3:25 | 2023-01-20 | 2023-02-18 |
+| [TAKES ME BACK](https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [TAKES ME BACK](https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw) | 3:09 | 2026-08-11 |  |
 | [Takes Me Back](https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Takes Me Back](https://open.spotify.com/album/4LKln6SbewEf7EZcazJomd) | 3:15 | 2024-10-04 | 2024-10-12 |
 | [Taking Flight](https://open.spotify.com/track/01vKx9Sp9R6Rv8lGxJZbU9) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Taking Flight](https://open.spotify.com/album/05mnBQJzSFnml22hfyIkhn) | 4:26 | 2025-05-30 | 2025-06-07 |
 | [Taking It Easy](https://open.spotify.com/track/4cymUHqMBOwxcI6HuaI4i0) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Throw Down \(Deluxe Remastered\)](https://open.spotify.com/album/0DOWHM6JBa9U0agPsDQDXY) | 2:49 | 2023-04-21 | 2023-04-29 |

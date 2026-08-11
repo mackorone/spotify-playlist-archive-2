@@ -1,12 +1,12 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1436964,
+  "num_followers": 1436849,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPEZNBTVlV3I6uaipfa6Ly5cM1w",
+  "snapshot_id": "AAAAAMPWr2MwQ1v1IcxvPJpk5eG4Qsfz",
   "tracks": [
     {
       "added_at": "2026-08-07 03:01:17",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "C\u00ea Nem Vai",
+        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Delta7",
+          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "C\u00ea Nem Vai Freestyle",
+      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Meu Dinheiro, Minhas Regras (Lado B)",
         "url": "https://open.spotify.com/album/0hRDah9ZhuNq0OQPhV2XkX"
       },
@@ -727,28 +747,8 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "C\u00ea Nem Vai",
-        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Delta7",
-          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "C\u00ea Nem Vai Freestyle",
-      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "BASE: Climinha",
-        "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
       },
       "artists": [
         {
@@ -756,25 +756,13 @@
           "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         }
       ],
-      "duration_ms": 217446,
-      "name": "Taca l\u00e1 dentro",
-      "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -915,8 +903,8 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+        "name": "BASE: Climinha",
+        "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
       },
       "artists": [
         {
@@ -924,13 +912,25 @@
           "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         }
       ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
+      "duration_ms": 217446,
+      "name": "Taca l\u00e1 dentro",
+      "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -959,38 +959,6 @@
       "duration_ms": 210857,
       "name": "Voltar pra Casa",
       "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "DOISMILEVINTEHOJE",
-        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Monop\u00f3lio",
-      "url": "https://open.spotify.com/track/4N3LI6Agfo5feFoVJHx5ti"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1039,18 +1007,34 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Que toda dor vire dinheiro",
-        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
+        "name": "DOISMILEVINTEHOJE",
+        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
       "artists": [
         {
-          "name": "SNIF",
-          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Que toda dor vire dinheiro",
-      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
+      "duration_ms": 162461,
+      "name": "Monop\u00f3lio",
+      "url": "https://open.spotify.com/track/4N3LI6Agfo5feFoVJHx5ti"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1079,6 +1063,22 @@
       "duration_ms": 114285,
       "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
       "url": "https://open.spotify.com/track/7e2et6UVNFvkgYYrbzC8py"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Que toda dor vire dinheiro",
+        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
+      },
+      "artists": [
+        {
+          "name": "SNIF",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Que toda dor vire dinheiro",
+      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Um Pouco Pensativo",
-        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
-        }
-      ],
-      "duration_ms": 139033,
-      "name": "Um Pouco Pensativo",
-      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Fiquei Bonito...",
         "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 134829,
       "name": "Fiquei Bonito...",
       "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Um Pouco Pensativo",
+        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
+        }
+      ],
+      "duration_ms": 139033,
+      "name": "Um Pouco Pensativo",
+      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1407,6 +1407,38 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "BASE: Quem t\u00e1 s\u00e3o ELAS",
+        "url": "https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Janvi",
+          "url": "https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ"
+        },
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        }
+      ],
+      "duration_ms": 415238,
+      "name": "Eu tenho uma FACA o nome dela \u00e9 RIMA",
+      "url": "https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Linha de frente",
         "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
       },
@@ -1479,38 +1511,6 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "BASE: Quem t\u00e1 s\u00e3o ELAS",
-        "url": "https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Janvi",
-          "url": "https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ"
-        },
-        {
-          "name": "Ci\u00e7a",
-          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
-        }
-      ],
-      "duration_ms": 415238,
-      "name": "Eu tenho uma FACA o nome dela \u00e9 RIMA",
-      "url": "https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu"
     },
     {
       "added_at": "2026-08-07 03:01:17",

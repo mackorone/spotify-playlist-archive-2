@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 38988,
+  "num_followers": 38989,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAGbdn4T3JcZUm9xPy3sasD",
+  "snapshot_id": "anfDAAAAAACu1mlhTwdrwFeCfmVYu4gS",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babyface Unplugged NYC 1997",
+        "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "I Care About You",
+      "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonafide",
         "url": "https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 273400,
       "name": "Someone to Love (feat. Babyface)",
       "url": "https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babyface Unplugged NYC 1997",
-        "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "I Care About You",
-      "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out (Extended)",
-        "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 195579,
-      "name": "Sometimes (with Jenevieve)",
-      "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lips On Lips",
         "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 226926,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Night Out (Extended)",
+        "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Sometimes (with Jenevieve)",
+      "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painted (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 217433,
-      "name": "Shoulda (feat. Babyface)",
-      "url": "https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 301626,
       "name": "Give U My Heart (feat. Toni Braxton)",
       "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painted (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 217433,
+      "name": "Shoulda (feat. Babyface)",
+      "url": "https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "The Loneliness",
-      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tender Lover",
         "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 311533,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "The Loneliness",
+      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "When Your Body Gets Weak",
+      "url": "https://open.spotify.com/track/7EFia0ghMpWvJjftBm5Hht"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Stoppin' Us",
         "url": "https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm"
       },
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
       },
       "artists": [
         {
@@ -868,9 +884,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 340200,
-      "name": "When Your Body Gets Weak",
-      "url": "https://open.spotify.com/track/7EFia0ghMpWvJjftBm5Hht"
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 249560,
       "name": "I Love You Babe",
       "url": "https://open.spotify.com/track/64hQ8WQCdVuilwwIbyPuPn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "Grown & Sexy",
-      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     },
     {
       "added_at": null,
@@ -927,22 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 188761,
-      "name": "The Recipe (with Muni Long)",
-      "url": "https://open.spotify.com/track/4xDoRWwnUASi910ArPewng"
+      "duration_ms": 285760,
+      "name": "Standing Ovation",
+      "url": "https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c"
     }
   ],
   "unique_name": "This Is Babyface",

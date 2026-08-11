@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 211360,
       "name": "After the End",
       "url": "https://open.spotify.com/track/6aUwM5lg9sNh5RMisLxZbA"
@@ -4990,7 +4990,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 120000,
       "name": "Aria Math - String Orchestra",
       "url": "https://open.spotify.com/track/0IgegPSJOe1EJUqSMhcQP8"
@@ -5200,7 +5200,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 119600,
       "name": "Ask Me Why (Mahito's Commitment)",
       "url": "https://open.spotify.com/track/1MnzPawB6VeoEBKCBPGttk"
@@ -8122,7 +8122,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 108560,
       "name": "Blue Spectre",
       "url": "https://open.spotify.com/track/57BqYDi536ejOoUQYKYoF2"
@@ -10038,7 +10038,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 223836,
       "name": "Carmy Quit",
       "url": "https://open.spotify.com/track/1np4cHN3qT68wNudfPFufI"
@@ -10504,6 +10504,24 @@
       "duration_ms": 110813,
       "name": "Caves",
       "url": "https://open.spotify.com/track/5n73vdJtv4Ke2BRY6Ilcji"
+    },
+    {
+      "album": {
+        "name": "The Bear: The Final Season (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2TKh4q0A3I1Hb32k7BqszM"
+      },
+      "artists": [
+        {
+          "name": "Christian Lundberg",
+          "url": "https://open.spotify.com/artist/0jyB5RKHNuA4Wfkk8hhGQe"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182028,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/5OUAhCybH0bCk13WlxPvFI"
     },
     {
       "album": {
@@ -13040,7 +13058,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 116575,
       "name": "Concerning Hobbits (Lord of the Rings Lofi)",
       "url": "https://open.spotify.com/track/1dtpJcqGFTEbEvBbLUgDk6"
@@ -15040,7 +15058,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-06",
+      "date_removed": null,
       "duration_ms": 109466,
       "name": "Days in the Sun",
       "url": "https://open.spotify.com/track/6RHGMGjhUyzSAu4wzm7slM"
@@ -15308,7 +15326,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 241800,
       "name": "Death in Reverse",
       "url": "https://open.spotify.com/track/1Lk54xc4Ajzx94CRgX4zRc"
@@ -16682,7 +16700,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 115000,
       "name": "Dover",
       "url": "https://open.spotify.com/track/24IRhhGH01ubBAFj7QATFA"
@@ -17264,7 +17282,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 126000,
       "name": "Drywood",
       "url": "https://open.spotify.com/track/4dSups9BBEC0lBZke3Ts0e"
@@ -18525,6 +18543,24 @@
     },
     {
       "album": {
+        "name": "Project Hail Mary (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150480,
+      "name": "Entering the Tunnel - from \"Project Hail Mary\"",
+      "url": "https://open.spotify.com/track/6J8oqhirD33dpF6aQtv4lr"
+    },
+    {
+      "album": {
         "name": "Overcast",
         "url": "https://open.spotify.com/album/6Rqe0nO33Bhr2DKq0lwk0V"
       },
@@ -18858,6 +18894,28 @@
       "duration_ms": 249533,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/2Og5uypMDBJikUNEspkyO3"
+    },
+    {
+      "album": {
+        "name": "Even When He Is Silent",
+        "url": "https://open.spotify.com/album/0aMVI1ulFRS8R53510BtMC"
+      },
+      "artists": [
+        {
+          "name": "The National Lutheran Choir",
+          "url": "https://open.spotify.com/artist/7hz41KzAPU4K0qUXDCc2ki"
+        },
+        {
+          "name": "Kim Andr\u00e9 Arnesen",
+          "url": "https://open.spotify.com/artist/0r4gb9UyreyNbVy7y6JB2H"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297066,
+      "name": "Even When He Is Silent",
+      "url": "https://open.spotify.com/track/0fxTWjZQriFTT1SFfvrQ95"
     },
     {
       "album": {
@@ -20118,7 +20176,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 169447,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/75PGpf5BaoKcFlhugdARcY"
@@ -20747,6 +20805,24 @@
     },
     {
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/4VGpdeiEVk3W8tMSrKH9VI"
+      },
+      "artists": [
+        {
+          "name": "Pinewood Lane",
+          "url": "https://open.spotify.com/artist/7wjoDkeCuqCwBTnzRdhP1K"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/2uuQZvGEZiKd7MK77y3dc5"
+    },
+    {
+      "album": {
         "name": "Finally Commit",
         "url": "https://open.spotify.com/album/5uTg6fyO94U5KrjRLapRbn"
       },
@@ -21036,6 +21112,24 @@
       "duration_ms": 218403,
       "name": "Fireflies - Acoustic Instrumental",
       "url": "https://open.spotify.com/track/4AOzlzurXcIJc6dfk2r6mf"
+    },
+    {
+      "album": {
+        "name": "Wildlands",
+        "url": "https://open.spotify.com/album/4ScI8dBQvuLQvpsIBuctaE"
+      },
+      "artists": [
+        {
+          "name": "Brombaer",
+          "url": "https://open.spotify.com/artist/6YfaSFnkikJYEHnjmau9cJ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184075,
+      "name": "Fireflies in the Overgrown Temple",
+      "url": "https://open.spotify.com/track/2vrwSSc8eo57ueD9PqiK9P"
     },
     {
       "album": {
@@ -21942,7 +22036,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 194750,
       "name": "for her (rec 77)",
       "url": "https://open.spotify.com/track/5X4JxXPta5cfp33aMvlys6"
@@ -22746,6 +22840,24 @@
       "duration_ms": 349560,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/3IkWmgGsXbsafrunwPojXO"
+    },
+    {
+      "album": {
+        "name": "Frieren: Beyond Journey's End: Season 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7yrHm8E9uGZ5HnafkC9ujU"
+      },
+      "artists": [
+        {
+          "name": "Evan Call",
+          "url": "https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163800,
+      "name": "From One Hero to Another",
+      "url": "https://open.spotify.com/track/7vuWkZqJgxH7ffNuos0xAz"
     },
     {
       "album": {
@@ -23558,6 +23670,24 @@
     {
       "album": {
         "name": "Guild Wars 2: Heart of Thorns (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5CWXYxITqltaWR6hNGsWtv"
+      },
+      "artists": [
+        {
+          "name": "Maclaine Diemer",
+          "url": "https://open.spotify.com/artist/3EA6XTfIMRHrecqMdNqHGx"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182662,
+      "name": "Glint's Legacy",
+      "url": "https://open.spotify.com/track/1YJprdEenR8FXSVa835w1J"
+    },
+    {
+      "album": {
+        "name": "Guild Wars 2: Heart of Thorns (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/63g6HNjw2a7LSoU6YXDKhG"
       },
       "artists": [
@@ -23748,7 +23878,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 99360,
       "name": "Go Find Out for Me",
       "url": "https://open.spotify.com/track/3EwGfyOpbJqLGVAkXkuGmq"
@@ -31697,6 +31827,24 @@
     },
     {
       "album": {
+        "name": "39 Seconds",
+        "url": "https://open.spotify.com/album/47SmIF41WMIUYeHfriLx0T"
+      },
+      "artists": [
+        {
+          "name": "Marcus Warner",
+          "url": "https://open.spotify.com/artist/44HQ4cmv8MKMNHkPtXwZbQ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311890,
+      "name": "In the End",
+      "url": "https://open.spotify.com/track/2JvkdQocUHr3LPM5Bw8W7Y"
+    },
+    {
+      "album": {
         "name": "Horizon Forbidden West (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx"
       },
@@ -32240,7 +32388,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 140000,
       "name": "Intro",
       "url": "https://open.spotify.com/track/2tJ5nxeNIFTNGSqyFvG8Ov"
@@ -35268,7 +35416,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-29",
+      "date_removed": null,
       "duration_ms": 165837,
       "name": "Last Son",
       "url": "https://open.spotify.com/track/6CJHa7KcYR430ei2kATUi7"
@@ -35748,6 +35896,28 @@
       "duration_ms": 94346,
       "name": "Leaving the Farm",
       "url": "https://open.spotify.com/track/22P2FBXPVENSfJp9rQUpAt"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact - Jade Moon Upon a Sea of Clouds (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/22jmHd52fUk6hDe8S3Et0T"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "HOYO-MiX",
+          "url": "https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101701,
+      "name": "Legend of Redemption",
+      "url": "https://open.spotify.com/track/4DJUmeLAINsXyaFtoJjdUa"
     },
     {
       "album": {
@@ -36726,7 +36896,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 151200,
       "name": "Lights and Clouds",
       "url": "https://open.spotify.com/track/4oE9Dxh4RKV9LtEFgQaHMK"
@@ -37472,7 +37642,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 215225,
       "name": "Living Room",
       "url": "https://open.spotify.com/track/6edbuCFbRGyWeAf35JULOg"
@@ -38382,7 +38552,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 197906,
       "name": "Love And The Hunter",
       "url": "https://open.spotify.com/track/7f52Zzxnz0WuMw3El71Run"
@@ -39600,7 +39770,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 182400,
       "name": "Main Theme - from Project Hail Mary",
       "url": "https://open.spotify.com/track/1CKjhPBofXDP3rr7duF9fv"
@@ -40854,6 +41024,24 @@
       "duration_ms": 154773,
       "name": "Memories of Guthix",
       "url": "https://open.spotify.com/track/51qavTbOuYvO141u9bgF8f"
+    },
+    {
+      "album": {
+        "name": "Memories We Made",
+        "url": "https://open.spotify.com/album/23zDLYFLBLIEczWx3sbTaC"
+      },
+      "artists": [
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227532,
+      "name": "Memories We Made",
+      "url": "https://open.spotify.com/track/08SswQLnRbrPKYJYXk1kr4"
     },
     {
       "album": {
@@ -43880,7 +44068,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/2UxymlMDP0g5EXlBSlJqNp"
@@ -46864,7 +47052,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 126560,
       "name": "Outset Island - From \"The Legend of Zelda: The Wind Waker\"",
       "url": "https://open.spotify.com/track/2MF1DTnViEN2aQdOM8uEw6"
@@ -47356,7 +47544,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 178812,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4ECODNiieWhlZ7E6Fut5d1"
@@ -48898,7 +49086,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 120923,
       "name": "Possibilities",
       "url": "https://open.spotify.com/track/31JFM9qOwWn2eAyJfKB5QC"
@@ -49234,7 +49422,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 170906,
       "name": "Privilege of the Young",
       "url": "https://open.spotify.com/track/47WRM6JlE7fNvu6EB7NlX7"
@@ -49888,7 +50076,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 236000,
       "name": "Raven's Call to the East (Wingspan: Asia Expansion Original Video Game Soundtrack)",
       "url": "https://open.spotify.com/track/474DRzv4jxsja2fRKgCkQM"
@@ -50460,7 +50648,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 206641,
       "name": "repeating events",
       "url": "https://open.spotify.com/track/03YqeeDBLwmvsefqfbviM5"
@@ -52402,7 +52590,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 155185,
       "name": "Sands of Karak",
       "url": "https://open.spotify.com/track/1N9zwFJegtFIhGsMJus5EP"
@@ -52496,6 +52684,24 @@
       "duration_ms": 273160,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/4wOHTxl4euh0hMGU9CJERL"
+    },
+    {
+      "album": {
+        "name": "The Instrumental Collection",
+        "url": "https://open.spotify.com/album/2ysfY19iriwNRliaRw1bBv"
+      },
+      "artists": [
+        {
+          "name": "The Satellite Station",
+          "url": "https://open.spotify.com/artist/3Cz6z3clgPkPz84faABaDS"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212760,
+      "name": "Satellites - Instrumental",
+      "url": "https://open.spotify.com/track/2lZ2Fv3XAFTvbyfRbOrZui"
     },
     {
       "album": {
@@ -53536,6 +53742,24 @@
       "duration_ms": 252466,
       "name": "Serenade of Water",
       "url": "https://open.spotify.com/track/5Kpa4UwnB5qpVx2wmQ3WKA"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
+      },
+      "artists": [
+        {
+          "name": "Simon Folwar",
+          "url": "https://open.spotify.com/artist/45yzAR4CenLlWxGsoWRbaQ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159594,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
     },
     {
       "album": {
@@ -55287,6 +55511,24 @@
     },
     {
       "album": {
+        "name": "Witch Hat Atelier (Original Anime Soundtrack)",
+        "url": "https://open.spotify.com/album/3BhWhjL2DnYBJQjdsIn90a"
+      },
+      "artists": [
+        {
+          "name": "Yuka Kitamura",
+          "url": "https://open.spotify.com/artist/3nIELxtRA56U1AXqJFzyDw"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "So Long As I Walk",
+      "url": "https://open.spotify.com/track/2J9I7oTBuWhrG8MW7nF90b"
+    },
+    {
+      "album": {
         "name": "So Unimportant",
         "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
       },
@@ -55324,6 +55566,24 @@
       "duration_ms": 155880,
       "name": "Soar (Main Title Theme from 'Masters of the Air')",
       "url": "https://open.spotify.com/track/0SYt8bqPFHoFnNU0RCPmNr"
+    },
+    {
+      "album": {
+        "name": "Soaring",
+        "url": "https://open.spotify.com/album/7fjC5XVQ6MkWn9yCh9rTj9"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rimmer",
+          "url": "https://open.spotify.com/artist/5y2sWn2F3AqJ5izXbsJypg"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152328,
+      "name": "Soaring",
+      "url": "https://open.spotify.com/track/7uCOe6NlRhaMXkpgoyl4PJ"
     },
     {
       "album": {
@@ -55516,7 +55776,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 214250,
       "name": "Solomeo",
       "url": "https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD"
@@ -56452,7 +56712,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 245000,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/6zdn97CcOicEJh42UD4wqi"
@@ -56702,6 +56962,32 @@
       "duration_ms": 161500,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5mlCM4cV2pgGSV177kL5hB"
+    },
+    {
+      "album": {
+        "name": "The New Four Seasons - Vivaldi Recomposed",
+        "url": "https://open.spotify.com/album/6J7CIQ4ReSZa611kZjCRkb"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Elena Urioste",
+          "url": "https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152094,
+      "name": "Spring 1 - 2022",
+      "url": "https://open.spotify.com/track/37bI12CYrLLYIeI8NtBp1k"
     },
     {
       "album": {
@@ -58753,6 +59039,24 @@
     },
     {
       "album": {
+        "name": "Sunshower",
+        "url": "https://open.spotify.com/album/4o1Zzl9PISGgO8e81ZmMLz"
+      },
+      "artists": [
+        {
+          "name": "Peter Belec",
+          "url": "https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163963,
+      "name": "Sunshower",
+      "url": "https://open.spotify.com/track/6V1eDir5fngJnwVYpxKbPG"
+    },
+    {
+      "album": {
         "name": "Semicolon & Parentheses (Deluxe)",
         "url": "https://open.spotify.com/album/2e3gKhMqzbDQBuB8ZRbLXl"
       },
@@ -59568,7 +59872,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 167750,
       "name": "Tabula Rasa",
       "url": "https://open.spotify.com/track/6rbpQhCpV8dAUlBG6LjObv"
@@ -59936,7 +60240,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 194826,
       "name": "Takeoff",
       "url": "https://open.spotify.com/track/2ELcuwXrtMA8ect9cGTYnQ"
@@ -60610,7 +60914,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 100795,
       "name": "Test Chamber Three",
       "url": "https://open.spotify.com/track/3VaEKM6KnX1r2IwfyZKQIe"
@@ -61566,7 +61870,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 213038,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/5YUFFXZnHW4GeDb8s1G8fw"
@@ -61584,7 +61888,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 114906,
       "name": "The Dreams of Trees",
       "url": "https://open.spotify.com/track/5eFWACxjEptmS2YW4QYqaE"
@@ -61736,6 +62040,24 @@
       "duration_ms": 129824,
       "name": "The Expedition",
       "url": "https://open.spotify.com/track/1ZR8fOBnOpGTe7IiLxm1iI"
+    },
+    {
+      "album": {
+        "name": "The Wind Rises Soundtrack",
+        "url": "https://open.spotify.com/album/59U5FQ4kDEt11Q2UcFu1dK"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94200,
+      "name": "The Falcon Project",
+      "url": "https://open.spotify.com/track/0NsPt3eW4cjPxI0NsqLa75"
     },
     {
       "album": {
@@ -61976,6 +62298,24 @@
       "duration_ms": 150293,
       "name": "The Four Seasons: Spring 1",
       "url": "https://open.spotify.com/track/4SkMgBt5RVKHOJsF692MRl"
+    },
+    {
+      "album": {
+        "name": "Bursting with Life",
+        "url": "https://open.spotify.com/album/6AnSHo3XmUup0y2vTkIeTo"
+      },
+      "artists": [
+        {
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132713,
+      "name": "The Frogs Pond",
+      "url": "https://open.spotify.com/track/0q7Eaazczr8Te5TagZiU7C"
     },
     {
       "album": {
@@ -62276,7 +62616,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 168600,
       "name": "The Halls of Hogwarts",
       "url": "https://open.spotify.com/track/6xdTcuZpLGDEiz05NFA4xo"
@@ -62708,7 +63048,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 140843,
       "name": "The Lizard",
       "url": "https://open.spotify.com/track/4eot2pS2AP2xxFJbCGm7ai"
@@ -67658,7 +67998,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 173600,
       "name": "Trying Something Again (Again)",
       "url": "https://open.spotify.com/track/3mtfIdxDxq5CyYQgGgsSaP"
@@ -67706,6 +68046,28 @@
       "duration_ms": 205000,
       "name": "Tuborg - Acoustic Version",
       "url": "https://open.spotify.com/track/3wOKLIxvk4oP2py7d6JJuR"
+    },
+    {
+      "album": {
+        "name": "Tumultuous You",
+        "url": "https://open.spotify.com/album/49HEfubbUYPSAHDL5w0EEF"
+      },
+      "artists": [
+        {
+          "name": "Bardic Fae",
+          "url": "https://open.spotify.com/artist/6MohN0N3a8BVjlFbmOskTo"
+        },
+        {
+          "name": "Lydia Munchinsky",
+          "url": "https://open.spotify.com/artist/4tgCwwHq7yPk3LIXjqfI7U"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156551,
+      "name": "Tumultuous You",
+      "url": "https://open.spotify.com/track/7m4mc5dMDwvi3bnlwKgqBN"
     },
     {
       "album": {
@@ -71634,7 +71996,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 156456,
       "name": "Where Sea Meets Sky",
       "url": "https://open.spotify.com/track/2IDBS59xrRVbFbjXi2VMXC"
@@ -72284,6 +72646,36 @@
       "duration_ms": 383320,
       "name": "Wild Lavender",
       "url": "https://open.spotify.com/track/2YGtP3jMWtmdsqXCnmL4os"
+    },
+    {
+      "album": {
+        "name": "The Lost Birds",
+        "url": "https://open.spotify.com/album/086GpDSGHjeExlIn4avIAL"
+      },
+      "artists": [
+        {
+          "name": "Christopher Tin",
+          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Barnaby Smith",
+          "url": "https://open.spotify.com/artist/7ejNaQI6qqhLCklGDuCpcm"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250582,
+      "name": "Wild Swans",
+      "url": "https://open.spotify.com/track/553TO6Cxv1QzE3ki5O723T"
     },
     {
       "album": {
@@ -73277,6 +73669,24 @@
     },
     {
       "album": {
+        "name": "The Personal History of David Copperfield (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willis",
+          "url": "https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126213,
+      "name": "Yarmouth",
+      "url": "https://open.spotify.com/track/35KAz5VNf0xzghwUxDScqH"
+    },
+    {
+      "album": {
         "name": "Piano - EP",
         "url": "https://open.spotify.com/album/56A86WbwqATUbMlbtAGfrx"
       },
@@ -73426,7 +73836,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 230506,
       "name": "Yellowstone",
       "url": "https://open.spotify.com/track/1nRsutSq3bwJwaJoAxuLtj"

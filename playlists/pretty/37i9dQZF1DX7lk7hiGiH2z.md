@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,497 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,504 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 34 | [Glitzer](https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE) | [Sukini](https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4), [Saskia Lavaux](https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ) | [Schmetterlingskacke](https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0) | 3:02 |
 | 35 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
 | 36 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
-| 37 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 |
+| 37 | [Die Kinder spielen verrückt](https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6) | [Donots](https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg), [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Die Kinder spielen verrückt](https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh) | 2:54 |
 | 38 | [Das Farbenlied](https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Lern\- und Spaßlieder](https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL) | 3:06 |
-| 39 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 |
-| 40 | [Die Kinder spielen verrückt](https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6) | [Donots](https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg), [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Die Kinder spielen verrückt](https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh) | 2:54 |
+| 39 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 |
+| 40 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 |
 | 41 | [Dickie, der dicke Delfin](https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 2:10 |
 | 42 | [Sommer](https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7), [Remmi Demmi](https://open.spotify.com/artist/4bLZXiel2Er87VCdVLMEeW), [Matti MC](https://open.spotify.com/artist/0c0NoscMWOTJGeYNsbAUjE) | [Sommer](https://open.spotify.com/album/07lh3EusxSMocrboK796JF) | 3:05 |
 | 43 | [Sommerzeit](https://open.spotify.com/track/1naDrs3vJoTuF5CokDfPGi) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Das grüne Album](https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Das Lied Vom Sommer](https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 1:56 |
 | 50 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
 
-Snapshot ID: `AAAAAIzfZWxdkPi4Ne/5zKWg/tRSejFB`
+Snapshot ID: `AAAAADDYy+6ZJd8xIZGt69uhjYWPDYMd`

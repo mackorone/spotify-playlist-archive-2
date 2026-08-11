@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-190 songs - 9 hr 19 min
+191 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Target 2](https://open.spotify.com/track/6TiXW1QTLAoRGqFmIw2SgL) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11), [Duhan Muzic](https://open.spotify.com/artist/2uuKzuZ3JZXuMhUkYyS0xz) | [Target 2](https://open.spotify.com/album/7MwOyeoMdqiA2SJYXLMahp) | 2:30 | 2023-10-03 | 2023-11-10 |
 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-22 | 2026-01-29 |
 | [TEL TAMAKHU](https://open.spotify.com/track/0bGoXd5z0MArvjCixDzJj0) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [Sachin Jaat](https://open.spotify.com/artist/4ck1WdgXASk76eCovLig80) | [TEL TAMAKHU](https://open.spotify.com/album/2WJDnhF1hO3cgosSQYMSVI) | 2:42 | 2026-03-12 |  |
-| [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 | 2023-07-24 |  |
+| [Tere Piche](https://open.spotify.com/track/5xdP0SCabpuytBrNkI0Abu) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Xtacy](https://open.spotify.com/artist/5RHWtLzYNIrfjLXUx7hBi6) | [Tere Piche](https://open.spotify.com/album/0DjsEEg0RSlSDuHziqdU2u) | 2:13 | 2026-08-07 |  |
+| [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 | 2023-07-24 | 2026-08-11 |
 | [The Villagers](https://open.spotify.com/track/2x7iprCTkTR7WcTRkCLFBr) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7) | [The Villagers](https://open.spotify.com/album/5VRPx5fbREQVJ9lNApySLV) | 3:03 | 2023-07-24 | 2023-11-10 |
 | [Things We Do](https://open.spotify.com/track/7yHpwPG691Bi52Lta0HtFj) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Things We Do](https://open.spotify.com/album/4PmrsxOsKa6wgwXK07Nz4k) | 2:50 | 2024-04-30 | 2025-02-16 |
 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 | 2023-07-24 | 2023-11-10 |

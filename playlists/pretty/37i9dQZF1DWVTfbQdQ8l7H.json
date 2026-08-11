@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 2010s.",
-  "num_followers": 699744,
+  "num_followers": 699893,
   "original_name": "10s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAs6uh8qFCnJ5LVkXR62ty9pzYBo",
+  "snapshot_id": "AAAAAG2TNb7IFyACJ2IXpcTKpEbPhiDZ",
   "tracks": [
     {
       "added_at": "2026-02-25 17:46:18",
@@ -227,18 +227,22 @@
     {
       "added_at": "2026-02-25 17:46:18",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+        "name": "Overexposed Track By Track",
+        "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
+      "duration_ms": 231173,
+      "name": "Payphone",
+      "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
     },
     {
       "added_at": "2026-02-25 17:46:18",
@@ -259,22 +263,18 @@
     {
       "added_at": "2026-02-25 17:46:18",
       "album": {
-        "name": "Overexposed Track By Track",
-        "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Payphone",
-      "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": "2026-02-25 17:46:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-02-25 17:46:18",
       "album": {
-        "name": "Joanne (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
-    },
-    {
-      "added_at": "2026-02-25 17:46:18",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2026-02-25 17:46:18",
+      "album": {
+        "name": "Joanne (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
     },
     {
       "added_at": "2026-02-25 17:46:18",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2026-02-25 17:46:18",
       "album": {
-        "name": "The Truth About Love",
-        "url": "https://open.spotify.com/album/0pqKb2y8h2BWS46HMfmEgD"
+        "name": "Take Me Home: Yearbook Edition",
+        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Nate Ruess",
-          "url": "https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "url": "https://open.spotify.com/track/4VC5nFbYO4avKksJ9jN4pY"
+      "duration_ms": 219640,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
     }
   ],
   "unique_name": "10s Love Songs",

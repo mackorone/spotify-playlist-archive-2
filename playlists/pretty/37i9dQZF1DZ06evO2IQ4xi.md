@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,502 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,517 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 12 | [Wat U Sed \(feat\. Doechii & Kal Banx\)](https://open.spotify.com/track/0VYchQkqpeEyh95D1pWqy2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:56 |
 | 13 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
 | 14 | [Nosebleeds](https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Nosebleeds](https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT) | 2:15 |
-| 15 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
-| 16 | [MPH](https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [MPH](https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q) | 1:59 |
+| 15 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 16 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 17 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 |
-| 18 | [Spookie Coochie](https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Spookie Coochie](https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR) | 2:48 |
-| 19 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 |
+| 18 | [MPH](https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [MPH](https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q) | 1:59 |
+| 19 | [Spookie Coochie](https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Spookie Coochie](https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR) | 2:48 |
 | 20 | [ROCKET](https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ROCKET](https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El) | 2:46 |
 | 21 | [BOILED PEANUTS](https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
 | 22 | [ROBBERY \(feat\. Doechii\)](https://open.spotify.com/track/5FYaSV8TLF7qvonB1BDOw0) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:55 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 44 | [This Bitch Matters](https://open.spotify.com/track/6o7XKljPp21NuqMwqAcDRP) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 1:41 |
 | 45 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
 
-Snapshot ID: `anZxgAAAAACysOOm1ehqPDK7sLfiOqET`
+Snapshot ID: `anfDAAAAAAA/2R2BxvL+dt8OqHebgjFR`

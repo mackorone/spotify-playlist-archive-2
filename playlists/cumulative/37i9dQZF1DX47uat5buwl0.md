@@ -4,7 +4,7 @@
 
 > Antoon kiest 20 bangers voor zomer ID 🕶️ main character summer <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-216 songs - 9 hr 44 min
+217 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Zomer in NL](https://open.spotify.com/track/1YEMCWrZNYuinXS870FjFP) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Zomer in NL](https://open.spotify.com/album/4d49Zsyb9LRxSiAF93uoBp) | 2:33 | 2026-06-11 |  |
 | [Zon Op M'n Piemel \- Zomerhit 2022](https://open.spotify.com/track/6b7T2rw6CwRgf843yzjWsX) | [Zonnie M](https://open.spotify.com/artist/0SpGCWhR4Oujlo6mS29w9I) | [Zon Op M'n Piemel \(Zomerhit 2022\)](https://open.spotify.com/album/1zzT9TSIBvbYEnYIzzRUXq) | 2:58 | 2025-07-17 | 2025-10-02 |
 | [Zonder Route](https://open.spotify.com/track/1GwPCaLWdJl2h6wNxJgUpG) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Zonder Route](https://open.spotify.com/album/4AV2QTyoEI0pO8PdSU9hgf) | 2:19 | 2025-08-09 | 2025-10-14 |
+| [Zonnebank](https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK) | [Ray & Beer](https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt) | [Zonnebank](https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E) | 3:04 | 2026-08-10 |  |
 | [Ça Va](https://open.spotify.com/track/4KIsxUAKHmbnrNqraNs6Yb) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Ça Va](https://open.spotify.com/album/0MmjwvLcZF5y7ocMVV69E3) | 2:10 | 2025-07-17 | 2026-02-10 |
 | [⁠Als Ik Ga](https://open.spotify.com/track/1iycr8PISLyOC4pQkl51qu) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tot Het Eind Van Mij](https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU) | 2:52 | 2026-02-09 | 2026-05-29 |
 

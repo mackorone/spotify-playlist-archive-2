@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 266704,
+  "num_followers": 266738,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEuuB/JL+zBraRUQbSeB75NABv+l",
+  "snapshot_id": "AAAAANDH145z5fj/sYOZqyKRQ2NiR5di",
   "tracks": [
     {
       "added_at": "2026-03-06 03:00:23",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
-        "url": "https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 212638,
-      "name": "D\u00eda De Suerte",
-      "url": "https://open.spotify.com/track/0aaTGNeISpwMnq7jr0Xtf8"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Tour Terral (Tres noches en Las Ventas)",
         "url": "https://open.spotify.com/album/3b2X7VxxfTCFRJQkShaJhc"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+        "name": "Alejandra Guzm\u00e1n 20 A\u00f1os De \u00c9xitos En Vivo Con Moderatto",
+        "url": "https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
         }
       ],
-      "duration_ms": 300106,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
+      "duration_ms": 212638,
+      "name": "D\u00eda De Suerte",
+      "url": "https://open.spotify.com/track/0aaTGNeISpwMnq7jr0Xtf8"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -543,6 +527,22 @@
       "duration_ms": 298546,
       "name": "La Chica De Humo - MTV Unplugged",
       "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Arde El Cielo",
-        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Mariposa Traicionera - En Vivo",
-      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 241680,
       "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Arde El Cielo",
+        "url": "https://open.spotify.com/album/2yvMWRuWOjzY1OhZfJfC96"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Mariposa Traicionera - En Vivo",
+      "url": "https://open.spotify.com/track/44lkeFeeuCevvpIeFlVIsu"
     }
   ],
   "unique_name": "Vivo de Pop",

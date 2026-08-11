@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 173930,
+  "num_followers": 173944,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAA4IagbeErc5ISNUm6x4gqB",
+  "snapshot_id": "anfDAAAAAAB/LaE+74Lx7Go4X9Gb5NSg",
   "tracks": [
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 186173,
-      "name": "Enchanted - 2016 Remaster",
-      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
+      "duration_ms": 195560,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 195560,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
+      "duration_ms": 186173,
+      "name": "Enchanted - 2016 Remaster",
+      "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 229923,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ"
+      "duration_ms": 130950,
+      "name": "Without a Leg to Stand On",
+      "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 130950,
-      "name": "Without a Leg to Stand On",
-      "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
+      "duration_ms": 229923,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ"
     },
     {
       "added_at": null,

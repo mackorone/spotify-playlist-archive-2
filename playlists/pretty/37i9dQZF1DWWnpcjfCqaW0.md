@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,360 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,380 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [How's the World Treating You](https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 2:56 |
 | 75 | [Wildwood Flower \- Instrumental](https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3) | [Hank Thompson](https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0), [Hank Thompson And His Brazos Valley Boys](https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk) | [Vintage Collections](https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5) | 2:57 |
 
-Snapshot ID: `AAAAAPSZgsiHS5hzkaU/XQg6wJRki4Ak`
+Snapshot ID: `AAAAAEk/AuNldo7mdUNdSnr+LHUuf4jN`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Cover: Haifa Wehbe",
+  "description": "Listen to Arab women, at full volume. Cover: Dana Salah",
   "name": "EQUAL Arabia",
   "tracks": [
     {
@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 236000,
       "name": "Borders & Promises",
       "url": "https://open.spotify.com/track/5qY06W2svsKdzGGmAcKiu1"
@@ -2966,6 +2966,24 @@
       "duration_ms": 199214,
       "name": "DOPAMINE",
       "url": "https://open.spotify.com/track/6Q3KOmzeEhkGcRxQpccaVO"
+    },
+    {
+      "album": {
+        "name": "Wedding Riddim",
+        "url": "https://open.spotify.com/album/4j2qtmv1bCIJTeXae1G0AO"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153479,
+      "name": "Dori Dorak",
+      "url": "https://open.spotify.com/track/20NawjgjlGmWjGd2jdvFdo"
     },
     {
       "album": {
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 323801,
       "name": "Gannentini",
       "url": "https://open.spotify.com/track/7lBes5ACSeP6Yo4IL5SRdM"
@@ -5455,6 +5473,28 @@
     },
     {
       "album": {
+        "name": "Jardin d'hiver",
+        "url": "https://open.spotify.com/album/3TWGUtpKx25fVt2BXLUp0d"
+      },
+      "artists": [
+        {
+          "name": "Hiba Tawaji",
+          "url": "https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX"
+        },
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/2Qgj2JV7wm15DTY3L6h3Bg"
+    },
+    {
+      "album": {
         "name": "Jeet Ahrak",
         "url": "https://open.spotify.com/album/3G88nKXJz9ApDpVI2ngwjk"
       },
@@ -6043,6 +6083,28 @@
     },
     {
       "album": {
+        "name": "LAHZA",
+        "url": "https://open.spotify.com/album/5AXnAWPE3aTfwxhWNmjs6X"
+      },
+      "artists": [
+        {
+          "name": "Nourine",
+          "url": "https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K"
+        },
+        {
+          "name": "ALI DAHAB",
+          "url": "https://open.spotify.com/artist/7nCxy06UepNDg37SsHVVnX"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "LAHZA",
+      "url": "https://open.spotify.com/track/4MCsxt5TCplI1UdojaOv3D"
+    },
+    {
+      "album": {
         "name": "Lahzet Qarar",
         "url": "https://open.spotify.com/album/1aw6EBgd55YRrFDvv18iEr"
       },
@@ -6372,7 +6434,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 304760,
       "name": "Lgeet Alkhair",
       "url": "https://open.spotify.com/track/7lDChwdx7TKt9sfs8zo758"
@@ -7184,6 +7246,24 @@
       "duration_ms": 224745,
       "name": "Mawaqif",
       "url": "https://open.spotify.com/track/3LOqtToly651USdV4pOdXt"
+    },
+    {
+      "album": {
+        "name": "nour / \u0646\u0648\u0631",
+        "url": "https://open.spotify.com/album/2o53I5LGnTfSYWXFyiheBp"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Mawasem / \u0645\u0648\u0627\u0633\u0645",
+      "url": "https://open.spotify.com/track/1RrzWr8RazL3j1cgAanCNF"
     },
     {
       "album": {
@@ -10206,7 +10286,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 219428,
       "name": "Wana",
       "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
@@ -10510,7 +10590,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 245294,
       "name": "Wuhda Bel Million",
       "url": "https://open.spotify.com/track/0UkQ8JKAtUpMnTn0Y8INte"
@@ -11534,6 +11614,24 @@
       "duration_ms": 180076,
       "name": "\u0627\u0633\u0642\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/3UvItzqBASEeNcv1SQpXf5"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0633\u0645\u064a \u062d\u062f\u064a\u062b \u0627\u0644\u0628\u0644\u062f",
+        "url": "https://open.spotify.com/album/1exbItOE4SdTf4gBVDxduK"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Matar",
+          "url": "https://open.spotify.com/artist/2WRcWx0NGGiJNmkoIZETha"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151992,
+      "name": "\u0627\u0633\u0645\u064a \u062d\u062f\u064a\u062b \u0627\u0644\u0628\u0644\u062f",
+      "url": "https://open.spotify.com/track/2WxoUwXyJ4xnLsNAyog0cL"
     },
     {
       "album": {
@@ -13120,7 +13218,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 217707,
       "name": "\u0644\u0648 \u0633\u0623\u0644\u0648\u0627 \u062d\u0628\u064a\u0628\u064a",
       "url": "https://open.spotify.com/track/7eW1PvlTclDxuSVUZE5mBo"

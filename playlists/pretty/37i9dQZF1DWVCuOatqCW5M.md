@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Darshan Raval, Simran Choudhary, Adnan Sami,  Shekhar Ravjiani and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,762 likes - 48 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,846 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 47 | [Ban Ja Tu](https://open.spotify.com/track/1USl5qs5IzNfrUS3sCicNo) | [Charan Preet](https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Ban Ja Tu](https://open.spotify.com/album/6ZuTjqP8moTUaVFpX60neO) | 3:48 |
 | 48 | [Kohinoor](https://open.spotify.com/track/0Pe7k7uGkfVwoSMOuC8WE5) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Kohinoor](https://open.spotify.com/album/6v5MNxW19uV6uwLJmS8zwA) | 2:25 |
 
-Snapshot ID: `AAAAAHkYs46jEpixGRT1J9+2P7/w9Z6i`
+Snapshot ID: `AAAAAECxOzgtiKTbmZxhiQXfaxuCh9k+`

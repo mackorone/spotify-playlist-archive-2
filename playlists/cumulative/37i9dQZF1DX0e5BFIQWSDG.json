@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: SNIK",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Saske",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1829,6 +1829,28 @@
     },
     {
       "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/15eHzDtC7EYh999qGern40"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Savv",
+          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166244,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7Km7TIZ6qBca2XmJGrSlOA"
+    },
+    {
+      "album": {
         "name": "VEGANZE",
         "url": "https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp"
       },
@@ -2738,7 +2760,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 168384,
       "name": "CHRISTIAN DIOR",
       "url": "https://open.spotify.com/track/2n2Kn5gGtVGrVJxvxtMDLB"
@@ -7010,7 +7032,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 145019,
       "name": "KYRIAKI FREESTYLE",
       "url": "https://open.spotify.com/track/5w17UwOZCdsGMSpyIkqK4W"
@@ -8971,6 +8993,46 @@
     },
     {
       "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Danae",
+          "url": "https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "OPOU KI AN PAS",
+      "url": "https://open.spotify.com/track/0MHTVZhRsPi9PcbTceEMq8"
+    },
+    {
+      "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "ORES",
+      "url": "https://open.spotify.com/track/4rXI3GKWppbWrlBckmSkFR"
+    },
+    {
+      "album": {
         "name": "OSE",
         "url": "https://open.spotify.com/album/0l5jdAXg0JYj3ELh8Rmy8f"
       },
@@ -9160,7 +9222,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 208818,
       "name": "Pano Ap' Ti Gi",
       "url": "https://open.spotify.com/track/2W3LV1pbvaLxre1TwOrhUN"
@@ -10092,10 +10154,32 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 180000,
       "name": "POTE",
       "url": "https://open.spotify.com/track/0hEtvbRFwcHe8xPEPPtdih"
+    },
+    {
+      "album": {
+        "name": "PRESVHS",
+        "url": "https://open.spotify.com/album/7cWDVIpickrrLaGqe7kxk4"
+      },
+      "artists": [
+        {
+          "name": "Merko",
+          "url": "https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110837,
+      "name": "PRESVHS",
+      "url": "https://open.spotify.com/track/2O4AqEMqtV8I6mXzlKKFKp"
     },
     {
       "album": {
@@ -11398,7 +11482,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 188316,
       "name": "Spaste Ta",
       "url": "https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI"
@@ -11578,6 +11662,24 @@
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
+        "name": "Summertime Sadness",
+        "url": "https://open.spotify.com/album/7IpoGPcmh0dIBbZZxs4aDc"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160373,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/7uYg8TyEDnxh0LhLjhVt52"
     },
     {
       "album": {
@@ -11828,7 +11930,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
@@ -12894,6 +12996,36 @@
       "duration_ms": 135636,
       "name": "VARKARIS",
       "url": "https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6"
+    },
+    {
+      "album": {
+        "name": "VERSACE",
+        "url": "https://open.spotify.com/album/1uP4wBPulejvSucBlYl8Sv"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "VERSACE",
+      "url": "https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I"
     },
     {
       "album": {

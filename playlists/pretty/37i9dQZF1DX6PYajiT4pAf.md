@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ozuna con Omar Courtz, KAROL G, Alejandro Sanz, De la Rose con Rels B, Love of Lesbian y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,776 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,780 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 59 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
 | 60 | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4) | 3:14 |
 
-Snapshot ID: `AAAAAEbnPbM1V0dIWlPxEH6GFE26rwQ/`
+Snapshot ID: `AAAAAFqIvpqkozsOP2WiIbhDuAPCRLzI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 
 > This is Danny Go!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,196 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,251 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 18 | [Spooky Spiders Everywhere!](https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Spooky Spiders Everywhere!](https://open.spotify.com/album/64Z3O18A2zMDcCNgPCZIJh) | 4:18 |
 | 19 | [Flamingo Frenzy!](https://open.spotify.com/track/4XrKQR3F9zEik0jYbQZv1n) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Flamingo Frenzy!](https://open.spotify.com/album/3YYd0Mx451X9MMgLNe58Fa) | 5:23 |
 | 20 | [Escape From Tiger Island! \- Jungle Adventure](https://open.spotify.com/track/3eyC4jl1SINfcVdW7yJXNP) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Escape From Tiger Island!](https://open.spotify.com/album/2B9Nqk0mkXmEr7n23dUVs8) | 4:31 |
-| 21 | [Night Night Parade Lullaby](https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:01 |
+| 21 | [Great Big Sea Lullaby](https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:15 |
 | 22 | [Sharks in the Water 2 \- Rise of the Shark King](https://open.spotify.com/track/1yybUHjAyLICv5BlT43pTv) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Sharks in the Water 2](https://open.spotify.com/album/5JhcqXNqspZ2s6HxeHcQuX) | 4:19 |
 | 23 | [The Animal Dance Game](https://open.spotify.com/track/7uK3on96wGPbnOQWPpRFz8) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Animal Dance Game](https://open.spotify.com/album/1gBWrEqXqUh6KzWSDSDRGF) | 3:47 |
 | 24 | [The Bat Wing Beat](https://open.spotify.com/track/1fFZ0TRXThCKcVCJx5LLrf) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [The Bat Wing Beat](https://open.spotify.com/album/48DBQhK2EEFB6cddf9DRVO) | 3:49 |
-| 25 | [Great Big Sea Lullaby](https://open.spotify.com/track/1uJsAWQ72UOxOBTqxaXTkF) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:15 |
+| 25 | [Night Night Parade Lullaby](https://open.spotify.com/track/3z5kUL960Q7AdKz9WSgenC) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music](https://open.spotify.com/album/04fLbxdpEhCuNWIWdbaB7R) | 4:01 |
 | 26 | [Drive Drive Vehicle Dance](https://open.spotify.com/track/6W1pb7YKtRIkcgSuvC7Pyb) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Drive Drive Vehicle Dance](https://open.spotify.com/album/70eYeeYN9cYHSYKoMxLzaY) | 3:17 |
 | 27 | [Airplane Mode!](https://open.spotify.com/track/3SiijksKZyytWUhHftvctc) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Airplane Mode!](https://open.spotify.com/album/2ReW0UXS7OOEysEAUxuzxL) | 3:44 |
 | 28 | [Magnet Mania!](https://open.spotify.com/track/29BvKOZz1KNd0aHKNHeAjB) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Magnet Mania!](https://open.spotify.com/album/7tsgZYw4ug4VmaihnHPAQZ) | 5:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO27qjXa.md) - [plain]
 | 49 | [Math Whiz \- Addition Version](https://open.spotify.com/track/3fTXGuPQnTXh9cmjGkPTrW) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Math Whiz](https://open.spotify.com/album/7cOqy6a4SqQHtFbv907gbt) | 3:34 |
 | 50 | [Space Race \- Lullaby Version](https://open.spotify.com/track/0XR0JroNI3KATMxvQh0ETy) | [Danny Go!](https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm) | [Danny Go! Sleep Music, Vol\. 2 \(Lullaby Version\)](https://open.spotify.com/album/6p92UHr7NrpLtb13KO0gqe) | 7:50 |
 
-Snapshot ID: `anZxgAAAAAC+FSo0YX2rHqJi9z8diYQ1`
+Snapshot ID: `anfDAAAAAAA9aNxo1J8WvavgRhABECr6`

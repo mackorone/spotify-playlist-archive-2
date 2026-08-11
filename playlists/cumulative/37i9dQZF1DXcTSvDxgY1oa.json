@@ -858,7 +858,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 265960,
       "name": "Cavalry\u2019s coming - Cavalerie Remix",
       "url": "https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW"
@@ -3099,6 +3099,24 @@
     },
     {
       "album": {
+        "name": "ireallylikeboys",
+        "url": "https://open.spotify.com/album/6dqcJtGYhhaC2rlYO0SLLF"
+      },
+      "artists": [
+        {
+          "name": "KUZKO",
+          "url": "https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149163,
+      "name": "ireallylikeboys",
+      "url": "https://open.spotify.com/track/7mijo4YVQfT89PCDH78h2U"
+    },
+    {
+      "album": {
         "name": "Isaak's Marble",
         "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
       },
@@ -4752,6 +4770,24 @@
       "duration_ms": 183780,
       "name": "Pinch Me",
       "url": "https://open.spotify.com/track/4zjg3PG8mgaerssPLkP83v"
+    },
+    {
+      "album": {
+        "name": "Piranhas",
+        "url": "https://open.spotify.com/album/5d4KlUar0raqvKzCQ3tE9N"
+      },
+      "artists": [
+        {
+          "name": "Dracula\u2019s Beach Party",
+          "url": "https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355017,
+      "name": "Piranhas",
+      "url": "https://open.spotify.com/track/5qyhH3izjZWS5z6O0yRXzL"
     },
     {
       "album": {
@@ -6502,7 +6538,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 237218,
       "name": "wannabe superstar",
       "url": "https://open.spotify.com/track/3cRAejYI9ibFnwhNNn1PDm"

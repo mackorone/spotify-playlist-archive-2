@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,672 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,688 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,20 +31,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 21 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 22 | [Isla del Ritmo](https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf) | [Ritmo Machine](https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw) | [Isla del Ritmo](https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH) | 3:16 |
 | 23 | [Love Song](https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:58 |
-| 24 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
+| 24 | [Llévame](https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Llévame \(Cultura Remix\)](https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy) | 4:24 |
 | 25 | [No Te Desanimes](https://open.spotify.com/track/5UhdNEQw0SOtfdUYx3FhkU) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [No Te Desanimes](https://open.spotify.com/album/3ULGENdwrVsBlo4aCHhywh) | 4:28 |
-| 26 | [Llévame](https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Llévame \(Cultura Remix\)](https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy) | 4:24 |
+| 26 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
 | 27 | [Orillas](https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tiempos de Tribulacion](https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK) | 6:03 |
 | 28 | [Una Cumbia Triste](https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:31 |
-| 29 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
+| 29 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
 | 30 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
-| 31 | [La Flor](https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Nonpalidesenchufado](https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV) | 5:14 |
+| 31 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
 | 32 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
 | 33 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 |
 | 34 | [No Te Fumes Mi Mariguana](https://open.spotify.com/track/0LFjHJnsZd1B6KPnvTmIVy) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:30 |
-| 35 | [Lo Quiero Todo](https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 3:47 |
+| 35 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
 | 36 | [Mi Verdad](https://open.spotify.com/track/6ofSz8CfDJ91cIRKGzqnSG) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 2:46 |
-| 37 | [Waitin \(En Vivo\) \(feat\. MAGIC!\)](https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:29 |
+| 37 | [Lo Quiero Todo](https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 3:47 |
 | 38 | [Verde, amarillo y rojo](https://open.spotify.com/track/4Gu3btu3WVhofFBbSyrwBC) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:38 |
 | 39 | [Sal a Caminar](https://open.spotify.com/track/2dXRqnBkwkr44oKvvNdeaZ) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Esfuerzo Universal](https://open.spotify.com/album/0Kw6qKktEcAe5gzLrFd9au) | 5:05 |
 | 40 | [Mundo Paralelo](https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mundo Paralelo](https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR) | 3:17 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 69 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 70 | [Otro Cuento](https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 3:10 |
 
-Snapshot ID: `AAAAAH4xLejf9IxOYbfEimxlD32zKOsN`
+Snapshot ID: `AAAAAPRnpDbV3F62E+dAemYgQ2STJUIh`

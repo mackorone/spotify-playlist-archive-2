@@ -2,7 +2,7 @@
 
 ### [Marvel Music](https://open.spotify.com/playlist/37i9dQZF1DX5pOp62IUR81)
 
-> Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
+> Earth's mightiest themes assemble on the Marvel Music Playlist\. Stream Marvel’s The Avengers on Disney+.
 
 256 songs - 11 hr 15 min
 

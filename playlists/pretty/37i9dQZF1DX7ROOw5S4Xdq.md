@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,506 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,558 likes - 49 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 34 | [Tomé](https://open.spotify.com/track/5FxGf4EkOjp9ipOJm63gE7) | [Anderson Barros](https://open.spotify.com/artist/0bfnp6ummqHWaclDkfga1A), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Tomé](https://open.spotify.com/album/4EdCKDsG1dLhfL0gG0ZrVD) | 4:05 |
 | 35 | [Vai Na Marcha \- Ao Vivo](https://open.spotify.com/track/6q42oS1qFrSId3EErGDXsA) | [Samuel Eleoterio](https://open.spotify.com/artist/1S4E2bNyTqNi1Pi303fcLv) | [Vai Na Marcha \(Ao Vivo\)](https://open.spotify.com/album/3A2EMRi9DGQX0WrSYLTgEn) | 3:07 |
 | 36 | [Trono da graça](https://open.spotify.com/track/4ugAmu8O49msugx5zdBs0h) | [Yoná Amorim](https://open.spotify.com/artist/1dQcgyf6HRIhwiZxxrFtJ4), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b) | [Trono da graça \(Nas Casas\)](https://open.spotify.com/album/1BLbBAmGPavpwSRXm0luHE) | 10:12 |
-| 37 | [Mística \(Agora\)](https://open.spotify.com/track/4xshn2BR775ekAjODe6EfG) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Mística \(Agora\)](https://open.spotify.com/album/64Y7YKpoorYdOOUaHBub4g) | 5:14 |
-| 38 | [Abraça\-me \(Voz e Violão Ao Vivo\)](https://open.spotify.com/track/5q2f5otksq3o7b7yRF8rC2) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Abraça\-me \(Voz e Violão Ao Vivo\)](https://open.spotify.com/album/7ouRGD0N8jSLBKa94B2BdH) | 3:27 |
-| 39 | [Dono da Minha Vida](https://open.spotify.com/track/6DVWz89s1uxQzhoQ4M8puX) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Dono da Minha Vida](https://open.spotify.com/album/09LxDRpvBBt9cnPeJVXBko) | 3:49 |
-| 40 | [Quem Acreditou? \(Ao Vivo\)](https://open.spotify.com/track/5ESf40WGVTv450A0onhMvq) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Quem Acreditou? \(Ao Vivo\)](https://open.spotify.com/album/7ikzr3qltQbxeZbk1RPBQE) | 4:29 |
-| 41 | [Cicatrizes \(Voz e Violão Ao Vivo\)](https://open.spotify.com/track/2mehysgajWZQDDXXEdqekc) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Cicatrizes \(Voz e Violão Ao Vivo\)](https://open.spotify.com/album/5NTe2rnaFyBrX4OksiUIvE) | 3:58 |
-| 42 | [Derramaria](https://open.spotify.com/track/6DeLXcaLGkqwuZv1UeHKQM) | [BENITO](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [Derramaria](https://open.spotify.com/album/242XcODrGXHcm3oX20MYjH) | 4:30 |
-| 43 | [Enredo](https://open.spotify.com/track/3HbMzYXjMj7q7vRVQzLu7U) | [Dani Ramalho](https://open.spotify.com/artist/5ROPaT19WX6VxHSHHSGsXe), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [TAIOLI](https://open.spotify.com/artist/0tP7dJbLOlpbdFmQCTbSXu) | [Enredo](https://open.spotify.com/album/45kS47qtEiGnkN5SjyEOAE) | 3:53 |
-| 44 | [DE VOLTA AO COMEÇO](https://open.spotify.com/track/4CccBC1gN6BpGp7qYwj2En) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [DE VOLTA AO COMEÇO](https://open.spotify.com/album/6oMi9R1NXc7gWxRN7K0bHX) | 4:50 |
-| 45 | [Deus Vê \- Live Session](https://open.spotify.com/track/4CZMcJdXv9dLnYAxbDDIX4) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Deus Vê \(Live Session\)](https://open.spotify.com/album/31XEszezwLZOjj3utOBnz0) | 4:01 |
-| 46 | [Me Deixe Adorar](https://open.spotify.com/track/04a77qahA1c9F6HkUplAav) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Me Deixe Adorar](https://open.spotify.com/album/2VXPxErzH5wndYnCIr6QZX) | 3:52 |
-| 47 | [Lugar de Paz](https://open.spotify.com/track/22e8AgotbI4iyDrsNSBdWJ) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Lugar de Paz](https://open.spotify.com/album/5vsIWqvHRUVZTB7B2ZG3TS) | 3:17 |
-| 48 | [Imperativo Categórico](https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [Imperativo Categórico](https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0) | 2:34 |
-| 49 | [Preparem o Caminho](https://open.spotify.com/track/4qjuwx4exGGzYSNGpLTrH2) | [Sarah Lanza](https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J) | [Preparem o Caminho](https://open.spotify.com/album/4xc1E3kAL5NVRpqb5JwyDF) | 6:08 |
-| 50 | [Adeus \- Acústico](https://open.spotify.com/track/2BPotMeeXclPu1i3ED3hVf) | [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Adeus \(Acústico\)](https://open.spotify.com/album/2LOyjuXvgbIZRnJR1nUcXO) | 3:26 |
+| 37 | [Abraça\-me \(Voz e Violão Ao Vivo\)](https://open.spotify.com/track/5q2f5otksq3o7b7yRF8rC2) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Abraça\-me \(Voz e Violão Ao Vivo\)](https://open.spotify.com/album/7ouRGD0N8jSLBKa94B2BdH) | 3:27 |
+| 38 | [Dono da Minha Vida](https://open.spotify.com/track/6DVWz89s1uxQzhoQ4M8puX) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Dono da Minha Vida](https://open.spotify.com/album/09LxDRpvBBt9cnPeJVXBko) | 3:49 |
+| 39 | [Quem Acreditou? \(Ao Vivo\)](https://open.spotify.com/track/5ESf40WGVTv450A0onhMvq) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Quem Acreditou? \(Ao Vivo\)](https://open.spotify.com/album/7ikzr3qltQbxeZbk1RPBQE) | 4:29 |
+| 40 | [Cicatrizes \(Voz e Violão Ao Vivo\)](https://open.spotify.com/track/2mehysgajWZQDDXXEdqekc) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Cicatrizes \(Voz e Violão Ao Vivo\)](https://open.spotify.com/album/5NTe2rnaFyBrX4OksiUIvE) | 3:58 |
+| 41 | [Derramaria](https://open.spotify.com/track/6DeLXcaLGkqwuZv1UeHKQM) | [BENITO](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [Derramaria](https://open.spotify.com/album/242XcODrGXHcm3oX20MYjH) | 4:30 |
+| 42 | [Enredo](https://open.spotify.com/track/3HbMzYXjMj7q7vRVQzLu7U) | [Dani Ramalho](https://open.spotify.com/artist/5ROPaT19WX6VxHSHHSGsXe), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [TAIOLI](https://open.spotify.com/artist/0tP7dJbLOlpbdFmQCTbSXu) | [Enredo](https://open.spotify.com/album/45kS47qtEiGnkN5SjyEOAE) | 3:53 |
+| 43 | [DE VOLTA AO COMEÇO](https://open.spotify.com/track/4CccBC1gN6BpGp7qYwj2En) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [DE VOLTA AO COMEÇO](https://open.spotify.com/album/6oMi9R1NXc7gWxRN7K0bHX) | 4:50 |
+| 44 | [Deus Vê \- Live Session](https://open.spotify.com/track/4CZMcJdXv9dLnYAxbDDIX4) | [Lis Avancini](https://open.spotify.com/artist/30ywC9c3B3POkE02OXf2nE) | [Deus Vê \(Live Session\)](https://open.spotify.com/album/31XEszezwLZOjj3utOBnz0) | 4:01 |
+| 45 | [Me Deixe Adorar](https://open.spotify.com/track/04a77qahA1c9F6HkUplAav) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Me Deixe Adorar](https://open.spotify.com/album/2VXPxErzH5wndYnCIr6QZX) | 3:52 |
+| 46 | [Lugar de Paz](https://open.spotify.com/track/22e8AgotbI4iyDrsNSBdWJ) | [Aurelina Dourado](https://open.spotify.com/artist/3ABdO3aidrv4Ps6WFJqOwz) | [Lugar de Paz](https://open.spotify.com/album/5vsIWqvHRUVZTB7B2ZG3TS) | 3:17 |
+| 47 | [Imperativo Categórico](https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [Imperativo Categórico](https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0) | 2:34 |
+| 48 | [Preparem o Caminho](https://open.spotify.com/track/4qjuwx4exGGzYSNGpLTrH2) | [Sarah Lanza](https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J) | [Preparem o Caminho](https://open.spotify.com/album/4xc1E3kAL5NVRpqb5JwyDF) | 6:08 |
+| 49 | [Adeus \- Acústico](https://open.spotify.com/track/2BPotMeeXclPu1i3ED3hVf) | [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Adeus \(Acústico\)](https://open.spotify.com/album/2LOyjuXvgbIZRnJR1nUcXO) | 3:26 |
 
-Snapshot ID: `AAAAAGFkXE5T02vjpjKkMW/+OcypeQRZ`
+Snapshot ID: `AAAAADZDU4Q/TaVlWVnF6mzUWRshixKX`

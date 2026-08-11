@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 49 | [Amen](https://open.spotify.com/track/5zYCXLfTdGAll7Ijoc2Llm) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Behind Closed Doors](https://open.spotify.com/album/2xR9pfkpOoqjqLj3APBcZ1) | 3:12 |
 | 50 | [Holy](https://open.spotify.com/track/5kje42RAjDsJlKpN4OezWL) | [Dave Lofts](https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb) | [Holy](https://open.spotify.com/album/4eXbnV8FXwsq70sKvLM1YR) | 3:19 |
 | 51 | [California \- TRU Concept Remix](https://open.spotify.com/track/6jXW2nHRS53cJmlED5PsGC) | [ROOKIES](https://open.spotify.com/artist/0JvtoI1m1MFbXukBpztHK8), [TRU Concept](https://open.spotify.com/artist/0i8byW08EV6y7Dv9gDPUCF) | [California \(TRU Concept Remix\)](https://open.spotify.com/album/5CcqCvkGG0mNtq736gT79s) | 3:20 |
-| 52 | [Bridges](https://open.spotify.com/track/1i5jdHutOev5pxMZCiZ9OU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:20 |
-| 53 | [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 |
+| 52 | [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 |
+| 53 | [Bridges](https://open.spotify.com/track/1i5jdHutOev5pxMZCiZ9OU) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:20 |
 | 54 | [Stay](https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Stay](https://open.spotify.com/album/6E2VmkOih43z49pVr5WNQK) | 3:04 |
 | 55 | [Half A Man](https://open.spotify.com/track/4EebHwo2KUzB75cl0WSZgi) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:25 |
 | 56 | [One Look \- Solo Piano Version](https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:18 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 113 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 114 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcZJgAAAAADnxHYM70XCtkRwesQiXNpu`
+Snapshot ID: `AcZPKgAAAADWa8U5Tt4p0kpWe1iGKPI+`

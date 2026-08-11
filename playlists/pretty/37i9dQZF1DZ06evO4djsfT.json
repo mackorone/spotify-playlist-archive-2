@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29016,
+  "num_followers": 29014,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAA2CR4XYN1/JvLJ1PTqiY00",
+  "snapshot_id": "anfDAAAAAABAuApJCwwJG6LyjuZ4nA6Z",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yes",
-        "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 179527,
-      "name": "Yes",
-      "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
+      "duration_ms": 161856,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
     },
     {
       "added_at": null,
@@ -315,22 +311,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
         },
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 161856,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
+      "duration_ms": 179527,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
     },
     {
       "added_at": null,
@@ -355,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold Me Back",
-        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
       "artists": [
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 223107,
-      "name": "Hold Me Back",
-      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
+      "duration_ms": 170761,
+      "name": "Who the Son Sets Free",
+      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
     },
     {
       "added_at": null,
@@ -395,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 170761,
-      "name": "Who the Son Sets Free",
-      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Prodigal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 156480,
       "name": "Prove It",
       "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold Me Back",
+        "url": "https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 223107,
+      "name": "Hold Me Back",
+      "url": "https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3"
     },
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II (Deluxe)",
-        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 177664,
-      "name": "It Ain't Safe",
-      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eagle",
         "url": "https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 210507,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II (Deluxe)",
+        "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 177664,
+      "name": "It Ain't Safe",
+      "url": "https://open.spotify.com/track/4prm1PK1B7a2j8ELfro1rB"
     }
   ],
   "unique_name": "This Is KB",

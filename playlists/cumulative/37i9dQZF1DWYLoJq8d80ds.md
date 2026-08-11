@@ -2,9 +2,9 @@
 
 ### [Baile Campero](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> El campo suena fuerte\. Sumate a la fiesta\. Foto: Lázaro Caballero
+> El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-225 songs - 12 hr 34 min
+227 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [León Herido](https://open.spotify.com/track/1NozLbd1xBSHigq4yWbrJi) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [TERNURA FOLK](https://open.spotify.com/album/6JltHrY2RjHdorEy3bFwye) | 3:56 | 2026-07-20 |  |
 | [Linda](https://open.spotify.com/track/2sSdotDRgZjEz67CJAUg0o) | [Angelo Aranda](https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz) | [Linda](https://open.spotify.com/album/3lo7VnT4ZTWfE239uafnK8) | 3:11 | 2026-07-20 |  |
 | [Lindo Adorno Pa' Mi Apero](https://open.spotify.com/track/3sw3aFLZLIoZDUjVaIuJqs) | [Lázaro Caballero](https://open.spotify.com/artist/3KwYcQJwieAX356xu883lc) | [Soy lo Que Canto](https://open.spotify.com/album/3vGg8mrk4xejh8nyOr0M1z) | 3:25 | 2026-07-20 |  |
+| [Llora El Algarrobo](https://open.spotify.com/track/1lZW59e8PvB83uoJBRuyht) | [Angelo Aranda](https://open.spotify.com/artist/2POxd8HkITwIlGFlqmm6Gz) | [Llora El Algarrobo](https://open.spotify.com/album/27nqwCB1Ma05TtWGX8I2mH) | 2:44 | 2026-08-10 |  |
 | [Lluvia](https://open.spotify.com/track/5cYth5JAOgE7bYW1dtGlSl) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba Lopez](https://open.spotify.com/artist/3l3XAAFEthDxTpUtA5p3cZ) | [Vivir](https://open.spotify.com/album/1XJoy7s9d3U5C1WyYrMkjN) | 3:32 | 2023-10-20 | 2024-04-19 |
 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 | 2021-12-31 | 2024-07-13 |
 | [Lo Intentamos](https://open.spotify.com/track/62pEsS5D4lYkkBRyhDxKRN) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:01 | 2022-02-25 | 2022-10-08 |
@@ -172,6 +173,7 @@
 | [Por El Contrario](https://open.spotify.com/track/4u1j5q4bDebICgwPyrZ2P6) | [Tunay](https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4), [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Por El Contrario](https://open.spotify.com/album/7FQW7bnaVRgPTVPM6Z71WY) | 3:46 | 2024-11-22 | 2026-07-21 |
 | [Por Tu Querer](https://open.spotify.com/track/6cyjG51eS5wNBClG2ggkPX) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Por Tu Querer](https://open.spotify.com/album/5DFw7CUGXg9RiMxU1NVGke) | 2:29 | 2023-10-05 | 2026-07-21 |
 | [Primavera \(with Franco Luciani\)](https://open.spotify.com/track/3Bg0CkhlKicxlarJMubrju) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 5:04 | 2021-12-31 | 2026-07-21 |
+| [Punto Final / ¿Qué Hacemos, Qué Hacemos?](https://open.spotify.com/track/3k9UeD2AVJwGo9APj2hAHP) | [Tunay](https://open.spotify.com/artist/2DOko7nsPsOifCkDahE8o4) | [Punto Final / ¿Qué Hacemos, Qué Hacemos?](https://open.spotify.com/album/1DQaUVcbnHQb8DQzROrJie) | 3:45 | 2026-08-10 |  |
 | [Píntame de Azul](https://open.spotify.com/track/42JmlitcqfYsUmDwgDMjQ1) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Píntame de Azul](https://open.spotify.com/album/21A8zImrUqeHr0x9jK9Y8O) | 3:50 | 2021-12-31 | 2026-07-21 |
 | [Que Agonía](https://open.spotify.com/track/5cGd8Jl9Sd1u1fP8X7T8XE) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD) | [Que Agonía](https://open.spotify.com/album/2D11vgrigxDzzVp8dLukqd) | 2:56 | 2026-07-20 |  |
 | [Que Pasó](https://open.spotify.com/track/0pGUeNK8sRrr6K6mt4jWmB) | [Paquito Ocaño El Dueño de la Bailanta](https://open.spotify.com/artist/0R3DEo6gzaZO8j5RWm3b0S), [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Que Pasó](https://open.spotify.com/album/3LYIjlH1k8SG6Mrhu7eehs) | 2:57 | 2026-07-20 |  |

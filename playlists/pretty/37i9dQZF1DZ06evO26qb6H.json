@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3325,
+  "num_followers": 3326,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAf4Nal7ZZsFzjPto2Gtb9L",
+  "snapshot_id": "anfDAAAAAADkuIsyjDCg53aNOh0AkuFN",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 153546,
-      "name": "Seattle",
-      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
+      "duration_ms": 138680,
+      "name": "Same Niggas",
+      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 138680,
-      "name": "Same Niggas",
-      "url": "https://open.spotify.com/track/5QKOme2dkvt6P3J0makF7b"
+      "duration_ms": 153546,
+      "name": "Seattle",
+      "url": "https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu"
     },
     {
       "added_at": null,
@@ -611,30 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "420 in London",
-        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "420 in London",
-      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/0ZrJErz3iGVMuEf8TPZNox"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 207230,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/6czMVryRhYgdMJz47iki8s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "420 in London",
+        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "420 in London",
+      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
     },
     {
       "added_at": null,
@@ -731,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 180609,
+      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culture Jam Presents: Legend In My Hood",
         "url": "https://open.spotify.com/album/4Bvbm845mhiltIsO6stBPc"
       },
@@ -759,30 +783,6 @@
       "duration_ms": 153529,
       "name": "Eye Spy (feat. Nardo Wick, Key Glock, Tay Keith & Murda Beatz)",
       "url": "https://open.spotify.com/track/21DBRZQmH2RIkI7pZybCiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 180609,
-      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eat It Uh",
-        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Eat It Uh",
-      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eat It Uh",
+        "url": "https://open.spotify.com/album/4uTwrDdiUyyYR8fNtp3jnr"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Eat It Uh",
+      "url": "https://open.spotify.com/track/61lsu3ZWd1JIoE4vUmusLa"
     },
     {
       "added_at": null,

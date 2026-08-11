@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,287 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,290 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ckjnz.md) - [plain]
 | 49 | [HOT WHEELS \(feat\. Rico Nasty\)](https://open.spotify.com/track/5CkNM9mYFcVXy8gUmNgN2I) | [chase usa](https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [HOT WHEELS \(feat\. Rico Nasty\)](https://open.spotify.com/album/39vJGX31o5xywlSVV5HPj3) | 3:09 |
 | 50 | [Bitch I'm Nasty](https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nasty](https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1) | 1:31 |
 
-Snapshot ID: `anZxgAAAAACBMXk8V9v8puKecBeoJnK7`
+Snapshot ID: `anfDAAAAAADxniqw3XIZm+SUL4Xw0fez`

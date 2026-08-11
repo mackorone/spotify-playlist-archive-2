@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,741 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,784 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 62 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
 | 63 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 |
 | 64 | [BODY BAG](https://open.spotify.com/track/63f24av3B364sOS3oXoGL0) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BODY BAG](https://open.spotify.com/album/48NNeH33UfKEnvCJWmi7vt) | 3:06 |
-| 65 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
-| 66 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 |
+| 65 | [Deep End](https://open.spotify.com/track/25xNO6EC6RPmBpBZOblOOW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Deep End](https://open.spotify.com/album/15GDnzPjBsyWwHvQDxUtD1) | 2:44 |
+| 66 | [Animals](https://open.spotify.com/track/6ahe2frEbhctgsB30lHDwp) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Animals](https://open.spotify.com/album/3UhL83nAIrGB188dxKzlsv) | 2:11 |
 | 67 | [BE QUIET AND DRIVE \(FAR AWAY\)](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [BE QUIET AND DRIVE \(FAR AWAY\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 |
 | 68 | [Sing To Me](https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [DEATH STRANDING: Timefall \(Original Music from the World of Death Stranding\)](https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3) | 3:09 |
 | 69 | [Drinking with Cupid](https://open.spotify.com/track/7dooLmazlQIYM9Wo7FRQR7) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Drinking with Cupid](https://open.spotify.com/album/7nOgBpquyvxeBgbgowVUJD) | 2:52 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 73 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 |
 | 74 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
 | 75 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
-| 76 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 |
-| 77 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 |
+| 76 | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 |
+| 77 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 |
 | 78 | [Bones](https://open.spotify.com/track/0DqJsme3z2r2kPGTti68gf) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bones](https://open.spotify.com/album/67WHRHvdMPplrsSc4KtMfB) | 2:49 |
 | 79 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
 | 80 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 91 | [Death Do Us Part](https://open.spotify.com/track/4cfydDE0vCCa0MMBd2EPwm) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death Do Us Part](https://open.spotify.com/album/6olQpH499EQGaUWo2ZkNIr) | 2:59 |
 | 92 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 |
 | 93 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
-| 94 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
-| 95 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
+| 94 | [so wrong \(so right!\)](https://open.spotify.com/track/4TiLrA7d8ZrJ2lPk7gIB4B) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [EYEBLEACH.](https://open.spotify.com/album/6njyjOMLRjiM3ZAOIIEZlb) | 1:46 |
+| 95 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
 | 96 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
 | 97 | [Young As This](https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Young As This](https://open.spotify.com/album/1b079FK9FKg2QFt24llds8) | 2:48 |
 | 98 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
 | 99 | [Pool Scene](https://open.spotify.com/track/7mgfQPMLFRC5grfunmZY9r) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Conditions III](https://open.spotify.com/album/2VNwMwgB3XbKeJh3sCsrpR) | 4:58 |
 | 100 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 
-Snapshot ID: `AAAAAFMJuCdzF+m862b9elbjIwwhmoaA`
+Snapshot ID: `AAAAAHJe5zo9palmQN0AngogZ1tO1RMi`

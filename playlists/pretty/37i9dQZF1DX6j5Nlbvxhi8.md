@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain]
 | 49 | [Star](https://open.spotify.com/track/1z4lnvupPn8fvR1zR36K18) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Gen](https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch) | 2:41 |
 | 50 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
 
-Snapshot ID: `AAAAAHhE/VCjbyGkpjhcxnDOjJNQOHLg`
+Snapshot ID: `AAAAAMTTds5J5icyvOU9kY4Xux1gf0i2`

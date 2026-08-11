@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,086 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,170 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 17 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX), [Romeo Lahoud](https://open.spotify.com/artist/35q5pUUhyxCWdRVDTaAOta) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
 | 18 | [Akdeb Aleik Live](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Aleik Live](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
 | 19 | [Baeed Annak](https://open.spotify.com/track/6T1DN5RJyKOXH8TwIMizJZ) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Best Of Umm Kulthum 1](https://open.spotify.com/album/5Y0Gq6g4awj8woRvOiJZ3I) | 38:22 |
-| 20 | [Baddi Choufik Koul Yom](https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug), [Michel Tohme](https://open.spotify.com/artist/2gtAW56RYK5D8WsCW0dneG) | [Best of Mohamed Jamal, Vol\. 2](https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU) | 4:32 |
-| 21 | [علي رمش عيونها](https://open.spotify.com/track/1oEVDEISjcVi6vfgoxRDKQ) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [احلي ما غني وديع الصافي](https://open.spotify.com/album/4VGKoa5R2usWUVP3H1OPkv) | 5:44 |
-| 22 | [Zourouni Kouli Sanah Marah](https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE) | [Sayed Darwish](https://open.spotify.com/artist/71JpZH64gTrr2Wec59WvNr) | [Best of Sayed Darwish](https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw) | 2:21 |
+| 20 | [علي رمش عيونها](https://open.spotify.com/track/1oEVDEISjcVi6vfgoxRDKQ) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [احلي ما غني وديع الصافي](https://open.spotify.com/album/4VGKoa5R2usWUVP3H1OPkv) | 5:44 |
+| 21 | [Zourouni Kouli Sanah Marah](https://open.spotify.com/track/5ZULv6JBpj8eS4T2Pa4UVE) | [Sayed Darwish](https://open.spotify.com/artist/71JpZH64gTrr2Wec59WvNr) | [Best of Sayed Darwish](https://open.spotify.com/album/3g8S82iCa6UjsiYDe8rDxw) | 2:21 |
+| 22 | [Baddi Choufik Koul Yom](https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug), [Michel Tohme](https://open.spotify.com/artist/2gtAW56RYK5D8WsCW0dneG) | [Best of Mohamed Jamal, Vol\. 2](https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU) | 4:32 |
 | 23 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayeb](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 |
 | 24 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 |
 | 25 | [Ya Mesafer Wahdak](https://open.spotify.com/track/5iZMoYx762iNo2aczQhVze) | [Mohammed Abdel Wahab](https://open.spotify.com/artist/6EOZim46RHGGWpKqsD6OOG) | [Aghany Film Mamnoa El Hob Pt.1](https://open.spotify.com/album/2yPvwAEw0qkp0NF0HqRxRp) | 7:28 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 35 | [Laktob Aourak El Chagar](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Hikayet El Omr Kolloh \- Zaman Ya Hob](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 |
 | 36 | [Ana Moush Kafer \- 2008 Remastered](https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:03 |
 | 37 | [Tal el\-sahar \- Remastered](https://open.spotify.com/track/0D5ymfVlEIhttb3P3lZYmP) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 3:23 |
-| 38 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B), [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
+| 38 | [Ana Alby Daleely](https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At) | [Laila Mourad](https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc) | [Agmal Aghany Laila Mourad](https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw) | 5:32 |
 | 39 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
 | 40 | [Hebbina Hebbina](https://open.spotify.com/track/0y8xuNb76WLCH5BbSz0XNU) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 7:33 |
-| 41 | [Ana Alby Daleely](https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At) | [Laila Mourad](https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc) | [Agmal Aghany Laila Mourad](https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw) | 5:32 |
+| 41 | [Ya Sarek Makatibi](https://open.spotify.com/track/4VOLru5DYEpm5jUTsT7OwN) | [Pascale Sakr](https://open.spotify.com/artist/3C0eerDETbEk4rjuAjss0B), [Elias Rahbani](https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS) | [Pascale Sakr Sings Elias Rahbani](https://open.spotify.com/album/1Wv3Yu06c6UV2B3ZYzd3Ab) | 6:32 |
 | 42 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
 | 43 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 |
 | 44 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 89 | [Bezkor Min Zaman](https://open.spotify.com/track/2J8Hv5n1bhChym2jRmkh2D) | [Joseph Nassif](https://open.spotify.com/artist/35VaEMzsyBIfcJl8MsWR6F) | [Rahbaniyat, Vol\. 3](https://open.spotify.com/album/2F0BJE1hHzG41WH6ExveJm) | 3:01 |
 | 90 | [Khedni Habibi](https://open.spotify.com/track/00Q8xst1sgasT8a4O7pXrm) | [Majida El Roumi](https://open.spotify.com/artist/1FcYCSOydUCgoauspPwypS) | [Best Of Magida El Roumi Vol.1](https://open.spotify.com/album/7helIvwqlQOERqtOidRIvi) | 9:06 |
 
-Snapshot ID: `AAAAACFRLBhdyvW7rf66arHy1J/iQGnv`
+Snapshot ID: `AAAAANLZHJvHgl3rqGb68CgYJTJBQSXS`

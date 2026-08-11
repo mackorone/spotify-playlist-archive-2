@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Calzones en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,187 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,221 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 51 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
 | 52 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 |
 | 53 | [Resistiré](https://open.spotify.com/track/2yV2H6tLETd64BapUezE95) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Jaula De Grillos](https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82) | 4:17 |
-| 54 | [Impura](https://open.spotify.com/track/6nzYm2iQKGrui6A1k5GVok) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Fuegos del barrio](https://open.spotify.com/album/4Xq4HVyPAewLj2LnKAY0WB) | 3:38 |
-| 55 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
+| 54 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
+| 55 | [Impura](https://open.spotify.com/track/6nzYm2iQKGrui6A1k5GVok) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Fuegos del barrio](https://open.spotify.com/album/4Xq4HVyPAewLj2LnKAY0WB) | 3:38 |
 | 56 | [Pachuco \- En Vivo en el Foro Sol \- 17.11.17](https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), ["Sax" Maldita Vecindad](https://open.spotify.com/artist/2eS8sUGABAZ6um3P2gfhBq) | [Pachuco \(feat\. "Sax" Maldita Vecindad \- en Vivo en el Foro Sol \- 17.11.17\)](https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC) | 3:56 |
 | 57 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
 | 58 | [El asesino del tiempo](https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p) | [Dinamo](https://open.spotify.com/artist/64joRc8km0DL1f5hgPhv7n) | [Desequilibrio](https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [¡Hey Tú!](https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [¡Hey Tú!](https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM) | 3:12 |
 | 100 | [Todo Crazy](https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Triciclo Circus Band](https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt) | [Todo Crazy](https://open.spotify.com/album/1xwLD4K1UR04tqUKcAYy9a) | 2:55 |
 
-Snapshot ID: `AAAAAMME5lMhSkrtioJe9g7XSW0QnT3I`
+Snapshot ID: `AAAAAIpNn/Lm50sRz3EqR9/x5cMig3cA`

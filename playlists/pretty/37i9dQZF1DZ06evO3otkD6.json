@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 94816,
+  "num_followers": 94835,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACz5wbPc16ynkLaMXN49Itm",
+  "snapshot_id": "anfDAAAAAAB5Ni0LUNbigdpExOeR//Ed",
   "tracks": [
     {
       "added_at": null,
@@ -1007,26 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frijolero",
-        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
+        "name": "No Estamos Tan Locos",
+        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
       },
       "artists": [
         {
-          "name": "Somos Frijoleros",
-          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 213947,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
+      "duration_ms": 206354,
+      "name": "No Estamos Tan Locos",
+      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
     },
     {
       "added_at": null,
@@ -1047,22 +1043,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Estamos Tan Locos",
-        "url": "https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3"
+        "name": "Frijolero",
+        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
         },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 206354,
-      "name": "No Estamos Tan Locos",
-      "url": "https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17"
+      "duration_ms": 213947,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
     },
     {
       "added_at": null,

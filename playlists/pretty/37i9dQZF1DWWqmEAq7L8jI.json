@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 RUGGERO",
-  "num_followers": 279288,
+  "num_followers": 279287,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADDdcoHKALT9DcYeZ2zPyFMBwVfz",
+  "snapshot_id": "AAAAAPLCJ4O/tUNV9RvklCNott3YN/Zd",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:08",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "Miranda Es Imposible!",
+        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "Miranda Es Imposible!",
-        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Tu Misterioso Alguien",
-      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Djadja (feat. Maluma) [Remix]",
         "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 166850,
       "name": "Djadja (feat. Maluma) - Remix",
       "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "Desastres Fabulosos",
+        "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Desastres Fabulosos",
+      "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "T\u00fa Me Dejaste De Querer",
         "url": "https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2"
       },
@@ -1043,26 +1063,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Desastres Fabulosos",
-        "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Desastres Fabulosos",
-      "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "BAIL\u00c9 CON MI EX",
         "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 161867,
       "name": "BAIL\u00c9 CON MI EX",
       "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "La del Primer Puesto",
-        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "La del Primer Puesto",
-      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1115,6 +1095,26 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "La del Primer Puesto",
+        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "La del Primer Puesto",
+      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "1313",
+        "url": "https://open.spotify.com/album/1zWZlasiNxxLSqRtjL48au"
+      },
+      "artists": [
+        {
+          "name": "Q_ARE",
+          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
+        }
+      ],
+      "duration_ms": 141177,
+      "name": "1313",
+      "url": "https://open.spotify.com/track/1yRiznUykpaj2jR27sU8fD"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "+ Te Vale",
         "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 144732,
       "name": "+ Te Vale",
       "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "1313",
-        "url": "https://open.spotify.com/album/1zWZlasiNxxLSqRtjL48au"
-      },
-      "artists": [
-        {
-          "name": "Q_ARE",
-          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
-        }
-      ],
-      "duration_ms": 141177,
-      "name": "1313",
-      "url": "https://open.spotify.com/track/1yRiznUykpaj2jR27sU8fD"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Una Noche Contigo",
-        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "Una Noche Contigo",
-      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "Mil disparos",
+        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 211231,
+      "name": "Mil disparos",
+      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -1607,18 +1623,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Mil disparos",
-        "url": "https://open.spotify.com/album/3tQVq7HJ90ltyq62mbW1pW"
+        "name": "La despedida",
+        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
         }
       ],
-      "duration_ms": 211231,
-      "name": "Mil disparos",
-      "url": "https://open.spotify.com/track/790Nbo53yln8hzaYVGPmAO"
+      "duration_ms": 214928,
+      "name": "La despedida",
+      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1671,26 +1691,6 @@
       "duration_ms": 135000,
       "name": "SABOR TROPICAL",
       "url": "https://open.spotify.com/track/3GHiyB261wDZ0idCCyPMGw"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "La despedida",
-        "url": "https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        },
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 214928,
-      "name": "La despedida",
-      "url": "https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "Tan f\u00e1cil",
+        "url": "https://open.spotify.com/album/2Mc3okZIvTnW3vXikb4rzN"
+      },
+      "artists": [
+        {
+          "name": "K4OS",
+          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Tan f\u00e1cil",
+      "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/00V6VizOVi4q0XTlC1MOgM"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 222083,
       "name": "Ni\u00f1a",
       "url": "https://open.spotify.com/track/7p2DcY1E4IcPxCi1dxYfpX"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "Tan f\u00e1cil",
-        "url": "https://open.spotify.com/album/2Mc3okZIvTnW3vXikb4rzN"
-      },
-      "artists": [
-        {
-          "name": "K4OS",
-          "url": "https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Tan f\u00e1cil",
-      "url": "https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1835,22 +1835,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "monumento..",
-        "url": "https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl"
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
       "artists": [
         {
-          "name": "Broke Carrey",
-          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         },
         {
-          "name": "Coc\u00f3",
-          "url": "https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 170904,
-      "name": "monumento..",
-      "url": "https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s"
+      "duration_ms": 232693,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
     }
   ],
   "unique_name": "Radio Pop",

@@ -1,12 +1,12 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 214005,
+  "num_followers": 214015,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOM4KTQGcHGChAPDumSKjk9GfaDV",
+  "snapshot_id": "AAAAAPk3j8LXkNe6Fb0erCo2799aH+87",
   "tracks": [
     {
       "added_at": "2025-01-17 05:01:06",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Cycles",
-        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
-      },
-      "artists": [
-        {
-          "name": "The Last Days of Our Past",
-          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
-        }
-      ],
-      "duration_ms": 291583,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Soothe & Sleep, Vol.8",
         "url": "https://open.spotify.com/album/2yiJFBbopCgNQ83QgBS73s"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 220327,
       "name": "Flow in the Back",
       "url": "https://open.spotify.com/track/0ai02yrtWgFDHrNN8VQHOC"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/6b0k4pryDUm5lneoKhX8mD"
+      },
+      "artists": [
+        {
+          "name": "The Last Days of Our Past",
+          "url": "https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX"
+        }
+      ],
+      "duration_ms": 291583,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/1Ocs34KuEsoPtYLv071mk7"
     },
     {
       "added_at": "2024-09-06 00:00:04",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Any Coop Will Do",
-        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
-      },
-      "artists": [
-        {
-          "name": "Dream Trees",
-          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "Ichneumonidae",
-      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Any Coop Will Do",
+        "url": "https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF"
+      },
+      "artists": [
+        {
+          "name": "Dream Trees",
+          "url": "https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "Ichneumonidae",
+      "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Tilting On Windmills",
-        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 498065,
-      "name": "Tilting On Windmills",
-      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Nothing Is Objective",
         "url": "https://open.spotify.com/album/5zampteQ8wridsIc1jU4pu"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 386853,
       "name": "Nothing Ends 2018",
       "url": "https://open.spotify.com/track/7gKirx9P6EHXNR6mMOSgvP"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Tilting On Windmills",
+        "url": "https://open.spotify.com/album/0EUkYGPFu3duNURukbpleg"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 498065,
+      "name": "Tilting On Windmills",
+      "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
     },
     {
       "added_at": "2024-09-01 14:43:43",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI"
     },
     {
-      "added_at": "2023-12-12 18:06:55",
-      "album": {
-        "name": "Twin Color (Extended Play No. 1)",
-        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 358124,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/2o7fSWiT3vOVJEeJj8lQJE"
-    },
-    {
       "added_at": "2023-04-21 14:41:23",
       "album": {
         "name": "Goatherder",
@@ -987,6 +971,22 @@
       "duration_ms": 239794,
       "name": "Landlocked",
       "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
+    },
+    {
+      "added_at": "2023-12-12 18:06:55",
+      "album": {
+        "name": "Twin Color (Extended Play No. 1)",
+        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 358124,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/2o7fSWiT3vOVJEeJj8lQJE"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Recuerdos del Futuro",
-        "url": "https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU"
-      },
-      "artists": [
-        {
-          "name": "Ishtarka",
-          "url": "https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo"
-        }
-      ],
-      "duration_ms": 235555,
-      "name": "Recuerdos del Futuro",
-      "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/4PL0vCcUTMBli1DuLJa8ge"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 401149,
       "name": "Understanding",
       "url": "https://open.spotify.com/track/2JXPq9pvPiQo2edh6ikySv"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Recuerdos del Futuro",
+        "url": "https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU"
+      },
+      "artists": [
+        {
+          "name": "Ishtarka",
+          "url": "https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo"
+        }
+      ],
+      "duration_ms": 235555,
+      "name": "Recuerdos del Futuro",
+      "url": "https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Soundtracks: Capri-Revolution",
-        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
-      },
-      "artists": [
-        {
-          "name": "Apparat",
-          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
-        }
-      ],
-      "duration_ms": 183063,
-      "name": "Silia",
-      "url": "https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sublunar Oracles",
         "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
       },
@@ -1183,6 +1167,38 @@
       "duration_ms": 566333,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
+    },
+    {
+      "added_at": "2024-05-30 01:04:31",
+      "album": {
+        "name": "Even Stars Explode",
+        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 211252,
+      "name": "Even Stars Explode",
+      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Soundtracks: Capri-Revolution",
+        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
+      },
+      "artists": [
+        {
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        }
+      ],
+      "duration_ms": 183063,
+      "name": "Silia",
+      "url": "https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1207,6 +1223,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+      },
+      "artists": [
+        {
+          "name": "Picnic",
+          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+        }
+      ],
+      "duration_ms": 436796,
+      "name": "Plush Hooves",
+      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1227,34 +1259,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Picnic",
-        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
+        "name": "Die of The Waters",
+        "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
       },
       "artists": [
         {
-          "name": "Picnic",
-          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
+          "name": "Sharp Veins",
+          "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
         }
       ],
-      "duration_ms": 436796,
-      "name": "Plush Hooves",
-      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
-    },
-    {
-      "added_at": "2024-05-30 01:04:31",
-      "album": {
-        "name": "Even Stars Explode",
-        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Even Stars Explode",
-      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
+      "duration_ms": 186321,
+      "name": "Don't Forget",
+      "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Eternal Night",
-        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
-      },
-      "artists": [
-        {
-          "name": "Microhm",
-          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
-        }
-      ],
-      "duration_ms": 435004,
-      "name": "Stargazers",
-      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "A Biochemical Cascade",
         "url": "https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Die of The Waters",
-        "url": "https://open.spotify.com/album/6uOrCnQh7r07zYvsI8lYdf"
+        "name": "Eternal Night",
+        "url": "https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5"
       },
       "artists": [
         {
-          "name": "Sharp Veins",
-          "url": "https://open.spotify.com/artist/3GN93MWawjP5UtkbwnOtT2"
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
         }
       ],
-      "duration_ms": 186321,
-      "name": "Don't Forget",
-      "url": "https://open.spotify.com/track/5mZ8Uf5FH7Xp6hkolpHK7N"
+      "duration_ms": 435004,
+      "name": "Stargazers",
+      "url": "https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1335,6 +1335,22 @@
       "duration_ms": 74304,
       "name": "B3",
       "url": "https://open.spotify.com/track/3oL1cWdxaQR3fOY5LsscGc"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1367,22 +1383,6 @@
       "duration_ms": 328083,
       "name": "Everyone is Far Away",
       "url": "https://open.spotify.com/track/4fmMywOoOP53r34yowvadz"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Lost in Elastic Time",
-        "url": "https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh"
-      },
-      "artists": [
-        {
-          "name": "Microhm",
-          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
-        }
-      ],
-      "duration_ms": 638192,
-      "name": "Emerging from the Depths",
-      "url": "https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/3K3VQ3NSIZl79vMXgiZ3T3"
       },
@@ -1575,18 +1559,34 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Forget The Curse",
-        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
       "artists": [
         {
-          "name": "Troth",
-          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
         }
       ],
-      "duration_ms": 379573,
-      "name": "Phare",
-      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Lost in Elastic Time",
+        "url": "https://open.spotify.com/album/2yxorCaYTDEjcru4TEV1Rh"
+      },
+      "artists": [
+        {
+          "name": "Microhm",
+          "url": "https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN"
+        }
+      ],
+      "duration_ms": 638192,
+      "name": "Emerging from the Depths",
+      "url": "https://open.spotify.com/track/4tPSK7og1b48suaGv5I3wN"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1615,38 +1615,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Soundtracks: Capri-Revolution",
-        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
-      },
-      "artists": [
-        {
-          "name": "Apparat",
-          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
-        }
-      ],
-      "duration_ms": 195317,
-      "name": "Licidana",
-      "url": "https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Spheres (Original Score)",
-        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 223898,
-      "name": "Accretion Disk",
-      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Sketches of Nowhere",
         "url": "https://open.spotify.com/album/7KdbQqhvfhmXOTCkJj6bC2"
       },
@@ -1671,18 +1639,50 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Funny Morning",
-        "url": "https://open.spotify.com/album/33QUh3g9UqsgAuQ4NFrrAJ"
+        "name": "Forget The Curse",
+        "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
       },
       "artists": [
         {
-          "name": "Yuuki Matthews",
-          "url": "https://open.spotify.com/artist/3ZvTKmYi30W43Fv6GhMsgU"
+          "name": "Troth",
+          "url": "https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r"
         }
       ],
-      "duration_ms": 1177077,
-      "name": "Chrysanthemum (Slow)",
-      "url": "https://open.spotify.com/track/0p3YM9SmRloxrNHmzaK4J0"
+      "duration_ms": 379573,
+      "name": "Phare",
+      "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Spheres (Original Score)",
+        "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 223898,
+      "name": "Accretion Disk",
+      "url": "https://open.spotify.com/track/6slY6FHA1PynXmL0vZmXd3"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Soundtracks: Capri-Revolution",
+        "url": "https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ"
+      },
+      "artists": [
+        {
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        }
+      ],
+      "duration_ms": 195317,
+      "name": "Licidana",
+      "url": "https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii"
     }
   ],
   "unique_name": "Exospheres",

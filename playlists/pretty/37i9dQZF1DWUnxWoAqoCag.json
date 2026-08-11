@@ -1,12 +1,12 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 201765,
+  "num_followers": 201784,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGTt3qandxIfXENdMzPG93x5xG+l",
+  "snapshot_id": "AAAAAFhaoUDXnvx3jpDzmM0OwWiQp6Gv",
   "tracks": [
     {
       "added_at": "2026-08-05 09:44:18",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "lulu.",
-        "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 270626,
-      "name": "lulu.",
-      "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -739,6 +723,26 @@
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "\u9752\u3068\u590f",
+        "url": "https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        },
+        {
+          "name": "Sonoko Inoue",
+          "url": "https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ"
+        }
+      ],
+      "duration_ms": 307066,
+      "name": "\u70b9\u63cf\u306e\u5504",
+      "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -795,26 +799,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "\u9752\u3068\u590f",
-        "url": "https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        },
-        {
-          "name": "Sonoko Inoue",
-          "url": "https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ"
-        }
-      ],
-      "duration_ms": 307066,
-      "name": "\u70b9\u63cf\u306e\u5504",
-      "url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "JANE DOE",
         "url": "https://open.spotify.com/album/381FouVeKunSg1WZTnmryL"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 235946,
       "name": "JANE DOE",
       "url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "lulu.",
+        "url": "https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "lulu.",
+      "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "\u590f\u96f2\u30ce\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR"
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
       },
       "artists": [
         {
-          "name": "Sukima Switch",
-          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 328626,
-      "name": "\u594f(\u304b\u306a\u3067)",
-      "url": "https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG"
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+        "name": "\u590f\u96f2\u30ce\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
         }
       ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+      "duration_ms": 328626,
+      "name": "\u594f(\u304b\u306a\u3067)",
+      "url": "https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "THE BOOK",
         "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 248026,
       "name": "\u7fa4\u9752",
       "url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "\u6625\u6ce5\u68d2",
-        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
+        "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
         }
       ],
-      "duration_ms": 290289,
-      "name": "\u6625\u6ce5\u68d2",
-      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
+      "duration_ms": 201293,
+      "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
+        "name": "\u6625\u6ce5\u68d2",
+        "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 290289,
+      "name": "\u6625\u6ce5\u68d2",
+      "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
         "name": "\u30a8\u30b9\u30ab\u30d1\u30ec\u30fc\u30c9",
         "url": "https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 324633,
       "name": "115\u4e07\u30ad\u30ed\u306e\u30d5\u30a3\u30eb\u30e0",
       "url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
-        "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
-        "url": "https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11"
-      },
-      "artists": [
-        {
-          "name": "Snow Man",
-          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
-      "url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7F8ppyVavEzGbDHyKey3h3"
-      },
-      "artists": [
-        {
-          "name": "ARASHI",
-          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
-        }
-      ],
-      "duration_ms": 285459,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "Blue Jeans",
         "url": "https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 206706,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7F8ppyVavEzGbDHyKey3h3"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "duration_ms": 285459,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "LOVE COOK",
         "url": "https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 307833,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
       "url": "https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
     },
     {
       "added_at": "2026-08-05 09:44:18",

@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 203813,
       "name": "I Wasn\u2019t Gonna",
       "url": "https://open.spotify.com/track/7iFKTblH3I5rrjDxH518He"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 159066,
       "name": "Of Amber",
       "url": "https://open.spotify.com/track/6ENKxsltgcYUuQjjyJQA7s"
@@ -2671,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198932,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
+    },
+    {
+      "album": {
         "name": "THE ART OF BEING A MESS (DELUXE)",
         "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
       },
@@ -3150,7 +3168,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 213895,
       "name": "This Song",
       "url": "https://open.spotify.com/track/2k6FKrR0wDIs6xCtU51GZ7"

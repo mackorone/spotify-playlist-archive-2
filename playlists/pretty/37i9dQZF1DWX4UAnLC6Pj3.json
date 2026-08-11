@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Marca MP \ud83d\udcf8",
-  "num_followers": 1296628,
+  "num_followers": 1296612,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ6bXODElmcFuxLVrjSKIypW25ZZ",
+  "snapshot_id": "AAAAAFIS5Haa4tGvvD7P+gnuWDxvDTkK",
   "tracks": [
     {
       "added_at": "2026-07-31 08:27:18",
@@ -167,26 +167,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Aprend\u00ed La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 178808,
       "name": "Aprend\u00ed La Lecci\u00f3n",
       "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/7npasspM0YDNB2G0lcpenM"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Me Vas a Perder",
-        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 151168,
-      "name": "Me Vas a Perder",
-      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Fuiste Mi Todo",
         "url": "https://open.spotify.com/album/5iE3WdQEl4vsbluvr2nDFx"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Me Vas a Perder",
+        "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 151168,
+      "name": "Me Vas a Perder",
+      "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "Vete, Vete",
         "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 218426,
       "name": "Vete, Vete",
       "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "Me Las Dijo El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Se Cancela",
-      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -643,6 +627,22 @@
       "duration_ms": 198548,
       "name": "No Se Diga M\u00e1s",
       "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Me Las Dijo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Se Cancela",
+      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Legado Coleccion 1 Regrabado",
-        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 230965,
-      "name": "Mil Heridas",
-      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -863,34 +863,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+        "name": "Legado Coleccion 1 Regrabado",
+        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "Quien De Los Dos Sera",
-        "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Quien De Los Dos Sera",
-      "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+      "duration_ms": 230965,
+      "name": "Mil Heridas",
+      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Quien De Los Dos Sera",
+        "url": "https://open.spotify.com/album/5LJJAbIZiS4Uhhuz14T3wZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Quien De Los Dos Sera",
+      "url": "https://open.spotify.com/track/1egxofPbsHjfFo2eY9E7pJ"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "Ya Se Muri\u00f3",
         "url": "https://open.spotify.com/album/5llKBTyQq7WOAuqbEr2IAJ"
       },
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "No Me Vuelvo Enamorar",
         "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 171175,
       "name": "Te Quiero As\u00ed",
       "url": "https://open.spotify.com/track/0qtzYtLntMIT2rLmxrqbYg"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Ebrio de amor",
-        "url": "https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Ebrio de amor",
-      "url": "https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "De Rodillas Te Pido",
         "url": "https://open.spotify.com/album/3zbZyB06JwosvXu2FgVgV5"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Ebrio de amor",
+        "url": "https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Ebrio de amor",
+      "url": "https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "ME DERRITO (Banda)",
         "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
       },
@@ -1207,22 +1207,6 @@
       "duration_ms": 179000,
       "name": "ME DERRITO - Banda",
       "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "Todo Que Ver",
-        "url": "https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV"
-      },
-      "artists": [
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 185156,
-      "name": "Todo Que Ver",
-      "url": "https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Todo Que Ver",
+        "url": "https://open.spotify.com/album/6ozaArafEB0OcZ28oNUZJV"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 185156,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3AEtByTA2GdHNdZi6RAHBl"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "Lo Pongo En Tus Manos",
         "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 194291,
       "name": "Lo Pongo En Tus Manos",
       "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "Se Nos Acab\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
-      },
-      "artists": [
-        {
-          "name": "Banda Playa Grande",
-          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Se Nos Acab\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Finales Tristes",
-        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
+        "name": "Se Nos Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
       },
       "artists": [
         {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
         }
       ],
-      "duration_ms": 188971,
-      "name": "Finales Tristes",
-      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
+      "duration_ms": 216733,
+      "name": "Se Nos Acab\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1339,6 +1323,22 @@
       "duration_ms": 230933,
       "name": "Cari\u00f1ito - Live",
       "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Finales Tristes",
+        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 188971,
+      "name": "Finales Tristes",
+      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Como Me Haces Falta",
-        "url": "https://open.spotify.com/album/0ss7vkd2j4uJ13lKA3CSxW"
-      },
-      "artists": [
-        {
-          "name": "Me\u00f1o Segovia",
-          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Como Me Haces Falta",
-      "url": "https://open.spotify.com/track/26C8D69lTYNcxI3SY0sTLI"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "No He Avanzado Nada",
         "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 160605,
       "name": "No He Avanzado Nada",
       "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Como Me Haces Falta",
+        "url": "https://open.spotify.com/album/0ss7vkd2j4uJ13lKA3CSxW"
+      },
+      "artists": [
+        {
+          "name": "Me\u00f1o Segovia",
+          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Como Me Haces Falta",
+      "url": "https://open.spotify.com/track/26C8D69lTYNcxI3SY0sTLI"
     },
     {
       "added_at": "2026-07-31 08:27:18",

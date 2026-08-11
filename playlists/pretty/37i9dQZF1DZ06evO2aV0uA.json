@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 145692,
+  "num_followers": 145708,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACGRD3haJqN8Tm9/NE/josq",
+  "snapshot_id": "anfDAAAAAAD8YF7SiKazWLYxgl/NFkRT",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "As The Palaces Burn (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3d4wfa7dIdOJktclcAcNDy"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 226493,
-      "name": "Set To Fail",
-      "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
+      "duration_ms": 224093,
+      "name": "11th Hour",
+      "url": "https://open.spotify.com/track/0rrTOMo53BXiZsyBT4Gemo"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3d4wfa7dIdOJktclcAcNDy"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 224093,
-      "name": "11th Hour",
-      "url": "https://open.spotify.com/track/0rrTOMo53BXiZsyBT4Gemo"
+      "duration_ms": 226493,
+      "name": "Set To Fail",
+      "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
     },
     {
       "added_at": null,

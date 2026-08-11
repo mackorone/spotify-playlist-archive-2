@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,444 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,444 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 25 | [Looper](https://open.spotify.com/track/5tlWfIu4uaZthTMj7xKw8d) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:00 |
 | 26 | [It All Started With A Feeling](https://open.spotify.com/track/4kcSs54jWjtJW5jRSfUz2q) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 2:56 |
 | 27 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
-| 28 | [Say My Name](https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Say My Name](https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI) | 3:30 |
-| 29 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
+| 28 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
+| 29 | [Say My Name](https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Say My Name](https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI) | 3:30 |
 | 30 | [This Song Reminds Me Of You](https://open.spotify.com/track/0pBUqvtpmhEqFxuhQLur8P) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 3:54 |
 | 31 | [Vertigo](https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Vertigo](https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5) | 3:02 |
 | 32 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \(Demo\)](https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\] \(Demo\)](https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt) | 3:38 |
@@ -50,9 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 40 | [We Rise \- Jai Wolf Remix](https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Rise \(Jai Wolf Remix\)](https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW) | 3:08 |
 | 41 | [Red Eye \(feat\. rei brown\)](https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 4:43 |
 | 42 | [Half Hearted \- Demo](https://open.spotify.com/track/6gJE6XB52DP0TefBjpO3fh) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/33grfTaPLm4SqiDAavBFFv) | 4:54 |
-| 43 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
-| 44 | [This Space In My Heart Is for You](https://open.spotify.com/track/16xxB8ILPk98pe12CVrfSy) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk) | 1:35 |
+| 43 | [This Space In My Heart Is for You](https://open.spotify.com/track/16xxB8ILPk98pe12CVrfSy) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk) | 1:35 |
+| 44 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 |
 | 45 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 1:40 |
-| 46 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 
-Snapshot ID: `anZxgAAAAACBmhD80qYeLinwVuSqVvHV`
+Snapshot ID: `anfDAAAAAAD5iy7VhDdZi4H/LeYX2lsQ`

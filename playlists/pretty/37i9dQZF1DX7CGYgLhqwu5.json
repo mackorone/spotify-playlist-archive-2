@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALvwwADQB9VIahysWJ87kpvC6VmZ",
+  "snapshot_id": "AAAAADZ/k9Z72mtU36igkRSCquw93FFv",
   "tracks": [
     {
       "added_at": "2026-02-17 04:47:51",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+        "name": "The Essential Porter Wagoner",
+        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
       },
       "artists": [
         {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
         }
       ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
+      "duration_ms": 169200,
+      "name": "The Carroll County Accident",
+      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Essential Porter Wagoner",
-        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
       },
       "artists": [
         {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
         }
       ],
-      "duration_ms": 169200,
-      "name": "The Carroll County Accident",
-      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Very Best of\u2026",
-        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 123360,
-      "name": "Chug-A-Lug",
-      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "The Cold Hard Facts of Life",
         "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 192946,
       "name": "The Cold Hard Facts of Life",
       "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "The Very Best of\u2026",
+        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 123360,
+      "name": "Chug-A-Lug",
+      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Don't Let Me Cross Over",
-        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
+        "name": "The Other Woman",
+        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
       },
       "artists": [
         {
-          "name": "Carl Butler",
-          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 177106,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
+      "duration_ms": 168240,
+      "name": "Don't You Ever Get Tired of Hurting Me",
+      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Other Woman",
-        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
+        "name": "Don't Let Me Cross Over",
+        "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Carl Butler",
+          "url": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
         }
       ],
-      "duration_ms": 168240,
-      "name": "Don't You Ever Get Tired of Hurting Me",
-      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
+      "duration_ms": 177106,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Classic Country Gold",
-        "url": "https://open.spotify.com/album/7fpp1Q64fGPj0XXXh92ovu"
-      },
-      "artists": [
-        {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
-        }
-      ],
-      "duration_ms": 140160,
-      "name": "Walk On By",
-      "url": "https://open.spotify.com/track/3L5gEVVFs7aJD6gP7NGKoB"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 127106,
       "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
       "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "Classic Country Gold",
+        "url": "https://open.spotify.com/album/7fpp1Q64fGPj0XXXh92ovu"
+      },
+      "artists": [
+        {
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+        }
+      ],
+      "duration_ms": 140160,
+      "name": "Walk On By",
+      "url": "https://open.spotify.com/track/3L5gEVVFs7aJD6gP7NGKoB"
     },
     {
       "added_at": "2026-02-17 04:47:51",

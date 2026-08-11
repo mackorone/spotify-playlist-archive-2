@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 52810,
+  "num_followers": 52832,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACvL/whR3SIvHxaNcxxaEFP",
+  "snapshot_id": "anfDAAAAAAChDZB+RRlzBa/C80NOq5ym",
   "tracks": [
     {
       "added_at": null,
@@ -652,7 +652,7 @@
       "added_at": null,
       "album": {
         "name": "9 Lives",
-        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
+        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 149659,
-      "name": "Depression & Obsession",
-      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
+      "duration_ms": 194621,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
     },
     {
       "added_at": null,
@@ -716,7 +716,7 @@
       "added_at": null,
       "album": {
         "name": "9 Lives",
-        "url": "https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj"
+        "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 194621,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM"
+      "duration_ms": 149659,
+      "name": "Depression & Obsession",
+      "url": "https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8"
     },
     {
       "added_at": null,

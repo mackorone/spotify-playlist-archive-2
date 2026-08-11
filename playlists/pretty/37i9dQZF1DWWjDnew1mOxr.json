@@ -1,12 +1,12 @@
 {
   "description": "Music that means it. Cover: Yard Act",
-  "num_followers": 131604,
+  "num_followers": 131613,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANjA8T9Xbq+ZzFzlVxVZ0DPiEfqT",
+  "snapshot_id": "AAAAAJ6fQDmmDEsScKkhkFqmX335giXo",
   "tracks": [
     {
       "added_at": "2026-07-16 23:00:23",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
     },
     {
+      "added_at": "2026-08-06 19:29:28",
+      "album": {
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
       "added_at": "2026-07-16 23:00:23",
       "album": {
         "name": "Midas",
@@ -411,22 +427,6 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 193182,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -479,24 +479,8 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Meet Me In Love",
-        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 242248,
-      "name": "Meet Me In Love",
-      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
-    },
-    {
-      "added_at": "2026-08-06 19:29:28",
-      "album": {
-        "name": "7563",
-        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
       },
       "artists": [
         {
@@ -504,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 243302,
-      "name": "7563",
-      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+      "duration_ms": 193182,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -523,6 +507,22 @@
       "duration_ms": 159000,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Meet Me In Love",
+        "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 242248,
+      "name": "Meet Me In Love",
+      "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
     },
     {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 189009,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
-    },
-    {
       "added_at": "2026-08-06 19:29:28",
       "album": {
         "name": "Now We Can't Be Friends",
@@ -651,6 +635,22 @@
       "duration_ms": 209800,
       "name": "Now We Can't Be Friends",
       "url": "https://open.spotify.com/track/3s1mRFy9QxkQUqEx8tVGLs"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 189009,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/0ansLolwMuxl8ubtrFCfFe"
     },
     {
+      "added_at": "2026-08-06 19:29:28",
+      "album": {
+        "name": "Dobro",
+        "url": "https://open.spotify.com/album/1sI3ddpa7pZZvPfL0RHkTq"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 165258,
+      "name": "Dobro",
+      "url": "https://open.spotify.com/track/3tL4ZLFEXLcjJTkbdOwcjW"
+    },
+    {
       "added_at": "2026-07-16 23:00:23",
       "album": {
         "name": "Rushmere",
@@ -971,6 +987,54 @@
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Hippodrome",
+        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
+      },
+      "artists": [
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "Hippodrome",
+      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
+    },
+    {
+      "added_at": "2026-08-06 19:29:28",
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "COOL",
+        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "duration_ms": 189534,
+      "name": "COOL",
+      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -991,22 +1055,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Hippodrome",
-        "url": "https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc"
-      },
-      "artists": [
-        {
-          "name": "Jamie T",
-          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
-        }
-      ],
-      "duration_ms": 161816,
-      "name": "Hippodrome",
-      "url": "https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "Defibrillator",
         "url": "https://open.spotify.com/album/2BQMRPHCjPK4WN2ZtkJKTJ"
       },
@@ -1019,6 +1067,22 @@
       "duration_ms": 161186,
       "name": "Defibrillator",
       "url": "https://open.spotify.com/track/71zdTsKVOPKvEQjUWRiHvO"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 146392,
+      "name": "Do You Wanna Talk",
+      "url": "https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1055,38 +1119,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
-      },
-      "artists": [
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 146392,
-      "name": "Do You Wanna Talk",
-      "url": "https://open.spotify.com/track/0fjEEHg3EVDBBbL7Vqy2O6"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/4NkwHEXLQ1eTEo0NY9r6hy"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 325400,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "So Much Country \u2018Till We Get There",
         "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
       },
@@ -1119,18 +1151,18 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "COOL",
-        "url": "https://open.spotify.com/album/6UEHHZUhGOifJ6xWBWN73Z"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/4NkwHEXLQ1eTEo0NY9r6hy"
       },
       "artists": [
         {
-          "name": "Crawlers",
-          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
         }
       ],
-      "duration_ms": 189534,
-      "name": "COOL",
-      "url": "https://open.spotify.com/track/7BKTCgTQvXFBdCDBtODvQc"
+      "duration_ms": 325400,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4jAKnQfdSCC0CILVGtr1nC"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1197,22 +1229,6 @@
       "url": "https://open.spotify.com/track/7zcaQay1ctjagKSXcJ5tNe"
     },
     {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "mettle",
-        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
-      },
-      "artists": [
-        {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "mettle",
-      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
-    },
-    {
       "added_at": "2026-07-23 23:00:46",
       "album": {
         "name": "Standing On A Pane Of Glass",
@@ -1229,20 +1245,36 @@
       "url": "https://open.spotify.com/track/6JTbg1SEfLYcboPiGIY11Z"
     },
     {
-      "added_at": "2026-08-06 19:29:28",
+      "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Dobro",
-        "url": "https://open.spotify.com/album/1sI3ddpa7pZZvPfL0RHkTq"
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
       },
       "artists": [
         {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         }
       ],
-      "duration_ms": 165258,
-      "name": "Dobro",
-      "url": "https://open.spotify.com/track/3tL4ZLFEXLcjJTkbdOwcjW"
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
+    },
+    {
+      "added_at": "2026-08-06 19:29:28",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1293,22 +1325,6 @@
       "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
     },
     {
-      "added_at": "2026-08-06 19:29:28",
-      "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
-      },
-      "artists": [
-        {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
-        }
-      ],
-      "duration_ms": 173987,
-      "name": "Canyons",
-      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
-    },
-    {
       "added_at": "2026-07-16 23:00:23",
       "album": {
         "name": "From the Night",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Summer Rain",
-        "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 201279,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "Personality Test",
         "url": "https://open.spotify.com/album/5WtJlhPqQKUSCjW6VYzA7S"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 140609,
       "name": "Personality Test",
       "url": "https://open.spotify.com/track/2N3bvXciflaoAPIXoAUDjL"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/1jUTsjLZz162xLsUZNZgc5"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 201279,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/2r2AhkxSsxbJVFo26TQqaL"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Millennials",
-        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 180694,
-      "name": "Millionaires",
-      "url": "https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "Mr & Mrs Human Race",
         "url": "https://open.spotify.com/album/4EOmWbJitvuU9rXZRtSz4H"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 175853,
       "name": "Mr & Mrs Human Race",
       "url": "https://open.spotify.com/track/59wdpUXTIqqx22BDqNqESu"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 180694,
+      "name": "Millionaires",
+      "url": "https://open.spotify.com/track/3Y8JwwPSJaPSRbSYSmI6eq"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2026-07-16 23:00:23",
       "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 229656,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
         "name": "Big Swimmer",
         "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
       },
@@ -1515,6 +1515,22 @@
       "duration_ms": 202048,
       "name": "New York, Let's Do Nothing",
       "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 229656,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1533,22 +1549,6 @@
       "url": "https://open.spotify.com/track/49m1P83TOxTKJYeP5aBkZb"
     },
     {
-      "added_at": "2026-08-06 19:29:28",
-      "album": {
-        "name": "If I Could",
-        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
-    },
-    {
       "added_at": "2026-07-16 23:00:23",
       "album": {
         "name": "Inaction",
@@ -1563,22 +1563,6 @@
       "duration_ms": 186437,
       "name": "Inaction",
       "url": "https://open.spotify.com/track/4rtbWvbrcoVtnSyjgMz0qm"
-    },
-    {
-      "added_at": "2026-07-16 23:00:23",
-      "album": {
-        "name": "Lipstick",
-        "url": "https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 216692,
-      "name": "Lipstick",
-      "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
     },
     {
       "added_at": "2026-07-16 23:00:23",
@@ -1611,6 +1595,22 @@
       "duration_ms": 155874,
       "name": "Gears",
       "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
+    },
+    {
+      "added_at": "2026-07-16 23:00:23",
+      "album": {
+        "name": "Lipstick",
+        "url": "https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 216692,
+      "name": "Lipstick",
+      "url": "https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok"
     }
   ],
   "unique_name": "Proper Belters",

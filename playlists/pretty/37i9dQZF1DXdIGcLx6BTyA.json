@@ -1,12 +1,12 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 43206,
+  "num_followers": 43221,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFfVoeV7ecs59PwumdxJCX7ujvCW",
+  "snapshot_id": "AAAAAHXfPKWRBXe2D4qud/uJL8HLKG+A",
   "tracks": [
     {
       "added_at": "2026-06-05 20:49:32",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 191146,
       "name": "Here (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Mission Bell",
-        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Windows Are Rolled Down",
-      "url": "https://open.spotify.com/track/1umKFpJdXDtquGCz4oBVDJ"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Trail Of Flowers",
         "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 257297,
       "name": "American Dreaming",
       "url": "https://open.spotify.com/track/00cGNx0otxcMeD4GZHAJtq"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Mission Bell",
+        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Windows Are Rolled Down",
+      "url": "https://open.spotify.com/track/1umKFpJdXDtquGCz4oBVDJ"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 281602,
       "name": "On The Red River",
       "url": "https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
         "name": "The Late Great Townes Van Zandt",
         "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 213866,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "White River",
-        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "White River",
-      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 148522,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "White River",
+        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "White River",
+      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
     },
     {
       "added_at": "2026-06-05 20:49:32",

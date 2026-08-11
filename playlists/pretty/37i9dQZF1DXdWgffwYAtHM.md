@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 16 | [a filha única \#86](https://open.spotify.com/episode/6ChdXpsSrra1Yd8S5r1eWd) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 20:44 |
 | 17 | [O QUE TEM NA SUA CARTEIRA? \#82 \| Pequena Lô, psicóloga e humorista](https://open.spotify.com/episode/1fHGeAt9X9w4kKMt8qMfMK) | [O que tem na sua carteira?](https://open.spotify.com/show/0TAMn2YGFdRgi3odrRdlQG) | [O que tem na sua carteira?](https://open.spotify.com/album/0TAMn2YGFdRgi3odrRdlQG) | 1:02:21 |
 
-Snapshot ID: `AAAAAG9wOd2zWX12buyOMSq5m0uUchK7`
+Snapshot ID: `AAAAACY642Rah0PSaONW+YrDzagA2edo`

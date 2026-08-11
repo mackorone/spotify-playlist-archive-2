@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-1,150 songs - 2 day 10 hr 58 min
+1,153 songs - 2 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [goodbye, magenta.](https://open.spotify.com/track/7BNNKc24hazUDCbp1KsfJq) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [LOVED](https://open.spotify.com/album/5fYZQtJI5bqjVebYOLLosn) | 3:23 | 2026-03-17 |  |
 | [GoPro](https://open.spotify.com/track/2mbnUfRu1VdBEg1HhnlGFR) | [Dre RealA](https://open.spotify.com/artist/3FeXC6xCSU96xRlfMECBnR) | [GoPro](https://open.spotify.com/album/76tv1qYxIoMWBRHpqRz7u9) | 1:50 | 2026-02-18 | 2026-07-23 |
 | [Got Me Tripping](https://open.spotify.com/track/2IehA5c3jrwWUrhfddncbX) | [ZIFR](https://open.spotify.com/artist/04ssjHOVTAUqm7JjyS6tsV), [Starboynation](https://open.spotify.com/artist/7zSoe1a4a9IiMQywA3prlP) | [Got Me Tripping](https://open.spotify.com/album/6IliAyGe3PWVKpOT0VoN1C) | 5:52 | 2026-01-26 | 2026-07-23 |
+| [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-08-10 |  |
 | [Grace Under Fire](https://open.spotify.com/track/6qDrIGQ2SEcdHx0H8DCrf9) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:10 | 2026-01-05 | 2026-02-23 |
 | [GRADIN!](https://open.spotify.com/track/3WhmeFhBYbTpnw55I7ySh6) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m), [InVenus](https://open.spotify.com/artist/652nqCzjVcZ9RBcVaqhcVR) | [GRADIN!](https://open.spotify.com/album/3lQmxnYv8QhFOFQkKJqBNQ) | 2:30 | 2025-11-14 | 2026-02-23 |
 | [Greensleeves](https://open.spotify.com/track/0Qm8iZhEMy2BcEB30IFls7) | [VIRTO](https://open.spotify.com/artist/3Ggij62rRtYg1FUEF6DKjz), [Caroline Joy](https://open.spotify.com/artist/0Ix05CCHAG2SnThEr0zaDx) | [Greensleeves](https://open.spotify.com/album/0RFnsnt5xZV967Ren22nMy) | 3:17 | 2026-02-20 |  |
@@ -678,6 +679,7 @@
 | [MUSA](https://open.spotify.com/track/7cSqEEYIEe0My9BqcuYVjq) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [MUSA](https://open.spotify.com/album/49S5UzhVLehE0C2safguBX) | 2:17 | 2026-07-17 |  |
 | [Muérdeme la Pena](https://open.spotify.com/track/3wPJlGpqHEQshVBVFWvs6p) | [CdM](https://open.spotify.com/artist/3IFL7jUUjB2nJhnCJwY83O) | [Merece la pena](https://open.spotify.com/album/0hMtY7PrDN2rbQV0qIQmUU) | 3:24 | 2025-10-06 | 2026-01-15 |
 | [My Addiction](https://open.spotify.com/track/5oKn9G83qNi7kgp8darfgg) | [Estee Kd](https://open.spotify.com/artist/65klnYB8c4DdSvYZCaMwDr) | [My Addiction](https://open.spotify.com/album/2ihWtAIajETFPhrpS6vTtZ) | 2:04 | 2025-09-28 | 2026-01-15 |
+| [My Baby](https://open.spotify.com/track/2WgLjntbN2M7ZS5pigUtoX) | [Adam Leenz](https://open.spotify.com/artist/78K6L79SKvspzzeIJdqPT9) | [My Baby](https://open.spotify.com/album/0tMSeci4dT8BQV0LwhUxh8) | 3:24 | 2026-08-10 |  |
 | [My Everything \- Radio Edit](https://open.spotify.com/track/26xdbmmaoUOXOfKOJiQYXZ) | [MH](https://open.spotify.com/artist/2OjAW8c0vrhf5vvYc1q1dZ), [XiVi](https://open.spotify.com/artist/5kSQyE24NUXlYItBS7vSTv) | [My Everything](https://open.spotify.com/album/0vbym6oMaMgHW30RAg2EMU) | 3:09 | 2025-11-02 | 2026-02-17 |
 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2025-11-14 | 2026-02-17 |
 | [My kitchen](https://open.spotify.com/track/6WUirznnrFNMr5BREOtCeU) | [stunta23x](https://open.spotify.com/artist/4CJqwU9sE3eO7xvDPR4fuI), [Packaso](https://open.spotify.com/artist/77LOUHH1x4swIhmUa7cwsE) | [$tack or strave](https://open.spotify.com/album/1a7mXlgJEiQiof724lWtnm) | 2:36 | 2026-02-22 |  |
@@ -870,6 +872,7 @@
 | [She Ain't Holy](https://open.spotify.com/track/7hkEAyicehJxetILH94tdZ) | [Nerva](https://open.spotify.com/artist/4Z9e2tlCxKn24HNEAFxOip) | [She Ain't Holy](https://open.spotify.com/album/5ZiXmVxftik8Re2iGbw0B2) | 2:32 | 2025-10-23 | 2026-01-15 |
 | [She Sighs](https://open.spotify.com/track/4Mc6r1DYj9Ve6D1Uu7BRTa) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When It Was beautiful EP](https://open.spotify.com/album/4i00lSGJuptrLPxB3PgbZu) | 2:40 | 2026-07-08 |  |
 | [She's Alright & INSANE \(グリッチビート 2023年11月27日\)](https://open.spotify.com/track/5bKlvF94DMRV09VrE1pLxr) | [earprnOS](https://open.spotify.com/artist/5Mx5kvG2sIH6UmpZBhnotL), [LoveStroke Radio](https://open.spotify.com/artist/0YO2Ofx6dBxVSCSpndZUk4) | [She's Alright & INSANE \(グリッチビート 2023年11月27日\)](https://open.spotify.com/album/3ORz0j3MTibp9lY1aYY50Y) | 1:55 | 2025-11-26 | 2026-02-23 |
+| [She's Hiding Her Smile](https://open.spotify.com/track/6Ya1hSqW2kWthZeDAeivZh) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [She's Hiding Her Smile](https://open.spotify.com/album/06dbcxLucTaAoCL0pbdkr0) | 3:44 | 2026-08-10 |  |
 | [Sheh Aur Maat](https://open.spotify.com/track/5EBD0xcxMADZCNhtBvncgJ) | [Saumi Rapper](https://open.spotify.com/artist/6n8oagFWNbr6ckSJNwX5vX) | [Sheh Aur Maat](https://open.spotify.com/album/776ubKbov5RbvZGWTHSGNh) | 2:39 | 2026-02-16 | 2026-07-23 |
 | [Shining](https://open.spotify.com/track/6w0jaLazYD5Z1zvCdWap0n) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [KxP](https://open.spotify.com/artist/0Wx0lZfQ1EQfTxxgI1mt7i), [Thundason](https://open.spotify.com/artist/2rI1l3PrvcjkXU4JbwTTp8), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Shining](https://open.spotify.com/album/76Yra4Sz3dbnzRMFWhV2uV) | 2:57 | 2026-06-12 |  |
 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 | 2026-01-12 | 2026-02-23 |

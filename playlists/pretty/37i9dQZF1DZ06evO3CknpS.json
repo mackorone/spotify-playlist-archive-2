@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAEy30EmQol25aVEmfDRcti",
+  "snapshot_id": "anfDAAAAAACbOvL8ZcSyqpDAA6pO1RT8",
   "tracks": [
     {
       "added_at": null,
@@ -88,17 +88,17 @@
       },
       "artists": [
         {
-          "name": "Henryk Wieniawski",
-          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 292506,
-      "name": "Violin Concerto No, 2, Op. 22 - Romance",
-      "url": "https://open.spotify.com/track/7EnLnjtMenKQS7aylMWP65"
+      "duration_ms": 252520,
+      "name": "Berceuse, Op. 72, No. 2",
+      "url": "https://open.spotify.com/track/7N2ym4AZsxlHJH1stPzLpB"
     },
     {
       "added_at": null,
@@ -184,17 +184,17 @@
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Berceuse, Op. 72, No. 2",
-      "url": "https://open.spotify.com/track/7N2ym4AZsxlHJH1stPzLpB"
+      "duration_ms": 292506,
+      "name": "Violin Concerto No, 2, Op. 22 - Romance",
+      "url": "https://open.spotify.com/track/7EnLnjtMenKQS7aylMWP65"
     },
     {
       "added_at": null,
@@ -295,22 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music In and On The Air",
-        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
       "artists": [
         {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "The Listening Room Ensemble",
-          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 476933,
-      "name": "Bachianas Brasileiras: No. 5, Aria",
-      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
+      "duration_ms": 124786,
+      "name": "Valse Sentimentale, Op. 51, No. 6",
+      "url": "https://open.spotify.com/track/5MLGHbmhvawMxtqfPQQ4LY"
     },
     {
       "added_at": null,
@@ -344,8 +344,8 @@
       },
       "artists": [
         {
-          "name": "Avery Robinson",
-          "url": "https://open.spotify.com/artist/5RQDvjMgri1nMLF8tXZzTM"
+          "name": "Fritz Kreisler",
+          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
         },
         {
           "name": "Clara Rockmore",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Water Boy (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/56lWzOvxxranPHLZclerVb"
+      "duration_ms": 153026,
+      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/2ndvA1M9bPNu9jx5d8BYG4"
     },
     {
       "added_at": null,
@@ -387,22 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "The Listening Room Ensemble",
+          "url": "https://open.spotify.com/artist/4qKsaDDZKs0Kf6LX0Y2786"
         }
       ],
-      "duration_ms": 124786,
-      "name": "Valse Sentimentale, Op. 51, No. 6",
-      "url": "https://open.spotify.com/track/5MLGHbmhvawMxtqfPQQ4LY"
+      "duration_ms": 476933,
+      "name": "Bachianas Brasileiras: No. 5, Aria",
+      "url": "https://open.spotify.com/track/2QCSXfBGFMHRc0KzjMg27B"
     },
     {
       "added_at": null,
@@ -536,8 +536,8 @@
       },
       "artists": [
         {
-          "name": "Fritz Kreisler",
-          "url": "https://open.spotify.com/artist/0HdNDZaNm7xLt18v9aWDfe"
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
         },
         {
           "name": "Clara Rockmore",
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 153026,
-      "name": "3 Old Viennese Dances: No. 2, Liebesleid (Arr. for Theremin & Piano)",
-      "url": "https://open.spotify.com/track/2ndvA1M9bPNu9jx5d8BYG4"
+      "duration_ms": 294893,
+      "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/2o7J3w4ii6FN5ikgLty48C"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 504080,
-      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
-      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
+      "duration_ms": 395320,
+      "name": "Sonata for violin and piano: Allegretto poco mosso",
+      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 395320,
-      "name": "Sonata for violin and piano: Allegretto poco mosso",
-      "url": "https://open.spotify.com/track/08c9wMMmGawxgqa2pBNYDZ"
+      "duration_ms": 504080,
+      "name": "Sonata for Violin and Piano: Ben moderato: Recitativo-Fantasia",
+      "url": "https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60"
     },
     {
       "added_at": null,

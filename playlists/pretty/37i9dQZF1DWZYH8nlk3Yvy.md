@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYH8nlk3Yvy.md) - [plain]
 | 21 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 22 | [Biutyful](https://open.spotify.com/track/2L2mM3rEO3arNIMQnb3dou) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:12 |
 
-Snapshot ID: `AAAAAOevmn84zlGq+AbtUqrLjIw4fEbV`
+Snapshot ID: `AAAAAL/1weFfVjMK040+G1oF+3u3ywlj`

@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 30393,
+  "num_followers": 30397,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4yAmBAHxFGNAllnwYBzMgsvdXu",
+  "snapshot_id": "AAAAAOMPYltNMbW9xT1JsogMFZvuGMmV",
   "tracks": [
     {
       "added_at": "2025-02-28 16:30:31",
@@ -347,6 +347,22 @@
       "duration_ms": 229253,
       "name": "Happier",
       "url": "https://open.spotify.com/track/1UmHTmrLrkCVCWL7Zd9qYH"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
+        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
+      },
+      "artists": [
+        {
+          "name": "\u897f\u57ce\u6a39\u91cc (CV.\u6c38\u4e95\u771f\u91cc\u5b50)",
+          "url": "https://open.spotify.com/artist/5qNadnMpD2hCJy8xqfTYdL"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "\u904e\u7d14\u6027\u30d6\u30ea\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/5uBZGryOijvvMzDoVBNLSK"
     },
     {
       "added_at": "2025-02-28 16:30:31",
@@ -775,8 +791,8 @@
     {
       "added_at": "2025-02-28 16:30:31",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 04",
-        "url": "https://open.spotify.com/album/36YCUUkmkgONI4vyaFFfzE"
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 04",
+        "url": "https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57"
       },
       "artists": [
         {
@@ -784,57 +800,9 @@
           "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
         }
       ],
-      "duration_ms": 267200,
-      "name": "\u30af\u30e9\u30a4\u30de\u30c3\u30af\u30b9\u30a2\u30a4\u30e9\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/6eMdOtdMOAQ3bSbQmyziQV"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
-        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
-      },
-      "artists": [
-        {
-          "name": "\u4e09\u5cf0\u7d50\u83ef (CV.\u5e0c\u6c34\u3057\u304a)",
-          "url": "https://open.spotify.com/artist/0dQIFp0S9pK2pAZF4MkxhN"
-        }
-      ],
-      "duration_ms": 262386,
-      "name": "\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u30fb\u30a2\u30f3\u30d6\u30ec\u30e9 - 2022 Version",
-      "url": "https://open.spotify.com/track/4k7LuTHIsMdZNlhGPDRoC0"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
-        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
-      },
-      "artists": [
-        {
-          "name": "\u516b\u5bae\u3081\u3050\u308b (CV.\u5cef\u7530\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/1GZdVDLat5KC60IzjjySDn"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "HAREBARE!!",
-      "url": "https://open.spotify.com/track/2TLTgsOcrS1isAZIxbWB3M"
-    },
-    {
-      "added_at": "2025-02-28 16:30:31",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS FR@GMENT WING 03 (2023 Version)",
-        "url": "https://open.spotify.com/album/3U2w2LF7VOu4U0JwDwwDoN"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "NEO THEORY FANTASY - 2023 Ver.",
-      "url": "https://open.spotify.com/track/5zbDmtQxbl4uF06a3dk6RO"
+      "duration_ms": 238986,
+      "name": "\u4e94\u30c4\u5ea7\u6d41\u661f\u7fa4",
+      "url": "https://open.spotify.com/track/4HR0875EE4qjzED6rcNJYr"
     },
     {
       "added_at": "2025-02-28 16:30:31",
@@ -867,6 +835,38 @@
       "duration_ms": 266000,
       "name": "\u8679\u306b\u306a\u308c",
       "url": "https://open.spotify.com/track/5jRCTIPfBEZurOJEpwFOXB"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
+        "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u5cf0\u7d50\u83ef (CV.\u5e0c\u6c34\u3057\u304a)",
+          "url": "https://open.spotify.com/artist/0dQIFp0S9pK2pAZF4MkxhN"
+        }
+      ],
+      "duration_ms": 262386,
+      "name": "\u30d7\u30e9\u30b9\u30c1\u30c3\u30af\u30fb\u30a2\u30f3\u30d6\u30ec\u30e9 - 2022 Version",
+      "url": "https://open.spotify.com/track/4k7LuTHIsMdZNlhGPDRoC0"
+    },
+    {
+      "added_at": "2025-02-28 16:30:31",
+      "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
+        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u5bae\u3081\u3050\u308b (CV.\u5cef\u7530\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/1GZdVDLat5KC60IzjjySDn"
+        }
+      ],
+      "duration_ms": 230826,
+      "name": "HAREBARE!!",
+      "url": "https://open.spotify.com/track/2TLTgsOcrS1isAZIxbWB3M"
     }
   ],
   "unique_name": "THE IDOLM@STER SHINY COLORS",

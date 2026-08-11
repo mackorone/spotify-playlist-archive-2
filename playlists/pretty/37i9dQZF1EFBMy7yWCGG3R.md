@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,812 likes - 278 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,811 likes - 278 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 154 | [Shouldn't Have Said It](https://open.spotify.com/track/4EJNfCtXrx3TFwKBsf3pMl) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:38 |
 | 155 | [Louder](https://open.spotify.com/track/08s07LwInGpJUeA8rUtyMD) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 3:00 |
 | 156 | [Melon Cake](https://open.spotify.com/track/1qWjN1wINoiSJJqEXjiD0h) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:32 |
-| 157 | [Texas Man](https://open.spotify.com/track/6fDAGY50m6cnVBY8aUTi9d) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:44 |
-| 158 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 |
+| 157 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 |
+| 158 | [Texas Man](https://open.spotify.com/track/6fDAGY50m6cnVBY8aUTi9d) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:44 |
 | 159 | [Julianna Calm Down](https://open.spotify.com/track/7rzwt8DCdheGEWjxGXc38a) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:46 |
 | 160 | [Hearts](https://open.spotify.com/track/32Q0EkKu1Ts8X5kNNZL3jl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 3:33 |
 | 161 | [Hallelujah](https://open.spotify.com/track/0qQQJn3GV1Igk3NRwlelqg) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:39 |
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 254 | [Prettier](https://open.spotify.com/track/1xxFjjn9zePi0WUrhOn6Kb) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Prettier](https://open.spotify.com/album/65bWAdko9EMXM0yzVyJXHi) | 2:34 |
 | 255 | [F.O.O.L.](https://open.spotify.com/track/1cJTm0qd2NQL2HHRO2lwsj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 3:14 |
 | 256 | [WITHOUT YOU](https://open.spotify.com/track/7aLUbVBpLgsj4QW4fchL47) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG) | [PRINCESS CATGIRL](https://open.spotify.com/album/5DFEo8Nh5N6BYScoCDKvkh) | 3:24 |
-| 257 | [Hate You](https://open.spotify.com/track/6Xj1PG0pINzvrlxQSLNX9d) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Yesterday Was Forever](https://open.spotify.com/album/4ryc4MvHAAJvTuc8wfTC7H) | 3:23 |
-| 258 | [Love A Good](https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love A Good](https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip) | 3:34 |
+| 257 | [Love A Good](https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love A Good](https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip) | 3:34 |
+| 258 | [Hate You](https://open.spotify.com/track/6Xj1PG0pINzvrlxQSLNX9d) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Yesterday Was Forever](https://open.spotify.com/album/4ryc4MvHAAJvTuc8wfTC7H) | 3:23 |
 | 259 | [cigarette](https://open.spotify.com/track/6zGtBBymxJ4IEV2xEF73Ty) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe) | 2:47 |
 | 260 | [Hold On To Me](https://open.spotify.com/track/64cNNOHp4pXPgpS7ZRRUS1) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 3:04 |
 | 261 | [24/7](https://open.spotify.com/track/2SazF0oi8emUImGEWiP5G9) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [24/7](https://open.spotify.com/album/6snWMXAOzS6cKTsPxhq079) | 3:17 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 277 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 278 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcZJgAAAAABt29TcLd6MiTMlX2DqAT/c`
+Snapshot ID: `AcZPIAAAAAD/wA7ERGFUafxAT+hxHoCy`

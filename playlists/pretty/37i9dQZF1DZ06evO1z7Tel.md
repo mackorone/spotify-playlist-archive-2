@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,964 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,965 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [Con Cartitas](https://open.spotify.com/track/3ipSUX2xid0CXNuxFtJYlw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3KD7KTrctrplIFSaFijoP5) | 3:13 |
 | 50 | [Cheque Al Portador](https://open.spotify.com/track/4sAGz94N3HDfCR2IrvoUrS) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/4VUdMMWkygfJVbhYQyCMt1) | 2:31 |
 
-Snapshot ID: `anZxgAAAAAA0ssa3FdW6sxpOJbHE/Yov`
+Snapshot ID: `anfDAAAAAABfIgn/TeXm69s5Doae0LpL`

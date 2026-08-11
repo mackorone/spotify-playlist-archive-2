@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 349,
+  "num_followers": 350,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKwaXBS93Ya59W1WEP/GF2i2TGPmiJ",
+  "snapshot_id": "AAAKw/BioCrsZDVU9ZQaj/UWs2YEhyUV",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -43047,6 +43047,38 @@
       "duration_ms": 238159,
       "name": "L'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS"
+    },
+    {
+      "added_at": "2026-08-10 09:21:22",
+      "album": {
+        "name": "Lumi\u00e8re Divine",
+        "url": "https://open.spotify.com/album/5o5Iy7qR6zVO5uC8w6oxCd"
+      },
+      "artists": [
+        {
+          "name": "ARNAUD KELLER",
+          "url": "https://open.spotify.com/artist/33cRW5dZTJiwCHV9ybCFgB"
+        }
+      ],
+      "duration_ms": 161050,
+      "name": "Lumi\u00e8re Divine",
+      "url": "https://open.spotify.com/track/16GL4tNeAw2elOzdmDTrjJ"
+    },
+    {
+      "added_at": "2026-08-10 09:36:41",
+      "album": {
+        "name": "\u041d\u0430\u0437\u0430\u0432\u0436\u0434\u0438 \u043c\u043e\u044f",
+        "url": "https://open.spotify.com/album/39THZ8TjSo1qpkhkRsr7Qc"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u043b\u0430\u0434 \u0417\u0430\u0439\u0446\u0435\u0432",
+          "url": "https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h"
+        }
+      ],
+      "duration_ms": 220178,
+      "name": "\u041d\u0430\u0437\u0430\u0432\u0436\u0434\u0438 \u043c\u043e\u044f",
+      "url": "https://open.spotify.com/track/5h3TBWJTbenoIDR7kaG0k7"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

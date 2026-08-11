@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 
 > Start your morning with a mix of new and classic hits to keep you singing all day long! New songs from Olivia Rodrigo, Ariana Grande, and Sofia Camara.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,010 likes - 100 songs - 5 hr 43 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 105,006 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/4ZQNqlKwDCPSeey2y7kwlD.md) - [plain]
 | 91 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 |
 | 92 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
 | 93 | [After Dark](https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [After Dark](https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx) | 3:01 |
-| 94 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
-| 95 | [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 |
+| 94 | [Orbiter](https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n) | 4:46 |
+| 95 | [I Gotta Feeling](https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:49 |
 | 96 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
-| 97 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
-| 98 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
-| 99 | [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 |
-| 100 | [Stick Around](https://open.spotify.com/track/0jl05CPyVRYqQ9wpBFsFvT) | [School House](https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC) | [Stick Around](https://open.spotify.com/album/3UbKRawIjlP6wHYeNAYxgj) | 3:38 |
+| 97 | [Stick Around](https://open.spotify.com/track/0jl05CPyVRYqQ9wpBFsFvT) | [School House](https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC) | [Stick Around](https://open.spotify.com/album/3UbKRawIjlP6wHYeNAYxgj) | 3:38 |
+| 98 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 99 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
+| 100 | [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 |
 
-Snapshot ID: `AAAe80BpVoSrcfSHvpDc1ig7UE9lsMUE`
+Snapshot ID: `AAAe9Tgm1R2weyKX9tUi54k1gOUrydR+`

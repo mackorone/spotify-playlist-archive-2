@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: rumbos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,349 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,355 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [DÓNDE ESTÁN MIS AMIGOS](https://open.spotify.com/track/59FbYehRrdbYO5eiRACK1r) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW), [mrq](https://open.spotify.com/artist/4l7G9iUE2qw7QzZdr33ICw), [AMARILLO VERANO](https://open.spotify.com/artist/5tN67sOL2yhsIfCSD8VnL2) | [DÓNDE ESTÁN MIS AMIGOS](https://open.spotify.com/album/4gUcQhcmfkICurQmD633ib) | 3:28 |
 | 100 | [Hacerlo Contigo](https://open.spotify.com/track/0v2nTFDy7WbkWyNRWFCk8L) | [LOS GALGOS](https://open.spotify.com/artist/6eRluh6i0eiujCIRRA7FEj), [Nat Simons](https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn) | [Hacerlo Contigo](https://open.spotify.com/album/16y9cWz7NHfvFKH0OhkNlM) | 6:06 |
 
-Snapshot ID: `AAAAAPP1B6/zO2bvS8cJ9VHcRZKqqTKJ`
+Snapshot ID: `AAAAALmgyEobITd6XAVxyHDn9RNwGQPM`

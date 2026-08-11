@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 464181,
+  "num_followers": 464241,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDdm2MXyPhDJeczF/B8lKcWO5zW",
+  "snapshot_id": "AAAAAOMU8EJzh9gKeBKtRZ1kWPAC0jCb",
   "tracks": [
     {
       "added_at": "2025-12-02 09:29:59",
@@ -760,6 +760,34 @@
       },
       "artists": [
         {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 240070,
+      "name": "Ninnele",
+      "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
+    },
+    {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Radhe Shyam (Telugu)",
+        "url": "https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel"
+      },
+      "artists": [
+        {
           "name": "Yuvan Shankar Raja",
           "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
         },
@@ -781,32 +809,20 @@
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2021-12-16 12:46:43",
       "album": {
-        "name": "Radhe Shyam (Telugu)",
-        "url": "https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel"
+        "name": "Majili",
+        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
       },
       "artists": [
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Justin Prabhakaran",
-          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
         }
       ],
-      "duration_ms": 240070,
-      "name": "Ninnele",
-      "url": "https://open.spotify.com/track/7uo3wgB8We99kdcJpKDiq9"
+      "duration_ms": 245885,
+      "name": "Priyathama Priyathama",
+      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
       "added_at": "2023-03-16 06:15:29",
@@ -831,22 +847,6 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Majili",
-        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 245885,
-      "name": "Priyathama Priyathama",
-      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -1827,22 +1827,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Srimanthudu",
-        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
       },
       "artists": [
         {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
         },
         {
-          "name": "Suchitra",
-          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
+          "name": "Ramky",
+          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
         }
       ],
-      "duration_ms": 224194,
-      "name": "Jatha Kalise",
-      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
+      "duration_ms": 324546,
+      "name": "Vachinde",
+      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
     },
     {
       "added_at": "2023-01-11 20:52:12",
@@ -1859,6 +1859,26 @@
       "duration_ms": 173932,
       "name": "Undiporaadhey",
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Srimanthudu",
+        "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
+      },
+      "artists": [
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        {
+          "name": "Suchitra",
+          "url": "https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR"
+        }
+      ],
+      "duration_ms": 224194,
+      "name": "Jatha Kalise",
+      "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1917,6 +1937,22 @@
       "url": "https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Ala Vaikunthapurramuloo",
+        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 219818,
+      "name": "Samajavaragamana",
+      "url": "https://open.spotify.com/track/0h5wFi2R8a9ReSIDbXzZgy"
+    },
+    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Fidaa",
@@ -1963,26 +1999,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Madhu Priya",
-          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
-        },
-        {
-          "name": "Ramky",
-          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
-        }
-      ],
-      "duration_ms": 324546,
-      "name": "Vachinde",
-      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Shivam",
         "url": "https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 239372,
       "name": "Andamaina Lokam",
       "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Ala Vaikunthapurramuloo",
-        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 219818,
-      "name": "Samajavaragamana",
-      "url": "https://open.spotify.com/track/0h5wFi2R8a9ReSIDbXzZgy"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -2129,24 +2129,20 @@
       "url": "https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga"
     },
     {
-      "added_at": "2023-03-16 06:15:29",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Amigos",
-        "url": "https://open.spotify.com/album/2g5BBeWGojbHAvFBTyAFIc"
+        "name": "Pelli Choopulu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN"
       },
       "artists": [
         {
-          "name": "S.P. Charan",
-          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+          "name": "Amritavarshini KC",
+          "url": "https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ"
         }
       ],
-      "duration_ms": 281723,
-      "name": "Enno Ratrulosthayi Remix Song",
-      "url": "https://open.spotify.com/track/3HbGXLKLyWnCX4VQOQbAGM"
+      "duration_ms": 291500,
+      "name": "Chinuku Taake..",
+      "url": "https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u"
     }
   ],
   "unique_name": "Tollywood Pearls",

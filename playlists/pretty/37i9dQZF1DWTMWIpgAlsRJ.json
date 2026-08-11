@@ -1,12 +1,12 @@
 {
   "description": "The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.",
-  "num_followers": 395366,
+  "num_followers": 395398,
   "original_name": "EA SPORTS FC Ultimate Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABoAbu/TeLoR8n9aEcgtppqG3IzE",
+  "snapshot_id": "AAAAAMVNf1sg3/kmyoE7HSkBCnQH5RuR",
   "tracks": [
     {
       "added_at": "2026-07-17 11:00:02",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Way down We Go",
-      "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Way down We Go",
+      "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 121089,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
         "name": "Feet Don't Fail Me Now",
         "url": "https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
+        "name": "All Rebel Rockers",
+        "url": "https://open.spotify.com/album/7gbG5HpQeBPXUSvhrlP9bc"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        },
+        {
+          "name": "Cherine Anderson",
+          "url": "https://open.spotify.com/artist/1d5nqaOa3PXgjrHv7hEQg4"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "Say Hey (I Love You) (feat. Cherine Anderson)",
+      "url": "https://open.spotify.com/track/383B8ksM58jbV3HbiRJo0K"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
-        "name": "All Rebel Rockers",
-        "url": "https://open.spotify.com/album/7gbG5HpQeBPXUSvhrlP9bc"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        },
-        {
-          "name": "Cherine Anderson",
-          "url": "https://open.spotify.com/artist/1d5nqaOa3PXgjrHv7hEQg4"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "Say Hey (I Love You) (feat. Cherine Anderson)",
-      "url": "https://open.spotify.com/track/383B8ksM58jbV3HbiRJo0K"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
+        "name": "Big Talk",
+        "url": "https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "duration_ms": 197352,
+      "name": "Big Talk",
+      "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
         "name": "Love + War",
         "url": "https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "Big Talk",
-        "url": "https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK"
-      },
-      "artists": [
-        {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
-        }
-      ],
-      "duration_ms": 197352,
-      "name": "Big Talk",
-      "url": "https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 209626,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1019,22 +1035,6 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/4gBtLWLja2rOze5SknGdUZ"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/6nWWuodRc3aJS7aLrflaqF"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 157837,
-      "name": "UYUNI",
-      "url": "https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
         "name": "Konk",
         "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 161720,
       "name": "Always Where I Need To Be",
       "url": "https://open.spotify.com/track/6gGSSrKMiV2yec1DrqGhhy"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 157837,
+      "name": "UYUNI",
+      "url": "https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
-      },
-      "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        },
-        {
-          "name": "Mad Cobra",
-          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Cobrastyle (feat. Mad Cobra)",
-      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
         "name": "Omen (Radio Edit)",
         "url": "https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 196817,
       "name": "Omen - Radio Edit",
       "url": "https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Cobrastyle (feat. Mad Cobra)",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
     },
     {
       "added_at": "2026-07-17 11:00:02",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-07-17 11:00:02",
       "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+    },
+    {
+      "added_at": "2026-07-17 11:00:02",
+      "album": {
         "name": "The Hillbillies",
         "url": "https://open.spotify.com/album/6ltyScGRzS0Z2TI1VD5dns"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 204800,
       "name": "The Hillbillies",
       "url": "https://open.spotify.com/track/1h6w4POXM2LfG4ZD4xUfZQ"
-    },
-    {
-      "added_at": "2026-07-17 11:00:02",
-      "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
     },
     {
       "added_at": "2026-07-17 11:00:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Roseline Layo
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,510 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,572 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [PAPA HONORÉ](https://open.spotify.com/track/3RdpwOu5Rk5hZCyq9LJwnb) | [DRE\-A](https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [PAPA HONORÉ](https://open.spotify.com/album/3oeVZbaxJgphr0mVeDId2k) | 2:49 |
 | 40 | [Ketebo](https://open.spotify.com/track/5OsYorTnhNm1Ur8GEBE6EM) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski) | [Ketebo](https://open.spotify.com/album/7jMCPgy8e0guBeCpSI8Rpj) | 2:52 |
 
-Snapshot ID: `AAAAALitwR9TRiZFx96KWRAbX2jRGio0`
+Snapshot ID: `AAAAADXgLfE24BRdBl1fl5Af3wvTRpd0`

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-606 songs - 1 day 13 hr 29 min
+608 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-01-29 | 2026-03-04 |
 | [Heir To The Throne](https://open.spotify.com/track/3A0cKdejEnyr8wojgntQVH) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Heir To The Throne](https://open.spotify.com/album/3NekfNDmU7iDJbPqM5PzFB) | 4:09 | 2026-03-28 | 2026-04-20 |
 | [Hero of My Life](https://open.spotify.com/track/7nhckeFvgq2hFoPl0j9Zpx) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Hero of My Life](https://open.spotify.com/album/2m3mXPOr21QAet7D8x6uIR) | 5:24 | 2026-01-10 | 2026-02-02 |
+| [Hey Jane](https://open.spotify.com/track/4wkekjbUEO1d4txjxm4umF) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 3:22 | 2026-08-10 |  |
 | [Hey Woman](https://open.spotify.com/track/6wdZHEXuu5JWMyydPlMeqt) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Fixed Up \(Remastered\)](https://open.spotify.com/album/2Wwy5fnDfPGoXhkKmBcVFM) | 2:57 | 2026-06-11 | 2026-08-08 |
 | [Hold Me Close](https://open.spotify.com/track/4Y21eeDE3adB2k1e9vzwQa) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Tin Zelkova](https://open.spotify.com/album/30tP41z2vLygy8SEe42pM3) | 3:56 | 2026-06-15 | 2026-08-08 |
 | [Hold On](https://open.spotify.com/track/0wAzX0NZLyAFPTflxOTCTc) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Hold On](https://open.spotify.com/album/43GFUuYUiB80EuOmuTcbCj) | 2:38 | 2026-02-09 | 2026-03-04 |
@@ -310,6 +311,7 @@
 | [Make That Sound](https://open.spotify.com/track/2eQuZXpai00NEJbzrDuFP6) | [Cordelia Harding](https://open.spotify.com/artist/1yKmcWiEDJPW3Cb45W5qmR) | [Make That Sound](https://open.spotify.com/album/2LZYZLPdE2EuZyVVKSBfLy) | 3:41 | 2026-07-11 |  |
 | [Maldita](https://open.spotify.com/track/2eTvToQcswkSYtFlopW35L) | [Voodoo Zombie](https://open.spotify.com/artist/7vgH1SZNi1o8NCn0hKn29X) | [Maldita](https://open.spotify.com/album/1rYProq1DseWQyV6kavpkZ) | 2:33 | 2026-01-29 | 2026-04-20 |
 | [Maldito cobarde](https://open.spotify.com/track/1hc8sKJdvP6GfUv6dzwjN3) | [mediopelo](https://open.spotify.com/artist/0mbImR0KgeaYtvPoc7z6CU) | [Maldito cobarde](https://open.spotify.com/album/2pUYGwXDJtwaytUQhLJlUt) | 2:59 | 2026-06-06 | 2026-08-08 |
+| [Many Moons](https://open.spotify.com/track/6rhXWIuO1sJwhCmfNB9CTv) | [Terrestrials](https://open.spotify.com/artist/0IgtGoVVy0B7ZdqwLIkKCW) | [Many Moons](https://open.spotify.com/album/7xRl9kTbSPglPTcrXpj82f) | 3:41 | 2026-08-10 |  |
 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 | 2026-02-14 | 2026-03-22 |
 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-12-31 | 2026-01-21 |
 | [Meet You There](https://open.spotify.com/track/15tiZK3Wk9yB5mIKqPSZLY) | [Eve Indigo](https://open.spotify.com/artist/7EY2PX3OuDZUpNiaPkufKC) | [Meet You There](https://open.spotify.com/album/6YY5GY3agv7G7LwMtLUDrM) | 5:29 | 2026-06-15 | 2026-08-08 |

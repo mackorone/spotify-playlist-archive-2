@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,359 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,370 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 49 | [Já Me Vu](https://open.spotify.com/track/4AKclaAjh7jRK4zweDLwRm) | [AQNO](https://open.spotify.com/artist/5vHBIzRYLWzS2LnOjhV5yk) | [Latino Brega Love](https://open.spotify.com/album/07qxdlIfEezcNmVmHQMVPX) | 4:50 |
 | 50 | [Algema](https://open.spotify.com/track/4KGIUVMHUNiONe1DyznUE5) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Delirar](https://open.spotify.com/album/2PHLJPfHyNs0J1YHfSwBBX) | 2:13 |
 | 51 | [Não Tô Nada Bem](https://open.spotify.com/track/4knPMuSs0z1FVD1rvQ53FW) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ), [Marlon Branco](https://open.spotify.com/artist/5AfYpeoQZbqFmbs83tJRCp) | [Não Tô Nada Bem](https://open.spotify.com/album/1niDgt1eDHXt3nFsU2WM2Y) | 3:44 |
-| 52 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
-| 53 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |
+| 52 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 |
+| 53 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 |
 | 54 | [Búfalo do Marajó](https://open.spotify.com/track/6FWyRWvXJ2srLSHOvWf4UU) | [Banda 007 Oficial](https://open.spotify.com/artist/5ZdRKRLaP4OvypaRak6Rr9) | [Búfalo do Marajó](https://open.spotify.com/album/26D2eYA5rlAbhWyuGyfWiv) | 2:51 |
 | 55 | [Problema Seu](https://open.spotify.com/track/2pByJv32jG0dUwkyu6Gmth) | [Banda Floresta Nativa](https://open.spotify.com/artist/7BUo6flN4ZfDeWOafPAHeL) | [Raro Amor](https://open.spotify.com/album/0polX3dWngAwh9WSb92fmQ) | 4:13 |
 | 56 | [Nem Vem Dizer](https://open.spotify.com/track/4ayKSLcVBWcGCgV03bDZDj) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ) | [Uma Pancada de Sucesso](https://open.spotify.com/album/1HGd4P6mSGbz3IdYZRUdT2) | 3:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 64 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
 | 65 | [Olha Bem Pra Mim](https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Olha Bem Pra Mim](https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU) | 3:18 |
 
-Snapshot ID: `AAAAAJmpEMNhvLwWLnYGm61pcjeyU5zq`
+Snapshot ID: `AAAAAJD7sLYetlCPNUR8H7mcW/Gmzgnz`

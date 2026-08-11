@@ -4,7 +4,7 @@
 
 > drinks em casa, nada melhor
 
-268 songs - 16 hr 22 min
+269 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Back To You](https://open.spotify.com/track/5kdMBPrJNUjFnT9scCIIZq) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [iamnotshane](https://open.spotify.com/album/3UOa7f8LdL49ghQq1aWHd0) | 2:40 | 2022-03-25 | 2022-04-18 |
 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 | 2026-06-17 |  |
 | [Baskets](https://open.spotify.com/track/7mz2szkCG0aTTtUZl1o0DJ) | [The O'My's](https://open.spotify.com/artist/1GQx6SUIHxDC1mRIFIpslD) | [Tomorrow](https://open.spotify.com/album/1T5sNfIOJURWEnHM9o0JQL) | 3:34 | 2022-02-18 | 2022-07-29 |
+| [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 | 2026-08-07 |  |
 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 | 2022-09-21 | 2024-04-19 |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2022-03-25 | 2022-10-22 |
 | [Belong \(feat\. Kimbra\)](https://open.spotify.com/track/1eQouQQxiCVLidsSpANsvl) | [Fyfe](https://open.spotify.com/artist/1xkxEEm60IyknT2Eh469mX), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [The Space Between](https://open.spotify.com/album/2cGglm9PcjMP8NJi5OdOmC) | 2:54 | 2022-03-25 | 2022-04-20 |
@@ -112,7 +113,7 @@
 | [For Ya](https://open.spotify.com/track/6poJxrnTNulYCmha4n5GOF) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [For Ya](https://open.spotify.com/album/0gIupCz3eQl2LkiFZvlyG3) | 2:27 | 2022-02-18 | 2026-05-22 |
 | [Foreign Things](https://open.spotify.com/track/4Cz1StHxD06CZzr8NxvYfw) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Foreign Things](https://open.spotify.com/album/4zQOj5cdClQaheWhdajDxp) | 3:00 | 2022-02-18 | 2022-07-27 |
 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 | 2022-03-25 |  |
-| [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 | 2026-08-03 |  |
+| [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 | 2026-08-03 | 2026-08-11 |
 | [Future Love](https://open.spotify.com/track/7aFKeqQh8YnsAUyRxw0IvL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 3:41 | 2022-03-25 | 2022-07-01 |
 | [Geen Liefde](https://open.spotify.com/track/7F7J5Q5k73iuFDEBMDdNFn) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Geen Liefde](https://open.spotify.com/album/1pc1OgFrfFmQPwDDeiKmXg) | 2:28 | 2022-02-18 | 2022-07-29 |
 | [george](https://open.spotify.com/track/0Ws3ORFcdtgqA3FITquhQ7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [George](https://open.spotify.com/album/4mCbjj2IvjnMnk0wirwBs3) | 3:10 | 2022-03-25 | 2022-04-21 |

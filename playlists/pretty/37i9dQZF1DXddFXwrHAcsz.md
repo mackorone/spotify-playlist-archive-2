@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,548 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,577 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 59 | [Alles Kan Een Mens Gelukkig Maken \(2007\)](https://open.spotify.com/track/3etYmuPZnHkNoXXP1h8Jd4) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Liefde voor Muziek](https://open.spotify.com/album/6qNtFuFTyYCVEA1a3J3EpI) | 3:29 |
 | 60 | [Ontmoeting](https://open.spotify.com/track/2EK4CN6zYeHuZh8HqHwB4E) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Alle 40 Goed](https://open.spotify.com/album/4EuC8OYvXJPgjFBPM1yZG3) | 4:31 |
 
-Snapshot ID: `AAAAAKnf6O0dXR7eo+NM7PQAzjU4p+Qz`
+Snapshot ID: `AAAAAGgMp8Pf2KeveM1JHcrsTaBOCRl8`

@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 500730,
+  "num_followers": 500891,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOMm6XL3h1MTsIBiVmZ0HXvF+7eC",
+  "snapshot_id": "AAAAAEIS8z3wpav7kKzMoCfaXTv5h0B8",
   "tracks": [
     {
       "added_at": "2026-08-07 04:11:56",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "Up Down Jumper",
+        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Up Down Jumper",
+      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 219870,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "Up Down Jumper",
-        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Up Down Jumper",
-      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 169105,
-      "name": "Testo Skin Part 1",
-      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Where I'm From",
         "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 169105,
+      "name": "Testo Skin Part 1",
+      "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "Diamonds On My Mind",
         "url": "https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "our frequency",
-        "url": "https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 264388,
-      "name": "our frequency",
-      "url": "https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 409000,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "our frequency",
+        "url": "https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 264388,
+      "name": "our frequency",
+      "url": "https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM"
     },
     {
       "added_at": "2026-08-07 04:11:56",

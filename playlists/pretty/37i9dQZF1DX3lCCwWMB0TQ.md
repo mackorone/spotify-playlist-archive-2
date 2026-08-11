@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain]
 
 > Unsere Editors’ Picks: die besten Indie\-Songs des Jahres\. Cover: Zimmer90, Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,603 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,601 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lCCwWMB0TQ.md) - [plain]
 | 49 | [PARAMOUNT](https://open.spotify.com/track/1sKWQ7Ofao9A21nVNA3beJ) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [PSYCHO IN THE GAЯDEN \[EP\]](https://open.spotify.com/album/2VTc4BUmHhTGNL6YFiT4Vt) | 2:58 |
 | 50 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 
-Snapshot ID: `AAAAAMsIOk+B7DxlqVvbIa/TNnkrAS5w`
+Snapshot ID: `AAAAAKEH9+9YWykM2FgT5eJ7w9v2wmUk`

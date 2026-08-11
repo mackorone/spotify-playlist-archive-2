@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,094,857 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,094,971 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 8 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
 | 9 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:59 |
 | 10 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
-| 11 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
-| 12 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
+| 11 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
+| 12 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 13 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
 | 14 | [Talking In Your Sleep \(2023 Remaster\)](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat \(2023 Remaster\)](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:56 |
 | 15 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 62 | [Why Can't I Be You? \- Remastered 2006](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
 | 63 | [Winning](https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2) | [The Sound](https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz) | [From The Lion's Mouth](https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI) | 4:18 |
 | 64 | [Uncertain Smile](https://open.spotify.com/track/31alFPGPYXPTGLQfmkp8fh) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Soul Mining](https://open.spotify.com/album/0I7bOh7mYGUEyqCFHU9R0A) | 6:51 |
-| 65 | [Peek\-A\-Boo](https://open.spotify.com/track/3VkyKA0iCT1ABwaSjb0kpf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:12 |
-| 66 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
+| 65 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
+| 66 | [Peek\-A\-Boo](https://open.spotify.com/track/3VkyKA0iCT1ABwaSjb0kpf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:12 |
 | 67 | [Theme For Great Cities](https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Sons And Fascination/Sister Feelings Call](https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq) | 5:51 |
 | 68 | [Fade To Grey](https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [The Damned Don't Cry](https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt) | 3:49 |
 | 69 | [Happy Hour](https://open.spotify.com/track/0kpmeoNfuZ0cys5tCEBCXZ) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [Now That's What I Call Quite Good](https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9) | 2:22 |
-| 70 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/5bzuQPsEqTyx4STVopRV4w) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:14 |
-| 71 | [\(Keep Feeling\) Fascination](https://open.spotify.com/track/3zLZ7AVfbYuy0BnRWLafZg) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Greatest Hits](https://open.spotify.com/album/4Mu7aaT2AUrNVL2WQ29kAk) | 3:45 |
+| 70 | [\(Keep Feeling\) Fascination](https://open.spotify.com/track/3zLZ7AVfbYuy0BnRWLafZg) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Greatest Hits](https://open.spotify.com/album/4Mu7aaT2AUrNVL2WQ29kAk) | 3:45 |
+| 71 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/5bzuQPsEqTyx4STVopRV4w) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:14 |
 | 72 | [Dreaming](https://open.spotify.com/track/4qaG0dyK5mPXqynUrQ0vCi) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Translucence](https://open.spotify.com/album/7AG2w0blIElVtSU3i4VxZ7) | 3:48 |
 | 73 | [Take Me to the River](https://open.spotify.com/track/7fRPW34qS6KkZpMY4iBrJJ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 5:02 |
 | 74 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 |
 | 75 | [I Want Candy](https://open.spotify.com/track/60UZlV9G08xkjcmwsiVteK) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [Love, Peace & Harmony The Best Of Bow Wow Wow](https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF) | 2:41 |
 | 76 | [I Love a Man in a Uniform](https://open.spotify.com/track/2o4O4AJgwbiWUVVXQ0sq7O) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Songs Of The Free](https://open.spotify.com/album/7HRzIhQYVnaXqpvTTeeb3q) | 4:07 |
 | 77 | [April Skies](https://open.spotify.com/track/1tYeax0qrIkT2ECT3OJSNp) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Alternative 80's](https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0) | 4:00 |
-| 78 | [Gentle Tuesday](https://open.spotify.com/track/3DoVsoTmBNbPUIEZPNE1JX) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Sonic Flower Groove](https://open.spotify.com/album/7KfDOHnBHXHfEghVgzlUsK) | 3:47 |
-| 79 | [When It's Over](https://open.spotify.com/track/59RkLuqY3LSqK3rJGds6cP) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Youth of America](https://open.spotify.com/album/4rIPnx6cXrmLeDVkzT5poN) | 6:34 |
+| 78 | [When It's Over](https://open.spotify.com/track/59RkLuqY3LSqK3rJGds6cP) | [Wipers](https://open.spotify.com/artist/0sTTw3dw3EA0c7NaZnrJd2) | [Youth of America](https://open.spotify.com/album/4rIPnx6cXrmLeDVkzT5poN) | 6:34 |
+| 79 | [Gentle Tuesday](https://open.spotify.com/track/3DoVsoTmBNbPUIEZPNE1JX) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Sonic Flower Groove](https://open.spotify.com/album/7KfDOHnBHXHfEghVgzlUsK) | 3:47 |
 | 80 | [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 |
 
-Snapshot ID: `AAAAADdSz9tcbdindWz9VFehhWiXiH6+`
+Snapshot ID: `AAAAALDuttFzf33PRMI0YjY93KecewMn`

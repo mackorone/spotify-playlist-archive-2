@@ -1,12 +1,12 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26481,
+  "num_followers": 26490,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABsEDBl8Jh5h3DlcMTTmNaEeyrwg",
+  "snapshot_id": "AAAAAK1P4ffXths5fbHn/lUwwajrxIHE",
   "tracks": [
     {
       "added_at": "2026-08-07 10:55:02",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-08-07 10:55:02",
       "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 182030,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM"
+    },
+    {
+      "added_at": "2026-08-07 10:55:02",
+      "album": {
         "name": "Type 1 Diabetes",
         "url": "https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 197088,
       "name": "For Real (feat. Fuji Taito & SIMON)",
       "url": "https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE"
-    },
-    {
-      "added_at": "2026-08-07 10:55:02",
-      "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 182030,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM"
     },
     {
       "added_at": "2026-08-07 10:55:02",

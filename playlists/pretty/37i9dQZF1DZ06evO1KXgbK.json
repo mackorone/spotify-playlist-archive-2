@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255911,
+  "num_followers": 255917,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABBENU6BuyvX4Gp44Lqarhl",
+  "snapshot_id": "anfDAAAAAADlhc8BEhTWahXJSNRTkiiG",
   "tracks": [
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio II (2016 Remaster)",
-        "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
+        "name": "Rockstar (Deluxe)",
+        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
       "artists": [
         {
@@ -620,37 +620,13 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 211586,
-      "name": "After the Gold Rush - 2015 Remaster",
-      "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love & Fear",
-        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244029,
-      "name": "Butterfly (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
+      "duration_ms": 339322,
+      "name": "Night Moves",
+      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
     },
     {
       "added_at": null,
@@ -675,8 +651,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar (Deluxe)",
-        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
+        "name": "Love & Fear",
+        "url": "https://open.spotify.com/album/0y6Z7wpzSw7qMh9wyexwD3"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/7vgUdXfoVjRcisDUvBXiQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trio II (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
       },
       "artists": [
         {
@@ -684,13 +680,17 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 339322,
-      "name": "Night Moves",
-      "url": "https://open.spotify.com/track/4Zk5JSZklL3yIT6J5n9j9t"
+      "duration_ms": 211586,
+      "name": "After the Gold Rush - 2015 Remaster",
+      "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
     },
     {
       "added_at": null,

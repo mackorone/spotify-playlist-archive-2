@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating South Africa's most beloved hits\. Cover: J'Something
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,457 likes - 60 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,477 likes - 60 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 39 | [Black President](https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 4:30 |
 | 40 | [S.O.S \- Release Me](https://open.spotify.com/track/5Vv6Qh1oE7WQNkdIDSTeiX) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 4:03 |
 | 41 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
-| 42 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
+| 42 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 43 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
-| 44 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
+| 44 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
 | 45 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |
 | 46 | [Sbali](https://open.spotify.com/track/5F8GhL8UTDDydH7HNq5geV) | [Joe Nina](https://open.spotify.com/artist/0uKndkSvFjmZxg61p1YLEs) | [Mababaza](https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt) | 4:07 |
 | 47 | [Fester](https://open.spotify.com/track/4QNTWh444lOn7C4kPGUoYR) | [Jacknife](https://open.spotify.com/artist/2MU7y4Bj9rg69oHvc70YGs) | [Vintage Sounds of Johannesburg](https://open.spotify.com/album/45j6bfm5dD2m2V9mjaVYL3) | 4:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
 | 60 | [Blue Eyes](https://open.spotify.com/track/66jV20vtuXNoFGl9IKQfJJ) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/6qYVSIcZi6GDhGOoXTyTWq) | 3:53 |
 
-Snapshot ID: `AAAAABiyjnMCa6aUB00ccB8LDMQCgXFV`
+Snapshot ID: `AAAAADztd81jMfJ6KlbcVrhF120O4otp`

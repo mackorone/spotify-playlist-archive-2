@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u064a\u0647 \u0627\u0644\u062c\u062f\u064a\u062f\u061f \u0627\u0644\u063a\u0644\u0627\u0641: \u0643\u0627\u064a\u0631\u0648\u0643\u064a",
+  "description": "\u0627\u064a\u0647 \u0627\u0644\u062c\u062f\u064a\u062f\u061f \u0627\u0644\u063a\u0644\u0627\u0641: \u0632\u0627\u0628 \u062b\u0631\u0648\u062a \u0648\u0633\u0627\u0631\u064a \u0647\u0627\u0646\u064a",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -10354,7 +10354,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 213254,
       "name": "Kalt, Dafaat El Rent. BEGAD! - Remix",
       "url": "https://open.spotify.com/track/0L7Q1XgengourSIqYLPzJx"
@@ -14350,6 +14350,24 @@
       "duration_ms": 283002,
       "name": "Melkak Hayaty",
       "url": "https://open.spotify.com/track/4ld5JwlPAYzqw4Hl276tgB"
+    },
+    {
+      "album": {
+        "name": "Men Bassa Wahda",
+        "url": "https://open.spotify.com/album/2x8cJGGjZ7jrnQRqxiExpb"
+      },
+      "artists": [
+        {
+          "name": "Hussein Yasser",
+          "url": "https://open.spotify.com/artist/2ZW5HChxwvF3imncWL70mr"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118950,
+      "name": "Men Bassa Wahda",
+      "url": "https://open.spotify.com/track/5FKQhhCYY9lh2sSsJsI7sZ"
     },
     {
       "album": {
@@ -19583,6 +19601,32 @@
     },
     {
       "album": {
+        "name": "TALAT SENEEN",
+        "url": "https://open.spotify.com/album/6JRnGZpjZTy3gQSLNd1jaO"
+      },
+      "artists": [
+        {
+          "name": "Zap Tharwat",
+          "url": "https://open.spotify.com/artist/3yLKIh0kKryfCRygWN5wFv"
+        },
+        {
+          "name": "Sary Hany",
+          "url": "https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK"
+        },
+        {
+          "name": "Hawary",
+          "url": "https://open.spotify.com/artist/26OWOavHCrNUbYxyDYjzcG"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "WAHDY",
+      "url": "https://open.spotify.com/track/2i8QR2SaHxO9p3iD3jv2ct"
+    },
+    {
+      "album": {
         "name": "Wahshak",
         "url": "https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x"
       },
@@ -21700,7 +21744,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 181600,
       "name": "\u0625\u0628\u0631 \u0635\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/7KwdTWFdbVmCjj6px4XKcE"

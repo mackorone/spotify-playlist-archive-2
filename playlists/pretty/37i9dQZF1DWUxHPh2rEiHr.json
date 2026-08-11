@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: KAROL G & Bruno Mars",
-  "num_followers": 503743,
+  "num_followers": 503742,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABOYnyv+jrTMi52TlP/2110LanVP",
+  "snapshot_id": "AAAAAMaGwd0ns1SL/EDCnERw/OvawdfD",
   "tracks": [
     {
       "added_at": "2026-08-07 09:42:57",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "Dichavate",
         "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
         "name": "TATTUU",
         "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 194734,
       "name": "TATTUU",
       "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Club classics featuring bb trickz",
+      "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
         "name": "Joga Bonito",
         "url": "https://open.spotify.com/album/3wUqdGZHeCToWX30bQMphr"
       },
@@ -1451,26 +1471,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Club classics featuring bb trickz",
-      "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "BRUTAL PARA\u00cdSO",
         "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
       },
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Read My Lips (FIFA World Cup 2026\u2122)",
-      "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5KyPwjSFnxwAKOL5Ggo2vo"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Read My Lips (FIFA World Cup 2026\u2122)",
+      "url": "https://open.spotify.com/track/3aRCjlhDyStousHqYnGZ5G"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "F1 The Album (Cinematic Edition)",
-        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 185590,
-      "name": "Don't Let Me Drown",
-      "url": "https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "No Me Cansare",
         "url": "https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 162857,
       "name": "No Me Cansare",
       "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "F1 The Album (Cinematic Edition)",
+        "url": "https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 185590,
+      "name": "Don't Let Me Drown",
+      "url": "https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at"
     },
     {
       "added_at": "2026-08-07 09:42:57",

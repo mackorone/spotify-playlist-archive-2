@@ -1,12 +1,12 @@
 {
   "description": "The Latin soundtrack of the 2000s! Cover: Shakira",
-  "num_followers": 306747,
+  "num_followers": 306765,
   "original_name": "Los 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG7rCQvakjDajkYXhpa8FnK2IxCY",
+  "snapshot_id": "AAAAAJ1oB92ESnw+RGftmG2v7WX3dEqW",
   "tracks": [
     {
       "added_at": "2024-05-14 17:32:05",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-05-14 17:32:05",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
-    },
-    {
-      "added_at": "2024-05-14 17:32:05",
-      "album": {
         "name": "Caraluna",
         "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2024-05-14 17:32:05",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2024-05-14 17:32:05",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-05-14 17:32:05",
       "album": {
-        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
-        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "No Me Doy Por Vencido",
-      "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
-    },
-    {
-      "added_at": "2024-05-14 17:32:05",
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 300160,
       "name": "Tu Amor Me Hace Bien - Salsa Version",
       "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+    },
+    {
+      "added_at": "2024-05-14 17:32:05",
+      "album": {
+        "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
+        "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "No Me Doy Por Vencido",
+      "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
     },
     {
       "added_at": "2024-05-14 17:32:05",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-05-14 17:32:05",
       "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+    },
+    {
+      "added_at": "2024-05-14 17:32:05",
+      "album": {
         "name": "Un Mundo Diferente",
         "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 251520,
       "name": "Aqui Estoy Yo",
       "url": "https://open.spotify.com/track/4go2M6us50x9TQ1NvsB4vt"
-    },
-    {
-      "added_at": "2024-05-14 17:32:05",
-      "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2024-05-14 17:32:05",

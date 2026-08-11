@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209962,
+  "num_followers": 209975,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHWZZk8/B1Jir9H5VX/KbIvV4umq",
+  "snapshot_id": "AAAAAMzsGWCgoB7z6pu8RJzFEUhVYDVz",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Just Too Good",
-        "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 203268,
-      "name": "Just Too Good",
-      "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -879,22 +863,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Tuff Luv",
-        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
+        "name": "Just Too Good",
+        "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
       },
       "artists": [
         {
-          "name": "Chris Caro",
-          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
-        },
-        {
-          "name": "Cristine Toca",
-          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 161020,
-      "name": "Tuff Luv",
-      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
+      "duration_ms": 203268,
+      "name": "Just Too Good",
+      "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -911,6 +891,26 @@
       "duration_ms": 221183,
       "name": "Down To Earth",
       "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Tuff Luv",
+        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
+      },
+      "artists": [
+        {
+          "name": "Chris Caro",
+          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+        },
+        {
+          "name": "Cristine Toca",
+          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Tuff Luv",
+      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Divine Romance (Wedding Version)",
         "url": "https://open.spotify.com/album/4iu7mcCQ3SehrMlDJlBOML"
       },
@@ -1119,6 +1087,38 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Colton Dixon",
         "url": "https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2LeiPPv6ZUAl7JuRLXrHXQ"
       },
@@ -1163,22 +1147,6 @@
       "duration_ms": 242759,
       "name": "Always",
       "url": "https://open.spotify.com/track/75SLBVHHOA1nA3h3De0bZx"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1207,18 +1175,34 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/4f13Etjf3KTeNZBFhj6MVy"
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 216285,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/2AD7KwyYNkymVEHubojdMc"
+      "duration_ms": 246093,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/3h9W3LMVoUT12x08x1lnNk"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/4f13Etjf3KTeNZBFhj6MVy"
       },
       "artists": [
         {
-          "name": "Drakeford",
-          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
         }
       ],
-      "duration_ms": 158260,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
+      "duration_ms": 216285,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/2AD7KwyYNkymVEHubojdMc"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1267,6 +1251,22 @@
       "duration_ms": 251106,
       "name": "Fallin In Love",
       "url": "https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
+      },
+      "artists": [
+        {
+          "name": "Drakeford",
+          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
+        }
+      ],
+      "duration_ms": 158260,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Sunday Coffee",
         "url": "https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 91141,
       "name": "Sunday Coffee",
       "url": "https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2026-07-29 15:15:10",

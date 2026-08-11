@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,185 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,184 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GQYELvBbt6.md) - [plain]
 | 49 | [Answer](https://open.spotify.com/track/5hVAQTNarrb3lmWqg9Ens4) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Answer](https://open.spotify.com/album/6jWEkDAAvJ18hqR0QAR60B) | 4:06 |
 | 50 | [コトノハ \- Kotonoha](https://open.spotify.com/track/7Cv5gBtM44IjVhUNMoNG8R) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [コトノハ \- Kotonoha](https://open.spotify.com/album/2Q9DyUG1DCeCiogiVC8jHZ) | 3:59 |
 
-Snapshot ID: `AAAAAO2c6oxcY7CPDc1M6DNRP1iJyRxe`
+Snapshot ID: `AAAAAPEaV8yfoxqcw0OjSzM4/xh5Fiuz`

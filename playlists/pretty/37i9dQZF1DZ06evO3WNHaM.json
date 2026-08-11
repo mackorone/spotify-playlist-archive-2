@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 506181,
+  "num_followers": 506325,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAABwhftThYvu8l7MKs4+633V",
+  "snapshot_id": "anfDAAAAAABXQVpXKZXR60ZUm8ivv04o",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gore",
-        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
+        "name": "Deftones",
+        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 293053,
-      "name": "Phantom Bride",
-      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
+      "duration_ms": 203066,
+      "name": "Needles and Pins",
+      "url": "https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deftones",
-        "url": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+        "name": "Gore",
+        "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Needles and Pins",
-      "url": "https://open.spotify.com/track/1oTKnx7AgEhA5wUs3Z8rrr"
+      "duration_ms": 293053,
+      "name": "Phantom Bride",
+      "url": "https://open.spotify.com/track/33qrQEXQJg4uk6k8fZgoOa"
     },
     {
       "added_at": null,

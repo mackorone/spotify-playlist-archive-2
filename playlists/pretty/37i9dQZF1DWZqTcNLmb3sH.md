@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Toxic
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,137 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,295 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Kai Tholkand Muttangavle](https://open.spotify.com/track/46TrylJ23BSsiewGB6P25t) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Andani Himabashi](https://open.spotify.com/artist/7iCrYWJsaat5VilSqkYDk3) | [Lo Naveena \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5y5FDQGPzMQXChsqQxQmus) | 3:46 |
 | 75 | [Bareyada Saalugala](https://open.spotify.com/track/7DbcxRGcvUsDeiKFw92Bde) | [Praveen\-Pradeep](https://open.spotify.com/artist/2Nh3McF50LBstOocdkW6m9), [Vishwajith Rao](https://open.spotify.com/artist/4yoso4oy6CJUzfVOS6zkjS), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Elra Kaaleliyatte Kaala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uGdJxu86zFegCR11fHtoW) | 4:40 |
 
-Snapshot ID: `AAAAAGh37bjKkKdnwbnQnqJkHYb9yAW8`
+Snapshot ID: `AAAAAHHyYh7Fc1aOWoVNUFoYUWw0ZdA3`

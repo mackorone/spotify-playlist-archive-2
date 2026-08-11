@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 349025,
+  "num_followers": 349072,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANg6Yib6Hfy8DyPtvI+trs1+njzJ",
+  "snapshot_id": "AAAAAJvEpZSIHQK/+1fezhgsiZ/66SnB",
   "tracks": [
     {
       "added_at": "2025-10-03 16:58:21",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "Big Jet Plane (Acoustic)",
-        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Big Jet Plane - Acoustic",
-      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Ac\u00fastico (Live)",
         "url": "https://open.spotify.com/album/7ATBrzHUgIN21MkSh8KpTr"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 256720,
       "name": "Caleidosc\u00f3pio - Ao Vivo",
       "url": "https://open.spotify.com/track/2gOhhHSjm3iw4NFY43carm"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "Big Jet Plane (Acoustic)",
+        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Big Jet Plane - Acoustic",
+      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
     },
     {
       "added_at": "2025-10-03 16:58:21",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "What's My Age Again? (Acoustic)",
-        "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
-      },
-      "artists": [
-        {
-          "name": "Jota John",
-          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
-        }
-      ],
-      "duration_ms": 146105,
-      "name": "What's My Age Again? - Acoustic",
-      "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Quando Eu Te Encontrar",
         "url": "https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 220265,
       "name": "Quando Eu Te Encontrar",
       "url": "https://open.spotify.com/track/7w47kJcte6e43BPAgd3nQX"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "What's My Age Again? (Acoustic)",
+        "url": "https://open.spotify.com/album/506hLUSMqm86HaWfCBmRqr"
+      },
+      "artists": [
+        {
+          "name": "Jota John",
+          "url": "https://open.spotify.com/artist/0GlO3eVL8owXjOAIvUWoMm"
+        }
+      ],
+      "duration_ms": 146105,
+      "name": "What's My Age Again? - Acoustic",
+      "url": "https://open.spotify.com/track/45kMZGHOouczcHG6nwVzjh"
     },
     {
       "added_at": "2025-10-03 16:58:21",

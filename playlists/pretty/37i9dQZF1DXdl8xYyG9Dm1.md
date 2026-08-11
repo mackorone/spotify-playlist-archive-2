@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Ladipoe
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,140 likes - 68 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,157 likes - 68 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 31 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |
 | 32 | [Head Up](https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Free](https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL) | 3:33 |
 | 33 | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/track/4xhAl8bc53MYyDvqUGhSsM) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [HUSTLE KPA $$$ \(feat\. ARTSALGHUL\)](https://open.spotify.com/album/1EGvLNkUa30Sg0gi51cQpe) | 3:09 |
-| 34 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
-| 35 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
-| 36 | [E No Easy](https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [E No Easy](https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j) | 3:10 |
+| 34 | [E No Easy](https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [E No Easy](https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j) | 3:10 |
+| 35 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
+| 36 | [Exopa](https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Exopa](https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9) | 3:10 |
 | 37 | [Di Maria](https://open.spotify.com/track/1Y0znDIHeRoj6WNSkMW6pc) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Di Maria](https://open.spotify.com/album/4YTH8ZByqCYvirndtmfKCH) | 2:54 |
 | 38 | [FINE SHYT \(feat\. Tml Vibez\)](https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [No Excuses Deluxe](https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0) | 2:12 |
 | 39 | [NBA](https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [NBA](https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK) | 2:49 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 67 | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/track/3n0PQFnAzLsPbIQdu8ns7q) | [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Ye Dede \(feat\. DarkoVibes\)](https://open.spotify.com/album/0B4VXn4Ur7AOmpkQLdRySW) | 2:40 |
 | 68 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 |
 
-Snapshot ID: `AAAAAOfSlfOTCyX2gOVrmrh5+YwTNCWT`
+Snapshot ID: `AAAAADWhji7fj7UXrIqi0b919xEe80z3`

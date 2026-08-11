@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,876 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,878 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 42 | [In da Air](https://open.spotify.com/track/3Av4FkyTixUk20htpZlwZY) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:56 |
 | 43 | [Just Say Det](https://open.spotify.com/track/1X5qFwlfEX1cHpp08hiGlw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:24 |
 | 44 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/293QwzG48nRXlqk5lGDUbw) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
-| 45 | [Federal Fed \(feat\. Future\)](https://open.spotify.com/track/7hpCaD1ILnO9GoMQvj5oWI) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 3:29 |
-| 46 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 |
+| 45 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 |
+| 46 | [Federal Fed \(feat\. Future\)](https://open.spotify.com/track/7hpCaD1ILnO9GoMQvj5oWI) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 3:29 |
 | 47 | [Dior \(feat\. Gunna\)](https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:53 |
-| 48 | [No Chill \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:19 |
-| 49 | [Fall Down \(feat\. Kevin Gates & Rvssian\)](https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:01 |
+| 48 | [Fall Down \(feat\. Kevin Gates & Rvssian\)](https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:01 |
+| 49 | [No Chill \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:19 |
 | 50 | [Wat Be Wrong??](https://open.spotify.com/track/2dTTzrWtpAN98pTYYRbMJB) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:11 |
 
-Snapshot ID: `anZxgAAAAAClPwNhlCJ0HKuFTrNxDYa8`
+Snapshot ID: `anfDAAAAAACsFAU07FVMuqC/CNSM9kfF`

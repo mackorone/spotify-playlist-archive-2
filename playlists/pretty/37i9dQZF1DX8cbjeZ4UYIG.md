@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,249 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,312 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Ebeneezer Goode \- Beat Edit](https://open.spotify.com/track/3cJiAK4ogUaUrx2E0lDvUt) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Ebeneezer Goode \- EP](https://open.spotify.com/album/15y6aeJMkWSFhCTjR1VgWV) | 3:54 |
 | 50 | [Out Of Space \(Remastered\)](https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience: Expanded \(Remastered\)](https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy) | 4:58 |
 
-Snapshot ID: `AAAAAI8xAzb+AHRK5OrvKPDzitmteEQc`
+Snapshot ID: `AAAAAJp5BOTpuxV05vuKsdKnAcx0VxKW`

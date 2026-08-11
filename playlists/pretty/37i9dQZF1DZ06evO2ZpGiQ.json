@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 482040,
+  "num_followers": 482095,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAACsaWBc0FXH/2DSc50gVhLE",
+  "snapshot_id": "anfDAAAAAAB05+eIGtKWdKDBc9cPx5FK",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -435,26 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
       "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
         }
       ],
-      "duration_ms": 264666,
-      "name": "I'm So Paid",
-      "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
     },
     {
       "added_at": null,
@@ -483,22 +459,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
       "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         },
         {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+      "duration_ms": 264666,
+      "name": "I'm So Paid",
+      "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
     },
     {
       "added_at": null,
@@ -519,6 +499,26 @@
       "duration_ms": 206626,
       "name": "HYFR (Hell Ya Fucking Right)",
       "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
     },
     {
       "added_at": null,
@@ -639,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jay Jones",
-          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
-        }
-      ],
-      "duration_ms": 241335,
-      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
-      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN"
       },
@@ -687,6 +663,30 @@
       "duration_ms": 357920,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jay Jones",
+          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
+        }
+      ],
+      "duration_ms": 241335,
+      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
+      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Can't Be Broken",
-      "url": "https://open.spotify.com/track/5cGpjfgAvidLy6znwkCxkP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 309026,
       "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Can't Be Broken",
+      "url": "https://open.spotify.com/track/5cGpjfgAvidLy6znwkCxkP"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 200133,
       "name": "I'm Into You",
       "url": "https://open.spotify.com/track/76sWab9iC3vvk21aln8G8t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "High School",
+      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,626 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,632 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 37 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |
 | 38 | [Moviestar](https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MOVIE](https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR) | 3:31 |
 | 39 | [Formular 1 \(feat\. PsychoYP\)](https://open.spotify.com/track/18EzbRHZ0XiENnxheh2cBu) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Akube Richard Millie + Formular 1 \(feat\. PsychoYP\)](https://open.spotify.com/album/0wyx85iUFZbbXrPkX0sIl8) | 2:36 |
-| 40 | [Ise Oluwa](https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Ise Oluwa](https://open.spotify.com/album/5CPCGLYsm34DMldgedz6de) | 2:14 |
-| 41 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 |
+| 40 | [Do I \- Remix](https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Do I \(Remix\)](https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m) | 2:18 |
+| 41 | [Ise Oluwa](https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Ise Oluwa](https://open.spotify.com/album/5CPCGLYsm34DMldgedz6de) | 2:14 |
 | 42 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
 | 43 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
 | 44 | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/track/3Sv5trzGlBMLYFJGpuOBxG) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/album/6aXV5Mr0bKAIUtqGUgdKvy) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 59 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
 | 60 | [Pressure](https://open.spotify.com/track/7BswtmtoUTR7PMfA1KodB2) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [AFRIKA MAGIK](https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB) | 3:16 |
 
-Snapshot ID: `AAAAABQxxqNAZbAWC8wYCTDkBxxxvevm`
+Snapshot ID: `AAAAAPdzrBq2YxnExTSiO/kxPSZANcT4`

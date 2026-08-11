@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,877 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,879 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 19 | [Wildfire](https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL) | 5:29 |
 | 20 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 |
 | 21 | [Thorns](https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Thorns](https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg) | 3:10 |
-| 22 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
+| 22 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 |
 | 23 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
 | 24 | [After Midnight \- feat\. Tyler Hubbard](https://open.spotify.com/track/6SDWFQJxKnwjYZuxWp2bFj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [After Midnight \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/23msMw5gDXUmSOQjleicfV) | 2:46 |
 | 25 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 26 | [Honky Tonk Hell](https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Honky Tonk Hell](https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3) | 3:15 |
-| 27 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 |
+| 27 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
 | 28 | [Six O'Clock News](https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE) | [Brennan Wedl](https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Six O'Clock News](https://open.spotify.com/album/0djxhi0YKtQhZrRHXhlBLl) | 4:32 |
 | 29 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 |
 | 30 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 35 | [Catch A Rainbow](https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Catch A Rainbow](https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB) | 2:34 |
 | 36 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
 | 37 | [Granite Mills](https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:40 |
-| 38 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
-| 39 | [By The Bay](https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI) | [BAY](https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet), [Bobbie Wall](https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3), [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [By The Bay](https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC) | 3:24 |
+| 38 | [By The Bay](https://open.spotify.com/track/5afcgRprK5Ind4L5Dk6ZuI) | [BAY](https://open.spotify.com/artist/1Abn5FOJHEdk52uZfcjpet), [Bobbie Wall](https://open.spotify.com/artist/6HW856GZA6qu5O5pmkXVsI), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3), [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [By The Bay](https://open.spotify.com/album/7LtOrnQ2x5JQFzoSN2PZvC) | 3:24 |
+| 39 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
 | 40 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
 | 41 | [Steady On The Gun](https://open.spotify.com/track/76ruF6lW2FdHfLALjrhNh1) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Steady On The Gun](https://open.spotify.com/album/67QhahyU7UgHBIbmNMQ2pd) | 3:30 |
 | 42 | [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 50 | [A Beautiful Life](https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [A Beautiful Life](https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8) | 3:16 |
 
-Snapshot ID: `AAAAAMFsS1w9mNWwlOTI0+4OOejJH/W4`
+Snapshot ID: `AAAAAMO0050VcndWb78HlI4de+pfgFMW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,830 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,833 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 54 | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/track/4ujIaXQKSvamPSSCoPiMT0) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Spring Is Gone by chance \(2021\)](https://open.spotify.com/album/0jjvd9wnZN808fbJnbB4ba) | 3:30 |
 | 55 | [With You](https://open.spotify.com/track/63KtXm5kjHE6Y1c5TeSvT1) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [sido](https://open.spotify.com/artist/4cr53OzLrX7pz6uB5AqUkn) | [With You](https://open.spotify.com/album/0BZvg9IGUoW11JIbOycQeM) | 2:36 |
 | 56 | [Promenade](https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Our Universe \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7) | 3:31 |
-| 57 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 58 | [Spring Bloom](https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 2:43 |
+| 57 | [Spring Bloom](https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 2:43 |
+| 58 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
 | 59 | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 |
 | 60 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 61 | [I Feel Special](https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7) | 3:58 |
 | 62 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 |
 | 63 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
-| 64 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
+| 64 | [Spring, day](https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Spring, day](https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp) | 4:14 |
 | 65 | [Again Spring](https://open.spotify.com/track/5x5xiwS1HInKYLkIAuRjSA) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 4:04 |
-| 66 | [Spring, day](https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Spring, day](https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp) | 4:14 |
+| 66 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 67 | [Spring Is Coming](https://open.spotify.com/track/6vynzyxPosrpgoggNVZ5au) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [DEAR : X](https://open.spotify.com/album/03YiXxgdowSpg8M7ED3AfG) | 3:15 |
 | 68 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 69 | [사랑한대](https://open.spotify.com/track/1y5Ksa62m6wDfkdQGIwvpq) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [사랑한대](https://open.spotify.com/album/6nLFj1hXgkR7nal3Kcet6E) | 4:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 74 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
 | 75 | [spring days](https://open.spotify.com/track/0OVk9RkmgYHmCimocRmtcq) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [our, spring days](https://open.spotify.com/album/5WOSmhpNQrH9uey5jSTtgt) | 3:08 |
 
-Snapshot ID: `AAAAAF9H5qh3JM7vr6tlyOMenGYYy9rh`
+Snapshot ID: `AAAAAA3vr/U7aqXpaKX0IF209IS/qcf4`

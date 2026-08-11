@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1616557,
+  "num_followers": 1616597,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJV8gfzlnt1Nc/GbcObziVE8Y5bj",
+  "snapshot_id": "AAAAAA+PQKP9MGUUWkvufS+4AUHkxQgn",
   "tracks": [
     {
       "added_at": "2026-08-07 04:02:31",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-08-07 04:02:31",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 198190,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
+    },
+    {
+      "added_at": "2026-08-07 04:02:31",
+      "album": {
         "name": "After You (feat. FAANGS)",
         "url": "https://open.spotify.com/album/2RabLUJKd1jpDS9NbojepU"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 186093,
       "name": "After You (feat. FAANGS)",
       "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
-    },
-    {
-      "added_at": "2026-08-07 04:02:31",
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 198190,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi"
     },
     {
       "added_at": "2026-08-07 04:02:31",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-08-07 04:02:31",
       "album": {
+        "name": "Lily At The Valley",
+        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Lily At The Valley",
+      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
+    },
+    {
+      "added_at": "2026-08-07 04:02:31",
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/0nU3kBbCtjjOXY4mQXK4Pc"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 213965,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob"
-    },
-    {
-      "added_at": "2026-08-07 04:02:31",
-      "album": {
-        "name": "Lily At The Valley",
-        "url": "https://open.spotify.com/album/4Y9EfYbI1Ipndpa8dW5k9S"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Lily At The Valley",
-      "url": "https://open.spotify.com/track/3avOclxFrt13MiZlRJT7Lj"
     },
     {
       "added_at": "2026-08-07 04:02:31",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-08-07 04:02:31",
       "album": {
+        "name": "Bounce Music",
+        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Bounce Music",
+      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
+    },
+    {
+      "added_at": "2026-08-07 04:02:31",
+      "album": {
         "name": "girl$ (Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 191076,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
-    },
-    {
-      "added_at": "2026-08-07 04:02:31",
-      "album": {
-        "name": "Bounce Music",
-        "url": "https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Bounce Music",
-      "url": "https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP"
     },
     {
       "added_at": "2026-08-07 04:02:31",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2026-08-07 04:02:31",
       "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 202992,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
+    },
+    {
+      "added_at": "2026-08-07 04:02:31",
+      "album": {
         "name": "Cheating Heart",
         "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
-    },
-    {
-      "added_at": "2026-08-07 04:02:31",
-      "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 202992,
-      "name": "No Matter What",
-      "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
     },
     {
       "added_at": "2026-08-07 04:02:31",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2026-08-07 04:02:31",
       "album": {
-        "name": "Blue Symphony",
-        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "Blue Symphony",
-      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
-    },
-    {
-      "added_at": "2026-08-07 04:02:31",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 185943,
       "name": "London To Buenos Aires",
       "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
+    },
+    {
+      "added_at": "2026-08-07 04:02:31",
+      "album": {
+        "name": "Blue Symphony",
+        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
     },
     {
       "added_at": "2026-08-07 04:02:31",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2026-08-07 04:02:31",
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "duration_ms": 196691,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
+    },
+    {
+      "added_at": "2026-08-07 04:02:31",
+      "album": {
         "name": "Lost In The Crowd",
         "url": "https://open.spotify.com/album/6Xv6Rr5LkEMFVc6SEqzaou"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 153984,
       "name": "Lost In The Crowd",
       "url": "https://open.spotify.com/track/1lAtNae7Qg91eS3dsFE9Uz"
-    },
-    {
-      "added_at": "2026-08-07 04:02:31",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/3ZzkgSv5FF4L7BKt0ZqzlV"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 196691,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/1I7qxmsvOhsQpJLL5s7WET"
     },
     {
       "added_at": "2026-08-07 04:02:31",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2026-08-07 04:02:31",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/0bAxKKUx06doiVUvCGnqBd"
-      },
-      "artists": [
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        },
-        {
-          "name": "SOHMI",
-          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
-        }
-      ],
-      "duration_ms": 249448,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/32AjJWJQq17R9uAZhZPUdQ"
-    },
-    {
-      "added_at": "2026-08-07 04:02:31",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 184615,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
+    },
+    {
+      "added_at": "2026-08-07 04:02:31",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/0bAxKKUx06doiVUvCGnqBd"
+      },
+      "artists": [
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        },
+        {
+          "name": "SOHMI",
+          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
+        }
+      ],
+      "duration_ms": 249448,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/32AjJWJQq17R9uAZhZPUdQ"
     },
     {
       "added_at": "2026-08-07 04:02:31",

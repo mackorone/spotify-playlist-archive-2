@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: SIENNA SPIRO",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Biru Baru",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210447,
+      "name": "All I Need To Hear",
+      "url": "https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D"
+    },
+    {
+      "album": {
         "name": "Back to Front (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
       },
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
@@ -3759,6 +3777,24 @@
     },
     {
       "album": {
+        "name": "Sebuah Nama, Sebuah Cerita",
+        "url": "https://open.spotify.com/album/4cASl4e6Ys9U7wOb0JG0y7"
+      },
+      "artists": [
+        {
+          "name": "Peterpan",
+          "url": "https://open.spotify.com/artist/29vPfjqj8X5ri4AJRt8wVM"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300280,
+      "name": "Bintang Di Surga",
+      "url": "https://open.spotify.com/track/3o4EXDRhlqunE3U38teyST"
+    },
+    {
+      "album": {
         "name": "Bintang Yang Hilang",
         "url": "https://open.spotify.com/album/2t9dSYpWaXY2oKmElI4mO3"
       },
@@ -3824,7 +3860,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 272967,
       "name": "Black & Blue - 2026 Repented",
       "url": "https://open.spotify.com/track/69hnN62W706AbF4y8cORae"
@@ -4571,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "BUNGA TAK BERWARNA",
+        "url": "https://open.spotify.com/album/3deEXBKFtATCLoj4UCFvrD"
+      },
+      "artists": [
+        {
+          "name": "Adlani Rambe",
+          "url": "https://open.spotify.com/artist/6w6sxAGJfysFpCm36TANlF"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285428,
+      "name": "BUNGA TAK BERWARNA",
+      "url": "https://open.spotify.com/track/1KreXOMHdAIQTmbeGRX0sw"
+    },
+    {
+      "album": {
         "name": "Bunny Girl",
         "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
       },
@@ -5042,6 +5096,28 @@
       "duration_ms": 225573,
       "name": "Cerita Tiba Tiba",
       "url": "https://open.spotify.com/track/6iNfcXYuTkHWarYUaKGnZX"
+    },
+    {
+      "album": {
+        "name": "Ceritaku Ceritamu",
+        "url": "https://open.spotify.com/album/0vVtkDFicJAy0owOfMpChO"
+      },
+      "artists": [
+        {
+          "name": "Katyana",
+          "url": "https://open.spotify.com/artist/3pfvO3S6cSlzcKBeigiWKz"
+        },
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213500,
+      "name": "Ceritaku Ceritamu",
+      "url": "https://open.spotify.com/track/1Il8WKr9h6azKAlVrFgeVz"
     },
     {
       "album": {
@@ -9508,7 +9584,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 300583,
       "name": "Gemilang",
       "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
@@ -11859,6 +11935,24 @@
     },
     {
       "album": {
+        "name": "Apologies to the Queen Mary",
+        "url": "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Parade",
+          "url": "https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276613,
+      "name": "I'll Believe in Anything",
+      "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
+    },
+    {
+      "album": {
         "name": "I'm Here",
         "url": "https://open.spotify.com/album/6kJBXVKxcFB92VUdn50llC"
       },
@@ -12770,7 +12864,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 259242,
       "name": "Jalan Keluar",
       "url": "https://open.spotify.com/track/3pPtbTaTyh6zGJjAYT8Crr"
@@ -13042,6 +13136,24 @@
       "duration_ms": 224925,
       "name": "Jika Bersamamu",
       "url": "https://open.spotify.com/track/3aprt2YjJgqQtqbiMtDbUq"
+    },
+    {
+      "album": {
+        "name": "BIRU",
+        "url": "https://open.spotify.com/album/5r45RnqNnSDiv8nSgw6yDK"
+      },
+      "artists": [
+        {
+          "name": "Biru Baru",
+          "url": "https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145411,
+      "name": "Jika Kamu Benar-benar Mengenalku",
+      "url": "https://open.spotify.com/track/5Dq9nldA4P0qwxfTIXVzpV"
     },
     {
       "album": {
@@ -13740,7 +13852,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 179225,
       "name": "Keliling",
       "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
@@ -15579,6 +15691,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "album": {
         "name": "Losing Us.",
         "url": "https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo"
       },
@@ -17090,7 +17220,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 220527,
       "name": "Melompat Lebih Tinggi",
       "url": "https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC"
@@ -20709,6 +20839,24 @@
     },
     {
       "album": {
+        "name": "RASI BINTANG",
+        "url": "https://open.spotify.com/album/3HsjsVPBsqUrND6IjjKGCs"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182468,
+      "name": "PENYIHIR",
+      "url": "https://open.spotify.com/track/6bwnZc3E6u1AMZcw0dRhpd"
+    },
+    {
+      "album": {
         "name": "People",
         "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
@@ -23348,7 +23496,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 234000,
       "name": "Say No",
       "url": "https://open.spotify.com/track/6ICEluTQZZwk1Id0XpavZy"
@@ -23800,7 +23948,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -29206,7 +29354,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-11",
       "duration_ms": 231173,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/7fZ9GpxwteD6R1SNL8OPZa"

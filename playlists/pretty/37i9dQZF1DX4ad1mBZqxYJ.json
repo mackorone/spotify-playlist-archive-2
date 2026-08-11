@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 121436,
+  "num_followers": 121457,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACDsS63gxnet99/qDT3zfeQaWeJ5",
+  "snapshot_id": "AAAAAPjb4MBczp9z/naBbd9ytwWDY3V/",
   "tracks": [
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2019,6 +2019,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "El Caminito",
+        "url": "https://open.spotify.com/album/67epWivg3BVBB4Pjk9B7Q4"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 178721,
+      "name": "Juan Carlos \"Lefty SM\"",
+      "url": "https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
-        "name": "El Caminito",
-        "url": "https://open.spotify.com/album/67epWivg3BVBB4Pjk9B7Q4"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 178721,
-      "name": "Juan Carlos \"Lefty SM\"",
-      "url": "https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/7r0sV0ubq1ZutTadIrhHDL"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 219573,
-      "name": "Si Te Vienen a Contar",
-      "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 170496,
       "name": "Si Fuera F\u00e1cil",
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/7r0sV0ubq1ZutTadIrhHDL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Si Te Vienen a Contar",
+      "url": "https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C"
     },
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2279,26 +2279,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Tronando Ligas",
-        "url": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 155818,
-      "name": "Tronando Ligas",
-      "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
       },
@@ -2323,6 +2303,26 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M"
     },
     {
       "added_at": "2024-10-04 19:39:18",

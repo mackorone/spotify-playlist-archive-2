@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Corridones pa' quemarle las patas al Diablo 😈 LEGADO 7 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 616,804 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,787 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 | 99 | [Revelaciones de Un Cholo \(En Vivo\)](https://open.spotify.com/track/1syW2GIitDIKP2R3eQZ2x7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita \(En Vivo\)](https://open.spotify.com/album/6VbvPG4RelImyq6EhWGXOX) | 3:50 |
 | 100 | [SunRocks](https://open.spotify.com/track/6G6PscIraqnyivvgwABQqu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L.A\. Lumbre](https://open.spotify.com/album/7iZ9VeN3GuIQrA0wFnXrDb) | 2:17 |
 
-Snapshot ID: `AAAAACMRC5oRHEAmk20q1d7zMLxc4scy`
+Snapshot ID: `AAAAAGz5rYnqdgqXuDQpkrCIhZpBixRU`

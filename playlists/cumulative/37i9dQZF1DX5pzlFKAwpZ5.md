@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-411 songs - 1 day 5 hr 25 min
+412 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Luminous](https://open.spotify.com/track/0x3TVsyBVHoaZnZVDdg1Vt) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Blue](https://open.spotify.com/album/1iP5wtr2dm9MdiMvwaOlgY) | 2:23 | 2022-01-07 | 2023-04-22 |
 | [lunar longing](https://open.spotify.com/track/6eKuXiRbo9ElFZO1f3lQWk) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [lunar longing](https://open.spotify.com/album/4zOzOegSYCfl8o7qTTwTEP) | 2:54 | 2025-09-18 |  |
 | [Lyrical Ambient](https://open.spotify.com/track/799an9PYCuT6vqIVVgbku3) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Lyrical Ambient](https://open.spotify.com/album/1ci4darogxWg7G3p1V2J8V) | 3:05 | 2022-07-22 | 2023-08-19 |
+| [MAHORO : Trace01](https://open.spotify.com/track/5CnierXmZGDEgmubgeWVMI) | [Exportion](https://open.spotify.com/artist/0brCtEXtI0eniWvODW8s2q) | [MAHORO : Trace01](https://open.spotify.com/album/7l8M0HCATolN3IdhTv1yD0) | 8:19 | 2026-08-07 |  |
 | [Make A Wish](https://open.spotify.com/track/6dBhSWJOUmFCvL27QmEDKa) | [Ai Yamamoto](https://open.spotify.com/artist/3qldm1ZFkydAPhpEOCkcRE) | [Euphonious](https://open.spotify.com/album/6TuLhhMoJhHl7gpigg3z3S) | 2:41 | 2022-01-07 | 2025-11-21 |
 | [Many](https://open.spotify.com/track/3qD5oBoffRNT8EPgFY6lgQ) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Taba](https://open.spotify.com/album/1yM3jiytdU1m6793rSOCM1) | 2:16 | 2025-06-03 | 2026-06-18 |
 | [Meditate Tree](https://open.spotify.com/track/10oCzOihnI3bK0WTUtX6bi) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Soothe & Sleep, Vol.7](https://open.spotify.com/album/0ncAz6Q13wOuvBIe5qWgmI) | 2:49 | 2022-07-22 | 2022-08-04 |
@@ -264,7 +265,7 @@
 | [Pollen](https://open.spotify.com/track/78SrgFOU9fDxx4gOWc1ypx) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/7fNiI99gYGhMzn3HAqQ2le) | 7:50 | 2022-10-15 | 2024-04-19 |
 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 | 2022-01-07 |  |
 | [Prayer](https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Time](https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX) | 2:38 | 2025-05-02 |  |
-| [Prepare](https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Prepare](https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ) | 3:06 | 2022-01-07 |  |
+| [Prepare](https://open.spotify.com/track/7uqejCQTcEWr9H9ivSBtAx) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Prepare](https://open.spotify.com/album/6W0VH3DLSiLxEjVyyw0AjJ) | 3:06 | 2022-01-07 | 2026-08-11 |
 | [Purple Sunshine](https://open.spotify.com/track/0bNgicoJDD9CZagB9FH5fL) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Purple Sunshine](https://open.spotify.com/album/5NDODsJUEfw0SKxoNbbKuv) | 8:37 | 2026-04-08 |  |
 | [Rain](https://open.spotify.com/track/412C2GI5PBX8xkXyMsYfsA) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Rain](https://open.spotify.com/album/7BszHuPZtbiKu0z4nZoF07) | 1:37 | 2025-12-02 | 2026-03-28 |
 | [raitenn](https://open.spotify.com/track/6TN0dfPDwMchr4wrVYmc63) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kingen](https://open.spotify.com/album/0NbcRh4G7C3tJITIKhLLkf) | 3:02 | 2023-03-11 | 2023-08-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Steve Lacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,729 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,714 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 4 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 |
 | 5 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
 | 6 | [School](https://open.spotify.com/track/4rN5JelPY9qa05kvG6TTzQ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 4:23 |
-| 7 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 |
-| 8 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
+| 7 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
+| 8 | [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 |
 | 9 | [Crash Out](https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Crash Out](https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB) | 3:10 |
 | 10 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 11 | [Gimme Dat Ting \(with NO11\)](https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [Gimme Dat Ting](https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc) | 4:03 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 24 | [U&I](https://open.spotify.com/track/3dRBVP8BOptc8SacAd8o9c) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [U&I](https://open.spotify.com/album/7l5I1MGwDI6j4l8wSwMs9C) | 2:32 |
 | 25 | [TEMPERATURE](https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [TEMPERATURE](https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy) | 2:37 |
 | 26 | [Demain t'es ou](https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Demain t'es ou](https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk) | 2:36 |
-| 27 | [Bad Guys](https://open.spotify.com/track/1nU4xSpaKjOaGzzcx7XddG) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:17 |
-| 28 | [Alone Again \(feat\. Ogi\)](https://open.spotify.com/track/7vQxupuGgNYpyMwsqVUqTr) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [It Could Be Worse](https://open.spotify.com/album/0rer7IRAdCVWcLODgq2rX0) | 3:08 |
+| 27 | [Alone Again \(feat\. Ogi\)](https://open.spotify.com/track/7vQxupuGgNYpyMwsqVUqTr) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu) | [It Could Be Worse](https://open.spotify.com/album/0rer7IRAdCVWcLODgq2rX0) | 3:08 |
+| 28 | [Bad Guys](https://open.spotify.com/track/1nU4xSpaKjOaGzzcx7XddG) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:17 |
 | 29 | [LA VAR](https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w) | [Supremnova](https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR), [Jemma's Palace](https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ) | [LA VAR](https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7) | 1:42 |
 | 30 | [Faut pas m’faire chier](https://open.spotify.com/track/51bDuV05lEHRxBIFixVTBN) | [STI](https://open.spotify.com/artist/4XWx64t3h7r28YLQ89xpXI), [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT) | [Faut pas m’faire chier](https://open.spotify.com/album/00XKhwHIvJ3TJKyGE2Qmqc) | 3:24 |
 | 31 | [Link](https://open.spotify.com/track/6cTRRyMEZtsQS3kmpOSo6Y) | [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6), [Acchi Mello](https://open.spotify.com/artist/3xQRIjbbG10vnQzMP59lPg) | [Aniki, mon frère](https://open.spotify.com/album/1Q0tJdD1VkUAPF8MSyv3sw) | 2:39 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [endless blooming](https://open.spotify.com/track/1rSMBhv5oAKhHxprdZf21G) | [Kaba](https://open.spotify.com/artist/18BCzFFTNty1NeevlaCjuN), [Hyas](https://open.spotify.com/artist/6WUEjGfAWO7Iya8ckjxKIA), [Goldie B](https://open.spotify.com/artist/0jFDyXLQ2Dx2TcjDOFZ0dv) | [endless blooming](https://open.spotify.com/album/7JrZPjTyVE4A0Vn9Qiq59E) | 3:49 |
 | 40 | [Piscine de billets avec débordement](https://open.spotify.com/track/6aWTFEVWMVPUccV0kqQqAX) | [Lexsaburo](https://open.spotify.com/artist/4gdGGF5b5CmhxYophp5yRz), [Oni Kira](https://open.spotify.com/artist/4whmrth50Dva4FQMy3qAv4) | [Tivoli](https://open.spotify.com/album/2a4RR5W80WHsCWK0jJhW78) | 2:22 |
 
-Snapshot ID: `AAAAAHkVhhyLW//GiMTWW9ZZOogCNfn4`
+Snapshot ID: `AAAAABBCeA8/qcWeGyq/9vKr63f7xfXh`

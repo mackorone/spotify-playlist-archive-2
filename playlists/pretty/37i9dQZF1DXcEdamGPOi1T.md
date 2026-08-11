@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,709 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,717 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 99 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 |
 | 100 | [Tout nu sur la plage](https://open.spotify.com/track/1RcGvynfBjrDc8wCYwrNVI) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Grand champion international de course](https://open.spotify.com/album/5ids7qGNuA9v1ihCipKIAX) | 3:35 |
 
-Snapshot ID: `AAAAAL+G0W/fCp2qh51vciV0GoGl3Ctf`
+Snapshot ID: `AAAAAHNeuMWcHiVrjGcYipt7zsDyx1uu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,720 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,814 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 49 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
 | 50 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
 | 51 | [Partners in Crime \(feat\. Ash Costello\)](https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Ash Costello](https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn) | [Cinematics \(Expanded Edition\)](https://open.spotify.com/album/5lwxbnKOeXWAVrpsndQLs6) | 3:31 |
-| 52 | [Hello Juliet](https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Clarion](https://open.spotify.com/album/2gPxxzgdIHdUe9MAivY8Qw) | 3:28 |
-| 53 | [Scott Pilgrim vs\. My GPA](https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Best Buds](https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ) | 3:59 |
+| 52 | [Scott Pilgrim vs\. My GPA](https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Best Buds](https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ) | 3:59 |
+| 53 | [Hello Juliet](https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Clarion](https://open.spotify.com/album/2gPxxzgdIHdUe9MAivY8Qw) | 3:28 |
 | 54 | [The Downfall Of Us All](https://open.spotify.com/track/1KHKeIouP04dDtl0EetgED) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 3:29 |
 | 55 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 56 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 141 | [Check Yes, Juliet](https://open.spotify.com/track/5Vac8co5QPblcdlWbHSFsE) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/16OqvjtacYdg6vo26fc13Y) | 3:38 |
 | 142 | [You Stupid Bitch](https://open.spotify.com/track/4nlT0Ch4qpqoS8O1RsdzjH) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:15 |
 | 143 | [LOSER!!](https://open.spotify.com/track/5lHh9CANIUY82y1HEzoeIX) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [LOSER!!](https://open.spotify.com/album/0V7dIK9Bf6aVqSZuV0fqhD) | 3:48 |
-| 144 | [how could you do this to me?](https://open.spotify.com/track/3fLCfvAGhyi8i4MfBjHCLB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:40 |
-| 145 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
-| 146 | [Twin Size Mattress](https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4) | 4:24 |
-| 147 | [Lotta True Crime](https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:22 |
-| 148 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:37 |
+| 144 | [I Threw Glass at My Friend's Eyes and Now I'm on Probation](https://open.spotify.com/track/2NBxGmbCTLArOiMyWEWsPE) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:37 |
+| 145 | [how could you do this to me?](https://open.spotify.com/track/3fLCfvAGhyi8i4MfBjHCLB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:40 |
+| 146 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
+| 147 | [Twin Size Mattress](https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4) | 4:24 |
+| 148 | [Lotta True Crime](https://open.spotify.com/track/6Dqs6JddZc16yl27MDzIWY) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 3:22 |
 | 149 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 |
 | 150 | [Hell](https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Hell](https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU) | 2:06 |
 
-Snapshot ID: `AAAAAEAKsKt0uY8zNTx+flgBXsJXEKRN`
+Snapshot ID: `AAAAAPjDDXpz5MqPKI/c9lgVEDnkaGYd`

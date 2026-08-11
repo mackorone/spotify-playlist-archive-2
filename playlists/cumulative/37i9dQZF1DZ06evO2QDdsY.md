@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 40 min
+103 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,8 +98,9 @@
 | [Twined and Twisted](https://open.spotify.com/track/3ZJOBOxFUaxHX1ovXxQdCG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:13 | 2023-09-09 | 2026-07-24 |
 | [Two Hearts](https://open.spotify.com/track/5oUk1qXeCE355VLhp5Q49E) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:53 | 2022-09-16 |  |
 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 | 2022-10-10 |  |
+| [Tyrannosaur](https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Tyrannosaur](https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB) | 3:19 | 2026-08-11 |  |
 | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2V5o61Yu0ddJDFz1Pi8T3N) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/6YgBwPmvrWQYRd2QeoiXpq) | 3:21 | 2022-09-16 | 2024-04-30 |
-| [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk) | 3:21 | 2024-04-30 |  |
+| [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk) | 3:21 | 2024-04-30 | 2026-08-11 |
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2022-09-16 |  |
 | [Wanna Be On Your Mind](https://open.spotify.com/track/0sEkBF6SBgYoHTpJ7wfaXs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:56 | 2022-09-16 | 2024-06-06 |
 | [Wanna Be on Your Mind](https://open.spotify.com/track/1i9zKDcPdW7xPq8Kgte0t0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:58 | 2023-06-02 |  |

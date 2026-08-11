@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,784 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,786 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29RPTW.md) - [plain]
 | 49 | [The Man Without Fear \(Feat\. Rob Zombie\)](https://open.spotify.com/track/1QiK5rt7LwqclPwNqk4ZJJ) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Man Without Fear \(Feat\. Rob Zombie\)](https://open.spotify.com/album/3JGX7nmR5wcm04Kp4wmiuv) | 3:20 |
 | 50 | [Burn MF \(feat\. Rob Zombie\)](https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Wrong Side of Heaven Volume 1 + 2](https://open.spotify.com/album/2lEUy2FQGa4QchYQRbkN6t) | 3:37 |
 
-Snapshot ID: `anZxgAAAAADKAoADfwyP/dQJgJrV1mnV`
+Snapshot ID: `anfDAAAAAAAaJmb15na5IgZXXCId7ax+`

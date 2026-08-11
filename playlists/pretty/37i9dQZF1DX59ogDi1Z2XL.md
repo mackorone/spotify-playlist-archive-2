@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: ARDN
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,372 likes - 95 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,383 likes - 95 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 94 | [Slanted](https://open.spotify.com/track/1Qc07xFZtoVauMsFnlxXed) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [Slanted](https://open.spotify.com/album/7gxPP42HXKFhHaeHVY3GQw) | 2:18 |
 | 95 | [YellowGreenBlue](https://open.spotify.com/track/37Pt6RacSdDNeR7CiEsiFX) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [YellowGreenBlue](https://open.spotify.com/album/7IRJ0Q7GCqoqGaURNKbqlP) | 1:43 |
 
-Snapshot ID: `AAAAALIbwT8E0Ou/ZumlCIeeWsBhbedG`
+Snapshot ID: `AAAAAOsY0G2qFp3aKus1kLTBjZJHLJ80`

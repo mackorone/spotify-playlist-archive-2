@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 80s.",
-  "num_followers": 4095011,
+  "num_followers": 4095029,
   "original_name": "80s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJeR9gYRGuSIcVS+VT2NtS/iAI+M",
+  "snapshot_id": "AAAAAKaOdZoHwAUNxskF0+1coQ8VRb7k",
   "tracks": [
     {
       "added_at": "2024-09-13 16:58:23",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
+        "name": "Hatful of Hollow",
+        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 408173,
+      "name": "How Soon Is Now? - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
+    },
+    {
+      "added_at": "2024-09-13 16:58:23",
+      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
-    },
-    {
-      "added_at": "2024-09-13 16:58:23",
-      "album": {
-        "name": "Hatful of Hollow",
-        "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 408173,
-      "name": "How Soon Is Now? - 2011 Remaster",
-      "url": "https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU"
     },
     {
       "added_at": "2024-09-13 16:58:23",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-09-13 16:58:23",
       "album": {
-        "name": "Blizzard of Ozz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 296200,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     }
   ],
   "unique_name": "80s Rock Anthems",

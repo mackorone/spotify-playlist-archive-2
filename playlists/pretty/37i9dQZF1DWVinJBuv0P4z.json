@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 556627,
+  "num_followers": 556705,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFV6IBApPNEktjNTlhcsMDg6DgT3",
+  "snapshot_id": "AAAAAM1aqC7byi9qWHZHQweCPjrD66zB",
   "tracks": [
     {
       "added_at": "2024-07-12 21:11:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Elvis (Fool)",
-        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Burning Love",
-      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Blondes Have More Fun",
         "url": "https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 331333,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Elvis (Fool)",
+        "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Oh, Pretty Woman",
-        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 178929,
-      "name": "Oh, Pretty Woman",
-      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Oh, Pretty Woman",
+        "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 178929,
+      "name": "Oh, Pretty Woman",
+      "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
         }
       ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -839,22 +839,6 @@
       "duration_ms": 256493,
       "name": "You Should Be Dancing",
       "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -927,6 +911,22 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
         "name": "Ring My Bell",
         "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
       },
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
       "artists": [
         {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1099,6 +1083,22 @@
       "duration_ms": 179173,
       "name": "Top Of The World",
       "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Back Stabbers",
         "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Presenting Dion And The Belmonts",
         "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 158253,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/0QGwOFQChzflLAmPq5NwKo"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 172733,
       "name": "This Old Heart Of Mine (Is Weak For You)",
       "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "I Love To Love - The Best Of",
-        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
-      },
-      "artists": [
-        {
-          "name": "Tina Charles",
-          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "I Love to Love",
-      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "McFadden & Whitehead",
         "url": "https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 420986,
       "name": "Ain't No Stoppin' Us Now",
       "url": "https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "I Love To Love - The Best Of",
+        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
+      },
+      "artists": [
+        {
+          "name": "Tina Charles",
+          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "I Love to Love",
+      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165744,
-      "name": "The Way You Do The Things You Do",
-      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "It's Our Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 169296,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165744,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 138546,
       "name": "Hello Mary Lou, Goodbye Heart - Remastered",
       "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 159693,
-      "name": "Calendar Girl",
-      "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
-    },
-    {
-      "added_at": "2024-07-12 21:11:00",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -2291,18 +2275,18 @@
     {
       "added_at": "2024-07-12 21:11:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 159693,
+      "name": "Calendar Girl",
+      "url": "https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit"
     },
     {
       "added_at": "2024-07-12 21:11:00",
@@ -2319,6 +2303,22 @@
       "duration_ms": 140120,
       "name": "Da Doo Ron Ron (When He Walked Me Home)",
       "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
+    },
+    {
+      "added_at": "2024-07-12 21:11:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2024-07-12 21:11:00",

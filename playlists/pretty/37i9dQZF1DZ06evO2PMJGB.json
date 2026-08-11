@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264642,
+  "num_followers": 264637,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anZxgAAAAAAFb7WONPgHNFPe5kHQCyC0",
+  "snapshot_id": "anfDAAAAAAABKh3mLwHMDv9Kpl86+MqO",
   "tracks": [
     {
       "added_at": null,
@@ -171,42 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 234730,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUTAL PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 195696,
-      "name": "Que O Amor Morra",
-      "url": "https://open.spotify.com/track/3rngEXOOvLepn9qganbhjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORA\u00c7\u00c3O CIGANO (Ao Vivo)",
         "url": "https://open.spotify.com/album/70fOdx8p8kWMOIZzBY3dGj"
       },
@@ -227,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "bunda \ud83c\udf51",
-        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
       },
       "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 223855,
-      "name": "bunda \ud83c\udf51",
-      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+      "duration_ms": 195696,
+      "name": "Que O Amor Morra",
+      "url": "https://open.spotify.com/track/3rngEXOOvLepn9qganbhjp"
     },
     {
       "added_at": null,
@@ -254,35 +214,15 @@
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 222435,
-      "name": "Iguaria",
-      "url": "https://open.spotify.com/track/0xjlf07YcizDPmtLIGl5Og"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUTAL PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 184100,
-      "name": "Sonhei Contigo",
-      "url": "https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco"
+      "duration_ms": 234730,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
     },
     {
       "added_at": null,
@@ -311,6 +251,66 @@
       "duration_ms": 176073,
       "name": "QUE LOUCURA - Remix",
       "url": "https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bunda \ud83c\udf51",
+        "url": "https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 223855,
+      "name": "bunda \ud83c\udf51",
+      "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "duration_ms": 184100,
+      "name": "Sonhei Contigo",
+      "url": "https://open.spotify.com/track/7awOe7nQfsexvICymZ7rco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 222435,
+      "name": "Iguaria",
+      "url": "https://open.spotify.com/track/0xjlf07YcizDPmtLIGl5Og"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 125865,
-      "name": "Diferentemente",
-      "url": "https://open.spotify.com/track/2IShtzRVodHSdTKivgGhCY"
+      "duration_ms": 192766,
+      "name": "Loira Gelada",
+      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 192766,
-      "name": "Loira Gelada",
-      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
+      "duration_ms": 125865,
+      "name": "Diferentemente",
+      "url": "https://open.spotify.com/track/2IShtzRVodHSdTKivgGhCY"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor In Studio",
-        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "P\u00f3s Voc\u00ea",
-      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bossa Sempre Nova",
         "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 171490,
       "name": "Consola\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3aQlzls4W5SlVuEBsLUCZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor In Studio",
+        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "P\u00f3s Voc\u00ea",
+      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
     },
     {
       "added_at": null,

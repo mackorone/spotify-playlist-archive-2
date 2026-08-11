@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💖 Saint Clara
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,941 likes - 201 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,939 likes - 201 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 200 | [I'm Not There For You](https://open.spotify.com/track/3kLqlYcPuj5864tVB5LVL2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I'm Not There For You](https://open.spotify.com/album/370b4ij3gUhdJsUF2Z1zEe) | 2:19 |
 | 201 | [Where's My Mind](https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Where's My Mind](https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h) | 3:56 |
 
-Snapshot ID: `AAAAAIvI7wiLkBqlQIwiire+Efpeo0gC`
+Snapshot ID: `AAAAAPcY925j3Dvqqlbs9k66+D+GU9/R`

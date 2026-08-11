@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: T\. Danny, RZMVS
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: KKevin, Bruno X Spacc, VINI
 
-245 songs - 12 hr 8 min
+246 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [PONT JÓ](https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [PONT JÓ](https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1) | 2:34 | 2025-09-01 | 2026-02-24 |
 | [PONT JÓ](https://open.spotify.com/track/7K7nE6SeqGPcYpQ6Z1M6qx) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:34 | 2026-03-09 | 2026-06-21 |
 | [PRESSO](https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [PRESSO](https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3) | 2:37 | 2025-09-10 | 2026-02-04 |
+| [PRNSTR](https://open.spotify.com/track/2W4kPpKMD433pAW7rs4Bwu) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV) | [PRNSTR](https://open.spotify.com/album/6mVHjJjZzgeoU738rjGayb) | 2:18 | 2026-08-10 |  |
 | [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-08-27 | 2026-02-24 |
 | [Purgatórium](https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6), [Krúbi](https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Purgatórium](https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7) | 3:11 | 2025-11-10 | 2026-02-24 |
 | [PÁNCZÉL](https://open.spotify.com/track/6EeVhUxVV9eWB76HOBOQTt) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 2:11 | 2026-02-23 | 2026-03-10 |
@@ -244,7 +245,7 @@
 | [vrumm](https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [vrumm](https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ) | 2:26 | 2026-05-19 |  |
 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 | 2025-09-10 | 2026-04-01 |
 | [WAZZUP](https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c) | [MAXI](https://open.spotify.com/artist/3vhX1jGgjZ3DxaCBIJuUyO), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [WAZZUP](https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp) | 2:38 | 2026-06-08 |  |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-10-06 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-10-06 | 2026-08-11 |
 | [xXx](https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [xXx](https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX) | 3:49 | 2026-03-16 | 2026-06-21 |
 | [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 | 2025-08-11 | 2025-11-04 |
 | [ZHA MAJ DUR](https://open.spotify.com/track/1pveRbNO9ChgyuY37trkLw) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Farkas Pisti](https://open.spotify.com/artist/3S80BK8zfo0nGXKOgG4vo3) | [ZHA MAJ DUR](https://open.spotify.com/album/0QWmGuYzWAkZuvZPzZ8bV3) | 3:39 | 2025-02-17 | 2025-09-19 |

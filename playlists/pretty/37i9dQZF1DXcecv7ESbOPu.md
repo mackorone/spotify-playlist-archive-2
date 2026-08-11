@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Victor Leksell, Molly Sandén och Alex Warren med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,303 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,292 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 74 | [Crushed Flies on a Hot Radiator](https://open.spotify.com/track/6CyFXIPpsL0vbSLVJsNhFp) | [Fred Stranger & The Mudd Club](https://open.spotify.com/artist/1lI8Q7izUIJo937QJNKaLc) | [Crushed Flies on a Hot Radiator](https://open.spotify.com/album/4QZ7liA7EuAaJaw8PJFbRR) | 3:22 |
 | 75 | [on my heart](https://open.spotify.com/track/7uqfRR0nL3UtDSnSceUfbH) | [sebastian axe](https://open.spotify.com/artist/3I13zIUbHgAUTbUuu1Sh4S) | [on my heart](https://open.spotify.com/album/7h2jMJNdzHI7r1EoP7MfPQ) | 2:50 |
 
-Snapshot ID: `AAAAAC+w+mJMEHCuVt01LOU5Y46q9Vsu`
+Snapshot ID: `AAAAAJsDgiMuZ66It8Q/h/N9JjoCryzY`

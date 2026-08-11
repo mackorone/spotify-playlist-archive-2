@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,305 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,341 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 43 | [Vivendo Avançado \- Ao Vivo](https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:44 |
 | 44 | [Vibe Infinita](https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:23 |
 | 45 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/5GflWMue0Hausplsa02rLr) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8) | 4:02 |
-| 46 | [Não Temos Medo \- Remix](https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Direto da Selva Deluxe](https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1) | 4:16 |
-| 47 | [Livre & Triste](https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:40 |
+| 46 | [Livre & Triste](https://open.spotify.com/track/5Oe0bcaPy7N2NBwKdO6E4F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:40 |
+| 47 | [Não Temos Medo \- Remix](https://open.spotify.com/track/1T524gnYNnw5Ac35eyW5TR) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx) | [Direto da Selva Deluxe](https://open.spotify.com/album/1yK0Tu6gE5cup2SLcxAJV1) | 4:16 |
 | 48 | [KGL's](https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 4:18 |
 | 49 | [Não Sou Daqui](https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:48 |
 | 50 | [7 Meiota](https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 3:10 |
 
-Snapshot ID: `anZxgAAAAADt/NhDwx0g8VH6K/UCs2gN`
+Snapshot ID: `anfDAAAAAAAu1UBEsU6fEFFIaJatUkuv`
