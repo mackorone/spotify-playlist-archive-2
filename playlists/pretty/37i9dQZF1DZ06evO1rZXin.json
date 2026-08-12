@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7474,
+  "num_followers": 7473,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADOBqkW+YKF4yZqseo/dJe+",
+  "snapshot_id": "ankUgAAAAABSloKdszx1uPZKtt373Lep",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esa Chica Me Vacila",
-        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144200,
-      "name": "La Vaquilla Prieta",
-      "url": "https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Ves Bien Buena...",
         "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 159800,
       "name": "Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/03VYmP2mFFxRMTOWFwscCS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esa Chica Me Vacila",
+        "url": "https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "La Vaquilla Prieta",
+      "url": "https://open.spotify.com/track/4T0RsUzObI18MdCLCbIiCa"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La V\u00edbora Peligrosa",
         "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 149084,
       "name": "La V\u00edbora Peligrosa",
       "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
     },
     {
       "added_at": null,

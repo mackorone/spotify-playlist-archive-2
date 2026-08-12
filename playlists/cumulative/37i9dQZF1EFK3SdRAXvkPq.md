@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 8 hr 39 min
+169 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [FKN Movie](https://open.spotify.com/track/0t2Y8BKBhtHQTOW7nzyIc0) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:59 | 2025-11-07 |  |
 | [Freshy](https://open.spotify.com/track/1kH0az3ybfv6yI7NAlLFE0) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Freshy](https://open.spotify.com/album/160ESTRdBsAbDx6kERV6TU) | 2:23 | 2025-11-07 |  |
 | [GATA G](https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 2:43 | 2025-11-07 |  |
+| [GL](https://open.spotify.com/track/1KFB36MCmrNXVD4I15kO0R) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:01 | 2026-08-11 |  |
 | [Gracias](https://open.spotify.com/track/0CCaGohJXrtZaNyPB3xQxz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:41 | 2025-11-07 |  |
 | [Hacerte de To'](https://open.spotify.com/track/6DRWN9O6O9LcL2e3nczZfW) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Hacerte de To'](https://open.spotify.com/album/5RJ4FHboqOZEsNQQcPrk7s) | 2:29 | 2025-11-07 |  |
 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 | 2025-11-07 |  |

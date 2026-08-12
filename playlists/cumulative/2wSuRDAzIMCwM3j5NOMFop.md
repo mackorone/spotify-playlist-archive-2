@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-60 songs - 3 hr 6 min
+61 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2023-06-03 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [Suitcase Full of Cash](https://open.spotify.com/track/67O2bC5H2EzBqTEAM2Ztdr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:29 | 2024-10-03 |  |
+| [Texting & Driving](https://open.spotify.com/track/7vM2XjIZRTLQ3JmPezcHVr) | [GUPPY](https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z) | [Something is Happening…](https://open.spotify.com/album/7DgxHSUA9QEZozUrlxhiI0) | 2:59 | 2026-08-11 |  |
 | [The Dismemberment Song](https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm) | [Blue Kid](https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN) | [Upright, Love](https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd) | 4:36 | 2024-10-14 |  |
 | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/track/0xrvkq5EEpHZWKmacINtuh) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Wage Wars Get Rich Die Handsome](https://open.spotify.com/album/1NwWEsaGkDshr7vA7uOOlN) | 2:30 | 2024-11-09 |  |
 | [Wage Wars Get Rich Die Handsome \(The Jordan Lake Sessions Volume 5\)](https://open.spotify.com/track/4AcfUWv9nT3OP8V4dAZedQ) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volume 5](https://open.spotify.com/album/2qobfbPVsiuJTUDtzJsbUc) | 2:25 | 2023-01-09 |  |

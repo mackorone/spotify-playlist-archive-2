@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303135,
+  "num_followers": 303155,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAARhsJfKa58Qp+S97YCkppY",
+  "snapshot_id": "ankUgAAAAAC4ogeSIxQSjQQ8SHTnkdSp",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 227546,
-      "name": "The Lunatic",
-      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
+      "duration_ms": 240693,
+      "name": "The Beating of Wings",
+      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 240693,
-      "name": "The Beating of Wings",
-      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
+      "duration_ms": 227546,
+      "name": "The Lunatic",
+      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
     },
     {
       "added_at": null,

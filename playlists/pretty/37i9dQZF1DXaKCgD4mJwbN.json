@@ -1,12 +1,12 @@
 {
   "description": "Puras rolitas pa' empinar el codo.",
-  "num_followers": 1211014,
+  "num_followers": 1211099,
   "original_name": "Pa' Pistear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEQvCm4x2tW6hpDo/nj7J+wUpp9W",
+  "snapshot_id": "AAAAAHkGcV9bMpW3B2Ym0UBUFHXK2cLm",
   "tracks": [
     {
       "added_at": "2026-07-17 04:01:22",
@@ -927,30 +927,6 @@
     {
       "added_at": "2026-07-17 04:01:22",
       "album": {
-        "name": "Aguas",
-        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Rey Quinto",
-          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
-        }
-      ],
-      "duration_ms": 172682,
-      "name": "Aguas",
-      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
-    },
-    {
-      "added_at": "2026-07-17 04:01:22",
-      "album": {
         "name": "Belico",
         "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
@@ -983,6 +959,30 @@
       "duration_ms": 170832,
       "name": "Apaga El Cel",
       "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2026-07-17 04:01:22",
+      "album": {
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "duration_ms": 172682,
+      "name": "Aguas",
+      "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
     },
     {
       "added_at": "2026-07-17 04:01:22",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-07-17 04:01:22",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2026-07-17 04:01:22",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -1563,22 +1547,18 @@
     {
       "added_at": "2026-07-17 04:01:22",
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2026-07-17 04:01:22",
@@ -1595,6 +1575,26 @@
       "duration_ms": 174000,
       "name": "Tu Perfume",
       "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
+    },
+    {
+      "added_at": "2026-07-17 04:01:22",
+      "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
     },
     {
       "added_at": "2026-07-17 04:01:22",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-07-17 04:01:22",
       "album": {
-        "name": "Fuera Mas Feliz",
-        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
-      },
-      "artists": [
-        {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
-        }
-      ],
-      "duration_ms": 141285,
-      "name": "Fuera Mas Feliz",
-      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
-    },
-    {
-      "added_at": "2026-07-17 04:01:22",
-      "album": {
         "name": "35 Aniversario",
         "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 227933,
       "name": "Actos De Un Tonto",
       "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
+    },
+    {
+      "added_at": "2026-07-17 04:01:22",
+      "album": {
+        "name": "Fuera Mas Feliz",
+        "url": "https://open.spotify.com/album/1sEAPhutMLCyyChH05Moru"
+      },
+      "artists": [
+        {
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+        }
+      ],
+      "duration_ms": 141285,
+      "name": "Fuera Mas Feliz",
+      "url": "https://open.spotify.com/track/03hxCxEXYvCBtoLizpPIzT"
     },
     {
       "added_at": "2026-07-17 04:01:22",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-07-17 04:01:22",
       "album": {
-        "name": "M\u00e1s Te Recuerdo",
-        "url": "https://open.spotify.com/album/34JyFxBnl0taw2qyHljFbA"
-      },
-      "artists": [
-        {
-          "name": "Hernan Sepulveda",
-          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
-        }
-      ],
-      "duration_ms": 270998,
-      "name": "M\u00e1s Te Recuerdo",
-      "url": "https://open.spotify.com/track/0GehdqUxnosJjrruvQCixm"
-    },
-    {
-      "added_at": "2026-07-17 04:01:22",
-      "album": {
         "name": "35 Aniversario",
         "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 159773,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
+    },
+    {
+      "added_at": "2026-07-17 04:01:22",
+      "album": {
+        "name": "M\u00e1s Te Recuerdo",
+        "url": "https://open.spotify.com/album/34JyFxBnl0taw2qyHljFbA"
+      },
+      "artists": [
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 270998,
+      "name": "M\u00e1s Te Recuerdo",
+      "url": "https://open.spotify.com/track/0GehdqUxnosJjrruvQCixm"
     },
     {
       "added_at": "2026-07-17 04:01:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,664 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,678 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 14 | [Hey Pavlaay](https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss) | [Preet Bandre](https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2), [Dhruvan Moorthy](https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu) | [Hey Pavlaay](https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P) | 1:53 |
 | 15 | [Angaat Aalaya](https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Angaat Aalaya \- Zombivli](https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx) | 3:46 |
 | 16 | [Koliwada Jhingla](https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e) | [Siddhi Ture](https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1) | [Koliwada Jhingla](https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo) | 3:47 |
-| 17 | [Numberkari](https://open.spotify.com/track/2RBSlozluCiLoguWs977VK) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC), [Vivekraja](https://open.spotify.com/artist/4nfWtubtm5hcq13C2BPsiH), [Shubham Koli](https://open.spotify.com/artist/5xBDWJtq8jwXKdUtFBT2rm), [ANDHADHUN](https://open.spotify.com/artist/46rGkvDphL2WSndHXjUpmC) | [Numberkari](https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB) | 3:36 |
+| 17 | [Numberkari](https://open.spotify.com/track/2RBSlozluCiLoguWs977VK) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC), [Vivekraja](https://open.spotify.com/artist/4nfWtubtm5hcq13C2BPsiH) | [Numberkari](https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB) | 3:36 |
 | 18 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
 | 19 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
 | 20 | [Angaar Bhangar Nai Rr](https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1) | [Madhur Milind Shinde](https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J) | [Angar Bhangar Nay Rr \- Single](https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg) | 3:37 |
 | 21 | [Majhi Baay Go](https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0) | [Prashant Nakti](https://open.spotify.com/artist/3f2UsSsI3E7VHH2mbBscJc), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Sanket Gurav](https://open.spotify.com/artist/6auFxXWRND1WYlRzEYY5Zr), [Nick Shinde](https://open.spotify.com/artist/2CttsFXKKCVqQsbABphTKu) | [Majhi Baay Go](https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD) | 4:28 |
-| 22 | [Pailwaan](https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS) | [Brahmaa](https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Pailwaan](https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG) | 3:57 |
-| 23 | [Email Kaal Internetvar Kela](https://open.spotify.com/track/2hh7Pp6vIoSTXnSBsTesQ9) | [Janhavi Arora](https://open.spotify.com/artist/07qG3AroF8Mx0q26F3Gmvw) | [Morya](https://open.spotify.com/album/3XsC9DdsoR70XpXdqmIuNm) | 4:36 |
+| 22 | [Email Kaal Internetvar Kela](https://open.spotify.com/track/2hh7Pp6vIoSTXnSBsTesQ9) | [Janhavi Arora](https://open.spotify.com/artist/07qG3AroF8Mx0q26F3Gmvw) | [Morya](https://open.spotify.com/album/3XsC9DdsoR70XpXdqmIuNm) | 4:36 |
+| 23 | [Pailwaan](https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS) | [Brahmaa](https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Pailwaan](https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG) | 3:57 |
 | 24 | [Koligeet Mashup 3](https://open.spotify.com/track/2jtBlW0nxItmYL03yG0gQ1) | [Crown J](https://open.spotify.com/artist/14D73AR7J5qqIzJwplkcda) | [Koligeet Mashup 3](https://open.spotify.com/album/3VSHYXGtPiwodxy8We8AK8) | 3:15 |
 | 25 | [Rupaan Dekhani](https://open.spotify.com/track/5fAcWB4rIuUojHbmFmctU5) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8), [Hrishikesh](https://open.spotify.com/artist/23y7sT3YJztGVJUMMYuxL4) | [Pachadlela \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5iQTSsJbAsXwrDveCmKh7T) | 5:03 |
 | 26 | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/track/2a0SIkpwz7tWP9fKrNrx07) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Mamachya Gavala \- Kratex Remix](https://open.spotify.com/album/6BNKdnEmPOqzRauarspPCQ) | 3:15 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
 | 43 | [Payee Fufata](https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R) | 4:06 |
 
-Snapshot ID: `AAAAACRTszIwnKZ5TTFSqCkrnw+orIcc`
+Snapshot ID: `AAAAANtYrTRPEunp1NDj9zLYQrv7p79G`

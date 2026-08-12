@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162091,
+  "num_followers": 162096,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAABccWbAvS3BPVSAmUc64IA3",
+  "snapshot_id": "ankUgAAAAAAqKS3CeSqibGFuaVIq605P",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tem Que Haver Mais",
-        "url": "https://open.spotify.com/album/6vnoBJ5LAM8CQMNKrqPC96"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 359040,
-      "name": "Tem Que Haver Mais",
-      "url": "https://open.spotify.com/track/3W3ZsM73DdsgCUcIpMCtXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 397850,
       "name": "Sonda-me, Usa-me",
       "url": "https://open.spotify.com/track/0ozX4JUZkx1OWMVKRbaWTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tem Que Haver Mais",
+        "url": "https://open.spotify.com/album/6vnoBJ5LAM8CQMNKrqPC96"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 359040,
+      "name": "Tem Que Haver Mais",
+      "url": "https://open.spotify.com/track/3W3ZsM73DdsgCUcIpMCtXe"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros 20 Anos Ao Vivo",
         "url": "https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 372720,
       "name": "O Poder do Teu Amor (The Power Of Your Love) - Ao Vivo",
       "url": "https://open.spotify.com/track/63qYnhfLWKoEEBY6pLHkWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
     },
     {
       "added_at": null,

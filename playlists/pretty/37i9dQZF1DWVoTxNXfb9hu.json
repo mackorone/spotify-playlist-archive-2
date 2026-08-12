@@ -1,12 +1,12 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 180934,
+  "num_followers": 180975,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3buVQDa5oC0j37bXwZ4sDqP9fM",
+  "snapshot_id": "AAAAALrrnJnDpAYbX6kaQY58VE5wzX//",
   "tracks": [
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Bad Newz",
+        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Tauba Tauba",
+      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Student of the Year (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 342093,
       "name": "The Disco Song",
       "url": "https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Bad Newz",
-        "url": "https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Tauba Tauba",
-      "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-03-19 09:40:44",
       "album": {
+        "name": "Judwaa 2",
+        "url": "https://open.spotify.com/album/5s5nSyhQFpoXZeqqTXQ16J"
+      },
+      "artists": [
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "duration_ms": 261004,
+      "name": "Chalti Hai Kya 9 Se 12",
+      "url": "https://open.spotify.com/track/06wmFmUzR15wlWpjTYwVTr"
+    },
+    {
+      "added_at": "2026-03-19 09:40:44",
+      "album": {
         "name": "Husn Hai Suhana (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
-    },
-    {
-      "added_at": "2026-03-19 09:40:44",
-      "album": {
-        "name": "Judwaa 2",
-        "url": "https://open.spotify.com/album/5s5nSyhQFpoXZeqqTXQ16J"
-      },
-      "artists": [
-        {
-          "name": "Dev Negi",
-          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 261004,
-      "name": "Chalti Hai Kya 9 Se 12",
-      "url": "https://open.spotify.com/track/06wmFmUzR15wlWpjTYwVTr"
     },
     {
       "added_at": "2026-03-19 09:40:44",
@@ -1734,6 +1734,18 @@
         {
           "name": "Neha Kakkar",
           "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Panjabi MC",
+          "url": "https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
         }
       ],
       "duration_ms": 198025,

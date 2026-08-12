@@ -1,13 +1,109 @@
 {
   "description": "\u207a\u2027\u208a\u02da A curated space for the avant-garde\u22c6 \u02da\u208a\u2027\u207a Cover: Arca",
-  "num_followers": 185072,
+  "num_followers": 185166,
   "original_name": "Proto-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUhsQrR/74727lPD1yxtJF7t8kc",
+  "snapshot_id": "AAAAAKs5oelPRc+0bS6OU14cXT8gSWT0",
   "tracks": [
+    {
+      "added_at": "2026-08-07 15:14:59",
+      "album": {
+        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
+    },
+    {
+      "added_at": "2026-08-07 15:14:59",
+      "album": {
+        "name": "help, im still falling",
+        "url": "https://open.spotify.com/album/7asLU164NaILgnXfewdEXY"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 106771,
+      "name": "help, im still falling",
+      "url": "https://open.spotify.com/track/2wRzkt3aewjpSeudZ7n2R3"
+    },
+    {
+      "added_at": "2026-08-07 15:14:59",
+      "album": {
+        "name": "TAKA LA DENTRO",
+        "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
+      },
+      "artists": [
+        {
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+        },
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "duration_ms": 89809,
+      "name": "TAKA LA DENTRO",
+      "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
+    },
+    {
+      "added_at": "2026-08-07 15:14:59",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/4iEHPWf90D0ZEUHzd3Mv5a"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        },
+        {
+          "name": "fkblnde",
+          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
+        }
+      ],
+      "duration_ms": 185777,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
+    },
+    {
+      "added_at": "2026-08-07 15:14:59",
+      "album": {
+        "name": "after i left",
+        "url": "https://open.spotify.com/album/2ZPESXoOOXb1uV9oYfX18A"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "duration_ms": 113548,
+      "name": "after i left",
+      "url": "https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K"
+    },
     {
       "added_at": "2026-08-07 15:14:59",
       "album": {
@@ -20,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 201623,
-      "name": "Fxck",
-      "url": "https://open.spotify.com/track/2rkIGabj2B2LEEBGdENFvq"
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
     },
     {
       "added_at": "2026-08-07 15:14:59",
@@ -131,42 +227,6 @@
       "duration_ms": 152727,
       "name": "bullet caught in a spiders web",
       "url": "https://open.spotify.com/track/0ROLOhXTR43bWEcj19hcii"
-    },
-    {
-      "added_at": "2026-08-07 15:14:59",
-      "album": {
-        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
-    },
-    {
-      "added_at": "2026-08-07 15:14:59",
-      "album": {
-        "name": "XXXXX",
-        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 138118,
-      "name": "Taconeando",
-      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
     },
     {
       "added_at": "2026-08-07 15:14:59",
@@ -535,22 +595,6 @@
     {
       "added_at": "2026-08-07 15:14:59",
       "album": {
-        "name": "help, im still falling",
-        "url": "https://open.spotify.com/album/7asLU164NaILgnXfewdEXY"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 106771,
-      "name": "help, im still falling",
-      "url": "https://open.spotify.com/track/2wRzkt3aewjpSeudZ7n2R3"
-    },
-    {
-      "added_at": "2026-08-07 15:14:59",
-      "album": {
         "name": "Sign From God",
         "url": "https://open.spotify.com/album/52wtfF7dc3lrllLzMhEQ3I"
       },
@@ -567,66 +611,6 @@
       "duration_ms": 200200,
       "name": "Sign From God",
       "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
-    },
-    {
-      "added_at": "2026-08-07 15:14:59",
-      "album": {
-        "name": "TAKA LA DENTRO",
-        "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
-      },
-      "artists": [
-        {
-          "name": "SEKIMANE",
-          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
-        },
-        {
-          "name": "shonci",
-          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 89809,
-      "name": "TAKA LA DENTRO",
-      "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
-    },
-    {
-      "added_at": "2026-08-07 15:14:59",
-      "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/4iEHPWf90D0ZEUHzd3Mv5a"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        },
-        {
-          "name": "fkblnde",
-          "url": "https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl"
-        }
-      ],
-      "duration_ms": 185777,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/30sZwWmbQEej0Xg3fhdExf"
-    },
-    {
-      "added_at": "2026-08-07 15:14:59",
-      "album": {
-        "name": "after i left",
-        "url": "https://open.spotify.com/album/2ZPESXoOOXb1uV9oYfX18A"
-      },
-      "artists": [
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
-        }
-      ],
-      "duration_ms": 113548,
-      "name": "after i left",
-      "url": "https://open.spotify.com/track/60aUv5itfZGvZzG1dT8h4K"
     },
     {
       "added_at": "2026-08-07 15:14:59",

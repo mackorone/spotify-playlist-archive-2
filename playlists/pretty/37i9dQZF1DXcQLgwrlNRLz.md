@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: TRK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,713 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,727 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 | 80 | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 |
 
-Snapshot ID: `AAAAAOaxmC7GZpUuCFMFs7Nfx88oiGbB`
+Snapshot ID: `AAAAAHsud8FxZEH2Azxwfx+kHkDu0gum`

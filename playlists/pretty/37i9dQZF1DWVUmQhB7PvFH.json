@@ -1,12 +1,12 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (JOLIN)",
-  "num_followers": 260820,
+  "num_followers": 260844,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKSea3xMhPeScE3EyuA0MVaHOo/",
+  "snapshot_id": "AAAAAEef8oiCP7Y5jo0uW9SRG1n3Pxdp",
   "tracks": [
     {
       "added_at": "2026-02-09 02:31:39",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u6797\u61b6\u84ee",
-        "url": "https://open.spotify.com/album/0ALo1FwFjm2eUm7yEYp81j"
-      },
-      "artists": [
-        {
-          "name": "Sandy Lam",
-          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "\u81f3\u5c11\u9084\u6709\u4f60",
-      "url": "https://open.spotify.com/track/0fGM6yMJ1swPXt5NI0GCdl"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u5fc3\u4e2d\u7684\u65e5\u6708",
         "url": "https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw"
       },
@@ -91,18 +75,34 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u611b\u611b\u611b",
-        "url": "https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v"
+        "name": "\u6797\u61b6\u84ee",
+        "url": "https://open.spotify.com/album/0ALo1FwFjm2eUm7yEYp81j"
       },
       "artists": [
         {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+          "name": "Sandy Lam",
+          "url": "https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro"
         }
       ],
-      "duration_ms": 215253,
-      "name": "\u611b\u611b\u611b",
-      "url": "https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz"
+      "duration_ms": 274800,
+      "name": "\u81f3\u5c11\u9084\u6709\u4f60",
+      "url": "https://open.spotify.com/track/0fGM6yMJ1swPXt5NI0GCdl"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+      },
+      "artists": [
+        {
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u7ae5\u8a71",
+      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -123,18 +123,18 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
-        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+        "name": "\u611b\u611b\u611b",
+        "url": "https://open.spotify.com/album/75QhyYrpr4b3sJUvmYAU3v"
       },
       "artists": [
         {
-          "name": "Michael Wong",
-          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
         }
       ],
-      "duration_ms": 246000,
-      "name": "\u7ae5\u8a71",
-      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
+      "duration_ms": 215253,
+      "name": "\u611b\u611b\u611b",
+      "url": "https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5225\u518d\u70ba\u4ed6\u6d41\u6dda",
-        "url": "https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "\u60c5\u6b4c",
-      "url": "https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u5929\u751f\u6b4c\u59ec",
         "url": "https://open.spotify.com/album/2V5Kj9W4gcN44senRcoCAV"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 266360,
       "name": "\u611b \u8acb\u554f\u600e\u9ebc\u8d70",
       "url": "https://open.spotify.com/track/2mqHMawyHWU5B5f2wA299P"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u5225\u518d\u70ba\u4ed6\u6d41\u6dda",
+        "url": "https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "\u60c5\u6b4c",
+      "url": "https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u52c7\u6c23",
-        "url": "https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN"
-      },
-      "artists": [
-        {
-          "name": "Fish Leong",
-          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "\u52c7\u6c23",
-      "url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u98db\u5152\u6a02\u5718",
         "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 238933,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/4D4KVgVNxed4Hd3rGWlCo2"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u52c7\u6c23",
+        "url": "https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN"
+      },
+      "artists": [
+        {
+          "name": "Fish Leong",
+          "url": "https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS"
+        }
+      ],
+      "duration_ms": 239293,
+      "name": "\u52c7\u6c23",
+      "url": "https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 294026,
-      "name": "\u9006\u5149",
-      "url": "https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 299346,
       "name": "\u5931\u843d\u6c99\u6d32",
       "url": "https://open.spotify.com/track/2MBFevxaJ6bX6Lp7jt3UG1"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "\u9006\u5149",
+      "url": "https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5931\u6200\u7121\u7f6a",
-        "url": "https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "\u5931\u6200\u7121\u7f6a",
-      "url": "https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u5f90\u4f73\u7469LaLa\u9996\u5f35\u5275\u4f5c\u5c08\u8f2f",
         "url": "https://open.spotify.com/album/3swRaeU1n5aidOutReHHcO"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 240386,
       "name": "\u4e00\u6a23\u7684\u6708\u5149",
       "url": "https://open.spotify.com/track/4wRYpv96z3nmsiC9f3BdWh"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u5931\u6200\u7121\u7f6a",
+        "url": "https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 246693,
+      "name": "\u5931\u6200\u7121\u7f6a",
+      "url": "https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5409\u4ed6\u624b",
-        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "\u592a\u8070\u660e",
-      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u672a\u4f86",
         "url": "https://open.spotify.com/album/4y11FrvacuhutkuV9T1mlq"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 269293,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/2XEtdVgbgltXfzVQppAkbi"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u5409\u4ed6\u624b",
+        "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "\u592a\u8070\u660e",
+      "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
+        "name": "\u6a59\u6708",
+        "url": "https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "\u4e09\u4eba\u904a",
+      "url": "https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
         "name": "11\u6708\u7684\u856d\u90a6",
         "url": "https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
-        "name": "\u6a59\u6708",
-        "url": "https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB"
-      },
-      "artists": [
-        {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "\u4e09\u4eba\u904a",
-      "url": "https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
       },
       "artists": [
         {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
         }
       ],
-      "duration_ms": 297200,
-      "name": "\u4e03\u91cc\u9999",
-      "url": "https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT"
+      "duration_ms": 263333,
+      "name": "\u7b2c\u4e00\u6b21",
+      "url": "https://open.spotify.com/track/2PXhHrVL1HkKk4fto9D8zE"
     }
   ],
   "unique_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",

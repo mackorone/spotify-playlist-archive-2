@@ -1,12 +1,12 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96185,
+  "num_followers": 96192,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKj8EHWFUcCccfb/dzKu3oQf9+8T",
+  "snapshot_id": "AAAAAFsMIfqr9ZvRVTog6r19aL/FUEsd",
   "tracks": [
     {
       "added_at": "2026-07-17 09:37:48",
@@ -815,30 +815,6 @@
     {
       "added_at": "2026-07-17 09:37:48",
       "album": {
-        "name": "Cyber War",
-        "url": "https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF"
-      },
-      "artists": [
-        {
-          "name": "Cyber Gunz",
-          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
-        },
-        {
-          "name": "RWF",
-          "url": "https://open.spotify.com/artist/5SSccKfaWK4yIu8TsqUtac"
-        },
-        {
-          "name": "KIOR",
-          "url": "https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ"
-        }
-      ],
-      "duration_ms": 178670,
-      "name": "Turn the Tide",
-      "url": "https://open.spotify.com/track/41xptomAuNGKBU6g00EoLv"
-    },
-    {
-      "added_at": "2026-07-17 09:37:48",
-      "album": {
         "name": "Remember The Name",
         "url": "https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 173925,
       "name": "Make It Fucking Harder!",
       "url": "https://open.spotify.com/track/4atDi2L3enDcDZdJ1PxCdl"
+    },
+    {
+      "added_at": "2026-07-17 09:37:48",
+      "album": {
+        "name": "Cyber War",
+        "url": "https://open.spotify.com/album/6s0SZMQ3plk02FvwNO5dWF"
+      },
+      "artists": [
+        {
+          "name": "Cyber Gunz",
+          "url": "https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr"
+        },
+        {
+          "name": "RWF",
+          "url": "https://open.spotify.com/artist/5SSccKfaWK4yIu8TsqUtac"
+        },
+        {
+          "name": "KIOR",
+          "url": "https://open.spotify.com/artist/5T4JS1DKk850DNKpQoIbYJ"
+        }
+      ],
+      "duration_ms": 178670,
+      "name": "Turn the Tide",
+      "url": "https://open.spotify.com/track/41xptomAuNGKBU6g00EoLv"
     },
     {
       "added_at": "2026-07-17 09:37:48",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-07-17 09:37:48",
       "album": {
+        "name": "Sound The Alarm",
+        "url": "https://open.spotify.com/album/1bSFo51TYynrW9FGhJiuJG"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 209147,
+      "name": "Sound The Alarm",
+      "url": "https://open.spotify.com/track/77RXsitsubxemClFhtM8Kr"
+    },
+    {
+      "added_at": "2026-07-17 09:37:48",
+      "album": {
         "name": "The Summer Is Keta",
         "url": "https://open.spotify.com/album/05bZummlRKIQAiuIZdlgAX"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 150000,
       "name": "The Summer Is Keta",
       "url": "https://open.spotify.com/track/1RIfNLnJyiEg49j7H9m1y6"
-    },
-    {
-      "added_at": "2026-07-17 09:37:48",
-      "album": {
-        "name": "Sound The Alarm",
-        "url": "https://open.spotify.com/album/1bSFo51TYynrW9FGhJiuJG"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 209147,
-      "name": "Sound The Alarm",
-      "url": "https://open.spotify.com/track/77RXsitsubxemClFhtM8Kr"
     },
     {
       "added_at": "2026-07-17 09:37:48",

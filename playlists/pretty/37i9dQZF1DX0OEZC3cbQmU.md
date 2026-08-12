@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,333,543 likes - 75 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,333,642 likes - 75 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Sião / Derrama \- Ao Vivo](https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Sião / Derrama \(Ao Vivo\)](https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9) | 8:28 |
 | 75 | [Se eu Somente Te Tocar \- Ao Vivo](https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1) | [Nilson Junior](https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny) | [Se eu Somente Te Tocar \(Ao Vivo\)](https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9) | 4:55 |
 
-Snapshot ID: `AAAAACXMzItfGMylmDeY/LbwyKnkjRpi`
+Snapshot ID: `AAAAAHWjTOnI6K7yxmql2B3HJg4if4J/`

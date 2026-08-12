@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 571322,
+  "num_followers": 571295,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4PA675Z1mHNSUpVTzomJebc7EW",
+  "snapshot_id": "AAAAACce0UElGfy+Y45ijziRnY0QfE4X",
   "tracks": [
     {
       "added_at": "2026-06-29 14:06:42",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "L\u00e1grimas desordenadas",
+        "url": "https://open.spotify.com/album/1J83k6qJHhtXaexpnJzoqr"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        }
+      ],
+      "duration_ms": 236975,
+      "name": "Tu jard\u00edn con enanitos",
+      "url": "https://open.spotify.com/track/6yCjU5j6YHbux2VQCBTTE1"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 224186,
       "name": "Despeinada",
       "url": "https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "L\u00e1grimas desordenadas",
-        "url": "https://open.spotify.com/album/1J83k6qJHhtXaexpnJzoqr"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 236975,
-      "name": "Tu jard\u00edn con enanitos",
-      "url": "https://open.spotify.com/track/6yCjU5j6YHbux2VQCBTTE1"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 166231,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/36p7j71sxtF196iOkkAeM0"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 166231,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/71zDsjmPR5XyMcjsl9JpWV"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Madrid City",
-        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Madrid City",
-      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Madrid City",
+        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Madrid City",
+      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
       },
       "artists": [
         {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
         }
       ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
       "artists": [
         {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
         }
       ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Canciones para el tiempo y la distancia",
+        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Turnedo",
+      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Your Song",
         "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
       },
@@ -2019,18 +2035,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Canciones para el tiempo y la distancia",
-        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
       },
       "artists": [
         {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
         }
       ],
-      "duration_ms": 278333,
-      "name": "Turnedo",
-      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2055,22 +2071,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Bailar El Viento",
         "url": "https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS"
       },
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "L\u00e1rgate",
-        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 180074,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Un D\u00eda en el Mundo",
         "url": "https://open.spotify.com/album/7ozOQXEfKskKDTtDpmTnuh"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 303693,
       "name": "Copenhague",
       "url": "https://open.spotify.com/track/4bZEZhCq2kqUxnMacXVl5x"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "L\u00e1rgate",
+        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 180074,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2375,30 +2375,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "La flor de la Vida",
-        "url": "https://open.spotify.com/album/5fbuCzhbAVE6xLxR5xagtQ"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Salistre",
-          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
-        },
-        {
-          "name": "Pikeras",
-          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
-        }
-      ],
-      "duration_ms": 164444,
-      "name": "La flor de la Vida",
-      "url": "https://open.spotify.com/track/4266j8xOKPHvR6WzajBl6f"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2423,6 +2399,30 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "La flor de la Vida",
+        "url": "https://open.spotify.com/album/5fbuCzhbAVE6xLxR5xagtQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Salistre",
+          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
+        },
+        {
+          "name": "Pikeras",
+          "url": "https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G"
+        }
+      ],
+      "duration_ms": 164444,
+      "name": "La flor de la Vida",
+      "url": "https://open.spotify.com/track/4266j8xOKPHvR6WzajBl6f"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Flags",
         "url": "https://open.spotify.com/album/4JYjZh7R8F7Na5x1lVqOl9"
       },
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "NEXO 04. Tu cuerpo en braille",
-        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "NEXO 04. Tu cuerpo en braille",
-      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 229406,
       "name": "No Te Preocupes por Mi",
       "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "NEXO 04. Tu cuerpo en braille",
+        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "NEXO 04. Tu cuerpo en braille",
+      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Aqu\u00ed no sobra nadie",
-        "url": "https://open.spotify.com/album/7m8RIp8c4rxCeuXdx1dpWO"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 190768,
-      "name": "Nidito de amor",
-      "url": "https://open.spotify.com/track/6cHog7WNzEelSIxMFCkHWA"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 202129,
       "name": "Desde cero (con Melendi)",
       "url": "https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Aqu\u00ed no sobra nadie",
+        "url": "https://open.spotify.com/album/7m8RIp8c4rxCeuXdx1dpWO"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 190768,
+      "name": "Nidito de amor",
+      "url": "https://open.spotify.com/track/6cHog7WNzEelSIxMFCkHWA"
     },
     {
       "added_at": "2026-06-29 14:06:42",

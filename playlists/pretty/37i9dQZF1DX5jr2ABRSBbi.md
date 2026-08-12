@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechni si ženy z Česka a Slovenska na plný pecky! Playlist byl sestaven ve spolupráci s bae  💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,858 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,856 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 59 | [Supernova](https://open.spotify.com/track/0KB8nKVqPxGjmpjPFyZfFY) | [bae](https://open.spotify.com/artist/6aXwV5fyIc61IhTAvxXGnJ) | [Supernova](https://open.spotify.com/album/52K2wG2KhBGsLcbY7ItMUR) | 2:21 |
 | 60 | [DAMIÁN](https://open.spotify.com/track/0tOvZnSprUPJYVD0UjX8oa) | [Tajči Gali](https://open.spotify.com/artist/2qgmE0kzhXWaKAm2P8rjqX) | [DAMIÁN](https://open.spotify.com/album/3F2n3Exjpm6FASksTQdIY2) | 3:14 |
 
-Snapshot ID: `AAAAADNgQaz5iPAU6dahnwm3ETG04XFN`
+Snapshot ID: `AAAAABr5A5HPKR5DUBz+aBmoXjHMfORU`

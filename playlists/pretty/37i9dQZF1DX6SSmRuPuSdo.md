@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SSmRuPuSdo.md) - [plain]
 | 34 | [MADE IN SEOUL \(Feat\. The Quiett\)](https://open.spotify.com/track/0qqAidmkRKI6OobVx5UgtK) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MADE IN SEOUL](https://open.spotify.com/album/1ys4Gb4i5EjOGRKTVqnQEH) | 2:52 |
 | 35 | [Skyscraper \(Feat\. JUSTHIS\)](https://open.spotify.com/track/3IbkyQEyVBdMGGKh3UGnmc) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [PAID IN SEOUL](https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F) | 2:53 |
 
-Snapshot ID: `AAAAAJa4XKaDXXSWnAe0Q6dAvb9IrNYv`
+Snapshot ID: `AAAAACwfLOzU0tzRZ/dIMMAux9P+Ay3q`

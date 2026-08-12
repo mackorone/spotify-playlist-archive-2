@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 437284,
+  "num_followers": 437604,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB547o3OiKEny55Dz+fWfvA7KXdA",
+  "snapshot_id": "AAAAAMmnaNYkoOtJS1wMtCkpa967cN2T",
   "tracks": [
     {
       "added_at": "2026-06-30 12:12:11",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Force Field",
-        "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
+        "name": "Send One Your Love",
+        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
       "artists": [
         {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 309826,
-      "name": "Revelation Of The Heart",
-      "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
+      "duration_ms": 226173,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Send One Your Love",
-        "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
+        "name": "Force Field",
+        "url": "https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
+      "duration_ms": 309826,
+      "name": "Revelation Of The Heart",
+      "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Ready to Play",
-        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
-      },
-      "artists": [
-        {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Catnap",
-      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Love and Paragraphs",
         "url": "https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 243560,
       "name": "Have Your Cake And Eat It",
       "url": "https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Ready to Play",
+        "url": "https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Catnap",
+      "url": "https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Playin' Favorites",
-        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 244874,
       "name": "The Last Kiss",
       "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Playin' Favorites",
+        "url": "https://open.spotify.com/album/4qMmo245OuBXcEd52MI6nH"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/72UTyIUhjY5ifpZxCzvLmq"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Howling At The Moon",
-        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
-      },
-      "artists": [
-        {
-          "name": "Josie Stalilao",
-          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
-        }
-      ],
-      "duration_ms": 215291,
-      "name": "Howling At The Moon",
-      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 256295,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Howling At The Moon",
+        "url": "https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y"
+      },
+      "artists": [
+        {
+          "name": "Josie Stalilao",
+          "url": "https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL"
+        }
+      ],
+      "duration_ms": 215291,
+      "name": "Howling At The Moon",
+      "url": "https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -799,6 +799,22 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
+        "name": "Grinnell Street",
+        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "duration_ms": 235696,
+      "name": "Grinnell Street",
+      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 224840,
       "name": "Pacific Breeze",
       "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
-        "name": "Grinnell Street",
-        "url": "https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 235696,
-      "name": "Grinnell Street",
-      "url": "https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Paks",
-        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
-      },
-      "artists": [
-        {
-          "name": "Lndoner",
-          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Paks",
-      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "On Top Of Your Game",
         "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 166377,
       "name": "On Top Of Your Game",
       "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Paks",
+        "url": "https://open.spotify.com/album/1gIvY2Q98QNFO4oLsC37jW"
+      },
+      "artists": [
+        {
+          "name": "Lndoner",
+          "url": "https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Paks",
+      "url": "https://open.spotify.com/track/3f526KslwaHSuamZFabgvk"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Let\u2019s Call It a Day",
-        "url": "https://open.spotify.com/album/5uENW3cnR0CJp5GvU8H1fy"
-      },
-      "artists": [
-        {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        }
-      ],
-      "duration_ms": 296913,
-      "name": "Let\u2019s Call It a Day",
-      "url": "https://open.spotify.com/track/2keNZpTW568HvOK445GGQU"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Big Dume",
         "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 215000,
       "name": "Perfect Moments",
       "url": "https://open.spotify.com/track/0ntbWAy6aBZnDZ66Pa9LIY"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Let\u2019s Call It a Day",
+        "url": "https://open.spotify.com/album/5uENW3cnR0CJp5GvU8H1fy"
+      },
+      "artists": [
+        {
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
+        }
+      ],
+      "duration_ms": 296913,
+      "name": "Let\u2019s Call It a Day",
+      "url": "https://open.spotify.com/track/2keNZpTW568HvOK445GGQU"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Stay Sharp",
-        "url": "https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC"
-      },
-      "artists": [
-        {
-          "name": "Elastic Union",
-          "url": "https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "Stay Sharp",
-      "url": "https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "Clover Club",
         "url": "https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL"
       },
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
+        "name": "Stay Sharp",
+        "url": "https://open.spotify.com/album/02k936MVT6wGk4EHdNEkyC"
+      },
+      "artists": [
+        {
+          "name": "Elastic Union",
+          "url": "https://open.spotify.com/artist/3y5BwMggFMVWZkUDGXWAYr"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Stay Sharp",
+      "url": "https://open.spotify.com/track/5sjRxBquao2bRqbUO5AWlf"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
         "name": "Cat and Mouse",
         "url": "https://open.spotify.com/album/0kSCTapQtnOjLNjn9bdaFX"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 143498,
       "name": "Cat and Mouse",
       "url": "https://open.spotify.com/track/1SHbIUQu4hIv15BIZW6IkK"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1251,22 +1267,6 @@
       "duration_ms": 322000,
       "name": "Brazil Chill",
       "url": "https://open.spotify.com/track/3UI2NlVimWCWOohTfyaP9v"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2026-06-30 12:12:11",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-06-30 12:12:11",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
-    },
-    {
-      "added_at": "2026-06-30 12:12:11",
-      "album": {
         "name": "What\u2019s The Score?",
         "url": "https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 264640,
       "name": "What\u2019s The Score?",
       "url": "https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L"
+    },
+    {
+      "added_at": "2026-06-30 12:12:11",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
     },
     {
       "added_at": "2026-06-30 12:12:11",

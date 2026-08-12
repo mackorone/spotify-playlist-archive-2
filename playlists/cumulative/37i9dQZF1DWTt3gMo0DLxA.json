@@ -309,6 +309,32 @@
     },
     {
       "album": {
+        "name": "Khadgam",
+        "url": "https://open.spotify.com/album/4BBwcysIlZX8VjMV2AlTy7"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Raqueeb AIam",
+          "url": "https://open.spotify.com/artist/0cyTvdMqPPRJFIQYtZKiHO"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254876,
+      "name": "Aha Allari",
+      "url": "https://open.spotify.com/track/7EYbTTLNqfRKHoYY8jT9Sy"
+    },
+    {
+      "album": {
         "name": "Murari",
         "url": "https://open.spotify.com/album/6kl5gAF0jqGb9iKdLVGBHr"
       },
@@ -2784,7 +2810,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 283483,
       "name": "Gira Gira Gingiraagirey (From \"Champion\")",
       "url": "https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q"
@@ -5280,6 +5306,28 @@
       "duration_ms": 319993,
       "name": "Mellaga",
       "url": "https://open.spotify.com/track/4F0uq09fKad99msF2x3BQm"
+    },
+    {
+      "album": {
+        "name": "Khadgam",
+        "url": "https://open.spotify.com/album/4BBwcysIlZX8VjMV2AlTy7"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/1VCsLSF5PmAWdaHWWv3cJb"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424150,
+      "name": "Meme Indians",
+      "url": "https://open.spotify.com/track/0SkmcfqBRsqOheUZcbx9d4"
     },
     {
       "album": {
@@ -7786,7 +7834,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 314373,
       "name": "Rooba Rooba",
       "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"

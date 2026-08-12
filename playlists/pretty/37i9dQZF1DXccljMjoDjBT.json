@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 366113,
+  "num_followers": 366170,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLmM/vLesgQahiYq+RLrXQa9kRU",
+  "snapshot_id": "AAAAAAqxLqbUT7RWEXuguEuqraEqfmSG",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Christine McVie",
-        "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
-      },
-      "artists": [
-        {
-          "name": "Christine McVie",
-          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Got a Hold on Me",
-      "url": "https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Quinella",
         "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 294400,
       "name": "Alien",
       "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Christine McVie",
+        "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
+      },
+      "artists": [
+        {
+          "name": "Christine McVie",
+          "url": "https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Got a Hold on Me",
+      "url": "https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1"
     },
     {
       "added_at": "2023-03-30 14:38:10",

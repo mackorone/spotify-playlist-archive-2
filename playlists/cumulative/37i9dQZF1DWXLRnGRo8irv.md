@@ -4,7 +4,7 @@
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: KiiiKiii\)
 
-1,453 songs - 3 day 9 hr 27 min
+1,454 songs - 3 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [Dear\. Lover](https://open.spotify.com/track/1RwrqJ7EZ04tmZF9OwuTAu) | [Eun ga eun](https://open.spotify.com/artist/1JPXmbnND19OQQSPUKTUh5) | [Dear\. Lover](https://open.spotify.com/album/3P5YCSyOES0GGx3mAmRoif) | 4:19 | 2023-06-06 | 2023-07-05 |
 | [Dear\. Rude](https://open.spotify.com/track/6Xsv3cyvk6Cfy9C9cAW1p8) | [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal), [CHEETAH](https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE) | [Newself](https://open.spotify.com/album/27BGQVwdO8mQT9nsRMhfvg) | 3:39 | 2022-02-01 | 2022-03-08 |
 | [DEJAVU \(Feat\. Jay Park\) \(Prod\. by Slom\)](https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:38 | 2023-01-31 | 2023-03-01 |
-| [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 | 2026-08-06 |  |
+| [Delulu](https://open.spotify.com/track/5KCIrYoBUmQbW2FBoOL4Q0) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:24 | 2026-08-06 | 2026-08-12 |
 | [Denial](https://open.spotify.com/track/5utC8jh0b5APUCmu0NwFH8) | [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [Retrospect](https://open.spotify.com/album/4Eb1dLsvOh15opaO5bVCru) | 2:51 | 2023-01-03 | 2023-02-01 |
 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 | 2026-07-01 |  |
 | [Desperate](https://open.spotify.com/track/4k0DQAeIxrB3L2cSyRJUOV) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Desperate](https://open.spotify.com/album/4HiSNP4fPSE52NZPmfRBFD) | 4:10 | 2024-04-02 | 2024-06-05 |
@@ -970,6 +970,7 @@
 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 | 2022-08-02 | 2022-09-07 |
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-05-12 | 2026-05-06 |
 | [Pool Party\(Rollin’ right now\)](https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:00 | 2022-05-04 | 2022-06-01 |
+| [Pop Off Pop Off](https://open.spotify.com/track/3lKENzQzOnbXmo8FBtb7el) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6) | 2:21 | 2026-08-11 |  |
 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 | 2022-08-02 | 2022-09-07 |
 | [por ti](https://open.spotify.com/track/4fAsfq8wb2zzPwNP9nVjol) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [por ti](https://open.spotify.com/album/66GKYCQxvxUx0ZcsEWKxal) | 2:57 | 2025-05-12 | 2025-09-03 |
 | [POSE](https://open.spotify.com/track/6L22JhubMtyZNBEFuzeZKB) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:06 | 2022-05-31 | 2022-08-03 |

@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188003,
+  "num_followers": 187997,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQDk9ggM1oEZmtg8Vk/HudbcI5P",
+  "snapshot_id": "AAAAAHAgG4/Kj/2UOxkCqJ8vwwwI1Dnv",
   "tracks": [
     {
       "added_at": "2026-07-31 09:01:32",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Innerquake",
-        "url": "https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Killdeer",
-          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
-        },
-        {
-          "name": "The Short Straws",
-          "url": "https://open.spotify.com/artist/40WhVPjA1Qg7tG8Flxvneq"
-        }
-      ],
-      "duration_ms": 212813,
-      "name": "The Fade Out Line",
-      "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 183786,
       "name": "What You Need (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Innerquake",
+        "url": "https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        },
+        {
+          "name": "The Short Straws",
+          "url": "https://open.spotify.com/artist/40WhVPjA1Qg7tG8Flxvneq"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "The Fade Out Line",
+      "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Sunny",
         "url": "https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 157333,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/42AsgO0005lineLVc1aSOL"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 211233,
-      "name": "East Village",
-      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Gran Paradiso",
         "url": "https://open.spotify.com/album/4e8YIEAGQlDLpka8wkiZBM"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 195136,
       "name": "Shala-Lala-La",
       "url": "https://open.spotify.com/track/3fv0dIDalzlgaLRAvaBobT"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 211233,
+      "name": "East Village",
+      "url": "https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
-        }
-      ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 204506,
       "name": "Mi Negrita",
       "url": "https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Quand on arrive en ville",
-        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
-      },
-      "artists": [
-        {
-          "name": "Fhin",
-          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
-        }
-      ],
-      "duration_ms": 218010,
-      "name": "Quand on arrive en ville",
-      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "When the Magic Comes",
         "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 210168,
       "name": "When the Magic Comes",
       "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Quand on arrive en ville",
+        "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
+      },
+      "artists": [
+        {
+          "name": "Fhin",
+          "url": "https://open.spotify.com/artist/5bvwbAyrx6Yk8oLHqOnJ9p"
+        }
+      ],
+      "duration_ms": 218010,
+      "name": "Quand on arrive en ville",
+      "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
+        "name": "END OF THE SKY",
+        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "duration_ms": 159807,
+      "name": "END OF THE SKY",
+      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
         "name": "On Reste L\u00e0",
         "url": "https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 237430,
       "name": "On Reste L\u00e0",
       "url": "https://open.spotify.com/track/3fzWpUoS1rEMJVaSfJDx9r"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
-        "name": "END OF THE SKY",
-        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
-      },
-      "artists": [
-        {
-          "name": "JVLY",
-          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
-        }
-      ],
-      "duration_ms": 159807,
-      "name": "END OF THE SKY",
-      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+        "name": "Fou de toi",
+        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
       },
       "artists": [
         {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
         }
       ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+      "duration_ms": 140248,
+      "name": "Fou de toi",
+      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Fou de toi",
-        "url": "https://open.spotify.com/album/4BrmiAZdqo2nXSLt9v2fVS"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
       "artists": [
         {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
         }
       ],
-      "duration_ms": 140248,
-      "name": "Fou de toi",
-      "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "SUBURBIA",
-        "url": "https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "pool party",
-      "url": "https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "LOVE. HURT. REPEAT.",
         "url": "https://open.spotify.com/album/6rrhjvEEHny6k5nybt2Wc3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 156066,
       "name": "Streets of Rage",
       "url": "https://open.spotify.com/track/4wlEaCubuqapwPLORGzF3q"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "SUBURBIA",
+        "url": "https://open.spotify.com/album/2YKfRipSezmv6Um1UlcouE"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "pool party",
+      "url": "https://open.spotify.com/track/0NGp0uHiKPWjnd5EKR9K58"
     },
     {
       "added_at": "2026-07-31 09:01:32",

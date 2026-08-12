@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 195 songs - 11 hr 5 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 197 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -203,5 +203,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 193 | [Alien Boy](https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful](https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4) | 2:44 |
 | 194 | [Alien](https://open.spotify.com/track/2ks3PTNx1woPAl27AkDAk8) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [The Book Of Thump](https://open.spotify.com/album/0qre5bEcpwkYBHUMdIU1iu) | 2:37 |
 | 195 | [Slingshot](https://open.spotify.com/track/1TOYsMwlftOZ5GZL6sF8lF) | [HENGE](https://open.spotify.com/artist/5R09pajxQjiwdUH6Fw4yM5) | [Journey to Voltus B](https://open.spotify.com/album/4EyOqCekFh9eo81mgeXMgH) | 3:32 |
+| 196 | [Texting & Driving](https://open.spotify.com/track/7vM2XjIZRTLQ3JmPezcHVr) | [GUPPY](https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z) | [Something is Happening…](https://open.spotify.com/album/7DgxHSUA9QEZozUrlxhiI0) | 2:59 |
+| 197 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:00 |
 
-Snapshot ID: `AAABEKf84HvSkKk0Rc0qWfXtkXZyK5L5`
+Snapshot ID: `AAABEvhLxgBljZJzJCPIvgsGJtmDxH/7`

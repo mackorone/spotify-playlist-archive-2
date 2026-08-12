@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Le Shiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,236 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,225 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [For the First Time](https://open.spotify.com/track/1ZJm5SQbueTZpmEWr3TCrZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [For The First Time](https://open.spotify.com/album/6Pyf8sRGTR6UjoFxR7XswP) | 3:21 |
 | 100 | [Web](https://open.spotify.com/track/4b6xx3DSUcpF2bn4uohgsO) | [Lazy Haze](https://open.spotify.com/artist/6L2JrLAUsJFuE27Pl6OTlP) | [Web](https://open.spotify.com/album/2CnX5NHlJ9xos1szwE1CP9) | 3:34 |
 
-Snapshot ID: `AAAAAMmPfQjk4NZOH2HdMEmg/L4kf3ur`
+Snapshot ID: `AAAAADj+ACDvFO7SbkqMkQfVhD7Nxk6h`

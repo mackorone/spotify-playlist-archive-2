@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1330,
+  "num_followers": 1331,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAXBcQBBQSC+dnRx3ADm2+Kji8vhyis",
+  "snapshot_id": "AAAXCxIkTo6+xUpSbM2Aukm64F5raXzI",
   "tracks": [
     {
       "added_at": "2026-08-08 16:10:37",
@@ -39,6 +39,22 @@
       "duration_ms": 217467,
       "name": "Quando Sorridi",
       "url": "https://open.spotify.com/track/0IfTiyMes24Nb7f2W3YTU1"
+    },
+    {
+      "added_at": "2026-08-11 06:45:41",
+      "album": {
+        "name": "Basement Light",
+        "url": "https://open.spotify.com/album/7dOSCfKr2PXyK0j3BisBRB"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00f6nfelder Entertainment",
+          "url": "https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn"
+        }
+      ],
+      "duration_ms": 280122,
+      "name": "Basement Light",
+      "url": "https://open.spotify.com/track/67lwcTJHGvjjTAOUnX8cVw"
     },
     {
       "added_at": "2026-08-10 07:00:20",
@@ -1291,6 +1307,90 @@
       "duration_ms": 250285,
       "name": "ESCAPA POR TU VIDA",
       "url": "https://open.spotify.com/track/4gxjB7Y0yEzkFlxYS5un58"
+    },
+    {
+      "added_at": "2026-08-11 12:30:46",
+      "album": {
+        "name": "ECHOES OF GREATNESS",
+        "url": "https://open.spotify.com/album/3y67k1k1IAktrTkbhP0q0H"
+      },
+      "artists": [
+        {
+          "name": "BnB Soundz",
+          "url": "https://open.spotify.com/artist/2DNELwdzjJpG2YP4JS0Sfm"
+        },
+        {
+          "name": "Partyboycc",
+          "url": "https://open.spotify.com/artist/0kVstmwiiyVWBJSYtSr4SB"
+        }
+      ],
+      "duration_ms": 174236,
+      "name": "Men Are Style Style",
+      "url": "https://open.spotify.com/track/12TpGan1aWzzZOGsnFX4bY"
+    },
+    {
+      "added_at": "2026-08-11 12:31:14",
+      "album": {
+        "name": "Same Hearts",
+        "url": "https://open.spotify.com/album/1whUcpoju07W7mem5aHqBQ"
+      },
+      "artists": [
+        {
+          "name": "GIUCA",
+          "url": "https://open.spotify.com/artist/2b96cZLLX1g9UKa9ivOUOh"
+        }
+      ],
+      "duration_ms": 149334,
+      "name": "Same Hearts",
+      "url": "https://open.spotify.com/track/0F6DnOxKI46a889kEDbzpG"
+    },
+    {
+      "added_at": "2026-08-11 12:33:44",
+      "album": {
+        "name": "Control Room Lullaby",
+        "url": "https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "duration_ms": 200055,
+      "name": "Ritual for the Unheard",
+      "url": "https://open.spotify.com/track/5NjN0sZpDeUcs8uBNMVbTw"
+    },
+    {
+      "added_at": "2026-08-11 12:33:49",
+      "album": {
+        "name": "SAVANNAH",
+        "url": "https://open.spotify.com/album/202wBiAbLcEth13WHMLuWc"
+      },
+      "artists": [
+        {
+          "name": "Hikado",
+          "url": "https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "SAVANNAH",
+      "url": "https://open.spotify.com/track/1MxJFJTf2D8whQSaf1MS67"
+    },
+    {
+      "added_at": "2026-08-11 12:33:55",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/3PIlwfrx8NPZChCynoVF7V"
+      },
+      "artists": [
+        {
+          "name": "Mister Chorister",
+          "url": "https://open.spotify.com/artist/2gj1byWvrljHj1FWzSWXUd"
+        }
+      ],
+      "duration_ms": 221831,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/57wOH1yfVPll97iyI0Xp98"
     }
   ],
   "unique_name": "New Indie Music",

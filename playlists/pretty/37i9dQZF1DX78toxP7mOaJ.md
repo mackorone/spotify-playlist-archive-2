@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Deux Visages
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,585 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,684 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [asleep with the fishes](https://open.spotify.com/track/4D5xZUQlA0JcUXcfArU7E1) | [cherry pick](https://open.spotify.com/artist/5yCDU2cbUX69GwblH65Et5) | [asleep with the fishes](https://open.spotify.com/album/6MWaakd1ZnYn1jqYG2OlmS) | 2:21 |
 | 75 | [Wasted Tonight](https://open.spotify.com/track/7JaXJWPO9nVTkscVcqINkk) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Wasted Tonight](https://open.spotify.com/album/1jNhZfZpj37L6rXBq3aZiq) | 2:12 |
 
-Snapshot ID: `AAAAAL+Zwi3hfFkc2+DqxQeISWTff9KS`
+Snapshot ID: `AAAAABpShrvl5D0kpKdZ7OhzkXGgJhcR`

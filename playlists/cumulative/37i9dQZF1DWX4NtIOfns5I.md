@@ -4,7 +4,7 @@
 
 > Way Dynamic <3
 
-870 songs - 2 day 4 hr 29 min
+871 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [dog with a bone](https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [dog with a bone](https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR) | 3:20 | 2026-03-10 | 2026-07-25 |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-09 | 2024-04-27 |
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-21 | 2025-11-01 |
+| [Don't Think Twice, It's All Right](https://open.spotify.com/track/2BwHHutoVzEoyTmsK5n6xa) | [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Sterling Point \(Prime Original Series Soundtrack\)](https://open.spotify.com/album/6vpsu8PNe6zj4o7OiYNWWF) | 2:55 | 2026-08-11 |  |
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 | 2024-04-06 |
 | [double edged sword](https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [double edged sword](https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW) | 3:28 | 2026-02-20 | 2026-07-18 |
 | [Down Debbie/Reservoir](https://open.spotify.com/track/01M4zeod1IYrXGRSie9CmQ) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Down Debbie/Reservoir](https://open.spotify.com/album/1kKx979DVgL3MNOA1F7G6v) | 3:30 | 2026-05-29 |  |

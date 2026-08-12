@@ -122,7 +122,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 249173,
       "name": "Barriers",
       "url": "https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 211166,
       "name": "Bobby",
       "url": "https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 285802,
       "name": "Tequan (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX"
@@ -1374,6 +1374,24 @@
       "duration_ms": 224933,
       "name": "Where I'm From (feat. Mereba)",
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+    },
+    {
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
     },
     {
       "album": {

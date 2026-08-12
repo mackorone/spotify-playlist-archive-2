@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: حوده وعزيز مرقة
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,653 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,662 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 49 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
 | 50 | [Lessa Fakerny / لسا فاكرني](https://open.spotify.com/track/7beDwcHwA3aUOrGj460N0a) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Bein / بين](https://open.spotify.com/album/7LFO6FNMdqbfAd1TNubQjJ) | 4:12 |
 
-Snapshot ID: `AAAAAHqLQ2lLwDNYNK3Pv4us6pl0qIm6`
+Snapshot ID: `AAAAADgq6x1p+eaDiAxduKF4ShtAl1v5`

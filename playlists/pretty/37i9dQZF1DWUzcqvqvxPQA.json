@@ -1,12 +1,12 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 34068,
+  "num_followers": 34073,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgtpNYBuxELt+H1pVMDt30EzRof",
+  "snapshot_id": "AAAAANiv1KPGWOLMbziuESgerkc+qsWf",
   "tracks": [
     {
       "added_at": "2026-07-17 05:41:07",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Menace",
-        "url": "https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 201419,
-      "name": "Menace",
-      "url": "https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Sentimental Prison",
         "url": "https://open.spotify.com/album/4GW9lZPCyOjLSQI4nKAKRC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 192600,
       "name": "Sentimental Prison",
       "url": "https://open.spotify.com/track/406OJmzC7Evty1Ht2LzuTt"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Menace",
+        "url": "https://open.spotify.com/album/2UYLPh9VLF8ASVBn31VwIK"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 201419,
+      "name": "Menace",
+      "url": "https://open.spotify.com/track/4s7RVtoBdZ4nxhcVbHLSbW"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 194251,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Don't Runaway",
         "url": "https://open.spotify.com/album/3LlsY3HphvGLJ5OIAygyrn"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 205371,
       "name": "Don't Runaway",
       "url": "https://open.spotify.com/track/5YkTu7GZrtSNfKfTLDCyJO"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/5EMVa6j7qhA6t2C4bsTkbJ"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 194251,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4q8AWVVk5OB1Xz9vNoBn5h"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -879,6 +879,26 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "Only One That Matters",
+        "url": "https://open.spotify.com/album/7HhahFU4VcDw0bQqsdK4qs"
+      },
+      "artists": [
+        {
+          "name": "Ethan Beer",
+          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Only One That Matters",
+      "url": "https://open.spotify.com/track/0NaFnPszXIlEyXLrWcuKo3"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "Summer '24",
         "url": "https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt"
       },
@@ -919,26 +939,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Only One That Matters",
-        "url": "https://open.spotify.com/album/7HhahFU4VcDw0bQqsdK4qs"
-      },
-      "artists": [
-        {
-          "name": "Ethan Beer",
-          "url": "https://open.spotify.com/artist/5hE9hHrQbGqtLypxH1KyYM"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Only One That Matters",
-      "url": "https://open.spotify.com/track/0NaFnPszXIlEyXLrWcuKo3"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "give & take",
         "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
       },
@@ -951,6 +951,26 @@
       "duration_ms": 206719,
       "name": "give & take",
       "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "whisper and the wind (b+CL version)",
+        "url": "https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        },
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "duration_ms": 198522,
+      "name": "whisper and the wind - b+CL version",
+      "url": "https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -999,26 +1019,6 @@
       "duration_ms": 180829,
       "name": "Koolaid",
       "url": "https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "whisper and the wind (b+CL version)",
-        "url": "https://open.spotify.com/album/3nLiutNSYBngqPRzTOB7Br"
-      },
-      "artists": [
-        {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
-        },
-        {
-          "name": "Claire Leslie",
-          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
-        }
-      ],
-      "duration_ms": 198522,
-      "name": "whisper and the wind - b+CL version",
-      "url": "https://open.spotify.com/track/4ccZ3mBc2gtSRW6xzrxEQb"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "WILD!",
-        "url": "https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD"
-      },
-      "artists": [
-        {
-          "name": "Chris Ekiss",
-          "url": "https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "WILD!",
-      "url": "https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Always Summertime",
         "url": "https://open.spotify.com/album/22maxCSct1JW0WwxGkRfwQ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 150320,
       "name": "Always Summertime",
       "url": "https://open.spotify.com/track/6V4BMOBmAZa1wDco9lzvA7"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "WILD!",
+        "url": "https://open.spotify.com/album/50U3RqucJhkAvcvoO4zMfD"
+      },
+      "artists": [
+        {
+          "name": "Chris Ekiss",
+          "url": "https://open.spotify.com/artist/0ogIYYp8HZ4OA6g6L0DSty"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "WILD!",
+      "url": "https://open.spotify.com/track/1D9gi1TwubKCnsd3ppHoah"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "FOOTSTOOL",
-        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 249750,
-      "name": "FOOTSTOOL",
-      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "Easy To Please",
         "url": "https://open.spotify.com/album/0XoKnV7K6h9yvhxW2gxgx1"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 279624,
       "name": "Easy To Please",
       "url": "https://open.spotify.com/track/3hRXdLdEsQ2XtAuQlHq6Nz"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "FOOTSTOOL",
+        "url": "https://open.spotify.com/album/2zjfTl1Q8Us5jVBWdfpEiZ"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 249750,
+      "name": "FOOTSTOOL",
+      "url": "https://open.spotify.com/track/2zAKR2tfF6zeWE9tHWpMXw"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 362346,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
         "name": "Making Ways",
         "url": "https://open.spotify.com/album/4YkJDG3y5yVcQwE69IOohK"
       },
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2026-07-17 05:41:07",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 362346,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
         "name": "God Must Be Smiling On Me",
         "url": "https://open.spotify.com/album/30bQKLeJpgIXBu9DfWQ78d"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 175809,
       "name": "God Must Be Smiling On Me",
       "url": "https://open.spotify.com/track/1lFHxOLEmI9NoXnUXQW2IS"
-    },
-    {
-      "added_at": "2026-07-17 05:41:07",
-      "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
     },
     {
       "added_at": "2026-07-17 05:41:07",
@@ -1463,6 +1447,22 @@
       "duration_ms": 180740,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ"
+    },
+    {
+      "added_at": "2026-07-17 05:41:07",
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5oYnJgSK8BTQR1AwUzgF6z"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/6O6s8Ozp1qHdbAJvlEirMN"
     },
     {
       "added_at": "2026-07-17 05:41:07",

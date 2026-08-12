@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Something is Happening\u2026",
+        "url": "https://open.spotify.com/album/7DgxHSUA9QEZozUrlxhiI0"
+      },
+      "artists": [
+        {
+          "name": "GUPPY",
+          "url": "https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Texting & Driving",
+      "url": "https://open.spotify.com/track/7vM2XjIZRTLQ3JmPezcHVr"
+    },
+    {
+      "album": {
         "name": "Upright, Love",
         "url": "https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd"
       },

@@ -13706,7 +13706,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 239400,
       "name": "DILE A TU GATO - REMIX",
       "url": "https://open.spotify.com/track/3Vme629xDbKud2UZi7Zav3"
@@ -14348,7 +14348,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 176774,
       "name": "DONDE FUE FELIZ",
       "url": "https://open.spotify.com/track/4E0v4fnHojKxinvglaufJy"
@@ -17715,6 +17715,36 @@
     },
     {
       "album": {
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/2kPI1kOY7aeNwmmBfgodGu"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Oplus",
+          "url": "https://open.spotify.com/artist/2JQQDzeOEkRz7ld1pekbw0"
+        },
+        {
+          "name": "Dayme Beats",
+          "url": "https://open.spotify.com/artist/0cARZSRkYfYAk37T5yFTHW"
+        },
+        {
+          "name": "Ruso Beats",
+          "url": "https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Family Time",
+      "url": "https://open.spotify.com/track/1CylSHJO5wQVXQhAdOlo8l"
+    },
+    {
+      "album": {
         "name": "Fan",
         "url": "https://open.spotify.com/album/30Noq6otXKRvmCr54cHk9G"
       },
@@ -20735,6 +20765,36 @@
     },
     {
       "album": {
+        "name": "GOZALO QUE TU MARIDO ESTA PRESO (REMIX)",
+        "url": "https://open.spotify.com/album/5zR0OGxVRFzMXf4P3Ey37d"
+      },
+      "artists": [
+        {
+          "name": "Zelcok Kp",
+          "url": "https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr"
+        },
+        {
+          "name": "Luis Malave",
+          "url": "https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2"
+        },
+        {
+          "name": "J-Lit",
+          "url": "https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v"
+        },
+        {
+          "name": "Kiddy Fount",
+          "url": "https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "GOZALO QUE TU MARIDO ESTA PRESO - REMIX",
+      "url": "https://open.spotify.com/track/6Z4ccTpgl11HGQ0FWPXeqI"
+    },
+    {
+      "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/4aHWmt1p9RlzHvaAonA4gx"
       },
@@ -21584,7 +21644,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 169058,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/4DVROTv3t33sqQX59kWfop"
@@ -23324,7 +23384,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 155984,
       "name": "JUGUETONA",
       "url": "https://open.spotify.com/track/2He0lOqVbHGlX05dYqQqcj"
@@ -30294,6 +30354,28 @@
       "duration_ms": 180877,
       "name": "Mente Loca",
       "url": "https://open.spotify.com/track/6KFkxG3lQcb6bCUgYItdv2"
+    },
+    {
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156631,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
     },
     {
       "album": {
@@ -50574,6 +50656,32 @@
       "duration_ms": 217279,
       "name": "Trambo",
       "url": "https://open.spotify.com/track/2vTBY3AWUxdOgR6iw04Dr1"
+    },
+    {
+      "album": {
+        "name": "TRAMPA",
+        "url": "https://open.spotify.com/album/7kFtosrAeAuOLnoX5Bk8Ed"
+      },
+      "artists": [
+        {
+          "name": "WHOOPYYTOSO BB",
+          "url": "https://open.spotify.com/artist/3Fe4YVfgI51OUtK8SCrfjx"
+        },
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Tommy Blanco",
+          "url": "https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "TRAMPA",
+      "url": "https://open.spotify.com/track/4fEMzwVoUEJlVsHezqIblC"
     },
     {
       "album": {

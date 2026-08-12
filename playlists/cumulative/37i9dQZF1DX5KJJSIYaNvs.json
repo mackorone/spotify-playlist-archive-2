@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 331000,
       "name": "Baithi Hun",
       "url": "https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96"
@@ -15708,6 +15708,32 @@
       "duration_ms": 153124,
       "name": "Tum Yun Mile Ho",
       "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
+    },
+    {
+      "album": {
+        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
+      },
+      "artists": [
+        {
+          "name": "Wasif Ahmad",
+          "url": "https://open.spotify.com/artist/4zIUFtRcCItKwCb2upjArR"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sachin Urmtosh",
+          "url": "https://open.spotify.com/artist/1mU6MSjhzEgsJBjEIWbUy3"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229218,
+      "name": "Tumhare Liye",
+      "url": "https://open.spotify.com/track/5giNtZnbVG9GSFJfmL1lF7"
     },
     {
       "album": {

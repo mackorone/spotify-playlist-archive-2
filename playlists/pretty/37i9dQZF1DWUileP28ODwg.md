@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,180 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,228 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [When You Give It Up](https://open.spotify.com/track/5d70RGXlCzwqQl5WLV6Wpk) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [When You Give It Up](https://open.spotify.com/album/174U4t8jS0tRqjhpXlgBMh) | 2:42 |
 | 80 | [Though War Break Out Against Me](https://open.spotify.com/track/2mVKWnnVVULQKkQGDFGmC1) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Though War Break Out Against Me](https://open.spotify.com/album/4zZeVsP8r9geYWWWYaBTjG) | 4:25 |
 
-Snapshot ID: `AAAAAFMPmMREopJyPCDezZvUY5VrA/Y3`
+Snapshot ID: `AAAAAFJaKscthl1rejAGyqaiGtyMVJXA`

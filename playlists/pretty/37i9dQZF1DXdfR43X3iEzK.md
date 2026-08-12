@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,691 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,692 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [get naked](https://open.spotify.com/track/0YFvVVhJ4OiETfKZCcZ4hI) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [get naked](https://open.spotify.com/album/2EN89KuXbkhMPSWmo2VIIf) | 2:17 |
 | 80 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 |
 
-Snapshot ID: `AAAAAGhXQgmCCWDAwZEzzIRlc3Vx1FPR`
+Snapshot ID: `AAAAAJXDu6PQtYXvcvGDT73B2rpjf63D`

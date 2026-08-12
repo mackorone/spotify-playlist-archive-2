@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,918 likes - 61 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,917 likes - 61 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21OMhmWTQ50.md) - [plain]
 | 60 | [Driving Home for Christmas](https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY) | [Saint Swithun](https://open.spotify.com/artist/24skfwQl61Uz1Alg6J7A4Z) | [Driving Home for Christmas](https://open.spotify.com/album/25uhApTUFy999s8qPyFX6f) | 3:00 |
 | 61 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 |
 
-Snapshot ID: `AAAAAAsToW6bZhDEATlTUj6rrdJrKPis`
+Snapshot ID: `AAAAAMxS3SEeLn10TFztx1P9M7KQE/qZ`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,994 likes - 76 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,010 likes - 76 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
 | 2 | [Sábado à Noite](https://open.spotify.com/track/4naCEptRqizADSHEP4J16A) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Baile à la Baiana](https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg) | 4:20 |
 | 3 | [Ainda é pouco](https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Ainda é pouco](https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol) | 2:54 |
-| 4 | [Olhos Coloridos](https://open.spotify.com/track/3N6Cxtb9IBkw9pvBUJHLql) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Entre Nós](https://open.spotify.com/album/3bDvwyyRc6jNvnmeaViTgm) | 6:46 |
+| 4 | [Olhos Coloridos](https://open.spotify.com/track/3N6Cxtb9IBkw9pvBUJHLql) | [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Entre Nós](https://open.spotify.com/album/3bDvwyyRc6jNvnmeaViTgm) | 6:46 |
 | 5 | [DEIXA ESTAR](https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 5:06 |
 | 6 | [Deguste](https://open.spotify.com/track/08LR6HWU5CfaVOAxjOYs5q) | [Paula Lima](https://open.spotify.com/artist/5oE0wKd9rFGBMQTNF1CTZW) | [Deguste](https://open.spotify.com/album/5Nujjbnz1PSAtvyiqhXhoM) | 3:46 |
 | 7 | [NÃO VOU ME VENDER PRO SEU JOGO](https://open.spotify.com/track/6qVMvlhBKon9CKV3ew1ntn) | [UMZÉ](https://open.spotify.com/artist/2cxxQoxSHD93xP7Zk1NbPL), [Coral de Homens Gays de São Paulo](https://open.spotify.com/artist/3u7GDRWWC5HYbZZR3xPKpH), [ferreiracesar](https://open.spotify.com/artist/55w0NgExpSHkVq7VMny17x) | [NÃO VOU DANÇAR NA SUA PISTA](https://open.spotify.com/album/0aXh1oXp46NlK1GlzT24mW) | 2:53 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 75 | [Nega](https://open.spotify.com/track/0OjgZ3RyR4Tgr7zoVZA40w) | [Jorginho Neto](https://open.spotify.com/artist/0VvWlL07E17nYkS6Lz9VvG), [Wilson Simoninha](https://open.spotify.com/artist/2xhtX9ufvSwDbiH9VQ8pHr), [Carlinhos Noronha](https://open.spotify.com/artist/47DyunqeZ4YkNtlcj977Tx), [Denilson Martins](https://open.spotify.com/artist/6q07mlyf0q4QJmdvvw1wov), [Erick Pontes](https://open.spotify.com/artist/5kczxDhwmcDsQd3WInJO2I), [Gustavo Bugni](https://open.spotify.com/artist/1PGTRfX9y9pYVYT5avnBSF), [Sidmar Vieira](https://open.spotify.com/artist/13yenubT6mQJO3m6uDQTiN), [Tuto Ferraz](https://open.spotify.com/artist/3AVod2hiob1FXHhXv3UwZd) | [Nega](https://open.spotify.com/album/7c0gzWi6yQjPYRMRZvcm4O) | 4:01 |
 | 76 | [Derrete](https://open.spotify.com/track/7CRkPyNdM9KvvliymmrgV1) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8), [Allure Dayo](https://open.spotify.com/artist/5QXS66BHpTWa3WXKgVbsNx) | [Derrete](https://open.spotify.com/album/5s1HAwaUOQoO10Yf0hik0Z) | 5:03 |
 
-Snapshot ID: `AAAAANoJQUW4g3kM0tIUwG08gQY2tVyK`
+Snapshot ID: `AAAAANzo2ZkmwgDo76iO46kil9TcYokZ`

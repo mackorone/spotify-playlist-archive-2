@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Lenin",
-  "num_followers": 637939,
+  "num_followers": 638431,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAU0i7Y19OSdK3g7SeP9Nx2i8uKY",
+  "snapshot_id": "AAAAAJjm1fHq9Dgc5TbNq2wiEPy1d6nV",
   "tracks": [
     {
       "added_at": "2026-08-10 10:28:41",
@@ -171,6 +171,26 @@
       "duration_ms": 215178,
       "name": "GlobeTrotter (From \"Varanasi\")",
       "url": "https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV"
+    },
+    {
+      "added_at": "2026-08-11 08:39:57",
+      "album": {
+        "name": "Khadgam",
+        "url": "https://open.spotify.com/album/4BBwcysIlZX8VjMV2AlTy7"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/1VCsLSF5PmAWdaHWWv3cJb"
+        }
+      ],
+      "duration_ms": 424150,
+      "name": "Meme Indians",
+      "url": "https://open.spotify.com/track/0SkmcfqBRsqOheUZcbx9d4"
     },
     {
       "added_at": "2026-04-01 05:17:05",
@@ -469,6 +489,30 @@
       "url": "https://open.spotify.com/track/4fqCMwlMd3VXOUvRQKLGYb"
     },
     {
+      "added_at": "2026-08-11 08:39:57",
+      "album": {
+        "name": "Khadgam",
+        "url": "https://open.spotify.com/album/4BBwcysIlZX8VjMV2AlTy7"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Raqueeb AIam",
+          "url": "https://open.spotify.com/artist/0cyTvdMqPPRJFIQYtZKiHO"
+        }
+      ],
+      "duration_ms": 254876,
+      "name": "Aha Allari",
+      "url": "https://open.spotify.com/track/7EYbTTLNqfRKHoYY8jT9Sy"
+    },
+    {
       "added_at": "2026-05-25 11:06:23",
       "album": {
         "name": "Khaleja (Deluxe Edition) [Original Motion Picture Soundtrack]",
@@ -663,26 +707,6 @@
       "duration_ms": 222122,
       "name": "Massa Massa (TELUGU)",
       "url": "https://open.spotify.com/track/7GS9ZIE8RjI4wYPcS6BQnt"
-    },
-    {
-      "added_at": "2026-02-02 07:50:11",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj"
-      },
-      "artists": [
-        {
-          "name": "Shahil Hada",
-          "url": "https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Rooba Rooba",
-      "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
     },
     {
       "added_at": "2026-07-08 13:57:25",
@@ -911,30 +935,6 @@
       "duration_ms": 319993,
       "name": "Mellaga",
       "url": "https://open.spotify.com/track/4F0uq09fKad99msF2x3BQm"
-    },
-    {
-      "added_at": "2025-12-02 09:12:02",
-      "album": {
-        "name": "Gira Gira Gingiraagirey (From \"Champion\")",
-        "url": "https://open.spotify.com/album/4aghM7mCHKIo0kAyOvKBiD"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 283483,
-      "name": "Gira Gira Gingiraagirey (From \"Champion\")",
-      "url": "https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q"
     },
     {
       "added_at": "2026-01-06 06:40:02",

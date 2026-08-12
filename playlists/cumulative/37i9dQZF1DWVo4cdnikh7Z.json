@@ -5487,6 +5487,32 @@
     },
     {
       "album": {
+        "name": "Arugey Arugey (From \"I'M Game - Tamil\")",
+        "url": "https://open.spotify.com/album/0cJqYGf12nRfm1hYbNgj3i"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264418,
+      "name": "Arugey Arugey - From \"I'M Game - Tamil\"",
+      "url": "https://open.spotify.com/track/2hExMHPo41sESrORZPXf65"
+    },
+    {
+      "album": {
         "name": "Dhruva Natchathiram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/03vZNwmbPH0VKg5sHtDtac"
       },
@@ -7896,6 +7922,24 @@
       "duration_ms": 74196,
       "name": "Birth of Dragon",
       "url": "https://open.spotify.com/track/3os9yPh7n79Wk1UNPvY8CJ"
+    },
+    {
+      "album": {
+        "name": "Bloody Band (From \"DC\")",
+        "url": "https://open.spotify.com/album/3DP9NGKiVtifrv6hJXBehZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156176,
+      "name": "Bloody Band (From \"DC\")",
+      "url": "https://open.spotify.com/track/6HaqRVq9t26NjWNhH193V4"
     },
     {
       "album": {

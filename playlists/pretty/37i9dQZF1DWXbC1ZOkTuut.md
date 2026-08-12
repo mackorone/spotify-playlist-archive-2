@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Fe con sabor a México\. Foto: Alexis Arai y Secretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,033 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,080 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 74 | [No Fue un Error](https://open.spotify.com/track/5KiSOk8fgLEoL0MIrLZaUo) | [Banda Alternativa](https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo), [Grupo Linaje](https://open.spotify.com/artist/3t2PSEm5iBJJt3UBKoU34g) | [No Fue un Error](https://open.spotify.com/album/11IO5ORYnk2eCmARXQTXwW) | 3:31 |
 | 75 | [Tu Gracia Es Suficiente \- Versión Mariachi](https://open.spotify.com/track/1LDQgT68SDxBVQIjjEDRMS) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx), [Benjamin Meraz](https://open.spotify.com/artist/3vnOXWuhbVeCkMjLfTHaYC), [Francisco Nevarez](https://open.spotify.com/artist/7o8z5AdLczQ1LrTN38f8j7) | [Tu Gracia Es Suficiente \(Versión Mariachi\)](https://open.spotify.com/album/04mRkLiCWEigk9RJnw6AHC) | 4:16 |
 
-Snapshot ID: `AAAAAEHzMlwCmtFZBaBSAM6AipXR2hA5`
+Snapshot ID: `AAAAAFEzl3ahGOtycBoxUMlh+vd/LLYb`

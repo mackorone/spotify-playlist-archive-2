@@ -1,12 +1,12 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21803,
+  "num_followers": 21805,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEZO3PZp0Xs+qmsk/vyvg1Ltntkq",
+  "snapshot_id": "AAAAACFlgc9I4iM7uXglocvCGQOQxhT5",
   "tracks": [
     {
       "added_at": "2024-09-30 14:25:52",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
+      "added_at": "2026-08-07 00:01:10",
+      "album": {
+        "name": "Many",
+        "url": "https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Many",
+      "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
+    },
+    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "Beautiful One",
@@ -787,22 +803,6 @@
       "duration_ms": 221874,
       "name": "Will Be Done",
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
-    },
-    {
-      "added_at": "2026-08-07 00:01:10",
-      "album": {
-        "name": "Many",
-        "url": "https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Many",
-      "url": "https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -869,22 +869,6 @@
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "My Lover (Live)",
-        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 435240,
-      "name": "My Lover (Live)",
-      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
-    },
-    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Yours Truly",
@@ -903,6 +887,22 @@
       "duration_ms": 173153,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "My Lover (Live)",
+        "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 435240,
+      "name": "My Lover (Live)",
+      "url": "https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -977,26 +977,6 @@
       "url": "https://open.spotify.com/track/1uxP53jaD8jAtzlPEoLzaM"
     },
     {
-      "added_at": "2026-05-01 00:02:08",
-      "album": {
-        "name": "My Daddy Loves Me",
-        "url": "https://open.spotify.com/album/3TIJApif55y5aPz885WiaL"
-      },
-      "artists": [
-        {
-          "name": "Olamiji Rasheed",
-          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 336585,
-      "name": "My Daddy Loves Me",
-      "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
-    },
-    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "This Joy",
@@ -1015,6 +995,26 @@
       "duration_ms": 243692,
       "name": "This Joy",
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
+    },
+    {
+      "added_at": "2026-05-01 00:02:08",
+      "album": {
+        "name": "My Daddy Loves Me",
+        "url": "https://open.spotify.com/album/3TIJApif55y5aPz885WiaL"
+      },
+      "artists": [
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 336585,
+      "name": "My Daddy Loves Me",
+      "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
     },
     {
       "added_at": "2026-07-24 00:01:56",
@@ -1097,6 +1097,26 @@
       "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "He Has Done It",
+        "url": "https://open.spotify.com/album/6Bbqg3g4trUiOLoo5a7uv9"
+      },
+      "artists": [
+        {
+          "name": "Eljoe Onoja",
+          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
+        },
+        {
+          "name": "Ema Onyx",
+          "url": "https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F"
+        }
+      ],
+      "duration_ms": 503688,
+      "name": "He Has Done It",
+      "url": "https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI"
+    },
+    {
       "added_at": "2025-12-05 00:01:10",
       "album": {
         "name": "Upendo Overdose",
@@ -1153,58 +1173,6 @@
       "url": "https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW"
     },
     {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "He Has Done It",
-        "url": "https://open.spotify.com/album/6Bbqg3g4trUiOLoo5a7uv9"
-      },
-      "artists": [
-        {
-          "name": "Eljoe Onoja",
-          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
-        },
-        {
-          "name": "Ema Onyx",
-          "url": "https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F"
-        }
-      ],
-      "duration_ms": 503688,
-      "name": "He Has Done It",
-      "url": "https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI"
-    },
-    {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Sonship",
-        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
-      },
-      "artists": [
-        {
-          "name": "Neon Adejo",
-          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
-        }
-      ],
-      "duration_ms": 154039,
-      "name": "Love Assurance",
-      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
-    },
-    {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Miracle Walking (Radio Edit)",
-        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
-      },
-      "artists": [
-        {
-          "name": "Freke Umoh",
-          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Miracle Walking - Radio Edit",
-      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1245,6 +1213,22 @@
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
     },
     {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
+    },
+    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "L.I.E (Life Is Easy)",
@@ -1269,6 +1253,22 @@
       "url": "https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW"
     },
     {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Good News",
@@ -1276,8 +1276,8 @@
       },
       "artists": [
         {
-          "name": "Younggod",
-          "url": "https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW"
+          "name": "Younggod Supreme",
+          "url": "https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31"
         },
         {
           "name": "Kelar Thrillz",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT"
     },
     {
-      "added_at": "2026-07-10 00:01:15",
-      "album": {
-        "name": "I'M BLESSED",
-        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
-      },
-      "artists": [
-        {
-          "name": "Kevin Adams & Voices of Praise",
-          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
-        }
-      ],
-      "duration_ms": 176841,
-      "name": "I'M BLESSED",
-      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
-    },
-    {
       "added_at": "2026-07-24 00:01:56",
       "album": {
         "name": "AGABA",
@@ -1507,6 +1491,22 @@
       "duration_ms": 163215,
       "name": "AGABA",
       "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
+    },
+    {
+      "added_at": "2026-07-10 00:01:15",
+      "album": {
+        "name": "I'M BLESSED",
+        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        }
+      ],
+      "duration_ms": 176841,
+      "name": "I'M BLESSED",
+      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     },
     {
       "added_at": "2026-04-17 00:01:26",

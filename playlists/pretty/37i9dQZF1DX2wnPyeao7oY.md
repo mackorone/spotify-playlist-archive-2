@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,161 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,280 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [STFA](https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [death fetish](https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9) | 3:39 |
 | 50 | [4x4](https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3) | [Gideon](https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ) | [4x4](https://open.spotify.com/album/52eTAJ9h9w6Wp15kpD9qlS) | 3:08 |
 
-Snapshot ID: `AAAAAP9sWunJHULEJdaD31bEi2uaKLG8`
+Snapshot ID: `AAAAAGTV3k6VUKawc3o4jC1oWL3kZB3Q`

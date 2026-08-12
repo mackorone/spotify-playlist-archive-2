@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166898,
+  "num_followers": 166904,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIE2sWuAo4g6icuD/8D+igioJ5F4",
+  "snapshot_id": "AAAAAAMkZwzG1pF/6cNxD/OOe76ubGuW",
   "tracks": [
     {
       "added_at": "2026-07-30 23:00:26",
@@ -755,26 +755,18 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "OH YEAH",
-        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
+        "name": "Bad Taste",
+        "url": "https://open.spotify.com/album/0Sm2yAul9Ih7CSac3ipoMo"
       },
       "artists": [
         {
-          "name": "Killer Hertz",
-          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
-        },
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
         }
       ],
-      "duration_ms": 227657,
-      "name": "OH YEAH",
-      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
+      "duration_ms": 240000,
+      "name": "Bad Taste",
+      "url": "https://open.spotify.com/track/38NXnnLe2lph2AWFOyuC1o"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -799,18 +791,26 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Bad Taste",
-        "url": "https://open.spotify.com/album/0Sm2yAul9Ih7CSac3ipoMo"
+        "name": "OH YEAH",
+        "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
       },
       "artists": [
         {
-          "name": "Feed Me",
-          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+          "name": "Killer Hertz",
+          "url": "https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih"
+        },
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Bad Taste",
-      "url": "https://open.spotify.com/track/38NXnnLe2lph2AWFOyuC1o"
+      "duration_ms": 227657,
+      "name": "OH YEAH",
+      "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "Under The Lights",
+        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Under The Lights",
+      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "Rowdy (BLAOW!)",
         "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 143610,
       "name": "Rowdy (BLAOW!)",
       "url": "https://open.spotify.com/track/6Gkum3tDLFXTAUktaV6yh6"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
-        "name": "Under The Lights",
-        "url": "https://open.spotify.com/album/72TndTrZxl1QgXR4dXbnbi"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Under The Lights",
-      "url": "https://open.spotify.com/track/1lgVrLUtXVVOdRNwqyViYv"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -987,26 +987,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
+        "name": "Paigons",
+        "url": "https://open.spotify.com/album/6qIeN4g5UCz68STx536tqz"
       },
       "artists": [
         {
-          "name": "Andromedik",
-          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
         },
         {
-          "name": "A Little Sound",
-          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
-        },
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
         }
       ],
-      "duration_ms": 181689,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
+      "duration_ms": 268800,
+      "name": "Paigons",
+      "url": "https://open.spotify.com/track/1SoOBEkddoZvhrEECTZKQM"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1027,22 +1023,26 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Paigons",
-        "url": "https://open.spotify.com/album/6qIeN4g5UCz68STx536tqz"
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
       },
       "artists": [
         {
-          "name": "Amplify",
-          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+          "name": "Andromedik",
+          "url": "https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T"
         },
         {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+          "name": "A Little Sound",
+          "url": "https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ"
+        },
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Paigons",
-      "url": "https://open.spotify.com/track/1SoOBEkddoZvhrEECTZKQM"
+      "duration_ms": 181689,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Run That",
-        "url": "https://open.spotify.com/album/1Gzh4s51F9Ly5cZOgxovIr"
-      },
-      "artists": [
-        {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Run That",
-      "url": "https://open.spotify.com/track/4sC1bIdUSHWMsdBOTdlmMo"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Do You",
         "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Feel The Pulse",
-        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+        "name": "Run That",
+        "url": "https://open.spotify.com/album/1Gzh4s51F9Ly5cZOgxovIr"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
         }
       ],
-      "duration_ms": 200028,
-      "name": "Feel The Pulse",
-      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
+      "duration_ms": 194500,
+      "name": "Run That",
+      "url": "https://open.spotify.com/track/4sC1bIdUSHWMsdBOTdlmMo"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1263,6 +1247,22 @@
       "duration_ms": 165666,
       "name": "Rewind Crew",
       "url": "https://open.spotify.com/track/02rITP8XxNNuy9fVenZnnm"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Feel The Pulse",
+        "url": "https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 200028,
+      "name": "Feel The Pulse",
+      "url": "https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "stop&watch",
-        "url": "https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp"
-      },
-      "artists": [
-        {
-          "name": "cu.rve",
-          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "stop&watch",
-      "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Midnight Control (feat. Emily Makis)",
         "url": "https://open.spotify.com/album/6AsIVNHLfL69rCv0WtUX0Y"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 158069,
       "name": "Different Style",
       "url": "https://open.spotify.com/track/4CzydMjm5e58BN3tdR2u4m"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "stop&watch",
+        "url": "https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp"
+      },
+      "artists": [
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "stop&watch",
+      "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "The Speaker",
-        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "The Speaker",
-      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Ash Dem",
         "url": "https://open.spotify.com/album/5TlfoLx6XSuFFfJAtDpXbL"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 137584,
       "name": "Ash Dem",
       "url": "https://open.spotify.com/track/5RIRxMzIWOxULw5pSiAqeG"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "The Speaker",
+        "url": "https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "The Speaker",
+      "url": "https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
         "name": "Stay The Night",
         "url": "https://open.spotify.com/album/6cxNU0yLOIDn6yR5Yb3a6U"
       },
@@ -1799,18 +1815,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Got 2 Feel",
-        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu"
       },
       "artists": [
         {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "M\u00c6DM",
+          "url": "https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178"
         }
       ],
-      "duration_ms": 203478,
-      "name": "Got 2 Feel",
-      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+      "duration_ms": 123428,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1851,26 +1871,6 @@
       "duration_ms": 148114,
       "name": "Bounce - AX.HAWLEY Remix",
       "url": "https://open.spotify.com/track/29ripQEMq6jl9cEuhjGV9W"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu"
-      },
-      "artists": [
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "M\u00c6DM",
-          "url": "https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/0G6B8ftsjom1AvlFT3qXnj"
-      },
-      "artists": [
-        {
-          "name": "Kasra",
-          "url": "https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt"
-        },
-        {
-          "name": "JoSoSick",
-          "url": "https://open.spotify.com/artist/4plADgQTqVwQboafH6KsGL"
-        }
-      ],
-      "duration_ms": 208457,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/14pFCy9Wnkpt1SWJxQJZ6I"
-    },
-    {
-      "added_at": "2026-07-30 23:00:26",
-      "album": {
         "name": "Atlas",
         "url": "https://open.spotify.com/album/7bwfaO5V1y9LRqLD8uyvBR"
       },
@@ -1979,22 +1959,22 @@
     {
       "added_at": "2026-07-30 23:00:26",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/0G6B8ftsjom1AvlFT3qXnj"
       },
       "artists": [
         {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+          "name": "Kasra",
+          "url": "https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt"
         },
         {
-          "name": "Break",
-          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
+          "name": "JoSoSick",
+          "url": "https://open.spotify.com/artist/4plADgQTqVwQboafH6KsGL"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Step Back (Break Remix)",
-      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
+      "duration_ms": 208457,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/14pFCy9Wnkpt1SWJxQJZ6I"
     },
     {
       "added_at": "2026-07-30 23:00:26",
@@ -2011,6 +1991,26 @@
       "duration_ms": 180689,
       "name": "RUN",
       "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-07-30 23:00:26",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Break",
+          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Step Back (Break Remix)",
+      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
     },
     {
       "added_at": "2026-07-30 23:00:26",

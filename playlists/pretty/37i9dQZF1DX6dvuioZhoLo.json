@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover:  Presley Haile",
-  "num_followers": 315441,
+  "num_followers": 315442,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEG+/7OgVIsu2CV848E1sYICBL3V",
+  "snapshot_id": "AAAAAKmebOB+KoJG219GQP//zqmlxn5k",
   "tracks": [
     {
       "added_at": "2026-08-07 04:02:10",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/75zGvMsabnuDzWZmhY5duZ"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 187976,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/2PD23eZV0pO15j27UCmISk"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
         "name": "Luke Bell",
         "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Trail Of Flowers",
-        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 160195,
-      "name": "Money Train",
-      "url": "https://open.spotify.com/track/115YPahM5rL48iEUqVRAuG"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Cardinal Sin (feat. Jason Isbell)",
         "url": "https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32"
       },
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
+        "name": "Trail Of Flowers",
+        "url": "https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 160195,
+      "name": "Money Train",
+      "url": "https://open.spotify.com/track/115YPahM5rL48iEUqVRAuG"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
         "name": "Evangelina",
         "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/75zGvMsabnuDzWZmhY5duZ"
-      },
-      "artists": [
-        {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
-        }
-      ],
-      "duration_ms": 187976,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/2PD23eZV0pO15j27UCmISk"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 143939,
-      "name": "Powder Blue",
-      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Fast As I Can Crawl",
         "url": "https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 201200,
       "name": "Fast As I Can Crawl",
       "url": "https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 143939,
+      "name": "Powder Blue",
+      "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Jeremiah / Why\u2019d Ya Do It",
         "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 184558,
       "name": "Jeremiah",
       "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
-      },
-      "artists": [
-        {
-          "name": "Andrew Sa",
-          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
-        }
-      ],
-      "duration_ms": 228781,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Drive & Cry",
         "url": "https://open.spotify.com/album/3Y0isvmf5SGx5n4TX9pWk2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 203973,
       "name": "Rootin\u2019 For You",
       "url": "https://open.spotify.com/track/5oUu7vNtAdMQCund3kWJDF"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        }
+      ],
+      "duration_ms": 228781,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "California Blues",
-        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 258645,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "California Blues",
+        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 258645,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Cabin By The Sea",
-        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+        "name": "Lawdy Mama",
+        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
       },
       "artists": [
         {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
         }
       ],
-      "duration_ms": 202368,
-      "name": "Cabin By The Sea",
-      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+      "duration_ms": 164920,
+      "name": "Lawdy Mama",
+      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1231,34 +1231,18 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Lawdy Mama",
-        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
       },
       "artists": [
         {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Lawdy Mama",
-      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
-      },
-      "artists": [
-        {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1275,6 +1259,22 @@
       "duration_ms": 278546,
       "name": "Fuck With Sad Girls",
       "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+      },
+      "artists": [
+        {
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
+        "name": "Lucky Me",
+        "url": "https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05"
+      },
+      "artists": [
+        {
+          "name": "Adam Chaffins",
+          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
+        }
+      ],
+      "duration_ms": 143386,
+      "name": "Lucky Me",
+      "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
         "name": "ism",
         "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Lucky Me",
-        "url": "https://open.spotify.com/album/3M0vzfMqDdaVXoEzLTVf05"
-      },
-      "artists": [
-        {
-          "name": "Adam Chaffins",
-          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
-        }
-      ],
-      "duration_ms": 143386,
-      "name": "Lucky Me",
-      "url": "https://open.spotify.com/track/0ZdJJ94L8R61DEU6u8J5fr"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Magnolia Queen",
         "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
       },
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "True Love's Face",
-        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
       "artists": [
         {
           "name": "Erin Rae",
           "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
         }
       ],
-      "duration_ms": 200480,
-      "name": "True Love's Face",
-      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Playing Old Games",
-        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
+        "name": "True Love's Face",
+        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
       },
       "artists": [
         {
           "name": "Erin Rae",
           "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        },
-        {
-          "name": "Pete Lindberg",
-          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
         }
       ],
-      "duration_ms": 209880,
-      "name": "Playing Old Games",
-      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
+      "duration_ms": 200480,
+      "name": "True Love's Face",
+      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Every Single Star",
-        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
       },
       "artists": [
         {
-          "name": "Dori Freeman",
-          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
+          "name": "Gold Child",
+          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
         }
       ],
-      "duration_ms": 163906,
-      "name": "That's How I Feel",
-      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
+      "duration_ms": 220571,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+        "name": "Every Single Star",
+        "url": "https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2"
       },
       "artists": [
         {
-          "name": "Gold Child",
-          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
         }
       ],
-      "duration_ms": 220571,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+      "duration_ms": 163906,
+      "name": "That's How I Feel",
+      "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
     },
     {
       "added_at": "2026-08-07 04:02:10",

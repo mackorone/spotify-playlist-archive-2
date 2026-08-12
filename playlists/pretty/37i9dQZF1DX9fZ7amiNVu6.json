@@ -1,12 +1,12 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 602865,
+  "num_followers": 603152,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMCx8FV7qYETnywTSN86fFFxx4Df",
+  "snapshot_id": "AAAAAA2LF+Br2CayxsHKW15FdIQzsxbq",
   "tracks": [
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "We All Are One: The Best Of Jimmy Cliff",
         "url": "https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 196000,
       "name": "I Can See Clearly Now",
       "url": "https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "!Volare! The Very Best of the Gipsy Kings",
-        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
-      },
-      "artists": [
-        {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
-        }
-      ],
-      "duration_ms": 346760,
-      "name": "Hotel California (Spanish Mix)",
-      "url": "https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM"
-    },
-    {
-      "added_at": "2024-07-14 16:19:42",
-      "album": {
         "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
         "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2024-07-14 16:19:42",
       "album": {
-        "name": "Pipeline",
-        "url": "https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn"
+        "name": "!Volare! The Very Best of the Gipsy Kings",
+        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
       },
       "artists": [
         {
-          "name": "The Chantays",
-          "url": "https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR"
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
-      "duration_ms": 139253,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf"
+      "duration_ms": 346760,
+      "name": "Hotel California (Spanish Mix)",
+      "url": "https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM"
     },
     {
       "added_at": "2024-07-14 16:19:42",
@@ -1615,6 +1599,22 @@
       "duration_ms": 163346,
       "name": "Up, Up and Away",
       "url": "https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr"
+    },
+    {
+      "added_at": "2024-07-14 16:19:42",
+      "album": {
+        "name": "Pipeline",
+        "url": "https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn"
+      },
+      "artists": [
+        {
+          "name": "The Chantays",
+          "url": "https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR"
+        }
+      ],
+      "duration_ms": 139253,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf"
     }
   ],
   "unique_name": "Feel Good Summer",

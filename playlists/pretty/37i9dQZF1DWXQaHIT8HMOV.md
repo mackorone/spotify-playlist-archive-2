@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Jowy Landa
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,719 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,741 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 10 | [Nzigulawo II](https://open.spotify.com/track/3dbaGmJXWA6JZAOa6Xny0g) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Nzigulawo II](https://open.spotify.com/album/3ic31cwPvzbVPoEVAsELth) | 3:02 |
 | 11 | [Love Me Louder](https://open.spotify.com/track/744ZnCPlVjykfTcKtG6CkY) | [Caxah Diet](https://open.spotify.com/artist/1q854nDzMdqEarEJI8vq8c) | [Love Me Louder](https://open.spotify.com/album/32r6gRBRcK6L67CVRNkhzN) | 3:06 |
 | 12 | [Nassanga \- Remix](https://open.spotify.com/track/15MDmh9dqvpebpzRDhYK94) | [Kalifah Aganaga](https://open.spotify.com/artist/07ZlRQVtGZeHIF2cEL9mAu), [Eddy Kenzo](https://open.spotify.com/artist/7qPuoMKAZ2jXlrHSlry9Xw), [LIL PAZO LUNABE MUSIC](https://open.spotify.com/artist/1JVpFHQsgTqo71giH0nM02), [Weasel](https://open.spotify.com/artist/5G3br95V9J1g3EYdTvNddW), [Winnie Nwagi](https://open.spotify.com/artist/2dJT6OiUN3qTfI1uU8m1yu) | [Nassanga \(Remix\)](https://open.spotify.com/album/0QxpPmkgSsXxghaNxvVHTX) | 3:37 |
-| 13 | [Chai Mata](https://open.spotify.com/track/5hyVcJuPDjXLXZTAoAr3xW) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [RK MUSIC](https://open.spotify.com/artist/5tOxnHLxaRrorA5PaWlesz) | [Chai Mata](https://open.spotify.com/album/1TnkNcjLqLnmUHj3sleyek) | 3:11 |
+| 13 | [Chai Mata](https://open.spotify.com/track/5hyVcJuPDjXLXZTAoAr3xW) | [Martha Mukisa](https://open.spotify.com/artist/7pCGMNT4ISOIHW7Q20z3j6), [R Kay Music](https://open.spotify.com/artist/4W6DUKHvZBHGDhHyIZBGWN) | [Chai Mata](https://open.spotify.com/album/1TnkNcjLqLnmUHj3sleyek) | 3:11 |
 | 14 | [Sometimes Love](https://open.spotify.com/track/20KOIyeSqCrfWnUJhGlfKl) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Sometimes Love](https://open.spotify.com/album/7B2wlFa4gonKkpXkWBYMXc) | 5:07 |
 | 15 | [Number Moja](https://open.spotify.com/track/2CJ4148Frj191bX58vNNs3) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Number Moja](https://open.spotify.com/album/3ReEtBb0JisCB2cwlaUBSd) | 3:24 |
 | 16 | [Do](https://open.spotify.com/track/4PuNolWbAH8yhxpFxwCC3n) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [TRUMPETS](https://open.spotify.com/artist/44KWU5EFHv43X6R6kffqrN) | [Do](https://open.spotify.com/album/4RWXNkiGLyBkj7ISfuBNJz) | 2:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [Totta](https://open.spotify.com/track/0T3rnnZnmL3kR2MfM5QWuM) | [Kataleya & Kandle Music](https://open.spotify.com/artist/420Sfph97HABRumpR1TVTu), [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp) | [Totta](https://open.spotify.com/album/2Hij9Q3rJ0YR3SBnFoCeVW) | 3:12 |
 | 60 | [Mangadalena](https://open.spotify.com/track/641jmL3qvN9LopncAeNjBs) | [Echoled](https://open.spotify.com/artist/0tVbW89Gmk8xqxAuc06c3k) | [Mangadalena](https://open.spotify.com/album/6URFM6zBF9JSk6LUPjFCvv) | 3:14 |
 
-Snapshot ID: `AAAAAN/jgM8UXAGHraFxA/i38KbdCLZt`
+Snapshot ID: `AAAAAAu9tCMzAQbGsPDyuoj6QDK6qqUG`

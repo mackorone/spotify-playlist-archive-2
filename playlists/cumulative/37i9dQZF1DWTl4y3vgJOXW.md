@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: The Minnesota Lynx
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and Joel Embiid
 
 932 songs - 1 day 23 hr 16 min
 
@@ -377,7 +377,7 @@
 | [Hello](https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:35 | 2025-10-17 | 2025-11-08 |
 | [Hello \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:10 | 2021-09-02 | 2023-06-10 |
 | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/track/3tHm0NnzLiQsaMUkJNcAij) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hello Baby feat\. Fivio Foreign](https://open.spotify.com/album/18JkYWC5jB0R8GuaROnv0R) | 2:58 | 2021-09-02 | 2022-06-25 |
-| [HERE AND THERE ft LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 | 2026-08-07 |  |
+| [HERE AND THERE FT LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 | 2026-08-07 |  |
 | [Him](https://open.spotify.com/track/76GaSF8c4ZJG0OSKU015ET) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Him](https://open.spotify.com/album/1vIUKYiqrwHJoyuVnlCRwy) | 2:07 | 2026-03-28 | 2026-04-11 |
 | [Hold On](https://open.spotify.com/track/03i4lR6ZZo0214WhmrE8t9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Hold On](https://open.spotify.com/album/6oFeA7Pda0jOC7jVNIAp9k) | 3:09 | 2021-09-02 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/5qDsijQM75KTdv3RtSPx91) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:09 | 2022-06-24 | 2023-03-03 |

@@ -1,12 +1,12 @@
 {
   "description": "youngs soundss \ud83e\udd5e Kundo p\u00e5 forsiden ",
-  "num_followers": 47194,
+  "num_followers": 47197,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEkEl5b3T1tDGJZEo9RhDp0x7/vC",
+  "snapshot_id": "AAAAAHm1uOdQnxfdIGeTa4HzhTao0PYc",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:39",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
+        "name": "Gav Det Et Skud",
+        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 176489,
+      "name": "Gav Det Et Skud",
+      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
         "name": "bl\u00e5 n\u00e6tter",
         "url": "https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 158708,
       "name": "bl\u00e5 n\u00e6tter",
       "url": "https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Gav Det Et Skud",
-        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 176489,
-      "name": "Gav Det Et Skud",
-      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "Udsving",
-        "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 188752,
-      "name": "Udsving",
-      "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "Det Hele Handler Om Dig",
         "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 198452,
       "name": "Det Hele Handler Om Dig",
       "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "Udsving",
+        "url": "https://open.spotify.com/album/6DBNLC079WFCQ6tH40cV08"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 188752,
+      "name": "Udsving",
+      "url": "https://open.spotify.com/track/5mali68oFTzZtYlDAR4cHX"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
         "name": "Var det dig, der var derinde?",
         "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 255223,
       "name": "Var det dig, der var derinde?",
       "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
+        "name": "Hvis jeg ku'",
+        "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Hvis jeg ku'",
+      "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
         "name": "Ring, n\u00e5r du har tid",
         "url": "https://open.spotify.com/album/4YkLjRt3x0ppUXeI9yIWyy"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 394340,
       "name": "Ring, n\u00e5r du har tid",
       "url": "https://open.spotify.com/track/5Ptfc4dFINCiNvxh8gbGI4"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Hvis jeg ku'",
-        "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
-      },
-      "artists": [
-        {
-          "name": "Mona Moroni",
-          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Hvis jeg ku'",
-      "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "H\u00e6lervarer",
-        "url": "https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3"
+        "name": "Walmart",
+        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
       },
       "artists": [
         {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
         }
       ],
-      "duration_ms": 184000,
-      "name": "H\u00e6lervarer",
-      "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
+      "duration_ms": 171200,
+      "name": "Walmart",
+      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
+        "name": "H\u00e6lervarer",
+        "url": "https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "H\u00e6lervarer",
+      "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
         "name": "S\u00e6tter Alt P\u00e5 Spil",
         "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 197589,
       "name": "S\u00e6tter Alt P\u00e5 Spil",
       "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Walmart",
-        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Walmart",
-      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "passer p\u00e5 mit K",
-        "url": "https://open.spotify.com/album/0SmlwDasj8JUKMIvofdUp9"
+        "name": "B\u00e6nkevarmer",
+        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
       },
       "artists": [
         {
-          "name": "Klara Vibeke",
-          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
         }
       ],
-      "duration_ms": 158292,
-      "name": "passer p\u00e5 mit K",
-      "url": "https://open.spotify.com/track/4Vv8Zh3tdP2I67fbIFLOCF"
+      "duration_ms": 234138,
+      "name": "Uden At T\u00e6nke P\u00e5 Dig",
+      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+        "name": "passer p\u00e5 mit K",
+        "url": "https://open.spotify.com/album/0SmlwDasj8JUKMIvofdUp9"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "Klara Vibeke",
+          "url": "https://open.spotify.com/artist/5bQ5Pw6LpF4cystane7jby"
         }
       ],
-      "duration_ms": 234138,
-      "name": "Uden At T\u00e6nke P\u00e5 Dig",
-      "url": "https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1"
+      "duration_ms": 158292,
+      "name": "passer p\u00e5 mit K",
+      "url": "https://open.spotify.com/track/4Vv8Zh3tdP2I67fbIFLOCF"
     },
     {
       "added_at": "2026-08-06 22:01:39",

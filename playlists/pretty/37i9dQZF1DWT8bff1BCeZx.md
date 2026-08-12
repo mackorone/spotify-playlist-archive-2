@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,380 likes - 110 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,383 likes - 110 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 96 | [Blessed](https://open.spotify.com/track/7BpGB2kuuSTuSX0vQUMe9u) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [Blessed](https://open.spotify.com/album/6uXUsYu5RfQYH8HYtJ59xY) | 5:37 |
 | 97 | [Breakthrough](https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Breakthrough](https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ) | 3:00 |
 | 98 | [Albarkun Allah](https://open.spotify.com/track/51IYEc1ytqmqHoZqnX7avn) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [TMP Music](https://open.spotify.com/artist/0FSWMqdRbmwGSlcOlquXgo) | [Super Power](https://open.spotify.com/album/3LzWjKiMnifcDGTjBXtJkJ) | 5:21 |
-| 99 | [Good News](https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN) | [Younggod](https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [Good News](https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw) | 3:16 |
+| 99 | [Good News](https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN) | [Younggod Supreme](https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb) | [Good News](https://open.spotify.com/album/1DuFxJroz9nlmVRxqVoAmw) | 3:16 |
 | 100 | [Highest Hallelujah](https://open.spotify.com/track/5JXgPipzkJnHTl5nnYFPgJ) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Highest Hallelujah](https://open.spotify.com/album/3rs3ZOGzWfImSY4BBert1g) | 2:45 |
 | 101 | [That's Who I Praise](https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [That's Who I Praise](https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR) | 3:48 |
 | 102 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 109 | [We No Dey Tire](https://open.spotify.com/track/7bFSU8Vb2J1wKJOgHdHpiJ) | [Streams Of Joy](https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [We No Dey Tire](https://open.spotify.com/album/1WgnOitVV6Knlxh0ypgqL9) | 2:53 |
 | 110 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
 
-Snapshot ID: `AAAAAPBOUr0BLmr8GQgh27H5JzdDxjjA`
+Snapshot ID: `AAAAAEoBwqhrJ4HFArZD2lBJKIVEm5UC`

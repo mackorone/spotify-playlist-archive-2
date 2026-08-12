@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vit\u00e3o",
-  "num_followers": 358006,
+  "num_followers": 357963,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOUiRc/bHygfMQE1BWD2jbT3x+p5",
+  "snapshot_id": "AAAAAB5rh9Z7Mqqnvkod0tMUE2gUTHPE",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:10",
@@ -139,22 +139,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "TALVEZ",
-        "url": "https://open.spotify.com/album/50T4v8yCb0Goip3Jw5RLuo"
-      },
-      "artists": [
-        {
-          "name": "Pri Jardim",
-          "url": "https://open.spotify.com/artist/5KdNzdjfk8cr8cttGMzkg1"
-        }
-      ],
-      "duration_ms": 156694,
-      "name": "TALVEZ",
-      "url": "https://open.spotify.com/track/4BuvuVojKBW8jLiTdLStkY"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "BABY",
         "url": "https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf"
       },
@@ -175,18 +159,42 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Volto Logo",
-        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
+        "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
+        "url": "https://open.spotify.com/album/6RhKtIVwurttohFmrZHRfO"
       },
       "artists": [
         {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
         }
       ],
-      "duration_ms": 152978,
-      "name": "Volto Logo",
-      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
+      "duration_ms": 146250,
+      "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
+      "url": "https://open.spotify.com/track/5Q7BYad7ILgnS7OeU9Wp5N"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "TALVEZ",
+        "url": "https://open.spotify.com/album/50T4v8yCb0Goip3Jw5RLuo"
+      },
+      "artists": [
+        {
+          "name": "Pri Jardim",
+          "url": "https://open.spotify.com/artist/5KdNzdjfk8cr8cttGMzkg1"
+        }
+      ],
+      "duration_ms": 156694,
+      "name": "TALVEZ",
+      "url": "https://open.spotify.com/track/4BuvuVojKBW8jLiTdLStkY"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -215,6 +223,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "Volto Logo",
+        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 152978,
+      "name": "Volto Logo",
+      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Del\u00edrio Favorito",
         "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
       },
@@ -227,30 +251,6 @@
       "duration_ms": 195692,
       "name": "Del\u00edrio Favorito",
       "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
-        "url": "https://open.spotify.com/album/6RhKtIVwurttohFmrZHRfO"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
-      "url": "https://open.spotify.com/track/5Q7BYad7ILgnS7OeU9Wp5N"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "Disco Tropical",
+        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 187589,
+      "name": "Disco Tropical",
+      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Disco Tropical",
-        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 187589,
-      "name": "Disco Tropical",
-      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -339,18 +355,18 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
         }
       ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -423,22 +439,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "acho que sou rom\u00e2ntica",
         "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
       },
@@ -455,22 +455,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
       },
       "artists": [
         {
-          "name": "Celo Dut",
-          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
         },
         {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
         }
       ],
-      "duration_ms": 187636,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -499,6 +499,26 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
+      },
+      "artists": [
+        {
+          "name": "Celo Dut",
+          "url": "https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Avenida",
         "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 184303,
       "name": "Avenida",
       "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Tudo Pelo Show",
-        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 152232,
-      "name": "Os Mo\u00e7os da R\u00e1dio",
-      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Inimagin\u00e1vel",
         "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "carne fraca",
-        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "carne fraca",
-      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Te Amar Me D\u00e1 Asas",
         "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
       },
@@ -899,6 +883,42 @@
       "duration_ms": 195124,
       "name": "Te Amar Me D\u00e1 Asas",
       "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "carne fraca",
+        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "carne fraca",
+      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -935,26 +955,6 @@
       "duration_ms": 192857,
       "name": "Eu N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "Amapiano",
-        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
-      },
-      "artists": [
-        {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Amapiano",
-      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Brisa Boa",
-        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00eatu",
-          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "Brisa Boa",
-      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "Brisa Boa",
+        "url": "https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00eatu",
+          "url": "https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "Brisa Boa",
+      "url": "https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "AMOR PROIBIDO",
         "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -1179,38 +1195,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "TRANSBORDAR",
-        "url": "https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB"
-      },
-      "artists": [
-        {
-          "name": "Mafe Peccin",
-          "url": "https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "afinal o que \u00e9 um amor tranquilo?",
-      "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "Tempo Bom",
-        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Gamou",
-      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Caos e Poesia",
         "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 145927,
       "name": "Caos e Poesia",
       "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "TRANSBORDAR",
+        "url": "https://open.spotify.com/album/0o0qtnarLhFVdyqibL3OYB"
+      },
+      "artists": [
+        {
+          "name": "Mafe Peccin",
+          "url": "https://open.spotify.com/artist/4s1uC5uMXKkZA3uoSwotx6"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "afinal o que \u00e9 um amor tranquilo?",
+      "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
     },
     {
       "added_at": "2026-08-07 03:00:10",

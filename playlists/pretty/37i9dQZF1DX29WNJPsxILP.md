@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Wicked Sunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,762 likes - 75 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,788 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 27 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 |
 | 28 | [Chai Party](https://open.spotify.com/track/7uzRugU1xCkDTpw8fQJK1H) | [SARTHAK BIJALWAN](https://open.spotify.com/artist/4BtjODiWrEDj3VJxK1jA01) | [Chai Party](https://open.spotify.com/album/03sMOkvFos2LO24apEKrvd) | 2:12 |
 | 29 | [Dhak Dhak](https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Dhak Dhak](https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2) | 3:22 |
-| 30 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h), [Sachin Bali](https://open.spotify.com/artist/5ivOxsmqSgKhcq8jCHEMCB) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 |
+| 30 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 |
 | 31 | [11K](https://open.spotify.com/track/4q7ls1XOMHmZCvTYAqNhxZ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:54 |
 | 32 | [Regret](https://open.spotify.com/track/3LaUpvYmlVkxaQSNTKDDfK) | [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [Regret](https://open.spotify.com/album/48y1lb2W155CpRSwfgY6ZR) | 4:09 |
 | 33 | [Ankurit Moong](https://open.spotify.com/track/1tjarvG7EoJRYL7etWdJgo) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP) | [Ankurit Moong](https://open.spotify.com/album/6lLwAajj5CmVJeNtrSZJGk) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 74 | [Mann Ke Raaz](https://open.spotify.com/track/5eKN0T4WY8P4ZhqpO78BOm) | [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL) | [Ambassador](https://open.spotify.com/album/7E6mP3cf6JeKJaG2k0IwXJ) | 3:28 |
 | 75 | [Log Kehte Hai](https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ) | [Poet Shaf](https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b) | [Log Kehte Hai](https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp) | 3:55 |
 
-Snapshot ID: `AAAAALdpdY5WitfQHc7bbQy112JvdW8n`
+Snapshot ID: `AAAAAGsSMa6gZI/pQAdI9dZKteuf4NE5`

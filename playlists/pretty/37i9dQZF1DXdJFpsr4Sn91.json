@@ -1,12 +1,12 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59773,
+  "num_followers": 59758,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHBiyQf5bbqP5zgqRU87U+Rk2Tr",
+  "snapshot_id": "AAAAAIKvhcNEw1hEXOVm4+uO9KBpRzMJ",
   "tracks": [
     {
       "added_at": "2026-06-25 21:00:31",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
-      },
-      "artists": [
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Ter\u00e4lehti",
         "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
       },
@@ -695,22 +679,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
-        "url": "https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89"
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
       },
       "artists": [
         {
-          "name": "Portion Boys",
-          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
-        },
-        {
-          "name": "Sonja Lumme",
-          "url": "https://open.spotify.com/artist/0crt6CiHJXQXnL4zdHmwrS"
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
         }
       ],
-      "duration_ms": 199469,
-      "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
-      "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -731,6 +711,26 @@
       "duration_ms": 196258,
       "name": "Ei kukaan muu",
       "url": "https://open.spotify.com/track/0SPB4rlrAzHcQvhKo9ktqf"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
+        "url": "https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        },
+        {
+          "name": "Sonja Lumme",
+          "url": "https://open.spotify.com/artist/0crt6CiHJXQXnL4zdHmwrS"
+        }
+      ],
+      "duration_ms": 199469,
+      "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
+      "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Camouflage",
-        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
-      },
-      "artists": [
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Talking Heads",
-      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "V\u00e4rit",
         "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 169846,
       "name": "V\u00e4rit",
       "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Talking Heads",
+      "url": "https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Rakastan teit\u00e4 kaikkia",
-        "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
-      },
-      "artists": [
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Rakastan teit\u00e4 kaikkia",
-      "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "110%",
         "url": "https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 181985,
       "name": "110%",
       "url": "https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Rakastan teit\u00e4 kaikkia",
+        "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Rakastan teit\u00e4 kaikkia",
+      "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
     },
     {
       "added_at": "2026-06-25 21:00:31",

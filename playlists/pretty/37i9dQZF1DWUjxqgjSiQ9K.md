@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: ECCOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,893 likes - 75 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,001 likes - 75 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 74 | [Más Santo](https://open.spotify.com/track/1ajhhCEKHZxoS9SksLH0IY) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [Más Santo](https://open.spotify.com/album/5orjxofGwmP5Yg1JcgA16n) | 7:26 |
 | 75 | [Despiértame](https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Despiértame](https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3) | 3:07 |
 
-Snapshot ID: `AAAAAL5eLCDQnViyj3GGPwxFZ2UwuLl4`
+Snapshot ID: `AAAAAInNtva32359WwcILKlu3/ho27ax`

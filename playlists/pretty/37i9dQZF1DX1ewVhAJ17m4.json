@@ -1,12 +1,12 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604331,
+  "num_followers": 604367,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHSE5vWBk92mgZpfgBIs4khRHZAD",
+  "snapshot_id": "AAAAAGWDJz/tstACdkbJtc1psnoHsIaI",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:31",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Vodka Soda",
-        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
+        "name": "Hard Call",
+        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
       },
       "artists": [
         {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
         }
       ],
-      "duration_ms": 193714,
-      "name": "Vodka Soda",
-      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
+      "duration_ms": 190000,
+      "name": "Hard Call",
+      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -847,34 +847,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Hard Call",
-        "url": "https://open.spotify.com/album/0bEGP9Kl4yOrPQ2tQUF7Qy"
+        "name": "Vodka Soda",
+        "url": "https://open.spotify.com/album/2SkGfqVGEJLfkNLAw7bV5X"
       },
       "artists": [
         {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Hard Call",
-      "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Teeth",
-        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
+      "duration_ms": 193714,
+      "name": "Vodka Soda",
+      "url": "https://open.spotify.com/track/06w43lA6dW2KCdMzd6Sk3P"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -891,6 +875,22 @@
       "duration_ms": 250172,
       "name": "Fatal Flaw",
       "url": "https://open.spotify.com/track/7iOmNAV74wgniReAH65opV"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/7dTaPP2556CsZBPoYFGvFV"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/482PoaBHh3MI4w3MzozXOr"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Someone You Need",
-        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 183375,
-      "name": "Someone You Need",
-      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Don't Let Me Get Too Low",
         "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 158999,
       "name": "Don't Let Me Get Too Low",
       "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Someone You Need",
+        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "Someone You Need",
+      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
+        "name": "INMYFEELINGS",
+        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
+      },
+      "artists": [
+        {
+          "name": "Hungover",
+          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
+        }
+      ],
+      "duration_ms": 212464,
+      "name": "INMYFEELINGS",
+      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
         "name": "Who Will Look After The Dogs?",
         "url": "https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 119481,
       "name": "No Hope",
       "url": "https://open.spotify.com/track/0OAQGBvxb4XiZCBmsl7nZZ"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Circulate",
-        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 159537,
-      "name": "Circulate",
-      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "INMYFEELINGS",
-        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
+        "name": "Circulate",
+        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
       },
       "artists": [
         {
-          "name": "Hungover",
-          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
         }
       ],
-      "duration_ms": 212464,
-      "name": "INMYFEELINGS",
-      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
+      "duration_ms": 159537,
+      "name": "Circulate",
+      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "oxygen.",
-        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 168472,
-      "name": "oxygen.",
-      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Extremely Fragile Human Being",
         "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 193912,
       "name": "Forgive (feat. Joe Taylor)",
       "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "oxygen.",
+        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 168472,
+      "name": "oxygen.",
+      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

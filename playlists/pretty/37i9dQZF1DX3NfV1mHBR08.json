@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 50109,
+  "num_followers": 50116,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOPVF1ZRBwp8Gsx73HABYCgte6Uj",
+  "snapshot_id": "AAAAABqmNWsdpDRcDh4VF2hSGf1IVYAJ",
   "tracks": [
     {
       "added_at": "2026-07-03 07:28:10",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
+        "name": "Album 0",
+        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "What Do I Steal?",
+      "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
+    },
+    {
+      "added_at": "2026-07-03 07:28:10",
+      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
-    },
-    {
-      "added_at": "2026-07-03 07:28:10",
-      "album": {
-        "name": "Album 0",
-        "url": "https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "What Do I Steal?",
-      "url": "https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU"
     },
     {
       "added_at": "2026-07-03 07:28:10",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 241676,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
-    },
-    {
-      "added_at": "2026-07-03 07:28:10",
-      "album": {
         "name": "Resident Playbook (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7scrnEA8acHOJr2BhWwKgb"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 241676,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
+    },
+    {
+      "added_at": "2026-07-03 07:28:10",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
-        "name": "Fermata",
-        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
+        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
       },
       "artists": [
         {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Escape to Me",
-      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
+      "duration_ms": 219991,
+      "name": "On Such a Day",
+      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
     },
     {
       "added_at": "2026-07-03 07:28:10",
@@ -643,18 +643,18 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
-        "name": "Resident Playbook, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wJhsu9q7b7hot5Zlu2mU6"
+        "name": "Fermata",
+        "url": "https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX"
       },
       "artists": [
         {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
-      "duration_ms": 219991,
-      "name": "On Such a Day",
-      "url": "https://open.spotify.com/track/59RLYQQ8v9PItVwFf1qNhx"
+      "duration_ms": 187026,
+      "name": "Escape to Me",
+      "url": "https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m"
     },
     {
       "added_at": "2026-07-03 07:28:10",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
+        "name": "Resident Playbook, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l"
+      },
+      "artists": [
+        {
+          "name": "Mido and Falasol",
+          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
+        }
+      ],
+      "duration_ms": 243978,
+      "name": "Amateur",
+      "url": "https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m"
+    },
+    {
+      "added_at": "2026-07-03 07:28:10",
+      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 209813,
       "name": "She Gonna Stop (Feat. Leellamarz) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0"
-    },
-    {
-      "added_at": "2026-07-03 07:28:10",
-      "album": {
-        "name": "Resident Playbook, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/022Jz3R8RUtbFmxsH0Vj0l"
-      },
-      "artists": [
-        {
-          "name": "Mido and Falasol",
-          "url": "https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq"
-        }
-      ],
-      "duration_ms": 243978,
-      "name": "Amateur",
-      "url": "https://open.spotify.com/track/6lUpyKNgcksg3w9HPq2p3m"
     },
     {
       "added_at": "2026-07-03 07:28:10",

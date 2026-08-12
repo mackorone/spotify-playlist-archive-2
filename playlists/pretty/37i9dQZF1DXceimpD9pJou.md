@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Onell Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,097 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,117 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Prototipo](https://open.spotify.com/track/0YOWFe3Iht7daxhWSS8i19) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Prototipo](https://open.spotify.com/album/4eIkNv0xa8qtXPO6KzaD3D) | 3:02 |
 | 100 | [Me Perdonaste](https://open.spotify.com/track/47WeAYGeULP3bmsVmGIzTs) | [Omar Campos](https://open.spotify.com/artist/2lbWAx5Qo5D7TAbdMZjHNV) | [Me Perdonaste](https://open.spotify.com/album/3ztDMpzjswc1kEAaXE9dCH) | 3:51 |
 
-Snapshot ID: `AAAAAH5rdHWTZ59K073LOJ6fTz4qRYcb`
+Snapshot ID: `AAAAAE/vkmI+2WmAUCQVkUw77vu+il9P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Zino Vinci
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,672 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,665 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [DARLING](https://open.spotify.com/track/2zq3pwi2tlf96KbnZqDYvq) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [DARLING](https://open.spotify.com/album/0HJRLdzJ0Y6phDRCBg6i7u) | 3:15 |
 | 70 | [LEGACY](https://open.spotify.com/track/3e82RF8rwQYOpCwjLSu6gA) | [PIXY](https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz) | [LEGACY](https://open.spotify.com/album/480cO3M1pWRyGwxnYb0hxF) | 2:14 |
 
-Snapshot ID: `AAAAAGXdFoPDNSKNJoW1S9idjJzcL0/B`
+Snapshot ID: `AAAAADyP3L1dHo4LRH8skhGQ8ry6I/aR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,360 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,371 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |
 | 30 | [Pedaco De Ilusão](https://open.spotify.com/track/2FEUQ8P09HoJPgKnv2BFLH) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Pagode De Mesa \(Ao Vivo\)](https://open.spotify.com/album/1ru3xsV3Q957Kjzz81oo8m) | 3:08 |
 | 31 | [Coração Melão](https://open.spotify.com/track/5WJl5D5BtJ1m0DIj6ZKOzT) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Coração Melão](https://open.spotify.com/album/6M6JvZ9nPuldJZHe99vInD) | 4:18 |
-| 32 | [INCOMUM](https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 2:54 |
-| 33 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
+| 32 | [Fuso Horário \- Ao Vivo](https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP) | [Resenha das Minas 2 \(Ao Vivo\)](https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS) | 3:06 |
+| 33 | [INCOMUM](https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [BRava](https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH) | 2:54 |
 | 34 | [Janeiro](https://open.spotify.com/track/1Bpmp677mPp8sMVSS0zl5s) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Janeiro](https://open.spotify.com/album/5CnpwfsEEbxaKEoEDTgfn2) | 3:10 |
 | 35 | [Alto Preço](https://open.spotify.com/track/3r5YGpZC57ee9l7dKLDsIm) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Alto Preço](https://open.spotify.com/album/10xQyAREvJCX5VxzfdCFlr) | 3:12 |
 | 36 | [Amor de Hoje](https://open.spotify.com/track/3VIYX0f6sym9kw7ixKVCrr) | [Júlia Rocha](https://open.spotify.com/artist/53UPZ6NI8MSbfP7DMtMjTq) | [Cheiro de Flor](https://open.spotify.com/album/7kdd5WrNFHuw6NyaNL2UvD) | 3:22 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 38 | [Você Não Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/3lDGU5FKsywJzNbdAINxhR) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Só Vvamo na Ilha \(Ao Vivo\)](https://open.spotify.com/album/1q3K1MYoCr97RFIwVNvGWL) | 3:12 |
 | 39 | [Mulher no Espelho](https://open.spotify.com/track/1IaB94N2QjtCPz0h1pueLH) | [Riane Mascarenhas](https://open.spotify.com/artist/6VVAOpIvLkd1NemCaCqvao), [Núbia](https://open.spotify.com/artist/3CdN4b9reGAZYsPlbB3pTW) | [Mulher no Espelho](https://open.spotify.com/album/5yJSXtMCcTBXL5nPjpSpcj) | 3:35 |
 | 40 | [Sonho Meu](https://open.spotify.com/track/5rbxBmoBDxvnhyVYWBSBRa) | [Clementina De Jesus](https://open.spotify.com/artist/0tWtrXx0eO52k40JMojM0j), [Dona Ivone Lara](https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW) | [Para Sempre](https://open.spotify.com/album/4zSZT5Qre7hpFgEk0yQy0C) | 3:22 |
-| 41 | [Consegue](https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6) | [Rafa Laranja](https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7) | [Consegue](https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir) | 3:26 |
-| 42 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
+| 41 | [Queda Livre](https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Queda Livre](https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z) | 3:25 |
+| 42 | [Consegue](https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6) | [Rafa Laranja](https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7) | [Consegue](https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir) | 3:26 |
 | 43 | [Nossa Brincadeira](https://open.spotify.com/track/6H7sEkjKCG95mejUtF2tNi) | [Marina Iris](https://open.spotify.com/artist/5iK58wMvoI0nNXMCHMUN9U), [Marcelle Motta](https://open.spotify.com/artist/7J5aKHQliQ4L12PsUutaF1), [Samba Que Dá](https://open.spotify.com/artist/4DLTl0Mv0q0c87qibEEUeU) | [Nossa Brincadeira](https://open.spotify.com/album/1eRM4XtsESz7aISUssPQBd) | 3:12 |
 | 44 | [Buquê de Rosas](https://open.spotify.com/track/4eBpX20rWTv6sKozgz4C26) | [Gaby Valentim](https://open.spotify.com/artist/7hIw5Ce8GiFF4MwMnKLsCB) | [Posturada](https://open.spotify.com/album/6l6RRc7iWCKA6qXwinhxl3) | 3:04 |
 | 45 | [Pior Que Eu Gosto](https://open.spotify.com/track/3LHbu66zyrDoHuvCz9ml1r) | [Isabela Liberato](https://open.spotify.com/artist/0WMsrTFkDc9rDkue68ORWt) | [Pior Que Eu Gosto](https://open.spotify.com/album/04KQu0FDP4zNaVnFHaOEzD) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 | 50 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 
-Snapshot ID: `AAAAALUgENnVnFjNwbrpcQfHd2k385J2`
+Snapshot ID: `AAAAAA8nDfe8nmT+jWQmpF4uIMXX5wZd`

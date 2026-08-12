@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPgnX9SzKNKeO2Ps5s2Wk50+iGHr",
+  "snapshot_id": "AAAAAN1FE2Ve2fcdPrhu8KWY9r2ZQ77c",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free Lunch",
+        "url": "https://open.spotify.com/album/2W92q7IAk5XX5GxJfvoH40"
+      },
+      "artists": [
+        {
+          "name": "Xella Red",
+          "url": "https://open.spotify.com/artist/1L0cXYzWFWoPTyKLHRtORm"
+        },
+        {
+          "name": "Your Stepdad",
+          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "owe you",
+      "url": "https://open.spotify.com/track/0na2GxmPZI7Gza6UbUgnSe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HYPNOSIS",
         "url": "https://open.spotify.com/album/5tH9bzf3AslI52jFaPmdFG"
       },
@@ -55,22 +75,6 @@
       "duration_ms": 121846,
       "name": "INTELLIGENT",
       "url": "https://open.spotify.com/track/0e49QvEBEc03vo0As3Wk7i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Grails",
-        "url": "https://open.spotify.com/album/1f6GQhQ22QLR08bdAFBGto"
-      },
-      "artists": [
-        {
-          "name": "Lohily",
-          "url": "https://open.spotify.com/artist/6vO2KGZh1rvFhv8qa3DDdx"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Smith & Wesson",
-      "url": "https://open.spotify.com/track/5zb7hZVZyhLhKEq3coGmPx"
     },
     {
       "added_at": null,
@@ -127,6 +131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grails",
+        "url": "https://open.spotify.com/album/1f6GQhQ22QLR08bdAFBGto"
+      },
+      "artists": [
+        {
+          "name": "Lohily",
+          "url": "https://open.spotify.com/artist/6vO2KGZh1rvFhv8qa3DDdx"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Smith & Wesson",
+      "url": "https://open.spotify.com/track/5zb7hZVZyhLhKEq3coGmPx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ronehl Season, VOL 1",
         "url": "https://open.spotify.com/album/3vCW4QqTYC0RdqYpyJC065"
       },
@@ -139,6 +159,54 @@
       "duration_ms": 131664,
       "name": "Life Sentences",
       "url": "https://open.spotify.com/track/02xKoruItxM6WIMasMuhrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "peace does not reside on my end",
+        "url": "https://open.spotify.com/album/53UX0XsKynszKaz5kb570e"
+      },
+      "artists": [
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "duration_ms": 126040,
+      "name": "scrimmage",
+      "url": "https://open.spotify.com/track/63W9vpUPPWerUd96x3nx8c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Till i make a difference",
+        "url": "https://open.spotify.com/album/2KMmEDBbSxgnDdpD3VaHkY"
+      },
+      "artists": [
+        {
+          "name": "SeaWicked",
+          "url": "https://open.spotify.com/artist/24M5JwSGVpiQhLQv86ky46"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "Till i make a difference",
+      "url": "https://open.spotify.com/track/2XB94htX0pZYdhzxCsgrtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "!?",
+        "url": "https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4"
+      },
+      "artists": [
+        {
+          "name": "jaydes",
+          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
+        }
+      ],
+      "duration_ms": 125267,
+      "name": "sick",
+      "url": "https://open.spotify.com/track/6IP5h91yInTxUqDBb9Buy3"
     },
     {
       "added_at": null,
@@ -171,34 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "peace does not reside on my end",
-        "url": "https://open.spotify.com/album/53UX0XsKynszKaz5kb570e"
+        "name": "A DREAM FOR A DOLLAR",
+        "url": "https://open.spotify.com/album/0DlU8lAYtlQDemNWPkvwsi"
       },
       "artists": [
         {
-          "name": "TopOppGen",
-          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+          "name": "Clark D",
+          "url": "https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4"
         }
       ],
-      "duration_ms": 126040,
-      "name": "scrimmage",
-      "url": "https://open.spotify.com/track/63W9vpUPPWerUd96x3nx8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "!?",
-        "url": "https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4"
-      },
-      "artists": [
-        {
-          "name": "jaydes",
-          "url": "https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv"
-        }
-      ],
-      "duration_ms": 125267,
-      "name": "sick",
-      "url": "https://open.spotify.com/track/6IP5h91yInTxUqDBb9Buy3"
+      "duration_ms": 145560,
+      "name": "ALL THE WAY BIG",
+      "url": "https://open.spotify.com/track/2teZmEZ2waI4NPTxryKrJc"
     },
     {
       "added_at": null,
@@ -219,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "reject you",
-        "url": "https://open.spotify.com/album/2jUfOBlsRrESV1C52DCTnC"
-      },
-      "artists": [
-        {
-          "name": "Trixc",
-          "url": "https://open.spotify.com/artist/4K0erIu9mqbCIaugdHnZc7"
-        }
-      ],
-      "duration_ms": 180119,
-      "name": "Freaky Head",
-      "url": "https://open.spotify.com/track/6JzYlKtLIy0Qi2x6eF9imR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aliv\u00eb",
         "url": "https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My"
       },
@@ -247,6 +283,22 @@
       "duration_ms": 153208,
       "name": "WAR 1",
       "url": "https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "reject you",
+        "url": "https://open.spotify.com/album/2jUfOBlsRrESV1C52DCTnC"
+      },
+      "artists": [
+        {
+          "name": "Trixc",
+          "url": "https://open.spotify.com/artist/4K0erIu9mqbCIaugdHnZc7"
+        }
+      ],
+      "duration_ms": 180119,
+      "name": "Freaky Head",
+      "url": "https://open.spotify.com/track/6JzYlKtLIy0Qi2x6eF9imR"
     },
     {
       "added_at": null,
@@ -315,42 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UP!",
-        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
-      },
-      "artists": [
-        {
-          "name": "Trefuego",
-          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
-        }
-      ],
-      "duration_ms": 110106,
-      "name": "UP!",
-      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mike In What",
-        "url": "https://open.spotify.com/album/2GgHhGR9f5QGUw4lnSyYfe"
-      },
-      "artists": [
-        {
-          "name": "Hood Radio",
-          "url": "https://open.spotify.com/artist/6hvER802DD3HhaYobfVdSZ"
-        },
-        {
-          "name": "reemknock",
-          "url": "https://open.spotify.com/artist/1WBHMVEqVPbT2755BkU1YH"
-        }
-      ],
-      "duration_ms": 115937,
-      "name": "Mike In What",
-      "url": "https://open.spotify.com/track/7oXKwqPb8ew1CTX5kFrcUF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HYPERNOVA.",
         "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
       },
@@ -367,26 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Practical Basketball (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5UBETmTHsqERFsbAz8zrpJ"
+        "name": "UP!",
+        "url": "https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud"
       },
       "artists": [
         {
-          "name": "Fijibeats",
-          "url": "https://open.spotify.com/artist/0vDfhME734ZwBJS5Rer3yv"
-        },
-        {
-          "name": "Aimlokk",
-          "url": "https://open.spotify.com/artist/7gREA0lxYOXVBT1QGCy6ZS"
-        },
-        {
-          "name": "Wittyyb",
-          "url": "https://open.spotify.com/artist/0BZSKK4L5hauP3AKK23D6c"
+          "name": "Trefuego",
+          "url": "https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP"
         }
       ],
-      "duration_ms": 136680,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/4C9vjLjLbMdoMEtcCSoJ6K"
+      "duration_ms": 110106,
+      "name": "UP!",
+      "url": "https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E"
     },
     {
       "added_at": null,
@@ -435,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Practical Basketball (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5UBETmTHsqERFsbAz8zrpJ"
+      },
+      "artists": [
+        {
+          "name": "Fijibeats",
+          "url": "https://open.spotify.com/artist/0vDfhME734ZwBJS5Rer3yv"
+        },
+        {
+          "name": "Aimlokk",
+          "url": "https://open.spotify.com/artist/7gREA0lxYOXVBT1QGCy6ZS"
+        },
+        {
+          "name": "Wittyyb",
+          "url": "https://open.spotify.com/artist/0BZSKK4L5hauP3AKK23D6c"
+        }
+      ],
+      "duration_ms": 136680,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/4C9vjLjLbMdoMEtcCSoJ6K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "splat!",
         "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
       },
@@ -447,6 +479,26 @@
       "duration_ms": 137142,
       "name": "splat!",
       "url": "https://open.spotify.com/track/2tSrjxRuo1ZIegQ69V4fPJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mike In What",
+        "url": "https://open.spotify.com/album/2GgHhGR9f5QGUw4lnSyYfe"
+      },
+      "artists": [
+        {
+          "name": "Hood Radio",
+          "url": "https://open.spotify.com/artist/6hvER802DD3HhaYobfVdSZ"
+        },
+        {
+          "name": "reemknock",
+          "url": "https://open.spotify.com/artist/1WBHMVEqVPbT2755BkU1YH"
+        }
+      ],
+      "duration_ms": 115937,
+      "name": "Mike In What",
+      "url": "https://open.spotify.com/track/7oXKwqPb8ew1CTX5kFrcUF"
     },
     {
       "added_at": null,
@@ -467,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Till i make a difference",
-        "url": "https://open.spotify.com/album/2KMmEDBbSxgnDdpD3VaHkY"
-      },
-      "artists": [
-        {
-          "name": "SeaWicked",
-          "url": "https://open.spotify.com/artist/24M5JwSGVpiQhLQv86ky46"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "Till i make a difference",
-      "url": "https://open.spotify.com/track/2XB94htX0pZYdhzxCsgrtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LO NE LY",
         "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
       },
@@ -499,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Digital",
-        "url": "https://open.spotify.com/album/1l1rE7pfYyhKXrpgNGDAY2"
+        "name": "Fire in my heart",
+        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
       },
       "artists": [
         {
-          "name": "Omari Lyseight",
-          "url": "https://open.spotify.com/artist/09RM5xq551CU3IQWBTimtF"
-        },
-        {
-          "name": "454",
-          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
         }
       ],
-      "duration_ms": 141686,
-      "name": "East End",
-      "url": "https://open.spotify.com/track/7FUFhDdoIfkQZchG9nrujV"
+      "duration_ms": 229738,
+      "name": "Fire in my heart",
+      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
     },
     {
       "added_at": null,
@@ -535,54 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "STARSTRUCK",
-        "url": "https://open.spotify.com/album/4qkgoGNJTqhpSLdbxUr8tV"
+        "name": "Digital",
+        "url": "https://open.spotify.com/album/1l1rE7pfYyhKXrpgNGDAY2"
       },
       "artists": [
         {
-          "name": "okxyvro!",
-          "url": "https://open.spotify.com/artist/5TsEhWdJyal3IvCsy98s6m"
-        }
-      ],
-      "duration_ms": 99567,
-      "name": "Repent",
-      "url": "https://open.spotify.com/track/3aoqI500xmOZ4JmYkvSbRo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy (with Young Thug)",
-        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Omari Lyseight",
+          "url": "https://open.spotify.com/artist/09RM5xq551CU3IQWBTimtF"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
         }
       ],
-      "duration_ms": 157355,
-      "name": "Bad Boy (with Young Thug)",
-      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire in my heart",
-        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
-      },
-      "artists": [
-        {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
-        }
-      ],
-      "duration_ms": 229738,
-      "name": "Fire in my heart",
-      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
+      "duration_ms": 141686,
+      "name": "East End",
+      "url": "https://open.spotify.com/track/7FUFhDdoIfkQZchG9nrujV"
     },
     {
       "added_at": null,
@@ -623,50 +623,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+        "name": "Bad Boy (with Young Thug)",
+        "url": "https://open.spotify.com/album/5hUFZjxtqYvxm9FGUhHCdE"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 106533,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
+      "duration_ms": 157355,
+      "name": "Bad Boy (with Young Thug)",
+      "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "F That Alcohol",
-        "url": "https://open.spotify.com/album/2cu3dVY8ZnOOgKgBimsdaU"
+        "name": "STARSTRUCK",
+        "url": "https://open.spotify.com/album/4qkgoGNJTqhpSLdbxUr8tV"
       },
       "artists": [
         {
-          "name": "Ygb Hakim",
-          "url": "https://open.spotify.com/artist/1ZA7X7hcCf695nBgF4iU4Y"
+          "name": "okxyvro!",
+          "url": "https://open.spotify.com/artist/5TsEhWdJyal3IvCsy98s6m"
         }
       ],
-      "duration_ms": 141849,
-      "name": "F That Alcohol",
-      "url": "https://open.spotify.com/track/4lTIAiaW6Qrjk8bhLhhjim"
+      "duration_ms": 99567,
+      "name": "Repent",
+      "url": "https://open.spotify.com/track/3aoqI500xmOZ4JmYkvSbRo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Scarecrow",
-        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
       },
       "artists": [
         {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 194594,
-      "name": "Pub Sub",
-      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
     },
     {
       "added_at": null,
@@ -687,18 +691,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bank Is Open",
-        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
       "artists": [
         {
-          "name": "Nb Bankz",
-          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 138017,
-      "name": "P!NK GUN",
-      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
+      "duration_ms": 182791,
+      "name": "Nightcore 2",
+      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F That Alcohol",
+        "url": "https://open.spotify.com/album/2cu3dVY8ZnOOgKgBimsdaU"
+      },
+      "artists": [
+        {
+          "name": "Ygb Hakim",
+          "url": "https://open.spotify.com/artist/1ZA7X7hcCf695nBgF4iU4Y"
+        }
+      ],
+      "duration_ms": 141849,
+      "name": "F That Alcohol",
+      "url": "https://open.spotify.com/track/4lTIAiaW6Qrjk8bhLhhjim"
     },
     {
       "added_at": null,
@@ -735,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Pub Sub",
+      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tap Hour",
         "url": "https://open.spotify.com/album/3HNJHP1MXufbGbLoyDR0JT"
       },
@@ -763,6 +799,22 @@
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bank Is Open",
+        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
+      },
+      "artists": [
+        {
+          "name": "Nb Bankz",
+          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
+        }
+      ],
+      "duration_ms": 138017,
+      "name": "P!NK GUN",
+      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
     },
     {
       "added_at": null,
@@ -799,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 182791,
-      "name": "Nightcore 2",
-      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Aliv\u00eb (Ge\u00ebk Pack)",
         "url": "https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT"
       },
@@ -827,30 +863,6 @@
       "duration_ms": 152893,
       "name": "Hat\u00ebr",
       "url": "https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Ah Kidz",
-        "url": "https://open.spotify.com/album/0S6JdLMY0py4wBLkKfZfLO"
-      },
-      "artists": [
-        {
-          "name": "1900Rugrat",
-          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
-        },
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        },
-        {
-          "name": "BAK Jay",
-          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
-      "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
     }
   ],
   "unique_name": "Taewitdak Radio",

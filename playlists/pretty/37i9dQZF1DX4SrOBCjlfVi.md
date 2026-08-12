@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Pooh Shiesty, Hurricane Wisdom,  Nino Paid and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,607 likes - 54 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,688 likes - 54 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 4 | [SOMETIMES](https://open.spotify.com/track/7pPN7CAODxYTEylcC0Jat0) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SOMETIMES](https://open.spotify.com/album/7o6ZgUrSefKTAiqwFLlo7b) | 2:18 |
 | 5 | [THOMASVILLE DAYS](https://open.spotify.com/track/0Zt0bqKQ5NNKDR6IXzBJlz) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [THOMASVILLE DAYS](https://open.spotify.com/album/5DjZei9uXZZLrgevgN0z02) | 1:52 |
 | 6 | [One \(feat\. Benji Blue Bills\)](https://open.spotify.com/track/2ocKgE6j6bUhUZZpdxYeES) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC) | [Somewhere Over The Rainbow](https://open.spotify.com/album/5wKT30xWSzKEnAWOuVwD04) | 2:08 |
-| 7 | [HERE AND THERE ft LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
+| 7 | [HERE AND THERE FT LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
 | 8 | [Benz Truck Pt\. 2](https://open.spotify.com/track/6WZsUXp0fCB4OLWRFxjbpc) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Benz Truck Pt\. 2](https://open.spotify.com/album/4ZpjEHPet3Osu8J8wsLUjL) | 2:00 |
 | 9 | [SUM1ELSE.mp3](https://open.spotify.com/track/3YaAjZLfXrKq53H6ylTuAm) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Baby Boy](https://open.spotify.com/artist/0zoQIVykiQsd14ebIWzYpa) | [BUCK\*](https://open.spotify.com/album/3nZ4U0tlzTq3awzIAqEyPp) | 2:37 |
 | 10 | [TALKIN FYE](https://open.spotify.com/track/1UBZHd1XtwhlUvQnXt5l12) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [TALKIN FYE](https://open.spotify.com/album/1CWcR6oP4LuBhsVizDTYOW) | 2:17 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 53 | [Ludacris](https://open.spotify.com/track/0QKJqlUIkx6s2tTayLxK8G) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Lil Brasi](https://open.spotify.com/album/7uo2NvNSIeynIcnuLP7Vyg) | 2:05 |
 | 54 | [Yahtzee](https://open.spotify.com/track/1T2P6Vz8xIvHMLxyLIv8Xe) | [The Koreatown Oddity](https://open.spotify.com/artist/5p2gVFoALyOtm13Fv5TjgQ) | [Yahtzee](https://open.spotify.com/album/6fQzRSPgRvs2te2jj3WZPk) | 2:52 |
 
-Snapshot ID: `AAAAAEoOQ5i9+xxRKhAIKWUfWTe7tXQ8`
+Snapshot ID: `AAAAAB3uYxyREM6ecFGLiHoFJ8GwbHwW`

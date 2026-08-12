@@ -1,12 +1,12 @@
 {
   "description": "This is Madeline Merlo. The essential tracks, all in one playlist.",
-  "num_followers": 533,
+  "num_followers": 534,
   "original_name": "This Is Madeline Merlo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAA+3bBgZvgOFUIMw2Sv37AK",
+  "snapshot_id": "ankUgAAAAAAIMOfRjWTa94tzAq6EgHn2",
   "tracks": [
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 199306,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
+      "duration_ms": 207906,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
     },
     {
       "added_at": null,
@@ -408,21 +408,21 @@
       },
       "artists": [
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         },
         {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         },
         {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 212121,
-      "name": "One and Only You (Reprise)",
-      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
+      "duration_ms": 222022,
+      "name": "To Have You Stay",
+      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/1tZ1TWoBfBIOnWU3ieSRzk"
+      "duration_ms": 199306,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/0C8zrFkcEsOW5hhBdAFzYL"
     },
     {
       "added_at": null,
@@ -484,21 +484,21 @@
       },
       "artists": [
         {
-          "name": "Jana Kramer",
-          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         },
         {
           "name": "Munro Chambers",
           "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         },
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+          "name": "Jana Kramer",
+          "url": "https://open.spotify.com/artist/2PaRhxWFaqCUZybJDDoNrf"
         }
       ],
-      "duration_ms": 222022,
-      "name": "To Have You Stay",
-      "url": "https://open.spotify.com/track/5SrbIv4Xn7SH9fRngBz8kP"
+      "duration_ms": 212121,
+      "name": "One and Only You (Reprise)",
+      "url": "https://open.spotify.com/track/6O81ZUkZG4tnOJQE56nAij"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Ofro and Vaasi
 
-362 songs - 18 hr 56 min
+363 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aalavidra Saami](https://open.spotify.com/track/5H8ZCsA3XCq0sgk9ev262o) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [Vilva](https://open.spotify.com/artist/6Gr9oYtVzZoCgOGn1t1OJ9) | [Aalavidra Saami](https://open.spotify.com/album/3ywXYViqym2qfiN68xwrMG) | 2:53 | 2025-09-12 | 2026-06-09 |
 | [ABATHU](https://open.spotify.com/track/2OeapeRZY7A1SdusvwUT8t) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Tony James](https://open.spotify.com/artist/71RrfwS2c8N12HclIkLeBn) | [ABATHU](https://open.spotify.com/album/2OHoLsytHq6waEzMrzYAxD) | 2:07 | 2026-04-23 |  |
 | [Ace Anthem \- From "Ace"](https://open.spotify.com/track/0cDjhYuB47TEgLtCktBJiy) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Ratty Adhiththan](https://open.spotify.com/artist/06qlB4GYIEJsYDEh6yhTuF) | [Ace Anthem \(From "Ace"\)](https://open.spotify.com/album/7M4HfCk1Hj2AZAJtg2yIbr) | 2:29 | 2025-05-21 | 2026-03-20 |
+| [ADADA](https://open.spotify.com/track/4J4iMHalGkwLYOpIMAuMkZ) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [ADADA](https://open.spotify.com/album/70wEqWlMlBPpKakiNqQVoc) | 2:14 | 2026-08-11 |  |
 | [ADDA](https://open.spotify.com/track/5kErLwph1shmMgGF3ASBRS) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [ADDA](https://open.spotify.com/album/4XsV2v7tyYqTpxkJsHct9j) | 2:36 | 2024-12-29 | 2025-02-18 |
 | [ADIMAI](https://open.spotify.com/track/4fJq3KI3Wa0kxVyY4huDrZ) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6), [Jason Penerselvam](https://open.spotify.com/artist/203p1jM90ugEbq3N0vX6PH) | [ADIMAI](https://open.spotify.com/album/0Ga8XhLre9K8LMhBpjqkA9) | 3:12 | 2025-06-03 | 2025-09-17 |
 | [Adipoli Chetta](https://open.spotify.com/track/7lN3wtrrpajoz91MMBcDcu) | [LIL.PUT](https://open.spotify.com/artist/3Xie5axUlJUtpepNj6dbqx), [DUMEEL](https://open.spotify.com/artist/3viKoScukHFcuoMc8vpolo), [Irai](https://open.spotify.com/artist/2Ow69iKQjp5sxmWcipjcfo), [LD.PAUL](https://open.spotify.com/artist/6124V60CMyUWc1GWcI0Q9G) | [Adipoli Chetta](https://open.spotify.com/album/0rh6JfjmkhaispP5ZslqwS) | 2:42 | 2024-12-29 | 2025-11-09 |

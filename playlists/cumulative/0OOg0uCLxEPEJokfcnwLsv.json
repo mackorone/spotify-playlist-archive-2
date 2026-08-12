@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "ANHA",
+        "url": "https://open.spotify.com/album/6icKjxljuUNwWVTYPGtIAY"
+      },
+      "artists": [
+        {
+          "name": "McNum",
+          "url": "https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "ANHA",
+      "url": "https://open.spotify.com/track/2NW8zDzKdyYM05YfgsNGOI"
+    },
+    {
+      "album": {
         "name": "Becoming The Angel",
         "url": "https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC"
       },
@@ -7499,6 +7517,24 @@
     },
     {
       "album": {
+        "name": "The Rock Made To Roll",
+        "url": "https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199336,
+      "name": "Say Hello To My Friend",
+      "url": "https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz"
       },
@@ -8756,6 +8792,24 @@
       "duration_ms": 150924,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA"
+    },
+    {
+      "album": {
+        "name": "Sympathy",
+        "url": "https://open.spotify.com/album/4FT3xTzZjzJ6c3PdkFyPrM"
+      },
+      "artists": [
+        {
+          "name": "David Barker",
+          "url": "https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233024,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/3wmDN6x8mWFEY3lBVm4zhp"
     },
     {
       "album": {

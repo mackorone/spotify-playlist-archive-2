@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,739 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,754 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 49 | [Home and Office](https://open.spotify.com/track/7nLSB0ZrbuHY9gRYJKv9W5) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Mercurius FM](https://open.spotify.com/artist/4vaCfb7Q90IqXw3U77tAje), [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3) | [Home and Office](https://open.spotify.com/album/0Ulc2WfQQRLRd58E6xra7M) | 2:33 |
 | 50 | [Dawn Rest](https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [Dawn Rest](https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn) | 3:41 |
 | 51 | [Training Day](https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:34 |
-| 52 | [Veranda](https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Illuminations](https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo) | 3:16 |
-| 53 | [Mirror Mirror](https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Televised Tragedies](https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9) | 1:37 |
+| 52 | [Mirror Mirror](https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Televised Tragedies](https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9) | 1:37 |
+| 53 | [Veranda](https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Illuminations](https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo) | 3:16 |
 | 54 | [so be it](https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw) | [glhf](https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te) | [so be it](https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj) | 6:28 |
 | 55 | [Nature](https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9) | [US Golf 95](https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox) | [Swing Tournament](https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC) | 2:52 |
 | 56 | [A Face Without Eyes](https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [Nu.wav Hallucinations](https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv) | 5:59 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 68 | [Harlequin](https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Harlequin](https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb) | 2:56 |
 | 69 | [Oneirataxia](https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Aeris](https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047) | 3:46 |
 | 70 | [Telefunken](https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7) | [VHS LOGOS](https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ) | [Street Smarts](https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp) | 1:26 |
-| 71 | [Procedurally Generated Corridor](https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Exit simulation](https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ) | 1:44 |
-| 72 | [made in taiwan](https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm) | [Lupus Nocte](https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53) | [made in taiwan](https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo) | 3:02 |
+| 71 | [made in taiwan](https://open.spotify.com/track/4MzBWdWkkj3cqSvH84hzbm) | [Lupus Nocte](https://open.spotify.com/artist/5XVISJnCAYn0nxIPpBIp53) | [made in taiwan](https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo) | 3:02 |
+| 72 | [Procedurally Generated Corridor](https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Exit simulation](https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ) | 1:44 |
 | 73 | [Downpour](https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn) | [Sleepless\-Nights](https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE), [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Downpour](https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7) | 8:04 |
 | 74 | [Clarity](https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [24Hrs.](https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI) | 2:25 |
 | 75 | [Entrust](https://open.spotify.com/track/0hjuajTmKw9mRhdVmP2h6R) | [NNTYTUU](https://open.spotify.com/artist/1DbJR3WnrE6zQ5XIuLx8mD) | [Dusty Shelves](https://open.spotify.com/album/2QK8zPoWilHGHS0nmqWuKf) | 2:36 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 78 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
 | 79 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
 | 80 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
-| 81 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
-| 82 | [You're no one](https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp) | [Somburd](https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7) | [You're no one](https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR) | 2:24 |
+| 81 | [You're no one](https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp) | [Somburd](https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7) | [You're no one](https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR) | 2:24 |
+| 82 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
 | 83 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
 | 84 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
 | 85 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 94 | [Spring Water](https://open.spotify.com/track/1ulOpZGsWSZcaBQd1diOj8) | [AURAGRAPH](https://open.spotify.com/artist/6yR7RysQJaTayvmT0Bx8zt) | [Tropics 1](https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO) | 3:35 |
 | 95 | [Fever Dream \- slowed + reverb](https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO) | [sunnbrella](https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB) | [Fever Dream \(slowed + reverb\)](https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ) | 3:52 |
 | 96 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
-| 97 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 |
-| 98 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
-| 99 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
-| 100 | [Dillards](https://open.spotify.com/track/3jcJiuBKrGKQmdW4xdDiuW) | [Deadmalls](https://open.spotify.com/artist/2qFdnNDKLAb4RDfijF9gKt) | [Touched By an Angle, Vol\. 2](https://open.spotify.com/album/4zGSJQ8cPjwHbmeDtHrkfO) | 3:17 |
+| 97 | [Dillards](https://open.spotify.com/track/3jcJiuBKrGKQmdW4xdDiuW) | [Deadmalls](https://open.spotify.com/artist/2qFdnNDKLAb4RDfijF9gKt) | [Touched By an Angle, Vol\. 2](https://open.spotify.com/album/4zGSJQ8cPjwHbmeDtHrkfO) | 3:17 |
+| 98 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 |
+| 99 | [Stunts](https://open.spotify.com/track/5fgZv37iE8pDNOcmQRvhFL) | [Teams](https://open.spotify.com/artist/6Ju8rLVGq0MMt0NaXyfLJJ) | [Dxys Xff](https://open.spotify.com/album/2iamNHiA06vFxbTk1mgc1d) | 5:26 |
+| 100 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
 
-Snapshot ID: `AAAAACKjDiO8nHwc+2m9OJ2lcoXBCJer`
+Snapshot ID: `AAAAAIEhXTPkSB/xPUwBXGwGDj1qX/hb`

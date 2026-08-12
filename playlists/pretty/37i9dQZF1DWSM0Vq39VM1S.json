@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388071,
+  "num_followers": 388045,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLcyZ7mi6JJZE5KXB0+vSm+fop2",
+  "snapshot_id": "AAAAAOmiuzYUpIGLanux2neOZ8XRB2Aj",
   "tracks": [
     {
       "added_at": "2026-07-31 09:02:32",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "After the First Kiss",
         "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
       },
@@ -379,6 +363,22 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -427,22 +443,6 @@
       "duration_ms": 206480,
       "name": "Some Birds Don't Fly",
       "url": "https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 191244,
+      "name": "Walk The Way",
+      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 191244,
-      "name": "Walk The Way",
-      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
-      },
-      "artists": [
-        {
-          "name": "Malted Milk",
-          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
-        }
-      ],
-      "duration_ms": 241398,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Learning to Live",
         "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 185344,
       "name": "My Whole Life",
       "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
+      },
+      "artists": [
+        {
+          "name": "Malted Milk",
+          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
+        }
+      ],
+      "duration_ms": 241398,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
     },
     {
       "added_at": "2026-07-31 09:02:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 86 songs - 5 hr 7 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 87 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 84 | [Sweet Tooth](https://open.spotify.com/track/5dWoXHpRHmDUpqVfbtUegp) | [Against the Voices](https://open.spotify.com/artist/1PbZi3MMzd2reijr7fnndu) | [Sweet Tooth](https://open.spotify.com/album/1FDAcSLPnGveYgYoUrYKOO) | 4:12 |
 | 85 | [Bullet For Your Gun](https://open.spotify.com/track/2J4EC6Gb119yhv9Yyhb7jY) | [Former Teen](https://open.spotify.com/artist/1Vzt8cjNUHR5ZZ7i99Bh1u) | [Bullet For Your Gun](https://open.spotify.com/album/5cIH1H2S4rLLrAYoQ7t1Sr) | 4:06 |
 | 86 | [The ritual sound of silence](https://open.spotify.com/track/0RJ2p6teIbZtKbj2y4e2Bg) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 4:07 |
+| 87 | [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 |
 
-Snapshot ID: `AAAPwvmqgwUGRnWCSCC0Kwm/k2qObYd2`
+Snapshot ID: `AAAPw8yHYx0R0/IAC1iRMup6KjlrHvUR`

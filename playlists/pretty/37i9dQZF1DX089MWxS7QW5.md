@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: DAWN \(던\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,977 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,985 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [1972](https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [1972](https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr) | 2:27 |
 | 50 | [arrrt.](https://open.spotify.com/track/6cwELvkSjzUsZsg2RECEaC) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [arrrt.](https://open.spotify.com/album/63sekW5NE6xlNLj2q3ZB95) | 2:14 |
 
-Snapshot ID: `AAAAAGW6uwqf+oD4sTM0cgOsx6yrcafN`
+Snapshot ID: `AAAAANUJ7KoPT2I0sON5/oIsqKYDh5dm`

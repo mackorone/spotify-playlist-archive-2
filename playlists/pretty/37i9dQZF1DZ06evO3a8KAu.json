@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50855,
+  "num_followers": 50856,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAACZF04HrQ93weP58O3dKbN+",
+  "snapshot_id": "ankUgAAAAAC3+vXH3o0s9AH2EOpV/HsG",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Muchacho de La Esquina",
-        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 154151,
-      "name": "El Muchacho de La Esquina",
-      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
+      "duration_ms": 252750,
+      "name": "Un D\u00eda a La Vez (En Vivo)",
+      "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda a La Vez (En Vivo)",
-        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+        "name": "El Muchacho de La Esquina",
+        "url": "https://open.spotify.com/album/7izvRY7Za6veHyloHmhGuf"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 252750,
-      "name": "Un D\u00eda a La Vez (En Vivo)",
-      "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"
+      "duration_ms": 154151,
+      "name": "El Muchacho de La Esquina",
+      "url": "https://open.spotify.com/track/6lCqXnW5hWF1LK5IBgttSt"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
-        "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "A Toda Prueba",
-      "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gente del Este",
         "url": "https://open.spotify.com/album/671aHdlbJoWJyDhTzIXz0B"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 186972,
       "name": "DEL Rojo",
       "url": "https://open.spotify.com/track/4M4xMmMS8pMrffCzUHz5IG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
+        "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "A Toda Prueba",
+      "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 175381,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 236009,
       "name": "Mi Mejor Plan Eres Tu",
       "url": "https://open.spotify.com/track/62gjUC2k4VKjiXJCdYu7nx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 175381,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Ma\u00f1ana Muero",
-        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 279359,
-      "name": "Si Ma\u00f1ana Muero",
-      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 222778,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/6EoJjlaHxHGuDGYQd2xMJB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Ma\u00f1ana Muero",
+        "url": "https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 279359,
+      "name": "Si Ma\u00f1ana Muero",
+      "url": "https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 208443,
-      "name": "Como los Vaqueros",
-      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219149,
       "name": "Entre Mas Te Miro",
       "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 208443,
+      "name": "Como los Vaqueros",
+      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
     },
     {
       "added_at": null,

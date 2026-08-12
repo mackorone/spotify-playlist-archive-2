@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,342 likes - 164 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,337 likes - 164 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 163 | [Pink Living Room](https://open.spotify.com/track/1Eu49CiR5D5x85kymc70ar) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Pink Living Room](https://open.spotify.com/album/6Sua86pFF6JuJzns3XEeRs) | 3:56 |
 | 164 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 |
 
-Snapshot ID: `AAAAALUMP3hOwkl5T59bG+l6XWnIl771`
+Snapshot ID: `AAAAACmfseim/5RxOU6+bPLxUylCA3aw`

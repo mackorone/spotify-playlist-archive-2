@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz for focus or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,689 likes - 205 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,743 likes - 205 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 204 | [Make It Rain](https://open.spotify.com/track/6VJYqWMZzlammTuuPSJC09) | [Henning Witsell](https://open.spotify.com/artist/6O4yrTe0loBI2ZGPcMnrdF) | [Make It Rain](https://open.spotify.com/album/35eoTArdoBLU6DD4d9wplC) | 2:29 |
 | 205 | [Lost in Your Eyes](https://open.spotify.com/track/10UuAnxcgOAxFpIU8FIo6a) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Lost in Your Eyes](https://open.spotify.com/album/028GLMoConGrx3IUxzdTBI) | 3:30 |
 
-Snapshot ID: `AAAAANn5bRFFuWMPmQKVLPaKcx/wN5Zs`
+Snapshot ID: `AAAAAEz1i/Pjz00pO21cemvHT/0JN2mD`

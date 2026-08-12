@@ -1,12 +1,12 @@
 {
   "description": "Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures. ",
-  "num_followers": 423427,
+  "num_followers": 423498,
   "original_name": "Reading Adventure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDMM9vLKNQNSK8g2GERKCmSibfX",
+  "snapshot_id": "AAAAAH5cHpjBHUZnGsNgCgoRTyE3yoka",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:50",
@@ -74,6 +74,10 @@
         {
           "name": "Erland Cooper",
           "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        },
+        {
+          "name": "BBC Scottish Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1"
         }
       ],
       "duration_ms": 158072,

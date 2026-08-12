@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sumedh
 
-707 songs - 1 day 16 hr 3 min
+708 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [HEY](https://open.spotify.com/track/019LcgwlEBzMcuBpBAMNth) | [Darshan Shet](https://open.spotify.com/artist/7LAxciuTqn342KPL96WM8q) | [HEY](https://open.spotify.com/album/2q66NPP0EiJ5pOTN7MUOyI) | 2:59 | 2025-11-20 | 2026-05-22 |
 | [Hey Driver Ni Nanna Lover](https://open.spotify.com/track/2ipAtn4D1d7SeHf2UFBID7) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Trupti Uk Singer](https://open.spotify.com/artist/2SGoL6BKOPX2XUfaxj6Dt4), [Dj Sagar Rbg](https://open.spotify.com/artist/5KnADowrXi4jni5TWAuCR1) | [Hey Driver Ni Nanna Lover](https://open.spotify.com/album/5mM28MXmGyotFWLCHQOkjb) | 6:23 | 2025-11-03 | 2026-05-16 |
 | [Hey Hudugi](https://open.spotify.com/track/0mnJiv632SWqhGLWBF5CqY) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Hey Hudugi](https://open.spotify.com/album/5b8NzCPa17gUURnPMhCcr8) | 3:11 | 2024-06-11 | 2024-12-20 |
+| [Hey Mayave](https://open.spotify.com/track/03trmuYgFCABEbH59pyJ1M) | [Sachin S V](https://open.spotify.com/artist/4R6oprFzqo3o5vQozz8vOL) | [Hey Mayave](https://open.spotify.com/album/42v3MdwqPiMH5qtIokeGvE) | 3:21 | 2026-08-11 |  |
 | [Hey Nalle](https://open.spotify.com/track/6Iw6LNeRsjDGMrCRqR8Xxo) | [Shreyas Shetty](https://open.spotify.com/artist/0HoV7hquGIujUeBi085UZH) | [Hey Nalle](https://open.spotify.com/album/2QshlvOsfTzmOPhO5T6LJF) | 3:11 | 2025-04-11 | 2025-11-05 |
 | [Hey Nanna Jeeva](https://open.spotify.com/track/6Cv3CSs5W7CvP3V4BHcJgQ) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [NJ](https://open.spotify.com/artist/2958axlyMQi2Fc2NQyt2cH) | [Hey Nanna Jeeva](https://open.spotify.com/album/32OXZN5deMozsjjyMkEqvm) | 2:28 | 2026-01-28 |  |
 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 | 2023-03-06 | 2023-10-07 |

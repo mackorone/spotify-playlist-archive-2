@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0e13gEkNu4bA0spwGoN2BB\">Mariyam</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6QvQCarjaeuT9QNZvbEGXJ\">Juna Ara</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -442,6 +442,24 @@
       "duration_ms": 271132,
       "name": "10 lat",
       "url": "https://open.spotify.com/track/6JVyEerxI7ossjhRFl5ek7"
+    },
+    {
+      "album": {
+        "name": "zosta\u0144/wyjd\u017a",
+        "url": "https://open.spotify.com/album/54HXHeIDjOU8wbcbHXudBz"
+      },
+      "artists": [
+        {
+          "name": "duszno",
+          "url": "https://open.spotify.com/artist/2utOsBf2Kzg9lYHKSMxClB"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "10 mieczy",
+      "url": "https://open.spotify.com/track/7kf7gulETpZkOubCt7D7pA"
     },
     {
       "album": {
@@ -928,6 +946,24 @@
       "duration_ms": 167066,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6p0gGecL2ncrNST3PKAFhk"
+    },
+    {
+      "album": {
+        "name": "24H",
+        "url": "https://open.spotify.com/album/3v5VnomOVQUlyW6EWJNltK"
+      },
+      "artists": [
+        {
+          "name": "Gabi&Kamil Marsza\u0142",
+          "url": "https://open.spotify.com/artist/2tCPR0O6nRHOC3y17O0r5R"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185103,
+      "name": "24H",
+      "url": "https://open.spotify.com/track/5evH3j5oDpSzcLbANPedzh"
     },
     {
       "album": {
@@ -6138,7 +6174,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 241956,
       "name": "bluszcz",
       "url": "https://open.spotify.com/track/2UDTN3M3bqsqSNlxkT0ju5"
@@ -7884,6 +7920,28 @@
       "duration_ms": 192200,
       "name": "B\u0142\u0119kitne ptaki",
       "url": "https://open.spotify.com/track/1AGrZJejgDwbfQeblu8bhu"
+    },
+    {
+      "album": {
+        "name": "Cadillac",
+        "url": "https://open.spotify.com/album/5nMpmDAKcJ6zlaDvBy9dFQ"
+      },
+      "artists": [
+        {
+          "name": "Juna Ara",
+          "url": "https://open.spotify.com/artist/6QvQCarjaeuT9QNZvbEGXJ"
+        },
+        {
+          "name": "saburrakap",
+          "url": "https://open.spotify.com/artist/0aEisU4lXSZMTdjLWROrOm"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/3gW6rUooSwRl99nxtOlI6K"
     },
     {
       "album": {
@@ -12674,6 +12732,24 @@
       "duration_ms": 185204,
       "name": "Dajesz Mi Serce",
       "url": "https://open.spotify.com/track/2DoWTRyBa49tFnlaEow3XC"
+    },
+    {
+      "album": {
+        "name": "dakota johnson",
+        "url": "https://open.spotify.com/album/3l2qSCUsqk8RefDQ1y0MgV"
+      },
+      "artists": [
+        {
+          "name": "Lollie",
+          "url": "https://open.spotify.com/artist/436f7n8DsF6X9sgy4yqY2C"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134328,
+      "name": "dakota johnson",
+      "url": "https://open.spotify.com/track/3xuNUUymCi5RW0McWdyHAQ"
     },
     {
       "album": {
@@ -31358,7 +31434,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 190400,
       "name": "Len",
       "url": "https://open.spotify.com/track/1GRKlmFW1t7ROA7UTZ6sUf"
@@ -32382,6 +32458,24 @@
       "duration_ms": 160258,
       "name": "Lody Pistacjowe",
       "url": "https://open.spotify.com/track/05MJ7xINsFdtTncSdymoCW"
+    },
+    {
+      "album": {
+        "name": "LOFI",
+        "url": "https://open.spotify.com/album/2HE1y5sZW6Gy3sX9fa49Lx"
+      },
+      "artists": [
+        {
+          "name": "wiktoria",
+          "url": "https://open.spotify.com/artist/1ZKIwuIjbG5y7ojhL5uRd3"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "LOFI",
+      "url": "https://open.spotify.com/track/5FJ3opeK1ADMqzoqB2lRdC"
     },
     {
       "album": {
@@ -35332,7 +35426,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 169992,
       "name": "mia\u0142em by\u0107",
       "url": "https://open.spotify.com/track/5yCkt8zN1xgHktZ5MlBnBF"
@@ -35554,7 +35648,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 121399,
       "name": "Miliony monet",
       "url": "https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI"
@@ -40713,6 +40807,24 @@
     },
     {
       "album": {
+        "name": "Nie ma mi\u0142o\u015bci bez zazdro\u015bci",
+        "url": "https://open.spotify.com/album/4w32ip7orqf5xIO6GvAvNG"
+      },
+      "artists": [
+        {
+          "name": "MISS DIEM",
+          "url": "https://open.spotify.com/artist/6wofNzZbOAiBejJXLxk6Dp"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Nie ma mi\u0142o\u015bci bez zazdro\u015bci",
+      "url": "https://open.spotify.com/track/3ondbaj7182hdfJHR8XD7x"
+    },
+    {
+      "album": {
         "name": "Nie ma mnie",
         "url": "https://open.spotify.com/album/2OiY0bubsEggLS1Jg0xQ51"
       },
@@ -42550,6 +42662,24 @@
       "duration_ms": 241744,
       "name": "Niebo",
       "url": "https://open.spotify.com/track/0TyEABvi3i5CmI4qVCIhXV"
+    },
+    {
+      "album": {
+        "name": "nieBo",
+        "url": "https://open.spotify.com/album/3wMOeN7WyTtDTz28O21etU"
+      },
+      "artists": [
+        {
+          "name": "z\u0142o\u015bnice",
+          "url": "https://open.spotify.com/artist/4v4dTWKvYUH2CQapJEPEgP"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180073,
+      "name": "nieBo",
+      "url": "https://open.spotify.com/track/47TmvwVvmJIs2nH7FTZD2f"
     },
     {
       "album": {
@@ -46101,6 +46231,24 @@
     },
     {
       "album": {
+        "name": "Odrobin\u0119 szcz\u0119\u015bcia",
+        "url": "https://open.spotify.com/album/2h0qsKxCu5BGnVYysFzhqZ"
+      },
+      "artists": [
+        {
+          "name": "S\u0141YSZ",
+          "url": "https://open.spotify.com/artist/491G5OnKx125myWIozHgSx"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213452,
+      "name": "Odrobin\u0119 szcz\u0119\u015bcia",
+      "url": "https://open.spotify.com/track/3GeoQl33VV0PJokt44TXOw"
+    },
+    {
+      "album": {
         "name": "Odrodzenie",
         "url": "https://open.spotify.com/album/5DJSVN079lkOQouNjS4hpj"
       },
@@ -49612,7 +49760,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 224295,
       "name": "Per\u0142y za Kredensem",
       "url": "https://open.spotify.com/track/6dJnEeG7fhkGwfngdgQ45u"
@@ -55122,7 +55270,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 147789,
       "name": "Rachunek na mnie",
       "url": "https://open.spotify.com/track/528dBAwnKHf5O7ZjpXdD3D"
@@ -63298,7 +63446,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 242443,
       "name": "Szk\u0142o",
       "url": "https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7"
@@ -66048,7 +66196,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 341803,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/5jpSNQkBsF8mXaCgJFeto3"

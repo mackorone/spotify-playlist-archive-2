@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Jamback
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,462 likes - 120 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,496 likes - 120 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Do You Like Bass](https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Do You Like Bass](https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO) | 3:50 |
 | 120 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 
-Snapshot ID: `AAAAAPTqC26+jFc6NTBOFQ/ZNktCCt6P`
+Snapshot ID: `AAAAAHdBTL2MUiLMJEVjaNnKxhXCUxRE`

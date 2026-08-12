@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 22288,
+  "num_followers": 22304,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAKDwV7yrhCqgrarzSiNuyH",
+  "snapshot_id": "ankUgAAAAACd17jLw73WHT4CFGwe/aYO",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 229736,
-      "name": "Clothes Off (feat. kwn)",
-      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
+      "duration_ms": 205000,
+      "name": "Sex In Peace (ft. kwn)",
+      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
     },
     {
       "added_at": null,
@@ -111,22 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THERAPY AT THE CLUB",
-        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         },
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Sex In Peace (ft. kwn)",
-      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
+      "duration_ms": 229736,
+      "name": "Clothes Off (feat. kwn)",
+      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
     },
     {
       "added_at": null,

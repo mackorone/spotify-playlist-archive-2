@@ -1,12 +1,12 @@
 {
   "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 729194,
+  "num_followers": 729235,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADKuIMKkwL8NtZWhI+uQnvM",
+  "snapshot_id": "ankUgAAAAAAzLn1YLOdpjC/tUdPQ6Hal",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Sinaloa Para El Mundo",
-        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Te Estoy Enga\u00f1ando Con Otra",
-      "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 168653,
       "name": "Qu\u00e9 Tiene De Malo",
       "url": "https://open.spotify.com/track/06Od4Aeme6RXm1nNVpgxIr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Sinaloa Para El Mundo",
+        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "Te Estoy Enga\u00f1ando Con Otra",
+      "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
     },
     {
       "added_at": null,
@@ -523,38 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Sali\u00f3 A La Perfecci\u00f3n",
-      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Buen Ejemplo",
-        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Bohemio Loco",
-      "url": "https://open.spotify.com/track/1Nzd6zmeBmGZ0UkmIdDzRC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfQui\u00e9n Te Crees?",
         "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
       },
@@ -575,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renovar O Morir",
-        "url": "https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A"
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
       "artists": [
         {
@@ -584,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 148026,
-      "name": "Callejero Y Mujeriego",
-      "url": "https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J"
+      "duration_ms": 189360,
+      "name": "Bohemio Loco",
+      "url": "https://open.spotify.com/track/1Nzd6zmeBmGZ0UkmIdDzRC"
     },
     {
       "added_at": null,
@@ -600,9 +568,25 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 212786,
-      "name": "Un Imposible A Tu Medida",
-      "url": "https://open.spotify.com/track/5iNuJkGfKUMCJycC7wNOJw"
+      "duration_ms": 191253,
+      "name": "Sali\u00f3 A La Perfecci\u00f3n",
+      "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Renovar O Morir",
+        "url": "https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Callejero Y Mujeriego",
+      "url": "https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J"
     },
     {
       "added_at": null,
@@ -623,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 128640,
+      "name": "Una Mala Elecci\u00f3n",
+      "url": "https://open.spotify.com/track/3UUAZLnbePuhLAlPsEFeL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Un Imposible A Tu Medida",
+      "url": "https://open.spotify.com/track/5iNuJkGfKUMCJycC7wNOJw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mensaje",
         "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 193840,
       "name": "El Mensaje",
       "url": "https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 128640,
-      "name": "Una Mala Elecci\u00f3n",
-      "url": "https://open.spotify.com/track/3UUAZLnbePuhLAlPsEFeL6"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Buen Ejemplo",
-        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "El Buen Ejemplo",
-      "url": "https://open.spotify.com/track/1lH6djMd9eN2xUGQgfyLD9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "El Buen Ejemplo",
+      "url": "https://open.spotify.com/track/1lH6djMd9eN2xUGQgfyLD9"
     },
     {
       "added_at": null,

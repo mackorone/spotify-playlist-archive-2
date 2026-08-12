@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Valesca Mayssa",
-  "num_followers": 1214556,
+  "num_followers": 1214617,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOXqxVwk71enDWeCca/CfXd9jH4b",
+  "snapshot_id": "AAAAAEg3Xu/k+4FUP4bU15LuEYIbnpQZ",
   "tracks": [
     {
       "added_at": "2026-08-07 03:01:09",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
-        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "O Fogo Arder\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
-    },
-    {
-      "added_at": "2026-08-07 03:01:09",
-      "album": {
         "name": "O Medo N\u00e3o Vai Me Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7crn3QiywbOhiLG1kxQ3tY"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 682941,
       "name": "A Maior Honra - Ao Vivo",
       "url": "https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG"
+    },
+    {
+      "added_at": "2026-08-07 03:01:09",
+      "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -671,30 +671,6 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
-        "name": "Cristo + Tudo \u00c9 Teu (Ao Vivo no Jesus Vida Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "Paulo e Rebeca",
-          "url": "https://open.spotify.com/artist/3F7NaiORn4f5JGZrhcggo8"
-        },
-        {
-          "name": "Hamilton Rabelo",
-          "url": "https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X"
-        }
-      ],
-      "duration_ms": 531193,
-      "name": "Cristo + Tudo \u00c9 Teu - Ao Vivo no Jesus Vida Ver\u00e3o",
-      "url": "https://open.spotify.com/track/3aAk05LYyipr9PaHUp9ZDW"
-    },
-    {
-      "added_at": "2026-08-07 03:01:09",
-      "album": {
         "name": "F\u00e9 Para O Imposs\u00edvel",
         "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 245476,
       "name": "Cura - Ao Vivo em Salvador",
       "url": "https://open.spotify.com/track/7HUWoDzKA6KSBGxQmjNNR8"
+    },
+    {
+      "added_at": "2026-08-07 03:01:09",
+      "album": {
+        "name": "Cristo + Tudo \u00c9 Teu (Ao Vivo no Jesus Vida Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/7AVVWCuSmShe5MeFw6R6lf"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Paulo e Rebeca",
+          "url": "https://open.spotify.com/artist/3F7NaiORn4f5JGZrhcggo8"
+        },
+        {
+          "name": "Hamilton Rabelo",
+          "url": "https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X"
+        }
+      ],
+      "duration_ms": 531193,
+      "name": "Cristo + Tudo \u00c9 Teu - Ao Vivo no Jesus Vida Ver\u00e3o",
+      "url": "https://open.spotify.com/track/3aAk05LYyipr9PaHUp9ZDW"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
-        "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO"
-    },
-    {
-      "added_at": "2026-08-07 03:01:09",
-      "album": {
         "name": "Dependente de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
+        "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO"
+    },
+    {
+      "added_at": "2026-08-07 03:01:09",
+      "album": {
         "name": "Messias",
         "url": "https://open.spotify.com/album/5pPQywuULSpZCfNvhXUjp9"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 367846,
       "name": "Messias",
       "url": "https://open.spotify.com/track/1Us77TbG0XgbRqwB6TnKdC"
+    },
+    {
+      "added_at": "2026-08-07 03:01:09",
+      "album": {
+        "name": "Fogo Que Consome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj"
+      },
+      "artists": [
+        {
+          "name": "Carol Braga",
+          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+        },
+        {
+          "name": "BRASAS",
+          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
+        }
+      ],
+      "duration_ms": 348181,
+      "name": "Paz Sem Fim (Nada Quebrado) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -1039,26 +1059,6 @@
       "duration_ms": 283406,
       "name": "Tantos Mares - Ao Vivo",
       "url": "https://open.spotify.com/track/7FOPTUmEJ3ByYW9ag9cZJ3"
-    },
-    {
-      "added_at": "2026-08-07 03:01:09",
-      "album": {
-        "name": "Fogo Que Consome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4r2EH8PtKXYgPv6OWme1wj"
-      },
-      "artists": [
-        {
-          "name": "Carol Braga",
-          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
-        },
-        {
-          "name": "BRASAS",
-          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
-        }
-      ],
-      "duration_ms": 348181,
-      "name": "Paz Sem Fim (Nada Quebrado) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2mXl01XyGFBLmZEv4M1dzf"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
-        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 519000,
-      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
-      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
-    },
-    {
-      "added_at": "2026-08-07 03:01:09",
-      "album": {
         "name": "Fogo em Teus Olhos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ"
       },
@@ -1155,22 +1139,18 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
-        "name": "Estou Te Esperando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
+        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
         }
       ],
-      "duration_ms": 411745,
-      "name": "Estou Te Esperando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
+      "duration_ms": 519000,
+      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
+      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -1187,6 +1167,26 @@
       "duration_ms": 285681,
       "name": "Voc\u00ea em Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/4G28U2vY2SqffjtJ9Vr8dl"
+    },
+    {
+      "added_at": "2026-08-07 03:01:09",
+      "album": {
+        "name": "Estou Te Esperando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2jqC5FdUeldwV44b8RmS0V"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 411745,
+      "name": "Estou Te Esperando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3tncKGFUEBYpgO5P8Iwckz"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
+        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
+    },
+    {
+      "added_at": "2026-08-07 03:01:09",
+      "album": {
         "name": "No Secreto (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ImEIgbOdSt9wmtXyZUmkM"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 281273,
       "name": "No Secreto - Ao Vivo",
       "url": "https://open.spotify.com/track/3gCY5BvVER2S9SkhtYHctX"
-    },
-    {
-      "added_at": "2026-08-07 03:01:09",
-      "album": {
-        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
-        "name": "Oi, Jesus 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XpCverbmaqWNW8AH59Tu6"
+        "name": "Vou Seguir",
+        "url": "https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 329488,
-      "name": "Oi, Jesus 2 - Ao Vivo",
-      "url": "https://open.spotify.com/track/0tCWQmv79OdJXnIHungKVt"
+      "duration_ms": 288022,
+      "name": "Vou Seguir",
+      "url": "https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E"
     },
     {
       "added_at": "2026-08-07 03:01:09",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2026-08-07 03:01:09",
       "album": {
-        "name": "Vou Seguir",
-        "url": "https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy"
+        "name": "Oi, Jesus 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XpCverbmaqWNW8AH59Tu6"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 288022,
-      "name": "Vou Seguir",
-      "url": "https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E"
+      "duration_ms": 329488,
+      "name": "Oi, Jesus 2 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tCWQmv79OdJXnIHungKVt"
     },
     {
       "added_at": "2026-08-07 03:01:09",

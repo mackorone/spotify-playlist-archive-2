@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1666,
+  "num_followers": 1678,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAS6zxPViqxGHaACV6FMYsajb/WS5PI",
+  "snapshot_id": "AAAS/MLf2dsA8jxBqS+3ET/3ZQ5ekeUt",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -5207,6 +5207,214 @@
       "duration_ms": 207500,
       "name": "\u05d0\u05dc\u05d2\u05d5\u05e8\u05d9\u05ea\u05dd",
       "url": "https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo"
+    },
+    {
+      "added_at": "2026-08-11 04:11:30",
+      "album": {
+        "name": "SOAPBOX",
+        "url": "https://open.spotify.com/album/6acbhbjewDcTnpZVDvcl4r"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "duration_ms": 164476,
+      "name": "SOAPBOX - Single Version",
+      "url": "https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko"
+    },
+    {
+      "added_at": "2026-08-11 04:24:18",
+      "album": {
+        "name": "11 DE ABRIL",
+        "url": "https://open.spotify.com/album/3dnPlzOOjMT74Pif4MO7mJ"
+      },
+      "artists": [
+        {
+          "name": "ROGUZMAN",
+          "url": "https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "11 DE ABRIL",
+      "url": "https://open.spotify.com/track/07GwtvKgD2ZTctwZs0v1yt"
+    },
+    {
+      "added_at": "2026-08-11 04:14:52",
+      "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/2PpmoMUdhmwmHLtUrDZliQ"
+      },
+      "artists": [
+        {
+          "name": "Monsters of the Week",
+          "url": "https://open.spotify.com/artist/7auGT92z7CCbef5MXchuDn"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/0EsW1HhUVn8zdpZiKN14Cj"
+    },
+    {
+      "added_at": "2026-08-11 04:15:14",
+      "album": {
+        "name": "Amerta Naraka",
+        "url": "https://open.spotify.com/album/4ra3kWjxuQAqHnGAQAzJ7J"
+      },
+      "artists": [
+        {
+          "name": "Atomic Dancing Society",
+          "url": "https://open.spotify.com/artist/39Zdqlf2meV6IjjAWOiWYv"
+        }
+      ],
+      "duration_ms": 172771,
+      "name": "Amerta Naraka",
+      "url": "https://open.spotify.com/track/0PzwwxZS2GsRXNhX1HwdvV"
+    },
+    {
+      "added_at": "2026-08-11 04:24:36",
+      "album": {
+        "name": "SURGO",
+        "url": "https://open.spotify.com/album/34x4iO3U4RT1mpkdiRAmzf"
+      },
+      "artists": [
+        {
+          "name": "ROGUZMAN",
+          "url": "https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ"
+        }
+      ],
+      "duration_ms": 204790,
+      "name": "SURGO",
+      "url": "https://open.spotify.com/track/6RjDjgSxH62bELoSq9745w"
+    },
+    {
+      "added_at": "2026-08-11 04:16:08",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/27S9kM92Rs66hlisUcPsrJ"
+      },
+      "artists": [
+        {
+          "name": "Talking Horses",
+          "url": "https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/3ZxzL0EMe08bbFtt7Tz4H3"
+    },
+    {
+      "added_at": "2026-08-11 04:16:59",
+      "album": {
+        "name": "Best I Could",
+        "url": "https://open.spotify.com/album/6Qlc9186BYlRqiLrxFBJum"
+      },
+      "artists": [
+        {
+          "name": "Pleasant Flow",
+          "url": "https://open.spotify.com/artist/7N2MrVVNI0qj7MrhfNXsaj"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Best I Could",
+      "url": "https://open.spotify.com/track/2ggWI43mwIIWxkVsBMiMgA"
+    },
+    {
+      "added_at": "2026-08-11 04:24:51",
+      "album": {
+        "name": "CORE",
+        "url": "https://open.spotify.com/album/5EacYn0d6uj0g6BU10k6Vm"
+      },
+      "artists": [
+        {
+          "name": "ROGUZMAN",
+          "url": "https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "CORE",
+      "url": "https://open.spotify.com/track/7waMnx6Ks3nvScTuPhW6BT"
+    },
+    {
+      "added_at": "2026-08-11 06:28:49",
+      "album": {
+        "name": "The Squeeze",
+        "url": "https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ"
+      },
+      "artists": [
+        {
+          "name": "FYNN",
+          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "The Squeeze",
+      "url": "https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt"
+    },
+    {
+      "added_at": "2026-08-12 02:16:33",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/41M1oBJRdcy14e6KewYpeB"
+      },
+      "artists": [
+        {
+          "name": "angium music",
+          "url": "https://open.spotify.com/artist/5qtFEsiJWHDQzQRQke8kth"
+        }
+      ],
+      "duration_ms": 227968,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1588uYa1frBV9Sb98MW8Jp"
+    },
+    {
+      "added_at": "2026-08-12 02:16:16",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2NvwxNgRRxn8zkKvLTWclW"
+      },
+      "artists": [
+        {
+          "name": "Abi Nav",
+          "url": "https://open.spotify.com/artist/3oRQ8kmys6lXb6x063FJUy"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/28FeMbGKjfSla8lnoE3PD3"
+    },
+    {
+      "added_at": "2026-08-12 02:20:37",
+      "album": {
+        "name": "Rmlm",
+        "url": "https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa"
+      },
+      "artists": [
+        {
+          "name": "Rocketmonkey Lovemachine",
+          "url": "https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Sometimes Love's A Lonely Place",
+      "url": "https://open.spotify.com/track/1vb4LaT327z2mc9zPHYbtz"
+    },
+    {
+      "added_at": "2026-08-12 02:21:04",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/5DnNGtxQXpvv4Hr6QOkCeL"
+      },
+      "artists": [
+        {
+          "name": "Eden Roze",
+          "url": "https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr"
+        }
+      ],
+      "duration_ms": 192782,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/7xxNwwgRCzgTnBmYxiF2ab"
     }
   ],
   "unique_name": "Spotify Radio",

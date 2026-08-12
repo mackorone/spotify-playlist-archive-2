@@ -1,12 +1,12 @@
 {
   "description": "This is Kara-Lis Coverdale. The essential tracks, all in one playlist.",
-  "num_followers": 112,
+  "num_followers": 113,
   "original_name": "This Is Kara-Lis Coverdale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAB99fbtu6RrN+6cznMVov1R",
+  "snapshot_id": "ankUgAAAAACi70j5YA82jyPQWqqcqfIQ",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Where You Came",
-        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 316362,
-      "name": "Daze",
-      "url": "https://open.spotify.com/track/2S8Qc0lIVObqMrymPz5WP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grafts (Expanded Reissue)",
         "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
       },
@@ -127,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Where You Came",
+        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 316362,
+      "name": "Daze",
+      "url": "https://open.spotify.com/track/2S8Qc0lIVObqMrymPz5WP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Changes in Air",
         "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
       },
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 477000,
-      "name": "Curve Traces of Held Space",
-      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
+      "duration_ms": 257750,
+      "name": "Oriri",
+      "url": "https://open.spotify.com/track/60LOVP00FWMzZUQLZw6RW7"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Where You Came",
-        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 275332,
-      "name": "The Ceremonial Entrance of Colour",
-      "url": "https://open.spotify.com/track/2CS6hJHnlJRerZiwCUIw4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grafts (Expanded Reissue)",
         "url": "https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Where You Came",
+        "url": "https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 275332,
+      "name": "The Ceremonial Entrance of Colour",
+      "url": "https://open.spotify.com/track/2CS6hJHnlJRerZiwCUIw4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Changes in Air",
         "url": "https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI"
       },
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 257750,
-      "name": "Oriri",
-      "url": "https://open.spotify.com/track/60LOVP00FWMzZUQLZw6RW7"
+      "duration_ms": 477000,
+      "name": "Curve Traces of Held Space",
+      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 320000,
-      "name": "X 4Ewi",
-      "url": "https://open.spotify.com/track/47AGpXeFWGGEDODJTPyLel"
+      "duration_ms": 269500,
+      "name": "Ad_renaline",
+      "url": "https://open.spotify.com/track/0IGp5CumAZRD3pbgi7NQxu"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Ad_renaline",
-      "url": "https://open.spotify.com/track/0IGp5CumAZRD3pbgi7NQxu"
+      "duration_ms": 320000,
+      "name": "X 4Ewi",
+      "url": "https://open.spotify.com/track/47AGpXeFWGGEDODJTPyLel"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 213500,
-      "name": "Suspension of Swallowed Earth",
-      "url": "https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0"
+      "duration_ms": 102812,
+      "name": "Cumulative Resolution",
+      "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 232628,
-      "name": "Icon /c",
-      "url": "https://open.spotify.com/track/0efZEOgLVMMmjO5Gdz5ul7"
+      "duration_ms": 211500,
+      "name": "Splash 144",
+      "url": "https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 102812,
-      "name": "Cumulative Resolution",
-      "url": "https://open.spotify.com/track/0kcPM8OPrJM4th8SGKrP3t"
+      "duration_ms": 213500,
+      "name": "Suspension of Swallowed Earth",
+      "url": "https://open.spotify.com/track/3VxrMBKHaeYqJJ6K6A0AZ0"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A 480",
-        "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
+        "name": "Inscriptions, Vol. 3",
+        "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 291999,
-      "name": "A 478",
-      "url": "https://open.spotify.com/track/6CBVE62tXTPwSHBNIRQ5eK"
+      "duration_ms": 248000,
+      "name": "Buried Trig",
+      "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Splash 144",
-      "url": "https://open.spotify.com/track/2gYY1MQiNbdbvOY054ty0j"
+      "duration_ms": 232628,
+      "name": "Icon /c",
+      "url": "https://open.spotify.com/track/0efZEOgLVMMmjO5Gdz5ul7"
     },
     {
       "added_at": null,
@@ -612,25 +612,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 122999,
-      "name": "A 476",
-      "url": "https://open.spotify.com/track/3DtqWpoU1uRjyltYDqr4GL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inscriptions, Vol. 3",
-        "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Buried Trig",
-      "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
+      "duration_ms": 291999,
+      "name": "A 478",
+      "url": "https://open.spotify.com/track/6CBVE62tXTPwSHBNIRQ5eK"
     },
     {
       "added_at": null,
@@ -655,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+        "name": "A 480",
+        "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
       },
       "artists": [
         {
           "name": "Kara-Lis Coverdale",
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        },
-        {
-          "name": "LXV",
-          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 334750,
-      "name": "Buffering landscape",
-      "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
+      "duration_ms": 122999,
+      "name": "A 476",
+      "url": "https://open.spotify.com/track/3DtqWpoU1uRjyltYDqr4GL"
     },
     {
       "added_at": null,
@@ -688,9 +668,29 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Subfall (to)",
-      "url": "https://open.spotify.com/track/7DCelWwpKq62RHmAgpOJEI"
+      "duration_ms": 356000,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/1D28HzWfjCZQ3uxUYfahoT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        },
+        {
+          "name": "LXV",
+          "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
+        }
+      ],
+      "duration_ms": 334750,
+      "name": "Buffering landscape",
+      "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
     }
   ],
   "unique_name": "This Is Kara-Lis Coverdale",

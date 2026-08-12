@@ -1,12 +1,12 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 325447,
+  "num_followers": 325428,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEuQ2xT0qpfL62DEFFoU3oueNFAa",
+  "snapshot_id": "AAAAALW28DUUQZzYcAhcUR3+BXFXm7XD",
   "tracks": [
     {
       "added_at": "2026-08-06 23:00:46",
@@ -391,26 +391,22 @@
     {
       "added_at": "2026-08-06 23:00:46",
       "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
       },
       "artists": [
         {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         },
         {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        },
-        {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
         }
       ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
     },
     {
       "added_at": "2026-08-06 23:00:46",
@@ -431,22 +427,26 @@
     {
       "added_at": "2026-08-06 23:00:46",
       "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
         },
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
         }
       ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2026-08-06 23:00:46",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2026-08-06 23:00:46",
       "album": {
+        "name": "Dumb Decisions",
+        "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118119,
+      "name": "Dumb Decisions",
+      "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
+    },
+    {
+      "added_at": "2026-08-06 23:00:46",
+      "album": {
         "name": "The Less I Know The Better",
         "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 133842,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/2hsXsfcHY8bTeRIaIu7K8B"
-    },
-    {
-      "added_at": "2026-08-06 23:00:46",
-      "album": {
-        "name": "Dumb Decisions",
-        "url": "https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118119,
-      "name": "Dumb Decisions",
-      "url": "https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf"
     },
     {
       "added_at": "2026-08-06 23:00:46",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-08-06 23:00:46",
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy"
-      },
-      "artists": [
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        },
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Make Believe",
-      "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
-    },
-    {
-      "added_at": "2026-08-06 23:00:46",
-      "album": {
         "name": "Lifting",
         "url": "https://open.spotify.com/album/3cSNiUGgO7a6IcGANlCsJg"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 171428,
       "name": "Lifting",
       "url": "https://open.spotify.com/track/5FYqQZJG2PRl2WqttIseZ1"
+    },
+    {
+      "added_at": "2026-08-06 23:00:46",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/0WsYBIIe88Cbqs6QpwYqMy"
+      },
+      "artists": [
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        },
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/7IoTUnyyvbMEY2UuE2Tmsx"
     },
     {
       "added_at": "2026-08-06 23:00:46",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-08-06 23:00:46",
       "album": {
+        "name": "Pretty Green Eyes (Remixes)",
+        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
+      },
+      "artists": [
+        {
+          "name": "Ultrabeat",
+          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Pretty Green Eyes - Radio Edit",
+      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
+    },
+    {
+      "added_at": "2026-08-06 23:00:46",
+      "album": {
         "name": "All I Know (with Khalid)",
         "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 176046,
       "name": "All I Know (with Khalid)",
       "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
-    },
-    {
-      "added_at": "2026-08-06 23:00:46",
-      "album": {
-        "name": "Pretty Green Eyes (Remixes)",
-        "url": "https://open.spotify.com/album/58OdGlUwUexxHJP8lp6QWk"
-      },
-      "artists": [
-        {
-          "name": "Ultrabeat",
-          "url": "https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Pretty Green Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/71NJqORRmwlcZSLk0VsFjU"
     },
     {
       "added_at": "2026-08-06 23:00:46",

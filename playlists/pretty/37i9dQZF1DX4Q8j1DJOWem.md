@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,883 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,890 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 33 | [HOW ARE YOU](https://open.spotify.com/track/42PY0meRTLVpVn3Qv9iJKZ) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [HOW ARE YOU](https://open.spotify.com/album/1pmvKyNoyuvK4mwblZHiiw) | 3:26 |
 | 34 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
 
-Snapshot ID: `AAAAAKwAOW8e6VjUs5G27g0eY1A1H+MS`
+Snapshot ID: `AAAAAGW7/sj+D+5uia1K82HE+MZ+8Idn`

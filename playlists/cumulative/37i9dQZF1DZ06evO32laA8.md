@@ -4,7 +4,7 @@
 
 > This is Isabel LaRosa\. The essential tracks, all in one playlist.
 
-44 songs - 1 hr 52 min
+46 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [American Wedding](https://open.spotify.com/track/6XHYOwQyNOG3vKqTk0W7Q8) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I) | 3:10 | 2026-06-28 |  |
 | [Burning](https://open.spotify.com/track/5hRpKNogEPwDNdDKYYTtmJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:20 | 2025-04-20 |  |
 | [butterflies](https://open.spotify.com/track/5I9Syg73cBY7r4POeccPzy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:24 | 2024-01-10 |  |
-| [Claw Marks](https://open.spotify.com/track/62jwvr04aHhftJigsHmGnn) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W) | 2:51 | 2026-06-07 |  |
+| [Claw Marks](https://open.spotify.com/track/2s233n5Uj0FYwmYxgmXGC7) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I) | 2:51 | 2026-08-12 |  |
+| [Claw Marks](https://open.spotify.com/track/62jwvr04aHhftJigsHmGnn) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W) | 2:51 | 2026-06-07 | 2026-08-12 |
 | [Closer](https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Closer](https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL) | 3:27 | 2024-01-10 |  |
 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-23 | 2026-07-02 |
 | [Destroy Myself For You](https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 | 2025-04-20 |  |
@@ -45,7 +46,8 @@
 | [My Girl](https://open.spotify.com/track/0szmDue1FCIpLC9SBs7fbU) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [My Girl](https://open.spotify.com/album/19dLWMBcqXwZy0Lv7nxRjb) | 2:57 | 2025-07-27 |  |
 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 | 2024-01-10 |  |
 | [older sped up](https://open.spotify.com/track/75EIDyYc0excxUOzold15R) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:05 | 2024-01-10 |  |
-| [Porcelain](https://open.spotify.com/track/6EahR5pla7qourGwPzWUYW) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W) | 2:48 | 2026-06-07 |  |
+| [Porcelain](https://open.spotify.com/track/3zDdtuyNSiG2DBoGLViWKi) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/4vMTbFzgFrwSTqwd00SB2I) | 2:48 | 2026-08-12 |  |
+| [Porcelain](https://open.spotify.com/track/6EahR5pla7qourGwPzWUYW) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W) | 2:48 | 2026-06-07 | 2026-08-12 |
 | [praying](https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:46 | 2024-01-10 |  |
 | [Pretty Boy](https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Pretty Boy](https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat) | 2:03 | 2024-08-18 |  |
 | [The Things That I Would Do To Be Enough For You](https://open.spotify.com/track/6uHDFTfJ410m2sgkxwv4fp) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Promising Young Woman](https://open.spotify.com/album/5wnd0iIkfGJGwKhNZjSu6W) | 2:46 | 2026-06-07 | 2026-08-11 |

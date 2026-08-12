@@ -8566,7 +8566,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -12644,7 +12644,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 229411,
       "name": "\u05d0\u05d1\u05dc \u05d0\u05ea",
       "url": "https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX"
@@ -13150,7 +13150,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 212737,
       "name": "\u05d0\u05d5\u05e8\u05d5\u05ea \u05db\u05d7\u05d5\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6jG3OmapjEN38Q1UCA6CJI"
@@ -19558,6 +19558,28 @@
       "duration_ms": 202000,
       "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY"
+    },
+    {
+      "album": {
+        "name": "\u05db\u05d5\u05dc\u05d9 \u05ea\u05e4\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/1LrWl0TSIQb496YdgQQKce"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        },
+        {
+          "name": "Meydad Tasa",
+          "url": "https://open.spotify.com/artist/3UJvSl87KCeQdagMKQ4zMZ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165207,
+      "name": "\u05db\u05d5\u05dc\u05d9 \u05ea\u05e4\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/7pdniD9t65ZEuULdrpm7Sn"
     },
     {
       "album": {

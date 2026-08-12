@@ -1,12 +1,12 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 43221,
+  "num_followers": 43261,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHXfPKWRBXe2D4qud/uJL8HLKG+A",
+  "snapshot_id": "AAAAAMT6csxIXSy5wd4Vnyiza/o9dUKD",
   "tracks": [
     {
       "added_at": "2026-06-05 20:49:32",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
+        "name": "The Price of Admission",
+        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 281602,
+      "name": "On The Red River",
+      "url": "https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
-        "name": "The Price of Admission",
-        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 281602,
-      "name": "On The Red River",
-      "url": "https://open.spotify.com/track/4Dux8krNnAru08XQTiiIYM"
     },
     {
       "added_at": "2026-06-05 20:49:32",

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: fred again.. & LATIN MAFIA",
-  "num_followers": 1545227,
+  "num_followers": 1545075,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADlSGrz7ygFtfEuBT45v2obT8jjX",
+  "snapshot_id": "AAAAAH8wypBD7qoo3bgwVN+U+ooaaDmI",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:54",
@@ -63,6 +63,26 @@
       "duration_ms": 232200,
       "name": "MI BB",
       "url": "https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -135,26 +155,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "ZIZI",
-        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "ZIZI",
-      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
         "url": "https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe"
       },
@@ -207,6 +207,30 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "duration_ms": 194727,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
         "name": "EQUILIBRIVM II",
         "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
       },
@@ -239,30 +263,6 @@
       "duration_ms": 168890,
       "name": "AMIGOS CON DERECHOS",
       "url": "https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        }
-      ],
-      "duration_ms": 194727,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "babylona blue",
-        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 112694,
-      "name": "Por qu\u00e9 dudas de mi?",
-      "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "HABLAR DE TI (...)",
         "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
+        "name": "babylona blue",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 112694,
+      "name": "Por qu\u00e9 dudas de mi?",
+      "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
         "name": "WhyWhyWhy",
         "url": "https://open.spotify.com/album/7fDHcWiIEOJuljTNta0UhS"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "N\u00d3MADA",
-        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 188273,
-      "name": "Bandido Estrella",
-      "url": "https://open.spotify.com/track/63sB8inKilaoKUBm1oM79C"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "Dulce Amargo",
         "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 129802,
       "name": "TREMENDA",
       "url": "https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "N\u00d3MADA",
+        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 188273,
+      "name": "Bandido Estrella",
+      "url": "https://open.spotify.com/track/63sB8inKilaoKUBm1oM79C"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
+        "name": "principiante",
+        "url": "https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "principiante",
+      "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
         "name": "N\u00d3MADA",
         "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
       },
@@ -659,18 +675,34 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "principiante",
-        "url": "https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU"
+        "name": "partedemipartedeti",
+        "url": "https://open.spotify.com/album/2qm8KUb1VIkBXwgwHn7y4z"
       },
       "artists": [
         {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 205653,
-      "name": "principiante",
-      "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
+      "duration_ms": 216160,
+      "name": "partedemipartedeti",
+      "url": "https://open.spotify.com/track/4idsvwxfLQuOr8PngnKhKx"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
+        "name": "Mi Vicio Tu",
+        "url": "https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU"
+      },
+      "artists": [
+        {
+          "name": "Julian Solorzano",
+          "url": "https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D"
+        }
+      ],
+      "duration_ms": 293637,
+      "name": "Mi Vicio Tu",
+      "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -695,22 +727,6 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
-        "name": "Mi Vicio Tu",
-        "url": "https://open.spotify.com/album/2hihmF7TZmuO791GYAaQaU"
-      },
-      "artists": [
-        {
-          "name": "Julian Solorzano",
-          "url": "https://open.spotify.com/artist/1yTLd8bWq0I5wusOb3xK0D"
-        }
-      ],
-      "duration_ms": 293637,
-      "name": "Mi Vicio Tu",
-      "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/15d7AbyBktoIoZ6TdkH0Gx"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 140467,
       "name": "24/7",
       "url": "https://open.spotify.com/track/0Jh65GfYeOlGo6uoF9HUa5"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "partedemipartedeti",
-        "url": "https://open.spotify.com/album/2qm8KUb1VIkBXwgwHn7y4z"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "partedemipartedeti",
-      "url": "https://open.spotify.com/track/4idsvwxfLQuOr8PngnKhKx"
     },
     {
       "added_at": "2026-08-07 04:01:54",
@@ -807,6 +807,30 @@
     {
       "added_at": "2026-08-07 04:01:54",
       "album": {
+        "name": "Mentirasmentiras",
+        "url": "https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 248923,
+      "name": "Mentirasmentiras",
+      "url": "https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2"
+    },
+    {
+      "added_at": "2026-08-07 04:01:54",
+      "album": {
         "name": "LINEAS PARALELAS",
         "url": "https://open.spotify.com/album/1kwYFhLdteuvP0Qv1gJVB7"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 169859,
       "name": "Contacto Cero",
       "url": "https://open.spotify.com/track/06gWYDApdKpVOGz7fvoZoP"
-    },
-    {
-      "added_at": "2026-08-07 04:01:54",
-      "album": {
-        "name": "Mentirasmentiras",
-        "url": "https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 248923,
-      "name": "Mentirasmentiras",
-      "url": "https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2"
     },
     {
       "added_at": "2026-08-07 04:01:54",

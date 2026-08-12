@@ -3025,6 +3025,24 @@
     },
     {
       "album": {
+        "name": "Something is Happening\u2026",
+        "url": "https://open.spotify.com/album/7DgxHSUA9QEZozUrlxhiI0"
+      },
+      "artists": [
+        {
+          "name": "GUPPY",
+          "url": "https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179172,
+      "name": "Texting & Driving",
+      "url": "https://open.spotify.com/track/7vM2XjIZRTLQ3JmPezcHVr"
+    },
+    {
+      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -3152,6 +3170,24 @@
       "duration_ms": 185306,
       "name": "The Cult of Dionysus",
       "url": "https://open.spotify.com/track/4zg2zMNSI0W8ipGA32kKp5"
+    },
+    {
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180627,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE"
     },
     {
       "album": {

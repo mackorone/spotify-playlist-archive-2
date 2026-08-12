@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Loreen",
-  "num_followers": 64189,
+  "num_followers": 64183,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAChR/Vg8YqxwNYnsBbDxwzgukuKA",
+  "snapshot_id": "AAAAAFsaMbJfY6pyQrq3mDRymlS5z3q2",
   "tracks": [
     {
       "added_at": "2025-03-14 16:58:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-03-14 16:58:53",
       "album": {
-        "name": "On ne change pas",
-        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
-      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
-    },
-    {
-      "added_at": "2025-03-14 16:58:53",
-      "album": {
         "name": "Je Ne Sais Quoi (Eurovision 2010) Orginal Version",
         "url": "https://open.spotify.com/album/4Px3bYcDM3xgfnR3mqMZFG"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 180000,
       "name": "Je Ne Sais Quoi (Eurovision 2010) Orginal Version",
       "url": "https://open.spotify.com/track/48rIGviK0uiZKmXV6QifbE"
+    },
+    {
+      "added_at": "2025-03-14 16:58:53",
+      "album": {
+        "name": "On ne change pas",
+        "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Ne partez pas sans moi (Grand prix de L'Eurovision 1988)",
+      "url": "https://open.spotify.com/track/0Kv4i96E41jbULmUajBYOe"
     },
     {
       "added_at": "2025-03-14 16:58:53",

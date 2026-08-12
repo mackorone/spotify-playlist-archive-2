@@ -1,12 +1,12 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 90553,
+  "num_followers": 90551,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkFQ6JWgdp/T5w2NIOE1GkSqUQi",
+  "snapshot_id": "AAAAAEkYDZe/GYGJ8znlVVqHRFijYzS9",
   "tracks": [
     {
       "added_at": "2023-11-18 13:41:26",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Every Day",
-        "url": "https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 226019,
-      "name": "Christmas Every Day",
-      "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 109186,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Every Day",
+        "url": "https://open.spotify.com/album/4ViPUv1NUYHuBpfNX3gkVL"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 226019,
+      "name": "Christmas Every Day",
+      "url": "https://open.spotify.com/track/1VFXTsoR3uHlu9tBAAlElO"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Song",
-        "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 99573,
       "name": "God Rest Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/1dlO7CncE79hCspdTO99Fz"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Medium Rare",
-        "url": "https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO"
-      },
-      "artists": [
-        {
-          "name": "The Mighty Mighty Bosstones",
-          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
-        }
-      ],
-      "duration_ms": 137346,
-      "name": "This Time of Year",
-      "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 127733,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Medium Rare",
+        "url": "https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Mighty Bosstones",
+          "url": "https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK"
+        }
+      ],
+      "duration_ms": 137346,
+      "name": "This Time of Year",
+      "url": "https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "I Caught Fire",
-        "url": "https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "Alone This Holiday",
-      "url": "https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "All I Want For Christmas Is You",
         "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 200800,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "I Caught Fire",
+        "url": "https://open.spotify.com/album/7ti7GRohhMB297OWRN0aQB"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "Alone This Holiday",
+      "url": "https://open.spotify.com/track/1sGUHJWLPeZV7XpylIAMnM"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Lieder und Lametta",
-        "url": "https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY"
-      },
-      "artists": [
-        {
-          "name": "Deine Cousine",
-          "url": "https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Lieder und Lametta",
-      "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 121931,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Lieder und Lametta",
+        "url": "https://open.spotify.com/album/5DFtzIkaqjWgFlLoxAjltY"
+      },
+      "artists": [
+        {
+          "name": "Deine Cousine",
+          "url": "https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Lieder und Lametta",
+      "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Punk Rock Christmas",
-        "url": "https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X"
-      },
-      "artists": [
-        {
-          "name": "Unwritten Law",
-          "url": "https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT"
-        }
-      ],
-      "duration_ms": 122926,
-      "name": "Please Come Home for Christmas",
-      "url": "https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Merry Flippin' Christmas Vol. 1 and 2",
         "url": "https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 164746,
       "name": "Merry Flippin' Christmas (Happy Freakin' New Year)",
       "url": "https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Punk Rock Christmas",
+        "url": "https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X"
+      },
+      "artists": [
+        {
+          "name": "Unwritten Law",
+          "url": "https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT"
+        }
+      ],
+      "duration_ms": 122926,
+      "name": "Please Come Home for Christmas",
+      "url": "https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Cards",
-        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
-      },
-      "artists": [
-        {
-          "name": "Spoke Too Soon",
-          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
-        }
-      ],
-      "duration_ms": 246074,
-      "name": "Christmas Cards",
-      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Single All the Way",
         "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 195131,
       "name": "Single All the Way",
       "url": "https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Cards",
+        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
+      },
+      "artists": [
+        {
+          "name": "Spoke Too Soon",
+          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
+        }
+      ],
+      "duration_ms": 246074,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
     },
     {
       "added_at": "2023-11-18 13:41:26",

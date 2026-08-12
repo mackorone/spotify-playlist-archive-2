@@ -1,12 +1,12 @@
 {
   "description": "This is The Cranberries. The essential tracks, all in one playlist.",
-  "num_followers": 522974,
+  "num_followers": 523026,
   "original_name": "This Is The Cranberries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAACXf0TLNjj0NHiJV4uefaiV",
+  "snapshot_id": "ankUgAAAAACb5GMGxzSh40ehHGkzx+LD",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury The Hatchet",
-        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
+        "name": "To The Faithful Departed",
+        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 211066,
-      "name": "Animal Instinct",
-      "url": "https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d"
+      "duration_ms": 296200,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "To The Faithful Departed",
-        "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
+        "name": "Bury The Hatchet",
+        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 296200,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/3EXrtClWmgsM7dw75Mw2M1"
+      "duration_ms": 211066,
+      "name": "Animal Instinct",
+      "url": "https://open.spotify.com/track/3J58Ccc5iTbCRnYx2xjo6d"
     },
     {
       "added_at": null,
@@ -135,22 +135,6 @@
       "duration_ms": 232200,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/2Qdnk7tbc4onLOIPd1eSNE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bury The Hatchet",
-        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Just My Imagination",
-      "url": "https://open.spotify.com/track/0f0k0OJ9VbaLHX4J1t2qUy"
     },
     {
       "added_at": null,
@@ -187,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bury The Hatchet",
+        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Just My Imagination",
+      "url": "https://open.spotify.com/track/0f0k0OJ9VbaLHX4J1t2qUy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To The Faithful Departed",
         "url": "https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 142906,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bury The Hatchet",
-        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 327573,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bury The Hatchet",
+        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 327573,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/15Trb1S2FDZSMLDzWfnlbg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
         "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury The Hatchet",
-        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Need To Argue (2025 Remastered)",
         "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 187813,
       "name": "Twenty One - 2025 Remastered",
       "url": "https://open.spotify.com/track/6XKcZYMX7TObdA8pdRt8k5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bury The Hatchet",
+        "url": "https://open.spotify.com/album/2v9PjvIkQVnyQdtD1iQD7e"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/6jEcFhllWB0clBHFylomJZ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
-        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 136106,
-      "name": "Pretty - Remastered 2026",
-      "url": "https://open.spotify.com/track/0VZyPv9Rk7sCe7900NnCBG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Need To Argue (2025 Remastered)",
         "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 271906,
       "name": "Ridiculous Thoughts - 2025 Remastered",
       "url": "https://open.spotify.com/track/0s5hFVQIEpNGAChxCbypmb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 136106,
+      "name": "Pretty - Remastered 2026",
+      "url": "https://open.spotify.com/track/0VZyPv9Rk7sCe7900NnCBG"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
-        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 127813,
-      "name": "Wanted - Remastered 2026",
-      "url": "https://open.spotify.com/track/29dxtW2MLnH2acr2n1Yyqm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Need To Argue (2025 Remastered)",
         "url": "https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 216040,
       "name": "Dreaming My Dreams - 2025 Remastered",
       "url": "https://open.spotify.com/track/6SzinxBESFiRPbkRfnYuTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 127813,
+      "name": "Wanted - Remastered 2026",
+      "url": "https://open.spotify.com/track/29dxtW2MLnH2acr2n1Yyqm"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up And Smell The Coffee",
-        "url": "https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp"
+        "name": "In the End",
+        "url": "https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 155826,
-      "name": "Never Grow Old",
-      "url": "https://open.spotify.com/track/63EbxkWfYDEe428SMvzW5g"
+      "duration_ms": 239946,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/67nd9sZy5rtbitv090ii8I"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the End",
-        "url": "https://open.spotify.com/album/4cfq0YAgWhhIqTkVkYyvbC"
+        "name": "Wake Up And Smell The Coffee",
+        "url": "https://open.spotify.com/album/2E1EmeusDZXP7KhF2yayPp"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/67nd9sZy5rtbitv090ii8I"
+      "duration_ms": 155826,
+      "name": "Never Grow Old",
+      "url": "https://open.spotify.com/track/63EbxkWfYDEe428SMvzW5g"
     },
     {
       "added_at": null,

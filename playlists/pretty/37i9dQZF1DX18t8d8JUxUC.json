@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 35279,
+  "num_followers": 35282,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPmAkYuTEu3gLtXCti1Y7xQjnEeQ",
+  "snapshot_id": "AAAAAGg8OBm/ucLPD5txTMjG23uMNPO7",
   "tracks": [
     {
       "added_at": "2026-06-17 15:34:50",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "guarda tus migajas",
-        "url": "https://open.spotify.com/album/0e1NpDpEmr5QZEgIBxly2K"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 256633,
-      "name": "guarda tus migajas",
-      "url": "https://open.spotify.com/track/2m9eEKD7YD8oYv3BCIYCxo"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "arco\u00edris (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
         "url": "https://open.spotify.com/album/3cJ9mookr6KuCby7KwoE7W"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 299548,
       "name": "arco\u00edris - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
       "url": "https://open.spotify.com/track/1C2xV2BtpnFQoxfTTb4r4u"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "guarda tus migajas",
+        "url": "https://open.spotify.com/album/0e1NpDpEmr5QZEgIBxly2K"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 256633,
+      "name": "guarda tus migajas",
+      "url": "https://open.spotify.com/track/2m9eEKD7YD8oYv3BCIYCxo"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
+        "name": "My Best Self",
+        "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 185823,
+      "name": "My Best Self",
+      "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
         "name": "el wey que otra vez confio :(",
         "url": "https://open.spotify.com/album/1qxpHT9Gqbd3BAvhPSq5nE"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 310451,
       "name": "el wey que otra vez confio :(",
       "url": "https://open.spotify.com/track/68Fp40NMOxP5qmeppEeQVz"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
-        "name": "My Best Self",
-        "url": "https://open.spotify.com/album/2z07bBhBWhhCEuGPD6FiEl"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 185823,
-      "name": "My Best Self",
-      "url": "https://open.spotify.com/track/58e3Ax9ugjBhlSd5V0pMH1"
     },
     {
       "added_at": "2026-06-17 15:34:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-17 15:34:50",
       "album": {
-        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
-      },
-      "artists": [
-        {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
-    },
-    {
-      "added_at": "2026-06-17 15:34:50",
-      "album": {
         "name": "OTRX",
         "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 175412,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
+    },
+    {
+      "added_at": "2026-06-17 15:34:50",
+      "album": {
+        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
+      },
+      "artists": [
+        {
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+        }
+      ],
+      "duration_ms": 235531,
+      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
     },
     {
       "added_at": "2026-06-17 15:34:50",

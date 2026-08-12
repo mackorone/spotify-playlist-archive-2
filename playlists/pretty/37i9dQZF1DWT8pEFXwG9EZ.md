@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,596 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,616 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 53 | [Alfie's Theme \- From "Alfie" Score](https://open.spotify.com/track/0LITSYvjbQzgcumESz6Z7l) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Alfie](https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5) | 9:44 |
 | 54 | [J'ai Deux Amours \- from "Emily in Paris Season 3" Soundtrack](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |
 | 55 | [Love Theme \(From "Chinatown"\)](https://open.spotify.com/track/66tYxA2RBooo0Y6kBj7W7F) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6), [J.A.C\. Redford](https://open.spotify.com/artist/12SZOUcX7wqG0xugqIu4HH), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Kenny Kirkland](https://open.spotify.com/artist/3fvBGGCTOjiCsIqL3MFU6l), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Jazz in Film](https://open.spotify.com/album/3Ki6oezrFANfgKHfaG6AJs) | 8:23 |
-| 56 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 5:49 |
-| 57 | [Joe's Lowdown Blues](https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:36 |
+| 56 | [Joe's Lowdown Blues](https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 0:36 |
+| 57 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [The Very Best Of Louis Armstrong](https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC) | 5:49 |
 | 58 | [The Thrombey Family Theme](https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Knives Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut) | 1:47 |
 | 59 | [Don't Look Up \- Main Title Suite \- Bonus Track](https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Don't Look Up \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7) | 4:08 |
 | 60 | [The Girl From Ipanema](https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Bossa Nova \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B) | 5:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 99 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
 | 100 | [Unforgettable](https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Music From The Motion Picture Watchmen](https://open.spotify.com/album/5643V0ojEFh2bULWiPhuhs) | 3:12 |
 
-Snapshot ID: `AAAAAOsiem0E+EybbUKj0Ns25cuv9YDq`
+Snapshot ID: `AAAAALp7YyzGC60kf+IvxaL2NpuWNvkz`

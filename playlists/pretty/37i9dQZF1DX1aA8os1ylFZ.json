@@ -1,12 +1,12 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 292727,
+  "num_followers": 292699,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALhcCTsTu2Y1Xk63F7+udhpiphIJ",
+  "snapshot_id": "AAAAALKqmnjasirYQRcA1+RmuFEmIchF",
   "tracks": [
     {
       "added_at": "2026-06-10 11:59:44",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 195869,
+      "name": "I CAN TELL",
+      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
         "name": "Friends Again",
         "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
-        "name": "BELOVED",
-        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 195869,
-      "name": "I CAN TELL",
-      "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "ACT II",
-        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "heal something",
-      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 207138,
       "name": "Elements",
       "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "ACT II",
+        "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "heal something",
+      "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "TAI CHI",
-        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "TAI CHI",
-      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 156826,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Hold of Me",
-        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        }
-      ],
-      "duration_ms": 213555,
-      "name": "Hold of Me",
-      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "A Mile In My Mind",
         "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 167195,
       "name": "A Mile In My Mind",
       "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Hold of Me",
+        "url": "https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "duration_ms": 213555,
+      "name": "Hold of Me",
+      "url": "https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "back 'n forth",
-        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
-      },
-      "artists": [
-        {
-          "name": "Chuka, The Destroyer",
-          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
-        }
-      ],
-      "duration_ms": 197952,
-      "name": "back 'n forth",
-      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "SA NA SAN",
         "url": "https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 159986,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "back 'n forth",
+        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 197952,
+      "name": "back 'n forth",
+      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "cracks beneath my skin",
-        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 185082,
-      "name": "cracks beneath my skin",
-      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "If The Walls Could Talk",
         "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 190666,
       "name": "If The Walls Could Talk",
       "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "cracks beneath my skin",
+        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "duration_ms": 185082,
+      "name": "cracks beneath my skin",
+      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "YARN",
-        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Empath",
-      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Watch You Leave",
         "url": "https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 263850,
       "name": "Watch You Leave",
       "url": "https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "YARN",
+        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Empath",
+      "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
     },
     {
       "added_at": "2026-06-10 11:59:44",

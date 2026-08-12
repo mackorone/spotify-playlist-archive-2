@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 
 > The brazilian disco funk classics! Cover: Robson Jorge, Lincoln Olivetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,520 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,564 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 33 | [A Paraíba Não é Chicago](https://open.spotify.com/track/5b2EESljfAcvuqhV1o5ied) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Vontade de Rever Você](https://open.spotify.com/album/5udboLLSVDzy8y7iBHpafc) | 4:38 |
 | 34 | [Macho](https://open.spotify.com/track/4BTW4OJRGcPmHq9ZicXyG0) | [Frenéticas](https://open.spotify.com/artist/0fvtTgGadhxwdCTQx82HUu) | [Caia na gandaia](https://open.spotify.com/album/4gfRQX7xT5RinTEfgMIiAR) | 3:09 |
 | 35 | [Jóia rara](https://open.spotify.com/track/0OimeRm0wZjmRuoo7EVVjk) | [Brylho](https://open.spotify.com/artist/7nf2NtawdimyqcLZkCrvHb) | [Brylho](https://open.spotify.com/album/20CZdrYcOB20e4gt16OpNY) | 3:24 |
-| 36 | [Guarde Minha Voz](https://open.spotify.com/track/4KOQk1FhOOIfuHMZahP5Wa) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/2tHPCtLKccEl3VYmQxq6Cp) | 3:11 |
+| 36 | [Guarde Minha Voz](https://open.spotify.com/track/4KOQk1FhOOIfuHMZahP5Wa) | [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/2tHPCtLKccEl3VYmQxq6Cp) | 3:11 |
 | 37 | [Na baixa do sapateiro](https://open.spotify.com/track/0EFgQPupq1L5Xk8pipKhI1) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:26 |
 | 38 | [A hora é essa](https://open.spotify.com/track/3cF7YOhl4aWT9EhmvhkG3q) | [Celia](https://open.spotify.com/artist/71mZktYgZiBSmsYanRREQP) | [Dose Dupla Célia](https://open.spotify.com/album/6oRhQ60w5j11uK5njdH65Z) | 3:03 |
 | 39 | [Cascavel](https://open.spotify.com/track/7AV5LpOE7uqTz8qq3Dq7qh) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/3NceM2zFLNbpPtUYtjHit1) | 2:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVBWFXlHC6s7.md) - [plain]
 | 46 | [Hora De União](https://open.spotify.com/track/5ruF1Y5naexriqC9dBxrtS) | [Lady Zu](https://open.spotify.com/artist/7lzdAzDICLFGLq6rFFy7ji), [Toto Mugabe](https://open.spotify.com/artist/0mV7Zy0WEGQyTSnfgxWI3H) | [Fêmea Brasileira](https://open.spotify.com/album/2qdXb0ZST1ewcz7ChAdTF6) | 3:31 |
 | 47 | [Sem Essa](https://open.spotify.com/track/2Rprdj1SMhNKMG1Barkggm) | [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E), [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM) | [Déjà Vu](https://open.spotify.com/album/5l8NVoBMOuDYPIbqz8uBoQ) | 3:34 |
 | 48 | [Pra Swingar](https://open.spotify.com/track/7nIDbz4sFSzDE043XTgh0A) | [Som Nosso De Cada Dia](https://open.spotify.com/artist/2awoASImOFH85QIP4TO8xo) | [Som Nosso](https://open.spotify.com/album/4oLIkebSsHW8ztOzoJlh9K) | 2:28 |
-| 49 | [Trem da Central](https://open.spotify.com/track/2mCDv73NQlObobNjntqKxx) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/7eBRD6tCaMVuAQGXJ01AJc) | 4:02 |
+| 49 | [Trem da Central](https://open.spotify.com/track/2mCDv73NQlObobNjntqKxx) | [Sandra Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Vale Tudo](https://open.spotify.com/album/7eBRD6tCaMVuAQGXJ01AJc) | 4:02 |
 | 50 | [I Love You](https://open.spotify.com/track/7BtHSp6LBcnwB1kZItzxv0) | [Sandro Becker](https://open.spotify.com/artist/1w1OvUZS64uxOfV8yBZQJR) | [Sandro Becker](https://open.spotify.com/album/4CSbRoBJMyLc49gBelKvFB) | 2:55 |
 
-Snapshot ID: `AAAAAFIZu+nbKa42FBKerCfDf83I0P9G`
+Snapshot ID: `AAAAAAi4mg7wH5h1F4qCbKiLCRr1iMPa`

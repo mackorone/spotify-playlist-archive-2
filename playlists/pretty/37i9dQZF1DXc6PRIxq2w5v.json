@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 192679,
+  "num_followers": 192681,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEvdL6+3AwvW13T+o2Synspo04nt",
+  "snapshot_id": "AAAAAKMXk5URqdJzKZn3nLLJ+GKbQV68",
   "tracks": [
     {
       "added_at": "2026-08-07 14:22:29",
@@ -635,6 +635,26 @@
     {
       "added_at": "2026-08-07 14:22:29",
       "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 199115,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
+    },
+    {
+      "added_at": "2026-08-07 14:22:29",
+      "album": {
         "name": "Reden\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 137142,
       "name": "Reden\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD"
-    },
-    {
-      "added_at": "2026-08-07 14:22:29",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        }
-      ],
-      "duration_ms": 199115,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
     },
     {
       "added_at": "2026-08-07 14:22:29",
@@ -1103,6 +1103,30 @@
     {
       "added_at": "2026-08-07 14:22:29",
       "album": {
+        "name": "Purificado",
+        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 145125,
+      "name": "Purificado",
+      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
+    },
+    {
+      "added_at": "2026-08-07 14:22:29",
+      "album": {
         "name": "Ora\u00e7\u00e3o II",
         "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
@@ -1131,6 +1155,22 @@
     {
       "added_at": "2026-08-07 14:22:29",
       "album": {
+        "name": "Irris\u00f3rio",
+        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Irris\u00f3rio",
+      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
+    },
+    {
+      "added_at": "2026-08-07 14:22:29",
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
       },
@@ -1155,42 +1195,18 @@
     {
       "added_at": "2026-08-07 14:22:29",
       "album": {
-        "name": "Irris\u00f3rio",
-        "url": "https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO"
+        "name": "Imperativo Categ\u00f3rico",
+        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
       },
       "artists": [
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
         }
       ],
-      "duration_ms": 146750,
-      "name": "Irris\u00f3rio",
-      "url": "https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix"
-    },
-    {
-      "added_at": "2026-08-07 14:22:29",
-      "album": {
-        "name": "Purificado",
-        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Purificado",
-      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
+      "duration_ms": 154593,
+      "name": "Imperativo Categ\u00f3rico",
+      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
     },
     {
       "added_at": "2026-08-07 14:22:29",
@@ -1247,6 +1263,22 @@
     {
       "added_at": "2026-08-07 14:22:29",
       "album": {
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+    },
+    {
+      "added_at": "2026-08-07 14:22:29",
+      "album": {
         "name": "Profeta",
         "url": "https://open.spotify.com/album/0SqrwFHqjYuYJy0EzSpiYY"
       },
@@ -1263,22 +1295,6 @@
       "duration_ms": 131785,
       "name": "Profeta",
       "url": "https://open.spotify.com/track/5nYKIgbNukm47srcFcbceE"
-    },
-    {
-      "added_at": "2026-08-07 14:22:29",
-      "album": {
-        "name": "Eu Sou",
-        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
     },
     {
       "added_at": "2026-08-07 14:22:29",
@@ -1347,6 +1363,26 @@
     {
       "added_at": "2026-08-07 14:22:29",
       "album": {
+        "name": "Vejo Tudo",
+        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        },
+        {
+          "name": "Urban Music",
+          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "Vejo Tudo",
+      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
+    },
+    {
+      "added_at": "2026-08-07 14:22:29",
+      "album": {
         "name": "Lesgo",
         "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
       },
@@ -1367,42 +1403,6 @@
       "duration_ms": 204210,
       "name": "Lesgo",
       "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
-    },
-    {
-      "added_at": "2026-08-07 14:22:29",
-      "album": {
-        "name": "Imperativo Categ\u00f3rico",
-        "url": "https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0"
-      },
-      "artists": [
-        {
-          "name": "Asaph",
-          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
-        }
-      ],
-      "duration_ms": 154593,
-      "name": "Imperativo Categ\u00f3rico",
-      "url": "https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4"
-    },
-    {
-      "added_at": "2026-08-07 14:22:29",
-      "album": {
-        "name": "Vejo Tudo",
-        "url": "https://open.spotify.com/album/21VWKSNfRqSlMZmWyIhRHp"
-      },
-      "artists": [
-        {
-          "name": "GBZIN",
-          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
-        },
-        {
-          "name": "Urban Music",
-          "url": "https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "Vejo Tudo",
-      "url": "https://open.spotify.com/track/7cU0rhF9bMiiaWrLXyFIzK"
     },
     {
       "added_at": "2026-08-07 14:22:29",

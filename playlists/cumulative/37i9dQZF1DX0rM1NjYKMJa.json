@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The vibes start here.",
+  "description": "Celebrating 60 years of Notting Hill Carnival.",
   "name": "Carnival Sounds",
   "tracks": [
     {
@@ -599,6 +599,28 @@
     },
     {
       "album": {
+        "name": "Fully Loaded",
+        "url": "https://open.spotify.com/album/3BL81R9svqGy0PScrnMF47"
+      },
+      "artists": [
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        },
+        {
+          "name": "Lady Saw",
+          "url": "https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122533,
+      "name": "Backshot (feat. Lady Saw)",
+      "url": "https://open.spotify.com/track/196L1SuERLbvmBFlCWaTso"
+    },
+    {
+      "album": {
         "name": "Backyard Jam",
         "url": "https://open.spotify.com/album/4mBU6IumcsY0ZL3bDKRfjc"
       },
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 177185,
       "name": "Boasty (feat. Idris Elba)",
       "url": "https://open.spotify.com/track/7cz506PyIgh2bMN90Mc8Tn"
@@ -1508,10 +1530,28 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 147878,
       "name": "Buss a Whine",
       "url": "https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g"
+    },
+    {
+      "album": {
+        "name": "Too Too Bad",
+        "url": "https://open.spotify.com/album/0XXkEYOyHM2Lpb09pME4rl"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154503,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4XFAaZWAuQ1aolFWOdyo2O"
     },
     {
       "album": {
@@ -2206,7 +2246,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 206250,
       "name": "D N A",
       "url": "https://open.spotify.com/track/1q483xt4ncZvXDMh699vOJ"
@@ -2922,7 +2962,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 175448,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4jpq6Ue1eIYgHZvycxzkfv"
@@ -3737,6 +3777,24 @@
     },
     {
       "album": {
+        "name": "Gal Policy",
+        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136826,
+      "name": "Gal Policy",
+      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
+    },
+    {
+      "album": {
         "name": "Gangalee",
         "url": "https://open.spotify.com/album/6FcQ8PQ8CEpVvaif04qKy2"
       },
@@ -4040,7 +4098,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 209960,
       "name": "Guh Down - Remix",
       "url": "https://open.spotify.com/track/7piySJTKBIshzRFrUtBLlo"
@@ -4058,7 +4116,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 139206,
       "name": "Gwehh",
       "url": "https://open.spotify.com/track/074C7GyF5fdmHBtOiXt4QU"
@@ -6937,6 +6995,24 @@
     },
     {
       "album": {
+        "name": "Nuttin Nuh Go So (2025 Remaster)",
+        "url": "https://open.spotify.com/album/3VnGlsHBDqZW8ADGArXQ4T"
+      },
+      "artists": [
+        {
+          "name": "Notch",
+          "url": "https://open.spotify.com/artist/5djTjSYAitkfuLplSN60gZ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242939,
+      "name": "Nuttin Nuh Go So - 2025 Remaster",
+      "url": "https://open.spotify.com/track/2ZCk61B8KaNJj0oTizSv5l"
+    },
+    {
+      "album": {
         "name": "NY Girls",
         "url": "https://open.spotify.com/album/6qU0YxBfZ50I8w3kivpZtZ"
       },
@@ -7174,7 +7250,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 192052,
       "name": "Paradox Pt. 2",
       "url": "https://open.spotify.com/track/4rk03UAsfr16p5VNxfNGZ9"
@@ -7468,7 +7544,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 138000,
       "name": "POV",
       "url": "https://open.spotify.com/track/5NPzaYhcsbqhRN1AlFOMjs"
@@ -7784,7 +7860,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 135726,
       "name": "RIFLE",
       "url": "https://open.spotify.com/track/3QZSYMCI1CWUNtNFlMxaqF"
@@ -7806,6 +7882,28 @@
       "duration_ms": 172386,
       "name": "Ring Ding",
       "url": "https://open.spotify.com/track/1kzUFwXQdAC3rkEJS2Zmf0"
+    },
+    {
+      "album": {
+        "name": "Ring Finger",
+        "url": "https://open.spotify.com/album/5OYA4ebEuCdo8f6oDE6SKA"
+      },
+      "artists": [
+        {
+          "name": "Lady Lava",
+          "url": "https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ"
+        },
+        {
+          "name": "Aaron Duncan",
+          "url": "https://open.spotify.com/artist/2KdtpxmdFc0khN857Vau0z"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Ring Finger",
+      "url": "https://open.spotify.com/track/7kv5IpfbvixLwrucqWdQhZ"
     },
     {
       "album": {
@@ -7882,7 +7980,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "Roll It Gal",
       "url": "https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK"
@@ -8544,7 +8642,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 145707,
       "name": "Soft Girl Era",
       "url": "https://open.spotify.com/track/0mu4jp4klSihBJ7RFvIDfW"
@@ -8596,6 +8694,28 @@
       "duration_ms": 187124,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/5iINY7Sjbp5p6dLWBuyFTE"
+    },
+    {
+      "album": {
+        "name": "HEADPIECE RIDDIM",
+        "url": "https://open.spotify.com/album/3ys4z3qxog4BXh96LGvZJa"
+      },
+      "artists": [
+        {
+          "name": "Jambalasee Grenada",
+          "url": "https://open.spotify.com/artist/4wHL3blo7QAYyqNU50wFJU"
+        },
+        {
+          "name": "Duwan De Entertainer",
+          "url": "https://open.spotify.com/artist/1DneccJEcCKHAh3F9MFMy8"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5KYFjG4qCVKVvvLZF5ey5R"
     },
     {
       "album": {
@@ -9065,6 +9185,24 @@
     },
     {
       "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
+    },
+    {
+      "album": {
         "name": "Asafa Powell: Train For Speed",
         "url": "https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D"
       },
@@ -9520,7 +9658,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 172174,
       "name": "Throat",
       "url": "https://open.spotify.com/track/4LGDRn6E199hReOZGF5Exw"
@@ -10688,6 +10826,32 @@
       "duration_ms": 268895,
       "name": "Whites",
       "url": "https://open.spotify.com/track/4Sf6Kt4Tnskbszxl7hui7t"
+    },
+    {
+      "album": {
+        "name": "Who A Dance",
+        "url": "https://open.spotify.com/album/4nHNPItn8EnsLCBmsGLJx3"
+      },
+      "artists": [
+        {
+          "name": "Skeng",
+          "url": "https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7"
+        },
+        {
+          "name": "Khandy Brawling",
+          "url": "https://open.spotify.com/artist/51s4innJ0cOAM5g7QZUE6A"
+        },
+        {
+          "name": "Jiggy D",
+          "url": "https://open.spotify.com/artist/3CSauvS5AGZzU8vLjIw4Xs"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144005,
+      "name": "Who A Dance",
+      "url": "https://open.spotify.com/track/6rvFyuUw2wAdttIP3P1Mlo"
     },
     {
       "album": {

@@ -3443,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Sterling Point (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6vpsu8PNe6zj4o7OiYNWWF"
+      },
+      "artists": [
+        {
+          "name": "Maisy Stella",
+          "url": "https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175752,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2BwHHutoVzEoyTmsK5n6xa"
+    },
+    {
+      "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
       },

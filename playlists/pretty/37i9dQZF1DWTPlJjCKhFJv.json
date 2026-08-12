@@ -1,12 +1,12 @@
 {
   "description": "If the music is loud enough, maybe the house will clean itself",
-  "num_followers": 33988,
+  "num_followers": 33992,
   "original_name": "Spring Clean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0xexMHag7B9TWFBHwksAnasz6S",
+  "snapshot_id": "AAAAAKUc7TJXscEbX0eB/GZ2E3uoVju3",
   "tracks": [
     {
       "added_at": "2026-03-13 10:59:50",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/2dhQoUl5mJz1AQXTJkXn2H"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/5BHtT1xpC44pGy1J7RKY4T"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
       },
@@ -1143,22 +1163,18 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/2dhQoUl5mJz1AQXTJkXn2H"
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
         }
       ],
-      "duration_ms": 246466,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/5BHtT1xpC44pGy1J7RKY4T"
+      "duration_ms": 239773,
+      "name": "Don't Phunk With My Heart",
+      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -1191,22 +1207,6 @@
       "duration_ms": 277600,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 239773,
-      "name": "Don't Phunk With My Heart",
-      "url": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
     },
     {
       "added_at": "2026-03-13 10:59:50",

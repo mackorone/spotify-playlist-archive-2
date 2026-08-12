@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,645 likes - 162 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,638 likes - 162 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 161 | [There Goes The Night](https://open.spotify.com/track/5iWNAw1WZGqUy7OzxWr8jS) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [There Goes The Night](https://open.spotify.com/album/45y2ceOQ4xUBAaSumE8lVD) | 3:57 |
 | 162 | [Mouthpiece](https://open.spotify.com/track/7juCqe2sEofdgWs4b1p0d6) | [Protest The Hero](https://open.spotify.com/artist/6z3BjfmgvDUIHaJ0UPTtrQ) | [Mouthpiece](https://open.spotify.com/album/1Dip2SriPIgcRD1A7mbvVn) | 5:05 |
 
-Snapshot ID: `AAAAAD5SbXysGHN7jrQ0nCHxdqlnIn7H`
+Snapshot ID: `AAAAAFnnWDGTtmbdM3n577+sbfU+ggdw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: THE DO
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,587 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,578 likes - 29 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 28 | [Read Your Mind](https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Read Your Mind](https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt) | 2:03 |
 | 29 | [Seruppa Kaanom](https://open.spotify.com/track/5aIc4lWWlx3YcPy3dCz7FO) | [Joshua Aaron](https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq), [Sanikelama](https://open.spotify.com/artist/2mQ8644XwW4V5Xdrl42w91) | [Seruppa Kaanom](https://open.spotify.com/album/6ZKUg07pVCkuPNfh4P1tIT) | 3:46 |
 
-Snapshot ID: `AAAAABaZh02uS6QDMQA7UmeyK9IbrgE3`
+Snapshot ID: `AAAAAASkjoX8K5hi0dMrkeJGrJExQ8h0`

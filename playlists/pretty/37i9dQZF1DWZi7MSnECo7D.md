@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Codinome Winchester
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,510 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,323 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Cê La Vie](https://open.spotify.com/track/1C6o5ypsjD6TUPlTPqFbT0) | [Julieta Social](https://open.spotify.com/artist/1r5YxPNUJqVbaBXdZLSqe7) | [Julieta](https://open.spotify.com/album/4Q1FAQU7FMaX5QnjHxQHkX) | 3:23 |
 | 75 | [Aguça](https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK) | [André Loyola](https://open.spotify.com/artist/5F591AtA6bo4HzuzRni12V) | [Aguça](https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB) | 2:52 |
 
-Snapshot ID: `AAAAAM418cp3grEbIhJ7jLVxVVnwToRA`
+Snapshot ID: `AAAAAF9INhKbBkYIujTfQh6hCFVXMYtF`

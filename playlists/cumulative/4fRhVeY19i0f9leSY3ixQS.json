@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "11 DE ABRIL",
+        "url": "https://open.spotify.com/album/3dnPlzOOjMT74Pif4MO7mJ"
+      },
+      "artists": [
+        {
+          "name": "ROGUZMAN",
+          "url": "https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192027,
+      "name": "11 DE ABRIL",
+      "url": "https://open.spotify.com/track/07GwtvKgD2ZTctwZs0v1yt"
+    },
+    {
+      "album": {
         "name": "12|12|12",
         "url": "https://open.spotify.com/album/4Oydl17pAHsG5XE32aa6m1"
       },
@@ -2908,6 +2926,24 @@
       "duration_ms": 226153,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/3lgs9gHw7nWXM0pShdSsCp"
+    },
+    {
+      "album": {
+        "name": "Best I Could",
+        "url": "https://open.spotify.com/album/6Qlc9186BYlRqiLrxFBJum"
+      },
+      "artists": [
+        {
+          "name": "Pleasant Flow",
+          "url": "https://open.spotify.com/artist/7N2MrVVNI0qj7MrhfNXsaj"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "Best I Could",
+      "url": "https://open.spotify.com/track/2ggWI43mwIIWxkVsBMiMgA"
     },
     {
       "album": {
@@ -6546,6 +6582,24 @@
       "duration_ms": 333184,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/4NfsyrdSYaB3fqRtuwgchM"
+    },
+    {
+      "album": {
+        "name": "CORE",
+        "url": "https://open.spotify.com/album/5EacYn0d6uj0g6BU10k6Vm"
+      },
+      "artists": [
+        {
+          "name": "ROGUZMAN",
+          "url": "https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176692,
+      "name": "CORE",
+      "url": "https://open.spotify.com/track/7waMnx6Ks3nvScTuPhW6BT"
     },
     {
       "album": {
@@ -12399,6 +12453,24 @@
     },
     {
       "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/2NvwxNgRRxn8zkKvLTWclW"
+      },
+      "artists": [
+        {
+          "name": "Abi Nav",
+          "url": "https://open.spotify.com/artist/3oRQ8kmys6lXb6x063FJUy"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/28FeMbGKjfSla8lnoE3PD3"
+    },
+    {
+      "album": {
         "name": "Machine Yearning EP",
         "url": "https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx"
       },
@@ -14659,6 +14731,24 @@
     },
     {
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/2PpmoMUdhmwmHLtUrDZliQ"
+      },
+      "artists": [
+        {
+          "name": "Monsters of the Week",
+          "url": "https://open.spotify.com/artist/7auGT92z7CCbef5MXchuDn"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/0EsW1HhUVn8zdpZiKN14Cj"
+    },
+    {
+      "album": {
         "name": "Lumen Del Mundo",
         "url": "https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H"
       },
@@ -14944,6 +15034,24 @@
       "duration_ms": 274272,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/4JAfiXyqwnC7w8dx2K5drd"
+    },
+    {
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/5DnNGtxQXpvv4Hr6QOkCeL"
+      },
+      "artists": [
+        {
+          "name": "Eden Roze",
+          "url": "https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192782,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/7xxNwwgRCzgTnBmYxiF2ab"
     },
     {
       "album": {
@@ -28512,7 +28620,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 164476,
       "name": "SOAPBOX - Single Version",
       "url": "https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko"
@@ -28816,6 +28924,24 @@
       "duration_ms": 219681,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/6fUPGgRSAZFWWv7KaK4f6q"
+    },
+    {
+      "album": {
+        "name": "Rmlm",
+        "url": "https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa"
+      },
+      "artists": [
+        {
+          "name": "Rocketmonkey Lovemachine",
+          "url": "https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Sometimes Love's A Lonely Place",
+      "url": "https://open.spotify.com/track/1vb4LaT327z2mc9zPHYbtz"
     },
     {
       "album": {
@@ -30401,6 +30527,24 @@
     },
     {
       "album": {
+        "name": "SURGO",
+        "url": "https://open.spotify.com/album/34x4iO3U4RT1mpkdiRAmzf"
+      },
+      "artists": [
+        {
+          "name": "ROGUZMAN",
+          "url": "https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204790,
+      "name": "SURGO",
+      "url": "https://open.spotify.com/track/6RjDjgSxH62bELoSq9745w"
+    },
+    {
+      "album": {
         "name": "Surprise, Surprise",
         "url": "https://open.spotify.com/album/048i5QNlRLzkftGQH6rCYk"
       },
@@ -30834,6 +30978,24 @@
       "duration_ms": 209596,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/7rtj9ELtA6y0zFxv12pOEN"
+    },
+    {
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/41M1oBJRdcy14e6KewYpeB"
+      },
+      "artists": [
+        {
+          "name": "angium music",
+          "url": "https://open.spotify.com/artist/5qtFEsiJWHDQzQRQke8kth"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227968,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1588uYa1frBV9Sb98MW8Jp"
     },
     {
       "album": {
@@ -32616,6 +32778,24 @@
       "duration_ms": 219648,
       "name": "The Spell",
       "url": "https://open.spotify.com/track/52Ewu34tEpgvra33JFbsRR"
+    },
+    {
+      "album": {
+        "name": "The Squeeze",
+        "url": "https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ"
+      },
+      "artists": [
+        {
+          "name": "FYNN",
+          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "The Squeeze",
+      "url": "https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 113 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 115 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,14 +112,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 102 | [OVRDSE](https://open.spotify.com/track/0xK9RUrWdtbi7DbN3lYxcS) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 1:21 |
 | 103 | [INTRO](https://open.spotify.com/track/2pYoWKtRO45P1UH1UsinIw) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 0:14 |
 | 104 | [DOSE II](https://open.spotify.com/track/3Rv996DTJVR6RtG7cLfoMa) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:43 |
-| 105 | [DOSE III](https://open.spotify.com/track/369OKBPgqke4N3o1ygfmU0) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:53 |
-| 106 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 |
-| 107 | [LEGEND, Pt\. 1](https://open.spotify.com/track/7hrHSXqKIz2kTN7N7gfk1Y) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 2:21 |
-| 108 | [Mandown](https://open.spotify.com/track/1FUs8JnPJnZyDiRHNNzaQ3) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:12 |
-| 109 | [Like I'm Missy](https://open.spotify.com/track/5ofgbtYTDAroBh4Z7vAHuU) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Still Alive, What a Shame](https://open.spotify.com/album/30YPJhHOqjVjDQ35OGxVQS) | 2:38 |
-| 110 | [Banners](https://open.spotify.com/track/32SwE9JslVd5xw8Fc57KUB) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Banners](https://open.spotify.com/album/1KKETMOEhJSf8M5A8btvYN) | 3:44 |
-| 111 | [BK BABY](https://open.spotify.com/track/4wPbpGQP6HWNDUOEh21NYs) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:44 |
-| 112 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
-| 113 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
+| 105 | [CAMH](https://open.spotify.com/track/192SSHdFos2jo6aPTHtj1N) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:26 |
+| 106 | [DOSE III](https://open.spotify.com/track/369OKBPgqke4N3o1ygfmU0) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb) | [PRESCRIBED OVERDOSE](https://open.spotify.com/album/1gMvkEF8Iw9ub7yrRqtwMl) | 0:53 |
+| 107 | [Summer Chick](https://open.spotify.com/track/0RMMiZnHet7g8drfUVuP7x) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:10 |
+| 108 | [LEGEND, Pt\. 1](https://open.spotify.com/track/7hrHSXqKIz2kTN7N7gfk1Y) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 2:21 |
+| 109 | [Mandown](https://open.spotify.com/track/1FUs8JnPJnZyDiRHNNzaQ3) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:12 |
+| 110 | [Like I'm Missy](https://open.spotify.com/track/5ofgbtYTDAroBh4Z7vAHuU) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Still Alive, What a Shame](https://open.spotify.com/album/30YPJhHOqjVjDQ35OGxVQS) | 2:38 |
+| 111 | [Banners](https://open.spotify.com/track/32SwE9JslVd5xw8Fc57KUB) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Banners](https://open.spotify.com/album/1KKETMOEhJSf8M5A8btvYN) | 3:44 |
+| 112 | [BK BABY](https://open.spotify.com/track/4wPbpGQP6HWNDUOEh21NYs) | [iii](https://open.spotify.com/artist/6k5E0fXMSORheufkMMEVYn) | [BK BABY](https://open.spotify.com/album/27PwlaQlhRkko1mbQquxaG) | 2:44 |
+| 113 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
+| 114 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 |
+| 115 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcZPKgAAAABxBfNEuaXmXxb1rMGG3oE3`
+Snapshot ID: `AcZU6AAAAACNOnymRPCa2KH2yoWZm+8e`

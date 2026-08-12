@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Alex Warren
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,858 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,850 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [For Business Reasons](https://open.spotify.com/track/6cgBa2A4TILIO3pQUu7f9b) | [Lyric](https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2) | [For Business Reasons](https://open.spotify.com/album/4gcpL2cVG5UMhnDNmkYFYx) | 2:57 |
 | 100 | [honeybee](https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:43 |
 
-Snapshot ID: `AAAAAOaw2m6vqaZQPU4p0ZSdvYteMxd5`
+Snapshot ID: `AAAAAAdCccrE6rMJ+iIxR1XOWkoUBQjR`

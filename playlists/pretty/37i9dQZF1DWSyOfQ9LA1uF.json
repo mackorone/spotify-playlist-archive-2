@@ -1,12 +1,12 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 81109,
+  "num_followers": 81116,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOcdxuFOzb0R8x0/Te15u03O0JNc",
+  "snapshot_id": "AAAAAGcmZhM7p9WRt0y3ev4pcNq+tN5S",
   "tracks": [
     {
       "added_at": "2024-08-08 18:53:25",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Drunk Girls (Holy Ghost! Remix)",
-        "url": "https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        },
-        {
-          "name": "Holy Ghost!",
-          "url": "https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6"
-        }
-      ],
-      "duration_ms": 450546,
-      "name": "Drunk Girls - Holy Ghost! Remix",
-      "url": "https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Waters of Nazareth (The Remixes)",
         "url": "https://open.spotify.com/album/37kcdxxxRPUkNQyy4O3PLJ"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 372600,
       "name": "Waters of Nazareth - Erol Alkan Remix",
       "url": "https://open.spotify.com/track/4apf6TuIvP9ABlzxVpFKnj"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Drunk Girls (Holy Ghost! Remix)",
+        "url": "https://open.spotify.com/album/162AQYS4VkC7Hx3l2EBASj"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        },
+        {
+          "name": "Holy Ghost!",
+          "url": "https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6"
+        }
+      ],
+      "duration_ms": 450546,
+      "name": "Drunk Girls - Holy Ghost! Remix",
+      "url": "https://open.spotify.com/track/3gHUlG1OK50zdQn6CjrsZj"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Nite Versions",
-        "url": "https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI"
-      },
-      "artists": [
-        {
-          "name": "Soulwax",
-          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
-        }
-      ],
-      "duration_ms": 323853,
-      "name": "Krack",
-      "url": "https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Dudun-Dun Remixes",
         "url": "https://open.spotify.com/album/3sZT4abziQKpGIxRPPzmFt"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 312386,
       "name": "Dudun-Dun - MSTRKRFT Remix",
       "url": "https://open.spotify.com/track/722dkNkvj99Pm9f3ch4IJQ"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Nite Versions",
+        "url": "https://open.spotify.com/album/5d36tohU6hNW0AK5sdmbZI"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Krack",
+      "url": "https://open.spotify.com/track/6QKfQbFqvUwzOHpwFwCaJ6"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Friendly Fires",
-        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
+        "name": "Happiness Remixes - EP",
+        "url": "https://open.spotify.com/album/35QnXyqia1Cc6aLckE1ehl"
       },
       "artists": [
         {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+          "name": "Sam Sparro",
+          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
         }
       ],
-      "duration_ms": 465333,
-      "name": "Paris (Aeroplane Remix)",
-      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
+      "duration_ms": 218025,
+      "name": "Happiness - The Magician Remix",
+      "url": "https://open.spotify.com/track/1pnBLmKOqhKcLUV4aFubgi"
     },
     {
       "added_at": "2024-08-08 18:53:25",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Happiness Remixes - EP",
-        "url": "https://open.spotify.com/album/35QnXyqia1Cc6aLckE1ehl"
+        "name": "Friendly Fires",
+        "url": "https://open.spotify.com/album/6o5Da716CH8m1im2XiaeE1"
       },
       "artists": [
         {
-          "name": "Sam Sparro",
-          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
         }
       ],
-      "duration_ms": 218025,
-      "name": "Happiness - The Magician Remix",
-      "url": "https://open.spotify.com/track/1pnBLmKOqhKcLUV4aFubgi"
+      "duration_ms": 465333,
+      "name": "Paris (Aeroplane Remix)",
+      "url": "https://open.spotify.com/track/4OSEE9iEHADmTSCpxl87GJ"
     },
     {
       "added_at": "2024-08-08 18:53:25",

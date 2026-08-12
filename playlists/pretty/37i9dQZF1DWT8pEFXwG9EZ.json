@@ -1,12 +1,12 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 193596,
+  "num_followers": 193616,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOsiem0E+EybbUKj0Ns25cuv9YDq",
+  "snapshot_id": "AAAAALp7YyzGC60kf+IvxaL2NpuWNvkz",
   "tracks": [
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "The Very Best Of Louis Armstrong",
         "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 349373,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/3w4x6Xd6hSHzR2G1VeHVzP"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2025-12-11 09:06:36",

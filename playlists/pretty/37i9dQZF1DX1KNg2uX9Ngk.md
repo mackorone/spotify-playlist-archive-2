@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KNg2uX9Ngk.md) - [plain]
 
 > This is it, this is happening\. The official setlist for Oasis \| Live '25 Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,560 likes - 23 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,596 likes - 23 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KNg2uX9Ngk.md) - [plain]
 | 22 | [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 4:18 |
 | 23 | [Champagne Supernova](https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory?](https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8) | 7:30 |
 
-Snapshot ID: `AAAAAECR4fzGdCVNEAZqR0iIq9CzGkmB`
+Snapshot ID: `AAAAABczoKe8LHexRxqB+4cd6yffYI9a`

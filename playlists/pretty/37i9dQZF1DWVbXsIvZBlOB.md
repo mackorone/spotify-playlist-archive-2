@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: ענבל ביבי
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,584 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,586 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 48 | [המופע של כרקוקלי](https://open.spotify.com/track/3Nfw6pg7496FYNlvofRIv9) | [Carakukly](https://open.spotify.com/artist/7hEYcTJuBYjhekQukXWBWu) | [המופע של כרקוקלי](https://open.spotify.com/album/59E2ywyhihiiOXOPDcKRvx) | 2:56 |
 | 49 | [איפה היית](https://open.spotify.com/track/2rYXUId0BBhAQr3Ap9lJzR) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g) | [איפה היית](https://open.spotify.com/album/2ulr3X7hLFrbbNkFBBKKFl) | 3:11 |
 
-Snapshot ID: `AAAAABEPrgxq8lwQI6A+I5O5rqx2Op7C`
+Snapshot ID: `AAAAAMLVHcq2FgaEnQ4tUwZxiImaIyyh`

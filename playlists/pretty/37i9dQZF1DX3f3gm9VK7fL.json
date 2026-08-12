@@ -1,12 +1,12 @@
 {
   "description": "The hottest Anime hits of the 20s. Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>\n",
-  "num_followers": 143604,
+  "num_followers": 143677,
   "original_name": "Anime Hits 20's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7Utq7h5viNjp6qAkEgMXKlV6hC",
+  "snapshot_id": "AAAAAEhYXbjyjuhB/Js8as2J2LH502KT",
   "tracks": [
     {
       "added_at": "2026-07-08 04:51:50",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
-        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
-        "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 252811,
-      "name": "\u98db\u3076\u6642",
-      "url": "https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI"
-    },
-    {
-      "added_at": "2026-07-08 04:51:50",
-      "album": {
         "name": "Abyss (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
+    },
+    {
+      "added_at": "2026-07-08 04:51:50",
+      "album": {
+        "name": "\u98db\u3076\u6642 / \u98db\u307c\u3046\u3088",
+        "url": "https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 252811,
+      "name": "\u98db\u3076\u6642",
+      "url": "https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI"
     },
     {
       "added_at": "2026-07-08 04:51:50",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
-        "name": "\u706b\u7a2e",
-        "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
       },
       "artists": [
         {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 204833,
-      "name": "\u706b\u7a2e",
-      "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
       "added_at": "2026-07-08 04:51:50",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
-        "name": "\u602a\u7269",
-        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+        "name": "\u706b\u7a2e",
+        "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
         }
       ],
-      "duration_ms": 206000,
-      "name": "\u602a\u7269",
-      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
+      "duration_ms": 204833,
+      "name": "\u706b\u7a2e",
+      "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
     },
     {
       "added_at": "2026-07-08 04:51:50",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-08 04:51:50",
       "album": {
-        "name": "You Can't Run From Me (from Cyberpunk: Edgerunners 2)",
-        "url": "https://open.spotify.com/album/5EU0MQCdOmuusiIICq7VEG"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 234265,
-      "name": "You Can't Run From Me (from Cyberpunk: Edgerunners Season 2)",
-      "url": "https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr"
-    },
-    {
-      "added_at": "2026-07-08 04:51:50",
-      "album": {
         "name": "Nobody (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 153626,
       "name": "Nobody - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
+    },
+    {
+      "added_at": "2026-07-08 04:51:50",
+      "album": {
+        "name": "You Can't Run From Me (from Cyberpunk: Edgerunners 2)",
+        "url": "https://open.spotify.com/album/5EU0MQCdOmuusiIICq7VEG"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 234265,
+      "name": "You Can't Run From Me (from Cyberpunk: Edgerunners Season 2)",
+      "url": "https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr"
     }
   ],
   "unique_name": "Anime Hits 20's",

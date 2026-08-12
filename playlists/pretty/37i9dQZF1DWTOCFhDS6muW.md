@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,370 likes - 38 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,377 likes - 38 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 13 | [Otro Amor Llego](https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Va Cañon!](https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe) | 3:58 |
 | 14 | [En Mi Pais](https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Pobre Marinero](https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj) | 3:39 |
 | 15 | [Mira Honduras](https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg) | [Polache](https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY) | [Hablo Español](https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh) | 2:46 |
-| 16 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
-| 17 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 |
+| 16 | [Bunabou Live \- Live](https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF) | [Xcstacy](https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi) | [Bunabou Live](https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc) | 7:29 |
+| 17 | [Laluda Bellu](https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 3:33 |
 | 18 | [Punta Silver](https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 1](https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD) | 4:42 |
 | 19 | [Pobre Marinero](https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml) | [Guillermo Anderson](https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy) | [Encarguitos Del Caribe](https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR) | 5:08 |
 | 20 | [Tik Tok Punta](https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg) | [El Profeta Hn](https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU) | [Tik Tok Punta](https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y) | 4:03 |
-| 21 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |
-| 22 | [Lemonade](https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4) | [Monk!](https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo) | [\#SinNombre](https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE) | 5:38 |
+| 21 | [Lemonade](https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4) | [Monk!](https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo) | [\#SinNombre](https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE) | 5:38 |
+| 22 | [Por la Playa](https://open.spotify.com/track/56NlIztGmrboS6icu0s8us) | [Las Chicas Roland's](https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl) | [Sabor Catracho!, Vol\. 3](https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT) | 4:16 |
 | 23 | [Dona Amidi](https://open.spotify.com/track/6I9E346OLKTAu8bG2ZA6cs) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:42 |
 | 24 | [Metela Sacala](https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U) | [El Chevo](https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4) | [Metela Sacala](https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho) | 3:01 |
 | 25 | [Mandele Gas](https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe) | [La Gran Banda](https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo) | [Batalla de las Puntas, Vol\. 6](https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T) | 3:47 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 37 | [Mete y Saca](https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 5:25 |
 | 38 | [Biamaangui](https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 3:52 |
 
-Snapshot ID: `AAAAAIKEOcq1iQHtB94XtCkO7kAUhUqB`
+Snapshot ID: `AAAAAJ6yBNDIMh0M82D1jzXQWa7efEKs`

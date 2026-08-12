@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 99 | [LATULIPE](https://open.spotify.com/track/0EzxlFAneJcxsn0xd8NP27) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [LATULIPE](https://open.spotify.com/album/0WjeFWuRugZE1OqLVXx8XV) | 2:58 |
 | 100 | [Compliqué](https://open.spotify.com/track/0wJLuYWM9kHFSMAxm0Igor) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Compliqué](https://open.spotify.com/album/13X5rlEMkvpm8Bdp0suojz) | 4:08 |
 
-Snapshot ID: `AAAAAA0lzhdzF2GlgFtWuCmb/GsNsIwU`
+Snapshot ID: `AAAAAObrTU+Nvl4q43IVnb/qxvJs6ZDJ`

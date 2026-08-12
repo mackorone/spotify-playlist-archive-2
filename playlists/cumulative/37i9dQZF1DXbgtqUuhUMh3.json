@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Arab women, at full volume. Cover: Dana Salah",
+  "description": "Listen to Arab women, at full volume. Dana Salah is co-curating EQUAL Arabia this month.",
   "name": "EQUAL Arabia",
   "tracks": [
     {
@@ -3167,6 +3167,28 @@
     },
     {
       "album": {
+        "name": "El 3asal",
+        "url": "https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS"
+      },
+      "artists": [
+        {
+          "name": "Donia Wael",
+          "url": "https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180658,
+      "name": "El 3asal",
+      "url": "https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8"
+    },
+    {
+      "album": {
         "name": "El Adar Byekhtar",
         "url": "https://open.spotify.com/album/14PHpW1vUfpF9bLqtE3b4R"
       },
@@ -5008,6 +5030,24 @@
       "duration_ms": 219000,
       "name": "High",
       "url": "https://open.spotify.com/track/6i6xYs14ViOdffFSBpoBeV"
+    },
+    {
+      "album": {
+        "name": "Hilwa",
+        "url": "https://open.spotify.com/album/1JlLGHzjvw3Hq8lEvK46zL"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Hilwa",
+      "url": "https://open.spotify.com/track/5v06JgwDvBVmwvbUSyujPW"
     },
     {
       "album": {
@@ -8390,6 +8430,24 @@
       "duration_ms": 200235,
       "name": "PAM PAM",
       "url": "https://open.spotify.com/track/4M7mFwpdfVoH7jKBl7BRGn"
+    },
+    {
+      "album": {
+        "name": "eleven achers",
+        "url": "https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186292,
+      "name": "paper thin",
+      "url": "https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB"
     },
     {
       "album": {
@@ -11812,7 +11870,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 174276,
       "name": "\u0627\u0644\u0645\u0631\u0627\u064a\u0629",
       "url": "https://open.spotify.com/track/0dmDrpb754mYIssprDd6zG"
@@ -13096,6 +13154,24 @@
       "duration_ms": 209988,
       "name": "\u0643\u0644 \u0634\u064a\u0621",
       "url": "https://open.spotify.com/track/73B6xswAy0QNy2XpsZvnqP"
+    },
+    {
+      "album": {
+        "name": "\u0646\u0633\u0627\u0649",
+        "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235833,
+      "name": "\u0643\u0644\u0627\u0645 \u0639\u064a\u0646\u064a\u0647",
+      "url": "https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5"
     },
     {
       "album": {

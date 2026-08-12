@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,994 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,025 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [On a connu Hallelujah \- Album Trône disponible](https://open.spotify.com/track/7IvoUeXcHYKOs3hQ42wpKW) | [Nathan Maloba](https://open.spotify.com/artist/412HquPTQPuOD57BoGTzJs) | [Avant Trône \- On a connu](https://open.spotify.com/album/70MtDHF7rFz4ubMUVTDBsA) | 1:36 |
 | 100 | [Adurotini](https://open.spotify.com/track/0nzKJEdWrAZMv0xQ97eLDv) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Adurotini](https://open.spotify.com/album/5DSBMZ0LQIbEOld01mOW5D) | 5:04 |
 
-Snapshot ID: `AAAAAOoL2yDiKhGSfjEJftv0c10042zf`
+Snapshot ID: `AAAAANKrz9aNLTS5FIHq2AWlWtl4WlQo`

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 820,
+  "num_followers": 825,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD4k0QrkgKy7cXFZB1oEPqXKFbgKJb",
+  "snapshot_id": "AAAD5HO4+ksuEW31Rmt5D58mb5B78zVu",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -911,6 +911,38 @@
       "duration_ms": 298369,
       "name": "Popcorn and Candyfloss",
       "url": "https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89"
+    },
+    {
+      "added_at": "2026-08-11 22:21:23",
+      "album": {
+        "name": "PROM",
+        "url": "https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg"
+      },
+      "artists": [
+        {
+          "name": "Royal Fools",
+          "url": "https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8"
+        }
+      ],
+      "duration_ms": 138152,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe"
+    },
+    {
+      "added_at": "2026-08-11 22:35:16",
+      "album": {
+        "name": "SOREN'S HOME II",
+        "url": "https://open.spotify.com/album/7HpquLyhvRVx1YjoPWl5t0"
+      },
+      "artists": [
+        {
+          "name": "Sean Blu",
+          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
+        }
+      ],
+      "duration_ms": 160682,
+      "name": "Lloyd Dobler",
+      "url": "https://open.spotify.com/track/5H59SgewBgxf43cOiT6Y7L"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

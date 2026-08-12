@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 589736,
+  "num_followers": 589771,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAaDRWmUrsj7IXur/9MZWe5",
+  "snapshot_id": "ankUgAAAAACGVKCYua57b+FiNnjFfIN9",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 214046,
-      "name": "Daffodil",
-      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -467,22 +451,6 @@
       "duration_ms": 232360,
       "name": "Rabbit Heart (Raise It Up)",
       "url": "https://open.spotify.com/track/5jAYbBuwroXXigCj4IGFdA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 263936,
-      "name": "Witch Dance",
-      "url": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
     },
     {
       "added_at": null,
@@ -503,6 +471,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 263936,
+      "name": "Witch Dance",
+      "url": "https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "Daffodil",
+      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wish That You Were Here (From \u201cMiss Peregrine\u2019s Home For Peculiar Children\u201d Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 402797,
       "name": "Wish That You Were Here - From \u201cMiss Peregrine\u2019s Home for Peculiar Children\u201d Original Motion Picture",
       "url": "https://open.spotify.com/track/1FrrRHxMKVvd85O3gancxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 124240,
-      "name": "Kiss With A Fist",
-      "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 264574,
       "name": "You Got The Love (Mark Knight Remix) / One",
       "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 124240,
+      "name": "Kiss With A Fist",
+      "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Oskar Haag
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,938 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,940 likes - 90 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 | 90 | [Skinny Dipping \- Just Your Toes](https://open.spotify.com/track/3N5ZaUnV7aA1ycH8XcXHFZ) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping \(Just Your Toes\)](https://open.spotify.com/album/1CmWnZNFjit7wWENcR2MJN) | 3:12 |
 
-Snapshot ID: `AAAAALY1zjArGayK5T7LwLmfvmFFN8a6`
+Snapshot ID: `AAAAALGM/iGonPXgsxBVi4MzfsOFD0GW`

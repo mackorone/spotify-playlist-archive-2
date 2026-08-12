@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,828,404 likes - 140 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,828,733 likes - 140 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 139 | [Do You Believe In Love](https://open.spotify.com/track/7uDvuLWCGRw58zfFH1sRDO) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Paul Davis \(1980\)](https://open.spotify.com/album/3A83m6wd2kfgUMPm8bEYk4) | 3:45 |
 | 140 | [If and Any Day](https://open.spotify.com/track/2yI1HdFEHDFrkpbeII3heB) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [The Longest Road](https://open.spotify.com/album/2rpmUmJdN3qLvme8kD7geb) | 4:01 |
 
-Snapshot ID: `AAAAAOywYF0n3i9PPPAy57K/xrFaVHHX`
+Snapshot ID: `AAAAABhQ2Qmi6Ka/r3Siruq/fweEg9uL`

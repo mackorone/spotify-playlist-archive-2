@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18506,
+  "num_followers": 18507,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAfe9X21Ie7wGXNsZUf+sbl",
+  "snapshot_id": "ankUgAAAAADEGHxbK6VqbydqqA4crYUf",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Web Letter Days - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/5ycRUrUsAEtWQfSW6e7kj9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inside Out (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 59293,
+      "name": "Free Skating",
+      "url": "https://open.spotify.com/track/31uN5FqfJYubT9t7vqZRiE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 90346,
+      "name": "The Ellie Badge",
+      "url": "https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
       },
@@ -175,38 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 90346,
-      "name": "The Ellie Badge",
-      "url": "https://open.spotify.com/track/33riuTg9aVoiRhHTqm2Qq8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inside Out (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 59293,
-      "name": "Free Skating",
-      "url": "https://open.spotify.com/track/31uN5FqfJYubT9t7vqZRiE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
       },
@@ -216,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 159920,
-      "name": "Web Letter Days - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/5ycRUrUsAEtWQfSW6e7kj9"
+      "duration_ms": 197360,
+      "name": "Quick as a Flashback - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FDBvZ3iMT8SMIfQIuBxVW"
     },
     {
       "added_at": null,
@@ -280,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 197360,
-      "name": "Quick as a Flashback - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FDBvZ3iMT8SMIfQIuBxVW"
+      "duration_ms": 156466,
+      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
     },
     {
       "added_at": null,
@@ -344,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
+      "duration_ms": 250146,
+      "name": "A Good Day to Dive - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL"
     },
     {
       "added_at": null,
@@ -383,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jurassic World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 98892,
+      "name": "The Park is Closed",
+      "url": "https://open.spotify.com/track/3wtb9sGrgRTasl7mOqBS4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -408,25 +440,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 250146,
-      "name": "A Good Day to Dive - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jurassic World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2pqi0hewWOKo9uDVLpCVoh"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 98892,
-      "name": "The Park is Closed",
-      "url": "https://open.spotify.com/track/3wtb9sGrgRTasl7mOqBS4N"
+      "duration_ms": 69400,
+      "name": "Ned Man Walking - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n"
     },
     {
       "added_at": null,
@@ -467,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 69400,
-      "name": "Ned Man Walking - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 458933,
       "name": "Up With End Credits",
       "url": "https://open.spotify.com/track/5X0kkx0LFKtRyXYPSRjdc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 30973,
+      "name": "Come Fly With Me - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/52Yvf4pN9wixK7ePyQ2irH"
     },
     {
       "added_at": null,
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 30973,
-      "name": "Come Fly With Me - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/52Yvf4pN9wixK7ePyQ2irH"
+      "duration_ms": 91680,
+      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
     },
     {
       "added_at": null,
@@ -563,22 +579,6 @@
       "duration_ms": 112600,
       "name": "The Old Zoo Review",
       "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 255296,
-      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 255296,
+      "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
@@ -631,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
       },
       "artists": [
         {
@@ -640,9 +656,25 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 91680,
-      "name": "Peter Parker Picked a Perilously Precarious Profession - from \"Spider-Man: No Way Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ"
+      "duration_ms": 61160,
+      "name": "Star Trek",
+      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": null,
@@ -667,38 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 61160,
-      "name": "Star Trek",
-      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu"
       },
@@ -711,6 +711,38 @@
       "duration_ms": 52946,
       "name": "Up With Titles",
       "url": "https://open.spotify.com/track/6sIZFWgScdBoCzEuo3H4pE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 107783,
+      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
+      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 105746,
+      "name": "Funeral and Far Between",
+      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
     },
     {
       "added_at": null,
@@ -735,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 105746,
-      "name": "Funeral and Far Between",
-      "url": "https://open.spotify.com/track/2jVjwsysanjVbkuqu0LN6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
       },
@@ -767,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Him Go (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4fgejrAeBYWdSaYRLXYyis"
+        "name": "Lost: The Final Season (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
       },
       "artists": [
         {
@@ -776,25 +792,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 109466,
-      "name": "The Break Of Dawn",
-      "url": "https://open.spotify.com/track/4Fvf3Ch1obEN4GiYacWa5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spider-Man: Far from Home (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7dHHxnqokv90t6wVqTEk6F"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 107783,
-      "name": "Swinging Set - from \"Spider-Man: Far from Home\" Soundtrack",
-      "url": "https://open.spotify.com/track/7BOKGKY2DAjq64NPsTjCyX"
+      "duration_ms": 474506,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost: The Final Season (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y"
+        "name": "Star Trek Into Darkness (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 474506,
-      "name": "Moving On",
-      "url": "https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk"
+      "duration_ms": 130613,
+      "name": "London Calling",
+      "url": "https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi"
     }
   ],
   "unique_name": "This Is Michael Giacchino",

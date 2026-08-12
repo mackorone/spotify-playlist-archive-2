@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from KAROL G x Bruno Mars, Amelie Lens x Angèle, Tayc x Didi B, Alex Warren and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,900 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,896 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 80 | [On The Run](https://open.spotify.com/track/3Ax5ZZjLuxf1TfcU7Cvp7E) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [On The Run](https://open.spotify.com/album/2DDbQqojMm8bpmjRBUzpuF) | 1:41 |
 | 81 | [Vacation \- \(Anywhere You Wanna Go\)](https://open.spotify.com/track/5j1Lga2clyZfkwlX4YDB3Z) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Vacation \(Anywhere You Wanna Go\)](https://open.spotify.com/album/0mi47rdTlmgbB1INvs5tBB) | 2:50 |
 
-Snapshot ID: `AAAAAB2Bn+XoBj9ZcwrkVO6vEh4SEizN`
+Snapshot ID: `AAAAAMS3towd0hXS821IcD8y+GEXkIsd`

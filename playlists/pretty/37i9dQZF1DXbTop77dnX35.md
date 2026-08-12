@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Llona\. Rema, Ckay, Darkoo & Asake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,138 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,227 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 38 | [Many](https://open.spotify.com/track/38Bc8Z1AFPpUoWnolmwi7Y) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Many](https://open.spotify.com/album/1UrUin8IxAkH39CfanCbxW) | 2:38 |
 | 39 | [Opium Amapiano](https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Wahala Pikin](https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4) | 1:58 |
 | 40 | [Shakomo](https://open.spotify.com/track/4qZYiNCe3OKkdW8XVQTWOZ) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Shakomo](https://open.spotify.com/album/63IjmA8PmGon2zeqIri90Z) | 2:30 |
-| 41 | [Do or Die \(feat\. Kpee, Morrelo & Bensh47\)](https://open.spotify.com/track/1EtrtVvX6eHQ2FzUGCtvyY) | [TiMi](https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Timi dre](https://open.spotify.com/artist/6H2Faas36mc6FDBYvZWtX0), [Lovn](https://open.spotify.com/artist/00bzZREvy1UcM3GyxUKfaW), [Kpee](https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd), [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Do or Die \(feat\. Kpee, Morrelo & Bensh47\)](https://open.spotify.com/album/2FI5NJjClaW9AHgOCaWeUh) | 3:28 |
+| 41 | [Do or Die \(feat\. Kpee, Morrelo & Bensh47\)](https://open.spotify.com/track/1EtrtVvX6eHQ2FzUGCtvyY) | [TiMi](https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Timi Dre](https://open.spotify.com/artist/32pQwaIjQrF9MjT4YeoF9Q), [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Kpee](https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd), [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Do or Die \(feat\. Kpee, Morrelo & Bensh47\)](https://open.spotify.com/album/2FI5NJjClaW9AHgOCaWeUh) | 3:28 |
 | 42 | [Wande Coal](https://open.spotify.com/track/0A04ugTVwO0xSCO1YOXoR7) | [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX) | [Wande Coal](https://open.spotify.com/album/6u2uu3uBTkMzNRC1uV5T4J) | 2:28 |
 | 43 | [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 |
 | 44 | [YK Where It's Goin](https://open.spotify.com/track/2bBpDKh5gGUxCRVs74pWoA) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Weathering The World](https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD) | 3:00 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 51 | [Sunseyin](https://open.spotify.com/track/1a9LEpa0eTgNVkuVKrzgFB) | [Caliph](https://open.spotify.com/artist/6vJfZRJYmQUR8YCRMd0ka2) | [Sunseyin](https://open.spotify.com/album/50IkDy6vlkT7sfXN4iFmN8) | 2:33 |
 | 52 | [Outside](https://open.spotify.com/track/2A5zdszDw3FLptO9b2JHMg) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Outside](https://open.spotify.com/album/7dtqw9jpyhi4PXc6tOfJWg) | 2:45 |
 
-Snapshot ID: `AAAAABkalnKyBC+UkWEIjB/GDL56Fy1N`
+Snapshot ID: `AAAAANJmFa53Y8BdoyZtNcMK3lOHimCa`

@@ -4,7 +4,7 @@
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 48 min
+70 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,10 @@
 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \( meaning \)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 | 2025-12-18 | 2026-06-21 |
 | [Baby](https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Soulection White Label \- Monte Booker](https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE) | 3:06 | 2025-12-18 | 2026-08-09 |
 | [Babygirl \(feat\. Doechii\)](https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:43 | 2026-08-09 |  |
-| [Barriers](https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 4:09 | 2026-08-09 |  |
+| [Barriers](https://open.spotify.com/track/5vPxOu3JpgJqYC0MB9opob) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 4:09 | 2026-08-09 | 2026-08-12 |
 | [Bicycle Race](https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bicycle Race](https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls) | 2:35 | 2025-12-28 | 2026-04-28 |
 | [Blossom Dearie](https://open.spotify.com/track/1Q9ya4CIJwY9AbSqgtZEza) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:09 | 2025-12-18 |  |
-| [Bobby](https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:31 | 2026-04-05 |  |
+| [Bobby](https://open.spotify.com/track/0XZ2XxO2rfGIhcDWqj2riz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:31 | 2026-04-05 | 2026-08-12 |
 | [Closer \(Ode 2 U\)](https://open.spotify.com/track/39xVzbZDVYROIkoI0wJU7k) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:16 | 2025-12-18 |  |
 | [Communicate](https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:57 | 2025-12-18 |  |
 | [Computer Luv \(feat\. Steve Lacy\)](https://open.spotify.com/track/2wsa9Re66HqlOkgb3DpnBX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 2:42 | 2025-12-18 |  |
@@ -68,7 +68,7 @@
 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 | 2025-12-18 |  |
 | [Spice \- EP Version](https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:39 | 2025-12-18 |  |
 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 | 2025-12-18 |  |
-| [Tequan \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 4:45 | 2025-12-18 | 2026-08-09 |
+| [Tequan \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4RAhtF99hGmz9sxTJ48gqX) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 4:45 | 2025-12-18 |  |
 | [The Night Song](https://open.spotify.com/track/0xQT5kbfnrU9Dv7x4MtMbi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:39 | 2025-12-18 |  |
 | [Thirst \- EP Version](https://open.spotify.com/track/66YWmARKaVgVYW7ZVPCQUM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 2:56 | 2026-01-31 | 2026-03-22 |
 | [Unknown \- EP Version](https://open.spotify.com/track/1wCManUnBwrfpnwTaV93ho) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 3:18 | 2025-12-18 | 2026-08-09 |
@@ -76,6 +76,7 @@
 | [Venom](https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:29 | 2025-12-18 |  |
 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 | 2025-12-18 |  |
 | [Where I'm From \(feat\. Mereba\)](https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:44 | 2025-12-18 |  |
+| [Wish You Well](https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:30 | 2026-08-12 |  |
 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 | 2025-12-18 |  |
 
 \*This playlist was first scraped on 2025-12-18. Prior content cannot be recovered.

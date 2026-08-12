@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec marguerite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,590 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,574 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 49 | [COMME D'HABITUDE](https://open.spotify.com/track/6pN4HLeP58hfmSrp5Utjo2) | [Pitt](https://open.spotify.com/artist/49ofPLQXico2N1N13l0h8m) | [COMME D'HABITUDE](https://open.spotify.com/album/3uBzYZC7VEKEIJanySxiA5) | 2:20 |
 | 50 | [Mes rêves](https://open.spotify.com/track/1N3lcqkZFTcVPSz0hs1lNe) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Mes rêves](https://open.spotify.com/album/47nVVOontKxtMO4019hbrm) | 2:55 |
 
-Snapshot ID: `AAAAAN+lOHF17QINNETt3m4AHnQ/juB9`
+Snapshot ID: `AAAAAMfIsMGl3A6SHhgNSUmBTNorcMBH`

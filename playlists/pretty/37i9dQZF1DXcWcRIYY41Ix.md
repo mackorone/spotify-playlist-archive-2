@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Paco Pecado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,254 likes - 106 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,255 likes - 106 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 105 | [tengo, tengo pero quiero, quiero \(si tú me dices ven\)](https://open.spotify.com/track/0jG5AGUs2zoE1Iawvl50Wy) | [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [tengo, tengo pero quiero, quiero \(si tú me dices ven\)](https://open.spotify.com/album/07ekPEnRGyOSHLrlbIUGmN) | 2:45 |
 | 106 | [la raíz](https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la raíz](https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh) | 3:44 |
 
-Snapshot ID: `AAAAAIYmT+Er8E1DjvaMAV/AOSGaEua9`
+Snapshot ID: `AAAAABII/6mxop0CQ256VRcqA9d7893o`

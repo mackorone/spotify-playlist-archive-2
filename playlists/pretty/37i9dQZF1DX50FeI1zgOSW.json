@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Siri Xander",
-  "num_followers": 20133,
+  "num_followers": 20145,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRpr2xzPbE/LNbQ2TzHy0HJ0six",
+  "snapshot_id": "AAAAALiclQw8Ns+mFBDiIS574VAsr4A5",
   "tracks": [
     {
       "added_at": "2026-07-31 10:52:19",
@@ -107,6 +107,30 @@
       "duration_ms": 172031,
       "name": "Uyir Kaadhale",
       "url": "https://open.spotify.com/track/2ygQ0NGycUcKZNVpa53AJ6"
+    },
+    {
+      "added_at": "2026-08-11 11:07:42",
+      "album": {
+        "name": "Ellam Pochu Da",
+        "url": "https://open.spotify.com/album/1PSDE01h0ajmiC9DODGfp4"
+      },
+      "artists": [
+        {
+          "name": "Shikha Prabhakaran",
+          "url": "https://open.spotify.com/artist/2yjIbOUQHdWtBVaI4C3LqV"
+        },
+        {
+          "name": "Faisal Razi",
+          "url": "https://open.spotify.com/artist/0rRhddei9JKXd5aAbCPfPN"
+        },
+        {
+          "name": "Helvin KS",
+          "url": "https://open.spotify.com/artist/3KSOiuxMEIU6r3CltvLt4U"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Ellam Pochu Da",
+      "url": "https://open.spotify.com/track/65SwdszQPvOwTjEdvYsO7p"
     },
     {
       "added_at": "2026-08-04 16:15:23",
@@ -211,6 +235,30 @@
       "duration_ms": 160714,
       "name": "Sandaali",
       "url": "https://open.spotify.com/track/2RhsDyaoFoLOZ16NS0ItO5"
+    },
+    {
+      "added_at": "2026-08-11 04:59:34",
+      "album": {
+        "name": "Marakka Thonudh\u00e9",
+        "url": "https://open.spotify.com/album/5DWg0jFFJtjdkdMTqTtpDH"
+      },
+      "artists": [
+        {
+          "name": "Keyran",
+          "url": "https://open.spotify.com/artist/4g7DtRBVyQ23grLxtMEOrY"
+        },
+        {
+          "name": "BSP",
+          "url": "https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A"
+        },
+        {
+          "name": "Eshwar",
+          "url": "https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Marakka Thonudh\u00e9",
+      "url": "https://open.spotify.com/track/43Wv0rkvjqxh6mOrbZyD4i"
     },
     {
       "added_at": "2026-06-10 10:19:16",

@@ -4,7 +4,7 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-226 songs - 12 hr 3 min
+227 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Layli](https://open.spotify.com/track/3LzvUSHvZpufB80QIiso36) | [Aezaddy](https://open.spotify.com/artist/2EKF1Ek1qKKDzYfeBq9Y3i) | [Layli](https://open.spotify.com/album/1rUlM8Jod4PEcNizNjQccO) | 2:43 | 2024-02-05 | 2024-08-29 |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2023-07-07 | 2023-08-06 |
 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM \(الحمام\)](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 | 2023-12-04 | 2025-06-04 |
+| [Les Sentiments](https://open.spotify.com/track/71KVvbi4QzahY168VViofQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Les Sentiments](https://open.spotify.com/album/2BlFh5pZ4VAHkZG83d7oZC) | 2:57 | 2026-08-11 |  |
 | [Li Galou](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Li Galou](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 | 2023-12-21 | 2024-08-17 |
 | [LIAM](https://open.spotify.com/track/21aSPwD9zwJly334s2qUJM) | [JUBA](https://open.spotify.com/artist/4OkArG0eh8yAOwKPSwTIad) | [LIAM](https://open.spotify.com/album/2BNxuNW4GTVenflIb3TGPz) | 3:07 | 2026-08-06 |  |
 | [Lila](https://open.spotify.com/track/1m3cDD6KP3lBtAmuo8Vwk3) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Lila](https://open.spotify.com/album/4gpShOpLauvRTgYVGUXI3b) | 2:52 | 2024-04-24 | 2024-08-29 |
@@ -167,7 +168,7 @@
 | [Mimti](https://open.spotify.com/track/0hmkeziIYTAaytHCJEbJQi) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/1Vpex5wTTgsbK0HUm32eia) | 3:18 | 2026-01-28 |  |
 | [Mimti](https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Mimti](https://open.spotify.com/album/0YVkrsk7cyE1xhrKDhpqWv) | 3:18 | 2024-01-15 | 2025-06-04 |
 | [Mon Amour](https://open.spotify.com/track/7eSOy2Wb3xE76X1u03lTQm) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mon Amour](https://open.spotify.com/album/4gpSrE8EvFGfjwEV8ILzTX) | 2:48 | 2025-08-25 | 2025-11-11 |
-| [Mon Bb D’Amour](https://open.spotify.com/track/0MDtYGX5JhHuwJtTR4SErR) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Mon Bb D’Amour](https://open.spotify.com/album/0bI0lMM7aloR3itRLadrQx) | 2:57 | 2026-07-04 |  |
+| [Mon Bb D’Amour](https://open.spotify.com/track/0MDtYGX5JhHuwJtTR4SErR) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Mon Bb D’Amour](https://open.spotify.com/album/0bI0lMM7aloR3itRLadrQx) | 2:57 | 2026-07-04 | 2026-08-12 |
 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 | 2023-07-07 | 2025-01-28 |
 | [Msimima](https://open.spotify.com/track/11N0goryQf8hngeyYOz8Hw) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Msimima](https://open.spotify.com/album/0AwQgqB4VLgJlyBReOjRlQ) | 3:58 | 2024-08-16 | 2024-12-27 |
 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 | 2023-08-05 | 2025-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Malik Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,861 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,833 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Kamień z serca](https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [Kamień z serca](https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti) | 6:49 |
 | 50 | [FRISBEE](https://open.spotify.com/track/0SBlmCpy5NYCg2NcXSG2Mp) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [BNP](https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P) | [FRISBEE](https://open.spotify.com/album/50VqoEoeDaD1mBmDB531kB) | 2:57 |
 
-Snapshot ID: `AAAAAGuBBMlJMARUKZ4i7rwGAnlWfkp0`
+Snapshot ID: `AAAAANcrvkIgzySjfxaem4SvCVJbjqlq`

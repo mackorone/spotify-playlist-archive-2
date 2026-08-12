@@ -4,7 +4,7 @@
 
 > Mental illness
 
-73 songs - 4 hr 2 min
+74 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Cash Machine](https://open.spotify.com/track/3aYphK1HrpzYbuBLz8PH6l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:56 | 2024-03-28 |  |
 | [Cigarette Ahegao](https://open.spotify.com/track/67VxWciiaYZYy3NTlyCtp7) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI) | 3:03 | 2024-01-17 |  |
 | [Cradles](https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5) | 3:29 | 2024-10-09 |  |
+| [Crazy](https://open.spotify.com/track/3WERqti6Iy25H3wc0l7Den) | [The Bridge City Sinners](https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt) | [In the Age of Doubt](https://open.spotify.com/album/71coqJLIiqtg9uUQjtr1MP) | 2:21 | 2026-08-11 |  |
 | [Cry for Judas](https://open.spotify.com/track/6dzU8kkXmOGCMNyX149BX3) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp) | 3:12 | 2024-09-15 |  |
 | [Daisies](https://open.spotify.com/track/0AoNT5b3YYf28IIq6pGojV) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Daisies](https://open.spotify.com/album/4cZdcHdODTbgZqR4A10CyQ) | 2:18 | 2026-02-20 |  |
 | [Diggin' Up Hatchets](https://open.spotify.com/track/22Qce4LVRx6PqsVhOXuaWs) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:58 | 2023-03-27 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 6 hr 34 min
+143 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [BURN EVERYTHING](https://open.spotify.com/track/4mVBfQgc0bpA3eLNEpzv2F) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [DONDA 2](https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci) | 2:00 | 2026-01-28 |  |
 | [BURN EVERYTHING](https://open.spotify.com/track/1ZLME4ZLJTdptjVeewKFyv) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Yé](https://open.spotify.com/artist/6kE7ZdPoVgmtcwcIgm9QFr) | [HERD IMMUNITY 1.0](https://open.spotify.com/album/5VG8UYwd5izn2TQPX8fvBn) | 2:47 | 2023-12-13 | 2026-01-29 |
 | [Bye Bye](https://open.spotify.com/track/2UGwdmMdaNpucOSoJiToLi) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Different Dude](https://open.spotify.com/album/447LSbq94nqwdVDMMmVeoZ) | 2:12 | 2023-12-13 |  |
+| [CAMH](https://open.spotify.com/track/192SSHdFos2jo6aPTHtj1N) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:26 | 2026-08-11 |  |
 | [Change](https://open.spotify.com/track/2Xxbnw5x0yCRSGR2tJca7l) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 3:49 | 2023-12-13 |  |
 | [Commandments](https://open.spotify.com/track/3Eknh9Aq0UL1sIxPNHy0Sh) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 3:12 | 2023-12-13 |  |
 | [CRYBABY :'\(](https://open.spotify.com/track/5p8ZxZwEJJwvo5qoZvFvUj) | [SuziWithAnUzi](https://open.spotify.com/artist/4iIcCz80dZo1cBHxdMbe9D) | [CRYBABY :'\(](https://open.spotify.com/album/0NoZatOm4JgTp6CmvdD31I) | 3:43 | 2023-12-13 |  |
@@ -127,6 +128,7 @@
 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 | 2026-04-15 |  |
 | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/track/3t7ohmWgtPcE1yXesf9oQU) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Will Juergens](https://open.spotify.com/artist/4Jz0bwESNeDnb8eo1tvpXX), [Cam Chambers](https://open.spotify.com/artist/6ljxfnGOuwFBz8Uw6C5gUj) | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/album/2EsAhFe68A3wSzwp2lMyxA) | 3:55 | 2024-11-26 |  |
 | [The Rat Race](https://open.spotify.com/track/46bgDWUtBBceo13LMCZIXg) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:48 | 2023-12-13 |  |
+| [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 | 2026-08-11 |  |
 | [Too Attached](https://open.spotify.com/track/2Wp3n0MebrQyI0264yC3fG) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:41 | 2024-08-28 |  |
 | [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 | 2023-12-13 |  |
 | [Under Control](https://open.spotify.com/track/3B6Ha04nvVi9EeEbGsfrOX) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:05 | 2023-12-13 |  |

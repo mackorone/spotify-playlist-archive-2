@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Rock Da House 2026",
+        "url": "https://open.spotify.com/album/6Sxa6TYerR4Eh2g72bcLeF"
+      },
+      "artists": [
+        {
+          "name": "Tall Paul",
+          "url": "https://open.spotify.com/artist/0RXgSe2pCSZ6DJitqJZ6nt"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "Rock Da House 2026",
+      "url": "https://open.spotify.com/track/5DZ7dl8EW2fTtVYde7tcQE"
+    },
+    {
+      "album": {
         "name": "Run To You (SUMD4ZE Edit)",
         "url": "https://open.spotify.com/album/5j3MWUbMQI5jRgIgx6r7g4"
       },

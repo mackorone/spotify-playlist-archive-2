@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,525 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,558 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 7 | [Majnoun](https://open.spotify.com/track/1bwxIPCP0sX7p3Svj3ZCak) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Majnoun](https://open.spotify.com/album/0GS1y6yGaY2OkoGdKSC0hq) | 2:48 |
 | 8 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
 | 9 | [Bin Lila W’Nhar](https://open.spotify.com/track/5kn5TmiE1sx4c187TM6mcp) | [Salim Cravata ](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Bin Lila W’Nhar](https://open.spotify.com/album/5rwQ7uhWIKcRZYT8wXt7Jv) | 3:21 |
-| 10 | [Mon Bb D’Amour](https://open.spotify.com/track/0MDtYGX5JhHuwJtTR4SErR) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Mon Bb D’Amour](https://open.spotify.com/album/0bI0lMM7aloR3itRLadrQx) | 2:57 |
+| 10 | [Les Sentiments](https://open.spotify.com/track/71KVvbi4QzahY168VViofQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Les Sentiments](https://open.spotify.com/album/2BlFh5pZ4VAHkZG83d7oZC) | 2:57 |
 | 11 | [Ça Y Est](https://open.spotify.com/track/2qKRy47q3fucOEUDnyloPY) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Ça Y Est](https://open.spotify.com/album/1zKsSi1Sxf2hnrPhVyzUCN) | 2:51 |
 | 12 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 |
 | 13 | [Ghir Ana](https://open.spotify.com/track/5pPBbSleU1nnknHrGqADep) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1), [Bachir Zairi](https://open.spotify.com/artist/6W4d4DSr9BHJ54EXjy957u) | [Ghir Ana](https://open.spotify.com/album/5BiUm5dEENGHri4Wu0XfYj) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 |
 | 50 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 
-Snapshot ID: `AAAAAC/ZnKZhWayzOuYNUAusu6jIDjp4`
+Snapshot ID: `AAAAAFJo7hYN9qcM5rdf37/J2mbatc8Y`

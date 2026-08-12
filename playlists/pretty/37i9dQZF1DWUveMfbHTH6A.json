@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15146,
+  "num_followers": 15143,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKhccXOwwVJHSwAkDfz2hZ5qC2cx",
+  "snapshot_id": "AAAAAF9XegOmsWMOal+wiS5PHxnIBrC8",
   "tracks": [
     {
       "added_at": "2025-12-03 12:16:13",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "21st Century Cool Girl",
+        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 197655,
+      "name": "21st Century Cool Girl",
+      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 169472,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "21st Century Cool Girl",
-        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 197655,
-      "name": "21st Century Cool Girl",
-      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "take it anymore",
-        "url": "https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz"
-      },
-      "artists": [
-        {
-          "name": "can't be blue",
-          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
-        }
-      ],
-      "duration_ms": 161071,
-      "name": "take it anymore",
-      "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "You Don't Know",
         "url": "https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 176212,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "take it anymore",
+        "url": "https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "duration_ms": 161071,
+      "name": "take it anymore",
+      "url": "https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "MIRROR",
-        "url": "https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP"
-      },
-      "artists": [
-        {
-          "name": "GENBLUE\u5e7b\u85cd\u5c0f\u718a",
-          "url": "https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "BADASS",
-      "url": "https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "highs, lows & stargazing",
         "url": "https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 192264,
       "name": "when you leave",
       "url": "https://open.spotify.com/track/6P9eHLKr7YYniDhFAF3AGy"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP"
+      },
+      "artists": [
+        {
+          "name": "GENBLUE\u5e7b\u85cd\u5c0f\u718a",
+          "url": "https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "BADASS",
+      "url": "https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm"
     },
     {
       "added_at": "2025-12-03 12:16:13",

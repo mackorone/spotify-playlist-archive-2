@@ -1,12 +1,12 @@
 {
   "description": "This is Lang Lang. The essential tracks, all in one playlist.",
-  "num_followers": 30054,
+  "num_followers": 30060,
   "original_name": "This Is Lang Lang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADYBY1k2D2CR9oXJ/bRJSvJ",
+  "snapshot_id": "ankUgAAAAACOFjTCWUVjaR+DTMiedLIi",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 139306,
-      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
-      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beethoven: Bagatelle No. 25 in A Minor, WoO 59 \"F\u00fcr Elise\"",
         "url": "https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 203655,
       "name": "F\u00fcr Elise, Bagatelle in A Minor, WoO 59",
       "url": "https://open.spotify.com/track/0H2VhGUC3P3hvwz8rdGIpC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Book (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 139306,
+      "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
     },
     {
       "added_at": null,
@@ -191,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
-        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
+        "name": "Gran Turismo 5 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
       },
       "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 170360,
-      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
-      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
+      "duration_ms": 327080,
+      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"On a G String\" (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y"
     },
     {
       "added_at": null,
@@ -227,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gran Turismo 5 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
+        "name": "Tiersen: 6 Pieces for Piano, Vol. 2: No. 4, La valse d'Am\u00e9lie",
+        "url": "https://open.spotify.com/album/3MyjBMte3ITofOTHvDeG7f"
       },
       "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 327080,
-      "name": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"On a G String\" (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/4ksxLnn1ymLGRKnwhba45Y"
+      "duration_ms": 170360,
+      "name": "6 Pieces for Piano, Vol. 2: No. 4, La Valse d'Am\u00e9lie",
+      "url": "https://open.spotify.com/track/3qslIzC1V8no9hJqgZbGY6"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
-        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
-      },
-      "artists": [
-        {
-          "name": "Muzio Clementi",
-          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 89280,
-      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
-      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tailleferre: Valse lente",
         "url": "https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ"
       },
@@ -387,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+        "name": "Clementi: Sonatina No. 1 in C Major, Op. 36",
+        "url": "https://open.spotify.com/album/5kgoUIpuqAhaLQvQYjvySr"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Muzio Clementi",
+          "url": "https://open.spotify.com/artist/47e2jUYcqSQ8RL2DVmxmzn"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 321066,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
+      "duration_ms": 89280,
+      "name": "Piano Sonatina in C Major, Op. 36 No. 1: II. Andante",
+      "url": "https://open.spotify.com/track/22h3ELV6U6g0gRcLTB6VY3"
     },
     {
       "added_at": null,
@@ -431,6 +411,26 @@
       "duration_ms": 108706,
       "name": "Portrait of Mom",
       "url": "https://open.spotify.com/track/0D3J2SJrmHmRMeuaHieHq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Book 2",
+        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
+      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Disney Book",
         "url": "https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 249342,
       "name": "Beauty and the Beast - From \"Beauty and the Beast\"",
       "url": "https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Book 2",
-        "url": "https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/4fF2rf04AM1Rrj6WtIOva9"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Mia & Sebastian's Theme (From \"La La Land\") [Arr. Kerber for Solo Piano]",
-      "url": "https://open.spotify.com/track/639ClXUegVz2aAPb8Mf35Y"
     },
     {
       "added_at": null,
@@ -780,17 +780,17 @@
       },
       "artists": [
         {
-          "name": "Tekla B\u0105darzewska-Baranowska",
-          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 266173,
-      "name": "The Maiden's Prayer, Op. 4",
-      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
+      "duration_ms": 31493,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
+      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
     },
     {
       "added_at": null,
@@ -864,17 +864,17 @@
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Tekla B\u0105darzewska-Baranowska",
+          "url": "https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG"
         },
         {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 31493,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
-      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
+      "duration_ms": 266173,
+      "name": "The Maiden's Prayer, Op. 4",
+      "url": "https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT"
     },
     {
       "added_at": null,

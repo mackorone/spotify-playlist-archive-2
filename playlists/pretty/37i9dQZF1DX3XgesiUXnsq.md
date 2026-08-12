@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,995 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,004 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Raw \(feat\. Lil Wayne & Niko Brim\)](https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niko Brim](https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 2:44 |
 | 100 | [Floppy Disks](https://open.spotify.com/track/53nyIwxHPbQO6QEwhKYE7v) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Floppy Disks](https://open.spotify.com/album/1KWscxrKzDgwkFKwO6DqEE) | 2:00 |
 
-Snapshot ID: `AAAAAG2/oadmD8+V7BNlrLLjNw8WtBvs`
+Snapshot ID: `AAAAABTIg/CcA0XTr6jecgu1iZXyHxO5`

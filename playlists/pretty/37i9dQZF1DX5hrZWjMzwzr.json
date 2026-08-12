@@ -1,12 +1,12 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11698,
+  "num_followers": 11695,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMHfsEC3p2NGTmyneuPpDRAIr5FC",
+  "snapshot_id": "AAAAAMPJLgl0A6tn3FraskYuhMMJD3qU",
   "tracks": [
     {
       "added_at": "2026-04-09 22:12:46",
@@ -639,6 +639,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "KTO MA STYL",
+        "url": "https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "KTO MA STYL",
+      "url": "https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Tenten",
         "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 219566,
       "name": "Tenten",
       "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "KTO MA STYL",
-        "url": "https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4"
-      },
-      "artists": [
-        {
-          "name": "MODELKI",
-          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
-        },
-        {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "KTO MA STYL",
-      "url": "https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -867,26 +867,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
-      },
-      "artists": [
-        {
-          "name": "Oliwka Brazil",
-          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
-        },
-        {
-          "name": "WIKTOR",
-          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
-        }
-      ],
-      "duration_ms": 139764,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/2off3DDPQSq4X3jSAg8pwK"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Brokeboy",
         "url": "https://open.spotify.com/album/79M0EWo6Q5PH5SolSWOPcL"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 161167,
       "name": "Brokeboy",
       "url": "https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/2off3DDPQSq4X3jSAg8pwK"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1395,34 +1395,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Czwarta Rano",
-        "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
-      },
-      "artists": [
-        {
-          "name": "Ma\u0142olat",
-          "url": "https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH"
-        },
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "NOSTALG1A",
-          "url": "https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "Czwarta Rano",
-      "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "WDDC",
         "url": "https://open.spotify.com/album/1PNA8PRpyBJqyN5ERMTjOS"
       },
@@ -1447,6 +1419,34 @@
       "duration_ms": 209269,
       "name": "WDDC",
       "url": "https://open.spotify.com/track/3qPWus96wAMhMVoGsxnFVQ"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Czwarta Rano",
+        "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
+      },
+      "artists": [
+        {
+          "name": "Ma\u0142olat",
+          "url": "https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "NOSTALG1A",
+          "url": "https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "Czwarta Rano",
+      "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
     },
     {
       "added_at": "2026-04-09 22:12:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Ceremony
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,398 likes - 125 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,401 likes - 125 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Servant](https://open.spotify.com/track/2Knc97fcJMNsQcAvmmdHu9) | [Makeshift Art Bar](https://open.spotify.com/artist/64eXjwiYuMUVSpJ3pP6FNH) | [Servant](https://open.spotify.com/album/47DiT2yzSHIZtKC5ZJhfM6) | 3:45 |
 | 125 | [Roll With It](https://open.spotify.com/track/64R4QtpKTJvRQLEWvsRWeM) | [FUET!](https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6) | [Roll With It](https://open.spotify.com/album/3QEkpMlCDOlOCPh5VvGdfs) | 2:29 |
 
-Snapshot ID: `AAAAAARi7TZ/meS1FedlNunPvzNGxTzH`
+Snapshot ID: `AAAAAEXMIHvm/LZulb5eL+Yu4N6RX79x`

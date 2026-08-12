@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-193 songs - 22 hr 9 min
+194 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Assassin \- 7" Mix](https://open.spotify.com/track/5WEvbsbM847PuXY9rN2oXK) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lewis Jeffrey Keogh](https://open.spotify.com/artist/3aconsfN9TuGZZLnpYc1aR), [Alex Paterson](https://open.spotify.com/artist/0Xz8JZqrvS1ArSRlyBSMIT), [Kris Weston](https://open.spotify.com/artist/4bmVsbWaYlwvy29rrWaA7b) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 3:41 | 2022-05-31 |  |
 | [Asylum](https://open.spotify.com/track/07QwYSsx6bKV5Ye5OgHUJJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 5:19 | 2022-05-29 |  |
 | [Back Side Of The Moon](https://open.spotify.com/track/26txolfsixS8C767jpTREx) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 14:14 | 2022-05-29 | 2026-08-04 |
-| [Ball of Fire](https://open.spotify.com/track/0LEHV71Ri18k9dsmRslyTI) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/4CBoRrlyjoHu2yn9EpTVpb) | 4:11 | 2026-06-15 |  |
+| [Ball of Fire](https://open.spotify.com/track/0LEHV71Ri18k9dsmRslyTI) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/4CBoRrlyjoHu2yn9EpTVpb) | 4:11 | 2026-06-15 | 2026-08-12 |
 | [Ball of Fire](https://open.spotify.com/track/41Dci0Gdz1RatEXwLEl8z9) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 4:11 | 2022-05-29 | 2026-06-15 |
 | [Baraka](https://open.spotify.com/track/5k8yK7Q6asm3jW8EGYxn9V) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Buddhist Hipsters](https://open.spotify.com/album/0qp9tOW3mXLTfVTLbziEif) | 7:06 | 2025-10-12 | 2026-05-25 |
 | [Bedouin](https://open.spotify.com/track/0D657mUEeTbY2nmeNyU2Vq) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orblivion](https://open.spotify.com/album/7zt3eIX5HaSGMcpsClNKfn) | 4:31 | 2022-06-01 | 2025-10-12 |
@@ -50,6 +50,7 @@
 | [Compass I Fell in Love](https://open.spotify.com/track/6LTwNUukpNh8cDJQ26QnGZ) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 4:11 | 2023-06-18 | 2025-10-20 |
 | [Cracking Kraken](https://open.spotify.com/track/3A54uGQbcX3t2KNamtpXPP) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Cracking Kraken](https://open.spotify.com/album/08trvlLPSmKliNZQpWYixq) | 3:10 | 2023-04-13 | 2023-07-22 |
 | [Cracking Kraken](https://open.spotify.com/track/4Efodyxl4cArh5Pflk1LUX) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/5sUcXUKA5wS4YWL6IJ61Kv) | 3:10 | 2023-07-21 | 2026-06-01 |
+| [Cracking Kraken](https://open.spotify.com/track/5So859yqpHwOgYVkx4PLV2) | [Chocolate Hills](https://open.spotify.com/artist/0dDss5kJJRHOoLVjnJPXWF), [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Yarns from the Chocolate Triangle](https://open.spotify.com/album/64MYpg76vvfx5UmcJWFend) | 3:10 | 2026-08-12 |  |
 | [Daze \- Missing & Messed up Mix](https://open.spotify.com/track/4Y45c3UrXw6tXuiJYHw9JQ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia](https://open.spotify.com/album/1euwyciwux1oVmj4r1Rf3X) | 2:52 | 2022-05-29 | 2026-06-15 |
 | [Daze \- Missing & Messed up Mix](https://open.spotify.com/track/7r5u3EQDDXTjV6NTIBJmRk) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia \(Deluxe\)](https://open.spotify.com/album/7lXAPbAKOAG8S19lNB3cfS) | 2:52 | 2026-06-15 |  |
 | [Daze in Dub \- 98.7 Kiss FM Mix](https://open.spotify.com/track/4spMiOfyY2rCRvPI54dFbQ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Abolition of the Royal Familia \(Deluxe\)](https://open.spotify.com/album/1hirUsZ5Y5jctsI5Esm4vA) | 3:58 | 2022-05-29 | 2023-12-16 |

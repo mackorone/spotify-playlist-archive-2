@@ -3324,7 +3324,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 201600,
       "name": "Flower Garden",
       "url": "https://open.spotify.com/track/1trSn9ZNAKF3KKGPs8f9Sj"
@@ -3440,6 +3440,24 @@
       "duration_ms": 221937,
       "name": "FLYME",
       "url": "https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN"
+    },
+    {
+      "album": {
+        "name": "Fools in the Rain",
+        "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
+      },
+      "artists": [
+        {
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176990,
+      "name": "Fools in the Rain",
+      "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
     },
     {
       "album": {
@@ -6931,6 +6949,24 @@
     },
     {
       "album": {
+        "name": "next to your love",
+        "url": "https://open.spotify.com/album/30Js1gDDvy8YvoRDto8Gp4"
+      },
+      "artists": [
+        {
+          "name": "Sagiri S\u00f3l",
+          "url": "https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "next to your love",
+      "url": "https://open.spotify.com/track/54sJZZKIRSm2W16Rtz8ClK"
+    },
+    {
+      "album": {
         "name": "Night Cruising",
         "url": "https://open.spotify.com/album/0zqsPnIdwqEGQs0VT7idAY"
       },
@@ -9450,7 +9486,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
@@ -11325,6 +11361,24 @@
     },
     {
       "album": {
+        "name": "\u9ec4\u660f\u306a\u30d6\u30eb\u30fc -Twilight Blue-",
+        "url": "https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR"
+    },
+    {
+      "album": {
         "name": "TRANSIT IN SUMMER",
         "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
       },
@@ -11958,7 +12012,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 248842,
       "name": "What the Hell (feat. \u304a\u304b\u3082\u3068\u3048\u307f)",
       "url": "https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm"

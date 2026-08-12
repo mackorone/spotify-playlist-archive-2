@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Hartcole
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,550 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,551 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Shark](https://open.spotify.com/track/4Yt2g4rksAe58iGsTYndhX) | [Akala Newman](https://open.spotify.com/artist/45nmkIvpt1SCzsEENmhbJF), [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [\(A\)RISE](https://open.spotify.com/album/3y9iAWhc0NEaFepyZJFYr7) | 2:24 |
 | 50 | [Down City Streets](https://open.spotify.com/track/4eY6lTOvMqWwy5IVk0A2lb) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 4:04 |
 
-Snapshot ID: `AAAAANXyn6O+tlb//O9AnCfVXFYWxUWj`
+Snapshot ID: `AAAAAMK1YLJHqum4npI3iAz1kIXm36S+`

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2426391,
+  "num_followers": 2426179,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINSE6wp2RfqWe22Rd3JXa5kh2ho",
+  "snapshot_id": "AAAAAPkPzlPMNWi5tBzbEeEpqS4+9JBZ",
   "tracks": [
     {
       "added_at": "2026-08-07 04:22:25",
@@ -107,26 +107,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Sa Susunod Na Lang",
-        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
+        "name": "Pasilyo",
+        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
       },
       "artists": [
         {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+          "name": "SunKissed Lola",
+          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
         }
       ],
-      "duration_ms": 214606,
-      "name": "Sa Susunod Na Lang",
-      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+      "duration_ms": 270250,
+      "name": "Pasilyo",
+      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -179,18 +171,26 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Pasilyo",
-        "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
+        "name": "Sa Susunod Na Lang",
+        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
       "artists": [
         {
-          "name": "SunKissed Lola",
-          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
         }
       ],
-      "duration_ms": 270250,
-      "name": "Pasilyo",
-      "url": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o"
+      "duration_ms": 214606,
+      "name": "Sa Susunod Na Lang",
+      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
         "name": "Middle-Aged Juvenile Novelty Pop Rockers",
         "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 194946,
       "name": "Pangarap Lang Kita",
       "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
-        "name": "Ikaw Lang Patutunguhan",
-        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
-      },
-      "artists": [
-        {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
-        }
-      ],
-      "duration_ms": 326896,
-      "name": "Ikaw Lang Patutunguhan",
-      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -683,18 +683,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+        "name": "Nahanap Kita",
+        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
       "artists": [
         {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+      "duration_ms": 317693,
+      "name": "Nahanap Kita",
+      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Nahanap Kita",
-        "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
       "artists": [
         {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
         }
       ],
-      "duration_ms": 317693,
-      "name": "Nahanap Kita",
-      "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -763,18 +763,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+        "name": "Ang Wakas (feat. Trisha Macapagal)",
+        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
       "artists": [
         {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        },
+        {
+          "name": "Trisha Macapagal",
+          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
         }
       ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+      "duration_ms": 304000,
+      "name": "Ang Wakas (feat. Trisha Macapagal)",
+      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -795,22 +799,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Ang Wakas (feat. Trisha Macapagal)",
-        "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
       "artists": [
         {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        },
-        {
-          "name": "Trisha Macapagal",
-          "url": "https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O"
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Ang Wakas (feat. Trisha Macapagal)",
-      "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     },
     {
       "added_at": "2026-08-07 04:22:25",

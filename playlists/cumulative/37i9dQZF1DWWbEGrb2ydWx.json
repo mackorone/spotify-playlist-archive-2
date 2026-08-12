@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "A Strangely Isolated Place",
+        "url": "https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424173,
+      "name": "A Letter from Home - 2019 remaster",
+      "url": "https://open.spotify.com/track/4O4qQ0AfTEPegcbkyDKD57"
+    },
+    {
+      "album": {
         "name": "A Parade, In The Place I Sit, The Floating World (& All Its Pleasures)",
         "url": "https://open.spotify.com/album/70oref5eMh1OF6bM5IG9qD"
       },
@@ -194,6 +212,46 @@
       "duration_ms": 216253,
       "name": "After Five",
       "url": "https://open.spotify.com/track/6w9hBIcFDUMb9Q0oSpVybl"
+    },
+    {
+      "album": {
+        "name": "Winterbreaks",
+        "url": "https://open.spotify.com/album/7pKb1ZGfEFSY5wFMdNeA5Y"
+      },
+      "artists": [
+        {
+          "name": "Harmony Index",
+          "url": "https://open.spotify.com/artist/2S6dcUaN4P9imxRaiQJ9W9"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212821,
+      "name": "All Around",
+      "url": "https://open.spotify.com/track/4wvlydtUZ2cp3rx9TXQEz0"
+    },
+    {
+      "album": {
+        "name": "All In For You (feat. KU\u010cKA)",
+        "url": "https://open.spotify.com/album/1VCXiq1FH0cpjhMnSwueEK"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174566,
+      "name": "All In For You (feat. KU\u010cKA)",
+      "url": "https://open.spotify.com/track/7dnWj4jcFqGbRhc3eyr66W"
     },
     {
       "album": {
@@ -1769,6 +1827,32 @@
     },
     {
       "album": {
+        "name": "Canada",
+        "url": "https://open.spotify.com/album/6cGzQRiqEMZlOYNCP6PZHF"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        },
+        {
+          "name": "Placid Angles",
+          "url": "https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX"
+        },
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368256,
+      "name": "I Want What I Want",
+      "url": "https://open.spotify.com/track/5hfkmxZw91AozPpqAQX7fU"
+    },
+    {
+      "album": {
         "name": "You've Got the Whole Night to Go",
         "url": "https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC"
       },
@@ -2092,6 +2176,28 @@
       "duration_ms": 235010,
       "name": "Je disparais dans tes bras",
       "url": "https://open.spotify.com/track/2P96XdauZc5DlJFtlFT9Rt"
+    },
+    {
+      "album": {
+        "name": "Jersey (feat. Jam City)",
+        "url": "https://open.spotify.com/album/22bOXYUzbfAiHKDCJBGR0h"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210028,
+      "name": "Jersey (feat. Jam City)",
+      "url": "https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk"
     },
     {
       "album": {
@@ -2690,6 +2796,28 @@
       "duration_ms": 261976,
       "name": "No Idea - Logic1000 Remix",
       "url": "https://open.spotify.com/track/58vwxcHhtRKaAxDW6zYmKs"
+    },
+    {
+      "album": {
+        "name": "Dancin' In The Streets",
+        "url": "https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ"
+      },
+      "artists": [
+        {
+          "name": "Rat Heart",
+          "url": "https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e"
+        },
+        {
+          "name": "Cansu Kandemir",
+          "url": "https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369424,
+      "name": "NOT 2NITE (feat. Cansu Kandemir)",
+      "url": "https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ"
     },
     {
       "album": {
@@ -3370,6 +3498,24 @@
       "duration_ms": 379338,
       "name": "Starlight - Original Mix",
       "url": "https://open.spotify.com/track/7pwA0lkUxRVUmwp8BzZsAZ"
+    },
+    {
+      "album": {
+        "name": "Beaming Backwards",
+        "url": "https://open.spotify.com/album/5RafyMFBkkEZNM3gT1Mbit"
+      },
+      "artists": [
+        {
+          "name": "ddwy",
+          "url": "https://open.spotify.com/artist/2WrVgrATbqKvkO3VmPSiy9"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279720,
+      "name": "Stars Stars",
+      "url": "https://open.spotify.com/track/4MiVbbcugKMIk59u1wGHjT"
     },
     {
       "album": {
@@ -4488,6 +4634,24 @@
       "duration_ms": 352291,
       "name": "Xtasis - Pearson Sound Remix",
       "url": "https://open.spotify.com/track/5wBZjeRGMoyyTKnD2N3OyX"
+    },
+    {
+      "album": {
+        "name": "gg",
+        "url": "https://open.spotify.com/album/5lkTaJcxmXyMiAi4CMnmtE"
+      },
+      "artists": [
+        {
+          "name": "Ian Mills",
+          "url": "https://open.spotify.com/artist/4kLuil1ftiACLXtfjYoXmb"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140892,
+      "name": "yayarave",
+      "url": "https://open.spotify.com/track/2M3BqUgugwIl1QBGfN3jEa"
     },
     {
       "album": {

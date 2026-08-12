@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: TOM LECHEF",
-  "num_followers": 106979,
+  "num_followers": 106995,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPPqUuQ9sv2bCLiTxepMKlcBZrTj",
+  "snapshot_id": "AAAAAKtM6P26xjQzzYEInyR3niaoFkns",
   "tracks": [
     {
       "added_at": "2026-08-07 00:00:28",
@@ -779,38 +779,18 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "90S",
-        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
+        "name": "Cura\u00e7ao Blue",
+        "url": "https://open.spotify.com/album/5col3FZw0PX9Kcjrkp7UzR"
       },
       "artists": [
         {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
         }
       ],
-      "duration_ms": 196911,
-      "name": "90S",
-      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
+      "duration_ms": 185142,
+      "name": "Cura\u00e7ao Blue",
+      "url": "https://open.spotify.com/track/5e45o43SZT4j9JGCWmzY8j"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -831,18 +811,38 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "Cura\u00e7ao Blue",
-        "url": "https://open.spotify.com/album/5col3FZw0PX9Kcjrkp7UzR"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm"
       },
       "artists": [
         {
-          "name": "Drinks On Me",
-          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Cura\u00e7ao Blue",
-      "url": "https://open.spotify.com/track/5e45o43SZT4j9JGCWmzY8j"
+      "duration_ms": 194782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "90S",
+        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 196911,
+      "name": "90S",
+      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4bSmJOf87mSPM7WzPmOGEO"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        },
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        }
-      ],
-      "duration_ms": 210225,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/2j8x2hs47Lh6HYptG85ihf"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
         "name": "Fino",
         "url": "https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 160285,
       "name": "Fino",
       "url": "https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4bSmJOf87mSPM7WzPmOGEO"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        },
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        }
+      ],
+      "duration_ms": 210225,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2j8x2hs47Lh6HYptG85ihf"
     },
     {
       "added_at": "2026-08-07 00:00:28",

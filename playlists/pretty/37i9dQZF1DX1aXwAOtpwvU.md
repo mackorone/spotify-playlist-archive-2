@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. Cover:  <a href="spotify:artist:3IQIVYEmRr7wZnEqpSjfV5">Zaleś</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,401 likes - 117 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,407 likes - 117 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 116 | [jest ok](https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [xoxo](https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf) | 1:20 |
 | 117 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `AAAAAO5MZ/AAXg7XxskuOaNK4iR0UUMQ`
+Snapshot ID: `AAAAAOJea9dGtcXWJ/Skq2oiNskhB+wP`

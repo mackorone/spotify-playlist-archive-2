@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,489 songs - 5 day 12 hr 42 min
+2,490 songs - 5 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,7 +599,7 @@
 | [DJ](https://open.spotify.com/track/5UzMBhyklGE8ORRmhhNOBD) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [DJ](https://open.spotify.com/album/6JPC4BxmhOmvzjFOgAvgIZ) | 2:00 | 2025-04-04 | 2025-04-26 |
 | [Do Better!](https://open.spotify.com/track/4KOwPIWG9z9gNgpWv2AYi2) | [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [All My Little Scars, Vol\. 3](https://open.spotify.com/album/0h6GvNvK38uE2opQoixF51) | 3:00 | 2020-10-13\* | 2020-11-20 |
 | [DO IT AGAIN \- Official Song of the FIFA Women’s World Cup 2023™](https://open.spotify.com/track/4OfRg5ofn3dNRFihXb0o7j) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [DO IT AGAIN \(Official Song of the FIFA Women’s World Cup 2023™\)](https://open.spotify.com/album/0ukxOYC2R59uzfIh3cDnub) | 2:56 | 2023-06-30 | 2024-01-13 |
-| [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 | 2026-02-03 |  |
+| [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 | 2026-02-03 | 2026-08-12 |
 | [Do You Ever?](https://open.spotify.com/track/28z5NTRP3n4O0zkZ5WY2sZ) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Do You Ever?](https://open.spotify.com/album/4D7z82Wsbd3yynOjO7XHtd) | 2:30 | 2020-10-20 | 2020-10-21 |
 | [Do you miss me at all](https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf) | [Bedelia](https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz) | [Never change, love you always](https://open.spotify.com/album/4Zdz41nIVoVftrPWRVwIWW) | 3:24 | 2026-03-06 | 2026-06-06 |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-20 |  |
@@ -969,6 +969,7 @@
 | [hiccup](https://open.spotify.com/track/1NfqGbaWcZLor12cITE5Fv) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 2:44 | 2022-06-17 | 2022-12-22 |
 | [hiccup](https://open.spotify.com/track/5C0fWU1j3pa4vvAZuYyisq) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [hiccup](https://open.spotify.com/album/4rdbtDrZ8ldJQePGGEL437) | 2:44 | 2020-10-20 | 2022-07-29 |
 | [High & Dry](https://open.spotify.com/track/2dshq5IQadiQHpuLArNZUR) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [High & Dry](https://open.spotify.com/album/7AGL9D3dIIopXcHYBdXDXu) | 2:50 | 2021-09-24 | 2022-04-16 |
+| [High Hopes 3000](https://open.spotify.com/track/69wt3kOH6ZtogwiLGOt394) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/6FFIUdRFaJW6cr2ZaD40hZ) | 4:05 | 2026-08-11 |  |
 | [High School](https://open.spotify.com/track/6lMSPe1s87AMLpulkYXQZv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [High School](https://open.spotify.com/album/5vLQPxkoNqwtVQTvZQMPwe) | 3:24 | 2020-10-20 | 2021-10-16 |
 | [high school](https://open.spotify.com/track/6KYSdsBXxbURZfIht3mES7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [high school](https://open.spotify.com/album/25JmjDGyF3OClQOO7TZtAY) | 2:25 | 2021-09-10 | 2022-04-09 |
 | [High School](https://open.spotify.com/track/18WbWMRXGmW2GFaTm5MMe2) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [High School](https://open.spotify.com/album/2ClKWz9V3rnLSlksV9JEXe) | 3:00 | 2021-12-03 | 2022-04-16 |

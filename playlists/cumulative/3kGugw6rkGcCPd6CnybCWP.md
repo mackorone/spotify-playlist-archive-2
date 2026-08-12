@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-473 songs - 1 day 3 hr 27 min
+474 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 | 2026-02-01 | 2026-03-10 |
 | [Over My Head](https://open.spotify.com/track/4clPHM4vzSpKU7nwqgz0LC) | [Aura Davis](https://open.spotify.com/artist/7phDlcL0THknSVzXipd3Vf) | [Over My Head](https://open.spotify.com/album/1V8aRGKGIbyTJ17ylo1fzT) | 2:39 | 2026-03-09 | 2026-04-16 |
 | [Over The Hills](https://open.spotify.com/track/383cNRaP2hFzlgi0i6WeDd) | [My Music Dream](https://open.spotify.com/artist/1bRUw1X8QpKUoU41X6BXiY) | [Over The Hills](https://open.spotify.com/album/755YVlJM0u1Qmpw1BN59q4) | 4:17 | 2026-07-25 |  |
+| [Painted](https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Painted](https://open.spotify.com/album/1VIkQ3jdOIyFvqbMXmFNFO) | 3:05 | 2026-08-11 |  |
 | [Patriarchy’s Dead](https://open.spotify.com/track/01L6rxptIyVvYm6epPJ00m) | [Kate Couriel](https://open.spotify.com/artist/30i6UykrCFZQaAkolPjuU2) | [Patriarchy’s Dead](https://open.spotify.com/album/0CVAz8jYZE5KSVmprWNOeB) | 2:12 | 2026-04-15 | 2026-05-28 |
 | [Phone Addiction](https://open.spotify.com/track/20lqNTuwAQPf2IQMBi4KYa) | [The Nouveau](https://open.spotify.com/artist/1ltzwAbvKdW4KhvTHmEvf4) | [Phone Addiction](https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf) | 2:30 | 2025-11-13 | 2026-01-17 |
 | [Pile of Bones](https://open.spotify.com/track/1JboFup5hJlYNQpIYcU0pT) | [P.C.](https://open.spotify.com/artist/2pMrbH005rKkGgWRL0hdyv), [crelboyne](https://open.spotify.com/artist/1fzhppEm4RORjFHUqnRAG2), [Purple Eclipse](https://open.spotify.com/artist/00RZDhxW56ZVMDWiCmFeaI) | [Machine Love/Pile of Bones](https://open.spotify.com/album/4vG4HUjGChuixBO8GGSN3e) | 3:26 | 2026-07-01 |  |

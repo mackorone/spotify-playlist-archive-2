@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,930 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,975 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 69 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
 | 70 | [What Do You Want From Me?](https://open.spotify.com/track/3H097K41pskob32JipdXzK) | [Monaco](https://open.spotify.com/artist/0N3oP3Si8ihzFUrU6kITZ8) | [Music For Pleasure](https://open.spotify.com/album/7gScKKGyOuQioKGEyEJtMR) | 4:08 |
 
-Snapshot ID: `AAAAAJL3ZX4+/V49wDPh6ZormX8uT+6H`
+Snapshot ID: `AAAAAHD5dvnFsMhu8A99n+PhQVmuu4jQ`

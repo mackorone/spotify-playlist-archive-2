@@ -1,12 +1,12 @@
 {
   "description": "for the late nights",
-  "num_followers": 20926,
+  "num_followers": 20925,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIFLmnaALyQrhk4B9TUjk3KGph3L",
+  "snapshot_id": "AAAAAEIjJoSsrJWTcVa3THlCCWHz+6Dg",
   "tracks": [
     {
       "added_at": "2025-08-07 15:52:15",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Ugh",
-        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Half Full",
-      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "overcast.",
         "url": "https://open.spotify.com/album/3tmyZ0mfZnt0PcppHQZtnN"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 208995,
       "name": "with u.",
       "url": "https://open.spotify.com/track/1Ny8RoE9nPqyM3xfMjwR81"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Ugh",
+        "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Half Full",
+      "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Further Out Than The Edge",
         "url": "https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "West End",
         "url": "https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa"
       },
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Will Smith",
+        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "Will Smith",
+      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 151000,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Will Smith",
-        "url": "https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV"
-      },
-      "artists": [
-        {
-          "name": "BEASTIE",
-          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "Will Smith",
-      "url": "https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Now That I Know You",
-        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Now That I Know You",
-      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "give it to me",
         "url": "https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 165148,
       "name": "give it to me",
       "url": "https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Now That I Know You",
+      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Helicopter",
-        "url": "https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX"
-      },
-      "artists": [
-        {
-          "name": "Ruby Francis",
-          "url": "https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U"
-        }
-      ],
-      "duration_ms": 162565,
-      "name": "Helicopter",
-      "url": "https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Truth and Desire",
         "url": "https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 227200,
       "name": "Truth and Desire",
       "url": "https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Helicopter",
+        "url": "https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX"
+      },
+      "artists": [
+        {
+          "name": "Ruby Francis",
+          "url": "https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U"
+        }
+      ],
+      "duration_ms": 162565,
+      "name": "Helicopter",
+      "url": "https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD"
-      },
-      "artists": [
-        {
-          "name": "71A",
-          "url": "https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb"
-        }
-      ],
-      "duration_ms": 218924,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/2k3VfLxrSUfDh5dgv7UWlA"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 160062,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/666HGPJuRGRcoAQk77yPBo"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD"
+      },
+      "artists": [
+        {
+          "name": "71A",
+          "url": "https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb"
+        }
+      ],
+      "duration_ms": 218924,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
     },
     {
       "added_at": "2025-08-07 15:52:15",

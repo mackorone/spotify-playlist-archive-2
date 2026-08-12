@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 725744,
+  "num_followers": 725680,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjfV4ar6IRRkNgc9cDIWEj7Ha5f",
+  "snapshot_id": "AAAAAKZ7a5S8Wb9j61EQRzn53eYRevQc",
   "tracks": [
     {
       "added_at": "2026-07-02 23:00:04",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-07-02 23:00:04",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
-      },
-      "artists": [
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        },
-        {
-          "name": "Slay",
-          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
-        }
-      ],
-      "duration_ms": 135796,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
-    },
-    {
-      "added_at": "2026-07-02 23:00:04",
-      "album": {
         "name": "My Head Is A Jungle (MK Remix / Radio Edit)",
         "url": "https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 205161,
       "name": "My Head Is A Jungle - MK Remix / Radio Edit",
       "url": "https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB"
+    },
+    {
+      "added_at": "2026-07-02 23:00:04",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Slay",
+          "url": "https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M"
+        }
+      ],
+      "duration_ms": 135796,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
     },
     {
       "added_at": "2026-07-02 23:00:04",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-07-02 23:00:04",
       "album": {
-        "name": "Never Be Lonely",
-        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 134570,
-      "name": "Never Be Lonely",
-      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
-    },
-    {
-      "added_at": "2026-07-02 23:00:04",
-      "album": {
         "name": "I Loved You (feat. Melissa Steel)",
         "url": "https://open.spotify.com/album/0Fuq38dhyTw57Kyq2ctmxN"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 184704,
       "name": "I Loved You (feat. Melissa Steel)",
       "url": "https://open.spotify.com/track/3yh9WHZs15IKNBXYaFAZH5"
+    },
+    {
+      "added_at": "2026-07-02 23:00:04",
+      "album": {
+        "name": "Never Be Lonely",
+        "url": "https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 134570,
+      "name": "Never Be Lonely",
+      "url": "https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj"
     },
     {
       "added_at": "2026-07-02 23:00:04",

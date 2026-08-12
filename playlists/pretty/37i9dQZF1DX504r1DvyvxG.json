@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2637886,
+  "num_followers": 2637894,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1JJOBOQCZsrN4Kp3DE+Fktyu80",
+  "snapshot_id": "AAAAAPHKw6x9zGbcgDQgsDwx9ZkbO4lf",
   "tracks": [
     {
       "added_at": "2026-01-26 17:08:09",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "The Last Of The True Believers",
-        "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Love At The Five & Dime",
-      "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Dublin Blues",
         "url": "https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 259120,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "The Last Of The True Believers",
+        "url": "https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Love At The Five & Dime",
+      "url": "https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Music For The Motion Picture Into The Wild",
         "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 321760,
       "name": "Hard Sun",
       "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2026-01-26 17:08:09",

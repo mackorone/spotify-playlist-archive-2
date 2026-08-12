@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6DrGMb0BWJ.md) - [plain]
 | 41 | [Asphalt Moon](https://open.spotify.com/track/6H4VWbzspvXO5FZOHKXsDB) | [塩谷 哲](https://open.spotify.com/artist/2Wgh7SiqtxsVRz09qJMbNT) | [City Hunter Sound Collection Y \-Insertion Tracks](https://open.spotify.com/album/5Zi3v33Fur1DVPCp0kcEGm) | 4:05 |
 | 42 | [MAGNUM fire](https://open.spotify.com/track/6nyU7tAj3QlWG6c89gnFao) | [SEX MACHINEGUNS](https://open.spotify.com/artist/7ryhULNX7RLDr2sAwJa2wO) | [MADE IN JAPAN](https://open.spotify.com/album/3u7YaXuTONaHrgDZPFGdwv) | 6:01 |
 
-Snapshot ID: `AAAAAItU2/YL4Pls0I/RVuEYYoaKkAM8`
+Snapshot ID: `AAAAAOxzdqa5XwuCmBmwXJt3BGPIWI+R`

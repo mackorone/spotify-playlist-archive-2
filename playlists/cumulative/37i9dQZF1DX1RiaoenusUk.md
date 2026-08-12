@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-174 songs - 11 hr 12 min
+175 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Afromama Jams](https://open.spotify.com/track/1tf8i6ceZQkUSi5LhNXG2q) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [Low97](https://open.spotify.com/artist/2y0suU2ggVXoogAbliPZD7) | [Afromama Jams](https://open.spotify.com/album/5eLwYeM4bFzNhPiIPC4FiC) | 3:03 | 2023-02-17 |  |
 | [Agitando](https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd) | [Halks](https://open.spotify.com/artist/1ppSnWLPr4wR5aPoMh1aTo), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [El Reino](https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m) | 3:35 | 2023-12-08 | 2026-08-11 |
 | [Ahora](https://open.spotify.com/track/5fJf0XNVVyCXZDkkIhTkfI) | [Florencia Andrada](https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2) | [A Pesar de la Tormenta](https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW) | 2:55 | 2023-02-17 | 2024-04-19 |
+| [AHÍ VIENE LA MIEL](https://open.spotify.com/track/3KDa3dYhVsQY7NRd0fOpKD) | [Só](https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38) | [AHÍ VIENE LA MIEL](https://open.spotify.com/album/5SREVdMCXgDFk0aDIW1Ld8) | 3:50 | 2026-08-11 |  |
 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 | 2023-02-17 | 2025-10-25 |
 | [Al Otro Lado](https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR) | [Milhojas](https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb) | [Inmunidad](https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG) | 3:31 | 2023-12-08 | 2025-05-31 |
 | [Alergica](https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:56 | 2023-02-17 |  |
@@ -109,7 +110,7 @@
 | [Maravilla](https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5) | [Los Jureles](https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC) | [Maravilla](https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx) | 4:00 | 2023-10-06 | 2023-12-31 |
 | [Maybe I'm Leo](https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 6:18 | 2023-02-17 |  |
 | [Me Bajo en San Isidro](https://open.spotify.com/track/6zwgZybE3JhWNNDMdHjwBv) | [La Kimbo](https://open.spotify.com/artist/0XEZdz1rJKvQn1ud88fxLm) | [Parasacalapava](https://open.spotify.com/album/2ofVWC4usDLxz8hvDuX8hZ) | 2:40 | 2024-03-29 | 2024-09-14 |
-| [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 | 2023-02-17 |  |
+| [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 | 2023-02-17 | 2026-08-12 |
 | [Mi Propio Paraíso](https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc) | [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp), [Nico Cota](https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR) | [Peluche Peligroso](https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn) | 4:26 | 2023-02-17 |  |
 | [Mia Mia](https://open.spotify.com/track/02SIubR3tBpcxUa3jp4NX7) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [DÍA 3](https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ) | 4:00 | 2026-02-27 |  |
 | [Miro donde miro](https://open.spotify.com/track/5f1p28relsH2D16FT3qXpQ) | [Lautaro Veppo](https://open.spotify.com/artist/39nFQtYZlQlxsPJBHZyHmB), [jjjulián](https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE), [Evan Bitz](https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt) | [Miro donde miro](https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps) | 2:55 | 2025-06-13 |  |

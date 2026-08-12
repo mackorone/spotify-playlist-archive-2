@@ -1,12 +1,12 @@
 {
   "description": "Tristeza latina ",
-  "num_followers": 39177,
+  "num_followers": 39180,
   "original_name": "Emo En Tu Idioma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFpXXlYf72tOvYUC22oMCrKGSZo3",
+  "snapshot_id": "AAAAAGPJWXOdF2voBnJzVPBd+KrD6lIH",
   "tracks": [
     {
       "added_at": "2026-08-07 06:00:46",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-08-07 06:00:46",
       "album": {
-        "name": "Cortacalles",
-        "url": "https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM"
-      },
-      "artists": [
-        {
-          "name": "Tenemos Explosivos",
-          "url": "https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS"
-        }
-      ],
-      "duration_ms": 275410,
-      "name": "San Borja",
-      "url": "https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9"
-    },
-    {
-      "added_at": "2026-08-07 06:00:46",
-      "album": {
         "name": "Lomas Verdes",
         "url": "https://open.spotify.com/album/5RKUyelUpA0DsHZLM4Y8bn"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 205749,
       "name": "Como en el 'Crechendo'",
       "url": "https://open.spotify.com/track/6KTjo4RmDk3J0mxsrdLw5F"
+    },
+    {
+      "added_at": "2026-08-07 06:00:46",
+      "album": {
+        "name": "Cortacalles",
+        "url": "https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM"
+      },
+      "artists": [
+        {
+          "name": "Tenemos Explosivos",
+          "url": "https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS"
+        }
+      ],
+      "duration_ms": 275410,
+      "name": "San Borja",
+      "url": "https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9"
     },
     {
       "added_at": "2026-08-07 06:00:46",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-08-07 06:00:46",
       "album": {
+        "name": "S / T",
+        "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
+      },
+      "artists": [
+        {
+          "name": "recuerdo acariciar con miedo las alas de un ave herida",
+          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Mata a Tus \u00cddolos",
+      "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
+    },
+    {
+      "added_at": "2026-08-07 06:00:46",
+      "album": {
         "name": "respirar en cuadro",
         "url": "https://open.spotify.com/album/3W7FUcuUTFobQkH3T8Dl5j"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2026-08-07 06:00:46",
       "album": {
-        "name": "S / T",
-        "url": "https://open.spotify.com/album/6S6Q0edwnbjdImKoXgkoVB"
+        "name": "Otro Verano Campe\u00f3n",
+        "url": "https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt"
       },
       "artists": [
         {
-          "name": "recuerdo acariciar con miedo las alas de un ave herida",
-          "url": "https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu"
+          "name": "Mantarrayas",
+          "url": "https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1"
         }
       ],
-      "duration_ms": 108000,
-      "name": "Mata a Tus \u00cddolos",
-      "url": "https://open.spotify.com/track/4dDCXjTjgKkCVOjjl3ii3D"
+      "duration_ms": 186136,
+      "name": "Otro Verano Campe\u00f3n",
+      "url": "https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX"
     },
     {
       "added_at": "2026-08-07 06:00:46",
@@ -499,18 +515,18 @@
     {
       "added_at": "2026-08-07 06:00:46",
       "album": {
-        "name": "Otro Verano Campe\u00f3n",
-        "url": "https://open.spotify.com/album/4bKaJz4t3GkWjC6s2fOpBt"
+        "name": "Omelette Du Fromage",
+        "url": "https://open.spotify.com/album/2PbgzSvLi7z46n6WKiL4kK"
       },
       "artists": [
         {
-          "name": "Mantarrayas",
-          "url": "https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1"
+          "name": "Corriendo",
+          "url": "https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w"
         }
       ],
-      "duration_ms": 186136,
-      "name": "Otro Verano Campe\u00f3n",
-      "url": "https://open.spotify.com/track/7A1SZwl3Mu3bHsLZS8TAKX"
+      "duration_ms": 150090,
+      "name": "Par\u00e1lisis del Sue\u00f1o",
+      "url": "https://open.spotify.com/track/3OgIhXydbvv8KV6lpyT3gx"
     },
     {
       "added_at": "2026-08-07 06:00:46",
@@ -527,22 +543,6 @@
       "duration_ms": 234000,
       "name": "El Club Internacional de Astronautas Fracasados",
       "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
-    },
-    {
-      "added_at": "2026-08-07 06:00:46",
-      "album": {
-        "name": "Omelette Du Fromage",
-        "url": "https://open.spotify.com/album/2PbgzSvLi7z46n6WKiL4kK"
-      },
-      "artists": [
-        {
-          "name": "Corriendo",
-          "url": "https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w"
-        }
-      ],
-      "duration_ms": 150090,
-      "name": "Par\u00e1lisis del Sue\u00f1o",
-      "url": "https://open.spotify.com/track/3OgIhXydbvv8KV6lpyT3gx"
     },
     {
       "added_at": "2026-08-07 06:00:46",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-08-07 06:00:46",
       "album": {
-        "name": "Est\u00e1 Nublado y Tengo Calor",
-        "url": "https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ"
-      },
-      "artists": [
-        {
-          "name": "Sad Saturno",
-          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
-        }
-      ],
-      "duration_ms": 185693,
-      "name": "Est\u00e1 Nublado y Tengo Calor",
-      "url": "https://open.spotify.com/track/788chCGIQr4PgMByHndKyH"
-    },
-    {
-      "added_at": "2026-08-07 06:00:46",
-      "album": {
         "name": "El Split de Buh & Millones de Colores",
         "url": "https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 54360,
       "name": "M\u00edr\u00e1me",
       "url": "https://open.spotify.com/track/59vdxakMPGSDidajykh9sa"
+    },
+    {
+      "added_at": "2026-08-07 06:00:46",
+      "album": {
+        "name": "Est\u00e1 Nublado y Tengo Calor",
+        "url": "https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ"
+      },
+      "artists": [
+        {
+          "name": "Sad Saturno",
+          "url": "https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d"
+        }
+      ],
+      "duration_ms": 185693,
+      "name": "Est\u00e1 Nublado y Tengo Calor",
+      "url": "https://open.spotify.com/track/788chCGIQr4PgMByHndKyH"
     },
     {
       "added_at": "2026-08-07 06:00:46",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-08-07 06:00:46",
       "album": {
+        "name": "Tornado de Acu\u00f1a",
+        "url": "https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK"
+      },
+      "artists": [
+        {
+          "name": "Mantarrayas",
+          "url": "https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1"
+        }
+      ],
+      "duration_ms": 162272,
+      "name": "Tornado de Acu\u00f1a",
+      "url": "https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy"
+    },
+    {
+      "added_at": "2026-08-07 06:00:46",
+      "album": {
         "name": "Todo el Silencio",
         "url": "https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 202720,
       "name": "Comenzar De Cero",
       "url": "https://open.spotify.com/track/6nzIedKdHdAiz8iZa5fHU5"
-    },
-    {
-      "added_at": "2026-08-07 06:00:46",
-      "album": {
-        "name": "Tornado de Acu\u00f1a",
-        "url": "https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK"
-      },
-      "artists": [
-        {
-          "name": "Mantarrayas",
-          "url": "https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1"
-        }
-      ],
-      "duration_ms": 162272,
-      "name": "Tornado de Acu\u00f1a",
-      "url": "https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy"
     },
     {
       "added_at": "2026-08-07 06:00:46",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-08-07 06:00:46",
       "album": {
-        "name": "Marinero",
-        "url": "https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n"
-      },
-      "artists": [
-        {
-          "name": "Veritas",
-          "url": "https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP"
-        }
-      ],
-      "duration_ms": 323337,
-      "name": "No nos van a callar",
-      "url": "https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA"
-    },
-    {
-      "added_at": "2026-08-07 06:00:46",
-      "album": {
         "name": "Todo Lo Que Siempre Quise Decirte",
         "url": "https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 153500,
       "name": "\u00bfD\u00f3nde Est\u00e1s?",
       "url": "https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p"
+    },
+    {
+      "added_at": "2026-08-07 06:00:46",
+      "album": {
+        "name": "Marinero",
+        "url": "https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n"
+      },
+      "artists": [
+        {
+          "name": "Veritas",
+          "url": "https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP"
+        }
+      ],
+      "duration_ms": 323337,
+      "name": "No nos van a callar",
+      "url": "https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA"
     },
     {
       "added_at": "2026-08-07 06:00:46",

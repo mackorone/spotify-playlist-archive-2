@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 384357,
+  "num_followers": 384423,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADBqruroxugVzCO4ftghgLlK/Clz",
+  "snapshot_id": "AAAAALhJRB7OanzZEv2ihTMLL/TO2K8G",
   "tracks": [
     {
       "added_at": "2026-08-10 15:32:09",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
+      },
+      "artists": [
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        }
+      ],
+      "duration_ms": 277692,
+      "name": "Me Deixe Aqui",
+      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12"
-      },
-      "artists": [
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        }
-      ],
-      "duration_ms": 277692,
-      "name": "Me Deixe Aqui",
-      "url": "https://open.spotify.com/track/31j38rRemGuqA4z83EQduw"
     },
     {
       "added_at": "2026-08-10 15:32:09",
@@ -743,26 +743,6 @@
     {
       "added_at": "2026-08-10 15:32:09",
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui"
-      },
-      "artists": [
-        {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
-        },
-        {
-          "name": "UVULUC",
-          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
-        }
-      ],
-      "duration_ms": 227253,
-      "name": "Escape - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK"
-    },
-    {
-      "added_at": "2026-08-10 15:32:09",
-      "album": {
         "name": "Estou Com Voc\u00ea (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 285000,
       "name": "Estou Com Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX"
+    },
+    {
+      "added_at": "2026-08-10 15:32:09",
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/63SgNZhriYWjvXiCIH9fui"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "UVULUC",
+          "url": "https://open.spotify.com/artist/3oYJ0RiHUZRQChkRErZW16"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "Escape - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2muJIyYeYKUv0cAQvoPKWK"
     },
     {
       "added_at": "2026-08-10 15:32:09",

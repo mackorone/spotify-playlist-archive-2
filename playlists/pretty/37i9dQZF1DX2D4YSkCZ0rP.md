@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Victor Aupecle
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,843 likes - 39 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,848 likes - 39 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 38 | [Pleure encore pour moi](https://open.spotify.com/track/3HAXuuDkSDDjUnCbLniGzs) | [Marius](https://open.spotify.com/artist/2ovkVhnrSdDvpIvsVWgnMP) | [Pleure encore pour moi](https://open.spotify.com/album/1jyIyg8kAFHoLtAhiWVAuM) | 3:23 |
 | 39 | [Behind A Tree](https://open.spotify.com/track/5xy6evgWUZ5nnAI9Ox6y1A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Behind A Tree](https://open.spotify.com/album/35WEBguCyLhFI1czWxmSPn) | 4:46 |
 
-Snapshot ID: `AAAAAKG1S8UOTXV/74sK48DNShWqmyyG`
+Snapshot ID: `AAAAAGN9Wya0pXIPXV3cLnVRBcHlxK8A`

@@ -4,7 +4,7 @@
 
 > This is Jão\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 11 min
+60 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [Escorpião](https://open.spotify.com/track/4UStL1GSBg8uThwygAz7Ao) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:28 | 2023-10-10 |  |
 | [Essa Eu Fiz Pro Nosso Amor](https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:14 | 2023-10-10 |  |
 | [Eu Quero Ser Como Você](https://open.spotify.com/track/3XbqMexOs4oiE9n6ATZ35K) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:09 | 2024-05-12 |  |
+| [Eu Sempre Volto](https://open.spotify.com/track/2jGD8X5FhO9PJvJhYw9jSs) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 4:24 | 2026-08-12 |  |
 | [Fim Do Mundo](https://open.spotify.com/track/3HN4PPMtJP0dEXqxvQgvJG) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS \(Deluxe\)](https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n) | 3:46 | 2023-10-10 |  |
 | [fugitivos :\)](https://open.spotify.com/track/0aV9qW7X0msAci4ATkKgBk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:26 | 2023-12-19 | 2024-10-05 |
 | [fugitivos :\)](https://open.spotify.com/track/7pR26BEmHIqKzHxeJvhth6) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [fugitivos :\)](https://open.spotify.com/album/3KQJDIJ0CzU7hHqlwEFglu) | 3:26 | 2023-10-10 | 2023-12-14 |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2023-10-10 |  |
 | [Imaturo](https://open.spotify.com/track/0S86atec73KKaexn67JsDy) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 2:58 | 2023-10-10 |  |
-| [Jabuticabeira](https://open.spotify.com/track/3HBIHTgDPLk0qKa4qTqeEl) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:15 | 2026-07-29 |  |
+| [Jabuticabeira](https://open.spotify.com/track/3HBIHTgDPLk0qKa4qTqeEl) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:15 | 2026-07-29 | 2026-08-12 |
 | [João](https://open.spotify.com/track/521WMbpYlYCaARdbsk3XQl) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 2:31 | 2026-07-29 | 2026-07-31 |
 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 | 2023-10-10 |  |
 | [Lindo Demais](https://open.spotify.com/track/2703CNb2od5iv56bRo2Y3h) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [LOBOS](https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq) | 3:00 | 2023-10-10 | 2024-02-24 |

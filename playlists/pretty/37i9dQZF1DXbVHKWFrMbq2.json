@@ -1,12 +1,12 @@
 {
   "description": "canciones para chillear con Mar Marzo",
-  "num_followers": 29027,
+  "num_followers": 29026,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMqz6VysQ48WT/lhJzXxM4Q1CsUT",
+  "snapshot_id": "AAAAAEWW69xPYzwKiIIth0ZwQmLewRe8",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:08",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "EL MENSAJERO",
-        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
-      },
-      "artists": [
-        {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        },
-        {
-          "name": "Cocodrilo P&B",
-          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "EL MENSAJERO",
-      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/6coawkjwmsVSZLNWonYWB7"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 177222,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/5Deh5Zvh6IOkIpbqgXc7fX"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "EL MENSAJERO",
+        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        },
+        {
+          "name": "Cocodrilo P&B",
+          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "EL MENSAJERO",
+      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "mil veces mas",
         "url": "https://open.spotify.com/album/2HfOkfxmNSbTFG0huGbTR9"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 141250,
       "name": "mil veces mas",
       "url": "https://open.spotify.com/track/0Cs5I3C3Ob7ig7voahUUzO"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "+ de cerquita",
+        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "c\u00e1bala (+ de cerquita)",
+      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "+ de cerquita",
-        "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "c\u00e1bala (+ de cerquita)",
-      "url": "https://open.spotify.com/track/22JUUpnbJczTereZi21oBL"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "No hay nadie como t\u00fa",
+        "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 185138,
+      "name": "No hay nadie como t\u00fa",
+      "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "As\u00ed Es el Calor",
         "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "No hay nadie como t\u00fa",
-        "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 185138,
-      "name": "No hay nadie como t\u00fa",
-      "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Te Lo Voy a Decir",
         "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 246613,
       "name": "Te Lo Voy a Decir",
       "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
+        "url": "https://open.spotify.com/album/1o7fxc0nuxicIlma17FH2K"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
+      "url": "https://open.spotify.com/track/6MBgZ2TlqyZkoIHpukgapb"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1307,38 +1323,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
-        "url": "https://open.spotify.com/album/1o7fxc0nuxicIlma17FH2K"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
-      "url": "https://open.spotify.com/track/6MBgZ2TlqyZkoIHpukgapb"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 173206,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "TRANQUILO",
-        "url": "https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 240535,
-      "name": "TRANQUILO",
-      "url": "https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "a todo el mundo le pasa",
         "url": "https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 211000,
       "name": "a todo el mundo le pasa",
       "url": "https://open.spotify.com/track/5jIZnV4PdKZzA4RoEdrje3"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "TRANQUILO",
+        "url": "https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo"
+      },
+      "artists": [
+        {
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
+        }
+      ],
+      "duration_ms": 240535,
+      "name": "TRANQUILO",
+      "url": "https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1739,18 +1739,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8"
+        "name": "shut up",
+        "url": "https://open.spotify.com/album/3cu7eK8Qo7fV32SGE5fJtq"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "Esteza",
+          "url": "https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ"
+        },
+        {
+          "name": "Eezzy Hendrix",
+          "url": "https://open.spotify.com/artist/1Jg44RjTbh6vtAEtqPzxt6"
         }
       ],
-      "duration_ms": 226126,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM"
+      "duration_ms": 118518,
+      "name": "shut up",
+      "url": "https://open.spotify.com/track/0Im7QsuIw1G7ZU8u8wKBYZ"
     }
   ],
   "unique_name": "pop tranqui",

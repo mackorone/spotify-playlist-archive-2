@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 
 > Hit music from Ethiopia's finest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,913 likes - 55 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,928 likes - 55 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Q8vgP3md04.md) - [plain]
 | 54 | [Gerager](https://open.spotify.com/track/1JU3NgOVMalFQ64EDh8ljr) | [Zebiba Girma](https://open.spotify.com/artist/5Tu7xzkOlzjuxouXfUefHb) | [Gerager](https://open.spotify.com/album/5NpaDCWohCCTFJL4iWWtFa) | 4:13 |
 | 55 | [Ykomal Woy](https://open.spotify.com/track/3cREJgXBNWJUh86DXq8T1M) | [Nhatty Man](https://open.spotify.com/artist/12jbtksvQlpVBIFAoLVUQ1) | [Vol\. ፪](https://open.spotify.com/album/40lDyamtxaIJiruFsgBKqf) | 4:20 |
 
-Snapshot ID: `AAAAAOgYZvidcAOusDH0ebkV15FNkPPd`
+Snapshot ID: `AAAAANMpe+DWIJJtJxJp2U67I9M7rlyF`

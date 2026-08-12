@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: It\-Works
 
-1,741 songs - 3 day 7 hr 36 min
+1,742 songs - 3 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,7 +853,7 @@
 | [Look At Me Now](https://open.spotify.com/track/5LtdD0rWkrIwu9ZM5LfOth) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Look At Me Now](https://open.spotify.com/album/6yTpjoduwMMG09lfoy9zE0) | 2:31 | 2026-04-07 | 2026-06-24 |
 | [Looks like mother](https://open.spotify.com/track/7iue5DzuHVSqlJggl99TYz) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [RaVe](https://open.spotify.com/album/2Vm8vsLbny90a0LorH4jJX) | 1:51 | 2023-12-07 | 2023-12-14 |
 | [Loop](https://open.spotify.com/track/5iOymT2CgoCGgrpt5Do9Md) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [LOM](https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT), [虎伯](https://open.spotify.com/artist/2Q6R5qaWeKambLCy9XY7uj) | [O.B.S 9](https://open.spotify.com/album/1wQqKtaWHo8xAO1bxcZeAa) | 3:13 | 2024-06-11 | 2024-07-10 |
-| [loose](https://open.spotify.com/track/7DxADWPzkfFc2RFEVADHm7) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [loose](https://open.spotify.com/album/0yYijPaDndobUdzB1UWk9N) | 1:47 | 2026-07-28 |  |
+| [loose](https://open.spotify.com/track/7DxADWPzkfFc2RFEVADHm7) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [loose](https://open.spotify.com/album/0yYijPaDndobUdzB1UWk9N) | 1:47 | 2026-07-28 | 2026-08-12 |
 | [Lost Night](https://open.spotify.com/track/1dL40UUQtAksPt0aOTBggk) | [YELLASOMA](https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb) | [Lost Night](https://open.spotify.com/album/3U0lXpDvmE1MQ71DIAUIyh) | 2:33 | 2025-07-15 | 2025-08-13 |
 | [Lots of love](https://open.spotify.com/track/4ElDeTiqGbyr9pZTA2w3Wd) | [SZK](https://open.spotify.com/artist/4RPWTmkbkOnlNYNXNYltmy), [Touge](https://open.spotify.com/artist/09SYj6xrAoUv55lvO0K9IT) | [Ignition](https://open.spotify.com/album/0k7J3ezaAvfLTOFeekE8XB) | 1:51 | 2026-02-25 | 2026-04-22 |
 | [Lotus](https://open.spotify.com/track/7hlnOBb3lNrBMfScz1rPFR) | [B.I.G\. JOHN](https://open.spotify.com/artist/4SVn9Ac8FQ52jXaxWK9cEX) | [VARIOUS TAPE](https://open.spotify.com/album/6scau8PfKZuX284je50V3O) | 3:27 | 2024-10-17 | 2025-01-15 |
@@ -1355,6 +1355,7 @@
 | [Step My Game Up \(feat\. Sadajyo\)](https://open.spotify.com/track/3hZuFGWsaFXxDYQLLCiE7L) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Gradis Nice](https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc), [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L) | [Day'N'Nite 2](https://open.spotify.com/album/4S8rLJZa2GAFA5OrTZy2sw) | 3:09 | 2024-10-23 | 2025-01-15 |
 | [Step To Step \(feat\. KID PENSEUR\)](https://open.spotify.com/track/0Dy75HAaOZoA7yrtdXpR8G) | [STICKY BUDS](https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J), [KID PENSEUR](https://open.spotify.com/artist/68ea2WqkkypaKoakuoNbbl) | [Grind n Hustle](https://open.spotify.com/album/41ZY5Hkm0QC8HyLsjB4qcx) | 3:04 | 2025-11-05 | 2026-01-28 |
 | [Still Fly](https://open.spotify.com/track/19r9afNN7X9t5UbZHDnuQ1) | [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [Still Fly](https://open.spotify.com/album/55nDfsFusGk7UgRH7Un9zx) | 3:32 | 2024-04-24 | 2024-06-19 |
+| [Still loading](https://open.spotify.com/track/5aZrPIsqiFyEquMM9I9rK0) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Still loading](https://open.spotify.com/album/53pynlfnbI9QWZQMVb8Sb8) | 2:03 | 2026-08-11 |  |
 | [Still Move](https://open.spotify.com/track/6npl5S7rnfH4zOG4RFre1Z) | [Cherry](https://open.spotify.com/artist/3MR0GVD0ax5sjkVemMJn3l), [DJ RIND](https://open.spotify.com/artist/269MCyoL8TFb1CU1w8oGRd) | [Still Move](https://open.spotify.com/album/2tGHSjBVBpOg3V2xrdwO0F) | 3:33 | 2025-07-29 | 2025-10-08 |
 | [Still On My Mind](https://open.spotify.com/track/1wFDvJXqMECW28WTotV14u) | [SUMI](https://open.spotify.com/artist/5LgDLLJkzx7RsEOQrmyYRt), [DJ YEN](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [Still On My Mind](https://open.spotify.com/album/47Qrw5IR9JHpXzLoW3fMT9) | 2:57 | 2026-06-16 | 2026-06-24 |
 | [Still Tippin' Freestyle](https://open.spotify.com/track/4TxrDVJY9ucVw0cbtvoRxG) | [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [Rommy Montana](https://open.spotify.com/artist/6EeUJT7hjgVaVKk0ucsmLM), [Montiago](https://open.spotify.com/artist/3oxrNkqeblaZHXBD2wG8pA), [San Quintin](https://open.spotify.com/artist/7MdYVhXrjFPMoDcsB7cKfz), [Huncho Bandz](https://open.spotify.com/artist/2LKdjCrOECn9Y7NTZLaHjB), [DaeDae3K](https://open.spotify.com/artist/7JzqdyzJay1cjXGP9A5xu6) | [Still Tippin' Freestyle](https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg) | 3:23 | 2024-01-11 | 2024-02-28 |

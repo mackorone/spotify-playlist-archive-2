@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Abraham Mateo, María Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,636 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,561 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 |
 | 50 | [7 RASPAO](https://open.spotify.com/track/0HotYACZDDOJmfc6t1OURQ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [7 RASPAO](https://open.spotify.com/album/3a7JKtTPYi1dWqFm33Z8vV) | 2:13 |
 
-Snapshot ID: `AAAAAHx1LbVNUC1eNH06iawol8LeoF7F`
+Snapshot ID: `AAAAANmm9ACOJWEQuRLCmKDAZ0jFvoBq`

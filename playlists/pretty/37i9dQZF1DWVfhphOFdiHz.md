@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri for Montreal Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,168 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,173 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 10 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
 | 11 | [tiptoeing](https://open.spotify.com/track/6QpxpFbtZUWapawqVDufDX) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [tiptoeing](https://open.spotify.com/album/4Mkhq0sACoEJoema2n6Zys) | 2:34 |
 | 12 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
-| 13 | [Hometown Letdown](https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Hometown Letdown](https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W) | 2:57 |
-| 14 | [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 |
+| 13 | [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 |
+| 14 | [Hometown Letdown](https://open.spotify.com/track/6gPQg2iktdQq3OpOGKmY42) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Hometown Letdown](https://open.spotify.com/album/6NV3lRlfM6gLRKSPyGBB7W) | 2:57 |
 | 15 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 |
 | 16 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
 | 17 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 34 | [Normal People](https://open.spotify.com/track/2ORYOv3e4xeA7Al4vnd88q) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [In Retrospect](https://open.spotify.com/album/1hW6ElfFzexmLP19JvPzeJ) | 2:42 |
 | 35 | [Queen of Texas](https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Queen of Texas](https://open.spotify.com/album/3XFMsDqtgYA0ImMRJW4e7e) | 3:09 |
 | 36 | [POSSESSIVE](https://open.spotify.com/track/5R7PNT2scRyhURIT5R7Uiz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [LAUREN](https://open.spotify.com/album/1Ufqi9RHnUhjVSzD39DUex) | 2:31 |
-| 37 | [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 |
-| 38 | [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 |
-| 39 | [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 |
+| 37 | [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 |
+| 38 | [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 |
+| 39 | [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 |
 | 40 | [good things come in two's](https://open.spotify.com/track/3iA9oRCn2Gx9Qq55eQkUB9) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [good things come in two's](https://open.spotify.com/album/1amirJFqrFDzvjLrRQqqbk) | 2:20 |
 | 41 | [Two Juliets Don't Need A Romeo \(Love Nouveau At The Club\)](https://open.spotify.com/track/3Xe9aLM9xwFnNg4WZR3jFM) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Two Juliets Don't Need A Romeo \(Love Nouveau At The Club\)](https://open.spotify.com/album/3UneVetG7TZWU4jmCOyBrW) | 3:54 |
 | 42 | [Good Luck and Don’t F%k It Up \(Matt Pop Remix\)](https://open.spotify.com/track/4AGBnT96qI3DlTheMSfWI8) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Good Luck and Don’t F%k It Up](https://open.spotify.com/album/47r67PWWnIMhZslf1Y6CO0) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [just like the sky](https://open.spotify.com/track/34zNjq19oLZEM447s2PP5k) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [up up above](https://open.spotify.com/album/30teLN7IbKX7gsj5X0wk1i) | 3:49 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 
-Snapshot ID: `AAAAAOxS9w3wi1OXCHBsNLXH2GiqBp6h`
+Snapshot ID: `AAAAANr8tfO8iRHUt5yAZgT9dYtNMTst`

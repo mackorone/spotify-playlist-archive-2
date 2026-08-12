@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-608 songs - 1 day 13 hr 36 min
+611 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [American Viking](https://open.spotify.com/track/5F779kjudzpaiweg4vyW24) | [Mikey Mills](https://open.spotify.com/artist/3Zpw9cotE2q7uM8Lswsb3U) | [Three Cuts](https://open.spotify.com/album/1uXNnjRTMXmv2KoCGK49HU) | 5:14 | 2026-07-20 |  |
 | [Anemia](https://open.spotify.com/track/3bWz0GzNoQfYN4j7ZCU5Dh) | [M30](https://open.spotify.com/artist/5NXrqwzWNRoJ9iJr6pM8Fz) | [Anemia](https://open.spotify.com/album/2hVCVRqUQt7UE41lNrh9DZ) | 2:43 | 2026-03-15 | 2026-04-20 |
 | [Anfang unsrer Zeit](https://open.spotify.com/track/4Gny5yM4G2ZeXpttdDgZw4) | [Voltwechsel](https://open.spotify.com/artist/2uf0QPyHmDcE3UG5etXM0j) | [Anfang unsrer Zeit](https://open.spotify.com/album/53WSXWPec4A5hUslMBdA5t) | 3:28 | 2026-04-16 | 2026-05-17 |
+| [ANHA](https://open.spotify.com/track/2NW8zDzKdyYM05YfgsNGOI) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [ANHA](https://open.spotify.com/album/6icKjxljuUNwWVTYPGtIAY) | 3:18 | 2026-08-11 |  |
 | [Another Broken Life](https://open.spotify.com/track/2C4uQkC2n41IDhKzr4ZfzI) | [Jasper Lane](https://open.spotify.com/artist/7Jy6PeI8aqpMobGCpaFSEw) | [Becoming The Angel](https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC) | 4:18 | 2025-12-23 | 2026-01-21 |
 | [Another Day Is Gone](https://open.spotify.com/track/0HS4fqcRazWuujB0aTdwiD) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Another Day Is Gone](https://open.spotify.com/album/3xKkBJlx8QMc00eSanaZSN) | 4:21 | 2026-04-27 | 2026-05-26 |
 | [Another Life](https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm) | [Ben Trexel](https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu), [Amanda Willis\-Brice](https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF) | [Another Life](https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq) | 3:49 | 2026-07-02 | 2026-08-08 |
@@ -421,6 +422,7 @@
 | [Save Me](https://open.spotify.com/track/0GSW18Q6Gm2sXv5z8NmMro) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:39 | 2025-11-26 | 2026-01-05 |
 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-08-19 | 2026-02-04 |
 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 | 2025-12-13 | 2026-01-05 |
+| [Say Hello To My Friend](https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:19 | 2026-08-11 |  |
 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 | 2026-01-24 | 2026-02-23 |
 | [Scenes Of Doubt](https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Scenes Of Doubt](https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh) | 4:54 | 2026-03-31 |  |
 | [Schwarzer Engel](https://open.spotify.com/track/3NfW08uCTFOhvgrdGGPQkJ) | [Seelentrost](https://open.spotify.com/artist/4KafT120JV2hhs3TlovDWD) | [Schwarzer Engel](https://open.spotify.com/album/6pB2eeRbU2Qc5ounDES7yj) | 2:55 | 2026-04-16 | 2026-06-13 |
@@ -491,6 +493,7 @@
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 | 2026-02-18 |
 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 | 2026-04-06 | 2026-06-13 |
 | [Sweet](https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Sweet](https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD) | 2:30 | 2026-05-19 | 2026-08-08 |
+| [Sympathy](https://open.spotify.com/track/3wmDN6x8mWFEY3lBVm4zhp) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Sympathy](https://open.spotify.com/album/4FT3xTzZjzJ6c3PdkFyPrM) | 3:53 | 2026-08-11 |  |
 | [Table for two](https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn) | [Seven Streets](https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN) | [Table for two](https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ) | 4:03 | 2026-06-18 | 2026-08-08 |
 | [Take It All](https://open.spotify.com/track/5nT6DhBRP9cBIUYOhJInIR) | [Elephants and Stars](https://open.spotify.com/artist/54Zp1dCml1gwRKAP7P9dj4) | [Take It All](https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP) | 3:22 | 2026-04-19 | 2026-06-13 |
 | [Take It Slow](https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2) | [Saturday Night Vacancy](https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU) | [Take It Slow](https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo) | 3:35 | 2026-07-06 | 2026-08-08 |

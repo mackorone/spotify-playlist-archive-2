@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -21397,6 +21397,24 @@
     },
     {
       "album": {
+        "name": "Schoonzoon",
+        "url": "https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138150,
+      "name": "Schoonzoon",
+      "url": "https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT"
+    },
+    {
+      "album": {
         "name": "Schultenbr\u00e4u",
         "url": "https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu"
       },
@@ -28702,6 +28720,28 @@
       "duration_ms": 189090,
       "name": "Zomer, Zon & Strand",
       "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
+    },
+    {
+      "album": {
+        "name": "Zomerblousje",
+        "url": "https://open.spotify.com/album/1djXceTDm9c0k2MDP4nTTv"
+      },
+      "artists": [
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117987,
+      "name": "Zomerblousje",
+      "url": "https://open.spotify.com/track/29nZWbihJC0l6ijK7sJFkb"
     },
     {
       "album": {

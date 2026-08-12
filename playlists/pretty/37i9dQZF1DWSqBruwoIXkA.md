@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like sad hour, with Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,391,966 likes - 150 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,391,928 likes - 150 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,22 +86,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 76 | [you're still everything](https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 3:29 |
 | 77 | [Therapy at the Club](https://open.spotify.com/track/0mAlyy4pl3pO9ht9qU1PBn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Therapy at the Club](https://open.spotify.com/album/66fZUvNGtHyCpxCq3Av8yP) | 2:47 |
 | 78 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 |
-| 79 | [Come Down](https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Come Down](https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ) | 2:55 |
-| 80 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
+| 79 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
+| 80 | [Come Down](https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Come Down](https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ) | 2:55 |
 | 81 | [In The Name Of Healing \- from the Prime Original Movie ‘Your Fault: London’](https://open.spotify.com/track/6nnt4dluOfRFlrZawFHTbc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [In The Name Of Healing \(from the Prime Original Movie ‘Your Fault: London’\)](https://open.spotify.com/album/1T0yBHa2eKYVtAXMu7UxCn) | 2:37 |
 | 82 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 83 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 |
 | 84 | [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 |
 | 85 | [It Is What It Is](https://open.spotify.com/track/05DdoHON4cgcBxewdCHsSp) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [It Is What It Is](https://open.spotify.com/album/2LOKWjz5IXrMMBTVsu6Ak4) | 3:10 |
-| 86 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
-| 87 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 |
-| 88 | [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 |
-| 89 | [Older](https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loser](https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP) | 3:04 |
+| 86 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 |
+| 87 | [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 |
+| 88 | [Older](https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loser](https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP) | 3:04 |
+| 89 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
 | 90 | [Rest of Me](https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF) | [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Rest of Me](https://open.spotify.com/album/6n8vxGMToOmgBWYdp0oADs) | 3:36 |
 | 91 | [Parking Lot](https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Parking Lot](https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG) | 3:32 |
 | 92 | [die first](https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [die first](https://open.spotify.com/album/56raLTkxER12w8xejGTpSG) | 2:57 |
-| 93 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
-| 94 | [Dream Girl](https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [PIXIE](https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq) | 3:23 |
+| 93 | [Dream Girl](https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [PIXIE](https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq) | 3:23 |
+| 94 | [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 |
 | 95 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 |
 | 96 | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [DON’T YOU SEE ME TRYING?](https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1) | 3:33 |
 | 97 | [i've missed you longer](https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [i've missed you longer](https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd) | 3:19 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 101 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 |
 | 102 | [i wish u knew](https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [i wish u knew](https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll) | 3:13 |
 | 103 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
-| 104 | [Door](https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone Deluxe](https://open.spotify.com/album/18BxfsH93SUb77MlISUt60) | 3:54 |
-| 105 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 |
+| 104 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 |
+| 105 | [Door](https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone Deluxe](https://open.spotify.com/album/18BxfsH93SUb77MlISUt60) | 3:54 |
 | 106 | [Complicated](https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Complicated](https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE) | 3:39 |
 | 107 | [When I Lose You](https://open.spotify.com/track/0B95pBce3F6JJS0EnasNYZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [When I Lose You](https://open.spotify.com/album/7ep9mk1hkx3ACOwyFFwQTk) | 3:14 |
 | 108 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 129 | [I Tried](https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [I Tried](https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP) | 2:32 |
 | 130 | [Eastside Girls](https://open.spotify.com/track/0aIoaYbTcStz4yBHHCjgzi) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Chasing The Chimera](https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww) | 3:19 |
 | 131 | [Shell](https://open.spotify.com/track/2wGGc1BHUCiaN5WWi4rHYC) | [MINOE](https://open.spotify.com/artist/1ck1DG8KEmO1b0DrJsbyKi) | [Shell](https://open.spotify.com/album/7enCEM8sC7Zfl7fALQWFqG) | 2:57 |
-| 132 | [Pretty Ugly](https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Pretty Ugly](https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI) | 2:49 |
-| 133 | [Let It Die](https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Let It Die](https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ) | 3:32 |
+| 132 | [Let It Die](https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Let It Die](https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ) | 3:32 |
+| 133 | [Pretty Ugly](https://open.spotify.com/track/00Mir9uJyfvH1qJYFOUmsn) | [Sabyna](https://open.spotify.com/artist/4Pke6JkdRNWAHttfVvnvP6) | [Pretty Ugly](https://open.spotify.com/album/1TmgctcS57hCkBysw77AUI) | 2:49 |
 | 134 | [DAMN!](https://open.spotify.com/track/4oT51TvKioioao01lzE8vO) | [Tristan](https://open.spotify.com/artist/0dxAnY1JAcSuYnBckIDhRv) | [TRISTAN1](https://open.spotify.com/album/7txEo8xATuZOJys8TIWnL2) | 3:57 |
 | 135 | [relapse](https://open.spotify.com/track/4U79JUWOHrww52hBySHL8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [relapse](https://open.spotify.com/album/3Xlls9vCfkFRNgvTrqk1zZ) | 3:23 |
 | 136 | [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [Hold Me Down](https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:51 |
 | 150 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 |
 
-Snapshot ID: `AAAAAC8yeppeV8aXHZ9tomu8ZJYABQwB`
+Snapshot ID: `AAAAALfTLhYzId3O1zu7dKZ5PdnawkrG`

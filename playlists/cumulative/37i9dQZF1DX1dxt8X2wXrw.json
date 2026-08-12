@@ -732,7 +732,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 166849,
       "name": "breath away",
       "url": "https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91"
@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "bad pieces",
+        "url": "https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191910,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ"
+    },
+    {
+      "album": {
         "name": "Shelly 2",
         "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
       },
@@ -1276,6 +1294,24 @@
       "duration_ms": 181741,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1YZmYp9jZ4Veq6lZpiuV69"
+    },
+    {
+      "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/19auOSLu2WRW8UaB4keLQs"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/58DHNoxvttW7CLsfDQ7M9S"
     },
     {
       "album": {
@@ -1504,7 +1540,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 207900,
       "name": "Endless Night",
       "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
@@ -1996,7 +2032,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 207023,
       "name": "have to.",
       "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 242553,
       "name": "Le soleil dans le monde",
       "url": "https://open.spotify.com/track/4Ve8G6KOhjDwi1fSOOdYds"
@@ -3973,6 +4009,28 @@
     },
     {
       "album": {
+        "name": "Romanticize",
+        "url": "https://open.spotify.com/album/4cAmjeJCP9CIrkYLgjLUA0"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Romanticize",
+      "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
+    },
+    {
+      "album": {
         "name": "Anything in Return",
         "url": "https://open.spotify.com/album/1WiKAuQmbYIxDv2UzMwrBq"
       },
@@ -4454,6 +4512,24 @@
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
+    },
+    {
+      "album": {
+        "name": "SATURATION II",
+        "url": "https://open.spotify.com/album/0XnqQzdSFAml08XZoRt1St"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204939,
+      "name": "SUMMER",
+      "url": "https://open.spotify.com/track/66dQdXAbtuPdSasezCQVZE"
     },
     {
       "album": {

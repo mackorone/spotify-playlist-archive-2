@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,091 likes - 69 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,090 likes - 69 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 68 | [sagittarius](https://open.spotify.com/track/1ZtWNkcURJOTn962rQE1O1) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [sagittarius](https://open.spotify.com/album/4iBjHrBIye8u5viIDEJt6h) | 4:30 |
 | 69 | [花火が瞬いて](https://open.spotify.com/track/6krjHjwfi12GvZ4ZvBuLlA) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [花火が瞬いて](https://open.spotify.com/album/4FlCRR5nlZxtyPZX0eZAyA) | 3:50 |
 
-Snapshot ID: `AAAAANkNBRDGCvX95JlwLAmk/H2c+Eb4`
+Snapshot ID: `AAAAAN5UEaNpd33qJ93pZvRN8eenTCl9`

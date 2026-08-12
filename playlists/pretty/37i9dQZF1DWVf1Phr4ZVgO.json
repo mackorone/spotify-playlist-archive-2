@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1204572,
+  "num_followers": 1204612,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPvfRLl+XLMMPE3opIc3pev4RRBI",
+  "snapshot_id": "AAAAAFys75fwBf7Ung2KyvUKZ/Mq3hKZ",
   "tracks": [
     {
       "added_at": "2026-02-09 08:20:39",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
+        "name": "Harlem On My Mind",
+        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
+      },
+      "artists": [
+        {
+          "name": "Catherine Russell",
+          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
+        }
+      ],
+      "duration_ms": 292288,
+      "name": "Don't Take Your Love From Me",
+      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
         "name": "Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 182450,
       "name": "Chances Are (with Ray Conniff & His Orchestra)",
       "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
-        "name": "Harlem On My Mind",
-        "url": "https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd"
-      },
-      "artists": [
-        {
-          "name": "Catherine Russell",
-          "url": "https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp"
-        }
-      ],
-      "duration_ms": 292288,
-      "name": "Don't Take Your Love From Me",
-      "url": "https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/1WzKyOIFW45U8ZSuLVHGLq"
+        "name": "Swingtime Again",
+        "url": "https://open.spotify.com/album/26aZe5wY5BaADUQ2ndQeQK"
       },
       "artists": [
         {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+          "name": "Alice Babs",
+          "url": "https://open.spotify.com/artist/3omPckNeXtMpCdOXVfcOST"
         }
       ],
-      "duration_ms": 229973,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/1tTOZjvzrkQSSf6XZFS2AY"
+      "duration_ms": 165800,
+      "name": "I Let a Song Go out of My Heart",
+      "url": "https://open.spotify.com/track/1DgQyMa4f1myDWa21BwgVq"
     },
     {
       "added_at": "2026-02-09 08:20:39",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "Swingtime Again",
-        "url": "https://open.spotify.com/album/26aZe5wY5BaADUQ2ndQeQK"
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/1WzKyOIFW45U8ZSuLVHGLq"
       },
       "artists": [
         {
-          "name": "Alice Babs",
-          "url": "https://open.spotify.com/artist/3omPckNeXtMpCdOXVfcOST"
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 165800,
-      "name": "I Let a Song Go out of My Heart",
-      "url": "https://open.spotify.com/track/1DgQyMa4f1myDWa21BwgVq"
+      "duration_ms": 229973,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/1tTOZjvzrkQSSf6XZFS2AY"
     },
     {
       "added_at": "2026-02-09 08:20:39",

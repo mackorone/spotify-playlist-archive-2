@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,017 likes - 101 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,105 likes - 101 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 9 | [Webbie Flow](https://open.spotify.com/track/67WZw72VCsCqsLMRTZXPiL) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Webbie Flow](https://open.spotify.com/album/6Pnpc1chmN6q17RSCis1NM) | 2:54 |
 | 10 | [Shot Callin](https://open.spotify.com/track/4n4tC4qO2LeWQRM9Gbbtop) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:45 |
 | 11 | [No Fakin \(with EST Gee\)](https://open.spotify.com/track/7pneXkALm3yPh5juOMlsbC) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:35 |
-| 12 | [HERE AND THERE ft LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
+| 12 | [HERE AND THERE FT LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
 | 13 | [Nightmares To Dreams](https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Nightmares To Dreams](https://open.spotify.com/album/7pimoRaeILGeWTQPOpwADL) | 3:14 |
 | 14 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/5uFVodx5ppCFWjyQXkgCrD) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/album/0ZD6PTKIZvp9cTlI0pjLvm) | 3:06 |
 | 15 | [SOMETIMES](https://open.spotify.com/track/7pPN7CAODxYTEylcC0Jat0) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SOMETIMES](https://open.spotify.com/album/7o6ZgUrSefKTAiqwFLlo7b) | 2:18 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Back To The South \(with Yo Gotti\)](https://open.spotify.com/track/0EzVPJ4VdIEthe8B3PE5LX) | [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Mr\. 14 Months](https://open.spotify.com/album/0iudlC6t3MrtmiKcYLechp) | 3:23 |
 | 101 | [Motion](https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:00 |
 
-Snapshot ID: `AAAAALPur3R7q04YV8qysZYEeG2U8KTw`
+Snapshot ID: `AAAAAFBmXQx+hioLJPIcHwV88R7YWZi3`

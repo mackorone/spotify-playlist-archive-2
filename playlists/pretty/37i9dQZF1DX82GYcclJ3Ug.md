@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,227,348 likes - 150 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,227,360 likes - 150 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 149 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 | 150 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |
 
-Snapshot ID: `AAAAAJ6Tcira3aV7r3lYeCQ3SPgXAN3k`
+Snapshot ID: `AAAAAKqLlobwHuhxdob5kK8mTe48c5s4`

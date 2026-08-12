@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31054,
+  "num_followers": 31057,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAwN+ExRdtyuQeiyHue60kc",
+  "snapshot_id": "ankUgAAAAAAUKB4gV6GGdsec17foVtjw",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+        "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 154931,
+      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -319,6 +339,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Eyes on Shiest",
+        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "Booty Club (feat. Sexyy Red, Tay Keith)",
+      "url": "https://open.spotify.com/track/04Ej3cJSaO2mZUUbagGNH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Favorite Trappa Favorite Rappa (Hosted by DJ Holiday)",
         "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
       },
@@ -326,15 +370,11 @@
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
         }
       ],
-      "duration_ms": 154931,
-      "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
-      "url": "https://open.spotify.com/track/7cbfDv0hLoE7IeKRNwxUGT"
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/2w7eSCgQr9mZ7u2FUfkRnv"
     },
     {
       "added_at": null,
@@ -403,46 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Favorite Trappa Favorite Rappa (Hosted by DJ Holiday)",
-        "url": "https://open.spotify.com/album/4lnnjuRw10Swa4WrMXRhOk"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/2w7eSCgQr9mZ7u2FUfkRnv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Eyes on Shiest",
-        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "Booty Club (feat. Sexyy Red, Tay Keith)",
-      "url": "https://open.spotify.com/track/04Ej3cJSaO2mZUUbagGNH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Strips (Remix) (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "She's Back",
+      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Girlz Run The World",
         "url": "https://open.spotify.com/album/1CE0V7fzLEnlGPcTaj4ruh"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 182278,
       "name": "5 Star Freak",
       "url": "https://open.spotify.com/track/3WK2MpD3d1W7oziyVX4NGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "She's Back",
-      "url": "https://open.spotify.com/track/3PR8q1B3b6hsJlwphfgCZK"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 159291,
-      "name": "Mad at Me",
-      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
+      "duration_ms": 153666,
+      "name": "Hellcats SRTs",
+      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Hellcats SRTs",
-      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
+      "duration_ms": 159291,
+      "name": "Mad at Me",
+      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finessin Distribution Deals",
-        "url": "https://open.spotify.com/album/5xvxAGdId1qTJ9SYo4FG96"
-      },
-      "artists": [
-        {
-          "name": "Fox BD",
-          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 114436,
-      "name": "G6",
-      "url": "https://open.spotify.com/track/1ArC6mSIm1HZdmZCi7wlJT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
         "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 203858,
       "name": "SLUT ME OUT (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finessin Distribution Deals",
+        "url": "https://open.spotify.com/album/5xvxAGdId1qTJ9SYo4FG96"
+      },
+      "artists": [
+        {
+          "name": "Fox BD",
+          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 114436,
+      "name": "G6",
+      "url": "https://open.spotify.com/track/1ArC6mSIm1HZdmZCi7wlJT"
     },
     {
       "added_at": null,
@@ -1019,22 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MMM HMM (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
+        "name": "Love Is Like (Deluxe)",
+        "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
       },
       "artists": [
         {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 158137,
-      "name": "MMM HMM (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
+      "duration_ms": 152157,
+      "name": "I Like It (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0pwd9beBkEIBrMbkRMlO35"
     }
   ],
   "unique_name": "This Is Sexyy Red",

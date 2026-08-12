@@ -1,12 +1,12 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47154,
+  "num_followers": 47152,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABw7v4e8vC3I/8dwsH9OjHkK1xAi",
+  "snapshot_id": "AAAAAAgQkpg5DmSrVR/eFmGbn+ppHX6o",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:52",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "UFORIA",
-        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
+        "name": "ruiner",
+        "url": "https://open.spotify.com/album/6YyFPAahBvVV74rRNdVmff"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 144671,
-      "name": "Lacrime",
-      "url": "https://open.spotify.com/track/58Z81LreWvl772tymig5fd"
+      "duration_ms": 204000,
+      "name": "hammer",
+      "url": "https://open.spotify.com/track/2Y4ol1FiPdSPMwaEMJgXMN"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -391,18 +391,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "ruiner",
-        "url": "https://open.spotify.com/album/6YyFPAahBvVV74rRNdVmff"
+        "name": "UFORIA",
+        "url": "https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB"
       },
       "artists": [
         {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 204000,
-      "name": "hammer",
-      "url": "https://open.spotify.com/track/2Y4ol1FiPdSPMwaEMJgXMN"
+      "duration_ms": 144671,
+      "name": "Lacrime",
+      "url": "https://open.spotify.com/track/58Z81LreWvl772tymig5fd"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "Polmoni",
+        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
+      },
+      "artists": [
+        {
+          "name": "Tripolare",
+          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
+        }
+      ],
+      "duration_ms": 123789,
+      "name": "Polmoni",
+      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "Per starci in due",
         "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 89832,
       "name": "sto bene, a volte",
       "url": "https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Polmoni",
-        "url": "https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV"
-      },
-      "artists": [
-        {
-          "name": "Tripolare",
-          "url": "https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w"
-        }
-      ],
-      "duration_ms": 123789,
-      "name": "Polmoni",
-      "url": "https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO"
     },
     {
       "added_at": "2026-07-30 22:02:52",

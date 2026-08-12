@@ -1,12 +1,12 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 665610,
+  "num_followers": 665642,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPAvgQ4gFy9ZkI5h9d1NLbNqU1DB",
+  "snapshot_id": "AAAAANwxeHL1OpHY6AgMqZV2tzVwmFvg",
   "tracks": [
     {
       "added_at": "2025-12-19 20:12:08",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
+        "name": "CLA$$IC",
+        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "CLA$$IC",
+      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "CLA$$IC",
-        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "CLA$$IC",
-      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Irgendwie, Irgendwo, Irgendwann",
-        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        },
-        {
-          "name": "Dennis Dubplate",
-          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Irgendwie, Irgendwo, Irgendwann",
-      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "Carlo Cokxxx Nutten II (Saad)",
         "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 242360,
       "name": "Nie ein Rapper",
       "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "Irgendwie, Irgendwo, Irgendwann",
+        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        },
+        {
+          "name": "Dennis Dubplate",
+          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
+        }
+      ],
+      "duration_ms": 330409,
+      "name": "Irgendwie, Irgendwo, Irgendwann",
+      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
     },
     {
       "added_at": "2025-12-19 20:12:08",

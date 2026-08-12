@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5987,
+  "num_followers": 5992,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAACdad9VB2kM639rZ/eoQXa2",
+  "snapshot_id": "ankUgAAAAADaH4QRiLJsvUCCQ5rZriuH",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 208090,
-      "name": "Coraz\u00f3n en Crisis",
-      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
+      "duration_ms": 147490,
+      "name": "Cometa",
+      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 147490,
-      "name": "Cometa",
-      "url": "https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W"
+      "duration_ms": 208090,
+      "name": "Coraz\u00f3n en Crisis",
+      "url": "https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 202381,
+      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Terminal",
         "url": "https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 178561,
       "name": "La Terminal",
       "url": "https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 202381,
-      "name": "Burbujas de Amor - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
         "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 218460,
       "name": "La Primera Vez - Remix",
       "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "Que Locura Enamorarme de Ti - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
-        "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 170896,
-      "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
-      "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
         "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
+        "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 170896,
+      "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
+      "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Juliana",
         "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
+        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 234358,
+      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
+      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Primera Vez",
         "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 305898,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
-        "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 234358,
-      "name": "Coraz\u00f3n Part\u00edo - (Sesi\u00f3n en vivo)",
-      "url": "https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73"
     }
   ],
   "unique_name": "This Is Juliana",

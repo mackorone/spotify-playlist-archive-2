@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 7 min
+109 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Die Rich](https://open.spotify.com/track/6BKu8kCqUoQy0BFgnOYMJr) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ray Emmanuel](https://open.spotify.com/artist/1VDmG7pIFozqBrmj0LynQd) | [Die Rich](https://open.spotify.com/album/7gHS6ywjV1BSg0roKiEoR0) | 4:02 | 2023-03-17 | 2023-03-20 |
 | [Dnou](https://open.spotify.com/track/2fBhHFsXlV23ENM4nEBsVT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:00 | 2023-03-17 | 2023-08-20 |
 | [DNOU2](https://open.spotify.com/track/5E1Np2je3NS2ucYjgoZwrM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [DNOU2](https://open.spotify.com/album/3cCoAz0jHGTo5SQXBi2w69) | 3:44 | 2023-03-17 | 2023-08-20 |
-| [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 | 2024-08-03 |  |
+| [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 | 2024-08-03 | 2026-08-12 |
 | [EZ](https://open.spotify.com/track/05BVRn8zyr2xhLz2V4IdZV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [EZ](https://open.spotify.com/album/1sus1FubvrFW0FOg1F2YCZ) | 3:01 | 2023-03-19 | 2025-03-22 |
 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 | 2025-09-01 |  |
 | [FATHER](https://open.spotify.com/track/7AoMr9VMS9Fs5fu5VjtbNx) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 2:58 | 2026-07-13 |  |
@@ -70,6 +70,7 @@
 | [LEFT HAND \(feat\. Terrian\)](https://open.spotify.com/track/34GgEj9AUd92vmbwoVVhA5) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [LEFT HAND](https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL) | 3:37 | 2026-05-10 | 2026-07-24 |
 | [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 | 2024-11-24 |  |
 | [Let It Reign \(feat\. Bizzle\)](https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:19 | 2023-03-17 |  |
+| [Lifeline](https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB) | [Carly Ann Taylor](https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lifeline](https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA) | 3:33 | 2026-08-12 |  |
 | [Lighthouse](https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB) | [Jackie Hill Perry](https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Blameless](https://open.spotify.com/album/71y5aQ69P6j4bltUNwCOQb) | 2:43 | 2025-09-22 |  |
 | [Lights Go Out](https://open.spotify.com/track/5TYKPiZtHh02L0Xx8Prkiv) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Justin Ebach](https://open.spotify.com/artist/7lAEeQHAtYITsUktcK80m9) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:19 | 2023-03-17 | 2023-08-20 |
 | [Lincoln](https://open.spotify.com/track/7KsSc1CI3GAbcsqv2t0G6K) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lincoln](https://open.spotify.com/album/1BgrsZr2sx0dEiK18sZGd9) | 4:27 | 2023-03-17 | 2023-08-20 |

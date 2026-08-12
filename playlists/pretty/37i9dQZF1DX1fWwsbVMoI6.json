@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Coraz\u00f3n Serrano, Maria Becerra",
-  "num_followers": 133998,
+  "num_followers": 134026,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK/UQspR9hE4NukckE7sOBUs7FTs",
+  "snapshot_id": "AAAAAAvx1qF0I2NT0Nu6L0kWpku4IcU/",
   "tracks": [
     {
       "added_at": "2026-05-15 05:35:32",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
+        "name": "No S\u00e9",
+        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n De Iquitos",
+          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
+        }
+      ],
+      "duration_ms": 246141,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
+    },
+    {
+      "added_at": "2026-05-15 05:35:32",
+      "album": {
         "name": "Falso Amor",
         "url": "https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 246538,
       "name": "Falso Amor",
       "url": "https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa"
-    },
-    {
-      "added_at": "2026-05-15 05:35:32",
-      "album": {
-        "name": "No S\u00e9",
-        "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n De Iquitos",
-          "url": "https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B"
-        }
-      ],
-      "duration_ms": 246141,
-      "name": "No S\u00e9",
-      "url": "https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf"
     },
     {
       "added_at": "2026-05-15 05:35:32",
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "Cumbia",
-        "url": "https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU"
+        "name": "\u00c1mame Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G"
       },
       "artists": [
         {
-          "name": "Bareto",
-          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+          "name": "El Encanto De Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2"
         }
       ],
-      "duration_ms": 300930,
-      "name": "Mujer Hilandera",
-      "url": "https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu"
+      "duration_ms": 256255,
+      "name": "Loco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
     },
     {
       "added_at": "2026-05-15 05:35:32",
@@ -567,18 +567,18 @@
     {
       "added_at": "2026-05-15 05:35:32",
       "album": {
-        "name": "\u00c1mame Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/7BbNDAJFfq8EYMLF0Vyp2G"
+        "name": "Cumbia",
+        "url": "https://open.spotify.com/album/4pw5CUedCL8T3kDSTRTDeU"
       },
       "artists": [
         {
-          "name": "El Encanto De Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/0e4mJsxNyor60CJ34EtJd2"
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
         }
       ],
-      "duration_ms": 256255,
-      "name": "Loco Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3lZvAYpa29d6mZaF1ovhZs"
+      "duration_ms": 300930,
+      "name": "Mujer Hilandera",
+      "url": "https://open.spotify.com/track/0JbR3UC5ZLQATxFrJXIkgu"
     },
     {
       "added_at": "2026-05-15 05:35:32",

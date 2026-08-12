@@ -1,12 +1,12 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 562331,
+  "num_followers": 562260,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEly3wzndKXPMcmPz+Uwbq6+dFZM",
+  "snapshot_id": "AAAAAD/aVkSeFnT/gA9fdLSPxU6oXHL0",
   "tracks": [
     {
       "added_at": "2026-06-26 03:00:48",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-06-26 03:00:48",
       "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 174825,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy"
+    },
+    {
+      "added_at": "2026-06-26 03:00:48",
+      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1q4E1qgE94hwn9WehuAUAz"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/34VD6GZycwcLUMXwpIur9M"
-    },
-    {
-      "added_at": "2026-06-26 03:00:48",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 174825,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy"
     },
     {
       "added_at": "2026-06-26 03:00:48",

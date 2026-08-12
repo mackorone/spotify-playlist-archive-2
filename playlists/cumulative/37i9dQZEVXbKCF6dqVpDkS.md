@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-2,548 songs - 5 day 11 hr 35 min
+2,549 songs - 5 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-06-23 |
 | [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-07 | 2025-01-16 |
 | [Chin Chin](https://open.spotify.com/track/7sEe6B2uzEziUaMAszvnF7) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Chin Chin](https://open.spotify.com/album/0yRFDaWNxewWlMdelzLOqZ) | 2:28 | 2024-09-21 | 2024-11-14 |
+| [Choosin' Texas](https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:51 | 2026-08-11 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6) | 2:46 | 2022-12-12 | 2025-12-29 |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:35 | 2021-12-14 | 2025-12-29 |
 | [Christmas Is Finally Here](https://open.spotify.com/track/1Dyo8ss9BDUQ4uw0pSvu66) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Christmas Is Finally Here](https://open.spotify.com/album/35HPoye21K3LOobOCd0Sd8) | 2:41 | 2021-12-26 | 2021-12-27 |
@@ -1907,7 +1908,7 @@
 | [Schaduw](https://open.spotify.com/track/1hYUqHaKoxI9KRhWIU36LM) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Schaduw](https://open.spotify.com/album/6jRQEVs85OSaRyWWxgzltR) | 3:18 | 2021-11-28 | 2021-12-19 |
 | [Schakelen](https://open.spotify.com/track/4XAs1VBbmfnf8sUjKwF6Tp) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Schakelen](https://open.spotify.com/album/34SBy6wepe7JLEcMvTL78w) | 3:40 | 2023-10-28 | 2023-11-05 |
 | [Schakelen](https://open.spotify.com/track/6jQaK9D9PHGrh50lgvMYhO) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Beschadigd](https://open.spotify.com/album/5poVrMO8E2jTqTkEPJFlNv) | 3:40 | 2023-11-04 | 2023-11-19 |
-| [Schoonzoon](https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Schoonzoon](https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4) | 2:18 | 2026-08-08 |  |
+| [Schoonzoon](https://open.spotify.com/track/19KOz48sq8Je3VCbqsPHXT) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Schoonzoon](https://open.spotify.com/album/3sWH67UbTeVacTK79uSaz4) | 2:18 | 2026-08-08 | 2026-08-12 |
 | [Schudden](https://open.spotify.com/track/2E3Vt7fF1tuvnkwc8Pqk7B) | [Def Rhymz](https://open.spotify.com/artist/5MP0NXMhl5TfFKtG3Q5uk2) | [De Allergoeiste \(Reissue\)](https://open.spotify.com/album/1dbz3bcXwCQUMZr226anyI) | 3:42 | 2024-03-26 | 2024-03-28 |
 | [Schultenbräu](https://open.spotify.com/track/540BsMhL329p3KhB8ZZ7Ez) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Schultenbräu](https://open.spotify.com/album/5ssEaym3WyrakcCkZzihxu) | 3:02 | 2023-06-07 | 2023-09-12 |
 | [Schultenbräu](https://open.spotify.com/track/6t0zMT2rOSI0lKFyJmGExD) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [De Kibbelingsound](https://open.spotify.com/album/1GiQ2G7EReqJU3N2qRNsqb) | 3:02 | 2023-06-03 | 2023-06-08 |

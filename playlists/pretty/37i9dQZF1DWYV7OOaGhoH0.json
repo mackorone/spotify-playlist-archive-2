@@ -1,12 +1,12 @@
 {
   "description": "The best in folk & acoustic today featuring music from Billy Strings",
-  "num_followers": 1689181,
+  "num_followers": 1689069,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIaCe6dKFicblO+b7nc3nrVubgJH",
+  "snapshot_id": "AAAAALZIABJcJTUNGzt7UoP3wmDhrx0D",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:11",
@@ -41,6 +41,26 @@
       "url": "https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH"
     },
     {
+      "added_at": "2026-08-11 17:12:45",
+      "album": {
+        "name": "Betty's in the Band",
+        "url": "https://open.spotify.com/album/7FxZDwJDrJ8StZU0XmkMPM"
+      },
+      "artists": [
+        {
+          "name": "Abigail Rose",
+          "url": "https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd"
+        },
+        {
+          "name": "Weston Hunter",
+          "url": "https://open.spotify.com/artist/2LlrTkoqkuyqzbO9C7DttQ"
+        }
+      ],
+      "duration_ms": 206105,
+      "name": "Betty's in the Band",
+      "url": "https://open.spotify.com/track/3xdFInFLsj2Zj1E6VlK3mc"
+    },
+    {
       "added_at": "2026-07-31 04:02:11",
       "album": {
         "name": "Heavy Tobacco",
@@ -71,6 +91,22 @@
       "duration_ms": 305279,
       "name": "Mill Town Flood",
       "url": "https://open.spotify.com/track/3Bpwb2QUEoRaHZIc9McVrt"
+    },
+    {
+      "added_at": "2026-08-11 17:13:30",
+      "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 297262,
+      "name": "Willing and Able",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
     },
     {
       "added_at": "2026-07-31 04:02:11",
@@ -143,22 +179,6 @@
       "duration_ms": 156600,
       "name": "Heavy Eyes",
       "url": "https://open.spotify.com/track/2tFYiDDaGGmYLrzQbiKjdu"
-    },
-    {
-      "added_at": "2026-07-17 04:00:57",
-      "album": {
-        "name": "The Great Divide: The Last Of The Bugs",
-        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 286967,
-      "name": "Orbiter",
-      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
     },
     {
       "added_at": "2026-07-17 04:00:57",
@@ -855,22 +875,6 @@
     {
       "added_at": "2026-07-17 04:00:57",
       "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 262726,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
-    },
-    {
-      "added_at": "2026-07-17 04:00:57",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2VoAHTnvBelhAFvUPN1Ghm"
       },
@@ -963,22 +967,6 @@
       "duration_ms": 213483,
       "name": "I Should Know Better",
       "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
-    },
-    {
-      "added_at": "2026-07-17 04:00:57",
-      "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 317961,
-      "name": "The Great Divide",
-      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "added_at": "2026-07-17 04:00:57",

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-697 songs - 1 day 23 hr 39 min
+698 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 | 2024-05-31 | 2026-04-18 |
 | [It's Okay](https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [It's Okay](https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u) | 2:45 | 2025-08-22 | 2025-10-04 |
 | [It's Ours](https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 8:03 | 2022-10-14 | 2023-07-22 |
-| [It’s All On You](https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [It's All On You](https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe) | 3:43 | 2025-03-21 |  |
+| [It’s All On You](https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [It's All On You](https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe) | 3:43 | 2025-03-21 | 2026-08-12 |
 | [I’ll Be There](https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [I’ll Be There](https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W) | 3:11 | 2024-10-25 | 2025-05-31 |
 | [JOI \- Part II](https://open.spotify.com/track/6Fp3dJOpkDtIUhKDu3Ha8M) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [JOI \(Part II\)](https://open.spotify.com/album/25Tb0K01fQPTvh0ipkN9ea) | 3:59 | 2024-07-02 | 2025-05-31 |
 | [Julieta](https://open.spotify.com/track/2lLcfRJK6pNyn1WvDkyUtu) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [Julieta](https://open.spotify.com/album/2ASQaFqPgGc7WNU4m4hfmx) | 4:19 | 2021-07-02 | 2022-04-18 |
@@ -372,6 +372,7 @@
 | [Love Shop](https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX) | [Love Shop](https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26) | 3:31 | 2025-05-23 |  |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |
 | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/track/24F3Ji64jymzmcjb7QUsUN) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/album/0o75gywf0q4UsAG9t1wrwg) | 4:54 | 2021-05-07 | 2022-07-29 |
+| [Luv 4 U](https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [SEIZMIC](https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd) | [Luv 4 U EP](https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH) | 5:27 | 2026-08-07 |  |
 | [Machine](https://open.spotify.com/track/6SkahbG67GrZCRqq0K3tRZ) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Machine](https://open.spotify.com/album/5QhSoysXYsOllxEnA7qXio) | 2:33 | 2026-05-15 |  |
 | [Made Of Gold](https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Made Of Gold](https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7) | 3:18 | 2023-04-09 | 2024-10-05 |
 | [Major Drop](https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Major Drop](https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk) | 3:10 | 2026-06-26 |  |

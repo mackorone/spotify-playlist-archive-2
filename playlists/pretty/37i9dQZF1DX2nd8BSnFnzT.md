@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Lua Dultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,447 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,372 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 49 | [Um Doce](https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [XXX](https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh) | 3:15 |
 | 50 | [o que você quiser](https://open.spotify.com/track/35NplPnYaCevijnRs2bmik) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr) | [o que você quiser](https://open.spotify.com/album/6np4eVJ5I9pzNHYN6ywEkX) | 3:15 |
 
-Snapshot ID: `AAAAANyz3UjUuwdLxdKPYClAlpfAOMfS`
+Snapshot ID: `AAAAAFpY3oD9LonoIh8xu+xH0UgnQXw1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day\. Cover: October London
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,282 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,248 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,16 +147,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 137 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 | 138 | [Blame \(feat\. Teddy Swims\)](https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Algorithm](https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW) | 3:44 |
 | 139 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 |
-| 140 | [TALK YOU THROUGH IT](https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [TALK YOU THROUGH IT](https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9) | 3:33 |
-| 141 | [SO BEAUTIFUL](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [SO BEAUTIFUL](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 |
+| 140 | [SO BEAUTIFUL](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [SO BEAUTIFUL](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 |
+| 141 | [TALK YOU THROUGH IT](https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [TALK YOU THROUGH IT](https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9) | 3:33 |
 | 142 | [Good Bye](https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 4:10 |
 | 143 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
-| 144 | [Guilty Pleasure](https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd) | [MAYOR](https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko) | [Guilty Pleasure](https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE) | 2:09 |
-| 145 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
+| 144 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
+| 145 | [Guilty Pleasure](https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd) | [MAYOR](https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko) | [Guilty Pleasure](https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE) | 2:09 |
 | 146 | [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 |
 | 147 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 |
 | 148 | [No Business](https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:17 |
 | 149 | [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 |
 | 150 | [Sweetest Lullabye](https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Sweetest Lullabye](https://open.spotify.com/album/7jnkkFtixmDeenVHmcPKBA) | 4:15 |
 
-Snapshot ID: `AAAAACWmziCZcqXI6NaShKwfkctUmrC7`
+Snapshot ID: `AAAAACgaawzHwFzInCSjOJCqgY4NOQgH`

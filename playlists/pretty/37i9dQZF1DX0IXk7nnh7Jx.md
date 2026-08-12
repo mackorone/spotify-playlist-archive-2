@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: Gable Price without Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,080 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,084 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Reckoner \(An Axe Laid at the Root\)](https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr) | 3:57 |
 | 60 | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/track/4ijo9j5TRYehTkSUIeo9iU) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [WONT FLY \(JESUS AT MY DOOR\)](https://open.spotify.com/album/16SXq6XmbWgyKPPpgzYT6b) | 3:25 |
 | 61 | [Barter](https://open.spotify.com/track/7MFbesTdcv5KiSFORxThgQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Barter](https://open.spotify.com/album/3Ygj0OorA80jw0W4EbViwK) | 2:01 |
-| 62 | [SOMETHING IN THE WATER](https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:39 |
+| 62 | [SOMETHING IN THE WATER](https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:39 |
 | 63 | [Resurrect \(John 20\)](https://open.spotify.com/track/7kMLw2enk84NNp001TSfTw) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Mattea Bret](https://open.spotify.com/artist/6fNpEj8qIBOiH0UpkdlaWK) | [Fidelity](https://open.spotify.com/album/4VEedDAjIFSLYbSNLNHcfX) | 3:25 |
 | 64 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 |
 | 65 | [Every Little Thing](https://open.spotify.com/track/2aHijQHQYZfCtNFkojLlDz) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Every Little Thing](https://open.spotify.com/album/22LAQAYAN8N9lG5oujD06U) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 | 75 | [The Gospel](https://open.spotify.com/track/1Ia3lyWy9kZuDsjIW8voZ0) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [The Gospel](https://open.spotify.com/album/2IHGF8zeVW7GgpVHVEIqDB) | 3:46 |
 
-Snapshot ID: `AAAAAOHT85T2ao8reSum9+lwCKM4QKSx`
+Snapshot ID: `AAAAAEZUR+QPDSKqvO630beCUOec0xjM`

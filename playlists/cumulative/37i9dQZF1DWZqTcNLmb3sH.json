@@ -5622,7 +5622,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 280836,
       "name": "Bareyada Saalugala",
       "url": "https://open.spotify.com/track/7DbcxRGcvUsDeiKFw92Bde"
@@ -21544,7 +21544,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 226485,
       "name": "Kai Tholkand Muttangavle",
       "url": "https://open.spotify.com/track/46TrylJ23BSsiewGB6P25t"
@@ -22666,7 +22666,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 159587,
       "name": "Kannanchale (From \"Asurana Kaiyalli Parijatha'')",
       "url": "https://open.spotify.com/track/5oSjNKLI32F7BGuI5J3dFg"
@@ -26416,6 +26416,32 @@
       "duration_ms": 249901,
       "name": "Male Suridu",
       "url": "https://open.spotify.com/track/5mrVBX3rT0eZWZhufpkqJ9"
+    },
+    {
+      "album": {
+        "name": "Malebillaagi (From \"I'M Game - Kannada\")",
+        "url": "https://open.spotify.com/album/2COXXIdFtESv1KKDuKGF28"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Hrudaya Shiva",
+          "url": "https://open.spotify.com/artist/2BKQzpgC3HMsKf3A72yTGK"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264418,
+      "name": "Malebillaagi - From \"I'M Game - Kannada\"",
+      "url": "https://open.spotify.com/track/1ovuOvy5MVXYKCKSRQQjul"
     },
     {
       "album": {
@@ -37619,6 +37645,32 @@
     },
     {
       "album": {
+        "name": "Paapu Mari (From \"Celebrity\")",
+        "url": "https://open.spotify.com/album/1XB8r8x3Rv7Xd1J0InQ9L8"
+      },
+      "artists": [
+        {
+          "name": "Gummineni Vijay",
+          "url": "https://open.spotify.com/artist/7tlDk660qu9f7yYtpIlFGw"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Anitha Sa Ra Mahesh",
+          "url": "https://open.spotify.com/artist/0SHKsErTXzUzI5dyx8C6nG"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299294,
+      "name": "Paapu Mari (From \"Celebrity\")",
+      "url": "https://open.spotify.com/track/0t401Q7YSo9Ykvyv1uluOc"
+    },
+    {
+      "album": {
         "name": "Paarithoshaka Title Track (From \"Paarithoshaka\")",
         "url": "https://open.spotify.com/album/3Hqu1iNSiwQKBLQIhh7Rit"
       },
@@ -43264,6 +43316,32 @@
       "duration_ms": 272000,
       "name": "Siddayya Swamy (From \"The Rise Of Ashoka - Kannada\")",
       "url": "https://open.spotify.com/track/2hqggQy0jisTdJyUBcWZic"
+    },
+    {
+      "album": {
+        "name": "Siddhayya Siddhayya (From \"Ayogya 2\")",
+        "url": "https://open.spotify.com/album/2zWywZE0L1xvuNltp9HigA"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166101,
+      "name": "Siddhayya Siddhayya (From \"Ayogya 2\")",
+      "url": "https://open.spotify.com/track/7xurOKOI0IThGJpNCPpRBJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Texas Blues at its best.",
-  "num_followers": 180707,
+  "num_followers": 180742,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJjjlCAX5IR/nO8e4CMlU9O+67L",
+  "snapshot_id": "AAAAAH2wyH8yx8Q4uijLgSzqPqKLGi61",
   "tracks": [
     {
       "added_at": "2018-02-27 16:43:49",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Family Style",
         "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 261920,
-      "name": "Good Texan",
-      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2SZsePkGd3QOT0vzm68thq"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Family Style",
         "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+      "duration_ms": 261920,
+      "name": "Good Texan",
+      "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
     },
     {
       "added_at": "2016-03-18 21:56:19",

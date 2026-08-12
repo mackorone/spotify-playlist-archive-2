@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Black K
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,617 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,675 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [WOLOSSO](https://open.spotify.com/track/1R04AZROC1WGL7oWQ4v81E) | [Marla](https://open.spotify.com/artist/0mucJeDL0Mvb5KES4NhiHG) | [REINE MARLA](https://open.spotify.com/album/5m5OTC6SVzEidWQP87lO7Q) | 2:30 |
 | 50 | [GAWAYA.](https://open.spotify.com/track/3ghVMn5q0q4Dr4D2EJx5Wz) | [Plugbinks131](https://open.spotify.com/artist/0M42LMc47vGlBHq3TD1lxe), [GOKS](https://open.spotify.com/artist/4XF5gUmwmXNMHsLKEvbypD) | [GAWAYA.](https://open.spotify.com/album/6g0aryHOy5YH93uqMszZqv) | 2:32 |
 
-Snapshot ID: `AAAAADAm55ksJiuIRnOjC5p+nTeIrRiY`
+Snapshot ID: `AAAAAHVEC6b2VIYTcwtT5w7S0ul+XmhF`

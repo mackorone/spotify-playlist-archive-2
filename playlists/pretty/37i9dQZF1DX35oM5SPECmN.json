@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2099178,
+  "num_followers": 2098848,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAATwyz6tNaO0T7M3Ws8vFYxDARsO",
+  "snapshot_id": "AAAAANdUil3FC5ineA2y5LTTYVkn7DZM",
   "tracks": [
     {
       "added_at": "2024-07-05 20:00:34",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Ocean Bed",
-        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 225360,
       "name": "Fire & Fury",
       "url": "https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
+        "name": "Ocean Bed",
+        "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
+        "name": "No Earthly Sound",
+        "url": "https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 201338,
+      "name": "Make a Sound",
+      "url": "https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy"
+    },
+    {
+      "added_at": "2024-07-05 20:00:34",
+      "album": {
         "name": "Reunions",
         "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 199721,
       "name": "Be Afraid",
       "url": "https://open.spotify.com/track/4YtvmIkKHaSBOv1VPmZf6p"
-    },
-    {
-      "added_at": "2024-07-05 20:00:34",
-      "album": {
-        "name": "No Earthly Sound",
-        "url": "https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 201338,
-      "name": "Make a Sound",
-      "url": "https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy"
     },
     {
       "added_at": "2024-07-05 20:00:34",

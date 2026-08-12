@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: Maverick Mom",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: reGretGirl",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -780,6 +780,24 @@
       "duration_ms": 278226,
       "name": "Aisubekihibiyo",
       "url": "https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj"
+    },
+    {
+      "album": {
+        "name": "Aitsubandyamerundattesa",
+        "url": "https://open.spotify.com/album/5Dg9Yka6Yf2WLcP8x7qzpq"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Aitsubandyamerundattesa",
+      "url": "https://open.spotify.com/track/2kydLHz4ZuZXhrGMgyQvbF"
     },
     {
       "album": {
@@ -4661,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "GOOD LUCK\uff01",
+        "url": "https://open.spotify.com/album/4BoQxNUj8LtRfnHSppywGj"
+      },
+      "artists": [
+        {
+          "name": "PompadollS",
+          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224738,
+      "name": "GOOD LUCK\uff01",
+      "url": "https://open.spotify.com/track/5pIT8gorg5xVehbo7xU4ea"
+    },
+    {
+      "album": {
         "name": "Hors d'oeuvre",
         "url": "https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D"
       },
@@ -5770,7 +5806,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 255117,
       "name": "Humor",
       "url": "https://open.spotify.com/track/0K3ArgrXsahh2OntyMdmVJ"
@@ -6130,7 +6166,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 194900,
       "name": "impact tracker",
       "url": "https://open.spotify.com/track/0y7oGLbQ48W51TMileVUu1"
@@ -6670,7 +6706,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-23",
+      "date_removed": null,
       "duration_ms": 200093,
       "name": "Kids in the Park",
       "url": "https://open.spotify.com/track/40TgZbFN66qw7bXwZlF5QE"
@@ -7200,6 +7236,24 @@
       "duration_ms": 192005,
       "name": "LANDMARK",
       "url": "https://open.spotify.com/track/1bUDodYMEnVujdmS6qpUoW"
+    },
+    {
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/4GRXdAljCPPStrVU2jBgBx"
+      },
+      "artists": [
+        {
+          "name": "reGretGirl",
+          "url": "https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219373,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/5a7WdP7Es6cB72rg5BXVYx"
     },
     {
       "album": {
@@ -14716,7 +14770,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 186577,
       "name": "Wakamono Hakusho",
       "url": "https://open.spotify.com/track/0ZDN4ZbcJV01MSVECtlDPk"
@@ -15418,7 +15472,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 265453,
       "name": "yume",
       "url": "https://open.spotify.com/track/5mJnv7JAvhHgP0dixI0eUC"
@@ -16538,7 +16592,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 213260,
       "name": "\u3055\u3088\u306a\u3089\u306b\u3064\u3044\u3066",
       "url": "https://open.spotify.com/track/5Waluo8l3iWM7IHpY44aFK"
@@ -17114,7 +17168,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 186533,
       "name": "\u3067\u3082\u3067\u3082\u3060\u3063\u3066\u3061\u3083\u3093",
       "url": "https://open.spotify.com/track/7H7qtPke9efI7XP0va9TKP"
@@ -20240,7 +20294,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 259437,
       "name": "\u30b8\u30fb\u30a2\u30fc\u30b9",
       "url": "https://open.spotify.com/track/6zDQ6cRTse7o0exkdYXsnc"
@@ -30068,7 +30122,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 222500,
       "name": "\u6728\u67af\u3089\u3057",
       "url": "https://open.spotify.com/track/6l9wYjhnq8Jsfe8bBboKWG"
@@ -30302,7 +30356,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 283411,
       "name": "\u672c\u97f3",
       "url": "https://open.spotify.com/track/16RllZjIp2O54EaSQB5HF4"
@@ -33046,7 +33100,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 192777,
       "name": "\u8ab0\u3082\u77e5\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/1DiF3JiKuiOBJ0zpUoVkzP"
@@ -33712,7 +33766,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 315619,
       "name": "\u967d\u306e\u3042\u305f\u308b\u5834\u6240\u3078",
       "url": "https://open.spotify.com/track/1CQxMoVXSqMUyK49pMDEft"
@@ -34342,7 +34396,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 241660,
       "name": "\u9b54\u6cd5\u304c\u3068\u3051\u308b\u524d\u306b",
       "url": "https://open.spotify.com/track/5ENeQ4fXWw9dUFgiiplipH"

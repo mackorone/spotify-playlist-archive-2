@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,994 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,007 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 |
 | 50 | [Winter Moon](https://open.spotify.com/track/6JgdJz8Le10ftXoCfsjEWP) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 4:55 |
 
-Snapshot ID: `AAAAACHJo5GS1QB5WytdyLDt64v3XrIc`
+Snapshot ID: `AAAAACuwkvkKoQSbdfbLTorsscoB/kZM`

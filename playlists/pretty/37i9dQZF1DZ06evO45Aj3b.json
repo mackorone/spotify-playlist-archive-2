@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 111109,
+  "num_followers": 111127,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAA4MEcWmCCsLxMD4WbY7uCS",
+  "snapshot_id": "ankUgAAAAABZa0cd7R+TiMnk3VFIwtd4",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 140318,
+      "name": "Quite the Opposite",
+      "url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IT'S BEEN AWFUL",
         "url": "https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 228872,
       "name": "CAMERAS",
       "url": "https://open.spotify.com/track/7aKPbNFx51OwUZBbZ7pqlj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 140318,
-      "name": "Quite the Opposite",
-      "url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 102528,
+      "name": "Aftermath - Edit",
+      "url": "https://open.spotify.com/track/7b3StKb6can7Y037c9HN4z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "McCartney III Imagined",
         "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/28kOGtTZzbfQ8fMmTwjRFq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 102528,
-      "name": "Aftermath - Edit",
-      "url": "https://open.spotify.com/track/7b3StKb6can7Y037c9HN4z"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 121630,
-      "name": "1.23.23",
-      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rocket",
         "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 87387,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3xW2fq4U0x1tD6hSbOTWGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 121630,
+      "name": "1.23.23",
+      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
     },
     {
       "added_at": null,
@@ -743,30 +743,6 @@
       "duration_ms": 173349,
       "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
     },
     {
       "added_at": null,
@@ -803,6 +779,30 @@
       "duration_ms": 179245,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/0OXDIY022gC6hglGebP6kt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
     },
     {
       "added_at": null,

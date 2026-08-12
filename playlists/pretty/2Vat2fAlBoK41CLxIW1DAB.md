@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,134 songs - 2 day 23 hr 20 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,140 songs - 2 day 23 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1142,5 +1142,11 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1132 | [Screw Your HOA!](https://open.spotify.com/track/1nZIjiP2leeZ7eQ1lk0sIZ) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/1kb6C7OYXgbehQhJ9sOZOo) | 1:38 |
 | 1133 | [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 |
 | 1134 | [Owtlary](https://open.spotify.com/track/0iZwZNdZlO6TYCD1qkO0s1) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Psychosomatic](https://open.spotify.com/album/0eDV5oAQ1vJtTpxYp3hEkf) | 5:52 |
+| 1135 | [Lost Inside](https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Lost Inside](https://open.spotify.com/album/1dTObo08E1qoOuwynwuIUL) | 3:05 |
+| 1136 | [Laws](https://open.spotify.com/track/5BMouuMBHrDZiEhqTbFUA6) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Laws](https://open.spotify.com/album/2TVFbbCj66rXsS631WlKGo) | 3:30 |
+| 1137 | [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 |
+| 1138 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 |
+| 1139 | [אלגוריתם](https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [אלגוריתם](https://open.spotify.com/album/3z86HVtVhwZRLEU2VGjGtO) | 3:27 |
+| 1140 | [The Summer](https://open.spotify.com/track/65Osn2jt5o15yIq6MSfx9q) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [The Summer](https://open.spotify.com/album/4d9HaHNZDRysrsFDaEt5NN) | 3:21 |
 
-Snapshot ID: `AAAEmDdBWiBEkn2hleaofeRobyBgMjA4`
+Snapshot ID: `AAAEnmqE1akrtMxlTj+L9e1HfdWQjD35`

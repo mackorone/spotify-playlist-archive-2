@@ -1,12 +1,12 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Asake",
-  "num_followers": 320647,
+  "num_followers": 320656,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANu9GloagGAgaRzg2hBg8F2hWUvs",
+  "snapshot_id": "AAAAALgllmrlFqPYAd2laqH3wCxJfX1V",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:54",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "TEMPERATURE",
+        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 157727,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "All Ova",
         "url": "https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 163685,
       "name": "All Ova",
       "url": "https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "TEMPERATURE",
-        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "KOFFEE",
+        "url": "https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S"
+      },
+      "artists": [
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 147330,
+      "name": "KOFFEE",
+      "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "Bod\u00e9",
         "url": "https://open.spotify.com/album/4cSabc5NWDEzGFfVN1nSWh"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 144892,
       "name": "Bod\u00e9",
       "url": "https://open.spotify.com/track/6jpFUrJeLRcQN1Ek8AnQe9"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "KOFFEE",
-        "url": "https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S"
-      },
-      "artists": [
-        {
-          "name": "Original Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 147330,
-      "name": "KOFFEE",
-      "url": "https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -939,22 +939,18 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT"
+        "name": "Anyting",
+        "url": "https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo"
       },
       "artists": [
         {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
         }
       ],
-      "duration_ms": 206741,
-      "name": "Goddess (with Shenseea)",
-      "url": "https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV"
+      "duration_ms": 122592,
+      "name": "Anyting",
+      "url": "https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au"
     }
   ],
   "unique_name": "The ACS",

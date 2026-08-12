@@ -1,12 +1,12 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397668,
+  "num_followers": 397667,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPuHWCo9vhyV7v/XQbFF8F6ffV4I",
+  "snapshot_id": "AAAAAO/o+ZxMswyGQHSnYvyCe5eL08XE",
   "tracks": [
     {
       "added_at": "2026-07-17 14:00:06",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "Try Again",
         "url": "https://open.spotify.com/album/5kIaUsVuxXBXZC5tBlzhPN"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 236906,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Bigger Picture",
+      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "Heart of the Matter",
         "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 194675,
       "name": "Last Forever - Acoustic",
       "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Bigger Picture",
-      "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
-        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
-      },
-      "artists": [
-        {
-          "name": "OSKI",
-          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
-        }
-      ],
-      "duration_ms": 211862,
-      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
-      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
+        "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
+      },
+      "artists": [
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+        }
+      ],
+      "duration_ms": 211862,
+      "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
+      "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 186040,
       "name": "Lush",
       "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
-      },
-      "artists": [
-        {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
-        }
-      ],
-      "duration_ms": 145403,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
+      },
+      "artists": [
+        {
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+        }
+      ],
+      "duration_ms": 145403,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "Another Year Will Pass",
         "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Crystal Tears",
-        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 222691,
-      "name": "Crystal Tears",
-      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "i'm changing my mind",
         "url": "https://open.spotify.com/album/7cjunboFq4ymwahQTGiPQB"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 234336,
       "name": "adeline",
       "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Crystal Tears",
+        "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 222691,
+      "name": "Crystal Tears",
+      "url": "https://open.spotify.com/track/2U79GTtriUkPKJJSy4Ggeb"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Cape Forestier",
-      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "Little Love",
         "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 188478,
       "name": "Little Love",
       "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1383,22 +1399,6 @@
       "duration_ms": 207058,
       "name": "At My Worst (feat. philine & Remy van Kesteren)",
       "url": "https://open.spotify.com/track/1folSXp8ckfkK0wsoXWsUZ"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Redeeming Grace",
-        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
-      },
-      "artists": [
-        {
-          "name": "SJ Hoffman",
-          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Afraid Of What You Might Find",
-      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Dark Harvest, Pt. 1",
         "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 192442,
       "name": "Trouble Is Me",
       "url": "https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Redeeming Grace",
+        "url": "https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ"
+      },
+      "artists": [
+        {
+          "name": "SJ Hoffman",
+          "url": "https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Afraid Of What You Might Find",
+      "url": "https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx"
     },
     {
       "added_at": "2026-07-17 14:00:06",

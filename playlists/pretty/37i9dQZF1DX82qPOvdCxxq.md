@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: MUCH MORE
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,802 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,830 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [Yoke](https://open.spotify.com/track/4px6eaKU9on5n7VSJpemg9) | [Cody Towell](https://open.spotify.com/artist/4zY7rbMHMO7gNlZh2Qk7Us) | [Yoke](https://open.spotify.com/album/6yrD76pfFW1rcepiMYDybD) | 3:54 |
 | 75 | [Like I Am Yours](https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0) | [Hopeful.](https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR) | [Like I Am Yours](https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF) | 3:04 |
 
-Snapshot ID: `AAAAAGm+gx7KIS7LPyQC0JSPAX2LGQOt`
+Snapshot ID: `AAAAAKnGMsFhZvkeFb1XyMkTQ55hb+Qk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹  Edda e Lamante in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,898 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,896 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [Paese di Ombre](https://open.spotify.com/track/2QySjQUJ3qCVO97Qnjd5bL) | [Shar](https://open.spotify.com/artist/3QM2rkW7qf3ToW9V14KVNO) | [Paese di Ombre](https://open.spotify.com/album/6N7M9FvmjzQfUtsbAyvqR6) | 3:06 |
 | 100 | [PROMETTILO](https://open.spotify.com/track/330eb1FdY4VVbk9BxMm4ah) | [Chiara Accardi](https://open.spotify.com/artist/4TuBfWoS12c8QIkkpfoDSg) | [NUGE](https://open.spotify.com/album/5BlsiziUY3BYWBQJBQk4Db) | 1:55 |
 
-Snapshot ID: `AAAAAD7S3MRXZ9NavDNSaNMNco01768h`
+Snapshot ID: `AAAAANaiAVFEE3T9a93JtIInyLGJ8Rof`

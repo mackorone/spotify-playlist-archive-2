@@ -1,12 +1,12 @@
 {
   "description": "All the artists playing at FORM Arcosanti 2026.",
-  "num_followers": 40,
+  "num_followers": 52,
   "original_name": "FORM Arcosanti Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFrjdxBJSfhwEN33ZHe4NI4SJGkA",
+  "snapshot_id": "AAAAAFQ01vI332gLr5zY36aUhC6BUYkA",
   "tracks": [
     {
       "added_at": "2026-08-06 16:00:19",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-08-06 16:00:19",
       "album": {
-        "name": "Suntub",
-        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
-      },
-      "artists": [
-        {
-          "name": "ML Buch",
-          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Flames shards goo",
-      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
-    },
-    {
-      "added_at": "2026-08-06 16:00:19",
-      "album": {
         "name": "Friend",
         "url": "https://open.spotify.com/album/1TwmkxFywYn6qn4PFTejOe"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 243030,
       "name": "Hypersoft Lovejinx Junkdream",
       "url": "https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4"
+    },
+    {
+      "added_at": "2026-08-06 16:00:19",
+      "album": {
+        "name": "Suntub",
+        "url": "https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Flames shards goo",
+      "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
     },
     {
       "added_at": "2026-08-06 16:00:19",

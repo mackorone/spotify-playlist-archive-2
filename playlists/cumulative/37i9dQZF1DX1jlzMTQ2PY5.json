@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 183839,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
@@ -3296,6 +3296,24 @@
       "duration_ms": 257243,
       "name": "Lovebombs",
       "url": "https://open.spotify.com/track/0XC1E7JdINwIbX94uT5YkU"
+    },
+    {
+      "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/1lU5dUJFJz8G0VkOXVgKtv"
+      },
+      "artists": [
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215862,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/7c3oUnlo0eoYw8MkWlI0HS"
     },
     {
       "album": {

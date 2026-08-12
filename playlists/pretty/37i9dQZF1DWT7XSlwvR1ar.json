@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2116296,
+  "num_followers": 2116307,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxoauE3Ov5345S6ZImzbfL17jsu",
+  "snapshot_id": "AAAAAJjeccFh9AJRyP2Z7ltzfDITWsPs",
   "tracks": [
     {
       "added_at": "2026-07-31 00:00:14",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "Free Wheeling",
+        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 229592,
+      "name": "Free Wheeling",
+      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Paranoid Cocoon",
         "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Free Wheeling",
-        "url": "https://open.spotify.com/album/2mRgxy62xHxJDtNMGB7mx3"
+        "name": "All I Ever Wanted Was You",
+        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
       },
       "artists": [
         {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
         }
       ],
-      "duration_ms": 229592,
-      "name": "Free Wheeling",
-      "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+      "duration_ms": 193500,
+      "name": "All I Ever Wanted Was You",
+      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -595,22 +611,6 @@
       "duration_ms": 300487,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "All I Ever Wanted Was You",
-        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
-      },
-      "artists": [
-        {
-          "name": "The Sways",
-          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "All I Ever Wanted Was You",
-      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "OptiMYSTIC",
-        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 232754,
-      "name": "OptiMYSTIC",
-      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "OptiMYSTIC",
+        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 232754,
+      "name": "OptiMYSTIC",
+      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
-      },
-      "artists": [
-        {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 217463,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Donavon Frankenreiter",
-          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -1243,18 +1223,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
+      "duration_ms": 151560,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1271,6 +1255,22 @@
       "duration_ms": 263976,
       "name": "No One Knows Us",
       "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1403,38 +1403,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Before You Leave",
-        "url": "https://open.spotify.com/album/6MUn43ab6dxVbO0NOHyuvO"
-      },
-      "artists": [
-        {
-          "name": "Hazel Veil",
-          "url": "https://open.spotify.com/artist/33hsYQo8f0jrMgaANiuoTA"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Before You Leave",
-      "url": "https://open.spotify.com/track/3stV79QocpHNtBUhx3fbj1"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 363520,
-      "name": "Children of the Empire",
-      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Regret Me",
         "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
       },
@@ -1463,6 +1431,38 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 363520,
+      "name": "Children of the Empire",
+      "url": "https://open.spotify.com/track/75vW355BVk8wNjOqfrjfjo"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/6MUn43ab6dxVbO0NOHyuvO"
+      },
+      "artists": [
+        {
+          "name": "Hazel Veil",
+          "url": "https://open.spotify.com/artist/33hsYQo8f0jrMgaANiuoTA"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/3stV79QocpHNtBUhx3fbj1"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "In the Clouds",
-        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 212047,
-      "name": "In the Clouds",
-      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Gloria Sparks",
         "url": "https://open.spotify.com/album/7FsCFNZmtYmEJMEGnhaboR"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 216120,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/75ZZuV6Y954ONtyoQboey1"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "In the Clouds",
+        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 212047,
+      "name": "In the Clouds",
+      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Venus in the Zinnia",
-        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        },
-        {
-          "name": "H. Hawkline",
-          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
-        }
-      ],
-      "duration_ms": 197372,
-      "name": "Venus in the Zinnia",
-      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Shaking Hands With Elvis",
         "url": "https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 240360,
       "name": "Ocean Bed",
       "url": "https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Venus in the Zinnia",
+        "url": "https://open.spotify.com/album/1g8xMfOWEPfIuxHory8Pg9"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        },
+        {
+          "name": "H. Hawkline",
+          "url": "https://open.spotify.com/artist/7FmM0XgimRvS48CfObh2ht"
+        }
+      ],
+      "duration_ms": 197372,
+      "name": "Venus in the Zinnia",
+      "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "Gold in California",
+        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 214752,
+      "name": "Gold in California",
+      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Blood Wolf Moon",
         "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
       },
@@ -1999,38 +2015,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Ponte Vedra Sunrise",
-        "url": "https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN"
-      },
-      "artists": [
-        {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Ponte Vedra Sunrise",
-      "url": "https://open.spotify.com/track/7gkUReys335e5KA5ljkpmp"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "Gold in California",
-        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
-      },
-      "artists": [
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
-        }
-      ],
-      "duration_ms": 214752,
-      "name": "Gold in California",
-      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Freewheelin' Woman",
         "url": "https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 200173,
       "name": "Dancing Slow",
       "url": "https://open.spotify.com/track/1en09AnmYzVyIp4su1cnGK"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Ponte Vedra Sunrise",
+        "url": "https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN"
+      },
+      "artists": [
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Ponte Vedra Sunrise",
+      "url": "https://open.spotify.com/track/7gkUReys335e5KA5ljkpmp"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Spectral Lines",
-        "url": "https://open.spotify.com/album/22nZ1NT4IWj6boYaz8xe2q"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 194475,
-      "name": "Strong Swimmer",
-      "url": "https://open.spotify.com/track/1B7pQD64u7zqQzhz6iHf1b"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 330653,
       "name": "Comes In Waves",
       "url": "https://open.spotify.com/track/0gDGS8oW4kLxU7G4BYZG3y"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Spectral Lines",
+        "url": "https://open.spotify.com/album/22nZ1NT4IWj6boYaz8xe2q"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 194475,
+      "name": "Strong Swimmer",
+      "url": "https://open.spotify.com/track/1B7pQD64u7zqQzhz6iHf1b"
     },
     {
       "added_at": "2026-07-31 00:00:14",

@@ -1,12 +1,12 @@
 {
   "description": "Listen to the best songs from faith-based indie artists.  Cover: Gable Price without Friends",
-  "num_followers": 97080,
+  "num_followers": 97084,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOHT85T2ao8reSum9+lwCKM4QKSx",
+  "snapshot_id": "AAAAAEZUR+QPDSKqvO630beCUOec0xjM",
   "tracks": [
     {
       "added_at": "2026-07-17 05:02:04",
@@ -1036,12 +1036,12 @@
       },
       "artists": [
         {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
         }
       ],
       "duration_ms": 159818,

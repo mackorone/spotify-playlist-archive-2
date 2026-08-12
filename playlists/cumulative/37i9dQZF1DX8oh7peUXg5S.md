@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-423 songs - 1 day 2 hr 53 min
+424 songs - 1 day 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A cántaros](https://open.spotify.com/track/6mZQ848txlUxzLmHtKTlxx) | [Pablo Guerrero](https://open.spotify.com/artist/27s7VFWdC1HrBcNI3fzCPp) | [En el Olympia \(Cantautores para la libertad\)](https://open.spotify.com/album/2ZxlSQfRHXrFOxk4udiw95) | 3:07 | 2022-06-30 | 2022-07-29 |
 | [A la Sombra de un León](https://open.spotify.com/track/4jptQwyaHK6SmHlUMClolD) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Los Grandes Exitos..\. Y Mas](https://open.spotify.com/album/2bDPIzb4w8HRT7JX479CTz) | 4:00 | 2022-06-09 | 2022-07-29 |
 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 | 2022-06-30 | 2022-08-12 |
-| [A Tu Vida](https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Árbol y el Bosque](https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT) | 3:16 | 2022-06-09 |  |
+| [A Tu Vida](https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [El Árbol y el Bosque](https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT) | 3:16 | 2022-06-09 | 2026-08-12 |
 | [A Virxe Do Portovello](https://open.spotify.com/track/0yXXN5T9QYHuFHhgdlNGzM) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Matriz](https://open.spotify.com/album/0on1wrBTVafDAbhBp8y06d) | 3:25 | 2022-11-10 | 2022-12-24 |
 | [Abissal](https://open.spotify.com/track/4l4fUar7kJNq1pNZrSTvNw) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Oral\_Abisal](https://open.spotify.com/album/7BMy6fDG6vh9ln4IjZWHqu) | 3:31 | 2026-05-07 | 2026-06-29 |
 | [Acaso](https://open.spotify.com/track/39tmRtKKAWb6PyvUioJOD1) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Acaso](https://open.spotify.com/album/4wALhbk6F1YilNThaNPDhC) | 3:42 | 2023-10-26 | 2023-12-15 |
@@ -330,6 +330,7 @@
 | [Razón de Vivir](https://open.spotify.com/track/2Ml4iJkY3EUbdO0knRn4aR) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X), [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Dakillah](https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ), [Daniela Heredia](https://open.spotify.com/artist/5yTKxJlxMhyYGaUC9TQNlo) | [Razón de Vivir](https://open.spotify.com/album/7BewtSiQFc2G8bKOe1kuSj) | 5:11 | 2023-06-29 | 2023-12-15 |
 | [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 | 2022-06-09 |  |
 | [Ropa de amor](https://open.spotify.com/track/1zB9jg73XJpkSLoiJEkyDW) | [Julio Bustamante](https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA), [Anna Franco](https://open.spotify.com/artist/3MwQeBBFChB0mcwDsvlsaU) | [Moriana](https://open.spotify.com/album/1f7IwlNepJ5uCGzkeMKFnJ) | 3:35 | 2022-12-22 | 2023-01-28 |
+| [Rueda eterna](https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Lucia Fumero](https://open.spotify.com/artist/0NKTji2dtMilrWkrrtUsoJ) | [Rueda eterna](https://open.spotify.com/album/6C5lucQEhdJzPKOL25Q57y) | 2:59 | 2026-08-06 |  |
 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 | 2022-06-09 | 2022-07-26 |
 | [Rugío de Sentir](https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Rugío de Sentir](https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm) | 3:23 | 2026-06-18 |  |
 | [S'aigo no](https://open.spotify.com/track/02mErHjSX42Z48IP1YPJmm) | [Maria del Mar Bonet](https://open.spotify.com/artist/41BaIYCli96MF2wqqOutBR) | [S'aigo no](https://open.spotify.com/album/4RSEFM9yDXKVZaJahBnbvQ) | 3:51 | 2026-04-23 | 2026-06-19 |

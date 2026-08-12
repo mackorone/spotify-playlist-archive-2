@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfwy0qpZrKJ.md) - [plain]
 
 > Yes, the Judas video is the most important music video of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,564 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,694 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfwy0qpZrKJ.md) - [plain]
 | 99 | [Pretty Girls](https://open.spotify.com/track/6QicTxeiSaRkPnkGDUvYOs) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Pretty Girls](https://open.spotify.com/album/76LmTxakuFgfAmvUvEXz5S) | 2:43 |
 | 100 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 
-Snapshot ID: `AAAAAEptJTZlV4Ra5HBPPEpyDaBrJR1x`
+Snapshot ID: `AAAAAEn/DdSsSm6rApHxf6DdmXadT4gS`

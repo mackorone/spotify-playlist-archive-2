@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-2,649 songs - 6 day 1 hr 50 min
+2,650 songs - 6 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1572,7 +1572,7 @@
 | [NO TRESPASSING](https://open.spotify.com/track/7eEnuNVAHQXEwg18zZnmdL) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:15 | 2026-01-17 | 2026-01-24 |
 | [No\. 29](https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 1:38 | 2026-03-21 | 2026-03-23 |
 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-05-05 | 2026-05-27 |
-| [NOBLE](https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE \(Slowed Down\)](https://open.spotify.com/album/3MXz6kSonuMCXDZoOmNRom) | 3:05 | 2026-05-26 | 2026-08-01 |
+| [NOBLE](https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE \(Slowed Down\)](https://open.spotify.com/album/3MXz6kSonuMCXDZoOmNRom) | 3:05 | 2026-05-26 |  |
 | [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2024-10-30 | 2024-11-08 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-23 | 2024-10-31 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-03-11 | 2025-04-21 |
@@ -2447,9 +2447,9 @@
 | [Vieną Meilę](https://open.spotify.com/track/1l6t1IFzdA3dNDTpOjUOXp) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Vieną Meilę](https://open.spotify.com/album/1TafR52Ua0YbTR8Ht5hDta) | 3:02 | 2023-09-04 | 2023-09-06 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-30 |
 | [Virginia Beach](https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:11 | 2023-10-07 | 2023-10-13 |
-| [Vis Vien](https://open.spotify.com/track/00afzYEitVKP2P2NkdqG17) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žvėris](https://open.spotify.com/album/6qTjtegmTDa5PmitQSqFk9) | 2:38 | 2025-06-13 |  |
+| [Vis Vien](https://open.spotify.com/track/00afzYEitVKP2P2NkdqG17) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Žvėris](https://open.spotify.com/album/6qTjtegmTDa5PmitQSqFk9) | 2:38 | 2025-06-13 | 2026-08-12 |
 | [Vis Vien](https://open.spotify.com/track/0irt6kgL5WSYGylZtT07P6) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Vis Vien](https://open.spotify.com/album/7BVevDxREyse4bf6Sp0Ztv) | 2:38 | 2025-03-22 | 2025-06-14 |
-| [VISI ŽENKLAI](https://open.spotify.com/track/6hS4xfzaxOYosOqgoyju0X) | [Aistè](https://open.spotify.com/artist/1aGjmnCN164ZJ1t5rqfd14), [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [GOLD LITUANICA](https://open.spotify.com/album/6qQr0XWFs6q1L1KruptOqX) | 2:58 | 2026-06-30 |  |
+| [VISI ŽENKLAI](https://open.spotify.com/track/6hS4xfzaxOYosOqgoyju0X) | [Aistè](https://open.spotify.com/artist/1aGjmnCN164ZJ1t5rqfd14), [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [GOLD LITUANICA](https://open.spotify.com/album/6qQr0XWFs6q1L1KruptOqX) | 2:58 | 2026-06-30 | 2026-08-12 |
 | [VISI ŽENKLAI](https://open.spotify.com/track/57l4D9dzqDcRS6gPWnFRZI) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d), [Aistè](https://open.spotify.com/artist/1aGjmnCN164ZJ1t5rqfd14) | [VISI ŽENKLAI](https://open.spotify.com/album/2EutkhwSarjd8rEB7SbxJi) | 2:58 | 2025-10-07 | 2026-07-01 |
 | [Visiems Reikia Meilės](https://open.spotify.com/track/4YzEkKX4i5s6FJlK9HGB3o) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Visiems Reikia Meilės](https://open.spotify.com/album/0WghARoKRu5Qj2W3yoLHcK) | 2:38 | 2021-12-08 | 2021-12-10 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-29 |
@@ -2642,6 +2642,7 @@
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 1:59 | 2023-01-12 | 2023-04-15 |
 | [КАК MOMMY](https://open.spotify.com/track/0R848ny5sEpVuR1tMXZNFr) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 2:09 | 2023-01-09 | 2023-02-15 |
 | [Как любовь твою понять?](https://open.spotify.com/track/6Bl2rJPeKSZq0JX6wBfK32) | [JONY](https://open.spotify.com/artist/2ISiyx4DLCMAMBCvPesCoq), [ANNA ASTI](https://open.spotify.com/artist/40YXr3tdSqFv0kfmgjj8vP) | [Не ищите во мне жанры](https://open.spotify.com/album/18RIrAViZZxc920uvNvKqC) | 4:05 | 2022-12-07 | 2022-12-11 |
+| [Лампочки](https://open.spotify.com/track/6c1ly1qdZbILblTz94usFG) | [ARTIK & ASTI](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA) | [Миллениум Х](https://open.spotify.com/album/3kQuzrtCgpviID0Upusjw2) | 3:15 | 2026-08-11 |  |
 | [Мой мармеладный \(Я не права\)](https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y) | [Katya Lel](https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2) | [Джага\-джага](https://open.spotify.com/album/5bqf6dvtEfpmc9IqM2wSLz) | 3:43 | 2023-11-11 | 2023-12-01 |
 | [Обнял потом поцеловал x Tuesday](https://open.spotify.com/track/3kJA8xU8vwuO8n21hAKwXx) | [Folkmusic](https://open.spotify.com/artist/1ztl8jAr9j7UCrxut4B6dE) | [Обнял потом поцеловал x Tuesday](https://open.spotify.com/album/7lmJinr3wEoQwP642pyOC8) | 2:38 | 2026-05-30 | 2026-06-04 |
 | [Обнял, поцеловал X Tuesday](https://open.spotify.com/track/24IQoDvIml7xEmazxL7wBD) | [ForceTx](https://open.spotify.com/artist/2dDxg1hQi6igncj9SM8wkN) | [Обнял, поцеловал X Tuesday](https://open.spotify.com/album/71snyTQfMhWDAidlGRc6TF) | 2:17 | 2026-06-08 | 2026-06-11 |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
@@ -2104,6 +2104,24 @@
       "duration_ms": 138948,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
+    },
+    {
+      "album": {
+        "name": "How Beautiful This Life Is",
+        "url": "https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "How Beautiful This Life Is",
+      "url": "https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k"
     },
     {
       "album": {

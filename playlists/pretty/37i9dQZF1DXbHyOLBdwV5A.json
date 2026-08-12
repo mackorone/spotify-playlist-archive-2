@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 133866,
+  "num_followers": 133881,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJTpsmdd9GSN8UUS1+vDKQv7MnAz",
+  "snapshot_id": "AAAAAL6aygqs3L4nAdDpvSd3XKB4r/PC",
   "tracks": [
     {
       "added_at": "2026-05-08 03:01:30",
@@ -1059,8 +1059,8 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
+        "name": "Alto Pre\u00e7o",
+        "url": "https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8"
       },
       "artists": [
         {
@@ -1068,17 +1068,17 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
           "name": "Lufra",
           "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         }
       ],
-      "duration_ms": 163125,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
+      "duration_ms": 189375,
+      "name": "Alto Pre\u00e7o",
+      "url": "https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Marcas (Remix)",
-        "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
-      },
-      "artists": [
-        {
-          "name": "Dj Lucas Augusto",
-          "url": "https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc"
-        },
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 195615,
-      "name": "Marcas - Remix",
-      "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Balada do Senhor (Remixes)",
         "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
       },
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Marcas (Remix)",
+        "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
+      },
+      "artists": [
+        {
+          "name": "Dj Lucas Augusto",
+          "url": "https://open.spotify.com/artist/3HDlmQ4iyuqux2TTcPzFEc"
+        },
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 195615,
+      "name": "Marcas - Remix",
+      "url": "https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "Dono da Minha Vida (Remix)",
         "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
       },
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Alto Pre\u00e7o",
-        "url": "https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8"
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
       },
       "artists": [
         {
@@ -1180,17 +1180,17 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 189375,
-      "name": "Alto Pre\u00e7o",
-      "url": "https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO"
+      "duration_ms": 163125,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
     },
     {
       "added_at": "2026-05-08 03:01:30",

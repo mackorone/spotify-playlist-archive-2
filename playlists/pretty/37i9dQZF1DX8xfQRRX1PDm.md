@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Dhurandhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,342,768 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343,378 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 70 | [The Wakhra Song \- From "Judgementall Hai Kya"](https://open.spotify.com/track/7y4VovDguP1Wpw5rriHx3E) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Judgementall Hai Kya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55hrgrRknNBFkZPwQ77eye) | 3:16 |
 | 71 | [Ek Toh Kum Zindagani \(From "Marjaavaan"\)](https://open.spotify.com/track/6oDHAjaJJjwwgoAuMIeY9K) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Ek Toh Kum Zindagani \(From "Marjaavaan"\)](https://open.spotify.com/album/0g1uKv2mWhI5rt1FSeYmcb) | 3:10 |
 | 72 | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/track/352wEkChkiClswqwDoM0nj) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Young Desi](https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Coca Cola \(From "Luka Chuppi"\)](https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc) | 2:59 |
-| 73 | [Morni Banke](https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Badhaai Ho](https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA) | 3:18 |
+| 73 | [Morni Banke](https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Badhaai Ho](https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA) | 3:18 |
 | 74 | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/track/3ZjMdVOWxQ53FKrmkgCv95) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Psycho Saiyaan \(From "Saaho"\)](https://open.spotify.com/album/1sywArD1z0FvcfsN1MK9GE) | 2:46 |
 | 75 | [Jhoome Jo Pathaan](https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Pathaan](https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2) | 3:28 |
 
-Snapshot ID: `AAAAADL2yDhK5xQZSIhy124+FRuElcUc`
+Snapshot ID: `AAAAAGideP2SmJ7QV0agdN2TbJ9mhePZ`

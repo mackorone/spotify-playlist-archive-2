@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Meet the future\. Cover: quiet morning
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,466 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,465 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 54 | [Tulips \(Stage Edit\)](https://open.spotify.com/track/2zc01klD7NZTPeHiPHQiS8) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 2:23 |
 | 55 | [Weekend Plans \(Stage Edit\)](https://open.spotify.com/track/0oOCNePtMw1xp5Gz4wYyge) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 3:25 |
 
-Snapshot ID: `AAAAADqbYUjMTgxxDzRLpZ0aJHcgBM2L`
+Snapshot ID: `AAAAAFZEZn0vy5FfhMyScgsFLU92Qlm4`

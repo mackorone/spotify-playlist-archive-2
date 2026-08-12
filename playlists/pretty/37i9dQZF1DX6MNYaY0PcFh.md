@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: TOM LECHEF
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,979 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,995 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 38 | [Bludz & Cripz](https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Bludz & Cripz](https://open.spotify.com/album/4gbKRAMWJN9Q73TWbjUnTl) | 2:29 |
 | 39 | [Lose My Mind](https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Lose My Mind](https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c) | 3:19 |
 | 40 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
-| 41 | [90S](https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [90S](https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0) | 3:16 |
-| 42 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
-| 43 | [Deejay](https://open.spotify.com/track/4Sk2H29XVt3ixGlMrkeJ5c) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Deejay](https://open.spotify.com/album/3UZ3GaJ0Pt5pD6Y0A4hn67) | 4:06 |
-| 44 | [Curaçao Blue](https://open.spotify.com/track/5e45o43SZT4j9JGCWmzY8j) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Curaçao Blue](https://open.spotify.com/album/5col3FZw0PX9Kcjrkp7UzR) | 3:05 |
+| 41 | [Curaçao Blue](https://open.spotify.com/track/5e45o43SZT4j9JGCWmzY8j) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Curaçao Blue](https://open.spotify.com/album/5col3FZw0PX9Kcjrkp7UzR) | 3:05 |
+| 42 | [Deejay](https://open.spotify.com/track/4Sk2H29XVt3ixGlMrkeJ5c) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Deejay](https://open.spotify.com/album/3UZ3GaJ0Pt5pD6Y0A4hn67) | 4:06 |
+| 43 | [Power](https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8) | [Lockerz](https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN) | [Power](https://open.spotify.com/album/5XqziNkIxY6FOEhxYZOsUm) | 3:14 |
+| 44 | [90S](https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [90S](https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0) | 3:16 |
 | 45 | [Ur Way](https://open.spotify.com/track/48aHq417z6EDt6b7wGyOnT) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Ur Way](https://open.spotify.com/album/3uXixh1r8lizDG33DgUUUu) | 3:18 |
 | 46 | [Just The Way You Are \- Paige Tomlinson Remix](https://open.spotify.com/track/2tazKVVJBWqFOAAlFzfQe5) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Paige Tomlinson](https://open.spotify.com/artist/5ADZw92wug6Jlx6oxL3b66) | [Just The Way You Are \(Remixes Part Two\)](https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi) | 2:56 |
 | 47 | [ur world](https://open.spotify.com/track/6sebQAJWYYNyRwHLIeDvko) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [ur world](https://open.spotify.com/album/0PYMW2KuyFzeeSThG5wAny) | 3:08 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 60 | [In Dreams \(its just the rhythm\)](https://open.spotify.com/track/6JRZnxpx5BlUOeWGgtSzqS) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [In Dreams \(its just the rhythm\)](https://open.spotify.com/album/3wYPkWlblcXyOZujQCXLvM) | 3:22 |
 | 61 | [Naughties](https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Naughties](https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe) | 2:26 |
 | 62 | [stop&watch](https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60) | [cu.rve](https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32) | [stop&watch](https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp) | 3:52 |
-| 63 | [Far Away](https://open.spotify.com/track/2j8x2hs47Lh6HYptG85ihf) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Far Away](https://open.spotify.com/album/4bSmJOf87mSPM7WzPmOGEO) | 3:30 |
-| 64 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
+| 63 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
+| 64 | [Far Away](https://open.spotify.com/track/2j8x2hs47Lh6HYptG85ihf) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Far Away](https://open.spotify.com/album/4bSmJOf87mSPM7WzPmOGEO) | 3:30 |
 | 65 | [Only Thing](https://open.spotify.com/track/2SejgFmszB8YDZdJEQCG2D) | [Debba](https://open.spotify.com/artist/3Upr4OOMVKLF2LoFgBaL5X) | [Only Thing](https://open.spotify.com/album/03wfWoSqcI48ibn45notwn) | 3:14 |
 | 66 | [Motion Sickness](https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Motion Sickness](https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8) | 3:20 |
 | 67 | [Draw a Line](https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Draw a Line](https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 69 | [Not Ready For This Love](https://open.spotify.com/track/3QOxwuNQHpLjJZLROh71yh) | [Swoush](https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm) | [Not Ready For This Love](https://open.spotify.com/album/0O9uSsvRFrp54f3s48cTLZ) | 3:19 |
 | 70 | [The Sign](https://open.spotify.com/track/21tvog0dPrmzmIqRTKFYG9) | [Flourish](https://open.spotify.com/artist/5FyEVZanhJH5rwTLxKrmJ7), [Wolf Cutt](https://open.spotify.com/artist/2tLDyyJUExjosjJrNoTqLA) | [The Sign](https://open.spotify.com/album/0I7SWNmu6IRJ58aekoxlbt) | 3:19 |
 
-Snapshot ID: `AAAAAPPqUuQ9sv2bCLiTxepMKlcBZrTj`
+Snapshot ID: `AAAAAKtM6P26xjQzzYEInyR3niaoFkns`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Alice Syndrome\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,441 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,438 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Lines For Today](https://open.spotify.com/track/51JY7adOGiJuEYuydofe12) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Lines For Today](https://open.spotify.com/album/6ft7pqkX2AsA17DSCb75XB) | 2:45 |
 | 50 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
 
-Snapshot ID: `AAAAAIO4uNxN7BYA3yOUzpVtRKPlOBqq`
+Snapshot ID: `AAAAAJcDA0ylrAkIfHIEzRVKdLKqSXug`

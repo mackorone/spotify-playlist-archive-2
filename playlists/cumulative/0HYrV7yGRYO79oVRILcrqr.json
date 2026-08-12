@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Broken Mirror",
+        "url": "https://open.spotify.com/album/2jP3WS6QD2RVGFLU2mHvUv"
+      },
+      "artists": [
+        {
+          "name": "ThorE.E.K",
+          "url": "https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233257,
+      "name": "Broken Mirror",
+      "url": "https://open.spotify.com/track/3PahSDh7r7E2yMgAJ69sFV"
+    },
+    {
+      "album": {
         "name": "Broken Soul Blues",
         "url": "https://open.spotify.com/album/6qlVUGUewVaaFwmjyu3UzS"
       },
@@ -4946,6 +4964,24 @@
       "duration_ms": 241733,
       "name": "I Know You Feel It Too",
       "url": "https://open.spotify.com/track/7x5GONGzH06p1jdbfM7dnM"
+    },
+    {
+      "album": {
+        "name": "Covers Pt. 1",
+        "url": "https://open.spotify.com/album/6Lv3vu9yod1CdBzOHiwaNP"
+      },
+      "artists": [
+        {
+          "name": "Obsidian Rose",
+          "url": "https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152917,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3meKJA7QwTiHdTu0k5TWoH"
     },
     {
       "album": {
@@ -11974,6 +12010,24 @@
       "duration_ms": 220740,
       "name": "Widespread Coma",
       "url": "https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC"
+    },
+    {
+      "album": {
+        "name": "Wild Man",
+        "url": "https://open.spotify.com/album/2RYNgaILfpO78U3QAJpEYA"
+      },
+      "artists": [
+        {
+          "name": "Stu White",
+          "url": "https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287200,
+      "name": "Wild Man",
+      "url": "https://open.spotify.com/track/3T7iZlkZHGfqcDK7ujnfmR"
     },
     {
       "album": {

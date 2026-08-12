@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: BKTHERULA
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,208 likes - 99 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,179 likes - 99 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 98 | [HYPE ME UP](https://open.spotify.com/track/2fMgGrKk8IFglMGn5CTXN5) | [TruththeBull](https://open.spotify.com/artist/6jJ5zRuUgv7UZJhss0fUyg) | [HYPE ME UP](https://open.spotify.com/album/2Mpaeojxd7u1vnjqjT1PY6) | 1:49 |
 | 99 | [YOU CRY LOVE.](https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [YOU CRY LOVE.](https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR) | 2:38 |
 
-Snapshot ID: `AAAAALaqhfuXD2MKOMgRlG89InG3FOiS`
+Snapshot ID: `AAAAAOsvgolUnBKzjrToP4K8B1enqabO`

@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34244,
+  "num_followers": 34246,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtkeKuISYeS4Acw4tokds1OPckx",
+  "snapshot_id": "AAAAAENTzWgpHAb88kGMup2nHKkoPxpJ",
   "tracks": [
     {
       "added_at": "2026-08-06 21:00:39",
@@ -535,22 +535,18 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
-        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
+        "name": "\u05d0\u05e0\u05d9 \u05e0\u05d9\u05e0\u05d4",
+        "url": "https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB"
       },
       "artists": [
         {
-          "name": "Girafot",
-          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
-        },
-        {
-          "name": "Daniel sun Krief",
-          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
         }
       ],
-      "duration_ms": 174452,
-      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
-      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+      "duration_ms": 247783,
+      "name": "\u05d7'\u05ea \u05e9\u05ea\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT"
     },
     {
       "added_at": "2026-08-06 21:00:39",
@@ -571,18 +567,22 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e0\u05d9\u05e0\u05d4",
-        "url": "https://open.spotify.com/album/1BtYEQGPMG5ich1PCAR7rB"
+        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
+        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
       "artists": [
         {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
         }
       ],
-      "duration_ms": 247783,
-      "name": "\u05d7'\u05ea \u05e9\u05ea\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/7FfYo7iCiFyfXKCQbpaXtT"
+      "duration_ms": 174452,
+      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
+      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
     },
     {
       "added_at": "2026-08-06 21:00:39",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "\u05d0\u05d9",
-        "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
       },
       "artists": [
         {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
         }
       ],
-      "duration_ms": 194040,
-      "name": "\u05de\u05d7\u05d1\u05e8\u05ea \u05db\u05d0\u05d1",
-      "url": "https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j"
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
     },
     {
       "added_at": "2026-08-06 21:00:39",
@@ -787,18 +787,50 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+        "name": "\u05d0\u05d9",
+        "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
         }
       ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+      "duration_ms": 194040,
+      "name": "\u05de\u05d7\u05d1\u05e8\u05ea \u05db\u05d0\u05d1",
+      "url": "https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j"
+    },
+    {
+      "added_at": "2026-08-06 21:00:39",
+      "album": {
+        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
+      },
+      "artists": [
+        {
+          "name": "Dana Berger",
+          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
+    },
+    {
+      "added_at": "2026-08-06 21:00:39",
+      "album": {
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
+      },
+      "artists": [
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
     },
     {
       "added_at": "2026-08-06 21:00:39",
@@ -823,38 +855,6 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
-      },
-      "artists": [
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
-      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
-    },
-    {
-      "added_at": "2026-08-06 21:00:39",
-      "album": {
-        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
-      },
-      "artists": [
-        {
-          "name": "Dana Berger",
-          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
-    },
-    {
-      "added_at": "2026-08-06 21:00:39",
-      "album": {
         "name": "\u05e9\u05d7\u05d5\u05e8 \u05d6\u05d5\u05d4\u05e8",
         "url": "https://open.spotify.com/album/0ygZBvSGFZVZZjiz8PQHgB"
       },
@@ -871,18 +871,22 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "\u05d1\u05e9\u05d9\u05d7\u05d5\u05ea \u05e2\u05dd \u05e2\u05e6\u05de\u05d9",
-        "url": "https://open.spotify.com/album/36v2a5HR2mTKBhgGIbiH75"
+        "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+        "url": "https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1"
       },
       "artists": [
         {
-          "name": "Tomer Yeshayahu",
-          "url": "https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q"
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        },
+        {
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
         }
       ],
-      "duration_ms": 206000,
-      "name": "\u05d7\u05e1\u05e8 \u05d0\u05d5\u05e0\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4EitUmWkTVNl38N5PRsrwv"
+      "duration_ms": 304400,
+      "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
+      "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Karol G & Bruno Mars on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,728 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,831 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 48 | [Ravers](https://open.spotify.com/track/5oVbId7tF4pAwQYN9t4v0B) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Ravers](https://open.spotify.com/album/4jLIjmfkRz1jIZinv6BtFU) | 3:26 |
 | 49 | [Good Fortune](https://open.spotify.com/track/6h9g67CxwZf4RcsQF4SZZb) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Halcyon Blues](https://open.spotify.com/album/3vUBcLeVjcC2HIztGj0T7F) | 3:07 |
 | 50 | [DAYTONA](https://open.spotify.com/track/55T5cGpY3ZskSjvefO7j0s) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [SE ESTÁ HACIENDO TARDE](https://open.spotify.com/album/4fl15gNIqVJKLGfwbnq0OB) | 4:01 |
-| 51 | [HERE AND THERE ft LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
+| 51 | [HERE AND THERE FT LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
 | 52 | [this is the moment \(cuerpo\)](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 3:52 |
 | 53 | [CLAAT!](https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [CLAAT!](https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx) | 2:54 |
 | 54 | [raphael Bad as shit](https://open.spotify.com/track/00IKZzDVRw9ycGeQcPHvjc) | [god of war](https://open.spotify.com/artist/7o3wJo5yKVGHHkTojIZ7Xp), [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Hooky](https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f) | [molly picture](https://open.spotify.com/album/5FBhw9VmY1xqmSXEW7sbzs) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Heartclub](https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:07 |
 | 100 | [Fux With Us \(feat\. TiaCorine\)](https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Fux With Us \(feat\. TiaCorine\)](https://open.spotify.com/album/3hxSPaPvkCnM6qgm9ld1HR) | 2:43 |
 
-Snapshot ID: `AAAAAP/m9TY9Niy8IUsw1wj3z9exzDPP`
+Snapshot ID: `AAAAAMlpg3Dg3I3Hd2owRPEcHuVJHCFJ`

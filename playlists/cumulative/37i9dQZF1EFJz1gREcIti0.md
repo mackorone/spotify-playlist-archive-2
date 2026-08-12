@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-171 songs - 9 hr 1 min
+172 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [6deep](https://open.spotify.com/track/3Gr0valhCPMKJqPfza8mZ6) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO), [Toyotomi](https://open.spotify.com/artist/6HCXRVOCucwBF8zV66T2cr), [MAX BLACK](https://open.spotify.com/artist/15qK4Jx9tO39zd6vCU75rL) | [6deep](https://open.spotify.com/album/4iSUwKDw5MKlHKWsJm0KBw) | 3:52 | 2025-08-02 |  |
 | [Above The Chinese Restaurant](https://open.spotify.com/track/4bQaYjJTtUC1tNlZGDwENU) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:43 | 2025-08-02 |  |
 | [alive](https://open.spotify.com/track/2CRs8EpAcyaEGounRabYQI) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/1bbO5BrzT1CqhZuGh5qHn6) | 3:02 | 2025-08-02 |  |
+| [All My Love](https://open.spotify.com/track/64Vt6857ya0Bf5f7T5Ycoo) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [YEARNALISM](https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta) | 3:12 | 2026-08-11 |  |
 | [Alone With You](https://open.spotify.com/track/7D3AvJojWNdkEWoSIwFLiE) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/0kHOukhQ8TT7IFNyzq2DZo) | 3:46 | 2025-08-02 |  |
 | [Always Been You](https://open.spotify.com/track/6DtMK84iJ5bReQffOpCH4p) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Always Been You](https://open.spotify.com/album/7h90sAbas1Clmf6xq47HtY) | 3:23 | 2025-08-02 |  |
 | [BAD HABITS](https://open.spotify.com/track/6XR59BEFC1Z2kQ7PayDNPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE DEPENDENCY PROJECT](https://open.spotify.com/album/3et7p7lFukbFP8RwL4io3G) | 3:20 | 2025-08-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158245,
+  "num_followers": 158238,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPV7xlLp55gZThUNMSV+84f3GbMC",
+  "snapshot_id": "AAAAABkQU0wTp8O6dJTnD2WY2AhiKBic",
   "tracks": [
     {
       "added_at": "2026-08-07 14:29:31",
@@ -507,6 +507,34 @@
     {
       "added_at": "2026-08-07 14:29:31",
       "album": {
+        "name": "Ver o Mar",
+        "url": "https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs"
+      },
+      "artists": [
+        {
+          "name": "UCHA",
+          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
+        },
+        {
+          "name": "Niina",
+          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Sonora Sessions",
+          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
+        }
+      ],
+      "duration_ms": 187274,
+      "name": "Ver o Mar",
+      "url": "https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ"
+    },
+    {
+      "added_at": "2026-08-07 14:29:31",
+      "album": {
         "name": "UM44K Ac\u00fastico",
         "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
       },
@@ -543,34 +571,6 @@
       "duration_ms": 225138,
       "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
       "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
-    },
-    {
-      "added_at": "2026-08-07 14:29:31",
-      "album": {
-        "name": "Ver o Mar",
-        "url": "https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs"
-      },
-      "artists": [
-        {
-          "name": "UCHA",
-          "url": "https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c"
-        },
-        {
-          "name": "Niina",
-          "url": "https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Sonora Sessions",
-          "url": "https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb"
-        }
-      ],
-      "duration_ms": 187274,
-      "name": "Ver o Mar",
-      "url": "https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ"
     },
     {
       "added_at": "2026-08-07 14:29:31",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2026-08-07 14:29:31",
       "album": {
-        "name": "Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Moz\u00e3o",
-      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
-    },
-    {
-      "added_at": "2026-08-07 14:29:31",
-      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -1055,6 +1031,30 @@
       "duration_ms": 216600,
       "name": "Amor N\u00e3o Sai de Moda",
       "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
+    },
+    {
+      "added_at": "2026-08-07 14:29:31",
+      "album": {
+        "name": "Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Moz\u00e3o",
+      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
     },
     {
       "added_at": "2026-08-07 14:29:31",

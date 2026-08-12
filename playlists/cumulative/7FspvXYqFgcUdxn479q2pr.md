@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  Cover: Luvstruck, Leena Punks
 
-1,232 songs - 2 day 14 hr 27 min
+1,233 songs - 2 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [House Is Gettin' Raw](https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [House Is Gettin' Raw](https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR) | 2:58 | 2025-11-20 |  |
 | [How Deep Is Your Love](https://open.spotify.com/track/0smFVehgQl7Oxi4EvKNbKl) | [TwoRule](https://open.spotify.com/artist/6idsVz4ueHSGRoScZdf9KF) | [How Deep Is Your Love](https://open.spotify.com/album/2BqqPTZMZ0bR4QUEaaxdGa) | 3:14 | 2026-01-23 | 2026-02-07 |
 | [How I Feel \(Am I Wrong\)](https://open.spotify.com/track/2FFPJq44xTco95jn7KpZ82) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu) | [How I Feel \(Am I Wrong\)](https://open.spotify.com/album/2ZkRCCbho1KlqFxonneT9L) | 3:00 | 2025-05-01 | 2025-05-31 |
+| [How Much Can You Take](https://open.spotify.com/track/288IE2ybYBlwQZJrZxTPuL) | [RØØTZ](https://open.spotify.com/artist/4frpBL2krY6yQkxN9bN0ui) | [How Much Can You Take](https://open.spotify.com/album/1IBigJMikzf5VscIcf6aGF) | 3:17 | 2026-08-11 |  |
 | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/album/0AykD0vZXh4qotarIZaein) | 2:33 | 2024-07-12 | 2024-07-27 |
 | [Hurt Me Now](https://open.spotify.com/track/5VcerLp7EuVSEG092Xc5Qf) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Hurt Me Now](https://open.spotify.com/album/2Q1Zc46l5pDtHWZhbPJHTY) | 2:29 | 2024-07-15 | 2024-07-19 |
 | [Hypnotic](https://open.spotify.com/track/649ZGPOQ7cJfFpXrUavJis) | [Antoine Delvig](https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl), [LUISDEMARK](https://open.spotify.com/artist/6V8FJ4jrLkendobaeT99an) | [Hypnotic](https://open.spotify.com/album/4pwoQ3CAH2k3I3sU5fv3sO) | 2:40 | 2025-06-05 | 2025-06-13 |

@@ -1,13 +1,113 @@
 {
   "description": "The Best Indie Tracks of the Moment w/ This Is Lorelei",
-  "num_followers": 161474,
+  "num_followers": 161473,
   "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBGg1xexMdK/DNFdnwnL8TD3+r3",
+  "snapshot_id": "AAAAAEOtWgKH8zRgso5NRmDJavx5pANF",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:03:14",
+      "album": {
+        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 327446,
+      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
+      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
+    },
+    {
+      "added_at": "2026-08-07 04:03:14",
+      "album": {
+        "name": "Drywall",
+        "url": "https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 254743,
+      "name": "Drywall",
+      "url": "https://open.spotify.com/track/4ygcbHjrfBz5ULRFb0G3OV"
+    },
+    {
+      "added_at": "2026-08-07 04:03:14",
+      "album": {
+        "name": "Some Kind Of Life",
+        "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
+      },
+      "artists": [
+        {
+          "name": "Perfect Person",
+          "url": "https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ"
+        },
+        {
+          "name": "Holostar",
+          "url": "https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Here & Now",
+      "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
+    },
+    {
+      "added_at": "2026-08-07 04:03:14",
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/2Gm2o38xxEiIbwmWUIPog9"
+      },
+      "artists": [
+        {
+          "name": "Passion Mango",
+          "url": "https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn"
+        }
+      ],
+      "duration_ms": 144903,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/6l02vsnlXfxMZomTDTf1xF"
+    },
+    {
+      "added_at": "2026-08-07 04:03:14",
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE"
+    },
+    {
+      "added_at": "2026-08-07 04:03:14",
+      "album": {
+        "name": "FU : ILY",
+        "url": "https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "FU : ILY",
+      "url": "https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0"
+    },
     {
       "added_at": "2026-08-07 04:03:14",
       "album": {
@@ -59,58 +159,6 @@
     {
       "added_at": "2026-08-07 04:03:14",
       "album": {
-        "name": "FU : ILY",
-        "url": "https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN"
-      },
-      "artists": [
-        {
-          "name": "the sound chalk makes",
-          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
-        }
-      ],
-      "duration_ms": 149126,
-      "name": "FU : ILY",
-      "url": "https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0"
-    },
-    {
-      "added_at": "2026-08-07 04:03:14",
-      "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/2Gm2o38xxEiIbwmWUIPog9"
-      },
-      "artists": [
-        {
-          "name": "Passion Mango",
-          "url": "https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn"
-        }
-      ],
-      "duration_ms": 144903,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/6l02vsnlXfxMZomTDTf1xF"
-    },
-    {
-      "added_at": "2026-08-07 04:03:14",
-      "album": {
-        "name": "Some Kind Of Life",
-        "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
-      },
-      "artists": [
-        {
-          "name": "Perfect Person",
-          "url": "https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ"
-        },
-        {
-          "name": "Holostar",
-          "url": "https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Here & Now",
-      "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
-    },
-    {
-      "added_at": "2026-08-07 04:03:14",
-      "album": {
         "name": "Truth or Dare",
         "url": "https://open.spotify.com/album/4MKe28WDs1OdlvueCEeMvj"
       },
@@ -139,22 +187,6 @@
       "duration_ms": 243302,
       "name": "7563",
       "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
-    },
-    {
-      "added_at": "2026-08-07 04:03:14",
-      "album": {
-        "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-        "url": "https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 327446,
-      "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
-      "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"
     },
     {
       "added_at": "2026-08-07 04:03:14",
@@ -223,38 +255,6 @@
       "duration_ms": 207266,
       "name": "Rockstar Joy",
       "url": "https://open.spotify.com/track/0C2SdzgTneBs8BtJcOaXrV"
-    },
-    {
-      "added_at": "2026-08-07 04:03:14",
-      "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE"
-    },
-    {
-      "added_at": "2026-08-07 04:03:14",
-      "album": {
-        "name": "Drywall",
-        "url": "https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 254743,
-      "name": "Drywall",
-      "url": "https://open.spotify.com/track/4ygcbHjrfBz5ULRFb0G3OV"
     },
     {
       "added_at": "2026-08-07 04:03:14",

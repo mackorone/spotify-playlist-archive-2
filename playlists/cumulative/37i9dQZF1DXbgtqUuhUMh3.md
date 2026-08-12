@@ -2,9 +2,9 @@
 
 ### [EQUAL Arabia](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Dana Salah
+> Listen to Arab women, at full volume\. Dana Salah is co\-curating EQUAL Arabia this month.
 
-761 songs - 1 day 19 hr 48 min
+765 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Ekhed Mny Waad](https://open.spotify.com/track/3y6T9v7I41Ma2Ot8JcloZ0) | [Waad Al Faisal](https://open.spotify.com/artist/4S3ozBLbucCR7nkkpYikJz) | [Ekhed Mny Waad](https://open.spotify.com/album/2EvF09AgVIiKil7Unqfvx4) | 3:00 | 2021-12-23 | 2022-03-02 |
 | [Ekhtary](https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [اختاري](https://open.spotify.com/album/3ty4b0EddF0sWH4FyMtYpi) | 3:20 | 2022-11-15 | 2023-05-13 |
 | [Ekhtisar](https://open.spotify.com/track/1Av47fzk2dSeJJGrcyodMN) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ekhtisar](https://open.spotify.com/album/4VsKu058hl6R9XH7ZsocV3) | 5:13 | 2024-06-26 |  |
+| [El 3asal](https://open.spotify.com/track/5ecSRvEKkYarFYgyFgKak8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [El 3asal](https://open.spotify.com/album/3TE0kPmcSenKkNKyfTLLWS) | 3:00 | 2026-08-11 |  |
 | [El Adar Byekhtar](https://open.spotify.com/track/3igowOgPE3Qa2MfmeFJ0sI) | [Mayssa Karaa](https://open.spotify.com/artist/1IsHfx3tpJaUzDNRbMULzU) | [El Adar Byekhtar](https://open.spotify.com/album/14PHpW1vUfpF9bLqtE3b4R) | 3:05 | 2023-05-18 | 2023-05-23 |
 | [El Dahab](https://open.spotify.com/track/7mrLcboFABy7lyKCYxgimY) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [El Dahab](https://open.spotify.com/album/5Edgo5uHVbQVkYzRTYrO60) | 3:09 | 2024-04-12 | 2025-07-19 |
 | [El Fetra](https://open.spotify.com/track/5NV4xOESIJm1e0GnXZfnEq) | [Maryam Saleh](https://open.spotify.com/artist/3M3dqhDqNK2DsZPIbopgUA) | [Syrr](https://open.spotify.com/album/1Gp08QGitGOM6w72NjBKPb) | 3:00 | 2026-04-07 |  |
@@ -279,6 +280,7 @@
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2022-11-15 | 2023-05-13 |
 | [HEY DJ](https://open.spotify.com/track/2X8XcskW99dzN3ERfRdbLt) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [HEY DJ](https://open.spotify.com/album/2McuhBKRgSGr60FXSHs5GP) | 2:52 | 2021-12-23 | 2022-03-01 |
 | [High](https://open.spotify.com/track/6i6xYs14ViOdffFSBpoBeV) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [High](https://open.spotify.com/album/0ljHvBxU42OU9opDgWJEcb) | 3:39 | 2021-12-23 | 2022-03-01 |
+| [Hilwa](https://open.spotify.com/track/5v06JgwDvBVmwvbUSyujPW) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Hilwa](https://open.spotify.com/album/1JlLGHzjvw3Hq8lEvK46zL) | 2:29 | 2026-08-11 |  |
 | [Hkayat](https://open.spotify.com/track/2i4oVynWtzKOTc8fq9xiyq) | [Chantal Bitar](https://open.spotify.com/artist/6HN34scCFbSWFdHDbGagBM) | [Hkayat](https://open.spotify.com/album/78cWsuCyskPfF9hRtjtOdW) | 3:27 | 2023-07-21 | 2023-10-04 |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-03-08 | 2022-07-29 |
 | [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-03-01 | 2023-03-02 |
@@ -462,6 +464,7 @@
 | [Ou3a Tez3al](https://open.spotify.com/track/64fcdehEJGErYCaGyu9F12) | [Angi](https://open.spotify.com/artist/4sCkRNGvfn7dtQYu3sH4Gl) | [Ou3a Tez3al](https://open.spotify.com/album/3wI88IaWaDv9ihd8TWblO7) | 3:13 | 2021-12-23 | 2022-03-01 |
 | [Oyoun Al Soud](https://open.spotify.com/track/1oepl9aDL7LdQacJfetZnV) | [Tina Yamout](https://open.spotify.com/artist/4MD4oAkzFo3Qm698L3ah2G) | [Oyoun Al Soud](https://open.spotify.com/album/6Q2z8DnzI4zgwwMy4uhBrz) | 2:43 | 2026-04-07 |  |
 | [PAM PAM](https://open.spotify.com/track/4M7mFwpdfVoH7jKBl7BRGn) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [PAM PAM](https://open.spotify.com/album/5qIrUxSjI16F29IWvXekyv) | 3:20 | 2021-12-23 | 2022-02-28 |
+| [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 | 2026-08-11 |  |
 | [Pillowcase](https://open.spotify.com/track/65IbhBTbv7EoVtyz2a478c) | [Dana](https://open.spotify.com/artist/0TpG7Q6ezTEdgVH88u7qzi) | [Pillowcase](https://open.spotify.com/album/5yZlwOtDIuc2nrdvuNcy4G) | 2:41 | 2021-12-23 | 2022-02-21 |
 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 | 2021-12-23 | 2022-03-01 |
 | [PRIVATE RUNWAY](https://open.spotify.com/track/1ScLs0SL5i5pHArc7AfFx3) | [VASCHA](https://open.spotify.com/artist/0qBRW8UJMWyGHrIZZmEed2), [Ange Madame](https://open.spotify.com/artist/4BipMgruXUMQVpCvozvMkI) | [V IN THE MIX: VISIONS OF HEREAFTER](https://open.spotify.com/album/6LDvG1tdHKokFUMdHMIgCf) | 5:09 | 2026-04-07 | 2026-07-01 |
@@ -646,7 +649,7 @@
 | [العين يا نور العين](https://open.spotify.com/track/0FH3HZnLtOsirwMDpZAEXQ) | [فرح شريم](https://open.spotify.com/artist/05xj0n89xCSoCIyH42n1uN), [Ahmad H Music](https://open.spotify.com/artist/7uX4GJ4dsIR1SxV2V5t0Fr) | [العين يا نور العين](https://open.spotify.com/album/2ygZaiQo51akgXIZLG3XmS) | 1:54 | 2021-12-23 | 2022-03-02 |
 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 | 2021-12-23 | 2022-03-02 |
 | [الليلة حلوة](https://open.spotify.com/track/5RyptsCWbpw2TbsinvklVv) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [الليلة حلوة](https://open.spotify.com/album/1FtkFVI2zD4mNnmuJ9wiRp) | 2:55 | 2024-05-08 |  |
-| [المراية](https://open.spotify.com/track/0dmDrpb754mYIssprDd6zG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [المراية](https://open.spotify.com/album/49xZ9aIX5FcUJp68g2zuM7) | 2:54 | 2026-07-01 |  |
+| [المراية](https://open.spotify.com/track/0dmDrpb754mYIssprDd6zG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [المراية](https://open.spotify.com/album/49xZ9aIX5FcUJp68g2zuM7) | 2:54 | 2026-07-01 | 2026-08-12 |
 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [Elwarda Elbaida](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 | 2022-07-20 | 2023-05-13 |
 | [الورود](https://open.spotify.com/track/0yLiUX7xOAqQ4qOaE5zwyV) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [الورود](https://open.spotify.com/album/5lHlJTXmNbWAnk8D9kqDgO) | 2:22 | 2023-02-23 | 2023-03-01 |
 | [الورود](https://open.spotify.com/track/4stva5wFGdHPxaWPEk1zHS) | [Xena Elshazlii](https://open.spotify.com/artist/4EqHdN0Y8lPbl6UVVrFBG2) | [ELWOROUD](https://open.spotify.com/album/0i3CGbhBMbx72GSv4vLZnR) | 2:22 | 2023-03-10 | 2023-03-25 |
@@ -717,6 +720,7 @@
 | [قيود](https://open.spotify.com/track/3jaY0nkYO9qFBjA4XNEZtI) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [قيود](https://open.spotify.com/album/3ipg4bP7o5IWZP44gtWX0W) | 2:56 | 2022-03-01 | 2022-08-29 |
 | [كانت بتسهر](https://open.spotify.com/track/6i2yw9dhF9GPevIJxD3ewR) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [كانت بتسهر](https://open.spotify.com/album/33Rdd2BXryUUBUrrcAcJMY) | 3:30 | 2022-03-11 | 2023-03-13 |
 | [كل شيء](https://open.spotify.com/track/73B6xswAy0QNy2XpsZvnqP) | [Cheen](https://open.spotify.com/artist/29Es5aQwN2V7y4kn4GZrIp), [La Machine à Mixer](https://open.spotify.com/artist/4Kb5gZjkvWvWfwAFhYoaZf) | [كل شيء](https://open.spotify.com/album/1rJKJgls6GoCHnE2IGpdPb) | 3:29 | 2021-12-23 | 2022-02-26 |
+| [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2026-08-11 |  |
 | [كلو وهم](https://open.spotify.com/track/3XSlbOYVONZWgHUYsyv1kn) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [كلو وهم](https://open.spotify.com/album/0zVuys4kG4cSCH5TXPuv5H) | 3:22 | 2024-01-29 | 2024-04-19 |
 | [لا لا يالخيزرانه](https://open.spotify.com/track/4ZBUuvMtpGqiqF18lqeeIB) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [لا لا يالخيزرانه](https://open.spotify.com/album/5kfATHTrJ77l3NVCQPqK8q) | 3:36 | 2023-02-28 | 2023-05-14 |
 | [لبعيد](https://open.spotify.com/track/7cdQhv0e9U3fbTDI9BnEQr) | [Shorouk Elzoghbi](https://open.spotify.com/artist/0AXjHmRRafr9T8nhnwQimT) | [لبعيد](https://open.spotify.com/album/3O1waFE3PifaE9D0385wFY) | 3:39 | 2023-08-01 | 2023-08-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,910 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,987 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74VGmwslvwH.md) - [plain]
 | 109 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 |
 | 110 | [River](https://open.spotify.com/track/5noFpnVfIGs7nLUkfNuEFu) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [River](https://open.spotify.com/album/4Bn5tjd6zeja3ggftvOcf8) | 2:53 |
 
-Snapshot ID: `AAAAAJp85GB8dOps4KExX5DoaFUs1ZDh`
+Snapshot ID: `AAAAAK4IWrUUOD1GzrkgKBcwE9f3/tph`

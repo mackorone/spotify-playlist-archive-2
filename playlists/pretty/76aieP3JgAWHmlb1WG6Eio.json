@@ -6,7 +6,7 @@
     "name": "Bram Bloemen",
     "url": "https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq"
   },
-  "snapshot_id": "AAAAmGcDWPzstDJPwUw/tvh7UpTr9JfB",
+  "snapshot_id": "AAAAmrE4P7+98t1VKzkY6z2NGNaMqlQa",
   "tracks": [
     {
       "added_at": "2020-04-07 17:34:00",
@@ -3307,6 +3307,38 @@
       "duration_ms": 187868,
       "name": "1.1_3-oneor0.wma",
       "url": "https://open.spotify.com/track/66LSGgGsvhqvnDP0inq4pw"
+    },
+    {
+      "added_at": "2026-08-11 05:32:03",
+      "album": {
+        "name": "Inception (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 148368,
+      "name": "One Simple Idea",
+      "url": "https://open.spotify.com/track/3C12og48CWBrxVV2FK6Dhw"
+    },
+    {
+      "added_at": "2026-08-11 06:00:18",
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 170844,
+      "name": "Norman",
+      "url": "https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8"
     }
   ],
   "unique_name": "soundtracks",

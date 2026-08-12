@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 257,419 likes - 459 songs - 1 day 0 hr 6 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 257,383 likes - 459 songs - 1 day 0 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 20 | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/track/1rwOLMfAwW4M6sehYf7Lop) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/album/1tku7mFvWNy5EmRy9WKsLe) | 3:09 |
 | 21 | [Good Time \(Clothes Off\)](https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Good Time \(Clothes Off\)](https://open.spotify.com/album/1xA7H4RYypebhrtgSoWczk) | 2:24 |
 | 22 | [Horizon \- Eelke Kleijn Remix](https://open.spotify.com/track/5ZsAmOWjQc5dMkIIzpoSge) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Horizon \(Eelke Kleijn Remix\)](https://open.spotify.com/album/1pjgIhcrnN3G4466CPdiwf) | 2:40 |
-| 23 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/6CMx10yU6I5bZzelgQ2NEa), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 |
+| 23 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/2lkpWTHHz2wqjXk5cLTc4I), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 |
 | 24 | [Flashes](https://open.spotify.com/track/584s5UwLH5sCdEUv6z46Xm) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Ed Graves](https://open.spotify.com/artist/1Kkcm36k22FT1RWcINq4sI) | [Flashes](https://open.spotify.com/album/1kNXd72fsJqBszEM7cmcmK) | 3:59 |
 | 25 | [ResuRection](https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs) | [ResuRection](https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI) | 2:59 |
 | 26 | [Heavenly](https://open.spotify.com/track/3wQ0Yr35FL0m37QEhpmat0) | [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [Mojave Grey](https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI) | [Heavenly](https://open.spotify.com/album/4IfsNTaCXQos0Ht5FjSx3J) | 3:25 |

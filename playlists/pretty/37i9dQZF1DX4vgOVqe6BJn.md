@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,349 likes - 104 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,415 likes - 104 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 90 | [Headliner](https://open.spotify.com/track/24AlQe7eGRsNZE0e7gX73D) | [Graft](https://open.spotify.com/artist/4D8x62ZMhyT8vZifuO6nXc) | [Golden Child](https://open.spotify.com/album/64HC7ZepXtioijRK0CDNqJ) | 2:59 |
 | 91 | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/track/1lVKKIs57NBOnRc4kNuCoF) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm), [Psweatpants](https://open.spotify.com/artist/45qonKMyhaFMPywkQ5DDqR) | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/album/67K2vShfSWaL2ypzijGM1k) | 3:23 |
 | 92 | [Modern Man](https://open.spotify.com/track/10VAsXITsdLNv3kWjB2Omu) | [MORN](https://open.spotify.com/artist/0kyIsGsq7em6p0dOUwOAI3) | [Modern Man](https://open.spotify.com/album/3m7OWCL2PfBrcj2Fu179kx) | 4:09 |
-| 93 | [MOTO](https://open.spotify.com/track/44XhnPbTET1lEvQK8pdgoT) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN), [Faty Sy Savanet](https://open.spotify.com/artist/03WmEf6D7DRxBy2HUKHWoE), [Nicolas Dacunha\-Castelle](https://open.spotify.com/artist/4SZut2xLlH5IZVD7B0ur1D) | [MOTO](https://open.spotify.com/album/1DMfotgXi2NtVg62NLgfcE) | 2:59 |
+| 93 | [MOTO](https://open.spotify.com/track/44XhnPbTET1lEvQK8pdgoT) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [MOTO](https://open.spotify.com/album/1DMfotgXi2NtVg62NLgfcE) | 2:59 |
 | 94 | [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 |
 | 95 | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/track/5XMsLJ0CXP2h8qfFi7so7m) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [iDA HAWK](https://open.spotify.com/artist/5hrtcI0g197yJxmyAU6VYv) | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/album/2pdWephmuNIPKFh6ZSzWap) | 4:54 |
 | 96 | [Poor Business Man](https://open.spotify.com/track/3LfxeB0bMo2fcJCmdHib5f) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/5jgRsnXzQCf4XV6Kkr1VDh) | 3:30 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 103 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
 | 104 | [Millennium Freak](https://open.spotify.com/track/2XHpYk5tPivm8fJxLjmf8y) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq), [mediopicky](https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 2:29 |
 
-Snapshot ID: `AAAAANcClldpUG1p1yYMMh+KCAJ5yAYh`
+Snapshot ID: `AAAAAJtARzb3WO1Q4ETzlwEhOcStvgLz`

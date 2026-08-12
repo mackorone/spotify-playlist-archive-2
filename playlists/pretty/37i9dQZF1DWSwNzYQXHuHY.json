@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12806,
+  "num_followers": 12811,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/YBoSasXTjCDbZj2orGBwc3D+l",
+  "snapshot_id": "AAAAAMyeA4y6JQIX3f3CNnnfBntvG822",
   "tracks": [
     {
       "added_at": "2026-07-03 07:31:26",
@@ -683,6 +683,26 @@
     {
       "added_at": "2026-07-03 07:31:26",
       "album": {
+        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Naeun",
+          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+    },
+    {
+      "added_at": "2026-07-03 07:31:26",
+      "album": {
         "name": "STAYC Special Single [I WANT IT]",
         "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 188506,
       "name": "It\u2019s secret",
       "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
-    },
-    {
-      "added_at": "2026-07-03 07:31:26",
-      "album": {
-        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        },
-        {
-          "name": "Naeun",
-          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
     },
     {
       "added_at": "2026-07-03 07:31:26",

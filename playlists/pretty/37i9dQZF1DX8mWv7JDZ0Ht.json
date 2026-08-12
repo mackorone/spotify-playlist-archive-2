@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  GIANA",
-  "num_followers": 433727,
+  "num_followers": 433728,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIxnFV88mNHUT/LCldCAYNt/bEiG",
+  "snapshot_id": "AAAAAGM5C1viDK/GaJ9b0Me8iPWR66MB",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:09",
@@ -127,26 +127,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Comum (xote)",
-        "url": "https://open.spotify.com/album/7AkoIdDqVX5eV0cqlBQBdH"
+        "name": "Sess\u00e3o Da Tarde",
+        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
       },
       "artists": [
         {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
         },
         {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        },
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
         }
       ],
-      "duration_ms": 244357,
-      "name": "Comum (xote)",
-      "url": "https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ"
+      "duration_ms": 182784,
+      "name": "Sess\u00e3o Da Tarde",
+      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -167,22 +163,26 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Sess\u00e3o Da Tarde",
-        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+        "name": "Comum (xote)",
+        "url": "https://open.spotify.com/album/7AkoIdDqVX5eV0cqlBQBdH"
       },
       "artists": [
         {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
         },
         {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
         }
       ],
-      "duration_ms": 182784,
-      "name": "Sess\u00e3o Da Tarde",
-      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
+      "duration_ms": 244357,
+      "name": "Comum (xote)",
+      "url": "https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Can\u00e7\u00f5es para Chico e Malu",
-        "url": "https://open.spotify.com/album/0BEPPsgQnoNluUPf171GhG"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 180380,
-      "name": "Enquanto Voc\u00ea Cria Asas",
-      "url": "https://open.spotify.com/track/35yQ5QWeQMIAMUe3NlNtvk"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
         "name": "BASEADO EM FATOS REAIS (deluxe)",
         "url": "https://open.spotify.com/album/1VNgTtRJ1zbNbBCc9mmTr1"
       },
@@ -331,8 +315,24 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "A Menina Dan\u00e7a",
-        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
+        "name": "Can\u00e7\u00f5es para Chico e Malu",
+        "url": "https://open.spotify.com/album/0BEPPsgQnoNluUPf171GhG"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 180380,
+      "name": "Enquanto Voc\u00ea Cria Asas",
+      "url": "https://open.spotify.com/track/35yQ5QWeQMIAMUe3NlNtvk"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
+        "name": "te traindo com voc\u00ea",
+        "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 177978,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+      "duration_ms": 188150,
+      "name": "te traindo com voc\u00ea",
+      "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -363,18 +363,34 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+        "name": "Meu crime foi amar",
+        "url": "https://open.spotify.com/album/0XNpCxorUkWLhW4rnmS7OI"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
+      "duration_ms": 202882,
+      "name": "Meu crime foi amar",
+      "url": "https://open.spotify.com/track/5hlVPUWezYbwgoqfrXHSv9"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -399,24 +415,8 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "te traindo com voc\u00ea",
-        "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
+        "name": "A Menina Dan\u00e7a",
+        "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
       },
       "artists": [
         {
@@ -424,9 +424,25 @@
           "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
         }
       ],
-      "duration_ms": 188150,
-      "name": "te traindo com voc\u00ea",
-      "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
+      "duration_ms": 177978,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -451,34 +467,18 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Meu crime foi amar",
-        "url": "https://open.spotify.com/album/0XNpCxorUkWLhW4rnmS7OI"
+        "name": "Sozinho e Bem Acompanhado",
+        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
       },
       "artists": [
         {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 202882,
-      "name": "Meu crime foi amar",
-      "url": "https://open.spotify.com/track/5hlVPUWezYbwgoqfrXHSv9"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+      "duration_ms": 206445,
+      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
+      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -515,18 +515,18 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Sozinho e Bem Acompanhado",
-        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 206445,
-      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
-      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -567,18 +567,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
       },
       "artists": [
         {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
         }
       ],
-      "duration_ms": 189073,
-      "name": "M\u00e1gica - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -595,6 +599,22 @@
       "duration_ms": 221961,
       "name": "MINHA J\u00d3IA",
       "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
+        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 189073,
+      "name": "M\u00e1gica - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -631,26 +651,6 @@
       "duration_ms": 206779,
       "name": "Raio de Sol",
       "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -767,22 +767,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
       },
       "artists": [
         {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
         },
         {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -815,26 +815,6 @@
       "duration_ms": 165676,
       "name": "T\u00e3o Perto",
       "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -899,6 +879,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
         "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
       },
@@ -915,18 +911,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
       "artists": [
         {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
         }
       ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "Manh\u00e3 de Sol",
+        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Manh\u00e3 de Sol",
+      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "Del Amor Una Bandera",
         "url": "https://open.spotify.com/album/2ISymt2oiMYBJaL7Iuy9k0"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 187154,
       "name": "Del Amor Una Bandera",
       "url": "https://open.spotify.com/track/2UVQCFIHDHAvLEABsn5bqE"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Manh\u00e3 de Sol",
-        "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Manh\u00e3 de Sol",
-      "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "N\u00e3o \u00e9 t\u00e3o ruim",
+        "url": "https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "N\u00e3o \u00e9 t\u00e3o ruim",
+      "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "Coisa de Alma",
         "url": "https://open.spotify.com/album/2ve6z3W7HC4kYKI08PonwD"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 149026,
       "name": "Coisa de Alma",
       "url": "https://open.spotify.com/track/6x3UHY7jsjP9JrrBJjQhf1"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "N\u00e3o \u00e9 t\u00e3o ruim",
-        "url": "https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "N\u00e3o \u00e9 t\u00e3o ruim",
-      "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
     },
     {
       "added_at": "2026-08-07 03:00:09",

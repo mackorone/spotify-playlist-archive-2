@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Joepraize",
-  "num_followers": 59882,
+  "num_followers": 59917,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPuU84dXiIIBghk0TOYaznypjU3k",
+  "snapshot_id": "AAAAAEbjQBTujwKW5O96vw8A4Xf1tgyZ",
   "tracks": [
     {
       "added_at": "2024-12-06 00:01:00",
@@ -37,6 +37,22 @@
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
+      "added_at": "2025-07-18 00:01:14",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "What A Beautiful Name",
@@ -55,22 +71,6 @@
       "duration_ms": 240200,
       "name": "What A Beautiful Name",
       "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
-    },
-    {
-      "added_at": "2025-07-18 00:01:14",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
     },
     {
       "added_at": "2025-06-06 00:01:28",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "GOD IS GOOD",
@@ -619,6 +603,22 @@
       "duration_ms": 207529,
       "name": "GOD IS GOOD",
       "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN"
-      },
-      "artists": [
-        {
-          "name": "Lara George",
-          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
-        }
-      ],
-      "duration_ms": 324572,
-      "name": "Dansaki",
-      "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "I Believe It (The Life of Jesus)",
@@ -743,6 +727,22 @@
       "duration_ms": 225941,
       "name": "I Believe It (The Life of Jesus)",
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN"
+      },
+      "artists": [
+        {
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+        }
+      ],
+      "duration_ms": 324572,
+      "name": "Dansaki",
+      "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -881,26 +881,6 @@
       "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "The Maverick Way Complete",
@@ -923,6 +903,26 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth, Chandler Moore )",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "added_at": "2026-03-13 00:01:18",

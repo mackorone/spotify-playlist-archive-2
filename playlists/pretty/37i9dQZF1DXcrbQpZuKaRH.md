@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,167 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,222 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 99 | [Silent Glow](https://open.spotify.com/track/1ZLibBKJupB9wQ0pctoa9o) | [Inner Cabin](https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7) | [Silent Glow](https://open.spotify.com/album/6rjUc8JpOpej3SNSHj3WlA) | 3:20 |
 | 100 | [Raft](https://open.spotify.com/track/3WJL0D6yTmRb7jXjm8E2Pc) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Raft](https://open.spotify.com/album/4bzzze2zjYx7eX95jc0y8X) | 2:46 |
 
-Snapshot ID: `AAAAAK74BrEa2VNF03vvapL6HxWyGfT4`
+Snapshot ID: `AAAAAIMcPdZB6UcmzCvpUtpBmv9W8XML`

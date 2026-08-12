@@ -1,12 +1,12 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 672482,
+  "num_followers": 672575,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQ+ug55nxPEUVqUIqlBCH+qhiyp",
+  "snapshot_id": "AAAAAK344F/SVygCSujwb5dFU8gb4w5D",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "Nobody's Nobody",
-        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 169390,
-      "name": "Might As Well Be Me",
-      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
         "name": "Made It This Far",
         "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
       },
@@ -1271,34 +1255,18 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+        "name": "Nobody's Nobody",
+        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
       "artists": [
         {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Locomotive",
-      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
+      "duration_ms": 169390,
+      "name": "Might As Well Be Me",
+      "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1315,6 +1283,22 @@
       "duration_ms": 187899,
       "name": "5AM",
       "url": "https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Locomotive",
+      "url": "https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1379,6 +1363,22 @@
       "duration_ms": 215760,
       "name": "Time Bomb",
       "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2026-06-26 04:01:34",

@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-1,003 songs - 1 day 23 hr 19 min
+1,004 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(Konola\) S2 EP12 \[Top Up\]](https://open.spotify.com/track/14PuAzbjziyLBycd1aaAbJ) | [Aligned Vision](https://open.spotify.com/artist/1sYCFMXOAq4TOtbtqb2JwF), [Konola](https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t) | [\(Konola\) S2 EP12 \[Top Up\]](https://open.spotify.com/album/5Y41rbsHbYgtRXpkQxNGix) | 2:41 | 2022-05-28 | 2022-07-26 |
 | [\(Reblah\) S2 EP3 \- Top Up](https://open.spotify.com/track/27pglcyGM6ZTrDqPM539jU) | [Aligned Vision](https://open.spotify.com/artist/1sYCFMXOAq4TOtbtqb2JwF), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [\(Reblah\) S2 EP3 \- Top Up](https://open.spotify.com/album/5ngg35KQ6QUzYF3bgLZnfz) | 2:50 | 2022-04-30 | 2022-05-19 |
 | [/kroun/](https://open.spotify.com/track/2e1HiZFrtlkyNxP5uu8dGj) | [outr.cty](https://open.spotify.com/artist/44p6xbyBk8khm2UotlfH2w), [Scribe Music](https://open.spotify.com/artist/6Sje0vb62lzeO204N9yh0n), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [/kroun/](https://open.spotify.com/album/7lujWYUcmJ6MgfcQZ7cHhG) | 2:33 | 2022-05-28 | 2022-07-29 |
-| [1 Minute](https://open.spotify.com/track/5SCFTCw6k5NQLwZTeNBhpF) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [King Chai](https://open.spotify.com/artist/7tRpfqEFoPCklGKlN26c8O), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR), [KOU!!!](https://open.spotify.com/artist/4YjN4ke6i8j313ePfSJvGO), [404 chew](https://open.spotify.com/artist/2JBd00q6CqrSTCUhHvRLKZ) | [11:59](https://open.spotify.com/album/4BfOfVIwfiBBjRj5SqJiqk) | 2:35 | 2026-08-07 |  |
+| [1 Minute](https://open.spotify.com/track/5SCFTCw6k5NQLwZTeNBhpF) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [King Chai](https://open.spotify.com/artist/7tRpfqEFoPCklGKlN26c8O), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR), [KOU!!!](https://open.spotify.com/artist/4YjN4ke6i8j313ePfSJvGO), [404 chew](https://open.spotify.com/artist/2JBd00q6CqrSTCUhHvRLKZ) | [11:59](https://open.spotify.com/album/4BfOfVIwfiBBjRj5SqJiqk) | 2:35 | 2026-08-07 | 2026-08-12 |
 | [10,000 Hours](https://open.spotify.com/track/3UcJBlzA6lq50xKAzeIaNP) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [10,000 Hours](https://open.spotify.com/album/0lZvCF9AHKrbRXRXdCHdyW) | 3:03 | 2025-05-09 | 2026-07-26 |
 | [100%](https://open.spotify.com/track/0QMCaSrgTpVVMRuDkWu6Jb) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [100%](https://open.spotify.com/album/1JNc8LdH41366WQCUAFPmq) | 2:29 | 2024-06-07 | 2025-10-04 |
 | [2 Different](https://open.spotify.com/track/400E4VtxGIS50h6x6phoL1) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [2 Different](https://open.spotify.com/album/69VQCDmPBxe0LiZOG2hGuE) | 2:17 | 2025-07-18 |  |
@@ -1010,6 +1010,7 @@
 | [Your Love](https://open.spotify.com/track/7kVIqu3ZbvK5iwLtludPFP) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [A Star](https://open.spotify.com/artist/77UtwndWHGpGrSwkcg7Vpf) | [Kings Messenger](https://open.spotify.com/album/6C26c4P14geRIPValXg2Fe) | 3:14 | 2022-02-04 | 2022-06-15 |
 | [Your Love \(HGHTS Remix\)](https://open.spotify.com/track/7tOL3KPed2xaNyDIYBo45p) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Your Love \(HGHTS Remix\)](https://open.spotify.com/album/7AZH851x8UXOTAeOLfhnEf) | 3:57 | 2022-02-04 | 2024-01-13 |
 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 | 2022-11-04 | 2023-08-12 |
+| [ZION](https://open.spotify.com/track/2LMEqPJhfQi3MF6iHfW0pD) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [ZION](https://open.spotify.com/album/3R2AP03NR1dQa7Pq9936lv) | 2:43 | 2026-08-07 |  |
 | [Zone \(feat\. Ace Hood\)](https://open.spotify.com/track/1ojKYgNmscIpQMyWyqkVuG) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Zone \(feat\. Ace Hood\)](https://open.spotify.com/album/5O8KIehWTtYuQ0NSYcVCua) | 2:56 | 2022-02-04 | 2022-05-12 |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

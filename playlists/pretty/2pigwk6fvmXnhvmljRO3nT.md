@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,581 songs - 21 day 20 hr 0 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,584 songs - 21 day 20 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8589,5 +8589,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8579 | [Show Me How \- Garage Session](https://open.spotify.com/track/3WftyL45naEhUaYa9AMq4h) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/1zAmMlu6tYriPRdobmejRa) | 3:50 |
 | 8580 | [Gohan Wa Okazu](https://open.spotify.com/track/1i8sVUbbbSaFqRDDb7GRSN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 3:11 |
 | 8581 | [夢疾風](https://open.spotify.com/track/3zeTpCit5Q5j6D6Ujx0bbT) | [ミスターシービー \(CV\. 天海由梨奈\)](https://open.spotify.com/artist/1FaFRBt4a0XMz0VB2wiYVr) | [『ウマ娘 プリティーダービー』WINNING LIVE 24](https://open.spotify.com/album/5Yz7vK4nu9lMIEm8VwPjrZ) | 5:00 |
+| 8582 | [Shiawasenomonosashi](https://open.spotify.com/track/5iUjWA0lGW4TXr6KJs6Y0r) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 5:27 |
+| 8583 | [何もきかないで](https://open.spotify.com/track/1TVytW8KF6lq6yFtJze61w) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:11 |
+| 8584 | [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 |
 
-Snapshot ID: `AAAMn4rRF6Z2h/wnkyWiP5WE7K9uKv5Y`
+Snapshot ID: `AAAMoj3H6AXnrRblHKGa/pKUwqz8Ybck`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Mille, Pil & Ella Augusta ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,032 likes - 98 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,030 likes - 98 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 97 | [Heartclub](https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:07 |
 | 98 | [LAST CIGARETTE](https://open.spotify.com/track/22LiKzhB3PCwqbfc5ErOey) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [8](https://open.spotify.com/album/4T6vJEQ27RqNrjeGU9ALCH) | 3:37 |
 
-Snapshot ID: `AAAAAPDd9hLXn9wcplCfEuCSFFuHVfJ9`
+Snapshot ID: `AAAAAKp2LpF15uLFbi1sW8dxTEWMZB9A`

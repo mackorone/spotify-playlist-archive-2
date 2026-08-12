@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1094909,
+  "num_followers": 1095000,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAATnkvtxl2yTbWYqJqH2d+",
+  "snapshot_id": "ankUgAAAAADdjgVvYAf29qCALPVd0sLH",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El D\u00eda De Los Muertos",
         "url": "https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "MAYDAY",
-      "url": "https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis 30 Aniversario (Vol. 3)",
         "url": "https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO"
       },
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        },
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Tres Tiros",
-      "url": "https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 175040,
       "name": "Los Inadaptados",
       "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Tres Tiros",
+      "url": "https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con El Pie Derecho",
+        "url": "https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "El Principio Del Infierno",
+      "url": "https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -759,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con El Pie Derecho",
-        "url": "https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP"
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/6dxc0QAX01BMhq85AQvI2J"
       },
       "artists": [
+        {
+          "name": "Fede Figueroa",
+          "url": "https://open.spotify.com/artist/72EKkr04awG6qLW30R5VGU"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 163680,
-      "name": "El Principio Del Infierno",
-      "url": "https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo"
+      "duration_ms": 178224,
+      "name": "Sin Detalles",
+      "url": "https://open.spotify.com/track/24yCeL5tfe11BgbIRSxbOw"
     },
     {
       "added_at": null,
@@ -823,26 +843,6 @@
       "duration_ms": 221146,
       "name": "As\u00ed Es Esto",
       "url": "https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiempo Al Tiempo",
-        "url": "https://open.spotify.com/album/6dxc0QAX01BMhq85AQvI2J"
-      },
-      "artists": [
-        {
-          "name": "Fede Figueroa",
-          "url": "https://open.spotify.com/artist/72EKkr04awG6qLW30R5VGU"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 178224,
-      "name": "Sin Detalles",
-      "url": "https://open.spotify.com/track/24yCeL5tfe11BgbIRSxbOw"
     },
     {
       "added_at": null,

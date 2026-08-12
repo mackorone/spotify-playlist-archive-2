@@ -1,12 +1,12 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8254,
+  "num_followers": 8253,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIWlE20z55wWWy4gDVY5Oobf17gF",
+  "snapshot_id": "AAAAACBT/ZHMp03/+FJSeKDIKxMgpCh0",
   "tracks": [
     {
       "added_at": "2025-12-23 16:53:12",
@@ -195,38 +195,6 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Afrowave 2",
-        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
-      },
-      "artists": [
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Drogba (Joanna)",
-      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Ojapiano",
-        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
-      },
-      "artists": [
-        {
-          "name": "KCee",
-          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Ojapiano",
-      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
         "name": "SNOKONOKO",
         "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 399314,
       "name": "SNOKONOKO",
       "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Ojapiano",
+        "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
+      },
+      "artists": [
+        {
+          "name": "KCee",
+          "url": "https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Ojapiano",
+      "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Afrowave 2",
+        "url": "https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Drogba (Joanna)",
+      "url": "https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
+      },
+      "artists": [
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 183056,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "Ke Star (Remix)",
         "url": "https://open.spotify.com/album/0ycU5aDeq22IewMlUF1A66"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 328766,
       "name": "Ke Star - Remix",
       "url": "https://open.spotify.com/track/7b3991NnMDhwZRq7C2Cpgc"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/0Yo8cuJopqwNIt7XiLjK5o"
-      },
-      "artists": [
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 183056,
-      "name": "soso",
-      "url": "https://open.spotify.com/track/47FMwCBUIaYUbVNRHCBNPr"
     },
     {
       "added_at": "2025-12-23 16:53:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is Alabama Shakes. The essential tracks, all in one playlist.",
-  "num_followers": 64803,
+  "num_followers": 64814,
   "original_name": "This Is Alabama Shakes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAABGYVS40lbsbgjhim7onbuU",
+  "snapshot_id": "ankUgAAAAAChuro97WWepjzasaaQPW/6",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 299042,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Another Life",
         "url": "https://open.spotify.com/album/3jUvrYB4Bh3Hw9liq8dbCi"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 277580,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/3BpmezdTQq6L0pBpt3pq8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
+        "name": "American Dream",
+        "url": "https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 299042,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
+      "duration_ms": 267693,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/09nDcxFx9DAkpfxDjse4gZ"
+      "duration_ms": 243466,
+      "name": "Gimme All Your Love",
+      "url": "https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 243466,
-      "name": "Gimme All Your Love",
-      "url": "https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD"
+      "duration_ms": 179506,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/09nDcxFx9DAkpfxDjse4gZ"
     },
     {
       "added_at": null,

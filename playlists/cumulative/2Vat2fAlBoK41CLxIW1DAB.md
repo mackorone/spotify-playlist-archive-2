@@ -4,7 +4,7 @@
 
 > 
 
-1,134 songs - 2 day 23 hr 20 min
+1,140 songs - 2 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Insecure](https://open.spotify.com/track/7nb1ytQPpva3xwU9RxbayG) | [Myosis](https://open.spotify.com/artist/5yl2rxhZcUgi6uu22PapU0) | [Pretty Girls Are Never Sad](https://open.spotify.com/album/5WMSyUant7FKT5lmoU9SXB) | 5:36 | 2025-08-10 |  |
 | [Inside the storm](https://open.spotify.com/track/7ELjLle0NHzUar3q50MpEw) | [Ab ashford](https://open.spotify.com/artist/4g9FR7ZZIljvUkcL4iT6ln) | [Inside the storm](https://open.spotify.com/album/2dTIKqXuH7WpL5gCAIJlEw) | 4:29 | 2025-11-27 |  |
 | [Insignificant Kingdom](https://open.spotify.com/track/0SFdFRCMy9rqQhYIRCpLf7) | [Extirpation](https://open.spotify.com/artist/1eiXylfTupPX9TFPdLD5yu) | [Insignificant Kingdom](https://open.spotify.com/album/5bEXJeYHss6xvSshq1npYX) | 5:48 | 2026-04-12 |  |
+| [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 | 2026-08-11 |  |
 | [Intercity Blues](https://open.spotify.com/track/4FIHt4PcwwVZaJGyxHuLhK) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Intercity Blues](https://open.spotify.com/album/7JsBeIwHhEFdutgue2AiBO) | 5:02 | 2024-11-30 |  |
 | [Intiaani](https://open.spotify.com/track/51GulSjFyZjQXf9G0ojCQ3) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 3:29 | 2025-11-20 |  |
 | [Into Minds](https://open.spotify.com/track/7l5OqU0BsMcYWr2LmMKziC) | [Terrestrials](https://open.spotify.com/artist/0IgtGoVVy0B7ZdqwLIkKCW) | [Iridescent](https://open.spotify.com/album/55jRuQeHf0XDZub51E3aVv) | 3:20 | 2025-07-22 |  |
@@ -489,6 +490,7 @@
 | [Last Days In The Sun](https://open.spotify.com/track/47PAdcGnZKjFUxuJTV9Thv) | [Bad Valentines](https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd) | [Last Days In The Sun](https://open.spotify.com/album/2fkH7XgnbvcmPRfQoKPTXv) | 2:39 | 2025-02-05 |  |
 | [Last Song](https://open.spotify.com/track/3cEZDNypHqy8MMzOjxS3b2) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Last Song](https://open.spotify.com/album/4IZRDZwXAturTiBDTxAiUh) | 3:12 | 2025-06-18 |  |
 | [Last Words](https://open.spotify.com/track/1zBowpXBsRPKcz7e8qp8ys) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Last Words](https://open.spotify.com/album/2Q4pwdp3utPHsNvRd0x5Xu) | 5:02 | 2026-07-30 |  |
+| [Laws](https://open.spotify.com/track/5BMouuMBHrDZiEhqTbFUA6) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Laws](https://open.spotify.com/album/2TVFbbCj66rXsS631WlKGo) | 3:30 | 2026-08-11 |  |
 | [Laws](https://open.spotify.com/track/0RtwS89n4XVNOwAH4BOShh) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Laws](https://open.spotify.com/album/7eqdrllEwQEPEP0R5kdx4N) | 3:58 | 2025-04-24 |  |
 | [Layla](https://open.spotify.com/track/6IuLHoElf6kXSbVwSOXGoj) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [Layla](https://open.spotify.com/album/6yRrjhhMxutGf7w5sv4KhR) | 3:59 | 2025-11-12 |  |
 | [Layla Bartle](https://open.spotify.com/track/0VbH7zwCc4sdkpLeSDe7nu) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Fun with Layla in Wallington](https://open.spotify.com/album/2hTc0kStuvzmNsApCiLosP) | 2:43 | 2026-03-18 |  |
@@ -519,6 +521,7 @@
 | [Lost Cause](https://open.spotify.com/track/2u22p2lzDHzBbzjwOE7isO) | [Black Black Rainbow](https://open.spotify.com/artist/2BHj0OkuKzJJQjRr2sHm07) | [Lost Cause](https://open.spotify.com/album/1plnffnka0d9Yj1kMZpUMH) | 3:13 | 2025-07-17 |  |
 | [Lost cause](https://open.spotify.com/track/4QqP0rAbzntvsRcIEUwMUZ) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:42 | 2026-01-06 |  |
 | [Lost In Between](https://open.spotify.com/track/2oXcoO9wRg7DCF7fP4Sq3o) | [New Hate](https://open.spotify.com/artist/6vFDDIr4wUXmdnSpDRLETD) | [Lost In Between](https://open.spotify.com/album/17XSjMJlOqbgUexwM5BbR0) | 4:59 | 2025-05-15 |  |
+| [Lost Inside](https://open.spotify.com/track/7suVrAMEIuY74fFwMwMkqO) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Lost Inside](https://open.spotify.com/album/1dTObo08E1qoOuwynwuIUL) | 3:05 | 2026-08-11 |  |
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-10-23 |  |
 | [Love Is a Driving Force](https://open.spotify.com/track/6oO558KUx3y53ftckwkKHZ) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Love Is a Driving Force](https://open.spotify.com/album/7G0YtjrO3zD7cGMoeOpJR4) | 2:35 | 2025-10-16 |  |
 | [Love is Blind](https://open.spotify.com/track/30qfoBmakKoejDlouFQVIn) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Love is Blind](https://open.spotify.com/album/0QNs2g3amfHkqcZYfmk8t8) | 3:24 | 2026-07-12 |  |
@@ -690,6 +693,7 @@
 | [Party Rock Anthem](https://open.spotify.com/track/14AvcjdXQI8lgTEgDOpO67) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Party Rock Anthem](https://open.spotify.com/album/5LhJ5V2YG1SOQMDJGjryfO) | 4:13 | 2024-12-04 |  |
 | [Party Time](https://open.spotify.com/track/2ROLG5tbFEpbPg8kV0xxNQ) | [Virya](https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS) | [Echoes Of The Modern Mind](https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt) | 3:41 | 2025-11-21 |  |
 | [PASATE A NASTA](https://open.spotify.com/track/4LmtNu76uFnzJRQUjiEnFS) | [BLACK SABAG](https://open.spotify.com/artist/5ZUruVNQEwlw2U610skIch) | [VOLUMEN 1](https://open.spotify.com/album/1Ji3tz63vJFuDcjV8cbVJB) | 3:01 | 2025-10-16 |  |
+| [Paso a Paso](https://open.spotify.com/track/3rU0QvZyM39TD5P29S9BAS) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Paso a Paso](https://open.spotify.com/album/6zu8vQX86ppIIZat01vtHS) | 3:22 | 2026-08-11 |  |
 | [Pastimes & Fun](https://open.spotify.com/track/07sXI1FaF89JC3VL2wqZKH) | [Remy Verreault](https://open.spotify.com/artist/1X0sGIndNILAQgjp6goC3Z), [PF](https://open.spotify.com/artist/28rVIjydSpEDAniKvOiO5p) | [Pastimes & Fun](https://open.spotify.com/album/5nlSXlZuqHJTPhFSZB2R9p) | 3:28 | 2025-06-18 |  |
 | [Pay & Obey](https://open.spotify.com/track/6mcOiLKX3q2MNo8BFnMVwA) | [Nukore](https://open.spotify.com/artist/76hPQa6sCQSpbMsSzLVSAw) | [Pay & Obey](https://open.spotify.com/album/3TREww5YIu9EtitsaifdSK) | 3:33 | 2026-07-03 |  |
 | [Pay Attention \- \(remix\)](https://open.spotify.com/track/7pzDict0oO8pNE19KYoExS) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Pay Attention \(remix\)](https://open.spotify.com/album/45gnII5tAwL3fbGUrrCU3i) | 3:30 | 2025-01-15 |  |
@@ -965,6 +969,7 @@
 | [The Search for SETI](https://open.spotify.com/track/2ekm2jYvZF5geVTzzT9IFh) | [Oort Patrol](https://open.spotify.com/artist/6F7TUyhhhiZwAXK6YCxo7r) | [Human Vice President](https://open.spotify.com/album/4zZVzrlxRnwyCpybR3If3J) | 2:25 | 2025-05-06 |  |
 | [The Seed of Fear](https://open.spotify.com/track/7Dj7s4B5C4P0Ru6qzXnddF) | [Timeless Rage](https://open.spotify.com/artist/3SFCl90AfmCM4vkIPtWovA) | [The Seed of Fear](https://open.spotify.com/album/2cjmdqHw6oPToVTgudxXQP) | 5:18 | 2026-01-14 |  |
 | [The Silence Between Commands](https://open.spotify.com/track/6cQtalpDf16fURuzJjLkW9) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 3:33 | 2026-05-30 |  |
+| [The Summer](https://open.spotify.com/track/65Osn2jt5o15yIq6MSfx9q) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [The Summer](https://open.spotify.com/album/4d9HaHNZDRysrsFDaEt5NN) | 3:21 | 2026-08-11 |  |
 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/6S3TgU18TvTHXuxBXAb7Gf) | [Shrimpfield](https://open.spotify.com/artist/4aeUwozNQ5i2KXRO3uh8bY) | [The Sun Always Shines on T.V.](https://open.spotify.com/album/3bv5idqKpIGXRVAWLkRJSJ) | 4:44 | 2024-12-12 |  |
 | [The Things I Couldn't Say Aloud](https://open.spotify.com/track/6mztChZmwhJFFOUgUJOazF) | [With Abandon](https://open.spotify.com/artist/7kZkmClrQJfxczvl8LOHM3) | [Split](https://open.spotify.com/album/6dHBxQurTI0uAYyxYYAMTM) | 4:04 | 2024-12-12 |  |
 | [The Trooper](https://open.spotify.com/track/7GHx5zA8qahTgXQS1JZhZD) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD), [Tim "Ripper" Owens](https://open.spotify.com/artist/1kcDiFxJ4pv9tVARvStqTN), [Ben Christo](https://open.spotify.com/artist/50W4KugA9ZtpG8b5TMh5Kr) | [The Trooper](https://open.spotify.com/album/0xEBcbnlfWcUTg3k2fanaP) | 4:11 | 2025-04-29 |  |
@@ -1141,6 +1146,7 @@
 | [Чужое небо](https://open.spotify.com/track/4ftQumfko9XMZhprCRJtn5) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Чужое небо](https://open.spotify.com/album/44HgtTqczj9PqkIH5DfBm1) | 2:54 | 2025-02-17 |  |
 | [Я покидаю этот край](https://open.spotify.com/track/0mwPCwrMovGE0jOUy0s6Ka) | [Aleks Qt](https://open.spotify.com/artist/29OA00wnsr71wqUiL3dzD1) | [Я покидаю этот край](https://open.spotify.com/album/11L4Q39WXWIr9sYDMEsreD) | 3:26 | 2026-06-21 |  |
 | [Я попрошу](https://open.spotify.com/track/1hrGAjCwqcWUk3RnkhxdiY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Я попрошу](https://open.spotify.com/album/0TiR7KrAF5OQxM4IUjnbcO) | 4:09 | 2025-02-17 |  |
+| [אלגוריתם](https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [אלגוריתם](https://open.spotify.com/album/3z86HVtVhwZRLEU2VGjGtO) | 3:27 | 2026-08-11 |  |
 | [収斂と諦観 \(feat\. 晴乃なぎ\)](https://open.spotify.com/track/4QHrxetwgC0jN1TO9g2bYX) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag), [晴乃なぎ](https://open.spotify.com/artist/34x2eoZoMeprS0Hb2nXlIM) | [Rise and Fall](https://open.spotify.com/album/4R2PzreI7W4N1H0K9n0zE3) | 3:12 | 2025-03-18 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

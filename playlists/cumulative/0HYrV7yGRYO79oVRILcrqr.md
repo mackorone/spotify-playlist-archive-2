@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-673 songs - 1 day 17 hr 50 min
+676 songs - 1 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Breathe In](https://open.spotify.com/track/5lmqUdPqVs8zrcrRIgAw8d) | [Eight Feet Fine](https://open.spotify.com/artist/6NCVf4mDJv1vB8FbTPMzrV) | [Breathe In](https://open.spotify.com/album/4MOZuggfZkPg5TkQ5WQk81) | 5:06 | 2025-09-24 | 2025-12-17 |
 | [Bringin' It Back](https://open.spotify.com/track/7h9I6NCzj20ggQWRqo26eJ) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 4:11 | 2025-09-03 | 2026-07-12 |
 | [Broken and free](https://open.spotify.com/track/7fxqxtQFoAmOFPNW0JQP8M) | [GrooO](https://open.spotify.com/artist/5HgOlcue2r9Z5jBv3YzNmW) | [Broken and free](https://open.spotify.com/album/0TreN2tdVacgPX3c0XBwWO) | 2:52 | 2025-09-29 | 2025-12-17 |
+| [Broken Mirror](https://open.spotify.com/track/3PahSDh7r7E2yMgAJ69sFV) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [Broken Mirror](https://open.spotify.com/album/2jP3WS6QD2RVGFLU2mHvUv) | 3:53 | 2026-08-11 |  |
 | [Broken Soul Blues](https://open.spotify.com/track/2YpUdPdUpXTC7fyAFeWECs) | [pedromiguelriera](https://open.spotify.com/artist/0w3VcWdD2XOrO39PoLqoaY) | [Broken Soul Blues](https://open.spotify.com/album/6qlVUGUewVaaFwmjyu3UzS) | 3:57 | 2025-12-24 | 2026-04-21 |
 | [Burattini](https://open.spotify.com/track/0mXVDJwayyownNl3R78HNg) | [JOSH](https://open.spotify.com/artist/05gpLZ1OK3Ow0Z5WoZIkbJ) | [Dove Dovrei Essere](https://open.spotify.com/album/1QBYlFbQtI2RYJdOpToz5q) | 3:23 | 2026-05-07 | 2026-05-26 |
 | [Burnt out at Both Ends](https://open.spotify.com/track/0gXhph7TmyXy5JZ7hx3dLn) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Burnt out at Both Ends](https://open.spotify.com/album/2k7oR7hevllfXb8mA2f6q7) | 3:28 | 2026-08-09 |  |
@@ -276,6 +277,7 @@
 | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/track/333h9FN6V5Gjsy0uWWTP9r) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/album/0lVlutlRZzSF8c1dQBK017) | 3:22 | 2025-09-30 | 2025-12-17 |
 | [I Have No Fear](https://open.spotify.com/track/4XccGq2EBT76YuZBltTEdr) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup) | [Dreamscape Odyssey](https://open.spotify.com/album/16V3zTfXjLdYnH608CAKgD) | 5:06 | 2026-01-27 | 2026-03-18 |
 | [I Know You Feel It Too](https://open.spotify.com/track/7x5GONGzH06p1jdbfM7dnM) | [Capturing Callahan](https://open.spotify.com/artist/1KfGxQ1rveLpPoj1aBHTNy) | [Tailwater Dreams](https://open.spotify.com/album/2btqHPX6FKUXIqQy69VXDS) | 4:01 | 2026-07-23 | 2026-08-01 |
+| [I Need You](https://open.spotify.com/track/3meKJA7QwTiHdTu0k5TWoH) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Covers Pt\. 1](https://open.spotify.com/album/6Lv3vu9yod1CdBzOHiwaNP) | 2:32 | 2026-08-11 |  |
 | [I Think They Call This Love](https://open.spotify.com/track/6YHGbYKvy86vX2AQgFkEHj) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [I Think They Call This Love](https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj) | 3:11 | 2025-12-26 | 2026-03-18 |
 | [I Want You](https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ) | [Vic Polsom](https://open.spotify.com/artist/2FTkR9fGunEdYPeqNo19CN) | [Rise Up](https://open.spotify.com/album/5VydD9TvVBxsJsnaHmaXCm) | 2:46 | 2025-10-22 | 2025-11-28 |
 | [I'm In Love With The Way \(You Breathe My Name\)](https://open.spotify.com/track/2BKkiZsIn81BlnNSIm2NEb) | [Paper Satellite](https://open.spotify.com/artist/4nfaau5xtDWVVwCTxkjZrN) | [Turbulence](https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz) | 5:48 | 2026-07-13 | 2026-08-01 |
@@ -656,6 +658,7 @@
 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 | 2026-03-18 |
 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 | 2026-08-04 |  |
 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 | 2026-03-07 | 2026-05-31 |
+| [Wild Man](https://open.spotify.com/track/3T7iZlkZHGfqcDK7ujnfmR) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [Wild Man](https://open.spotify.com/album/2RYNgaILfpO78U3QAJpEYA) | 4:47 | 2026-08-11 |  |
 | [Wild Time](https://open.spotify.com/track/3g1kVvfuzqqQtwrR6jyTyZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Wild Time](https://open.spotify.com/album/2xUDxS8dnszV9XvAUTNUxb) | 1:42 | 2026-06-02 | 2026-06-18 |
 | [Wilt](https://open.spotify.com/track/0w7KcJg2E5rId9GnWwt9eI) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Silent Screams and Little Things](https://open.spotify.com/album/3RxepldlbmSJa3XxKJ7Y52) | 2:50 | 2026-04-02 | 2026-04-21 |
 | [WishaBich Woods \- Full Band Version](https://open.spotify.com/track/3sW1sOM2N6XI2TCvnZN0JK) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [WishaBich Woods \(Full Band Version\)](https://open.spotify.com/album/57O0Tb7laMbm0lPz9lAEy0) | 4:03 | 2026-07-14 | 2026-08-01 |

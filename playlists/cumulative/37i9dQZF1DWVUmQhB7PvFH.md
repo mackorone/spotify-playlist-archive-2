@@ -4,7 +4,7 @@
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-287 songs - 20 hr 54 min
+288 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [一輩子的孤單](https://open.spotify.com/track/7CvOJ7yjccv7Xb7EQ97WBT) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [Love and the City](https://open.spotify.com/album/5XJh9ZHnBRXz0EUswxCWUj) | 4:33 | 2024-10-14 | 2024-11-12 |
 | [一首簡單的歌](https://open.spotify.com/track/1934UMDwEOi9XL5cvk3CFu) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [心中的日月](https://open.spotify.com/album/3OSXrxKQIaMxLGMjo1arFw) | 4:09 | 2024-04-15 | 2025-02-17 |
 | [七月七日晴](https://open.spotify.com/track/5LCzuZv1gkHsXj6ZY1ugQ4) | [許慧欣](https://open.spotify.com/artist/6DWn9cu2UVLQ61pjyBHjuL) | [美麗的愛情](https://open.spotify.com/album/1fWnb063o7gOPkHiiorexE) | 4:04 | 2024-03-18 | 2025-02-17 |
-| [七里香](https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 4:57 | 2024-12-23 |  |
+| [七里香](https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 4:57 | 2024-12-23 | 2026-08-12 |
 | [七里香](https://open.spotify.com/track/57w29bSwdIZ6gr6xXOqwc1) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 4:57 | 2024-01-15 | 2024-02-06 |
 | [三人遊](https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:57 | 2025-03-03 |  |
 | [下一個天亮 \- 第一波 / 韓劇家有七公主片尾曲](https://open.spotify.com/track/0WPWV03zSzOk5oUAmfXVGW) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [下一個天亮](https://open.spotify.com/album/16uIFSrJsyKODQjFXtHTxj) | 4:26 | 2024-01-15 | 2024-06-24 |
@@ -242,6 +242,7 @@
 | [窗外 \(with Joanna Feng\)](https://open.spotify.com/track/0koYfMNf5edsUBO94bE5rw) | [Jacky Wu](https://open.spotify.com/artist/2EWl5LrZsWltRv2z9dbgH1), [馮瑋君](https://open.spotify.com/artist/6iOefLbkN0e8ddAYsfYf4j) | [原罪](https://open.spotify.com/album/6L7YOWSw2v0JylYtdXDBec) | 4:27 | 2024-08-19 | 2024-09-30 |
 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 | 2024-04-15 |  |
 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 | 2024-02-05 | 2024-06-10 |
+| [第一次](https://open.spotify.com/track/2PXhHrVL1HkKk4fto9D8zE) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:23 | 2026-02-09 |  |
 | [第一次愛的人](https://open.spotify.com/track/0aS2KtZUK3AHnaDvJSMsIw) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:53 | 2024-02-05 | 2025-04-20 |
 | [第九夜](https://open.spotify.com/track/4Xmn7B42GDWz8cZgq5YwfS) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [要定你](https://open.spotify.com/album/2H9KX2lOQbqr9mEZulD6jN) | 4:19 | 2025-05-26 | 2025-06-10 |
 | [紅色向日葵](https://open.spotify.com/track/2GTVZpn2HqOZjSnoFyXfoj) | [羅美玲](https://open.spotify.com/artist/5B1AaSUIE8FWo6ERw95rLP) | [紅色向日葵](https://open.spotify.com/album/5AxN5TmnZg7OqallJp7Yk5) | 4:06 | 2024-07-08 | 2024-08-06 |

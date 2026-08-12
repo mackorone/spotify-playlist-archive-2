@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. Cover: Florence + The Machine",
-  "num_followers": 157309,
+  "num_followers": 157314,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADbA3V0GbwMWOTuqWyJ3/Nu128wh",
+  "snapshot_id": "AAAAAMnzecBAcAx3DberHtQ9kenYPv2P",
   "tracks": [
     {
       "added_at": "2025-11-14 05:00:30",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-11-14 05:00:30",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp"
-    },
-    {
-      "added_at": "2025-11-14 05:00:30",
-      "album": {
         "name": "Life Of A Ghost",
         "url": "https://open.spotify.com/album/5Chvs2hsJcGowLm4PgigEl"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 302826,
       "name": "Eyes on Fire",
       "url": "https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR"
+    },
+    {
+      "added_at": "2025-11-14 05:00:30",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp"
     },
     {
       "added_at": "2025-11-14 05:00:30",

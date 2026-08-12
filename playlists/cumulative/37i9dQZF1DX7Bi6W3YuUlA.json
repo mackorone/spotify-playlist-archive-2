@@ -1867,6 +1867,28 @@
     },
     {
       "album": {
+        "name": "Chasin",
+        "url": "https://open.spotify.com/album/4rGXyN5SaRm1XJcYr7wUOk"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "The Fire Choir",
+          "url": "https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Chasin",
+      "url": "https://open.spotify.com/track/77fXMuOnjHNFIJk3nB1y6B"
+    },
+    {
+      "album": {
         "name": "Chasing_(Demo)",
         "url": "https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk"
       },
@@ -4000,7 +4022,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 136019,
       "name": "Hands on Me",
       "url": "https://open.spotify.com/track/4fJPzIrLQPeHl9ONB4bPCD"
@@ -5658,6 +5680,24 @@
       "duration_ms": 133021,
       "name": "KIDS",
       "url": "https://open.spotify.com/track/6ZvPVZJixqS3i2iUbamS7z"
+    },
+    {
+      "album": {
+        "name": "ELIJAH",
+        "url": "https://open.spotify.com/album/6roF4VcN76eei4ofmHjvC2"
+      },
+      "artists": [
+        {
+          "name": "Lil Tony Official",
+          "url": "https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155381,
+      "name": "KILLER TO CHRISTIAN",
+      "url": "https://open.spotify.com/track/4REVFjyq8x0SBFr9XMnLkw"
     },
     {
       "album": {
@@ -8856,7 +8896,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 190909,
       "name": "Reality Checks",
       "url": "https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz"

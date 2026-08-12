@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 443914,
+  "num_followers": 443939,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOjPCPLiCrNErueTVNhKY1kH8sfO",
+  "snapshot_id": "AAAAAH9b5M/DsS+gor5gLAZBzoiC5T5H",
   "tracks": [
     {
       "added_at": "2026-07-30 22:00:26",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Massive Shoe",
-        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
-      },
-      "artists": [
-        {
-          "name": "Way Dynamic",
-          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Miffed It",
-      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "We Were Here",
         "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 149013,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Massive Shoe",
+        "url": "https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Miffed It",
+      "url": "https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Mejor ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Mejor ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 228646,
       "name": "No One's Gonna Love You (Stockholm Version)",
       "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Mejor ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Mejor ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Otro perro andaluz (Cara A)",
-        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
-      },
-      "artists": [
-        {
-          "name": "CABA",
-          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "Un d\u00eda de julio",
-      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Otro perro andaluz (Cara A)",
+        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
+      },
+      "artists": [
+        {
+          "name": "CABA",
+          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Un d\u00eda de julio",
+      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "El Vac\u00edo",
-        "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
       },
       "artists": [
         {
-          "name": "Adam Guerrero",
-          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
         }
       ],
-      "duration_ms": 154187,
-      "name": "El Vac\u00edo",
-      "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1387,18 +1371,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+        "name": "El Vac\u00edo",
+        "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
       },
       "artists": [
         {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+          "name": "Adam Guerrero",
+          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
         }
       ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
+      "duration_ms": 154187,
+      "name": "El Vac\u00edo",
+      "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1415,6 +1399,22 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        }
+      ],
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1507,38 +1507,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "San Antonio",
-        "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
-      },
-      "artists": [
-        {
-          "name": "caracazador",
-          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
-        }
-      ],
-      "duration_ms": 238208,
-      "name": "San Antonio",
-      "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Consid\u00e9rame",
         "url": "https://open.spotify.com/album/1lJgGaY7TGhn8eEJ1ofH5E"
       },
@@ -1551,6 +1519,22 @@
       "duration_ms": 154500,
       "name": "Consid\u00e9rame",
       "url": "https://open.spotify.com/track/4twnCu8bEEX5Z0zmtnBFwm"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1595,22 +1579,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Hoguera",
-        "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
+        "name": "San Antonio",
+        "url": "https://open.spotify.com/album/4PDZZ5BndPzVtfK5sDy7x3"
       },
       "artists": [
         {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        },
-        {
-          "name": "Isa Izquierdo",
-          "url": "https://open.spotify.com/artist/0Nz4lEXz9C2hJ2Vvc4edfd"
+          "name": "caracazador",
+          "url": "https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca"
         }
       ],
-      "duration_ms": 234913,
-      "name": "Hoguera",
-      "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
+      "duration_ms": 238208,
+      "name": "San Antonio",
+      "url": "https://open.spotify.com/track/4VyA4EalislpEMrNF7IBvu"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1631,6 +1611,26 @@
       "duration_ms": 195524,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Hoguera",
+        "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
+      },
+      "artists": [
+        {
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+        },
+        {
+          "name": "Isa Izquierdo",
+          "url": "https://open.spotify.com/artist/0Nz4lEXz9C2hJ2Vvc4edfd"
+        }
+      ],
+      "duration_ms": 234913,
+      "name": "Hoguera",
+      "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "Algo Fugaz",
         "url": "https://open.spotify.com/album/08Oh3egGg0Rx2Ayu6OTtWe"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 137101,
       "name": "Algo Fugaz",
       "url": "https://open.spotify.com/track/3Ht8aYtgpiAHqpKCzX5G12"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1895,18 +1895,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Me Tienes Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
+        "name": "Bombas de Amor",
+        "url": "https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM"
       },
       "artists": [
         {
-          "name": "Maifr\u00e9n",
-          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
+          "name": "Rada Mancy",
+          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Me Tienes Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
+      "duration_ms": 162925,
+      "name": "Bombas de Amor",
+      "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1927,22 +1931,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Bombas de Amor",
-        "url": "https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM"
+        "name": "Me Tienes Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
       "artists": [
         {
-          "name": "Rada Mancy",
-          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
-        },
-        {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+          "name": "Maifr\u00e9n",
+          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
         }
       ],
-      "duration_ms": 162925,
-      "name": "Bombas de Amor",
-      "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
+      "duration_ms": 161250,
+      "name": "Me Tienes Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Lista de deseos",
+        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
+      },
+      "artists": [
+        {
+          "name": "Medianoche",
+          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Lista de deseos",
+      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "Dollhouse",
         "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 213843,
       "name": "KERALA",
       "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Lista de deseos",
-        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
-      },
-      "artists": [
-        {
-          "name": "Medianoche",
-          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Lista de deseos",
-      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
     },
     {
       "added_at": "2026-07-30 22:00:26",

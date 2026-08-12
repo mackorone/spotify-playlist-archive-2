@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX789EFDNJumI.md) - [plain]
 
 > Get your party jumping with this mix of pop, hip\-hop, & dance hits 🎉 Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,660 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,681 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX789EFDNJumI.md) - [plain]
 | 24 | [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 |
 | 25 | [The Sweet Escape](https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp) | 4:06 |
 
-Snapshot ID: `AAAAABX9gVF0G/APYt4lLgaNipueQZsB`
+Snapshot ID: `AAAAALyHrf//lXxV2YyQOPnxJTu0AOu7`

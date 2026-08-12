@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 4 min
+72 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,5 +79,6 @@
 | [Teve uma garota](https://open.spotify.com/track/1ObqgVJGDGfwnbyeeLax4K) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:48 | 2024-01-02 | 2024-01-11 |
 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 | 2023-12-30 |  |
 | [VIM DE LÁ](https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe) | [FUTURO III](https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR) | 2:19 | 2025-01-18 |  |
+| [Vocês Vão Ter Que Me Engolir \(Zagallo\)](https://open.spotify.com/track/4h4z8f6vGbbESfSiBJZ19b) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Sarah Roston](https://open.spotify.com/artist/44C3vWqUJwprMS1MtcY98U), [Dom M](https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn) | [Vocês Vão Ter Que Me Engolir \(Zagallo\)](https://open.spotify.com/album/6jbAVahDN7PJc3FzhunYOe) | 2:36 | 2026-08-12 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

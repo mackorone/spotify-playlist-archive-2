@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Stolen George",
+        "url": "https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86606,
+      "name": "CAMH",
+      "url": "https://open.spotify.com/track/192SSHdFos2jo6aPTHtj1N"
+    },
+    {
+      "album": {
         "name": "Eastway",
         "url": "https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D"
       },
@@ -2248,6 +2266,24 @@
       "duration_ms": 168248,
       "name": "The Rat Race",
       "url": "https://open.spotify.com/track/46bgDWUtBBceo13LMCZIXg"
+    },
+    {
+      "album": {
+        "name": "Stolen George",
+        "url": "https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112232,
+      "name": "Tings & Such",
+      "url": "https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO"
     },
     {
       "album": {

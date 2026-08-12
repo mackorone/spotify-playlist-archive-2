@@ -2068,7 +2068,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 226126,
       "name": "Intacto",
       "url": "https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM"
@@ -3890,6 +3890,28 @@
       "duration_ms": 201208,
       "name": "She Says",
       "url": "https://open.spotify.com/track/6DPv1snsx1dXdBtpzdDx8H"
+    },
+    {
+      "album": {
+        "name": "shut up",
+        "url": "https://open.spotify.com/album/3cu7eK8Qo7fV32SGE5fJtq"
+      },
+      "artists": [
+        {
+          "name": "Esteza",
+          "url": "https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ"
+        },
+        {
+          "name": "Eezzy Hendrix",
+          "url": "https://open.spotify.com/artist/1Jg44RjTbh6vtAEtqPzxt6"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "shut up",
+      "url": "https://open.spotify.com/track/0Im7QsuIw1G7ZU8u8wKBYZ"
     },
     {
       "album": {

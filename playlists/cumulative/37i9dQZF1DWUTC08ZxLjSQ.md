@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: ASER B\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: JUNIOR\. Artwork: Isu Kim
 
-541 songs - 1 day 4 hr 21 min
+542 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A7LAM](https://open.spotify.com/track/3jbYNSnx1vFpcA7KkLe9O3) | [KairoKid](https://open.spotify.com/artist/4zmDtmTxro17k6QWwNfheh) | [A7LAM](https://open.spotify.com/album/0xT0gItY4yBFkBofDdYJGf) | 2:40 | 2024-08-13 | 2024-11-27 |
 | [Aadi](https://open.spotify.com/track/4TVVx3bzRfcFLB1U4Zfz2H) | [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Aadi](https://open.spotify.com/album/5XmwW8gJIcjsUM771uXqNP) | 3:45 | 2024-10-01 | 2025-02-18 |
 | [Aalam Al Ahlam](https://open.spotify.com/track/5qC4xHoM6d1cKUTG22ONOp) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc) | [Aalam Al Ahlam](https://open.spotify.com/album/0Bpu81JbeYcjSDdlk17Wwy) | 5:01 | 2024-04-30 | 2024-08-14 |
-| [AD KALAMI](https://open.spotify.com/track/1qWPluFaHkzQPGwP7LuehO) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [AD KALAMI](https://open.spotify.com/album/4SguTAovECiutkq4lfOs3o) | 2:57 | 2026-07-01 |  |
+| [AD KALAMI](https://open.spotify.com/track/1qWPluFaHkzQPGwP7LuehO) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [AD KALAMI](https://open.spotify.com/album/4SguTAovECiutkq4lfOs3o) | 2:57 | 2026-07-01 | 2026-08-12 |
 | [Ad3i](https://open.spotify.com/track/7gUPXOyNzWB3AVIHkZ0hDt) | [Esra](https://open.spotify.com/artist/3n7kNeG8hcdoPSLDSPMne5) | [Ad3i](https://open.spotify.com/album/6mU2iJOgc4uFmZCeXg5ksP) | 3:16 | 2024-04-30 | 2024-08-14 |
 | [Afkar Galbi](https://open.spotify.com/track/17oyrFSekVUCCx4YoFhsGR) | [Ghada Sheri](https://open.spotify.com/artist/7c1eMleZFWsvk2Z0PCrai0) | [Afkar Galbi](https://open.spotify.com/album/75PZWlpBqgRcZa1LHCSmvk) | 4:32 | 2022-09-20 | 2022-11-09 |
 | [AGSAM](https://open.spotify.com/track/3Owy1fbFK6Ym1UY9Barq1G) | [ZAF](https://open.spotify.com/artist/0HuChNNYu7zlI19O9ncr6f) | [AGSAM](https://open.spotify.com/album/6B0v3abTkAyYX3cqmRQhVg) | 1:18 | 2024-06-26 | 2024-09-12 |
@@ -535,6 +535,7 @@
 | [في ذا](https://open.spotify.com/track/3wTK1pk4vNjmhQKPMSCAuq) | [Khalid Assiri](https://open.spotify.com/artist/03i94h760x5J6t57VRTsAb) | [في ذا](https://open.spotify.com/album/5T91pZZMEQpgt0QorLwD5l) | 2:49 | 2026-05-05 |  |
 | [قصة مزيفة](https://open.spotify.com/track/5KUNZ148oHYGRnJcr3bzfN) | [Mohamed Raies](https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ) | [قصة مزيفة](https://open.spotify.com/album/0WobgoHP2uoUsLzmLCFdpt) | 3:39 | 2025-06-24 | 2025-12-18 |
 | [كراكيب](https://open.spotify.com/track/5I2IZjU6D2v9UuIeGrGkN8) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51) | [كراكيب](https://open.spotify.com/album/1mcJnk6CUvsGgHuGADXKdV) | 2:38 | 2022-12-13 | 2023-03-15 |
+| [كل كلام الحب](https://open.spotify.com/track/4pp622Q93BjAtPPgF5PNXN) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [كل كلام الحب](https://open.spotify.com/album/4sWLdKF5HuuYCKiMGTG4wH) | 3:24 | 2026-08-11 |  |
 | [كمبودي موتي](https://open.spotify.com/track/6JP9JWd00sYDoVjdi1tZlX) | [Yulyo](https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9) | [ممنوعات يوليوس قيصر](https://open.spotify.com/album/2uX5WusKHTUhKPjBxxQfTF) | 2:19 | 2025-12-17 | 2026-07-01 |
 | [لبس الهبايزة](https://open.spotify.com/track/0xr5BhscoKNQJHPfq65AT4) | [Vemto](https://open.spotify.com/artist/4AwHBqpiB4QZVu4NIBnEjt) | [لبس الهبايزة](https://open.spotify.com/album/5YuqKukaD2JXUcgyaA8fAh) | 2:49 | 2025-12-24 | 2026-02-11 |
 | [ما في دراما](https://open.spotify.com/track/1QNVvnsVd7xuROBW0zsfp7) | [Nurzy](https://open.spotify.com/artist/5kdhUtn46gU4rHVSbHRVEE) | [ما في دراما](https://open.spotify.com/album/1LqhYqrtXru7BtclhJtdeL) | 4:00 | 2024-10-01 | 2025-04-04 |

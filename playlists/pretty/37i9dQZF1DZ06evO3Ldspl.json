@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 11132,
+  "num_followers": 11134,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAALcMDtIPIFO/0GlBhuUnL+",
+  "snapshot_id": "ankUgAAAAAAKJn5tNZatK6y/eDUBds1D",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 291898,
-      "name": "Lleno de Ti",
-      "url": "https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/4gqisRMcza9F6WHiN2jtff"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 281800,
       "name": "Recorriendo a Venezuela",
       "url": "https://open.spotify.com/track/1GWFbLT7z2Cr9tbxjpH3Vm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 291898,
+      "name": "Lleno de Ti",
+      "url": "https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 317626,
-      "name": "Estar Enamorado",
-      "url": "https://open.spotify.com/track/6iFBpJWQqo8Vv9HV6No2Rf"
+      "duration_ms": 235733,
+      "name": "D\u00e9jame Quererte",
+      "url": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5 A\u00f1os de Oro",
-        "url": "https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 298840,
-      "name": "Te seguir\u00e9 queriendo",
-      "url": "https://open.spotify.com/track/2gKbEyLGCz7s5rTLEIE1UM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Vallenato",
         "url": "https://open.spotify.com/album/2bHLevxqV0xTrGXzxRYMOk"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 241815,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/6FmQRov2V7oU3c7nM6BeMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5 A\u00f1os de Oro",
+        "url": "https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 298840,
+      "name": "Te seguir\u00e9 queriendo",
+      "url": "https://open.spotify.com/track/2gKbEyLGCz7s5rTLEIE1UM"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 235733,
-      "name": "D\u00e9jame Quererte",
-      "url": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO"
+      "duration_ms": 317626,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/6iFBpJWQqo8Vv9HV6No2Rf"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Juro Que Te Amo",
-      "url": "https://open.spotify.com/track/79c4saLiw95dwN0D8UHgoW"
+      "duration_ms": 256293,
+      "name": "El Higuer\u00f3n",
+      "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 256293,
-      "name": "El Higuer\u00f3n",
-      "url": "https://open.spotify.com/track/1b48TVGxCLfPBHF0F2RRgN"
+      "duration_ms": 250533,
+      "name": "Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/79c4saLiw95dwN0D8UHgoW"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+        "name": "Enamorado Como Siempre",
+        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 206040,
-      "name": "Eterno Enamorado",
-      "url": "https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl"
+      "duration_ms": 249733,
+      "name": "Mundo de Ilusiones",
+      "url": "https://open.spotify.com/track/2zblES980vphzev9UT5ZF5"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorado Como Siempre",
-        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
       "artists": [
         {
@@ -772,25 +772,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Mundo de Ilusiones",
-      "url": "https://open.spotify.com/track/2zblES980vphzev9UT5ZF5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Binomio De Oro 1986",
-        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 222893,
-      "name": "Se Est\u00e1 Muriendo el Amor",
-      "url": "https://open.spotify.com/track/0elHKS0Jrt2gTwIsxfWRAR"
+      "duration_ms": 206040,
+      "name": "Eterno Enamorado",
+      "url": "https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl"
     },
     {
       "added_at": null,
@@ -811,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "Te Lo Dije Mujer",
-      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enamorado Como Siempre",
         "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 234440,
       "name": "Mi Mejor Canci\u00f3n",
       "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Binomio De Oro 1986",
+        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Se Est\u00e1 Muriendo el Amor",
+      "url": "https://open.spotify.com/track/0elHKS0Jrt2gTwIsxfWRAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "Te Lo Dije Mujer",
+      "url": "https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

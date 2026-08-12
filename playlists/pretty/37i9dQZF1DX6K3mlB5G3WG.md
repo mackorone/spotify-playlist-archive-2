@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Stray Kids in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,351 likes - 96 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,352 likes - 96 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 95 | [Stone Cold](https://open.spotify.com/track/44WojfLBKNtqrXIiMsUB7S) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Stripped](https://open.spotify.com/album/4S1Q9HZHEQk0IottgPe7l6) | 2:51 |
 | 96 | [Think About Me](https://open.spotify.com/track/1BQskN4wN6MEL2qTAhPTkP) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Think About Me](https://open.spotify.com/album/4UP49Ej1ATTxZ7DLilJAno) | 2:46 |
 
-Snapshot ID: `AAAAAOGmRP3lpOi62iyxVBUvU9Coziu5`
+Snapshot ID: `AAAAAAmGgxqIWp4/DZe1uXQlJsYsCTU9`

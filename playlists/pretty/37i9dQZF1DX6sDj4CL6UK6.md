@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: Tsumyoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,090 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,092 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 51 | [omg \- Stripped Version](https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Anika](https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7) | [omg \(Stripped Version\)](https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN) | 3:26 |
 | 52 | [Talk to me](https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv) | [Shriya](https://open.spotify.com/artist/4dV7hCXD1OPICCUYaAVGNX), [Noah Cerejo](https://open.spotify.com/artist/7csXQDUQgZDhmuqtlLldGw), [Hersh Desai](https://open.spotify.com/artist/0GlehUUFIYJdSpHM3KOj7r) | [Talk to me](https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r) | 2:41 |
 | 53 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 |
-| 54 | [What Comes After](https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [What Comes After](https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC) | 5:05 |
-| 55 | [Wait a sec](https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje) | [Heat Sink](https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD) | [On Second Thought](https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe) | 3:12 |
+| 54 | [Wait a sec](https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje) | [Heat Sink](https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD) | [On Second Thought](https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe) | 3:12 |
+| 55 | [What Comes After](https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [What Comes After](https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC) | 5:05 |
 | 56 | [a hiatus](https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [pocket friendly: volume i](https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh) | 2:47 |
 | 57 | [Cortado](https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL) | [Zeba Tommy](https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u) | [Cortado](https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr) | 2:52 |
 | 58 | [Come Sit By My Bed](https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz) | [Tabitha Kagoo](https://open.spotify.com/artist/0frv5xYywAPIxOEixlCDdC), [Anika Bharwani](https://open.spotify.com/artist/50wQD996rRMv7WKstW7kb8), [Jenn Steeves](https://open.spotify.com/artist/6hM5NElb1Y12OIWCkQHp8j) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:04 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 60 | [Paradise](https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 2:28 |
 | 61 | [Painted Faces](https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa) | [MR ISHAN JACK](https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF), [Insha Gill](https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj), [Sonic Wav](https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh) | [Painted Faces](https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL) | 2:59 |
 | 62 | [Detour](https://open.spotify.com/track/4Y9pVTAamWwZn4p4e2vBmw) | [Second Sight](https://open.spotify.com/artist/7Gj4NjNVPzzn00yDDVmrla) | [Detour](https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X) | 2:59 |
-| 63 | [Into The Wild](https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn) | [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:50 |
-| 64 | [Wallow](https://open.spotify.com/track/43tDC5J5wzTK4xgQSieZga) | [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Sanoli Chowdhury](https://open.spotify.com/artist/36ZC6sfDiqZdz1aJefbdKl) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:03 |
-| 65 | [Baby Breath](https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Baby Breath](https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV) | 2:47 |
+| 63 | [Baby Breath](https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd) | [Judah Sandhy](https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V) | [Baby Breath](https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV) | 2:47 |
+| 64 | [Into The Wild](https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn) | [Sahana Naresh](https://open.spotify.com/artist/4OFt1ADSi91sMx70NtrFD9) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:50 |
+| 65 | [Wallow](https://open.spotify.com/track/43tDC5J5wzTK4xgQSieZga) | [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Sanoli Chowdhury](https://open.spotify.com/artist/36ZC6sfDiqZdz1aJefbdKl) | [Nyima, Vol\. 1](https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg) | 3:03 |
 | 66 | [Floated By](https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 4:16 |
 | 67 | [LASSI](https://open.spotify.com/track/6y9cKGfKKSZw0Ozx84iDrG) | [Ridi](https://open.spotify.com/artist/4dWZYIVD1EhyDVfc812o81) | [LASSI](https://open.spotify.com/album/5Ok9uUPaWel7pzJphrwbBl) | 2:44 |
 | 68 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Mango Showers](https://open.spotify.com/track/2TNd3JXmvnnn4ueq8v90mG) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Mango Showers](https://open.spotify.com/album/2vfuil3OEVqia9k8FqeAiU) | 3:43 |
 | 75 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 |
 
-Snapshot ID: `AAAAABCARaY6NXIY45dReY8EruTenV4A`
+Snapshot ID: `AAAAAHzTa8gn6syaXkXux+QYwV086zTi`

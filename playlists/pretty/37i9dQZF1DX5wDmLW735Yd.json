@@ -1,12 +1,12 @@
 {
   "description": "The world's biggest Drum 'n' Bass playlist! Cover: Delta Heavy",
-  "num_followers": 1482786,
+  "num_followers": 1482775,
   "original_name": "Massive Drum & Bass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADidWmWTdcj76XMxs9p3dxJF1ZoL",
+  "snapshot_id": "AAAAAPLImfk0k03SzM/quUOVy7Cloaq2",
   "tracks": [
     {
       "added_at": "2026-08-06 23:00:38",
@@ -528,12 +528,12 @@
           "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
         },
         {
-          "name": "Drumsound & Bassline Smith",
-          "url": "https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh"
-        },
-        {
           "name": "Snoop Dogg",
           "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Drumsound & Bassline Smith",
+          "url": "https://open.spotify.com/artist/1f6TTocyaqNFvwD4xsrDTh"
         }
       ],
       "duration_ms": 226206,

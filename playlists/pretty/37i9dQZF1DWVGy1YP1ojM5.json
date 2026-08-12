@@ -1,12 +1,12 @@
 {
   "description": "Silky sounds for the sheets.",
-  "num_followers": 2312413,
+  "num_followers": 2312245,
   "original_name": "Silk Sheets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADVLupT1O2hIXXpFeX3ozcFmO9tP",
+  "snapshot_id": "AAAAAGyuPxXxh9MYh4l8/25QAZPzqjZ+",
   "tracks": [
     {
       "added_at": "2026-06-28 23:58:39",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
-    },
-    {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
         "name": "Garden Kisses",
         "url": "https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 195405,
       "name": "Garden Kisses",
       "url": "https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
     },
     {
       "added_at": "2023-02-12 15:52:33",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
       "added_at": "2025-02-14 09:44:14",
       "album": {
         "name": "Into",
@@ -851,6 +835,22 @@
       "duration_ms": 264242,
       "name": "Searchin",
       "url": "https://open.spotify.com/track/2WcPWXOjoDKDVouyyWV8Eq"
+    },
+    {
+      "added_at": "2022-10-03 07:01:26",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200140,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2025-07-13 04:26:17",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP"
     },
     {
-      "added_at": "2023-02-12 15:52:33",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 160172,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
-    },
-    {
       "added_at": "2022-10-03 07:01:26",
       "album": {
         "name": "213",
@@ -931,6 +915,22 @@
       "duration_ms": 202434,
       "name": "Kickin\u2019 Back",
       "url": "https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9"
+    },
+    {
+      "added_at": "2023-02-12 15:52:33",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 160172,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1389,20 +1389,20 @@
       "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
     },
     {
-      "added_at": "2023-02-12 15:52:33",
+      "added_at": "2022-10-03 07:01:26",
       "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+        "name": "Always Never Home",
+        "url": "https://open.spotify.com/album/67DkNSnBpXbl8n7dVzJci1"
       },
       "artists": [
         {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 209560,
-      "name": "I Just Died",
-      "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
+      "duration_ms": 294853,
+      "name": "Bad Dream/No Looking Back",
+      "url": "https://open.spotify.com/track/7x7QlOg9xTzRHkSW5mf1HY"
     },
     {
       "added_at": "2022-10-03 07:01:26",
@@ -1421,20 +1421,20 @@
       "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
     },
     {
-      "added_at": "2022-10-03 07:01:26",
+      "added_at": "2023-02-12 15:52:33",
       "album": {
-        "name": "Always Never Home",
-        "url": "https://open.spotify.com/album/67DkNSnBpXbl8n7dVzJci1"
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
         }
       ],
-      "duration_ms": 294853,
-      "name": "Bad Dream/No Looking Back",
-      "url": "https://open.spotify.com/track/7x7QlOg9xTzRHkSW5mf1HY"
+      "duration_ms": 209560,
+      "name": "I Just Died",
+      "url": "https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG"
     },
     {
       "added_at": "2022-10-03 07:01:26",

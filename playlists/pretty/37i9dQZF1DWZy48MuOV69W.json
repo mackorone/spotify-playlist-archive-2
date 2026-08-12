@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 111837,
+  "num_followers": 111829,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6dKhSDJqiUih32qz+16ZxG9AVA",
+  "snapshot_id": "AAAAAERcpEVYbfQKDzw5M+Yn8B9ul90B",
   "tracks": [
     {
       "added_at": "2025-12-15 09:00:30",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-12-15 09:00:30",
       "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
-    },
-    {
-      "added_at": "2025-12-15 09:00:30",
-      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
+    },
+    {
+      "added_at": "2025-12-15 09:00:30",
+      "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
     },
     {
       "added_at": "2025-12-15 09:00:30",

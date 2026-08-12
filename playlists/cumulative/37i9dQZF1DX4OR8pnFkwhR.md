@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。 Cover: kurayamisaka
+> Spotifyが注目するニューカマー・プレイリスト。 Cover: OSHIKIKEIGO
 
-2,384 songs - 6 day 0 hr 56 min
+2,385 songs - 6 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,7 +1028,7 @@
 | [REPLICA](https://open.spotify.com/track/6WSAs7VRqVzcd5VLdc5ErP) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [REPLICA](https://open.spotify.com/album/5lwP7Swk6bK6rqWoinKJ74) | 3:33 | 2024-06-18 | 2024-07-24 |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-03-22 |
 | [Restart?](https://open.spotify.com/track/64INceHue7dl31QMDLLirn) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Restart?](https://open.spotify.com/album/5fdozRgnGyNfx9PQz5wu3h) | 3:24 | 2022-04-14 | 2022-07-27 |
-| [ReTake](https://open.spotify.com/track/5PaYPElNsEDOwnSj45pcHa) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [ReTake](https://open.spotify.com/album/1Nv9mMQS5u5gRYP9iNmcLu) | 4:56 | 2026-04-07 |  |
+| [ReTake](https://open.spotify.com/track/5PaYPElNsEDOwnSj45pcHa) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [ReTake](https://open.spotify.com/album/1Nv9mMQS5u5gRYP9iNmcLu) | 4:56 | 2026-04-07 | 2026-08-12 |
 | [REVENGE](https://open.spotify.com/track/4f3oJsO48iDBTqyJTzYMmn) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [The Claimant / REVENGE](https://open.spotify.com/album/6o80a6KkyZc7E8JmYI4bjh) | 2:48 | 2026-02-03 | 2026-02-18 |
 | [revenge](https://open.spotify.com/track/2lwHHCBquik2hf0k4gp6AO) | [umitachi](https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI) | [Stand up](https://open.spotify.com/album/1Mv2KO4XWpqSgtWej7xAJb) | 1:53 | 2024-05-01 | 2024-07-03 |
 | [Revival](https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Revival](https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt) | 3:32 | 2026-02-17 | 2026-05-10 |
@@ -1332,6 +1332,7 @@
 | [vanilla](https://open.spotify.com/track/08ukXT58LS2DISzsdYBA16) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [vanilla](https://open.spotify.com/album/5qDopHcvSDsJzxefVd5Ezk) | 2:41 | 2023-10-31 | 2023-11-02 |
 | [vanilla](https://open.spotify.com/track/54ogyAllu07li203RXAS1E) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [vanilla](https://open.spotify.com/album/7bKtCF6j2F2aQi9Tvsy99Q) | 2:41 | 2023-10-31 | 2023-12-13 |
 | [Vanishing](https://open.spotify.com/track/6tX9H62V1u4GaNGHViqKrI) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [SHINTOKYO \#6](https://open.spotify.com/album/1i4CV6LvZ8PWuphsqRiQAq) | 3:37 | 2026-05-26 | 2026-08-05 |
+| [VEGA](https://open.spotify.com/track/4o1Ku9YhCedGkZZxwCaIyJ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [VEGA](https://open.spotify.com/album/7FBcUv81Lc4jO0UMhINANg) | 3:45 | 2026-08-11 |  |
 | [vertigo](https://open.spotify.com/track/4Fg7QnwbSkcgaTzA8jYEJY) | [Pablo Haiku](https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt) | [vertigo](https://open.spotify.com/album/0KpL7FUGeOh790pHZmi3NG) | 3:39 | 2024-08-13 | 2024-09-04 |
 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 | 2024-09-13 | 2024-10-09 |
 | [Villain](https://open.spotify.com/track/0ejtTMsf4ZljUhAZZk5boY) | [Tina Moon](https://open.spotify.com/artist/3I1vLdkE4jPKqsbzkOQOIQ) | [Villain](https://open.spotify.com/album/5oY52goRcs3mfvurujXOu3) | 4:06 | 2023-03-28 | 2023-04-12 |

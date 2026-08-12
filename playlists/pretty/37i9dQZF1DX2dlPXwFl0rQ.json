@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Las Mar\u00edas en portada \ud83d\udd25",
-  "num_followers": 10211,
+  "num_followers": 10232,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABZmOqvlgd1n94NH3Ocj2asPMGxg",
+  "snapshot_id": "AAAAAFd54R2wBfZZniW18Hp3m3hxt1YB",
   "tracks": [
     {
       "added_at": "2026-05-01 06:01:01",
@@ -563,18 +563,22 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "LA PENSI\u00d3N",
-        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
+        "name": "Mi Rey, Mi Santo",
+        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
       "artists": [
         {
-          "name": "Mariana Ochoa",
-          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 162429,
-      "name": "LA PENSI\u00d3N",
-      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
+      "duration_ms": 164400,
+      "name": "Mi Rey, Mi Santo",
+      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -595,22 +599,18 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Mi Rey, Mi Santo",
-        "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
+        "name": "LA PENSI\u00d3N",
+        "url": "https://open.spotify.com/album/585xFnVpbV7V7zfsoUajH0"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Mariana Ochoa",
+          "url": "https://open.spotify.com/artist/5r3KBrwjeekt6CRjUG8rj9"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Mi Rey, Mi Santo",
-      "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
+      "duration_ms": 162429,
+      "name": "LA PENSI\u00d3N",
+      "url": "https://open.spotify.com/track/7fj1OVzy2ef7yI2USTp7jI"
     },
     {
       "added_at": "2026-05-01 06:01:01",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-05-01 06:01:01",
       "album": {
-        "name": "Ahora Te Llamas Ex",
-        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 149835,
-      "name": "Ahora Te Llamas Ex",
-      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
-    },
-    {
-      "added_at": "2026-05-01 06:01:01",
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": "2026-05-01 06:01:01",
+      "album": {
+        "name": "Ahora Te Llamas Ex",
+        "url": "https://open.spotify.com/album/0jrNMsBQJbB6Z5eNCTQLcO"
+      },
+      "artists": [
+        {
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 149835,
+      "name": "Ahora Te Llamas Ex",
+      "url": "https://open.spotify.com/track/1GXnVmkTAwZh7zEvLlcItF"
     },
     {
       "added_at": "2026-05-01 06:01:01",

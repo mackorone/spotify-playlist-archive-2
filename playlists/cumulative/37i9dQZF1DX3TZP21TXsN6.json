@@ -14451,6 +14451,28 @@
     },
     {
       "album": {
+        "name": "Zomerblousje",
+        "url": "https://open.spotify.com/album/1djXceTDm9c0k2MDP4nTTv"
+      },
+      "artists": [
+        {
+          "name": "ADF Antje",
+          "url": "https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP"
+        },
+        {
+          "name": "Carel",
+          "url": "https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117987,
+      "name": "Zomerblousje",
+      "url": "https://open.spotify.com/track/29nZWbihJC0l6ijK7sJFkb"
+    },
+    {
+      "album": {
         "name": "Zonder Bedoeling",
         "url": "https://open.spotify.com/album/0ZZp5SO2RUwSxNismoKVIl"
       },

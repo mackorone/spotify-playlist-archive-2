@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 270252,
+  "num_followers": 270323,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbtnxwk10pI+8rFMlDFiR8hiqLH",
+  "snapshot_id": "AAAAAKflG+P9a25s33AIG3Z15QGpvLAv",
   "tracks": [
     {
       "added_at": "2025-09-25 15:15:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "I Hate Myself for Loving You",
-      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "Some Great Reward (Deluxe)",
         "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 231973,
       "name": "People Are People",
       "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "I Hate Myself for Loving You",
+      "url": "https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "Songs to Learn & Sing",
-        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "I'm Your Man",
         "url": "https://open.spotify.com/album/3gUw30X6A7WEGcRdv1nFr9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 336489,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "Songs to Learn & Sing",
+        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
       "added_at": "2025-09-25 15:15:36",

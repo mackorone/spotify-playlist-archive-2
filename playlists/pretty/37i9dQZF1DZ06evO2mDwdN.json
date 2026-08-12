@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 14228,
+  "num_followers": 14230,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAACKUIh5XWB/bUv1fkRbHWbB",
+  "snapshot_id": "ankUgAAAAABIuC8vHiKeTPmrxjm+nsP2",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -583,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+        "name": "Don't Give Me Up",
+        "url": "https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR"
       },
       "artists": [
         {
@@ -592,25 +608,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 221506,
-      "name": "Keep On Loving You",
-      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/2eDju0zji7UJ7toNzfcHVN"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Ain't No Stoppin' Us Now - Rerecorded",
-      "url": "https://open.spotify.com/track/2qTuDMi8b2mQNzTp4J2DDS"
+      "duration_ms": 296706,
+      "name": "Don't Give Me Up",
+      "url": "https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Give Me Up",
-        "url": "https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR"
+        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
+        "url": "https://open.spotify.com/album/2eDju0zji7UJ7toNzfcHVN"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 296706,
-      "name": "Don't Give Me Up",
-      "url": "https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b"
+      "duration_ms": 225666,
+      "name": "Ain't No Stoppin' Us Now - Rerecorded",
+      "url": "https://open.spotify.com/track/2qTuDMi8b2mQNzTp4J2DDS"
     },
     {
       "added_at": null,
@@ -703,26 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 302642,
-      "name": "Love Train - Live",
-      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+      "duration_ms": 326333,
+      "name": "Introduction / The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
     },
     {
       "added_at": null,
@@ -743,18 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
       "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 326333,
-      "name": "Introduction / The Love I Lost - Live",
-      "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
+        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 212551,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Now Is The Time / Feels Like Magic",
         "url": "https://open.spotify.com/album/2x77aXa2YkslKAjnr6T1JR"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 158360,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
-        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 212551,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,373 songs - 3 day 7 hr 48 min
+1,379 songs - 3 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Balorda nostalgia](https://open.spotify.com/track/2K5ijyYylUoDEYMYxz5E95) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Balorda nostalgia](https://open.spotify.com/album/4disZdaEkZIGag3qTJfiWV) | 3:15 | 2026-04-18 | 2026-05-14 |
 | [Barangkali](https://open.spotify.com/track/5kk7rBkht5QSPikwifT5ho) | [MASWO](https://open.spotify.com/artist/5XgbBkGDKDADOxmOzjme0f), [Popy Nafisa](https://open.spotify.com/artist/15sBq9UMwR54RbAyvaZ64D) | [Barangkali](https://open.spotify.com/album/0vU6fCXy7OZHfM3cdfWQXt) | 4:58 | 2026-01-07 | 2026-02-03 |
 | [BARK](https://open.spotify.com/track/5Nlz8HtWk4bULZ58wXfN90) | [Malaya](https://open.spotify.com/artist/0qeCnlpThKmwCQezKhnVQb), [OBI ALI](https://open.spotify.com/artist/1IfibYZptPrskRP9aFelO0) | [BARK](https://open.spotify.com/album/25rraJ2LBBLpjvYso8sus1) | 1:44 | 2026-02-15 | 2026-03-25 |
+| [Basement Light](https://open.spotify.com/track/67lwcTJHGvjjTAOUnX8cVw) | [Schönfelder Entertainment](https://open.spotify.com/artist/6Sh7cBPFsRls63qlBK8Ldn) | [Basement Light](https://open.spotify.com/album/7dOSCfKr2PXyK0j3BisBRB) | 4:40 | 2026-08-11 |  |
 | [Be My Forever](https://open.spotify.com/track/4GtWJi7p6xcrntPaCJRalL) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Be My Forever](https://open.spotify.com/album/6q5THIYhKayml89ZMtWEJF) | 3:42 | 2026-01-13 | 2026-02-20 |
 | [BEARER OF BROKEN HEARTS](https://open.spotify.com/track/3x0tdYzRgbL40ug33BDlwh) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [BEARER OF BROKEN HEARTS](https://open.spotify.com/album/5dCSAArQXvpni9MaflvRFa) | 3:25 | 2026-02-16 | 2026-03-15 |
 | [Beautiful Baby](https://open.spotify.com/track/7pni0f9P5XEJ6YVf7yg3uY) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Hodges, James & Smith](https://open.spotify.com/artist/6g6hZbf2pP8nHZAhPpsvA3) | [EZ Listens Songs Library](https://open.spotify.com/album/0LkQNSpF0OeXwxEdCXrwVw) | 3:57 | 2026-04-17 | 2026-05-14 |
@@ -155,6 +156,7 @@
 | [Bossa](https://open.spotify.com/track/4YqjBKMp0QekJsGedjTNUI) | [J.T](https://open.spotify.com/artist/3x5QUokzTmSvhQxAkTGong) | [Take 1](https://open.spotify.com/album/4EnaDPAzy3jeEzx0L8Fgi2) | 2:57 | 2026-01-14 | 2026-02-20 |
 | [Boy Next Door](https://open.spotify.com/track/5EHR4uVoXlshVyS5GpsiaD) | [Puri](https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz) | [Boy Next Door](https://open.spotify.com/album/5dqky6vKPGW81nAaSshzr3) | 2:03 | 2026-06-13 | 2026-07-19 |
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2026-01-07 | 2026-02-03 |
+| [Brave](https://open.spotify.com/track/57wOH1yfVPll97iyI0Xp98) | [Mister Chorister](https://open.spotify.com/artist/2gj1byWvrljHj1FWzSWXUd) | [Brave](https://open.spotify.com/album/3PIlwfrx8NPZChCynoVF7V) | 3:41 | 2026-08-11 |  |
 | [Break the Chain](https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [My Tribe \- EP](https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh) | 3:27 | 2025-11-11 | 2025-12-21 |
 | [Bridge of Boldness](https://open.spotify.com/track/79566wwkKbJ9BZk7RSaus9) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK), [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Bridge of Boldness](https://open.spotify.com/album/7vvWldpJbLUdRHPMWdzNHG) | 3:00 | 2024-02-15 | 2025-12-28 |
 | [Bright As The Stars](https://open.spotify.com/track/5vZMfAHNm6MeaomaddB4Fq) | [Kathi Fran](https://open.spotify.com/artist/10QZVs0DFiNYbYrkKEE385) | [Bright As The Stars](https://open.spotify.com/album/6Mx8feGql3vMv1cPzdWPHH) | 3:18 | 2026-01-29 | 2026-02-28 |
@@ -732,6 +734,7 @@
 | [Memento](https://open.spotify.com/track/0Nm7ZIm2GgvWBoDktEn8eC) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Memento](https://open.spotify.com/album/5DAYPurXKBVwVvC1wdLEPv) | 3:59 | 2025-10-17 | 2025-12-21 |
 | [Memoria](https://open.spotify.com/track/2c2i7CAX1clFszy5CB3hUv) | [Camilo Antileo](https://open.spotify.com/artist/2bqC3OIxsI51TSJBlBq4fR) | [Memoria](https://open.spotify.com/album/1dgZVGv567yabbR9xCL4NF) | 3:04 | 2026-08-03 |  |
 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 | 2025-12-09 | 2026-01-05 |
+| [Men Are Style Style](https://open.spotify.com/track/12TpGan1aWzzZOGsnFX4bY) | [BnB Soundz](https://open.spotify.com/artist/2DNELwdzjJpG2YP4JS0Sfm), [Partyboycc](https://open.spotify.com/artist/0kVstmwiiyVWBJSYtSr4SB) | [ECHOES OF GREATNESS](https://open.spotify.com/album/3y67k1k1IAktrTkbhP0q0H) | 2:54 | 2026-08-11 |  |
 | [Men whit the painted faces \- Remastered 2023](https://open.spotify.com/track/3vCaqtrVCRDnWsRW4Q2QLW) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 4:54 | 2023-11-16 | 2025-11-29 |
 | [Mental Check](https://open.spotify.com/track/2U7NtTYY6Cb0C06jJ4ibuS) | [B1GHEADCHRIS](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Mental Check](https://open.spotify.com/album/45J61GzF99IiCjNdYbh1g3) | 2:52 | 2025-09-29 | 2025-11-29 |
 | [Mercury](https://open.spotify.com/track/5Lfna3AUBeb8a1zcvkBcyq) | [Mirco Vincenzo Giuseppe Prainito](https://open.spotify.com/artist/7j7MDPBL9KgXPfpNbbm4PC) | [Mercury](https://open.spotify.com/album/6AQ2C55ZPeBgh3qYOxqldT) | 3:55 | 2026-06-24 | 2026-08-10 |
@@ -959,6 +962,7 @@
 | [Ritmo magnetico solare](https://open.spotify.com/track/5xTFotBEtNDdDirTt0JvDb) | [Humanoira](https://open.spotify.com/artist/3NSB6J5aWZa6QiVy31fjeg) | [Ritmo magnetico solare](https://open.spotify.com/album/2rmopc5Y9DONiFrF56F8k9) | 3:02 | 2026-05-11 | 2026-07-03 |
 | [Ritorno dove sei](https://open.spotify.com/track/6OMcPolvYS6yR3PldGmJV9) | [Olda](https://open.spotify.com/artist/02Yce6Eg1kyRM4c20hNQac) | [Ritorno dove sei](https://open.spotify.com/album/5kLBuU4Hf2x0TYRBFem4TD) | 2:32 | 2026-02-19 | 2026-03-25 |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2026-01-14 | 2026-02-20 |
+| [Ritual for the Unheard](https://open.spotify.com/track/5NjN0sZpDeUcs8uBNMVbTw) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 3:20 | 2026-08-11 |  |
 | [River](https://open.spotify.com/track/412EkWJlA3JvXKoLFNNEOC) | [Espiica](https://open.spotify.com/artist/3vSv3lvd46wOI2TuMnJEIo) | [You will find me](https://open.spotify.com/album/77yXoXeAtEELY8z5nUFNxz) | 3:49 | 2026-06-06 | 2026-07-03 |
 | [roaches.](https://open.spotify.com/track/47kdMhdwMkt16EAbeLcU9a) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [roaches.](https://open.spotify.com/album/4DvKJrvA1W9faFzLljxIOk) | 3:25 | 2026-04-04 | 2026-05-03 |
 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-10 | 2026-03-15 |
@@ -973,6 +977,8 @@
 | [Sai mondo l'ho capito](https://open.spotify.com/track/7IUdrwykrrNMjk68kaRzZm) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sai mondo l'ho capito](https://open.spotify.com/album/5V4C0WT4qhZfFAJnI1AOzK) | 3:17 | 2026-03-09 | 2026-04-12 |
 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 | 2026-05-26 | 2026-07-03 |
 | [Salida](https://open.spotify.com/track/34Aj31aeIkukCiYlbQjsMe) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x) | [Salida](https://open.spotify.com/album/09qRipyIm17H5QKkqjACuF) | 2:57 | 2026-08-02 |  |
+| [Same Hearts](https://open.spotify.com/track/0F6DnOxKI46a889kEDbzpG) | [GIUCA](https://open.spotify.com/artist/2b96cZLLX1g9UKa9ivOUOh) | [Same Hearts](https://open.spotify.com/album/1whUcpoju07W7mem5aHqBQ) | 2:29 | 2026-08-11 |  |
+| [SAVANNAH](https://open.spotify.com/track/1MxJFJTf2D8whQSaf1MS67) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [SAVANNAH](https://open.spotify.com/album/202wBiAbLcEth13WHMLuWc) | 3:32 | 2026-08-11 |  |
 | [Save Your Day](https://open.spotify.com/track/2buLhNAOppaFzOUkH0DME9) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Save Your Day](https://open.spotify.com/album/6AW6v9JXXFuBA16V11Zn7m) | 2:58 | 2025-10-10 | 2025-11-29 |
 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 | 2026-03-02 | 2026-05-14 |
 | [Saw Satan](https://open.spotify.com/track/6msiwsi2zbFjUCufVX6TWS) | [213NINJA](https://open.spotify.com/artist/1cyR5va0xoqUL8D8dqxMzH) | [Saw Satan](https://open.spotify.com/album/3eXzadT7PlgQUOCa71w3PH) | 1:43 | 2026-07-06 | 2026-08-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Pool Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,290 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,320 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [Salt](https://open.spotify.com/track/7ceXS6lQW6ypMvRumTvJXm) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Better Angels](https://open.spotify.com/album/33mfAax2G5I4xIimwIxjnt) | 3:02 |
 | 75 | [Hold my hand hunter](https://open.spotify.com/track/03Zbp9zGdjropRUoy7xoLE) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Hold my hand hunter](https://open.spotify.com/album/3dFrkww4L3x69kQAfPdoTp) | 3:05 |
 
-Snapshot ID: `AAAAAK5kVRpUvlP8l+TOt+UyYMW1VBpj`
+Snapshot ID: `AAAAAN02ZirktN4T9mpJCxF5RLnqD7zf`

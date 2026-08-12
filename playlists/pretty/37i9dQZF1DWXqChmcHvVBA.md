@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 LA JOAQUI
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,040 likes - 64 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,073 likes - 64 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 63 | [Session en el Barrio \#14](https://open.spotify.com/track/2VNFNR1iQEpDJ3ZWphNioQ) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Session en el Barrio \#14](https://open.spotify.com/album/4VQDBXozvaFuSleyT9G36T) | 2:51 |
 | 64 | [SUPUESTAMENTE](https://open.spotify.com/track/1NSFGv6QemZiHiZfMY7F46) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SUPUESTAMENTE](https://open.spotify.com/album/45Aq4OYxS70A7L6mwQWr2T) | 2:18 |
 
-Snapshot ID: `AAAAAAcZ8BonfFph7P2LOUpflGzImUDN`
+Snapshot ID: `AAAAAP6lnZuRrdWmYqYdMDfFIr3e4WK7`

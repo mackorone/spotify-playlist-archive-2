@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: AMARILLO VERANO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,454 likes - 120 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,434 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 |
 | 120 | [EL MUNDO ARDER](https://open.spotify.com/track/1ESUvUMBsiOVYqBIvhFuwl) | [BAJANDO AL MERCAO'](https://open.spotify.com/artist/6pnJFEopQYVFQaesKOY5lG) | [EL MUNDO ARDER](https://open.spotify.com/album/6CZwKXTJ26KdM1t0gzp564) | 3:07 |
 
-Snapshot ID: `AAAAAFh5gkyCqErXJQPBG/bp+nbt9U2u`
+Snapshot ID: `AAAAAJ0Bh7yqxP6Z1QjGDnxt29RRUnNv`

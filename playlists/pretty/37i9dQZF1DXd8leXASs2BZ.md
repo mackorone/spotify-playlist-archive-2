@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: ziproom
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: It\-Works
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,646 likes - 101 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,649 likes - 101 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [early nose](https://open.spotify.com/track/4eOSZFou6GFcg5kdGUoMDo) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [NEW GAME](https://open.spotify.com/album/2eLo3cwxRPeG88U5NN1eI8) | 2:49 |
-| 2 | [loose](https://open.spotify.com/track/7DxADWPzkfFc2RFEVADHm7) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [loose](https://open.spotify.com/album/0yYijPaDndobUdzB1UWk9N) | 1:47 |
+| 1 | [Still loading](https://open.spotify.com/track/5aZrPIsqiFyEquMM9I9rK0) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Still loading](https://open.spotify.com/album/53pynlfnbI9QWZQMVb8Sb8) | 2:03 |
+| 2 | [early nose](https://open.spotify.com/track/4eOSZFou6GFcg5kdGUoMDo) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [NEW GAME](https://open.spotify.com/album/2eLo3cwxRPeG88U5NN1eI8) | 2:49 |
 | 3 | [PRIDE](https://open.spotify.com/track/4GtDvVyR8M9KwV0wOZM3rj) | [Fisong](https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW) | [WE COULDN'T BE HOPE](https://open.spotify.com/album/5Ao51yd0gEGgvInyQaa0qW) | 2:46 |
 | 4 | [豚に真珠](https://open.spotify.com/track/2kKZExNmKburfiJIVJzHgv) | [BABYWOODROSE](https://open.spotify.com/artist/1XzfqpnX0VAcE77JE21mPB) | [Addicted](https://open.spotify.com/album/64noONlcKtazpMRrU1otTo) | 2:21 |
 | 5 | [C\*MEL MENTHOL](https://open.spotify.com/track/5izv4NQWAnvw1xq2zGFV1P) | [ENEL](https://open.spotify.com/artist/7ArQ4BDikahaxGAjIDWz2p), [SKy NET](https://open.spotify.com/artist/12CQFj2xEAEN0azb830zbP), [HARKA](https://open.spotify.com/artist/5eTA8p8iZQtDKHW2QZucxx) | [C\*MEL MENTHOL](https://open.spotify.com/album/7fy0G2tHVOEHCGOmBi2Usr) | 3:33 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 100 | [Rosario](https://open.spotify.com/track/0EwKcfLwImdDYbFuUs63su) | [agul](https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu) | [Rosario / TEL](https://open.spotify.com/album/1a5XVlaZ2U3SLVWWzJe8u5) | 1:56 |
 | 101 | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/track/6fAdgiV7xvikBoADcnSH1m) | [SOKI](https://open.spotify.com/artist/7uznCkS1C5NLCCAg2kKDjL) | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/album/4Jw6h4yFAFkeEm7dddJLsy) | 1:33 |
 
-Snapshot ID: `AAAAAF4J/bTgEBOveE+REL5p03JS32WQ`
+Snapshot ID: `AAAAAJRV1CyK93uAqCPs9i7RKff+3uCW`

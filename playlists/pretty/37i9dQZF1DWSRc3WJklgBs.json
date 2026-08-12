@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1253689,
+  "num_followers": 1253661,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0ylnwZk/9xs+EeX+YGq6U7Xutz",
+  "snapshot_id": "AAAAAJaEb8UCyYm4qH2EuWfr57onIgDK",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:20",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "Love Tonight",
-        "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Love Tonight",
-      "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 254516,
       "name": "You",
       "url": "https://open.spotify.com/track/1KCMF9fdF7sNE74R2V46af"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Love Tonight",
+      "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
         "name": "Could You Be Loved (with LP Giobbi)",
         "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 286879,
       "name": "Could You Be Loved (with LP Giobbi)",
       "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 242239,
+      "name": "Baby Blue (feat. Oliver Sim)",
+      "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
         "name": "Forever (with Kid Cudi)",
         "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
       },
@@ -1387,22 +1407,22 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "Anemoia",
-        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         },
         {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
         }
       ],
-      "duration_ms": 242239,
-      "name": "Baby Blue (feat. Oliver Sim)",
-      "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -1483,22 +1503,22 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+        "name": "Return to Ojai",
+        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
       },
       "artists": [
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         },
         {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
+      "duration_ms": 259480,
+      "name": "Return to Ojai",
+      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -1519,26 +1539,6 @@
       "duration_ms": 224262,
       "name": "Home In You",
       "url": "https://open.spotify.com/track/2QOZeqFUMYHqFhVArYH8dA"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
-        "name": "Return to Ojai",
-        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Return to Ojai",
-      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Calling Out For U",
-      "url": "https://open.spotify.com/track/7yal3wkT7U1BEDdKW9dZ9V"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
         "name": "Waste my time",
         "url": "https://open.spotify.com/album/3VsSZzexEbHqQu1hfDrpEY"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 159387,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Calling Out For U",
+      "url": "https://open.spotify.com/track/7yal3wkT7U1BEDdKW9dZ9V"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
+        "name": "AFTERWORK",
+        "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 174404,
+      "name": "WHEN IT COMES TO YOU",
+      "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 211313,
       "name": "No Gravity (feat. Bava)",
       "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
-        "name": "AFTERWORK",
-        "url": "https://open.spotify.com/album/6tD3xGS1B0BM3HbtRzVoG4"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        }
-      ],
-      "duration_ms": 174404,
-      "name": "WHEN IT COMES TO YOU",
-      "url": "https://open.spotify.com/track/7E4k65CjSEhmEUZ0y2E47A"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
-      },
-      "artists": [
-        {
-          "name": "Drove",
-          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
         "name": "So Far Away",
         "url": "https://open.spotify.com/album/5WmaGa5SFfVgCx6f9GJRim"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 248620,
       "name": "So Far Away",
       "url": "https://open.spotify.com/track/3Z1HQgIy5WJf4nl6GR5lTE"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/7bnnpEQmYtIM2LjAwkDqhb"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5XwpEXhwjkSpJAXpONekxA"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "HOME WAS ALWAYS ME",
-        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "midnight moon",
-      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 185196,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
+        "name": "HOME WAS ALWAYS ME",
+        "url": "https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "midnight moon",
+      "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -2367,26 +2367,6 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "Half Alive",
-        "url": "https://open.spotify.com/album/4aeGgjU2eaxHUKmTvtDyWp"
-      },
-      "artists": [
-        {
-          "name": "Slow Magic",
-          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "Half Alive",
-      "url": "https://open.spotify.com/track/096n8RC5KcjOmtqHbuBgb2"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/5lGxKoO5OJLcV7ZgKvuv1G"
       },
@@ -2403,6 +2383,26 @@
       "duration_ms": 287266,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5ZQNoHS5dOGWjIhoXKW7Zt"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/4aeGgjU2eaxHUKmTvtDyWp"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/096n8RC5KcjOmtqHbuBgb2"
     },
     {
       "added_at": "2026-08-07 04:01:20",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
-        "name": "SOMETHING BEAUTIFUL",
-        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        }
-      ],
-      "duration_ms": 111566,
-      "name": "SOMETHING BEAUTIFUL",
-      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/0cREGEa2AUt4GUCLVVVRqo"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 288780,
       "name": "You And I",
       "url": "https://open.spotify.com/track/1kVfH3uPqVvGJxaSGdqlEp"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
+        "name": "SOMETHING BEAUTIFUL",
+        "url": "https://open.spotify.com/album/5nlLoucrt60fwMDRp6BfIQ"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "duration_ms": 111566,
+      "name": "SOMETHING BEAUTIFUL",
+      "url": "https://open.spotify.com/track/7wecYEdY8NUL3H4ARYZ8jz"
     },
     {
       "added_at": "2026-08-07 04:01:20",

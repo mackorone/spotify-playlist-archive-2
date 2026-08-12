@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Niños Del Cerro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,205 likes - 34 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,193 likes - 34 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 33 | [Traicionarse](https://open.spotify.com/track/5ZnG1JzjV8Q3quGtpY18Kb) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Hastío](https://open.spotify.com/album/6JTsnwsd1DWP3NF90oexV7) | 3:13 |
 | 34 | [Deja Vu](https://open.spotify.com/track/7v4QzzevlcXISFBgFrd7QP) | [Anttonias](https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW) | [Deja Vu](https://open.spotify.com/album/78aIzIFykbzy4CedQbDP0L) | 4:55 |
 
-Snapshot ID: `AAAAAMmlIISkev2BeVaTZT9hGLbxZ6Or`
+Snapshot ID: `AAAAAM0Rz+Wj/QSMOGkCTj6502qzkcq8`

@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "PROM",
+        "url": "https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg"
+      },
+      "artists": [
+        {
+          "name": "Royal Fools",
+          "url": "https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138152,
+      "name": "Don't Call",
+      "url": "https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe"
+    },
+    {
+      "album": {
         "name": "Don't Quit",
         "url": "https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA"
       },
@@ -3606,6 +3624,24 @@
       "duration_ms": 227024,
       "name": "Little Demon",
       "url": "https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL"
+    },
+    {
+      "album": {
+        "name": "SOREN'S HOME II",
+        "url": "https://open.spotify.com/album/7HpquLyhvRVx1YjoPWl5t0"
+      },
+      "artists": [
+        {
+          "name": "Sean Blu",
+          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160682,
+      "name": "Lloyd Dobler",
+      "url": "https://open.spotify.com/track/5H59SgewBgxf43cOiT6Y7L"
     },
     {
       "album": {

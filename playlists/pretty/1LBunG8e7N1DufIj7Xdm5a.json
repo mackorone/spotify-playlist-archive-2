@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJoDTRlOPUtykqT+TjlV/1OlzMkWJ9",
+  "snapshot_id": "AAAJpPnvu+aN3nERQfiX1EJXT1a34dPH",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -6507,22 +6507,6 @@
       "duration_ms": 163540,
       "name": "Power",
       "url": "https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl"
-    },
-    {
-      "added_at": "2024-10-31 10:57:45",
-      "album": {
-        "name": "Give Me a Sign",
-        "url": "https://open.spotify.com/album/6EQA6VxltoT73LtOrUiiED"
-      },
-      "artists": [
-        {
-          "name": "Ore-Kun",
-          "url": "https://open.spotify.com/artist/6P3eLuqFuDuPkrGmXB9eDF"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "Give Me a Sign",
-      "url": "https://open.spotify.com/track/2TcGKksrODCi8qxu2Riqfx"
     },
     {
       "added_at": "2025-04-04 05:35:32",
@@ -76419,6 +76403,54 @@
       "duration_ms": 213956,
       "name": "Tu No Est\u00e1s Aqu\u00ed",
       "url": "https://open.spotify.com/track/1EHHy2AEjNDIDwt1Bf6EDL"
+    },
+    {
+      "added_at": "2026-08-11 10:39:20",
+      "album": {
+        "name": "Electrifying",
+        "url": "https://open.spotify.com/album/2O5k7L9K9KAwkuLMwKtRWG"
+      },
+      "artists": [
+        {
+          "name": "The Rift",
+          "url": "https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP"
+        }
+      ],
+      "duration_ms": 343236,
+      "name": "Electrifying",
+      "url": "https://open.spotify.com/track/1YRKoosj9yh5391ksDhCx3"
+    },
+    {
+      "added_at": "2026-08-11 10:39:22",
+      "album": {
+        "name": "Electrifying",
+        "url": "https://open.spotify.com/album/2O5k7L9K9KAwkuLMwKtRWG"
+      },
+      "artists": [
+        {
+          "name": "The Rift",
+          "url": "https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP"
+        }
+      ],
+      "duration_ms": 343236,
+      "name": "Electrifying",
+      "url": "https://open.spotify.com/track/1YRKoosj9yh5391ksDhCx3"
+    },
+    {
+      "added_at": "2026-08-11 18:02:14",
+      "album": {
+        "name": "hyperstition",
+        "url": "https://open.spotify.com/album/3dZ0DG8dQvDHD1Zjrdj0uH"
+      },
+      "artists": [
+        {
+          "name": "Love me machine!",
+          "url": "https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f"
+        }
+      ],
+      "duration_ms": 288378,
+      "name": "hyperstition",
+      "url": "https://open.spotify.com/track/5lDryKiJUN4LLh7QkPuaoI"
     }
   ],
   "unique_name": "playlist spotify free",

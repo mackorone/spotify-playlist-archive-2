@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "CHEETAH BEND",
+        "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
+      },
+      "artists": [
+        {
+          "name": "JIMMY EDGAR",
+          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265048,
+      "name": "CRANK",
+      "url": "https://open.spotify.com/track/3i3q5ICTnKeT1BTbFh5Xaw"
+    },
+    {
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },

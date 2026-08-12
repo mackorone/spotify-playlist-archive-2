@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,705 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,710 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 | 59 | [Piano Sonata in E Minor, Op\. 7: III\. Alla Menuetto, ma poco più lento \(1887 revised Version\)](https://open.spotify.com/track/6ca3dprarLepreaViibS74) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Piano Music, Vol\. 1](https://open.spotify.com/album/07IYZiT8k6webWPS63sANZ) | 3:25 |
 | 60 | [Haugtussa \- Song Cycle, Op.67: Ved gjaetle \- bekken](https://open.spotify.com/track/0kRdEVCGS2DDUlQ3Dp072Q) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Anne Sofie von Otter](https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW), [Bengt Forsberg](https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N) | [Grieg: Songs](https://open.spotify.com/album/5uQbej9OBhSmMrJ9RfA3lI) | 6:17 |
 
-Snapshot ID: `AAAAAO4d0pgCDysjd1RoqcYv36ZuqycF`
+Snapshot ID: `AAAAAM2xzZMicpMA8FIwVJ+StESyob9d`

@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 681653,
+  "num_followers": 681632,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB02cVD79/MsWQ/p2GienbZ+vbH8",
+  "snapshot_id": "AAAAAI/4Cpi60CjVOIQ89AzHftjGXgti",
   "tracks": [
     {
       "added_at": "2024-11-12 16:18:09",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
         "name": "One By One (Expanded Edition)",
         "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 265560,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Go With The Flow",
+      "url": "https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Go With The Flow",
-      "url": "https://open.spotify.com/track/0wzRcekWyVCSyPtlPOeJau"
     },
     {
       "added_at": "2024-11-12 16:18:09",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
-        "name": "Death by Rock and Roll",
-        "url": "https://open.spotify.com/album/47WkGfixV8LaP0U34pNRPX"
+        "name": "Do Your Worst",
+        "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
         }
       ],
-      "duration_ms": 234476,
-      "name": "Death by Rock and Roll",
-      "url": "https://open.spotify.com/track/5Y2myqmZH2D83n04mbznFe"
+      "duration_ms": 210850,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/11FvComd16zZX61DrlP3o1"
     }
   ],
   "unique_name": "Highway to Yell",

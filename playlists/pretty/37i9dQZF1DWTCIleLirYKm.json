@@ -1,12 +1,12 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 225209,
+  "num_followers": 225271,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM9a/YXyNELDrd08j/k3MxZuobwe",
+  "snapshot_id": "AAAAAL60SoWv00LZ8Ubd5ZzvGM6W0KUJ",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "HANDMADE HORSEPOWER",
-        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "MATTER OF TIME",
-      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "American Love Song",
         "url": "https://open.spotify.com/album/6MiafQveSkts5v397zarWq"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 232524,
       "name": "Jingle and Go",
       "url": "https://open.spotify.com/track/42Wvzdf5yRnjE3C6XjYYVV"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "HANDMADE HORSEPOWER",
+        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "MATTER OF TIME",
+      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
     },
     {
       "added_at": "2026-07-24 04:01:57",

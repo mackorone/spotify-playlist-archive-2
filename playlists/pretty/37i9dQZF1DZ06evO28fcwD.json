@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 28392,
+  "num_followers": 28391,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAABWvdMeMgJX/mF6pO1/7Nir",
+  "snapshot_id": "ankUgAAAAAC8QC9vE5EL5tBi4XLPeL3h",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 231893,
-      "name": "Eden's House",
-      "url": "https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nostalgic Moments",
         "url": "https://open.spotify.com/album/5LOf3nKArt5FPYukAKFhdo"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 257306,
       "name": "Hamba Uyosebenza",
       "url": "https://open.spotify.com/track/3X18zAWjiu5uUCcDwwAg92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 231893,
+      "name": "Eden's House",
+      "url": "https://open.spotify.com/track/74nPMKhOnrBnFhYNfq3gDI"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladysmith Black Mambazo and Friends",
-        "url": "https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "China Black",
-          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Swing Low Sweet Chariot",
-      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
@@ -467,18 +447,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umthombo Wamanzi",
-        "url": "https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB"
+        "name": "Ladysmith Black Mambazo and Friends",
+        "url": "https://open.spotify.com/album/6cpHdWDHybVXLm2bTmGVPh"
       },
       "artists": [
         {
           "name": "Ladysmith Black Mambazo",
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "China Black",
+          "url": "https://open.spotify.com/artist/0FUK4HMK3TUViRcmrXKxlp"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Siligugu Isiphambano",
-      "url": "https://open.spotify.com/track/6oV5kJfLpoR1cIAnFPROtk"
+      "duration_ms": 232093,
+      "name": "Swing Low Sweet Chariot",
+      "url": "https://open.spotify.com/track/4MYV1v55kw2RuUFveQNk60"
     },
     {
       "added_at": null,
@@ -495,6 +479,38 @@
       "duration_ms": 242893,
       "name": "Amagugu (Inkulu Lendaba)",
       "url": "https://open.spotify.com/track/2xUnXEXmIoC5sDJlPIDJvZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Journey Of Dreams",
+        "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "Umusa Kankulunkulu (Mercy of God)",
+      "url": "https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Umthombo Wamanzi",
+        "url": "https://open.spotify.com/album/3k6szoYKddJg1GI0iU5xzB"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Siligugu Isiphambano",
+      "url": "https://open.spotify.com/track/6oV5kJfLpoR1cIAnFPROtk"
     },
     {
       "added_at": null,
@@ -519,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journey Of Dreams",
-        "url": "https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL"
+        "name": "Ezulwini Siyakhona",
+        "url": "https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA"
       },
       "artists": [
         {
@@ -528,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 206133,
-      "name": "Umusa Kankulunkulu (Mercy of God)",
-      "url": "https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ"
+      "duration_ms": 216880,
+      "name": "Ngithunyiwe Kini",
+      "url": "https://open.spotify.com/track/6ThqVtBjdeFExHA8JFF6w1"
     },
     {
       "added_at": null,
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezulwini Siyakhona",
-        "url": "https://open.spotify.com/album/2GYchgNPt3xy6WmmDnrMtA"
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 216880,
-      "name": "Ngithunyiwe Kini",
-      "url": "https://open.spotify.com/track/6ThqVtBjdeFExHA8JFF6w1"
+      "duration_ms": 297213,
+      "name": "Wangibambezela (Message from His Heart)",
+      "url": "https://open.spotify.com/track/7a6Q3u1E8piVrofp9Z5gHp"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
       "duration_ms": 198800,
       "name": "Sishumayel' Ivangeli",
       "url": "https://open.spotify.com/track/2CgAlc3jjlpnTrTeQUKq5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wenyukela",
-        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 297213,
-      "name": "Wangibambezela (Message from His Heart)",
-      "url": "https://open.spotify.com/track/7a6Q3u1E8piVrofp9Z5gHp"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
       "duration_ms": 240200,
       "name": "Thandiwe Wami",
       "url": "https://open.spotify.com/track/2dsDkaeatIyTbda5gr6iIF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Treasures",
+        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Peace Train/Isitimela Sokuthula",
+      "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
     },
     {
       "added_at": null,
@@ -683,26 +703,6 @@
       "duration_ms": 316700,
       "name": "Walk In The Light",
       "url": "https://open.spotify.com/track/4B1itxpEdwz5889AOdbLfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Treasures",
-        "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Peace Train/Isitimela Sokuthula",
-      "url": "https://open.spotify.com/track/6RNhExU4CmhSEaHPjIMls9"
     },
     {
       "added_at": null,
@@ -827,46 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Book of Roses",
-        "url": "https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F"
-      },
-      "artists": [
-        {
-          "name": "Andreas Vollenweider",
-          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        },
-        {
-          "name": "Walter Keiser",
-          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Passage to Promise",
-      "url": "https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wenyukela",
-        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 254173,
-      "name": "Selingelethu Sonke",
-      "url": "https://open.spotify.com/track/6n5tx2fwJuy9Gooe8BFV1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesame Street: Jim Henson: A Sesame Street Celebration, Vol. 2",
         "url": "https://open.spotify.com/album/4WYTk7iadQtxiFryOKHM7W"
       },
@@ -891,6 +851,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wenyukela",
+        "url": "https://open.spotify.com/album/22pZegdhSRTwHKULOAdhaN"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 254173,
+      "name": "Selingelethu Sonke",
+      "url": "https://open.spotify.com/track/6n5tx2fwJuy9Gooe8BFV1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Book of Roses",
+        "url": "https://open.spotify.com/album/3f3DZviJ9w39tCBsj2go2F"
+      },
+      "artists": [
+        {
+          "name": "Andreas Vollenweider",
+          "url": "https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "Walter Keiser",
+          "url": "https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX"
+        }
+      ],
+      "duration_ms": 149733,
+      "name": "Passage to Promise",
+      "url": "https://open.spotify.com/track/7rFbSBTKulTxbuM3Z8ncSe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inala",
         "url": "https://open.spotify.com/album/0lkb2v75YhtDpCtufDW2Ec"
       },
@@ -903,38 +903,6 @@
       "duration_ms": 216586,
       "name": "Pauline",
       "url": "https://open.spotify.com/track/0ahYb1FP9tiIUQbA164pPo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "This Little Light of Mine (Bonus Track)",
-      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ulwandle Olungcwele",
-        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Siphuma Emnqamlezweni",
-      "url": "https://open.spotify.com/track/5md7G7ElyElm8zMXlp23q9"
     },
     {
       "added_at": null,
@@ -955,6 +923,38 @@
       "duration_ms": 237626,
       "name": "Once In a Blue Moon",
       "url": "https://open.spotify.com/track/0nlvbQBi4XNQGB2Rsi51oF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ulwandle Olungcwele",
+        "url": "https://open.spotify.com/album/2auxBwPk8Q0uhBJtzoSaRg"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Siphuma Emnqamlezweni",
+      "url": "https://open.spotify.com/track/5md7G7ElyElm8zMXlp23q9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shaka Zulu Revisited: 30th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/5GoqzAwIz3px7nSHXDOb3X"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "This Little Light of Mine (Bonus Track)",
+      "url": "https://open.spotify.com/track/7Eh1tCfRDvCMd20d4Fy4be"
     }
   ],
   "unique_name": "This Is Ladysmith Black Mambazo",

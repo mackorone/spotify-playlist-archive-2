@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31388,
+  "num_followers": 31389,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAms1EIgHwLxJwkgUX84cjh",
+  "snapshot_id": "ankUgAAAAABlyhvM9PzuUSm0pPbfggQi",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 295373,
+      "name": "A Ess\u00eancia da Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1hCpXH3ZEm6LkEfWbodNCv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 355746,
       "name": "Milagre",
       "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 295373,
-      "name": "A Ess\u00eancia da Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1hCpXH3ZEm6LkEfWbodNCv"
     },
     {
       "added_at": null,

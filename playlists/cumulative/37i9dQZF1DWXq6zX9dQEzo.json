@@ -120,7 +120,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 155750,
       "name": "1 Minute",
       "url": "https://open.spotify.com/track/5SCFTCw6k5NQLwZTeNBhpF"
@@ -20998,6 +20998,24 @@
       "duration_ms": 149300,
       "name": "Your Word My Mind",
       "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
+    },
+    {
+      "album": {
+        "name": "ZION",
+        "url": "https://open.spotify.com/album/3R2AP03NR1dQa7Pq9936lv"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "ZION",
+      "url": "https://open.spotify.com/track/2LMEqPJhfQi3MF6iHfW0pD"
     },
     {
       "album": {

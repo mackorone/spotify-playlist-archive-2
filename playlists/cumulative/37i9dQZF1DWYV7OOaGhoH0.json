@@ -1839,6 +1839,28 @@
     },
     {
       "album": {
+        "name": "Betty's in the Band",
+        "url": "https://open.spotify.com/album/7FxZDwJDrJ8StZU0XmkMPM"
+      },
+      "artists": [
+        {
+          "name": "Abigail Rose",
+          "url": "https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd"
+        },
+        {
+          "name": "Weston Hunter",
+          "url": "https://open.spotify.com/artist/2LlrTkoqkuyqzbO9C7DttQ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206105,
+      "name": "Betty's in the Band",
+      "url": "https://open.spotify.com/track/3xdFInFLsj2Zj1E6VlK3mc"
+    },
+    {
+      "album": {
         "name": "Rituals",
         "url": "https://open.spotify.com/album/2Z8Kl2uftVIRnbLUy8qgaK"
       },
@@ -10484,7 +10506,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
@@ -10954,7 +10976,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 262726,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
@@ -13582,7 +13604,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
@@ -15798,7 +15820,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 297262,
       "name": "Willing and Able",
       "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"

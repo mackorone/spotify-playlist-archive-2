@@ -4,7 +4,7 @@
 
 > canciones para chillear con Mar Marzo
 
-251 songs - 13 hr 34 min
+252 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 | 2024-10-24 |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2023-10-17 | 2024-04-21 |
 | [Igual que sobrevivir](https://open.spotify.com/track/60oT7H969s3xAfLGFvgjGt) | [GERO](https://open.spotify.com/artist/0yJdH7HHacvB0UopMceKZl) | [Igual que sobrevivir](https://open.spotify.com/album/1SvSDn4MExGrf0Xn85Frmg) | 3:30 | 2025-05-02 | 2025-06-20 |
-| [Intacto](https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Intacto](https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8) | 3:46 | 2026-03-20 |  |
+| [Intacto](https://open.spotify.com/track/6pX8DeeQI7uEnhALPoN7eM) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Intacto](https://open.spotify.com/album/63hPjuYD7R7DJrZx7Ic4Q8) | 3:46 | 2026-03-20 | 2026-08-12 |
 | [INTENSIDAD](https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [INTENSIDAD](https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5) | 2:38 | 2023-10-17 | 2024-03-30 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2023-10-17 | 2026-07-03 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-10-17 | 2025-04-11 |
@@ -208,6 +208,7 @@
 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 | 2023-10-17 | 2024-03-30 |
 | [Será Mi Culpa? \- Remix](https://open.spotify.com/track/1T3viKR66WWgdexUxBhN45) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Será Mi Culpa? \(Remix\)](https://open.spotify.com/album/11vGF7By6oRKcFvfYikj1N) | 3:17 | 2023-10-17 | 2024-03-30 |
 | [She Says](https://open.spotify.com/track/6DPv1snsx1dXdBtpzdDx8H) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [She Says](https://open.spotify.com/album/2VgnmhWzYmBONU5A6N0zOK) | 3:21 | 2025-03-21 | 2025-06-20 |
+| [shut up](https://open.spotify.com/track/0Im7QsuIw1G7ZU8u8wKBYZ) | [Esteza](https://open.spotify.com/artist/4ywTwQEW20qTHhC7nJPZsJ), [Eezzy Hendrix](https://open.spotify.com/artist/1Jg44RjTbh6vtAEtqPzxt6) | [shut up](https://open.spotify.com/album/3cu7eK8Qo7fV32SGE5fJtq) | 1:58 | 2026-07-31 |  |
 | [Sola](https://open.spotify.com/track/1HtkY6jmOVHTwvIL54lxMM) | [Luna Suarez](https://open.spotify.com/artist/6cP3LTMb8GOiIRREzXLXjH), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Sola](https://open.spotify.com/album/7lWqglhy5qeImsN2SBTvDB) | 2:46 | 2025-03-21 | 2025-05-16 |
 | [Solo Tú](https://open.spotify.com/track/3miNzZTCBg3xXqPKLSv7hH) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Solo Tú](https://open.spotify.com/album/5dLoXu1pxPsDYQxqVsnht0) | 2:59 | 2025-05-02 | 2025-06-20 |
 | [sorry es que soy bipolarrr](https://open.spotify.com/track/33BselzygJVodjKKHVLpiH) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [sorry es que soy bipolarrr](https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5) | 3:40 | 2024-06-14 |  |

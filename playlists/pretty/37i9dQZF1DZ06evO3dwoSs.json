@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 572634,
+  "num_followers": 572674,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADXx+lUJNRnp0kpvOvEfHkh",
+  "snapshot_id": "ankUgAAAAAAhsCrTFSG5gvpsG8QBmoPz",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 241500,
       "name": "In Time",
       "url": "https://open.spotify.com/track/6in3OVQ12MZXq1nL7eZliB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AfterLife",
-        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 236250,
       "name": "Unscathed",
       "url": "https://open.spotify.com/track/1GzTfKNEPBDk8yBqh9I0Vr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Justice for None",
-        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 274615,
-      "name": "Blue on Black",
-      "url": "https://open.spotify.com/track/6azM3nHT9j8ZeZIHhsuWEs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 210000,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/3kNxNSNAu5I9ZIb6RcYkZf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/6azM3nHT9j8ZeZIHhsuWEs"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Justice for None",
-        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 275212,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/6MgiIcvk3dmUwOskpeiUCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 212250,
       "name": "Joke\u2019s On Me",
       "url": "https://open.spotify.com/track/6hKGuIGm2XX9VtrMHKg4aI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/6MgiIcvk3dmUwOskpeiUCW"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AfterLife",
-        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 292804,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 226448,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2LCZQ4q5gr6vFRNiGcBCD7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AfterLife",
+        "url": "https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 292804,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/28pN19lOLb7o6CZlCAcflX"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Under and Over It",
-      "url": "https://open.spotify.com/track/7bseyVqpUniHqm4kkOzsvu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 200565,
       "name": "Everybody Lies",
       "url": "https://open.spotify.com/track/2cd9ZNIywdNT9Ei5QZ22pS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Under and Over It",
+      "url": "https://open.spotify.com/track/7bseyVqpUniHqm4kkOzsvu"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/6AEnqV1hHhG5ckUMysMftn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Justice for None",
         "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 209703,
       "name": "Sham Pain",
       "url": "https://open.spotify.com/track/03hjAxvnwSf5iZsu6SOZA6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pJqO1A0sdJEiXfGeQ0VVV"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/6AEnqV1hHhG5ckUMysMftn"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "And Justice for None (Deluxe)",
+        "url": "https://open.spotify.com/album/2CcgOtkMZJpm8CnKIbMz8X"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 227309,
+      "name": "When the Seasons Change",
+      "url": "https://open.spotify.com/track/7w0VXWwbgA2a7si5E3k7Yp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
         "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 209493,
       "name": "Hard to See",
       "url": "https://open.spotify.com/track/0rrv8cn4zvF4tS9a6ulxur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Justice for None (Deluxe)",
-        "url": "https://open.spotify.com/album/2CcgOtkMZJpm8CnKIbMz8X"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 227309,
-      "name": "When the Seasons Change",
-      "url": "https://open.spotify.com/track/7w0VXWwbgA2a7si5E3k7Yp"
     },
     {
       "added_at": null,

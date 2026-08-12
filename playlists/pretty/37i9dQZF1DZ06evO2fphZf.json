@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12599,
+  "num_followers": 12597,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADAW5CUPkRZMzmwckvnNyTN",
+  "snapshot_id": "ankUgAAAAABDGXVcE74PsMiHb7IrWK1V",
   "tracks": [
     {
       "added_at": null,
@@ -827,26 +827,6 @@
       "duration_ms": 192396,
       "name": "Sweetest Nothings",
       "url": "https://open.spotify.com/track/6FFxBcsIWatbD1f8BnziEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR"
-      },
-      "artists": [
-        {
-          "name": "Joe Trufant",
-          "url": "https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 218754,
-      "name": "Love Songs",
-      "url": "https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

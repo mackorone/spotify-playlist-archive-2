@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,768 songs - 6 day 0 hr 46 min
+2,769 songs - 6 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 | 2024-02-06 | 2024-08-11 |
 | [Avec José](https://open.spotify.com/track/2WXnSSGToID9UFzIbDOxd4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 3:17 | 2022-06-04 | 2022-06-06 |
 | [AVEC MOI](https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [AVEC MOI](https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA) | 3:02 | 2026-01-17 | 2026-03-29 |
-| [AVEC MOI](https://open.spotify.com/track/5t1LPk2QiG9O7JdL0oAsou) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 3:02 | 2026-03-28 |  |
+| [AVEC MOI](https://open.spotify.com/track/5t1LPk2QiG9O7JdL0oAsou) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [My Eyes Only \- Flashback](https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr) | 3:02 | 2026-03-28 | 2026-08-12 |
 | [Avec Toi](https://open.spotify.com/track/656vbT8JKkVx7g1yG12L89) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [OMEGA](https://open.spotify.com/album/0SPYxxevaQPJZKdyP9Ikgn) | 3:13 | 2021-09-03 | 2023-12-03 |
 | [Avec tonton](https://open.spotify.com/track/5INBKLXLm7lFZdG9yJuDpa) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:38 | 2024-01-20 | 2024-01-22 |
 | [Avengers](https://open.spotify.com/track/2YAgixJPrOiEZSgZMlmqqF) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Kalif Hardcore](https://open.spotify.com/artist/12rqcxsx28NPNRwPOEBxYG) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 3:17 | 2021-10-10 | 2021-10-18 |
@@ -1469,6 +1469,7 @@
 | [Lorenzo](https://open.spotify.com/track/1QCfgZoxEqZs2ag5qcLGN7) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:34 | 2022-12-09 | 2022-12-11 |
 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 | 2025-05-11 | 2025-08-10 |
 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 | 2023-11-18 | 2025-01-12 |
+| [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 | 2026-08-11 |  |
 | [LOST FOREST](https://open.spotify.com/track/1SWNxL41LgHnQNu9hFkHGY) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 4:35 | 2021-07-18 | 2021-07-23 |
 | [LOST FOREVER](https://open.spotify.com/track/7EiUtdeoWcKqLi5ELZCjYf) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:43 | 2023-07-29 | 2023-07-31 |
 | [Louis V](https://open.spotify.com/track/0PuQvRclIp1bN8et2lVA4d) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 3:04 | 2021-09-12 | 2021-10-10 |

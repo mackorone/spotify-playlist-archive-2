@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 03 Greedo and Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,915 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,877 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 54 | [WE KNOW THE TRUTH](https://open.spotify.com/track/2pLunsAZbnzIPpfKU0Caw4) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 3:37 |
 | 55 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
 | 56 | [F.U.T.V\_PINK](https://open.spotify.com/track/61cNM9XgCxqFdzDlv79Gj7) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Moving Towards Love\_PINK](https://open.spotify.com/album/4nvIE4mJRIPMeYSFB3rbGM) | 3:33 |
-| 57 | [No Shirt](https://open.spotify.com/track/0bld7LM5Tb5A8n829rI2J1) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [MAD DOGG: The Mixtape, Vol\. 1 — Hosted by Justin Credible](https://open.spotify.com/album/25dstom0NtrwAZOCvRyIUl) | 2:19 |
+| 57 | [No Shirt](https://open.spotify.com/track/0bld7LM5Tb5A8n829rI2J1) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [MAD DOGG: The Mixtape, Vol\. 1 — Hosted by Justin Credible](https://open.spotify.com/album/25dstom0NtrwAZOCvRyIUl) | 2:23 |
 | 58 | [No Parking](https://open.spotify.com/track/08cNOIP1MOjC9eN1XCMuRT) | [Rosecrans Vic](https://open.spotify.com/artist/0ZbVQDQJjR5VapvDWQ2l7x), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [No Parking](https://open.spotify.com/album/46KbbCzEJIh0QuZlssrCRp) | 2:42 |
 | 59 | [FAMILY BUSINESS](https://open.spotify.com/track/4HIfh0FvULPFEURnJc1Nxg) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u) | [FAMILY REUNION](https://open.spotify.com/album/2UfKO8jHq78gO3v0GYmvAx) | 2:16 |
 | 60 | [2:00 AM](https://open.spotify.com/track/35U6wyVRgQir5mFhWfjMvJ) | [Conradfrmdaaves](https://open.spotify.com/artist/6wrQP6EAQRd8GLl9tilJdH), [Dody6](https://open.spotify.com/artist/4VHa48wXlsDA2vWfgIi7cX) | [2:00 AM](https://open.spotify.com/album/3s9PofuwRoml0gFdnUNRW4) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [Brrrrrdadumdum](https://open.spotify.com/track/6kWcOCCyJ2Pk3tLNBbxHw1) | [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [LA Nights](https://open.spotify.com/album/2zDpiDdNVACJmuA2G18EdH) | 2:40 |
 | 100 | [All That](https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Thirsty P](https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx) | [All That](https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2) | 3:01 |
 
-Snapshot ID: `AAAAAGd7hS0gm5j9skZpu27MgtF0GGow`
+Snapshot ID: `AAAAAI/Sjk9MtCWx6QeHgnpEIKzvzj2z`

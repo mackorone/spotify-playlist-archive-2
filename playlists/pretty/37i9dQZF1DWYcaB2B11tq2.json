@@ -1,12 +1,12 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 518590,
+  "num_followers": 518730,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACjiS3Mgo0OaOrzIgvKkJG05Ejk+",
+  "snapshot_id": "AAAAADhcjQlMilJ61JqQsMl1i9Nl3Hjt",
   "tracks": [
     {
       "added_at": "2026-05-12 05:08:23",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Pistas",
+        "url": "https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 304706,
+      "name": "La Historia De Cristo",
+      "url": "https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "No Lo Has Visto A\u00fan",
         "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Pistas",
-        "url": "https://open.spotify.com/album/5McyYIqcAn7Tn4lAspKwKs"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 304706,
-      "name": "La Historia De Cristo",
-      "url": "https://open.spotify.com/track/2ubGStDma4Ag4lMo8xE8uY"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Coleccion De Oro",
+        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Creyendo En Ti",
+      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Vives en M\u00ed",
         "url": "https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 248651,
       "name": "Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Coleccion De Oro",
-        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Creyendo En Ti",
-      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Bendecir Tu Nombre",
-        "url": "https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rojas",
-          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
-        }
-      ],
-      "duration_ms": 266947,
-      "name": "Bendecir Tu Nombre",
-      "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/2txTXCdetbJcy8REtnZdRq"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Bendecir Tu Nombre",
+        "url": "https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rojas",
+          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
+        }
+      ],
+      "duration_ms": 266947,
+      "name": "Bendecir Tu Nombre",
+      "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1487,22 +1487,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "La Sunamita",
-        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
       },
       "artists": [
         {
           "name": "Montesanto",
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        },
-        {
-          "name": "Alex Marquez Oficial",
-          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
         }
       ],
-      "duration_ms": 773909,
-      "name": "La Sunamita",
-      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1519,6 +1515,38 @@
       "duration_ms": 645440,
       "name": "Dios Incomparable (Invitado: Marco Barrientos)",
       "url": "https://open.spotify.com/track/4Tl5LPLA3afirBFPu5HksX"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 240483,
+      "name": "Himno De Victoria",
+      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1543,50 +1571,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 240483,
-      "name": "Himno De Victoria",
-      "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+        "name": "La Sunamita",
+        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
       },
       "artists": [
         {
           "name": "Montesanto",
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
         }
       ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
+      "duration_ms": 773909,
+      "name": "La Sunamita",
+      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
       },
       "artists": [
         {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
         }
       ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "ESTAR BIEN",
+        "url": "https://open.spotify.com/album/0xaShTX3JNAeEGq1PaapGT"
+      },
+      "artists": [
+        {
+          "name": "ZOE Worship",
+          "url": "https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK"
+        }
+      ],
+      "duration_ms": 207100,
+      "name": "ESTAR BIEN",
+      "url": "https://open.spotify.com/track/4cuHB56Vlh6dHycYLSzowC"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "ESTAR BIEN",
-        "url": "https://open.spotify.com/album/0xaShTX3JNAeEGq1PaapGT"
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
       },
       "artists": [
         {
-          "name": "ZOE Worship",
-          "url": "https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK"
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 207100,
-      "name": "ESTAR BIEN",
-      "url": "https://open.spotify.com/track/4cuHB56Vlh6dHycYLSzowC"
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1711,22 +1727,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Operaci\u00f3n Mundial",
         "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
       },
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Ganas de Vivir",
         "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 237146,
       "name": "Ganas de Vivir",
       "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     },
     {
       "added_at": "2026-05-12 05:08:23",

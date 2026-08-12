@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 26105,
+  "num_followers": 26108,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALWZmdmXFNz5HANGpC2VtXnrdt2b",
+  "snapshot_id": "AAAAAP2HQOJaZfbTXT2iB/ZO9H7uIvVj",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "6 For 6",
+      "url": "https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Free Dem Boyz",
         "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 199093,
       "name": "Maybach (feat. Future)",
       "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "6 For 6",
-      "url": "https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -916,13 +916,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
         }
       ],
-      "duration_ms": 150449,
-      "name": "Brush Em (feat. Rah Swish)",
-      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
+      "duration_ms": 228251,
+      "name": "30 (feat. Bizzy Banks)",
+      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
     },
     {
       "added_at": "2022-10-01 16:17:17",
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
         }
       ],
-      "duration_ms": 228251,
-      "name": "30 (feat. Bizzy Banks)",
-      "url": "https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ"
+      "duration_ms": 150449,
+      "name": "Brush Em (feat. Rah Swish)",
+      "url": "https://open.spotify.com/track/58aW6yZGFl7rVM7SLfLnLL"
     },
     {
       "added_at": "2022-10-01 16:17:17",

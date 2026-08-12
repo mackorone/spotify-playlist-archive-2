@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,457 songs - 6 day 0 hr 38 min
+2,461 songs - 6 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Atlantis](https://open.spotify.com/track/4MP0SgPbAIn5ha78vJklQF) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Atlantis](https://open.spotify.com/album/0GVBEDtchsOWV4hoKom8dC) | 1:50 | 2026-02-18 |  |
 | [Attraction](https://open.spotify.com/track/6ZtwN8RKfWBC7SXAse5Myb) | [Ausvin King](https://open.spotify.com/artist/4K2gNf5IYG6wO4tadQ6z9k) | [Attraction](https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw) | 3:59 | 2025-09-03 |  |
 | [Aunque no Sobre Nada](https://open.spotify.com/track/3gzsPdpwoYOt1k5csRZXRi) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Aunque no Sobre Nada](https://open.spotify.com/album/5GdkEMt3dvIiHfGR9tvkCm) | 2:04 | 2026-03-12 |  |
+| [Ausente](https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA) | [AarǿnViz](https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb) | [Ausente](https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp) | 2:52 | 2026-08-11 |  |
 | [Autoblues](https://open.spotify.com/track/5la9je5kc5G5DAdG9y4SVm) | [David Garrido Guil](https://open.spotify.com/artist/2Jln0dQ7HTBiWDjaTAORO3), [María Barrio Insausti](https://open.spotify.com/artist/7iF1mujsOuDUJe0wUoJNU8), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM), [Carlos Beceiro](https://open.spotify.com/artist/3u32J7uST7l92X909YikOy), [Joaquín Pardinilla](https://open.spotify.com/artist/1cWiX6hWca9tLhKQpatHzw) | [Autoblues](https://open.spotify.com/album/0ChR9vm2le1g7U7e4cdGai) | 3:53 | 2025-12-07 |  |
 | [Avocado Face](https://open.spotify.com/track/2QmDLGr82ouVDgyF3LAXrE) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Avocado Face](https://open.spotify.com/album/0gfsmZYVu1qwTFxlVLLOKk) | 2:36 | 2026-05-29 |  |
 | [Aximal \(Paddy Free Dub\)](https://open.spotify.com/track/6gKKmTNpk5NYVIibtimQTi) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl), [Paddy Free](https://open.spotify.com/artist/1HzvbQ5yDhONQmtd7ZQPC8) | [Decoded](https://open.spotify.com/album/4y6SuS8cQwkUhoojsG86RY) | 5:07 | 2024-03-17 |  |
@@ -293,6 +294,7 @@
 | [Bubbles of Hope](https://open.spotify.com/track/36XKkpQgoWS1t1PE9o66gY) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [Bubbles of Hope](https://open.spotify.com/album/6rGO9uB47Pql03cZcHvZwr) | 2:55 | 2026-07-24 |  |
 | [Buffet Froid](https://open.spotify.com/track/53S1EkSKU0xYaYuTLpkTkG) | [Ratel C](https://open.spotify.com/artist/2ZDIYXNX6XbJrIWGCaTLxc) | [Buffet Froid](https://open.spotify.com/album/2lqF0eFcb7yIw4LmZqTpwN) | 2:39 | 2025-08-11 |  |
 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 | 2026-07-23 |  |
+| [Bullet For Your Gun](https://open.spotify.com/track/2J4EC6Gb119yhv9Yyhb7jY) | [Former Teen](https://open.spotify.com/artist/1Vzt8cjNUHR5ZZ7i99Bh1u) | [Bullet For Your Gun](https://open.spotify.com/album/5cIH1H2S4rLLrAYoQ7t1Sr) | 4:06 | 2026-08-11 |  |
 | [Bullies](https://open.spotify.com/track/4Xio8CUDoMqbiWNt8maLca) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:42 | 2024-03-25 |  |
 | [Bully Dub](https://open.spotify.com/track/0cOn1FrkgRejhgtB8edaM7) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:46 | 2024-03-25 |  |
 | [Burden \- Lo\-Fi Version](https://open.spotify.com/track/7iZGon0MGuoKcFSwdW5C2D) | [Ex Alma](https://open.spotify.com/artist/3djMiF1ty7aSuXuLy9AZY8) | [Burden \(Lo\-Fi Version\)](https://open.spotify.com/album/3ORrXUxNpI8btFHfFCv21J) | 2:52 | 2026-06-13 |  |
@@ -869,6 +871,7 @@
 | [HEAL+](https://open.spotify.com/track/1WuHnhDk7Ebo0JMK2UFzIZ) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [HEAL+](https://open.spotify.com/album/5wyyvHCnBZ2qj0wIxbMKoa) | 2:26 | 2025-11-30 |  |
 | [Hear the Sound](https://open.spotify.com/track/0C3nWmG2S3Cdsc6kgvKFpJ) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Hear the Sound](https://open.spotify.com/album/1vZwno53v8zdvLLpQpRyYZ) | 3:36 | 2025-06-09 |  |
 | [Hear you in the silence](https://open.spotify.com/track/7C48kdbcSroFS3LQgvd9cb) | [Funeral Letters](https://open.spotify.com/artist/0cDgNx7GyU4qBNjuQ1Zy7H) | [Hear you in the silence](https://open.spotify.com/album/1iuaowL63kbzi6VuWXDWYV) | 1:53 | 2026-04-15 |  |
+| [Hearts in Ash Flames](https://open.spotify.com/track/0IbDAlIBmWEHUWaqONezek) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Hearts in Ash Flames](https://open.spotify.com/album/4T1xDxA1nLT0ShI8u9EzKl) | 3:19 | 2026-08-11 |  |
 | [Hearts of Stone](https://open.spotify.com/track/3BLWZXp6bu4FeJzCNnzHId) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Hearts of Stone](https://open.spotify.com/album/6Fc2AFpa3KBMYoOe2BHaom) | 3:28 | 2025-08-11 |  |
 | [heartstealer](https://open.spotify.com/track/72PdX31kK98OHxJCiG35AI) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [dead flowers & soft lies](https://open.spotify.com/album/6OMvGIK3Wx6VmgLqwuiqkj) | 3:03 | 2026-04-28 |  |
 | [Heartt](https://open.spotify.com/track/1vfAlDF7GKLxcnI1RFxKOP) | [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Takeoff Prod](https://open.spotify.com/artist/3TDdgh9R8V77E8z1MrOLWX) | [Suffocate](https://open.spotify.com/album/6fJjucRK9aullYFrcHk0tj) | 2:26 | 2025-10-25 |  |
@@ -2289,7 +2292,7 @@
 | [Vola Con Me](https://open.spotify.com/track/1AmCkWduAoYpgbQ7UdFaoP) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Vola Con Me](https://open.spotify.com/album/5kKJkej7PeeDuVFTTIamFT) | 3:35 | 2025-05-10 |  |
 | [Volume](https://open.spotify.com/track/4kH8CT496lEGJe4SInfwjw) | [Ria](https://open.spotify.com/artist/3gnLRygDQ3Srtb0zQHgsFP), [THESAVRVS](https://open.spotify.com/artist/4vzJ5XfRFoyV5hyq7gHQ64) | [Volume](https://open.spotify.com/album/5EdvxVHZU7YM8dq8o6kBo4) | 2:51 | 2024-06-20 |  |
 | [Voyage](https://open.spotify.com/track/0rEfwncg6R9XGSvgOR3kjJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [The Collaborations II](https://open.spotify.com/album/4UnXSEkjflndnNVYuOGIzk) | 4:03 | 2026-03-18 |  |
-| [Vuelo \(Non\-Stop\)](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\)](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 | 2026-07-24 |  |
+| [Vuelo \(Non\-Stop\) \- 2026](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\) \[2026\]](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 | 2026-07-24 |  |
 | [Vuelve a Ser Inevitable](https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Vuelve a Ser Inevitable](https://open.spotify.com/album/53KVnC2pcEBzhnC6RdswIB) | 2:20 | 2026-04-25 |  |
 | [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 | 2026-06-10 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
@@ -2463,6 +2466,7 @@
 | [“Baila Conmigo” \- vivo](https://open.spotify.com/track/0aYmFilb24ShCcoDvo9Mna) | [jonathan arce](https://open.spotify.com/artist/5WVvH3bbAQPZlm3SJ5Y472) | [“Baila Conmigo” \(vivo\)](https://open.spotify.com/album/4KHm9voyWjINtavaL3zHHU) | 2:41 | 2026-07-01 |  |
 | [あなた](https://open.spotify.com/track/7HHPTTI8vesYK563qCNckR) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [あなた](https://open.spotify.com/album/1CZNZD1qvAbHlFcdByhbfR) | 2:30 | 2025-06-09 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-25 |  |
+| [失恋大歓迎](https://open.spotify.com/track/5RtwOs0GJWOYV1Sw8bwdak) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [失恋大歓迎](https://open.spotify.com/album/45m4uJRHMDGwt685iQXcnL) | 2:52 | 2026-08-11 |  |
 | [好きになったもん負け。なんて信じない！](https://open.spotify.com/track/1a5L2HXxeJRDrc8wJq6Z8C) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [好きになったもん負け。なんて信じない！](https://open.spotify.com/album/7A1cBtzaQ5LwHMrPGtIdvx) | 4:37 | 2026-02-06 |  |
 | [約束の地](https://open.spotify.com/track/1YR77jndeytCjluhJYX1ji) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 3:58 | 2026-07-30 |  |
 

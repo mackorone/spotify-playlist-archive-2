@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: lönneberger
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,380 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,341 likes - 74 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Druck Auf Meiner Lunge](https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Druck Auf Meiner Lunge](https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK) | 3:52 |
 | 74 | [Rundgang](https://open.spotify.com/track/4llW6YfkiJVi97m9NzeIjX) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [Rundgang](https://open.spotify.com/album/1W78gU96QFWxZxPvf3ugnY) | 2:39 |
 
-Snapshot ID: `AAAAANK0XKBS1+VMPlMo5HDACIX283fW`
+Snapshot ID: `AAAAAE1z6OBfk4mhwnxP50jWe9I9mjry`

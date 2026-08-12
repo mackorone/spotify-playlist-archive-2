@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33064,
+  "num_followers": 33147,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADia34Ib4q8APvKQW1XntiN",
+  "snapshot_id": "ankUgAAAAAC6cCXfzDnrYRSBaHmV6G8P",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Birds",
-        "url": "https://open.spotify.com/album/2NRW4KJ2HxFS57Dg6nVTHl"
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
       },
       "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 191520,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/2grwAOEFS0Z6eLAysVimSn"
+      "duration_ms": 214400,
+      "name": "Paying My Way",
+      "url": "https://open.spotify.com/track/2Xj9fZXhokEHpF7a3cNVk7"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/2NRW4KJ2HxFS57Dg6nVTHl"
       },
       "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Paying My Way",
-      "url": "https://open.spotify.com/track/2Xj9fZXhokEHpF7a3cNVk7"
+      "duration_ms": 191520,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/2grwAOEFS0Z6eLAysVimSn"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cost",
-        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 231546,
       "name": "Stuck In Reverse",
       "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cost",
+        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
     },
     {
       "added_at": null,

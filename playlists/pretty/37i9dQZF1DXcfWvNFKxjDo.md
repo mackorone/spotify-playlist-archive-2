@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,498 likes - 78 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,559 likes - 78 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 77 | [Regenbögen](https://open.spotify.com/track/3I3dFpuOGqzsjuWdfuUjbQ) | [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr), [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Regenbögen](https://open.spotify.com/album/1CNYYblblcdZDnqINJoBZ6) | 2:26 |
 | 78 | [1967](https://open.spotify.com/track/6303ClRgeMjbAp3vFXYUP5) | [DJ DRECKISCH](https://open.spotify.com/artist/29pghx4OZDZ45mcQLjdxUl), [NSLZ](https://open.spotify.com/artist/6jOvaPYH1SCOGCM1um3RaU), [Ennoia](https://open.spotify.com/artist/4w5cYbyqRYgHfGfsV0J1T8) | [1967](https://open.spotify.com/album/1IJm9HBbiPvY4SG5YtkvjM) | 2:34 |
 
-Snapshot ID: `AAAAAMev3o4bR815xTN5pkXSDTehJOW/`
+Snapshot ID: `AAAAALq1nZRvmAnb824a/5O1J/h5lHLS`

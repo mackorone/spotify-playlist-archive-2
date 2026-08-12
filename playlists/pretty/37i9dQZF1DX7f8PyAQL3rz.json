@@ -1,12 +1,12 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1436849,
+  "num_followers": 1436746,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPWr2MwQ1v1IcxvPJpk5eG4Qsfz",
+  "snapshot_id": "AAAAABRxRcLcT2gcDll8LA0wuKLyPcwr",
   "tracks": [
     {
       "added_at": "2026-08-07 03:01:17",
@@ -351,6 +351,34 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "Rugal & Bomfino",
+        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 204562,
+      "name": "Pique B.I.G",
+      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Beck e Sexo",
         "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
       },
@@ -391,34 +419,6 @@
       "duration_ms": 330491,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Rugal & Bomfino",
-        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
-      },
-      "artists": [
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "Bomfino",
-          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 204562,
-      "name": "Pique B.I.G",
-      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -603,30 +603,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Vit\u00f3ria Regia",
         "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
       },
@@ -655,6 +631,50 @@
       "duration_ms": 195582,
       "name": "Vit\u00f3ria Regia",
       "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "C\u00ea Nem Vai",
+        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Delta7",
+          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "C\u00ea Nem Vai Freestyle",
+      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -699,26 +719,6 @@
       "duration_ms": 297692,
       "name": "THE BOX MEDLEY FUNK 11",
       "url": "https://open.spotify.com/track/0oulB5Nhs4Ur3zgvC6WqWz"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "C\u00ea Nem Vai",
-        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Delta7",
-          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "C\u00ea Nem Vai Freestyle",
-      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -799,6 +799,30 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
+        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 136170,
+      "name": "COMO Q OFUSCA O BRILHO?",
+      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "PLATA O PLOMO",
         "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 158896,
       "name": "CA\u00c7A DO TESOURO",
       "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
-        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "COMO Q OFUSCA O BRILHO?",
-      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -935,6 +935,54 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+      },
+      "artists": [
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        }
+      ],
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
+        "url": "https://open.spotify.com/album/7w9Hc2rK7fwVFqohynMYxS"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "oggvieira",
+          "url": "https://open.spotify.com/artist/3KMLswOYWqvibGsHW2wFfO"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        }
+      ],
+      "duration_ms": 114285,
+      "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
+      "url": "https://open.spotify.com/track/7e2et6UVNFvkgYYrbzC8py"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
       },
@@ -959,26 +1007,6 @@
       "duration_ms": 210857,
       "name": "Voltar pra Casa",
       "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
-      },
-      "artists": [
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
-        }
-      ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1039,34 +1067,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
-        "url": "https://open.spotify.com/album/7w9Hc2rK7fwVFqohynMYxS"
-      },
-      "artists": [
-        {
-          "name": "Baby T",
-          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
-        },
-        {
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "name": "oggvieira",
-          "url": "https://open.spotify.com/artist/3KMLswOYWqvibGsHW2wFfO"
-        },
-        {
-          "name": "137 Records",
-          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
-        }
-      ],
-      "duration_ms": 114285,
-      "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
-      "url": "https://open.spotify.com/track/7e2et6UVNFvkgYYrbzC8py"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Que toda dor vire dinheiro",
         "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
       },
@@ -1079,6 +1079,34 @@
       "duration_ms": 120000,
       "name": "Que toda dor vire dinheiro",
       "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Advinha o CEP",
+        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
+      },
+      "artists": [
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        }
+      ],
+      "duration_ms": 131368,
+      "name": "Advinha o CEP",
+      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1123,30 +1151,22 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Advinha o CEP",
-        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
       },
       "artists": [
         {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
         },
         {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         }
       ],
-      "duration_ms": 131368,
-      "name": "Advinha o CEP",
-      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1171,26 +1191,6 @@
       "duration_ms": 164000,
       "name": "Sol Na Lata",
       "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1315,6 +1315,38 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "BASE: Quem t\u00e1 s\u00e3o ELAS",
+        "url": "https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Janvi",
+          "url": "https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ"
+        },
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        }
+      ],
+      "duration_ms": 415238,
+      "name": "Eu tenho uma FACA o nome dela \u00e9 RIMA",
+      "url": "https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "BAILA IGUAL VINI",
         "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
       },
@@ -1403,38 +1435,6 @@
       "duration_ms": 151058,
       "name": "Amor \u00c9 F*Da",
       "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "BASE: Quem t\u00e1 s\u00e3o ELAS",
-        "url": "https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Janvi",
-          "url": "https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ"
-        },
-        {
-          "name": "Ci\u00e7a",
-          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
-        }
-      ],
-      "duration_ms": 415238,
-      "name": "Eu tenho uma FACA o nome dela \u00e9 RIMA",
-      "url": "https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu"
     },
     {
       "added_at": "2026-08-07 03:01:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 30 songs - 1 hr 41 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 31 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/1DprPpyq8t7PpB6uLgBwSY.md) - [plain]
 | 28 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
 | 29 | [Crazy = Genius](https://open.spotify.com/track/6V68ItawQkQlZhYIf1S86C) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:18 |
 | 30 | [Grifters](https://open.spotify.com/track/7D0H4hT1QAIWb0M02IgFX8) | [Charming Disaster](https://open.spotify.com/artist/1RjkfhamohczSXjFy5WcZh) | [Love, Crime & Other Trouble](https://open.spotify.com/album/4H1ejfeqzHNozHMP0u3r0v) | 3:15 |
+| 31 | [Absinthe](https://open.spotify.com/track/4hs2FbesB8qo6H5Berbikd) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 3:03 |
 
-Snapshot ID: `AAAAJbMkjFj38ILQhqjF3O9EjpzAuGI7`
+Snapshot ID: `AAAAJuOR1vG0rikB4HlTeDm9ElwDKRUy`

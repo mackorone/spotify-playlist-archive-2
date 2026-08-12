@@ -1,13 +1,113 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 113515,
+  "num_followers": 113518,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAO7ZNe83Kma7H+ehS1a9/NOQGC1",
+  "snapshot_id": "AAAAAF8z259VaSFHtcpgcUJglxEogdTF",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:03:19",
+      "album": {
+        "name": "Chamber Music",
+        "url": "https://open.spotify.com/album/5LXcNMsEicFBIHMGRRDCkD"
+      },
+      "artists": [
+        {
+          "name": "goldenstar",
+          "url": "https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM"
+        }
+      ],
+      "duration_ms": 276500,
+      "name": "Belemen",
+      "url": "https://open.spotify.com/track/7bMpolsgVswAxMDEg6GvBW"
+    },
+    {
+      "added_at": "2026-08-07 04:03:19",
+      "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/4PiHyY8xIDy2hvcIgpVL9r"
+      },
+      "artists": [
+        {
+          "name": "goldenstar",
+          "url": "https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM"
+        }
+      ],
+      "duration_ms": 173197,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/5TrPCoC21uGhKauc1nxonO"
+    },
+    {
+      "added_at": "2026-08-07 04:03:19",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
+    },
+    {
+      "added_at": "2026-08-07 04:03:19",
+      "album": {
+        "name": "Harmonies with a Kitchen Fan",
+        "url": "https://open.spotify.com/album/5Ipzb1m4GvsZF9H3vLEwnR"
+      },
+      "artists": [
+        {
+          "name": "rainy lips",
+          "url": "https://open.spotify.com/artist/03QyVMRnSCQBCgEcItZLPr"
+        },
+        {
+          "name": "Claire Boyer",
+          "url": "https://open.spotify.com/artist/6r6rfdIwKZOJBYaQHBs7yp"
+        }
+      ],
+      "duration_ms": 130147,
+      "name": "Harmonies with a Kitchen Fan",
+      "url": "https://open.spotify.com/track/3TcHC070MvqUtqCwIak6Qp"
+    },
+    {
+      "added_at": "2026-08-07 04:03:19",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6PHIFBsrXsKPL6Z1hA4k9X"
+      },
+      "artists": [
+        {
+          "name": "silent collision",
+          "url": "https://open.spotify.com/artist/0LLN5gLVXdG4JppMASYxNP"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7yRZ9KTJXSnSWXh2hRPft9"
+    },
+    {
+      "added_at": "2026-08-07 04:03:19",
+      "album": {
+        "name": "Blue Heaven White Horse",
+        "url": "https://open.spotify.com/album/68ue2cjYdCpNWRTNU4NKgX"
+      },
+      "artists": [
+        {
+          "name": "17sport",
+          "url": "https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT"
+        }
+      ],
+      "duration_ms": 170810,
+      "name": "Donn\u00e9 ma peau",
+      "url": "https://open.spotify.com/track/18ttEALJCQM64xw532B815"
+    },
     {
       "added_at": "2026-08-07 04:03:19",
       "album": {
@@ -295,22 +395,6 @@
     {
       "added_at": "2026-08-07 04:03:19",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Tomorrow is Perfect",
-      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
-    },
-    {
-      "added_at": "2026-08-07 04:03:19",
-      "album": {
         "name": "i saw a flying saucer",
         "url": "https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp"
       },
@@ -347,42 +431,6 @@
     {
       "added_at": "2026-08-07 04:03:19",
       "album": {
-        "name": "Harmonies with a Kitchen Fan",
-        "url": "https://open.spotify.com/album/5Ipzb1m4GvsZF9H3vLEwnR"
-      },
-      "artists": [
-        {
-          "name": "rainy lips",
-          "url": "https://open.spotify.com/artist/03QyVMRnSCQBCgEcItZLPr"
-        },
-        {
-          "name": "Claire Boyer",
-          "url": "https://open.spotify.com/artist/6r6rfdIwKZOJBYaQHBs7yp"
-        }
-      ],
-      "duration_ms": 130147,
-      "name": "Harmonies with a Kitchen Fan",
-      "url": "https://open.spotify.com/track/3TcHC070MvqUtqCwIak6Qp"
-    },
-    {
-      "added_at": "2026-08-07 04:03:19",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/6PHIFBsrXsKPL6Z1hA4k9X"
-      },
-      "artists": [
-        {
-          "name": "silent collision",
-          "url": "https://open.spotify.com/artist/0LLN5gLVXdG4JppMASYxNP"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/7yRZ9KTJXSnSWXh2hRPft9"
-    },
-    {
-      "added_at": "2026-08-07 04:03:19",
-      "album": {
         "name": "strange things keep happening",
         "url": "https://open.spotify.com/album/4Xerx7CpUu30LBPMLOlQcD"
       },
@@ -403,22 +451,6 @@
     {
       "added_at": "2026-08-07 04:03:19",
       "album": {
-        "name": "Chamber Music",
-        "url": "https://open.spotify.com/album/5LXcNMsEicFBIHMGRRDCkD"
-      },
-      "artists": [
-        {
-          "name": "goldenstar",
-          "url": "https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM"
-        }
-      ],
-      "duration_ms": 276500,
-      "name": "Belemen",
-      "url": "https://open.spotify.com/track/7bMpolsgVswAxMDEg6GvBW"
-    },
-    {
-      "added_at": "2026-08-07 04:03:19",
-      "album": {
         "name": "i only remember the good parts",
         "url": "https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI"
       },
@@ -435,38 +467,6 @@
       "duration_ms": 131182,
       "name": "another life",
       "url": "https://open.spotify.com/track/0cv23MDqZknh1AwCjr6y0S"
-    },
-    {
-      "added_at": "2026-08-07 04:03:19",
-      "album": {
-        "name": "Forget",
-        "url": "https://open.spotify.com/album/4PiHyY8xIDy2hvcIgpVL9r"
-      },
-      "artists": [
-        {
-          "name": "goldenstar",
-          "url": "https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM"
-        }
-      ],
-      "duration_ms": 173197,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/5TrPCoC21uGhKauc1nxonO"
-    },
-    {
-      "added_at": "2026-08-07 04:03:19",
-      "album": {
-        "name": "Blue Heaven White Horse",
-        "url": "https://open.spotify.com/album/68ue2cjYdCpNWRTNU4NKgX"
-      },
-      "artists": [
-        {
-          "name": "17sport",
-          "url": "https://open.spotify.com/artist/1epy3HZYlmUj6gGcU4d1bT"
-        }
-      ],
-      "duration_ms": 170810,
-      "name": "Donn\u00e9 ma peau",
-      "url": "https://open.spotify.com/track/18ttEALJCQM64xw532B815"
     },
     {
       "added_at": "2026-08-07 04:03:19",

@@ -2,9 +2,9 @@
 
 ### [Altar JP: オルタナティブ・ダンスミュージック](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック  Cover: Licaxxx \*金曜更新。マイライブラリに保存して毎週チェックしよう
+> 国内外のオルタナティブダンスミュージック  Cover: パソコン音楽クラブ \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,407 songs - 7 day 7 hr 40 min
+2,408 songs - 7 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2339,6 +2339,7 @@
 | [WONCHA](https://open.spotify.com/track/31XWLHaMJcNuQPo235FgiJ) | [PISTASHIO](https://open.spotify.com/artist/5tSSh4vSUz7oeE3aDEwUD5) | [WONCHA](https://open.spotify.com/album/1mO53IcxiSZu80qERFHuRb) | 3:20 | 2025-07-03 | 2025-07-11 |
 | [WONDER](https://open.spotify.com/track/24zhTG1wKEJEcGDsXG0EC4) | [Coldhot](https://open.spotify.com/artist/178wLpflQu05EwRZZVg18E), [Eryyy](https://open.spotify.com/artist/05bLnicFOOWYmhoVx4FjMM) | [WONDER](https://open.spotify.com/album/0iSvUgQM4aMsISZ2PMBT4V) | 2:32 | 2025-07-10 | 2025-08-30 |
 | [Wonder BCN](https://open.spotify.com/track/7cZ0rTWEjhGU9aSNdzf7dc) | [Ko Yang](https://open.spotify.com/artist/7vXewIIBMRwCWk5Z0DldSv) | [Wonder BCN](https://open.spotify.com/album/7zSWgWbo9qcgwPSOU4kqMS) | 6:01 | 2024-05-09 | 2024-06-14 |
+| [wonders](https://open.spotify.com/track/00uwL1Ps1lx9YkV8OtsLz2) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [wonders](https://open.spotify.com/album/4h8ZKL12vUMeU8j3SZJerz) | 5:14 | 2026-08-11 |  |
 | [Wood Box](https://open.spotify.com/track/1WRf0oq9rSTiBkjLaf5wJu) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Wood Box](https://open.spotify.com/album/4rdXYizgwA0SFf87954GmE) | 5:21 | 2026-07-02 | 2026-07-24 |
 | [WOOP WOOP](https://open.spotify.com/track/1FFm13AYeb7253SEmjBjvP) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Let's Pardey EP](https://open.spotify.com/album/2t0mh1tAUXkpC1WOnkxhsi) | 2:50 | 2025-06-05 | 2025-07-11 |
 | [Work feat\. Nevve \- Edit](https://open.spotify.com/track/3eb7WYeXYav8I3q6iKQY5h) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Keep it Real](https://open.spotify.com/album/72erDWaZTO2Fdzdcjhi62H) | 3:27 | 2025-10-16 | 2026-01-15 |

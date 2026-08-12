@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4PooHx6BstbetDtBMrLyV7">Hurricane Wisdom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,715,994 likes - 104 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,715,836 likes - 104 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 17 | [WTF Goin \(Feat\. 21 Savage\)](https://open.spotify.com/track/0a5qYlqZgVqynD4lsGwvPT) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WTF GOIN \(feat\. 21 Savage\)](https://open.spotify.com/album/2YYyiKyqjnAawDCEwyECnb) | 3:04 |
 | 18 | [Bussin](https://open.spotify.com/track/3z6sboPUNI2a01dB1EsepW) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Bussin](https://open.spotify.com/album/6bfQG5tTWNM3Qi90p5WH0A) | 2:01 |
 | 19 | [Almost Famous](https://open.spotify.com/track/4yq0lwiCapz0nndUiPOkCv) | [Da Getta](https://open.spotify.com/artist/6qGobCRXLoUuJ0LoH6zKQV), [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb) | [Not A Gangsta](https://open.spotify.com/album/0e3GPReOWOHmxf09spDEhr) | 1:43 |
-| 20 | [HERE AND THERE ft LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
+| 20 | [HERE AND THERE FT LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
 | 21 | [Plays of the Week](https://open.spotify.com/track/2h2mqn6TJCwU1aF1KhyYxB) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Chicken Talkin Bastard](https://open.spotify.com/album/7cChUPYfmnblkqIyV8oP4R) | 2:49 |
 | 22 | [What You Want](https://open.spotify.com/track/1bG5tQVcDf363nVGtJgTRN) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [Born To Stunt](https://open.spotify.com/album/6KKau0Ln7rroVVt07O1E76) | 2:53 |
 | 23 | [Mink Mink Mink](https://open.spotify.com/track/6Enh4GmcMsDMulUgWrgso9) | [RosarioRay](https://open.spotify.com/artist/5W3SmWcjyOgRyPJIK0tzgZ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Big Money Blitz](https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9) | [Mink City](https://open.spotify.com/album/059VethsDSK1Gj3zWFGCH9) | 2:55 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 103 | [BIG FEELING](https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 1:55 |
 | 104 | [justfallinlovewithme.](https://open.spotify.com/track/5dlPZOX7v1gEPET4CLNDLD) | [Lil Kliff](https://open.spotify.com/artist/4TE90ZobF5vpkPYfm8m4fd) | [justfallinlovewithme.](https://open.spotify.com/album/1hzfSCsZG0B4MtB4RhRvJX) | 2:41 |
 
-Snapshot ID: `AAAAAA4zzO18CpslXhwszbZSKmTJcUtz`
+Snapshot ID: `AAAAAAL4Cc6Tgef1YPCcp3dr4OVbPvKz`

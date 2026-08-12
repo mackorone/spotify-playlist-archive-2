@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,666 likes - 319 songs - 17 hr 43 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,678 likes - 332 songs - 18 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,5 +327,18 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 317 | [Picking flowers](https://open.spotify.com/track/2Qt1oPbvCCwvg3Z65Nh3uN) | [MaxRipper93](https://open.spotify.com/artist/7I8LiOaMjFk7cooksEr60L) | [Help Needed](https://open.spotify.com/album/6ovx0Mm6OpxWvy478wA6TY) | 3:16 |
 | 318 | [Vibe on Forever](https://open.spotify.com/track/2eYBNUgJBjx9Q4kryqiYyr) | [oren and chelsea](https://open.spotify.com/artist/1PADh44dOq3ul70gqWre90) | [Vibe on Forever](https://open.spotify.com/album/7sWW76NPoeeLdA7TtqfRvn) | 4:14 |
 | 319 | [אלגוריתם](https://open.spotify.com/track/6tAW14B3CwdEC0uSqxNjCo) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [אלגוריתם](https://open.spotify.com/album/3z86HVtVhwZRLEU2VGjGtO) | 3:27 |
+| 320 | [SOAPBOX \- Single Version](https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [SOAPBOX](https://open.spotify.com/album/6acbhbjewDcTnpZVDvcl4r) | 2:44 |
+| 321 | [11 DE ABRIL](https://open.spotify.com/track/07GwtvKgD2ZTctwZs0v1yt) | [ROGUZMAN](https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ) | [11 DE ABRIL](https://open.spotify.com/album/3dnPlzOOjMT74Pif4MO7mJ) | 3:12 |
+| 322 | [Hooked](https://open.spotify.com/track/0EsW1HhUVn8zdpZiKN14Cj) | [Monsters of the Week](https://open.spotify.com/artist/7auGT92z7CCbef5MXchuDn) | [Hooked](https://open.spotify.com/album/2PpmoMUdhmwmHLtUrDZliQ) | 3:35 |
+| 323 | [Amerta Naraka](https://open.spotify.com/track/0PzwwxZS2GsRXNhX1HwdvV) | [Atomic Dancing Society](https://open.spotify.com/artist/39Zdqlf2meV6IjjAWOiWYv) | [Amerta Naraka](https://open.spotify.com/album/4ra3kWjxuQAqHnGAQAzJ7J) | 2:52 |
+| 324 | [SURGO](https://open.spotify.com/track/6RjDjgSxH62bELoSq9745w) | [ROGUZMAN](https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ) | [SURGO](https://open.spotify.com/album/34x4iO3U4RT1mpkdiRAmzf) | 3:24 |
+| 325 | [Sunday Morning](https://open.spotify.com/track/3ZxzL0EMe08bbFtt7Tz4H3) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [Sunday Morning](https://open.spotify.com/album/27S9kM92Rs66hlisUcPsrJ) | 3:19 |
+| 326 | [Best I Could](https://open.spotify.com/track/2ggWI43mwIIWxkVsBMiMgA) | [Pleasant Flow](https://open.spotify.com/artist/7N2MrVVNI0qj7MrhfNXsaj) | [Best I Could](https://open.spotify.com/album/6Qlc9186BYlRqiLrxFBJum) | 3:30 |
+| 327 | [CORE](https://open.spotify.com/track/7waMnx6Ks3nvScTuPhW6BT) | [ROGUZMAN](https://open.spotify.com/artist/76mvieL6oqP7DUSZMtGjIJ) | [CORE](https://open.spotify.com/album/5EacYn0d6uj0g6BU10k6Vm) | 2:56 |
+| 328 | [The Squeeze](https://open.spotify.com/track/1AiZNx29fEFlk7iWNBg6wt) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [The Squeeze](https://open.spotify.com/album/5dgrLadck2SuhVvsOW4IIQ) | 4:01 |
+| 329 | [Take Me Back](https://open.spotify.com/track/1588uYa1frBV9Sb98MW8Jp) | [angium music](https://open.spotify.com/artist/5qtFEsiJWHDQzQRQke8kth) | [Take Me Back](https://open.spotify.com/album/41M1oBJRdcy14e6KewYpeB) | 3:47 |
+| 330 | [Ghosts](https://open.spotify.com/track/28FeMbGKjfSla8lnoE3PD3) | [Abi Nav](https://open.spotify.com/artist/3oRQ8kmys6lXb6x063FJUy) | [Ghosts](https://open.spotify.com/album/2NvwxNgRRxn8zkKvLTWclW) | 2:51 |
+| 331 | [Sometimes Love's A Lonely Place](https://open.spotify.com/track/1vb4LaT327z2mc9zPHYbtz) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:38 |
+| 332 | [I Found You](https://open.spotify.com/track/7xxNwwgRCzgTnBmYxiF2ab) | [Eden Roze](https://open.spotify.com/artist/4GghHLohPHrzB04jas3TIr) | [I Found You](https://open.spotify.com/album/5DnNGtxQXpvv4Hr6QOkCeL) | 3:12 |
 
-Snapshot ID: `AAAS6zxPViqxGHaACV6FMYsajb/WS5PI`
+Snapshot ID: `AAAS/MLf2dsA8jxBqS+3ET/3ZQ5ekeUt`

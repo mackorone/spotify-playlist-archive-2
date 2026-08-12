@@ -4,7 +4,7 @@
 
 > Previously known as Runaway
 
-31 songs - 1 hr 54 min
+32 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Only One Way](https://open.spotify.com/track/21SpIt80LxhJDMclDkmvu5) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Jenny from Thebes](https://open.spotify.com/album/7Apt3HIcgBQymESPCzQuGT) | 4:01 | 2023-10-30 | 2024-12-10 |
 | [Orphans](https://open.spotify.com/track/4OhCZOe1g2Dv1RribKsIKK) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Rust](https://open.spotify.com/album/4283oJOD3hPCAoyc3P5irz) | 2:46 | 2026-02-24 |  |
 | [Pale Shelter](https://open.spotify.com/track/3bq6GVy7ol5FdMU0OtKVkz) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting \(Deluxe Edition\)](https://open.spotify.com/album/6Sv5PjYWap5poTCrJJYjwk) | 4:03 | 2026-03-16 |  |
+| [Pigs That Ran Straightaway Into the Water, Triumph Of](https://open.spotify.com/track/34sfpLYxRCRkZku60EYU8V) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [We Shall All Be Healed](https://open.spotify.com/album/45KMV5nuTYdfXBfH3RR98Z) | 2:52 | 2026-08-11 |  |
 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 | 2023-11-20 |  |
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2024-04-08 |  |
 | [Respect Me](https://open.spotify.com/track/1wlOtAKANbQbCOqVrEWFfu) | [KAYE](https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M) | [Neon God](https://open.spotify.com/album/10zUxDI6PILPIufjzdniXy) | 3:45 | 2026-03-05 |  |

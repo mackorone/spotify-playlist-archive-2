@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 293142,
       "name": "Black Death Party",
       "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 194000,
       "name": "Can't Hold My Breath",
       "url": "https://open.spotify.com/track/7FPDs4THmwgkQTiVGVLBVU"
@@ -4459,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "Nocturnes: Redux",
+        "url": "https://open.spotify.com/album/5hYvqZTlasTWgXOPkxCaDj"
+      },
+      "artists": [
+        {
+          "name": "Uh Huh Her",
+          "url": "https://open.spotify.com/artist/4rIQfLmeMAUQJ5f5cy8xhb"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168573,
+      "name": "Debris",
+      "url": "https://open.spotify.com/track/2ZrxlipEvnLbjU2wd7n2zz"
+    },
+    {
+      "album": {
         "name": "Decay",
         "url": "https://open.spotify.com/album/5pPigzTwZuDdFffwupqLbp"
       },
@@ -4596,7 +4614,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 217173,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/6xMoVtv5mx5IAMmtLvehA1"
@@ -5698,7 +5716,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 264906,
       "name": "Exit Body - Exit Mind",
       "url": "https://open.spotify.com/track/2Y8DFWHWIrj8e2YBLRKutf"
@@ -8289,6 +8307,24 @@
     },
     {
       "album": {
+        "name": "Night After Night",
+        "url": "https://open.spotify.com/album/6UeR1uO0s7VRiQJAKe7n71"
+      },
+      "artists": [
+        {
+          "name": "Escape With Romeo",
+          "url": "https://open.spotify.com/artist/6cfgHvcwTj6jcSBm8I4V3Q"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "I Need Something Stronger",
+      "url": "https://open.spotify.com/track/4nAeuKOsuzJHWubLQzBrwr"
+    },
+    {
+      "album": {
         "name": "Implications",
         "url": "https://open.spotify.com/album/7dRM6VqUYzrj67wenjnK8I"
       },
@@ -9360,7 +9396,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 186677,
       "name": "Judgement Day",
       "url": "https://open.spotify.com/track/2dAquQRgANWIXDqgAcHhMF"
@@ -9714,7 +9750,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 159157,
       "name": "Komputasad",
       "url": "https://open.spotify.com/track/07Av6Z7plwjdkN4msaeGuc"
@@ -10320,7 +10356,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 321731,
       "name": "Line Up And Wait 3",
       "url": "https://open.spotify.com/track/1AlKjLJnakpFRW3hz7qfts"
@@ -13556,7 +13592,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 257678,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/2jFA4wH9BKIIvz1B10zixk"
@@ -13776,7 +13812,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 276108,
       "name": "Ruin You - Ghost Cop Remix",
       "url": "https://open.spotify.com/track/2k1U936X1ZmCN9mUsCse9s"
@@ -14966,7 +15002,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 212188,
       "name": "Slicer",
       "url": "https://open.spotify.com/track/7CeWB1joj3cQe2udfnrW2B"
@@ -15562,7 +15598,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5fCyLFWKW7V1A3W9I7Ik5E"
@@ -16614,7 +16650,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 312103,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/206Dr7KVhHPsiZv34Tv3Oc"
@@ -16654,7 +16690,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 192000,
       "name": "The Answers",
       "url": "https://open.spotify.com/track/25Cd0bLNJTVkIlbwP57EgS"
@@ -17026,7 +17062,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -19748,7 +19784,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -19806,7 +19842,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

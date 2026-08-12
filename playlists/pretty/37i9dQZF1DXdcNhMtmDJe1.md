@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,633 likes - 55 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,644 likes - 55 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcNhMtmDJe1.md) - [plain]
 | 54 | [Rosalie, Act II, How long has This been going on: How Long Has This Been Going On? \(Arr\. P\. Breiner for trumpet and piano\)](https://open.spotify.com/track/1xEKr9qYQXZen8de6kPvQ4) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Juraj Bartoš](https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Gershwin for Trumpet](https://open.spotify.com/album/0pdegcimOFi10jS49gi458) | 6:06 |
 | 55 | [2nd Rhapsody](https://open.spotify.com/track/1XR3ozgp2QCc6HqLgtcxgQ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Orion Weiss](https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations](https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr) | 15:49 |
 
-Snapshot ID: `AAAAABaQWTzduIJusUET3cQR4aoyl+eJ`
+Snapshot ID: `AAAAAM5dC3zwfbutHY9BVjGO264OtJt+`

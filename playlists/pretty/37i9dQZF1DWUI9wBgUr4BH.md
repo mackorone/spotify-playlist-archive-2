@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo :  Eva
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,811 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,790 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 38 | [Ensemble](https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Ensemble](https://open.spotify.com/album/6QdDXJlhY1FbOZsEYPN1lu) | 3:09 |
 | 39 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
 
-Snapshot ID: `AAAAAIwUmpCvhAB9shE4kK9vSL1vjUkY`
+Snapshot ID: `AAAAAAEbDJXf5J2Xu9R9O+hiVRUMxxnz`

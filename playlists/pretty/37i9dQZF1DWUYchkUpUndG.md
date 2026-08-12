@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Prinx Emmanuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,110 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,195 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 66 | [One Touch](https://open.spotify.com/track/7LRE9XbTrjK69iK0ylO6gX) | [Minstrel John Leke](https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o) | [One Touch](https://open.spotify.com/album/0aCehsq2FMWrBFy30UoNSF) | 2:05 |
 | 67 | [SABI \- Live](https://open.spotify.com/track/4XODcOH8nCPHPOFtkVtija) | [Segun Aniye](https://open.spotify.com/artist/4xa0DdlvnBHWKWTRPl6LXE) | [SABI \(Live\)](https://open.spotify.com/album/0WP8tFZHWLZetoudunQVdq) | 10:19 |
 | 68 | [Holy Is The Lord](https://open.spotify.com/track/2mws2ROks0AungW5PHSsx5) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Holy Is The Lord](https://open.spotify.com/album/3slLoRXafTFFNrNPogKCoB) | 4:07 |
-| 69 | [Number One \- Remix](https://open.spotify.com/track/4xY76YPUcXK88AxaGJtQZO) | [Younggod](https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW) | [Number One \(Remix\)](https://open.spotify.com/album/2B7kcFnDPSm0x4D2YIyxIw) | 2:39 |
+| 69 | [Number One \- Remix](https://open.spotify.com/track/4xY76YPUcXK88AxaGJtQZO) | [Younggod Supreme](https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31) | [Number One \(Remix\)](https://open.spotify.com/album/2B7kcFnDPSm0x4D2YIyxIw) | 2:39 |
 | 70 | [Good \(Psalms 145\)](https://open.spotify.com/track/41ooM5xnCXgj0iat09QJoa) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [Good \(Psalms 145\)](https://open.spotify.com/album/5r2bZd6oJTGTbCzDN5Hs27) | 4:02 |
 | 71 | [Worthy](https://open.spotify.com/track/2vQDarDLtJlWrdcDQY3hkg) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Worthy](https://open.spotify.com/album/7B6sNT9ZPJBpmyuIkz5SA2) | 2:04 |
 | 72 | [Abuja to Whk \(new wave\)](https://open.spotify.com/track/79otTUz7PBNnXrI6eQTo8q) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Abuja to Whk \(new wave\)](https://open.spotify.com/album/2goB983grFNP23pF6vPoPO) | 3:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/track/4o96oxKtDcOfUYY8nrGPun) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/album/5lzkLpPjHD7a8hFZdogPDr) | 15:55 |
 | 100 | [Lesson](https://open.spotify.com/track/7zB2Z50kZgykmKlEj3Gjtn) | [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd), [Sekrade](https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG), [Day 3](https://open.spotify.com/artist/1V8YmQ4aOqbzU0TksheISz) | [Lesson](https://open.spotify.com/album/2eWjOh4EctkT2HvwrNbgn7) | 2:42 |
 
-Snapshot ID: `AAAAAGIhFTI/7u8mGW5cusyorLL3dGIC`
+Snapshot ID: `AAAAALB2Lw4+Ky7PAnR2ODMQibEahwDs`

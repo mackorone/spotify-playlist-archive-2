@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 500891,
+  "num_followers": 501043,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIS8z3wpav7kKzMoCfaXTv5h0B8",
+  "snapshot_id": "AAAAALLpR3+A0i0IL4sqFG5HlTfw9DpH",
   "tracks": [
     {
       "added_at": "2026-08-07 04:11:56",
@@ -339,26 +339,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Amor EP",
-        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 372293,
-      "name": "Amor (feat. CERES)",
-      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Domino (Space 92 Remix)",
         "url": "https://open.spotify.com/album/3RVpReOX57xE9g6OdqaXtF"
       },
@@ -379,6 +359,26 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "Amor EP",
+        "url": "https://open.spotify.com/album/6v50qNzxBH7PI4rHsamjVX"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 372293,
+      "name": "Amor (feat. CERES)",
+      "url": "https://open.spotify.com/track/4UhxekskWFXSv9ik933yBv"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "Hooked on the Bassline",
         "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
       },
@@ -395,22 +395,6 @@
       "duration_ms": 197600,
       "name": "Hooked on the Bassline",
       "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "Holy Place",
-        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Holy Place",
-      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -439,6 +423,22 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -691,6 +691,26 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
         "name": "Where I'm From",
         "url": "https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK"
       },
@@ -763,22 +783,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "our frequency",
-        "url": "https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 264388,
-      "name": "our frequency",
-      "url": "https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Roar",
         "url": "https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp"
       },
@@ -791,6 +795,22 @@
       "duration_ms": 355879,
       "name": "Roar",
       "url": "https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "our frequency",
+        "url": "https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 264388,
+      "name": "our frequency",
+      "url": "https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -851,26 +871,6 @@
       "duration_ms": 231521,
       "name": "Coming In Heavy",
       "url": "https://open.spotify.com/track/6VTiQz9Er68Nn8DywsO2v3"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
-        "name": "run",
-        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 262297,
-      "name": "run",
-      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
     },
     {
       "added_at": "2026-08-07 04:11:56",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-08-07 04:11:56",
       "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
-    },
-    {
-      "added_at": "2026-08-07 04:11:56",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "added_at": "2026-08-07 04:11:56",
+      "album": {
+        "name": "Wavey",
+        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 143379,
+      "name": "Wavey",
+      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
     }
   ],
   "unique_name": "Techno Workout",

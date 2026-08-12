@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: Empty old City",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u3086\u30fc\u308a",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -2216,6 +2216,24 @@
       "duration_ms": 147933,
       "name": "Cats are dangerous",
       "url": "https://open.spotify.com/track/7D3dJwn9VlMOHOACNRyqlU"
+    },
+    {
+      "album": {
+        "name": "Cattitude",
+        "url": "https://open.spotify.com/album/4yYMW17ztBxlqhGlYUXPFY"
+      },
+      "artists": [
+        {
+          "name": "seiza",
+          "url": "https://open.spotify.com/artist/4NRSYB2qS3BZCcaddIzylY"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190914,
+      "name": "Cattitude",
+      "url": "https://open.spotify.com/track/627FD5UenbVZM9d6BJsoS8"
     },
     {
       "album": {
@@ -4861,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "High Low",
+        "url": "https://open.spotify.com/album/1r9WZOotWvIBwShZHeUveb"
+      },
+      "artists": [
+        {
+          "name": "yuri",
+          "url": "https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127999,
+      "name": "High Low",
+      "url": "https://open.spotify.com/track/2WQ5Y7NfIkZdSXFP6wXS3p"
+    },
+    {
+      "album": {
         "name": "Highway Loner",
         "url": "https://open.spotify.com/album/2h95IUMyUkl0TOnAzHdk20"
       },
@@ -6826,7 +6862,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 249333,
       "name": "Love me forever!",
       "url": "https://open.spotify.com/track/2j7w4Q2yMxa9ekzCdGhKUc"
@@ -7527,6 +7563,24 @@
     },
     {
       "album": {
+        "name": "Monstruo",
+        "url": "https://open.spotify.com/album/2w1G8FZ9tZwmamv84FWajp"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Monstruo",
+      "url": "https://open.spotify.com/track/2Sok9eIEfMOnxnSq5kI97u"
+    },
+    {
+      "album": {
         "name": "Moonthief",
         "url": "https://open.spotify.com/album/4qA404qUuqlXMOLiVZwj6i"
       },
@@ -7578,6 +7632,24 @@
       "duration_ms": 226533,
       "name": "Mother Drug",
       "url": "https://open.spotify.com/track/28tXpSZ6nmsYDtn5sH3ZpS"
+    },
+    {
+      "album": {
+        "name": "mountain",
+        "url": "https://open.spotify.com/album/7BHTkOKCrAxpQociodbtHn"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "mountain",
+      "url": "https://open.spotify.com/track/5VeJrJYiHdwuwQgBlVf1GR"
     },
     {
       "album": {
@@ -9338,6 +9410,24 @@
       "duration_ms": 178064,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4"
+    },
+    {
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/55UpcId53ZrBz2NDNuPcBT"
+      },
+      "artists": [
+        {
+          "name": "Girls Archives.",
+          "url": "https://open.spotify.com/artist/4iAzYOFlBDA9cIJtwWF97h"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169127,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/2SyKKIaY3buKvidX8VPtJn"
     },
     {
       "album": {
@@ -11702,7 +11792,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 191964,
       "name": "U and I",
       "url": "https://open.spotify.com/track/1ha5fndeJmwVRRIUUBZlkQ"
@@ -13236,7 +13326,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 197066,
       "name": "\u3042\u308f",
       "url": "https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao"
@@ -13690,6 +13780,24 @@
       "duration_ms": 171000,
       "name": "\u304a\u3084\u3059\u307fTaxi - AKASAKI Remix",
       "url": "https://open.spotify.com/track/2b0w0Yl8AbczFgkN8AWB2D"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3084\u3059\u307f\u30eb\u30fc\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/6VwdnZlgEbZUh41Hb3EeAc"
+      },
+      "artists": [
+        {
+          "name": "DAZBEE",
+          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176652,
+      "name": "\u304a\u3084\u3059\u307f\u30eb\u30fc\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/5h31BDH1JNzLxdI0ORkkrO"
     },
     {
       "album": {
@@ -14802,7 +14910,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 177613,
       "name": "\u306a\u3093\u3068\u3082\u601d\u3063\u3066\u306a\u3044",
       "url": "https://open.spotify.com/track/7c95ADUL1jAm1UWERlAE4b"
@@ -21144,7 +21252,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 200731,
       "name": "\u30d4\u30e5\u30a2 (feat. \u6a4b\u672c\u7d75\u8389\u5b50)",
       "url": "https://open.spotify.com/track/4VTC276ujrgDkdyKWPGdre"
@@ -26500,7 +26608,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 191304,
       "name": "\u5927\u9b31\u8b66\u5831",
       "url": "https://open.spotify.com/track/0N4X2aFh5KQaXcMwbrMVCd"
@@ -27982,7 +28090,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 268384,
       "name": "\u61a7\u308c\u306e\u6b8b\u97ff",
       "url": "https://open.spotify.com/track/2mGhZrU6BLWxOHf0CU7VE5"
@@ -32088,6 +32196,24 @@
       "duration_ms": 212373,
       "name": "\u82b1\u706b",
       "url": "https://open.spotify.com/track/445ClT4e6nCWUb8GzUXGjs"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/4GgBJXe0G0F1RITFyZjZMV"
+      },
+      "artists": [
+        {
+          "name": "Guiano",
+          "url": "https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240833,
+      "name": "\u82b1\u706b",
+      "url": "https://open.spotify.com/track/0szDCJERv2wykbWIUsORli"
     },
     {
       "album": {

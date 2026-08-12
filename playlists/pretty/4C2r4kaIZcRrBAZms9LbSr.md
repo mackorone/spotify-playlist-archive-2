@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4C2r4kaIZcRrBAZms9LbSr.md) - [plain]
 
 > The sounds that have currently got the Rough Trade Records team excited, including new releases and favourites from the archive\. Currently updated every Monday.
 
-[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 16,086 likes - 12 songs - 46 min 30 sec
+[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 16,088 likes - 12 songs - 46 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/4C2r4kaIZcRrBAZms9LbSr.md) - [plain]
 | 11 | [100,000](https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 5:13 |
 | 12 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
 
-Snapshot ID: `AAAYRklbX/qYkSxkIPBZxY8k0ZnFY/w6`
+Snapshot ID: `AAAYR9p3xVSYoyxivmeOB79dfitntSM7`

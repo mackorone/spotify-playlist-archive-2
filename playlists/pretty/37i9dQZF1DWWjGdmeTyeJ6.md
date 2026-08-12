@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Next of Kin\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,279 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,283 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 52 | [melody](https://open.spotify.com/track/0aMVTLwGKFJAvT66qcXQvt) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [melody](https://open.spotify.com/album/2QhAdqbrpkCBhVcnKpdaJg) | 2:38 |
 | 53 | [6/8](https://open.spotify.com/track/1pOvyWbQoX16kBFgTIMPSX) | [Mddle](https://open.spotify.com/artist/4UhpuBlKBacXwWXgTunCI9), [Akira Kintsugi](https://open.spotify.com/artist/1K1dPnpajLuA1vpXeDK4Oj) | [6/8](https://open.spotify.com/album/2gHk4FNRZY0gdUa4IwGrVU) | 2:00 |
 | 54 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
-| 55 | [Sweet but Nasty](https://open.spotify.com/track/4Jg3XhXmQIygnNBz6bt3h6) | [isa in eutopia](https://open.spotify.com/artist/15Uk55CSiVqXXgRNsWe1aq) | [Sweet but Nasty](https://open.spotify.com/album/3RSzXPNcMlQmXu3HoEaFLf) | 3:04 |
+| 55 | [Sweet But Nasty](https://open.spotify.com/track/4Jg3XhXmQIygnNBz6bt3h6) | [isa in eutopia](https://open.spotify.com/artist/15Uk55CSiVqXXgRNsWe1aq) | [Sweet but Nasty](https://open.spotify.com/album/3RSzXPNcMlQmXu3HoEaFLf) | 3:04 |
 | 56 | [Believe it or Not](https://open.spotify.com/track/3TB505HLC95vPEvs4UIKOV) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [Believe it or Not](https://open.spotify.com/album/55qO6JyTwYrmr9CAr8UmoF) | 2:51 |
 | 57 | [KALLAH](https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo) | [Camila Sofía](https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8) | [KALLAH](https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup) | 3:06 |
 | 58 | [he77](https://open.spotify.com/track/3uN1nkfbLrFcuzKmB1u7bC) | [Hayku Kyah](https://open.spotify.com/artist/70b7TMBCkhzP7KgM1qc3Q8) | [he77](https://open.spotify.com/album/0KmXWiBdSEwD8pQBe2rxPn) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
 | 100 | [dimples](https://open.spotify.com/track/0Jc9os5dYkPGRdEBxhH76B) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi) | [dimples](https://open.spotify.com/album/6p6c3hadee16PIEBhEv40S) | 1:40 |
 
-Snapshot ID: `AAAAALtKiHUtyfGAK4vACVy7pPXV6qyG`
+Snapshot ID: `AAAAACKDTg3cHIWAf4EETFcoiU4/k3p+`

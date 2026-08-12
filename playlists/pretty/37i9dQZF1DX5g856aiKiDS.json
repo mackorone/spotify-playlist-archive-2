@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518683,
+  "num_followers": 518677,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNO6jM9B6Ov9U3Mt6Wo+7xFguS0",
+  "snapshot_id": "AAAAAOIP3DxnsjzSUJP2CTuJjGgZ8KwH",
   "tracks": [
     {
       "added_at": "2026-07-22 05:58:48",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "That Kind Of Love",
-        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
-      },
-      "artists": [
-        {
-          "name": "I'MIN",
-          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "That Kind of Love",
-      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "Can I Love?",
         "url": "https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
+        "name": "That Kind Of Love",
+        "url": "https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm"
+      },
+      "artists": [
+        {
+          "name": "I'MIN",
+          "url": "https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "That Kind of Love",
+      "url": "https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "Bye Bye My Blue",
-        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 203409,
-      "name": "Bye Bye My Blue",
-      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "Absence 'Side A'",
         "url": "https://open.spotify.com/album/294edGP7qQdiIXxZlQNPki"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 215795,
       "name": "Love like that",
       "url": "https://open.spotify.com/track/4WdOTZKQ9HzUqo5VEGiLGf"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
+        "name": "Bye Bye My Blue",
+        "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 203409,
+      "name": "Bye Bye My Blue",
+      "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 271215,
-      "name": "Popo (How deep is our love?)",
-      "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "Amusement Park",
         "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 271215,
+      "name": "Popo (How deep is our love?)",
+      "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "lost in you",
-        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
-      },
-      "artists": [
-        {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "lost in you",
-      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "I`m In Love",
         "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 197000,
       "name": "I`m In Love",
       "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
+        "name": "lost in you",
+        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "lost in you",
+      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -859,18 +859,22 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
       "artists": [
         {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+      "duration_ms": 194111,
+      "name": "Daydream (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -891,22 +895,18 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
         }
       ],
-      "duration_ms": 194111,
-      "name": "Daydream (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
     }
   ],
   "unique_name": "Dalkom Cafe",

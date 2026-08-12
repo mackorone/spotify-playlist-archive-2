@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,616 songs - 10 day 8 hr 16 min
+4,618 songs - 10 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,6 +1333,7 @@
 | [Electric Wilderness \(another\)](https://open.spotify.com/track/7rRK36hFLJaoria6ExwPd5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 2:34 | 2025-09-17 |  |
 | [Electricity Dreams](https://open.spotify.com/track/2dJwourK72MevutZ8PXGgy) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Techno Dance](https://open.spotify.com/album/3ED2oQ4TpT78BCuGQxnwRz) | 3:44 | 2025-05-27 |  |
 | [Electricity Dreams \(another\)](https://open.spotify.com/track/5Pu7nYaHEHLv87HamV5RhQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Techno Dance](https://open.spotify.com/album/3ED2oQ4TpT78BCuGQxnwRz) | 2:40 | 2025-09-17 |  |
+| [Electrifying](https://open.spotify.com/track/1YRKoosj9yh5391ksDhCx3) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Electrifying](https://open.spotify.com/album/2O5k7L9K9KAwkuLMwKtRWG) | 5:43 | 2026-08-11 |  |
 | [Electrik Dreams](https://open.spotify.com/track/3lhZqllnMgFfjLxgPSne8q) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 3:47 | 2025-05-29 |  |
 | [Electrik Dreams \(another\)](https://open.spotify.com/track/5VrKGeI90rod8n9iVMr1lg) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 4:00 | 2025-09-18 |  |
 | [Elektrik Dreams](https://open.spotify.com/track/3KjRizMK9xW6OwnJlshkH3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Dance Futuristic Elettropop](https://open.spotify.com/album/0awZvFqMXHLqpRRpzMeFfW) | 3:32 | 2025-09-18 |  |
@@ -1672,7 +1673,7 @@
 | [Giro in Blues\_](https://open.spotify.com/track/5PaaBH3Uop0lFvkSmAFiN4) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Giro in Blues\_](https://open.spotify.com/album/4HkzjpuwzzCx1r3drVdUss) | 3:30 | 2026-02-13 |  |
 | [Girotondo di Stelle](https://open.spotify.com/track/4JXzOm4XyRbjqvDkUrz7sf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Italiano](https://open.spotify.com/album/7IrQUjWQhPAXuhNFYaDVI0) | 2:17 | 2025-05-31 |  |
 | [Giulia](https://open.spotify.com/track/2yBfR6xnS4nQ1RPxzO16Ek) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Giulia](https://open.spotify.com/album/3GxwK6vzAPdzY8VW9ql1nF) | 4:01 | 2026-01-04 |  |
-| [Give Me a Sign](https://open.spotify.com/track/2TcGKksrODCi8qxu2Riqfx) | [Ore\-Kun](https://open.spotify.com/artist/6P3eLuqFuDuPkrGmXB9eDF) | [Give Me a Sign](https://open.spotify.com/album/6EQA6VxltoT73LtOrUiiED) | 4:32 | 2024-10-31 |  |
+| [Give Me a Sign](https://open.spotify.com/track/2TcGKksrODCi8qxu2Riqfx) | [Ore\-Kun](https://open.spotify.com/artist/6P3eLuqFuDuPkrGmXB9eDF) | [Give Me a Sign](https://open.spotify.com/album/6EQA6VxltoT73LtOrUiiED) | 4:32 | 2024-10-31 | 2026-08-12 |
 | [Glass Wings](https://open.spotify.com/track/1KRQlC687C3IPsb1kBYPH0) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Glass Wings](https://open.spotify.com/album/6UoBZE2kv3ZcDUNh9kDR6w) | 3:21 | 2025-08-11 |  |
 | [Glitch in My Head](https://open.spotify.com/track/7va9JFDcDDKo6f1Je4tE6y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 2:22 | 2025-09-16 |  |
 | [Glitch in the Amplifier](https://open.spotify.com/track/68E70uW0bPTUTJBrejy1IF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Virtual rock](https://open.spotify.com/album/48aggZCMxbdvSMGvL55GyX) | 3:48 | 2025-09-12 |  |
@@ -1907,6 +1908,7 @@
 | [hustle 4Money](https://open.spotify.com/track/0ENqcUoIQfoIk2nCHJs4QI) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC) | [hustlers Ambition](https://open.spotify.com/album/4MngCDfJLBPmvPO9eBXwa4) | 2:49 | 2025-06-05 |  |
 | [Huzz](https://open.spotify.com/track/7EXnOEmfXbFODcbgupRpKN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:44 | 2025-09-17 |  |
 | [Hyperouranos](https://open.spotify.com/track/2Z4mkgKktbfcbkRve1qLUP) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 2:23 | 2025-06-26 |  |
+| [hyperstition](https://open.spotify.com/track/5lDryKiJUN4LLh7QkPuaoI) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [hyperstition](https://open.spotify.com/album/3dZ0DG8dQvDHD1Zjrdj0uH) | 4:48 | 2026-08-11 |  |
 | [Hypnotic Pulse](https://open.spotify.com/track/6FWrWBbPPu82fRxc5ojUSC) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [Hypnotic Pulse](https://open.spotify.com/album/1cvSVsP7PwFBTCFmSwXK0B) | 3:09 | 2025-06-04 |  |
 | [I Am](https://open.spotify.com/track/5FRgx1KZYq5AUsebojppwz) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 3:47 | 2025-03-30 |  |
 | [I Am Me](https://open.spotify.com/track/5Fa4b7WhQMAlx2XhOnqBch) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [I Am Me](https://open.spotify.com/album/1UIacRZ7DmpLS6DWp38Mgb) | 3:17 | 2025-09-26 |  |

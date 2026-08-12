@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1246,
+  "num_followers": 1248,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "kiara",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAAB6qlShgvKhnw61OXpWpsZzDo6QX35",
+  "snapshot_id": "AAAB66JugLqIfrx9ySSeREZ4f1n03hXg",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -8491,6 +8491,22 @@
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
+    },
+    {
+      "added_at": "2026-08-11 14:13:11",
+      "album": {
+        "name": "MAX LVL FIXATED!!",
+        "url": "https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 78541,
+      "name": "MAX LVL FIXATED!!",
+      "url": "https://open.spotify.com/track/2bZb9Zfw2mvjnwnbeqA36G"
     }
   ],
   "unique_name": "My favourite furry songs",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 156726,
+  "num_followers": 156745,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAACEqn/thIgNFMDGGYKhOixO",
+  "snapshot_id": "ankUgAAAAADQJ2lMdDtTIUftPfOgfNWk",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Middle of Nowhere",
-      "url": "https://open.spotify.com/track/3kABshsEtLKsJpi8Oh0Wr4"
+      "duration_ms": 231253,
+      "name": "I Believe In Ghosts",
+      "url": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
     },
     {
       "added_at": null,
@@ -320,7 +320,7 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 231253,
-      "name": "I Believe In Ghosts",
-      "url": "https://open.spotify.com/track/7grbib2M3CyUJUf4dcm7uQ"
+      "duration_ms": 256475,
+      "name": "Loneliest Girl",
+      "url": "https://open.spotify.com/track/4fjcOqEadLRIj6jJ19lYCE"
     },
     {
       "added_at": null,
@@ -384,17 +384,21 @@
       "added_at": null,
       "album": {
         "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
       "artists": [
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 256475,
-      "name": "Loneliest Girl",
-      "url": "https://open.spotify.com/track/4fjcOqEadLRIj6jJ19lYCE"
+      "duration_ms": 163689,
+      "name": "Horses and Divorces (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
     },
     {
       "added_at": null,
@@ -528,9 +532,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Late To The Party",
-      "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
+      "duration_ms": 196520,
+      "name": "Biscuits",
+      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
     },
     {
       "added_at": null,
@@ -600,9 +604,9 @@
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 196520,
-      "name": "Biscuits",
-      "url": "https://open.spotify.com/track/4vHVfwVi2CEc4r7P1Pr9iu"
+      "duration_ms": 217880,
+      "name": "Late To The Party",
+      "url": "https://open.spotify.com/track/0E5ZrgbRKXwGvNhwzRaDGL"
     },
     {
       "added_at": null,

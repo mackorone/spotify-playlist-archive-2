@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Koryn Hawthorne
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,571 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,589 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 74 | [human](https://open.spotify.com/track/7IsRX80drqVO7TPdNHTUnI) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [green](https://open.spotify.com/album/7KqxY6kXilzCr1fOIwBGYl) | 3:59 |
 | 75 | [Shameless](https://open.spotify.com/track/7bQKckZ2AsrFOok83WJb6v) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [This Bed I Made](https://open.spotify.com/album/1atz6Ki6hL5RjUgGIDfkJA) | 3:44 |
 
-Snapshot ID: `AAAAAJsKf65l9ZfPt79oS7GweBHRoGp5`
+Snapshot ID: `AAAAAIZ9G+9DIQpbFJPEFaA7syfGFVcJ`

@@ -515,6 +515,32 @@
     },
     {
       "album": {
+        "name": "Ae Ajnabee | Coke Studio Bharat (Acoustic)",
+        "url": "https://open.spotify.com/album/4n0AhTcVXAhcIqmDANqYZa"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Ravator",
+          "url": "https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs"
+        },
+        {
+          "name": "UNPLG'd",
+          "url": "https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99096,
+      "name": "Ae Ajnabee | Coke Studio Bharat - Acoustic",
+      "url": "https://open.spotify.com/track/3tnJPT14JoWT3ospmDVwnj"
+    },
+    {
+      "album": {
         "name": "Afwaeen",
         "url": "https://open.spotify.com/album/6tIJgl2e9HN8m9lzv5NVLD"
       },
@@ -9118,7 +9144,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 88500,
       "name": "Paro - 2am Version",
       "url": "https://open.spotify.com/track/5mfiLyAEx8OKwb9L7LY27T"
@@ -9416,14 +9442,6 @@
         {
           "name": "Dream Note",
           "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
-        },
-        {
-          "name": "Taresh Agarwal",
-          "url": "https://open.spotify.com/artist/2HupEq4pIUW6ksJvn9hGvi"
-        },
-        {
-          "name": "Gaurav Tiwari",
-          "url": "https://open.spotify.com/artist/7cNKx3xlbjTwN9EkmiEGZE"
         }
       ],
       "date_added": "2025-09-29",

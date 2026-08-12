@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,519 likes - 85 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,585 likes - 85 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 | 84 | [A Ballad For Doll](https://open.spotify.com/track/5CtjQPv8EHNL0VtpRn1hJA) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Jackie's Bag](https://open.spotify.com/album/38DK5YkAlvSqJ7BAEQPm7P) | 3:16 |
 | 85 | [Desmond Blue \- 2001 Remastered](https://open.spotify.com/track/11m9dTmaDfP5HNQ5kQT0om) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 3:37 |
 
-Snapshot ID: `AAAAANdvIIGQrb7sJ++VaY5Hmvpa9enl`
+Snapshot ID: `AAAAAPl3iDs0ey6K4WMxdUkLqwTU1T6v`

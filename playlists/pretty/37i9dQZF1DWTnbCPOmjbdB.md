@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Sylwia Grzeszczak
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,160 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,228 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 |
 | 60 | [Po nocach](https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Po nocach](https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC) | 3:31 |
 
-Snapshot ID: `AAAAAA7qeOnQC6PhpL7IWFemkk7Gu1sc`
+Snapshot ID: `AAAAAJ4uIU6PZ4dDCzDEjOnLj7GqUvCp`

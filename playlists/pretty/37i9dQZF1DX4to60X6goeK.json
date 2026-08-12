@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 76343,
+  "num_followers": 76354,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN+94B1KbxDV2UBRcyNTubrgYE5P",
+  "snapshot_id": "AAAAAAex4OYhrs3hgIkTLGXycGh8exER",
   "tracks": [
     {
       "added_at": "2026-08-06 23:00:42",
@@ -287,22 +287,18 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Here For You",
-        "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
+        "name": "Onslaught / Shufflin\u2019",
+        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
       },
       "artists": [
         {
           "name": "Macky Gee",
           "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        },
-        {
-          "name": "KRITIKAL",
-          "url": "https://open.spotify.com/artist/10feVbXaLX6SFyu8sCMi5S"
         }
       ],
-      "duration_ms": 202971,
-      "name": "Here For You",
-      "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
+      "duration_ms": 267428,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -395,18 +391,22 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Onslaught / Shufflin\u2019",
-        "url": "https://open.spotify.com/album/71CAXBcHF7s11mKzSw9368"
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/16rUalTYqLriazFBIgM6EE"
       },
       "artists": [
         {
           "name": "Macky Gee",
           "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        },
+        {
+          "name": "KRITIKAL",
+          "url": "https://open.spotify.com/artist/10feVbXaLX6SFyu8sCMi5S"
         }
       ],
-      "duration_ms": 267428,
-      "name": "Onslaught",
-      "url": "https://open.spotify.com/track/5MOhLJs3asuZxAVPijNlNX"
+      "duration_ms": 202971,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/11OMHCCxjfjbdiP5EXRvsY"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Lose Your Shit",
-        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
-        }
-      ],
-      "duration_ms": 190094,
-      "name": "Lose Your Shit",
-      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
         "name": "Do You",
         "url": "https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 222171,
       "name": "Do You",
       "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
+        "name": "Lose Your Shit",
+        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 190094,
+      "name": "Lose Your Shit",
+      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Goose Chase",
-        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
-      },
-      "artists": [
-        {
-          "name": "Hoax",
-          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
-        }
-      ],
-      "duration_ms": 180344,
-      "name": "Goose Chase",
-      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
         "name": "Satellite (SOTA Remix)",
         "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 177931,
       "name": "Satellite - SOTA Remix",
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
+        "name": "Goose Chase",
+        "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
+      },
+      "artists": [
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "duration_ms": 180344,
+      "name": "Goose Chase",
+      "url": "https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
+        "name": "Holy Moly (VIP)",
+        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "Holy Moly - VIP",
+      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -775,30 +791,6 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Good Times (feat. ellen lynch)",
-        "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
-      },
-      "artists": [
-        {
-          "name": "Tsuki",
-          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
-        },
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        },
-        {
-          "name": "ellen lynch",
-          "url": "https://open.spotify.com/artist/4l2D4sguBSSAKbLk68ACGi"
-        }
-      ],
-      "duration_ms": 201603,
-      "name": "Good Times (feat. ellen lynch)",
-      "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
         "name": "Raving In The Studio (SOTA Remix)",
         "url": "https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH"
       },
@@ -819,6 +811,30 @@
       "duration_ms": 135428,
       "name": "Raving In The Studio (SOTA Remix)",
       "url": "https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
+        "name": "Good Times (feat. ellen lynch)",
+        "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        },
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        },
+        {
+          "name": "ellen lynch",
+          "url": "https://open.spotify.com/artist/4l2D4sguBSSAKbLk68ACGi"
+        }
+      ],
+      "duration_ms": 201603,
+      "name": "Good Times (feat. ellen lynch)",
+      "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -887,38 +903,22 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Holy Moly (VIP)",
-        "url": "https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ"
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
       },
       "artists": [
         {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 253793,
-      "name": "Holy Moly - VIP",
-      "url": "https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
-      },
-      "artists": [
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         },
         {
-          "name": "Break",
-          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Step Back (Break Remix)",
-      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
+      "duration_ms": 222069,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -939,22 +939,22 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/4D443YrT0kpFSJzHFkMdfo"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
         },
         {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Break",
+          "url": "https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM"
         }
       ],
-      "duration_ms": 222069,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
+      "duration_ms": 203720,
+      "name": "Step Back (Break Remix)",
+      "url": "https://open.spotify.com/track/40GDOmJfjUvX17B9UMlEF9"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
         "name": "Violence",
         "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 161034,
       "name": "Violence",
       "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-08-06 23:00:42",

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAABEKf84HvSkKk0Rc0qWfXtkXZyK5L5",
+  "snapshot_id": "AAABEvhLxgBljZJzJCPIvgsGJtmDxH/7",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -3203,6 +3203,38 @@
       "duration_ms": 212573,
       "name": "Slingshot",
       "url": "https://open.spotify.com/track/1TOYsMwlftOZ5GZL6sF8lF"
+    },
+    {
+      "added_at": "2026-08-11 03:05:57",
+      "album": {
+        "name": "Something is Happening\u2026",
+        "url": "https://open.spotify.com/album/7DgxHSUA9QEZozUrlxhiI0"
+      },
+      "artists": [
+        {
+          "name": "GUPPY",
+          "url": "https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z"
+        }
+      ],
+      "duration_ms": 179172,
+      "name": "Texting & Driving",
+      "url": "https://open.spotify.com/track/7vM2XjIZRTLQ3JmPezcHVr"
+    },
+    {
+      "added_at": "2026-08-11 03:52:11",
+      "album": {
+        "name": "Fashion Nugget",
+        "url": "https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 180627,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE"
     }
   ],
   "unique_name": "Questionable Bops",

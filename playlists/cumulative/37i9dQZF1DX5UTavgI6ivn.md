@@ -2,7 +2,7 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Luister La Voz
+> Toda nuestra fuerza con quienes hoy más la necesitan\. 🇨🇴
 
 591 songs - 1 day 8 hr 50 min
 

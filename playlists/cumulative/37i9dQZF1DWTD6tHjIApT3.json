@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u3055\u3089\u3055",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Tokimeki Records",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -5508,7 +5508,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 236300,
       "name": "breath",
       "url": "https://open.spotify.com/track/2NdAfTj6q6vNK7PHcYmCoL"
@@ -18510,7 +18510,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 200386,
       "name": "KAMINARI",
       "url": "https://open.spotify.com/track/500CTq16fcnpjFHvXDzjUV"
@@ -27142,6 +27142,24 @@
       "duration_ms": 214391,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/7LNOiU5aq5o1jjXFCEjCY2"
+    },
+    {
+      "album": {
+        "name": "OUT",
+        "url": "https://open.spotify.com/album/26czVqzKxO3D1ZOPMJQcks"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "OUT",
+      "url": "https://open.spotify.com/track/7g4Anq7H9YaaAaZq548Yhi"
     },
     {
       "album": {
@@ -37487,6 +37505,24 @@
     },
     {
       "album": {
+        "name": "\u9ec4\u660f\u306a\u30d6\u30eb\u30fc -Twilight Blue-",
+        "url": "https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR"
+    },
+    {
+      "album": {
         "name": "Trank",
         "url": "https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U"
       },
@@ -45198,7 +45234,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 217000,
       "name": "\u305c\u3093\u3076\u53ef\u611b\u3044\u306e\u305b\u3044",
       "url": "https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ"
@@ -54493,6 +54529,24 @@
     },
     {
       "album": {
+        "name": "\u30e2\u30f3\u30b9\u30c8\u30ed",
+        "url": "https://open.spotify.com/album/3dPGxHOubAlabcR20uJGsG"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "\u30e2\u30f3\u30b9\u30c8\u30ed",
+      "url": "https://open.spotify.com/track/78GGBmoEMw4MqTzynPfqMw"
+    },
+    {
+      "album": {
         "name": "\u30e4\u30b1\u30c9",
         "url": "https://open.spotify.com/album/1jPav5sGQGfQ8eKaAZA9Ym"
       },
@@ -60008,6 +60062,24 @@
       "duration_ms": 319920,
       "name": "\u5922\u306e\u5302\u3044",
       "url": "https://open.spotify.com/track/5izU9SsZ7xC649aIOl6kxv"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306e\u6d77: \u6563\u6587, 2026 Aug.",
+        "url": "https://open.spotify.com/album/461Vw4zNIv9W30ETm2nZkR"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u7530\u73e0\u7406",
+          "url": "https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "\u5922\u306e\u6d77: \u6563\u6587, 2026 Aug.",
+      "url": "https://open.spotify.com/track/0UefrHbccFn8Fx65ajpWY5"
     },
     {
       "album": {
@@ -68972,7 +69044,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 235837,
       "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"

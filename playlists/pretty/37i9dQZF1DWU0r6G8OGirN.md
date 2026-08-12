@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,997 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,988 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0r6G8OGirN.md) - [plain]
 | 84 | [Santa Baby](https://open.spotify.com/track/2dAfFeRPrMoUb6ZKObAHrr) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Christmas](https://open.spotify.com/album/1LmktIGUC5EwQ7YRKP76iO) | 2:53 |
 | 85 | [Christmas Night](https://open.spotify.com/track/4aL4d1dLrK6lM32OWHvvLt) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Christmas Night](https://open.spotify.com/album/3rX7mcu3omFMmmvWdmVSTL) | 2:44 |
 
-Snapshot ID: `AAAAAGAnndVmkA5+yK0rmZMGBt9Ak3Q5`
+Snapshot ID: `AAAAAC/VOWbk3SFZcdlfiy/zmSoYFGOd`

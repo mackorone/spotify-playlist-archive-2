@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 223999,
+  "num_followers": 224007,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM22/ipP8JBhTzrXcwOjJbc4aXwU",
+  "snapshot_id": "AAAAADi++g5XxMFoIun2WZnSHguKUMxw",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:15",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-08-06 22:00:15",
       "album": {
+        "name": "The Man Who Lost it All",
+        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 199712,
+      "name": "The Man Who Lost it All",
+      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
+    },
+    {
+      "added_at": "2026-08-06 22:00:15",
+      "album": {
         "name": "Til the music starts again",
         "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
-    },
-    {
-      "added_at": "2026-08-06 22:00:15",
-      "album": {
-        "name": "The Man Who Lost it All",
-        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 199712,
-      "name": "The Man Who Lost it All",
-      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
     },
     {
       "added_at": "2026-08-06 22:00:15",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-06 22:00:15",
       "album": {
-        "name": "In a Dream",
-        "url": "https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO"
-      },
-      "artists": [
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "In a Dream",
-      "url": "https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I"
-    },
-    {
-      "added_at": "2026-08-06 22:00:15",
-      "album": {
         "name": "Part Of The Story",
         "url": "https://open.spotify.com/album/7jUYwxe12GrrCeFQjL6HsG"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 187173,
       "name": "Part Of The Story",
       "url": "https://open.spotify.com/track/6jS0yEHw2vNXyCbY1DJJU4"
+    },
+    {
+      "added_at": "2026-08-06 22:00:15",
+      "album": {
+        "name": "In a Dream",
+        "url": "https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "duration_ms": 196636,
+      "name": "In a Dream",
+      "url": "https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I"
     },
     {
       "added_at": "2026-08-06 22:00:15",

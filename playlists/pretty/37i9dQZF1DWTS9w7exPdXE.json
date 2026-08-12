@@ -1,12 +1,12 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 170020,
+  "num_followers": 170090,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrbjsYZaUNIu5k8mOROAqvjdPVA",
+  "snapshot_id": "AAAAAFu8yUelumOjjOG0pC2p0XgU7Xw2",
   "tracks": [
     {
       "added_at": "2026-06-17 07:46:41",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Adem",
-        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Het Regent Zonnestralen",
-      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "(Die Man Is) Verliefd",
         "url": "https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 186799,
       "name": "(Die Man Is) Verliefd",
       "url": "https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Adem",
+        "url": "https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Het Regent Zonnestralen",
+      "url": "https://open.spotify.com/track/1a2GeLs7aMPvwJOjcVK0Vl"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Gewoon Jannes",
-        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Adio Amore Adio",
-      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "GAP",
         "url": "https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 131270,
       "name": "GAP",
       "url": "https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Gewoon Jannes",
+        "url": "https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Adio Amore Adio",
+      "url": "https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Mij Niet Bellen",
-        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
-      },
-      "artists": [
-        {
-          "name": "RAYMON HERMANS",
-          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
-        }
-      ],
-      "duration_ms": 161484,
-      "name": "Mij Niet Bellen",
-      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Vlinders Van De Nacht",
         "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 226000,
       "name": "Vrijgezel",
       "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Mij Niet Bellen",
+        "url": "https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q"
+      },
+      "artists": [
+        {
+          "name": "RAYMON HERMANS",
+          "url": "https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G"
+        }
+      ],
+      "duration_ms": 161484,
+      "name": "Mij Niet Bellen",
+      "url": "https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Een bom",
-        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
-      },
-      "artists": [
-        {
-          "name": "Henk Dissel",
-          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Een bom",
-      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Een Blik In Jouw Ogen",
         "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 184671,
       "name": "Een Blik In Jouw Ogen",
       "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Een bom",
+        "url": "https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C"
+      },
+      "artists": [
+        {
+          "name": "Henk Dissel",
+          "url": "https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Een bom",
+      "url": "https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 193694,
+      "name": "Alleen Met Jou",
+      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Hier Mag Alles",
         "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
       },
@@ -1507,22 +1527,6 @@
       "duration_ms": 195859,
       "name": "Hier Mag Alles",
       "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Zin In Jou",
-        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "Zin In Jou",
-      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1579,6 +1583,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Zin In Jou",
+        "url": "https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "Zin In Jou",
+      "url": "https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Frans Duits",
         "url": "https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh"
       },
@@ -1599,22 +1619,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Zo Ben Ik Mezelf",
         "url": "https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q"
       },
@@ -1631,18 +1635,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
       },
       "artists": [
         {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
         }
       ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1671,6 +1675,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 172235,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        },
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 193694,
-      "name": "Alleen Met Jou",
-      "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
     },
     {
       "added_at": "2026-06-17 07:46:41",

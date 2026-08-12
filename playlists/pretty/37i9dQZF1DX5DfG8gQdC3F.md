@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from KAROL G y Drake, Ravyn Lenae, ROLE MODEL, Rema, Roy Woods, Jutes, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,643 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,611 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4) | 3:14 |
 | 100 | [Private Landing](https://open.spotify.com/track/6QAYf1Dj9XwKkK3FB66cEI) | [Naya Ali](https://open.spotify.com/artist/6xsuPHpz2MgwF8OhEc9ScC) | [Private Landing](https://open.spotify.com/album/3UAQCk6qG9bQg9PjgnoiyM) | 2:05 |
 
-Snapshot ID: `AAAAAA7I/DS6x5b7SRh4cPX3iOXFO/3m`
+Snapshot ID: `AAAAABH3NHVclQvKNrfq34k8zlqFIqRl`

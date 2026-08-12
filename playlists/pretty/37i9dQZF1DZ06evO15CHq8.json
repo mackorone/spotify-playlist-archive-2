@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 678631,
+  "num_followers": 678676,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAXMZ1jxIxq6vEtI43ZJQGS",
+  "snapshot_id": "ankUgAAAAAB+QiiDlnXXTkFEtq6HhUN/",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XIII: The Atlantis Saga",
-        "url": "https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 139246,
-      "name": "New Chains, Same Shackles",
-      "url": "https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THY WILL BE DONE",
         "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 162316,
       "name": "Whatever Floats Your Boat Will Definitely Sink My Ship",
       "url": "https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XIII: The Atlantis Saga",
+        "url": "https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 139246,
+      "name": "New Chains, Same Shackles",
+      "url": "https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY WILL BE DONE",
-        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 221047,
-      "name": "BLOODSWEAT",
-      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7th or St. Tammany",
         "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 144242,
       "name": "Drugs/Hoes/Money/Etc.",
       "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THY WILL BE DONE",
+        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 221047,
+      "name": "BLOODSWEAT",
+      "url": "https://open.spotify.com/track/3YGma4LsXxOZYZiKOtsSzC"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+        "name": "High Tide in the Snake's Nest",
+        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 165970,
-      "name": "The Number You Have Dialed Is Not in Service",
-      "url": "https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh"
+      "duration_ms": 192168,
+      "name": "Diemonds",
+      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Tide in the Snake's Nest",
-        "url": "https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL"
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 192168,
-      "name": "Diemonds",
-      "url": "https://open.spotify.com/track/4PYYfhYIP7TyzxeMU4xvp3"
+      "duration_ms": 165970,
+      "name": "The Number You Have Dialed Is Not in Service",
+      "url": "https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133920,
+      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
+      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radical $uicide",
         "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 116114,
       "name": "Champion of Death",
       "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133920,
-      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
-      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Burgundy",
-      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part IX: The Soulseek Saga",
         "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 136997,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
     },
     {
       "added_at": null,

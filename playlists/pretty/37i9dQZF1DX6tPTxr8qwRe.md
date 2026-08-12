@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Audrey Nuna on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,764 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,747 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 48 | [Pity Fuck](https://open.spotify.com/track/0u67C8HvoitIvVAqOT7cSU) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Pity Fuck](https://open.spotify.com/album/7zvjE3yPzOjTKAiZ0u17FR) | 2:04 |
 | 49 | [BODY HORROR](https://open.spotify.com/track/4X7VQgoyjOMTONyGI6rkEV) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [BODY HORROR](https://open.spotify.com/album/6KEW2xl30m37AfWixq60Jl) | 2:48 |
 
-Snapshot ID: `AAAAAF3LNiLxRNmZESlQSDloB3kFTdHb`
+Snapshot ID: `AAAAAJk0+hU5nOtOmVt9fK+yvS9znqYZ`

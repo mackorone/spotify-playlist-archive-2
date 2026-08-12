@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Mando en portada \u2728",
-  "num_followers": 95842,
+  "num_followers": 95863,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN8U7X2BZxED/DqM6dlpzX3OvEWq",
+  "snapshot_id": "AAAAABWSCmCFsrFilMJ5Vnqc+HlzW9ww",
   "tracks": [
     {
       "added_at": "2026-08-07 06:00:42",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-08-07 06:00:42",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-08-07 06:00:42",
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
+    },
+    {
+      "added_at": "2026-08-07 06:00:42",
+      "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-08-07 06:00:42",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-08-07 06:00:42",
       "album": {
-        "name": "\u00bfEs En Serio?",
-        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 193342,
-      "name": "\u00bfEs En Serio?",
-      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
-    },
-    {
-      "added_at": "2026-08-07 06:00:42",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 157021,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
+    },
+    {
+      "added_at": "2026-08-07 06:00:42",
+      "album": {
+        "name": "\u00bfEs En Serio?",
+        "url": "https://open.spotify.com/album/7rQ3fjpTE0HmW4VzvmH4M5"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 193342,
+      "name": "\u00bfEs En Serio?",
+      "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"
     },
     {
       "added_at": "2026-08-07 06:00:42",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-07 06:00:42",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
-        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 189693,
-      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
-      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
-    },
-    {
-      "added_at": "2026-08-07 06:00:42",
-      "album": {
         "name": "LINDO RECUERDO",
         "url": "https://open.spotify.com/album/3EOqKGsz5PKVgxjbmXzT5Y"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 163469,
       "name": "LINDO RECUERDO",
       "url": "https://open.spotify.com/track/7FdKQZc4lm49oESCOeabIJ"
+    },
+    {
+      "added_at": "2026-08-07 06:00:42",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+        "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
+      "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
     },
     {
       "added_at": "2026-08-07 06:00:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-07 06:00:42",
       "album": {
-        "name": "No Era De Oro",
-        "url": "https://open.spotify.com/album/52Ka2BIsN0PnNpaWGxJGU2"
-      },
-      "artists": [
-        {
-          "name": "Sofia Monroy",
-          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
-        }
-      ],
-      "duration_ms": 152929,
-      "name": "No Era De Oro",
-      "url": "https://open.spotify.com/track/7hn89qaGSvEILamRxMMYMo"
-    },
-    {
-      "added_at": "2026-08-07 06:00:42",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
+    },
+    {
+      "added_at": "2026-08-07 06:00:42",
+      "album": {
+        "name": "No Era De Oro",
+        "url": "https://open.spotify.com/album/52Ka2BIsN0PnNpaWGxJGU2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Monroy",
+          "url": "https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o"
+        }
+      ],
+      "duration_ms": 152929,
+      "name": "No Era De Oro",
+      "url": "https://open.spotify.com/track/7hn89qaGSvEILamRxMMYMo"
     },
     {
       "added_at": "2026-08-07 06:00:42",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-08-07 06:00:42",
       "album": {
-        "name": "Baja California",
-        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Baja California",
-      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
-    },
-    {
-      "added_at": "2026-08-07 06:00:42",
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 153610,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
+    },
+    {
+      "added_at": "2026-08-07 06:00:42",
+      "album": {
+        "name": "Baja California",
+        "url": "https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Baja California",
+      "url": "https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0"
     },
     {
       "added_at": "2026-08-07 06:00:42",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-08-07 06:00:42",
       "album": {
-        "name": "CORAZON PESAO",
-        "url": "https://open.spotify.com/album/3QLGJZGhvYRQOfEyOjCf7L"
-      },
-      "artists": [
-        {
-          "name": "Lua Lacruz",
-          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "CORAZON PESAO",
-      "url": "https://open.spotify.com/track/3ltB3ajwGjNzrehyusWYJE"
-    },
-    {
-      "added_at": "2026-08-07 06:00:42",
-      "album": {
         "name": "odio a primera vista",
         "url": "https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu"
       },
@@ -1275,6 +1255,22 @@
       "duration_ms": 186996,
       "name": "odio a primera vista",
       "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
+    },
+    {
+      "added_at": "2026-08-07 06:00:42",
+      "album": {
+        "name": "A M\u00cd TAMBI\u00c9N ME PAS\u00d3",
+        "url": "https://open.spotify.com/album/23HsDOXlfBhWRCiVkrqwC3"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Bolio",
+          "url": "https://open.spotify.com/artist/5YpEQND4xgBEwvj98Bq6NR"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "Te Am\u00e9 +",
+      "url": "https://open.spotify.com/track/6afTXhyxiBpokGmbeCtWCO"
     }
   ],
   "unique_name": "Oye Pop",

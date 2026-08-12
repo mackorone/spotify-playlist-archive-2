@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,682 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,680 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 54 | [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 |
 | 55 | [SHOTIT](https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SHOTIT](https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ) | 2:34 |
 | 56 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 |
-| 57 | [More than enough...](https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [More than enough...](https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP) | 3:32 |
-| 58 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
+| 57 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
+| 58 | [More than enough...](https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [More than enough...](https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP) | 3:32 |
 | 59 | [FATHER \(I Will Never Confess\)](https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [FATHER \(I Will Never Confess\)](https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk) | 3:18 |
 | 60 | [Ihan kohta ohi](https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Ihan kohta ohi](https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME) | 3:05 |
 | 61 | [Kun tulee pimee](https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Kun tulee pimee](https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt) | 2:45 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 83 | [Lahja](https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Apnea](https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t) | 5:53 |
 | 84 | [Ämpäri](https://open.spotify.com/track/33NLtvVYYVtUNVwkytDzRh) | [Sebastian Visa](https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D), [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Ämpäri](https://open.spotify.com/album/3f5aCCzFnZ3O83dZvblJIz) | 2:47 |
 | 85 | [Kevyt ja kohtuuton](https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Kevyt ja kohtuuton](https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy) | 3:15 |
-| 86 | [Yhteysvikoja](https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z) | [Yhteysvikoja](https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z) | 2:19 |
-| 87 | [keväisin](https://open.spotify.com/track/0YKUGWa5eA5x5bWQ4xb2g2) | [ama](https://open.spotify.com/artist/1sAg7IqfaJWUFIeJRHXA6v) | [keväisin](https://open.spotify.com/album/2fc0xDffuBiIFBKBiAmtZt) | 3:27 |
+| 86 | [keväisin](https://open.spotify.com/track/0YKUGWa5eA5x5bWQ4xb2g2) | [ama](https://open.spotify.com/artist/1sAg7IqfaJWUFIeJRHXA6v) | [keväisin](https://open.spotify.com/album/2fc0xDffuBiIFBKBiAmtZt) | 3:27 |
+| 87 | [Yhteysvikoja](https://open.spotify.com/track/2LjvFtrvepZG394zVmGTqJ) | [yaya](https://open.spotify.com/artist/4sxY8yotC6cWq0ZD2gPW2z) | [Yhteysvikoja](https://open.spotify.com/album/5q6WD4dR25MUPLewM5SD0Z) | 2:19 |
 | 88 | [Yli susta](https://open.spotify.com/track/5cPu5jFxEzDH8pfQAnPw3x) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Yli susta](https://open.spotify.com/album/6PePqZbrd3VpqhxqJhBvzL) | 3:02 |
 | 89 | [Hapentuhlaaja](https://open.spotify.com/track/1Kf9dXKBgADl0e1ykqqVnP) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Hapentuhlaaja](https://open.spotify.com/album/6TMeO2tK5MdNro4q7G0DNR) | 4:36 |
 | 90 | [Tuolta se nyt kävelee](https://open.spotify.com/track/18gjoFK9e8hbFIsFlMCvpx) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS) | [Tuolta se nyt kävelee](https://open.spotify.com/album/1h9rpGnIWQ7OZXGGWUazJu) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 99 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
 | 100 | [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 |
 
-Snapshot ID: `AAAAAA49pU0ZVRoH7lw/MdtIErw1S4EP`
+Snapshot ID: `AAAAAEGY6Xaj78FpX8GoL+V69s/d2/yV`

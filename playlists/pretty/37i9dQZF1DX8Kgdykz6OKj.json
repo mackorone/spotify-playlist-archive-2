@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1589025,
+  "num_followers": 1589096,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNE8+y9WX0GOWAomtmXH5qBjSZJ",
+  "snapshot_id": "AAAAADmhJPgfVZFlvh4Krjo23JavSh0H",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:26",
@@ -91,30 +91,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Harlem's Finest: Return Of The King",
-        "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
-      },
-      "artists": [
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "Let God Sort Em Out",
         "url": "https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ"
       },
@@ -147,6 +123,30 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
+        "name": "Harlem's Finest: Return Of The King",
+        "url": "https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
         "name": "ICEMAN",
         "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
@@ -163,18 +163,18 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Beats, Rhymes & Life",
-        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
+        "name": "Port Antonio",
+        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 207466,
-      "name": "The Hop",
-      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
+      "duration_ms": 316235,
+      "name": "Port Antonio",
+      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -199,18 +199,18 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Port Antonio",
-        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
+        "name": "Beats, Rhymes & Life",
+        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
         }
       ],
-      "duration_ms": 316235,
-      "name": "Port Antonio",
-      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
+      "duration_ms": 207466,
+      "name": "The Hop",
+      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -867,22 +867,22 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV"
+        "name": "Todas Son Iguales",
+        "url": "https://open.spotify.com/album/7zklsb4VVTzrEHWlA2GiPm"
       },
       "artists": [
         {
-          "name": "Connor Price",
-          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
         }
       ],
-      "duration_ms": 205627,
-      "name": "Mula",
-      "url": "https://open.spotify.com/track/3seg6hHqbFbQoi4hsgR0ux"
+      "duration_ms": 194677,
+      "name": "Me Tiene Enamorao",
+      "url": "https://open.spotify.com/track/1oL5pW7Kq6NhoJI8VXt3A9"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -911,22 +911,22 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Todas Son Iguales",
-        "url": "https://open.spotify.com/album/7zklsb4VVTzrEHWlA2GiPm"
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV"
       },
       "artists": [
         {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
         },
         {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 194677,
-      "name": "Me Tiene Enamorao",
-      "url": "https://open.spotify.com/track/1oL5pW7Kq6NhoJI8VXt3A9"
+      "duration_ms": 205627,
+      "name": "Mula",
+      "url": "https://open.spotify.com/track/3seg6hHqbFbQoi4hsgR0ux"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
+        "name": "Dontsweatit!",
+        "url": "https://open.spotify.com/album/5D7mogWyOLJ0yyC8ySmZst"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 134430,
+      "name": "Dontsweatit!",
+      "url": "https://open.spotify.com/track/3OoyHdTCzRyrBHKFyuaP7q"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
         "name": "Escape Music",
         "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
       },
@@ -1003,22 +1023,6 @@
       "duration_ms": 223772,
       "name": "Got Me Thinkin' (feat. Sparkz)",
       "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1055,6 +1059,22 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 238573,
       "name": "Memories Live",
       "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
-        "name": "Dontsweatit!",
-        "url": "https://open.spotify.com/album/5D7mogWyOLJ0yyC8ySmZst"
-      },
-      "artists": [
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        },
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 134430,
-      "name": "Dontsweatit!",
-      "url": "https://open.spotify.com/track/3OoyHdTCzRyrBHKFyuaP7q"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "Figure Numatic",
         "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "vitamins n minerals",
-        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 150312,
-      "name": "vitamins n minerals",
-      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "One of Those Feelings",
         "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 156342,
       "name": "One of Those Feelings",
       "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "vitamins n minerals",
+        "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 150312,
+      "name": "vitamins n minerals",
+      "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1323,30 +1323,6 @@
       "duration_ms": 190116,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
-        "name": "Love N Drugs",
-        "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
-      },
-      "artists": [
-        {
-          "name": "KeepVibesNear",
-          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 249331,
-      "name": "Love N Drugs",
-      "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1391,6 +1367,30 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "Love N Drugs",
+        "url": "https://open.spotify.com/album/06WRkCTuAtCNqckOGrrksm"
+      },
+      "artists": [
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 249331,
+      "name": "Love N Drugs",
+      "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1463,30 +1463,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Everything's Beautiful",
-        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Phonte",
-          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
-        }
-      ],
-      "duration_ms": 203687,
-      "name": "Violets (feat. Phonte)",
-      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "BLAH",
         "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 147906,
       "name": "BLAH",
       "url": "https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "Everything's Beautiful",
+        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Phonte",
+          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
+        }
+      ],
+      "duration_ms": 203687,
+      "name": "Violets (feat. Phonte)",
+      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "e.t.d.s. A Mixtape by .idk.",
-        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "Likkle Jordee",
-          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
-        }
-      ],
-      "duration_ms": 178342,
-      "name": "P.O",
-      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "Syrup Sandwiches (feat. Joey Bada$$)",
         "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
       },
@@ -1875,6 +1851,30 @@
       "duration_ms": 139073,
       "name": "Calamari",
       "url": "https://open.spotify.com/track/3nL8tfuOypFqXE3oy4fnvb"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "e.t.d.s. A Mixtape by .idk.",
+        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Likkle Jordee",
+          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
+        }
+      ],
+      "duration_ms": 178342,
+      "name": "P.O",
+      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
     },
     {
       "added_at": "2026-08-07 04:00:26",

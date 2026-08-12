@@ -4,7 +4,7 @@
 
 > The sound of the underground\. Cover: Northlane
 
-828 songs - 2 day 1 hr 38 min
+829 songs - 2 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,7 +633,7 @@
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2022-11-10 | 2023-07-26 |
 | [Show Me My Maker](https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y) | 3:40 | 2023-07-25 | 2025-09-12 |
 | [Sick And Wrong](https://open.spotify.com/track/4rHiHDvjI4Uqm9ahZ9RcS7) | [Electron](https://open.spotify.com/artist/0QlVbfZTx8ex7cutyyUl3H) | [Sick And Wrong](https://open.spotify.com/album/3Hy9MvZJfBVv0h9AlNyNLM) | 4:41 | 2023-07-25 | 2023-08-25 |
-| [Signs \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/6HtwU4e2LXZKD6xy3ZlsXK) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Signs \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4YVUTbjKBUXaVV1h6RJTR8) | 4:18 | 2026-07-10 |  |
+| [Signs \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/6HtwU4e2LXZKD6xy3ZlsXK) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Signs \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/4YVUTbjKBUXaVV1h6RJTR8) | 4:18 | 2026-07-10 | 2026-08-12 |
 | [Silent Divide](https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silent Divide](https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW) | 5:03 | 2025-09-05 | 2026-06-13 |
 | [Silhouette](https://open.spotify.com/track/3UVamG9rbbnWoppR07JqMh) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Silhouette](https://open.spotify.com/album/2s6l3QajuXxeos9tASrNhm) | 4:29 | 2026-02-13 |  |
 | [SILYMI](https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ) | [TeZATalks](https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W) | [SILYMI](https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg) | 2:29 | 2024-01-26 | 2025-09-12 |
@@ -763,6 +763,7 @@
 | [Twilight](https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:21 | 2023-04-21 | 2024-02-17 |
 | [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 | 2025-10-23 | 2026-06-14 |
 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 | 2022-11-10 | 2023-07-26 |
+| [Ultraviolet Parasite](https://open.spotify.com/track/19xaqmguTFdtJepNgV0EsR) | [Frontierer](https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt) | [Ultraviolet Parasite](https://open.spotify.com/album/4XmwXNFhfeEC8OqmwAEDha) | 2:41 | 2026-08-07 |  |
 | [under the knife](https://open.spotify.com/track/1fyHEYD5nCPYILDtsuOre9) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [BODIES](https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm) | 3:58 | 2025-04-04 | 2026-03-25 |
 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 | 2024-04-19 | 2025-09-12 |
 | [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-11-10 | 2023-02-03 |

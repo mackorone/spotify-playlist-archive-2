@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [Ocean Views](https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 3:50 |
 | 50 | [Dark Shades](https://open.spotify.com/track/3pte5BLqrgOQRvP4EEnKwJ) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Niko G4](https://open.spotify.com/artist/0R4yXxa1YyORYIzlE3LfmB) | [Rap N Roll](https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu) | 2:36 |
 
-Snapshot ID: `AAAAAJv4cfqAuMuRssFgO7e86LcAgpgq`
+Snapshot ID: `AAAAAJoaQ3dLJFaPBie31cbIaJgny1NW`

@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oMffF6CrwU.md) - [plain]
 | 79 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 80 | [Bad Magic](https://open.spotify.com/track/5Cq9k53BuWnyKYqEb5GAaW) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [The Innocents](https://open.spotify.com/album/7s56HmaWbsRxiw1yfy8Psq) | 5:54 |
 
-Snapshot ID: `AAAAAJGudumqCtu6BGOSQRdSFTZbBEW2`
+Snapshot ID: `AAAAAPSFyKb6zBvygEerjdZ0FRnhQquI`

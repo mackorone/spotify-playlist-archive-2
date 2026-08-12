@@ -4,7 +4,7 @@
 
 > 
 
-194 songs - 13 hr 3 min
+196 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,9 +127,11 @@
 | [No One's Controlling Me](https://open.spotify.com/track/6fvppw5iTXQ2LoBezmdVOd) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 1:59 | 2020-04-07 |  |
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2022-04-22 |  |
 | [Noor's Pain](https://open.spotify.com/track/5VfNSc4N154XHtsFNwa36X) | [Hannes De Maeyer](https://open.spotify.com/artist/2xTO7Je4Ur98jTbLTKaIbP), [Tara Abboud](https://open.spotify.com/artist/3p63UuXzU6A8lbBfjqyl1w) | [Rebel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20LGCDs3PdwzquMj1DNyvh) | 3:35 | 2022-10-18 |  |
+| [Norman](https://open.spotify.com/track/0r3ORGlp6TvNLxYJH1A7G8) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 2:50 | 2026-08-11 |  |
 | [Numbers \(Camo & Krooked Remix\) \- Red Bull Symphonic](https://open.spotify.com/track/4GcjMeVge7HmvAAMRLrVJO) | [John B](https://open.spotify.com/artist/1ytr59gpK22MnyvrvOVCmD), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU) | [Red Bull Symphonic](https://open.spotify.com/album/3ch1pJVJU01RoUHiMTKlra) | 3:39 | 2020-08-05 |  |
 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 | 2024-08-19 |  |
 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 | 2023-01-30 |  |
+| [One Simple Idea](https://open.spotify.com/track/3C12og48CWBrxVV2FK6Dhw) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 2:28 | 2026-08-11 |  |
 | [Only I Will Remain](https://open.spotify.com/track/6yLQmfQLDGtUYHG34W0FcH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune: Part Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC) | 6:44 | 2024-06-25 |  |
 | [Oppenheimer](https://open.spotify.com/track/6oJFUjqz8yKCBDunPRMQBX) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 2:16 | 2024-12-20 |  |
 | [Ornithopter Attack](https://open.spotify.com/track/7q9DWirqkFFZDzNagf7esc) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune: Part Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC) | 2:10 | 2024-06-25 |  |

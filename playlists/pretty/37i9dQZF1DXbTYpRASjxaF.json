@@ -1,12 +1,12 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: MC Vinny, MC Leozinho ZS, Ryu, the Runner, Bomfino\n",
-  "num_followers": 137412,
+  "num_followers": 137566,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGwAmWIi19djnKjEovEPYrREV/Ds",
+  "snapshot_id": "AAAAAGanlGQVdQbubkzYV5EVZ/dvMII0",
   "tracks": [
     {
       "added_at": "2026-08-07 14:33:19",
@@ -323,26 +323,6 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "Cop\u00e3o",
-        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 157850,
-      "name": "Cop\u00e3o",
-      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
-    },
-    {
-      "added_at": "2026-08-07 14:33:19",
-      "album": {
         "name": "R.U. (Raw & Unfiltered) Vol.1",
         "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 200314,
       "name": "Private Chef (feat. MC Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "added_at": "2026-08-07 14:33:19",
+      "album": {
+        "name": "Cop\u00e3o",
+        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 157850,
+      "name": "Cop\u00e3o",
+      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
     },
     {
       "added_at": "2026-08-07 14:33:19",
@@ -639,30 +639,26 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "ZIGUIRIGUIDUM FUNKHALL",
-        "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
+        "name": "MPC (M\u00fasica Popular Carioca)",
+        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
       },
       "artists": [
         {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         },
         {
-          "name": "Cjtinha",
-          "url": "https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
         }
       ],
-      "duration_ms": 122790,
-      "name": "ZIGUIRIGUIDUM FUNKHALL",
-      "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
+      "duration_ms": 144000,
+      "name": "PIXAD\u00c3O NO BAILE",
+      "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
     },
     {
       "added_at": "2026-08-07 14:33:19",
@@ -691,26 +687,30 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "MPC (M\u00fasica Popular Carioca)",
-        "url": "https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R"
+        "name": "ZIGUIRIGUIDUM FUNKHALL",
+        "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
       },
       "artists": [
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Cjtinha",
+          "url": "https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE"
         },
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
         }
       ],
-      "duration_ms": 144000,
-      "name": "PIXAD\u00c3O NO BAILE",
-      "url": "https://open.spotify.com/track/7m0VqTlGjyR123V2VhBXKk"
+      "duration_ms": 122790,
+      "name": "ZIGUIRIGUIDUM FUNKHALL",
+      "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
     },
     {
       "added_at": "2026-08-07 14:33:19",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "NOITE DE ENTRETENIMENTO",
-        "url": "https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u"
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
       },
       "artists": [
         {
@@ -1140,13 +1140,17 @@
           "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "wBoy",
-          "url": "https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI"
+          "name": "yollirum",
+          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
+        },
+        {
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
         }
       ],
-      "duration_ms": 93105,
-      "name": "NOITE DE ENTRETENIMENTO",
-      "url": "https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP"
+      "duration_ms": 133064,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "added_at": "2026-08-07 14:33:19",
@@ -1255,8 +1259,8 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
+        "name": "NOITE DE ENTRETENIMENTO",
+        "url": "https://open.spotify.com/album/3wxZmiRdtoNOBwt30ouH6u"
       },
       "artists": [
         {
@@ -1264,17 +1268,13 @@
           "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "yollirum",
-          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
-        },
-        {
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+          "name": "wBoy",
+          "url": "https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI"
         }
       ],
-      "duration_ms": 133064,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
+      "duration_ms": 93105,
+      "name": "NOITE DE ENTRETENIMENTO",
+      "url": "https://open.spotify.com/track/17xUUwXGJAF8FLi25thYcP"
     },
     {
       "added_at": "2026-08-07 14:33:19",

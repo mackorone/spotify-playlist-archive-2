@@ -1,12 +1,12 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: KISS OF LIFE) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1327839,
+  "num_followers": 1327851,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKow2HTrj0wFKSBPF0taX0JnSJP6",
+  "snapshot_id": "AAAAACVdAo0VqbSLXZ0KRrlQzUyskuEC",
   "tracks": [
     {
       "added_at": "2026-08-06 12:19:13",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-08-06 12:19:13",
       "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "WHAT!",
+      "url": "https://open.spotify.com/track/5QryuTOhGQ8IHvMb1bcwdK"
+    },
+    {
+      "added_at": "2026-08-06 12:19:13",
+      "album": {
         "name": "TOP SPOT - ANOTHER DIMENSION",
         "url": "https://open.spotify.com/album/5ORJMfjjUnPI2gJwI35OjE"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 179657,
       "name": "METRONOME",
       "url": "https://open.spotify.com/track/6SGwediIFxWYxvU7zbWtri"
-    },
-    {
-      "added_at": "2026-08-06 12:19:13",
-      "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "WHAT!",
-      "url": "https://open.spotify.com/track/5QryuTOhGQ8IHvMb1bcwdK"
     },
     {
       "added_at": "2026-08-06 12:19:13",

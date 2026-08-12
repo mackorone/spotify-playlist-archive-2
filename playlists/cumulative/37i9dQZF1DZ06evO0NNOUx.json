@@ -298,12 +298,12 @@
       },
       "artists": [
         {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
         }
       ],
       "date_added": "2026-04-22",
@@ -1497,6 +1497,28 @@
     },
     {
       "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169167,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5PssXGdxHPpfRL9yoJEk9A"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0sszJvPEklSUadOC4rilwQ"
       },
@@ -1524,34 +1546,12 @@
       },
       "artists": [
         {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "date_added": "2026-05-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169167,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5PssXGdxHPpfRL9yoJEk9A"
-    },
-    {
-      "album": {
-        "name": "DAWN PATROL",
-        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
-      },
-      "artists": [
+        },
         {
           "name": "PARTY WAVE",
           "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
       "date_added": "2026-04-13",
@@ -1932,12 +1932,12 @@
       },
       "artists": [
         {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
         }
       ],
       "date_added": "2026-04-14",

@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Alplax",
+        "url": "https://open.spotify.com/album/0qI9VDZ2qxyOqwGkI9WUD9"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173892,
+      "name": "Alplax",
+      "url": "https://open.spotify.com/track/5rtvkK96j6BwX9ZOqUoeBy"
+    },
+    {
+      "album": {
         "name": "Alta Gama",
         "url": "https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14"
       },
@@ -7912,7 +7930,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
@@ -20312,7 +20330,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -26874,7 +26892,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 213868,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/37BkJJ6JR2qBmt5PRJaPHi"
@@ -29194,7 +29212,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
@@ -35654,7 +35672,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 146823,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3m8S31BMGE9Hck6heXw10X"
@@ -40836,7 +40854,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 124866,
       "name": "SWAGGER",
       "url": "https://open.spotify.com/track/4FEPcLJAyz0MI5J20Y5Y3C"
@@ -41738,7 +41756,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 194441,
       "name": "Tesoro Perdido",
       "url": "https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN"

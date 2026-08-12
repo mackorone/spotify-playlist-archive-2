@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ZEROBASEONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,838 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,918 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
-| 2 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
-| 3 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
-| 4 | [SAKURA](https://open.spotify.com/track/2AKVMux9oWObX2xbr7FHNU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [SAKURA](https://open.spotify.com/album/7aHdo6NaGvifTKui2VsiWN) | 2:45 |
-| 5 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
-| 6 | [イグジステンス](https://open.spotify.com/track/48m7ipLnWLf5UlArZvthQ4) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [イグジステンス](https://open.spotify.com/album/3yLu6EBuyD4kmKD3Tcb1dY) | 3:33 |
-| 7 | [LAWLESS](https://open.spotify.com/track/6DyUH0V8c8fy5hg40O16Jn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [LAWLESS](https://open.spotify.com/album/1XCbkmrTVA218VmsuHiKp7) | 3:19 |
-| 8 | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/41bI4N12BHk4wMGClHwBtF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/album/5me9Gj0brBgKZL9YdSvYZI) | 3:07 |
-| 9 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
-| 10 | [鸢 \(Vision Wings\)](https://open.spotify.com/track/52eusU4cqmyZ54z6AC2zDv) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Vision Wings \- The 8th Mini Album](https://open.spotify.com/album/3XrN05Mq3LTXwBMz40TGjQ) | 3:42 |
-| 11 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 |
-| 12 | [Nice to Meet Ya](https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Nice to Meet Ya](https://open.spotify.com/album/4fWoWnHmYFjMQVt7dZ9DmW) | 3:24 |
+| 1 | [イグジステンス](https://open.spotify.com/track/48m7ipLnWLf5UlArZvthQ4) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [イグジステンス](https://open.spotify.com/album/3yLu6EBuyD4kmKD3Tcb1dY) | 3:33 |
+| 2 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
+| 3 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
+| 4 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
+| 5 | [SAKURA](https://open.spotify.com/track/2AKVMux9oWObX2xbr7FHNU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [SAKURA](https://open.spotify.com/album/7aHdo6NaGvifTKui2VsiWN) | 2:45 |
+| 6 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
+| 7 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
+| 8 | [鸢 \(Vision Wings\)](https://open.spotify.com/track/52eusU4cqmyZ54z6AC2zDv) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Vision Wings \- The 8th Mini Album](https://open.spotify.com/album/3XrN05Mq3LTXwBMz40TGjQ) | 3:42 |
+| 9 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
+| 10 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 |
+| 11 | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/41bI4N12BHk4wMGClHwBtF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/album/5me9Gj0brBgKZL9YdSvYZI) | 3:07 |
+| 12 | [LAWLESS](https://open.spotify.com/track/6DyUH0V8c8fy5hg40O16Jn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [LAWLESS](https://open.spotify.com/album/1XCbkmrTVA218VmsuHiKp7) | 3:19 |
 | 13 | [BEYOND THE SKY](https://open.spotify.com/track/19MFBrZX4xZkfk5GE5kMGb) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [BEYOND THE SKY](https://open.spotify.com/album/3nVNNK8x7GHYuRB2vk0BnS) | 3:27 |
-| 14 | [Ice Cream](https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 02](https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg) | 2:04 |
-| 15 | [SODA SODA](https://open.spotify.com/track/57gjiXuk5Z992BWHrvncEa) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [SODA SODA](https://open.spotify.com/album/46CiVULXNIUuEfTtfHLQ3T) | 3:12 |
-| 16 | [For us](https://open.spotify.com/track/3aKahr7FEeFBee81DixjhV) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [For us](https://open.spotify.com/album/5HbBxDomPqDFrJSz4vD3Hq) | 3:36 |
-| 17 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
-| 18 | [TOP 5](https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL) | 2:27 |
-| 19 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
-| 20 | [Party Rock Rock \(prod\. Hitchhiker\)](https://open.spotify.com/track/5wsPiyVi6oIHY0RAz8Ay0G) | [Picheolin](https://open.spotify.com/artist/3V2EC4dPYLgtbi0TtrB1RA) | [吉BOARD\(Gilboard\)](https://open.spotify.com/album/0XmnjoF5TguvSvPrTrO83v) | 2:27 |
+| 14 | [For us](https://open.spotify.com/track/3aKahr7FEeFBee81DixjhV) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [For us](https://open.spotify.com/album/5HbBxDomPqDFrJSz4vD3Hq) | 3:36 |
+| 15 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
+| 16 | [TOP 5](https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL) | 2:27 |
+| 17 | [Nice to Meet Ya](https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Nice to Meet Ya](https://open.spotify.com/album/4fWoWnHmYFjMQVt7dZ9DmW) | 3:24 |
+| 18 | [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [Vernon](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 |
+| 19 | [Party Rock Rock \(prod\. Hitchhiker\)](https://open.spotify.com/track/5wsPiyVi6oIHY0RAz8Ay0G) | [Picheolin](https://open.spotify.com/artist/3V2EC4dPYLgtbi0TtrB1RA) | [吉BOARD\(Gilboard\)](https://open.spotify.com/album/0XmnjoF5TguvSvPrTrO83v) | 2:27 |
+| 20 | [SODA SODA](https://open.spotify.com/track/57gjiXuk5Z992BWHrvncEa) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [SODA SODA](https://open.spotify.com/album/46CiVULXNIUuEfTtfHLQ3T) | 3:12 |
 | 21 | [If You're Mine](https://open.spotify.com/track/23GA5FON8Aa21oSocnNmnm) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [DIFFERENT](https://open.spotify.com/album/2TtsDrSETlfL4RD8j5GQZG) | 2:43 |
 | 22 | [IF I](https://open.spotify.com/track/3IWNxztdd0eOeB2Zsslqa3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/1IinX64nobDfparPym8DlR) | 3:00 |
 | 23 | [YANKEE SQUAT](https://open.spotify.com/track/2FjcwZjJNXkTPsQheG1buR) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [YANKEE SQUAT](https://open.spotify.com/album/5LWK0q6Ishn7GskS76W3r0) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
 | 80 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 |
 
-Snapshot ID: `AAAAAJQEgBQqm1fOfOJUEUEnRU2Hcxv6`
+Snapshot ID: `AAAAAByDLxSgDuiGAnlX7Mcj6KXuBXVa`

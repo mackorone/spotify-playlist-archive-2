@@ -1,12 +1,12 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 158549,
+  "num_followers": 158544,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMvlpxodkIsvTioKWTnEUXnhqSj",
+  "snapshot_id": "AAAAAOGbt6AewMtZaKCoXj+WgFKL2lLW",
   "tracks": [
     {
       "added_at": "2026-05-22 07:11:08",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Trist Masochist",
-        "url": "https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 181237,
-      "name": "Trist Masochist",
-      "url": "https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Det g\u00e5r bra",
         "url": "https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 197133,
       "name": "Det g\u00e5r bra",
       "url": "https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "Trist Masochist",
+        "url": "https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 181237,
+      "name": "Trist Masochist",
+      "url": "https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Her vil e v\u00e6r",
-        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "Her vil e v\u00e6r",
-      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
-    },
-    {
-      "added_at": "2026-05-22 07:11:08",
-      "album": {
         "name": "Love & Hyperbole (Deluxe)",
         "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "MS. SEROTONIN",
-        "url": "https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP"
+        "name": "Her vil e v\u00e6r",
+        "url": "https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN"
       },
       "artists": [
         {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
         }
       ],
-      "duration_ms": 152440,
-      "name": "MS. SEROTONIN",
-      "url": "https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH"
+      "duration_ms": 145893,
+      "name": "Her vil e v\u00e6r",
+      "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1171,6 +1155,22 @@
       "duration_ms": 159806,
       "name": "I'm Still - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT"
+    },
+    {
+      "added_at": "2026-05-22 07:11:08",
+      "album": {
+        "name": "MS. SEROTONIN",
+        "url": "https://open.spotify.com/album/0ELgbUGpuJLwppmpVP3EWP"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "MS. SEROTONIN",
+      "url": "https://open.spotify.com/track/2O4pTk8kn0xondvTW43qSH"
     },
     {
       "added_at": "2026-05-22 07:11:08",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2026-05-22 07:11:08",
       "album": {
-        "name": "Lykke til pappa",
-        "url": "https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU"
+        "name": "Learning as I go",
+        "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
       },
       "artists": [
         {
-          "name": "Musti",
-          "url": "https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Kristina Moe Hals",
+          "url": "https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj"
         }
       ],
-      "duration_ms": 159472,
-      "name": "Lykke til pappa",
-      "url": "https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9"
+      "duration_ms": 167280,
+      "name": "Learning as I go",
+      "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
     }
   ],
   "unique_name": "v\u00e5r i lufta",

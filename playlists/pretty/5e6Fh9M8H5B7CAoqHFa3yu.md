@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 350 likes - 2,537 songs - 6 day 5 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 350 likes - 2,541 songs - 6 day 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2505,7 +2505,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2495 | [Backbone](https://open.spotify.com/track/3Zocisij9tTQ48zCRPYiX2) | [Shaefri](https://open.spotify.com/artist/6Uue2zjsE8VBfcFVPBfMbP) | [Backbone](https://open.spotify.com/album/0V02ZQI5Pn9K3QGeNtLSRZ) | 2:04 |
 | 2496 | [Catch Me On The Breeze](https://open.spotify.com/track/7sYdKo9tx906zjpdU38xD2) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 4:00 |
 | 2497 | [With or Without You](https://open.spotify.com/track/4HixkgPLtWXURZnCSDOoWE) | [HARA](https://open.spotify.com/artist/6CNaRojfCps5UxTg0tXZar) | [With or Without You](https://open.spotify.com/album/2tH1draarqDKssu6dalvYa) | 2:57 |
-| 2498 | [Vuelo \(Non\-Stop\)](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\)](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 |
+| 2498 | [Vuelo \(Non\-Stop\) \- 2026](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\) \[2026\]](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 |
 | 2499 | [Realise](https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Realise](https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs) | 3:07 |
 | 2500 | [calm](https://open.spotify.com/track/0Lx0BUHMOuVhg2NjzbEBFw) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [calm](https://open.spotify.com/album/4vPn9ha7SxeLJ56oLTrQse) | 2:38 |
 | 2501 | [La linea del mare](https://open.spotify.com/track/1VEyJSdJeyiPSZ1b66c0EV) | [Terso](https://open.spotify.com/artist/68UQjiFaI4yhJwhK9DfLYf) | [La linea del mare](https://open.spotify.com/album/0hxA5eezHkjrbUXd9tteC2) | 2:57 |
@@ -2545,5 +2545,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2535 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 |
 | 2536 | [Lumière Divine](https://open.spotify.com/track/16GL4tNeAw2elOzdmDTrjJ) | [ARNAUD KELLER](https://open.spotify.com/artist/33cRW5dZTJiwCHV9ybCFgB) | [Lumière Divine](https://open.spotify.com/album/5o5Iy7qR6zVO5uC8w6oxCd) | 2:41 |
 | 2537 | [Назавжди моя](https://open.spotify.com/track/5h3TBWJTbenoIDR7kaG0k7) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Назавжди моя](https://open.spotify.com/album/39THZ8TjSo1qpkhkRsr7Qc) | 3:40 |
+| 2538 | [Bullet For Your Gun](https://open.spotify.com/track/2J4EC6Gb119yhv9Yyhb7jY) | [Former Teen](https://open.spotify.com/artist/1Vzt8cjNUHR5ZZ7i99Bh1u) | [Bullet For Your Gun](https://open.spotify.com/album/5cIH1H2S4rLLrAYoQ7t1Sr) | 4:06 |
+| 2539 | [失恋大歓迎](https://open.spotify.com/track/5RtwOs0GJWOYV1Sw8bwdak) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [失恋大歓迎](https://open.spotify.com/album/45m4uJRHMDGwt685iQXcnL) | 2:52 |
+| 2540 | [Ausente](https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA) | [AarǿnViz](https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb) | [Ausente](https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp) | 2:52 |
+| 2541 | [Hearts in Ash Flames](https://open.spotify.com/track/0IbDAlIBmWEHUWaqONezek) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Hearts in Ash Flames](https://open.spotify.com/album/4T1xDxA1nLT0ShI8u9EzKl) | 3:19 |
 
-Snapshot ID: `AAAKw/BioCrsZDVU9ZQaj/UWs2YEhyUV`
+Snapshot ID: `AAAKx1sUCOxVmbUyuPH1VQTTK7IDa+DY`

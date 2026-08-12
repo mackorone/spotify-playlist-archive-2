@@ -1,12 +1,12 @@
 {
   "description": "Music Cristiana para toda la familia!",
-  "num_followers": 2061,
+  "num_followers": 2062,
   "original_name": "Ni\u00f1os Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJgY36laEZHETmOxOuLhIXJqe/0m",
+  "snapshot_id": "AAAAAAhPxksda9fC+fHKXJFL3uRgDWpM",
   "tracks": [
     {
       "added_at": "2026-08-01 02:41:17",
@@ -391,18 +391,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Hey hacia el Arca",
-        "url": "https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn"
+        "name": "El Guerrero David",
+        "url": "https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt"
       },
       "artists": [
         {
-          "name": "Papel Mach\u00e9 Kids",
-          "url": "https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83"
+          "name": "Coro Renacer",
+          "url": "https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
         }
       ],
-      "duration_ms": 194531,
-      "name": "Hey hacia el Arca",
-      "url": "https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm"
+      "duration_ms": 169903,
+      "name": "El Guerrero David",
+      "url": "https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -423,22 +427,18 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "El Guerrero David",
-        "url": "https://open.spotify.com/album/0slP2biIxokHqSumBe0Mvt"
+        "name": "Hey hacia el Arca",
+        "url": "https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn"
       },
       "artists": [
         {
-          "name": "Coro Renacer",
-          "url": "https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP"
-        },
-        {
-          "name": "Canticuentos",
-          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+          "name": "Papel Mach\u00e9 Kids",
+          "url": "https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83"
         }
       ],
-      "duration_ms": 169903,
-      "name": "El Guerrero David",
-      "url": "https://open.spotify.com/track/7DvTLiPIjB04LonPbAp73A"
+      "duration_ms": 194531,
+      "name": "Hey hacia el Arca",
+      "url": "https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -479,38 +479,6 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Tu Gozo",
-        "url": "https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R"
-      },
-      "artists": [
-        {
-          "name": "Peque\u00f1os H\u00e9roes",
-          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
-        }
-      ],
-      "duration_ms": 147976,
-      "name": "Tu Gozo",
-      "url": "https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
-        "name": "Cristo Vive en Mi",
-        "url": "https://open.spotify.com/album/1Z7Xv9XmVtB9ceLrQgjwmA"
-      },
-      "artists": [
-        {
-          "name": "Rey de Reyes Kids",
-          "url": "https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao"
-        }
-      ],
-      "duration_ms": 227039,
-      "name": "Cristo Vive en Mi",
-      "url": "https://open.spotify.com/track/6nTdPun60vE4jthdBgxcIf"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
         "name": "Tus Cuerdas De Amor",
         "url": "https://open.spotify.com/album/79nTtbZUKxTAPEENJFbUG9"
       },
@@ -531,6 +499,22 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
+        "name": "Tu Gozo",
+        "url": "https://open.spotify.com/album/6uEcWET6bOZB3ulU57hA1R"
+      },
+      "artists": [
+        {
+          "name": "Peque\u00f1os H\u00e9roes",
+          "url": "https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg"
+        }
+      ],
+      "duration_ms": 147976,
+      "name": "Tu Gozo",
+      "url": "https://open.spotify.com/track/5RJPlCkGknJW8E7GXTvUax"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
         "name": "El Nombre de los Animales",
         "url": "https://open.spotify.com/album/397XoelPqOEKZNooMCp1X5"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 193165,
       "name": "El Nombre de los Animales",
       "url": "https://open.spotify.com/track/5cNIKowOY2ziEXhDY30oKT"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
+        "name": "Cristo Vive en Mi",
+        "url": "https://open.spotify.com/album/1Z7Xv9XmVtB9ceLrQgjwmA"
+      },
+      "artists": [
+        {
+          "name": "Rey de Reyes Kids",
+          "url": "https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao"
+        }
+      ],
+      "duration_ms": 227039,
+      "name": "Cristo Vive en Mi",
+      "url": "https://open.spotify.com/track/6nTdPun60vE4jthdBgxcIf"
     },
     {
       "added_at": "2026-08-01 02:41:17",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-08-01 02:41:17",
       "album": {
-        "name": "Rey de Reyes Kids",
-        "url": "https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b"
-      },
-      "artists": [
-        {
-          "name": "Rey de Reyes Kids",
-          "url": "https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao"
-        }
-      ],
-      "duration_ms": 148369,
-      "name": "Jehov\u00e1 Es Mi Pastor",
-      "url": "https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0"
-    },
-    {
-      "added_at": "2026-08-01 02:41:17",
-      "album": {
         "name": "Jes\u00fas Es Super Fuerte",
         "url": "https://open.spotify.com/album/01lgZAoD5nMvIbPE3iIecP"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 240000,
       "name": "Pegao - Kids",
       "url": "https://open.spotify.com/track/6FpZ4f3xXCbArrZHkvv0av"
+    },
+    {
+      "added_at": "2026-08-01 02:41:17",
+      "album": {
+        "name": "Rey de Reyes Kids",
+        "url": "https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b"
+      },
+      "artists": [
+        {
+          "name": "Rey de Reyes Kids",
+          "url": "https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao"
+        }
+      ],
+      "duration_ms": 148369,
+      "name": "Jehov\u00e1 Es Mi Pastor",
+      "url": "https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0"
     },
     {
       "added_at": "2026-08-01 02:41:17",

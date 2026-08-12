@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,538 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,506 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 |
 | 50 | [Perdí Mi Ojo de Venado](https://open.spotify.com/track/16rUuHp2nGkSAG4gMlXshS) | [Rusty Eye](https://open.spotify.com/artist/7K0XgSCkObkxipvNYoBzfT) | [Saca el Cobre](https://open.spotify.com/album/6RG3MdjAsNxsZGlzYv3Ddy) | 4:46 |
 
-Snapshot ID: `AAAAAF1De7ufj4Vw8QleXICkQ11rn9Rt`
+Snapshot ID: `AAAAAA3mjvblQxkphlxICcmz1LqvUXC3`

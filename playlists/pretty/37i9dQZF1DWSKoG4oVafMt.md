@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,948 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,020 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 17 | [Tu](https://open.spotify.com/track/2GzjIHQ87BF2zgbmmthZzO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Tu](https://open.spotify.com/album/7JWCWWOkIr1AFB7jxjRgQ9) | 2:12 |
 | 18 | [Noormahal](https://open.spotify.com/track/6LAitVJIwyCy4bJGN9TIhn) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Takeover](https://open.spotify.com/album/7AsfVZwqnFNaHll4Tnbhof) | 2:40 |
 | 19 | [Judge](https://open.spotify.com/track/2Lk8EGzQH29V4tHlwwN2kd) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Chal Mera Putt 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NhfE9JEtJXxK0XvXZwxiy) | 2:20 |
-| 20 | [Bachalo](https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Bachalo](https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ) | 2:45 |
+| 20 | [Bachalo](https://open.spotify.com/track/1v8NfOckFEnck9gp7iyetm) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Bachalo](https://open.spotify.com/album/3KSE24dHweGL1Ent5wkmYZ) | 2:45 |
 | 21 | [Sohne Lagde](https://open.spotify.com/track/18VIbZaaD2kyOocDWoqjSL) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Sohne Lagde](https://open.spotify.com/album/2eFChA0W4kl7rjv5reHxAC) | 3:25 |
 | 22 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 |
 | 23 | [Dil De Varke](https://open.spotify.com/track/74yciKDacctLPkkV0WbLq6) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8) | [Fer Mamla Gadbad Gadbad](https://open.spotify.com/album/4mne7uyZ996Pn5LmiZf6Ko) | 4:24 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 63 | [Kabil](https://open.spotify.com/track/5EXPsVOIeXqd3v1O2m8jp1) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Kabil](https://open.spotify.com/album/0kgUMhb4BIxxhxDSJtqxtA) | 3:50 |
 | 64 | [Koka](https://open.spotify.com/track/1ExaQYPap38faw3FEqKcGY) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Flamme Music](https://open.spotify.com/artist/2N2WSjZpkNvmAZrEaIqwiU) | [Koka](https://open.spotify.com/album/1LpS06pxJRRmE3DzEpywe3) | 3:10 |
 | 65 | [Dil Lagiyan](https://open.spotify.com/track/0QTmfANVAuSFANBxdqth6p) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Naveezy](https://open.spotify.com/album/197b84cjuJyHeDzGwzjXVn) | 4:09 |
-| 66 | [Sakhiyaan](https://open.spotify.com/track/3sqRODOZ1Z6hR4F2tnFAlg) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Babbu](https://open.spotify.com/artist/5qQlqU3mTdrrNv9cLEBhxE), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Sakhiyaan](https://open.spotify.com/album/2ja8ShVK2RtHqlxzXTRQ6J) | 2:59 |
+| 66 | [Sakhiyaan](https://open.spotify.com/track/3sqRODOZ1Z6hR4F2tnFAlg) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM) | [Sakhiyaan](https://open.spotify.com/album/2ja8ShVK2RtHqlxzXTRQ6J) | 2:59 |
 | 67 | [Main Hi Kyon](https://open.spotify.com/track/2Cpjt0KPjtyfp8z96Iz3NS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7) | [Main Hi Kyon](https://open.spotify.com/album/1MBWAEMYBtEPgLtSZIKDjP) | 2:33 |
 | 68 | [Pyaar Hoya](https://open.spotify.com/track/3d39JZoII3GuhvFQBm81Q8) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Sadiyan Gallan 2](https://open.spotify.com/album/5GRxr4Uq98qw9vJhoGK36O) | 2:51 |
 | 69 | [Mera A Ve Tu](https://open.spotify.com/track/2r5rn2xtmVr3sT7rqR8c3u) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Mera A Ve Tu](https://open.spotify.com/album/4jlWOaQX0drg980suFKSf0) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
 | 100 | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/track/5YpjkbI4Go4r4V0qwdOSJB) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [WITH YOU \(feat\. Sync\)](https://open.spotify.com/album/1UVL3i2zcyW3MoOPVNRuOm) | 2:43 |
 
-Snapshot ID: `AAAAAB1n0fZrXum4emUfL14VyrvWd5tV`
+Snapshot ID: `AAAAAPgEjG52Q6xQMX64trrsnPOXP/O+`

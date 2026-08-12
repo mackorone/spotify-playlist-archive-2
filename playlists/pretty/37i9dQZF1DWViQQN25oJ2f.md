@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViQQN25oJ2f.md) - [plain]
 
 > From basements to a global audience, emo and pop punk have evolved over the last two decades\. Different sounds, same feelings\. Cover: Fall Out Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,287 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,376 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViQQN25oJ2f.md) - [plain]
 | 99 | [Capire settembre](https://open.spotify.com/track/36A2Bt3yrUUv1e4riRowJs) | [Fine Before You Came](https://open.spotify.com/artist/3TZ3WMTZ0zxiQw8cKTA4wA) | [La Tempesta gemella](https://open.spotify.com/album/62KD8vZKuCqqzE8zwQPfJQ) | 3:59 |
 | 100 | [Sixteen](https://open.spotify.com/track/1Jsyr8KWQ8ZA0kNaCqSiNx) | [Flight Mode](https://open.spotify.com/artist/4tRRuMecJLgW206fzp5Wu9) | [The Three Times](https://open.spotify.com/album/2w2NEdHpD7IssDiXuuqWOh) | 3:30 |
 
-Snapshot ID: `AAAAAI3NEkExNDF6CFtX33GzsSNPFcAw`
+Snapshot ID: `AAAAAK9c5zx75DS/hlWC+ioBi8qp61Dz`

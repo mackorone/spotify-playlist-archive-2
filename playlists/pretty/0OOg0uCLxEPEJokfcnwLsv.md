@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,212 likes - 68 songs - 4 hr 3 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,221 likes - 71 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 66 | [Whiskey & Cigars](https://open.spotify.com/track/7s6CXTb35AD8F40qey7anI) | [Under Attic](https://open.spotify.com/artist/2v6I3HHCV28vqrBJdXP2ka) | [Whiskey & Cigars](https://open.spotify.com/album/3uOeZJ0JL5pBesVSTYdsNP) | 4:09 |
 | 67 | [Many Moons](https://open.spotify.com/track/6rhXWIuO1sJwhCmfNB9CTv) | [Terrestrials](https://open.spotify.com/artist/0IgtGoVVy0B7ZdqwLIkKCW) | [Many Moons](https://open.spotify.com/album/7xRl9kTbSPglPTcrXpj82f) | 3:41 |
 | 68 | [Hey Jane](https://open.spotify.com/track/4wkekjbUEO1d4txjxm4umF) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 3:22 |
+| 69 | [Say Hello To My Friend](https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:19 |
+| 70 | [Sympathy](https://open.spotify.com/track/3wmDN6x8mWFEY3lBVm4zhp) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Sympathy](https://open.spotify.com/album/4FT3xTzZjzJ6c3PdkFyPrM) | 3:53 |
+| 71 | [ANHA](https://open.spotify.com/track/2NW8zDzKdyYM05YfgsNGOI) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [ANHA](https://open.spotify.com/album/6icKjxljuUNwWVTYPGtIAY) | 3:18 |
 
-Snapshot ID: `AAAGw8UCrOcxHImtEIKZ3kQbbIF8o92O`
+Snapshot ID: `AAAGxsCdCkq+GwOJEBTtu+aXJ2cwugPi`

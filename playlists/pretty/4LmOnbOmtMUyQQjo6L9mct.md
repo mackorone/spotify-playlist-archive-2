@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,887 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,886 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/4LmOnbOmtMUyQQjo6L9mct.md) - [plain]
 | 31 | [Triste](https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis & Tom](https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx) | 2:39 |
 | 32 | [Corcovado / Quiet Nights Of Quiet Stars](https://open.spotify.com/track/0dH2xFxGEhvMzTuvm42oXZ) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Passione](https://open.spotify.com/album/4xhWw95PsBxOfQbXKqvmWJ) | 3:34 |
 | 33 | [Insensatez](https://open.spotify.com/track/42bWaGbH2jUtxhM53AyWGp) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Samba pa ti](https://open.spotify.com/album/4nxO3mJT2fwuMmQXNi2FpS) | 3:39 |
-| 34 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
+| 34 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
 | 35 | [A Felicidade](https://open.spotify.com/track/28PORYgAQ5vrbwtobRlCoq) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Wonderful World Of Antonio Carlos Jobim](https://open.spotify.com/album/5TGwdCOJzrpqTEFu7Uojkn) | 2:04 |
 | 36 | [O Amor Em Paz](https://open.spotify.com/track/6XKs3hMU57OYCc45LMCbz3) | [Dick Farney](https://open.spotify.com/artist/5yrpqAQx2OwR62pNE7d5bm), [Claudette Soares](https://open.spotify.com/artist/3mwORnkU8O0wdR9tXgcpmW) | [Viva A Bossa Nova](https://open.spotify.com/album/3TUR9xCtbikoqk5WcCdCxL) | 3:04 |
 | 37 | [O Barquinho](https://open.spotify.com/track/2oBiFDhFwbEHYaGOf1Mfrb) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [20 Grandes Sucessos De Nara Leao](https://open.spotify.com/album/3szAhEAqI6a0L2INCE1IrJ) | 3:05 |

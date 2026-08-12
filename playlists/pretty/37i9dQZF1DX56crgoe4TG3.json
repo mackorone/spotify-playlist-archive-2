@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285812,
+  "num_followers": 285825,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAALQIyQSq3QQwJNxeO56MJtOMewX",
+  "snapshot_id": "AAAAAEMdmogzJr985KQ/E993arHEKEni",
   "tracks": [
     {
       "added_at": "2026-07-23 21:17:27",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Solid Butter",
-        "url": "https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id"
-      },
-      "artists": [
-        {
-          "name": "The Cleverlys",
-          "url": "https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0Qbw6nRllQwItyP2Lv6ixK"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 302746,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Solid Butter",
+        "url": "https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id"
+      },
+      "artists": [
+        {
+          "name": "The Cleverlys",
+          "url": "https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0Qbw6nRllQwItyP2Lv6ixK"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 315345,
       "name": "Southern Cross",
       "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Gum Tree Canoe",
-        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
-      },
-      "artists": [
-        {
-          "name": "John Hartford",
-          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Little Piece of My Heart",
-      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 187924,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Gum Tree Canoe",
+        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
+      },
+      "artists": [
+        {
+          "name": "John Hartford",
+          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Little Piece of My Heart",
+      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1095,42 +1095,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Folsom Prison Blues",
-        "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
-      },
-      "artists": [
-        {
-          "name": "The String Revolution",
-          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
-        },
-        {
-          "name": "Tommy Emmanuel",
-          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
-        }
-      ],
-      "duration_ms": 206886,
-      "name": "Folsom Prison Blues",
-      "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Go Your Own Way",
-        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
-      },
-      "artists": [
-        {
-          "name": "SloCoast",
-          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
-        }
-      ],
-      "duration_ms": 247534,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
       },
@@ -1167,6 +1131,42 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Folsom Prison Blues",
+        "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
+      },
+      "artists": [
+        {
+          "name": "The String Revolution",
+          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
+        },
+        {
+          "name": "Tommy Emmanuel",
+          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
+        }
+      ],
+      "duration_ms": 206886,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Go Your Own Way",
+        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
+      },
+      "artists": [
+        {
+          "name": "SloCoast",
+          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
+        }
+      ],
+      "duration_ms": 247534,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "He Called Me Baby",
         "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Make Me Stay or Make Me Go",
         "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 191000,
       "name": "Make Me Stay or Make Me Go",
       "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
+      },
+      "artists": [
+        {
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
+        }
+      ],
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-07-23 21:17:27",

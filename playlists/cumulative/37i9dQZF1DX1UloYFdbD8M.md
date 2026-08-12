@@ -2,7 +2,7 @@
 
 ### [Malayalam Indie](https://open.spotify.com/playlist/37i9dQZF1DX1UloYFdbD8M)
 
-> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
+> Super Cool Indie Tracks from Gods Own Country<br/>Cover: Ashley Milred
 
 540 songs - 1 day 9 hr 14 min
 

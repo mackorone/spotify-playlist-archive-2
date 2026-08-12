@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnawhY0vQGm6Oz1pnERMKZDS9fC",
+  "snapshot_id": "AAAAAPrcYg1Ilc//l+KJ9xx5jQveUXsE",
   "tracks": [
     {
       "added_at": "2026-01-25 23:01:06",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "My Mamma",
-        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Sulla Mia Pelle",
         "url": "https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 192053,
       "name": "Per tutta la vita",
       "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "My Mamma",
+        "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Greatest Hits (Le Cose Non Vanno Mai come Credi)",
-        "url": "https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 300040,
-      "name": "Come saprei",
-      "url": "https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "24 mila baci - Aul\u00ec-Ul\u00e9 - Furore - Movimento di Rock",
         "url": "https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 138920,
       "name": "24 mila baci",
       "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Greatest Hits (Le Cose Non Vanno Mai come Credi)",
+        "url": "https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 300040,
+      "name": "Come saprei",
+      "url": "https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec"
     },
     {
       "added_at": "2026-01-25 23:01:06",

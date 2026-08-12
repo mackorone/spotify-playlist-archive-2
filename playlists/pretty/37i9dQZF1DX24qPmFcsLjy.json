@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 145229,
+  "num_followers": 145260,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdB9TccyEkPPDSf1uuLcLTKGOey",
+  "snapshot_id": "AAAAABJKHsAaF9Ga28xsLwiOwfILepPU",
   "tracks": [
     {
       "added_at": "2024-07-09 16:44:07",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "A Kind Of Magic (2011 Remaster)",
-        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "A Kind Of Magic - Remastered 2011",
-      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Simply the Best",
         "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 255936,
       "name": "The Best - Edit",
       "url": "https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "De Top 10 Van",
-        "url": "https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jacketti & The Scooters",
-          "url": "https://open.spotify.com/artist/0tncX2ikoA4Vzhu2a3Paun"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "I Save The Day",
-      "url": "https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Fortune Fairytales",
         "url": "https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 238360,
       "name": "It's The First Time - Bonus Track",
       "url": "https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "De Top 10 Van",
+        "url": "https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jacketti & The Scooters",
+          "url": "https://open.spotify.com/artist/0tncX2ikoA4Vzhu2a3Paun"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "I Save The Day",
+      "url": "https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Greatest Vol.1 - Belinda Carlisle",
         "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 246520,
       "name": "Heaven Is A Place On Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Hello, I Must Be Going",
-        "url": "https://open.spotify.com/album/0FqbBSfKYpnhGWa5M1TxkY"
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 175346,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/4YUlGNZfYA6EUE5KDsGqpC"
+      "duration_ms": 210133,
+      "name": "Invisible Touch - Remastered 2007",
+      "url": "https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM"
     }
   ],
   "unique_name": "80's Allerbeste",

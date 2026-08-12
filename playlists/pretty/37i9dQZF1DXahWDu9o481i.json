@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: MILLENNIUM PARADE",
-  "num_followers": 110513,
+  "num_followers": 110507,
   "original_name": "Editors' Picks: Best Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLXXokq6ZXnkIm3PU7eiB+QJijg",
+  "snapshot_id": "AAAAAEGgcaoHevm2Ge1gI70dp5a95buP",
   "tracks": [
     {
       "added_at": "2026-08-03 13:46:27",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 156780,
       "name": "Blue",
       "url": "https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/2PZH6ktoRWCLlkbn49Z1xq"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -387,22 +387,18 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz"
       },
       "artists": [
         {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
         }
       ],
-      "duration_ms": 252680,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu"
+      "duration_ms": 160601,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -423,18 +419,22 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/0HD8t8PeAwfX017sf2TRFf"
       },
       "artists": [
         {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 160601,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C"
+      "duration_ms": 252680,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/7Au27LIvJ36ESI79bobPWu"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Tweaker Poem",
-        "url": "https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Fix Your Face",
         "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 174282,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Tweaker Poem",
+        "url": "https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "BESITO",
-        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "BESITO",
-      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Whisper To Me",
         "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 226896,
       "name": "Whisper To Me",
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "BESITO",
+        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 179720,
+      "name": "BESITO",
+      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
-        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 198948,
-      "name": "LET ME GO",
-      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "its not about me!",
         "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 171392,
       "name": "its not about me!",
       "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
+        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 198948,
+      "name": "LET ME GO",
+      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
+        "name": "SELLOUT",
+        "url": "https://open.spotify.com/album/6kkuP0lBBavB4KlRAMPVwG"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "duration_ms": 155567,
+      "name": "SELLOUT",
+      "url": "https://open.spotify.com/track/5x8NAB7MbTaxHeuRAcpehp"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
         "name": "espiral",
         "url": "https://open.spotify.com/album/4ZHMWkHggFiceto49B8oJQ"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 219015,
       "name": "espiral",
       "url": "https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
-        "name": "SELLOUT",
-        "url": "https://open.spotify.com/album/6kkuP0lBBavB4KlRAMPVwG"
-      },
-      "artists": [
-        {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
-        }
-      ],
-      "duration_ms": 155567,
-      "name": "SELLOUT",
-      "url": "https://open.spotify.com/track/5x8NAB7MbTaxHeuRAcpehp"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Florida Water Blues",
-        "url": "https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6"
-      },
-      "artists": [
-        {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
-        }
-      ],
-      "duration_ms": 224420,
-      "name": "Florida Water Blues",
-      "url": "https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "London Tonight",
         "url": "https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 205669,
       "name": "London Tonight",
       "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 224420,
+      "name": "Florida Water Blues",
+      "url": "https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of July",

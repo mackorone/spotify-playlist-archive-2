@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Nolly
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,098 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,101 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 61 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 |
 | 62 | [I have escaped](https://open.spotify.com/track/7JlAAEib1TABwxSEGU1c4K) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [I have escaped \(Main Version\)](https://open.spotify.com/album/2p4SUaDgsEcPFE08Ju0yg0) | 3:20 |
 | 63 | [Seasons](https://open.spotify.com/track/0Q3xwTX5vEVqr2VmC6HnZs) | [TheTEMI](https://open.spotify.com/artist/2gSMFJJk80K1AXJJup6Ace) | [Seasons](https://open.spotify.com/album/3PvPSFbWP2MWv6A1S26p3x) | 2:45 |
-| 64 | [Number One \- Remix](https://open.spotify.com/track/4xY76YPUcXK88AxaGJtQZO) | [Younggod](https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW) | [Number One \(Remix\)](https://open.spotify.com/album/2B7kcFnDPSm0x4D2YIyxIw) | 2:39 |
+| 64 | [Number One \- Remix](https://open.spotify.com/track/4xY76YPUcXK88AxaGJtQZO) | [Younggod Supreme](https://open.spotify.com/artist/0pg7CWNeRHMdplKLwlKD31) | [Number One \(Remix\)](https://open.spotify.com/album/2B7kcFnDPSm0x4D2YIyxIw) | 2:39 |
 | 65 | [Without You](https://open.spotify.com/track/4leFpYPiDcf617jC0WXZXu) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Without You](https://open.spotify.com/album/1Qu8w9dRIpI9JIxHRaSphR) | 2:27 |
 | 66 | [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 |
 | 67 | [the sound of being okay](https://open.spotify.com/track/3SwukFJJk27HmmDnhaBImE) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ) | [the sound of being okay](https://open.spotify.com/album/5bmY6uvR88LXQUldxjMwPt) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 100 | [Oyel](https://open.spotify.com/track/4b9vFe5adHevEnOUo0F91O) | [Bodilezz](https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb), [Miklez](https://open.spotify.com/artist/0IAZuHKHTymDWiemfWMPwW) | [Oyel](https://open.spotify.com/album/46iEosVS7TwsIywW7JWS8E) | 3:00 |
 
-Snapshot ID: `AAAAAOkHvlP7ScOhTJDTt2XZ3MD+m2fC`
+Snapshot ID: `AAAAAMTFp/W8ZsJF4InSyEr1YiD4JvFo`

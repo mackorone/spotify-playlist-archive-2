@@ -2295,6 +2295,28 @@
     },
     {
       "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/3szHLUDlndYP5iToW8I6vL"
+      },
+      "artists": [
+        {
+          "name": "TAKETAKE",
+          "url": "https://open.spotify.com/artist/3o1rwGAoMoB9DEDUiNXdzb"
+        },
+        {
+          "name": "GATASKI",
+          "url": "https://open.spotify.com/artist/0hNZDsaGK7gGtfyHVsx1H9"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127752,
+      "name": "baby my type",
+      "url": "https://open.spotify.com/track/7nqEn1KoMfA7HzyBo3ePL8"
+    },
+    {
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -26238,7 +26260,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 177656,
       "name": "\u0411\u043e\u0436\u0435, \u044f \u0432\u043a\u043e\u0445\u0430\u043b\u0430\u0441\u044f",
       "url": "https://open.spotify.com/track/7DpVqdnyRcgxxgnyJX4qsh"
@@ -28544,7 +28566,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 218466,
       "name": "\u0413\u043e\u0440\u043b\u0438\u0446\u0456",
       "url": "https://open.spotify.com/track/3jzl6nHV8rbTgPL0dTquS5"
@@ -43728,7 +43750,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 128764,
       "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
       "url": "https://open.spotify.com/track/60rhfD30Cpfj4SY5A7ft4Z"

@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 207977,
       "name": "Live It Up - Official Song 2018 FIFA World Cup Russia",
       "url": "https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT"
@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Real Friends",
+        "url": "https://open.spotify.com/album/34qMKZvKORas4QxOCmjBRW"
+      },
+      "artists": [
+        {
+          "name": "XO",
+          "url": "https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148999,
+      "name": "Real Friends",
+      "url": "https://open.spotify.com/track/6E2QO15Tw8t929l14uuxvB"
+    },
+    {
+      "album": {
         "name": "Real Friends (Acoustic)",
         "url": "https://open.spotify.com/album/0LUPbHaWNaTGlSPcFQ5lb0"
       },
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 172603,
       "name": "Real Friends - Acoustic",
       "url": "https://open.spotify.com/track/2EBA6hA7AErvcjhhl8Zeym"

@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ This Is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,474 likes - 97 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,473 likes - 97 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 |
-| 2 | [End of the World](https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [End of the World](https://open.spotify.com/album/5omifXCLUvR9btSGKw90En) | 2:36 |
-| 3 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
-| 4 | [FU : ILY](https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [FU : ILY](https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN) | 2:29 |
-| 5 | [Vacation](https://open.spotify.com/track/6l02vsnlXfxMZomTDTf1xF) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [Vacation](https://open.spotify.com/album/2Gm2o38xxEiIbwmWUIPog9) | 2:24 |
-| 6 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
-| 7 | [Truth or Dare](https://open.spotify.com/track/62CSylX8QyL5bvcSCE2He0) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Truth or Dare](https://open.spotify.com/album/4MKe28WDs1OdlvueCEeMvj) | 2:34 |
-| 8 | [7563](https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [7563](https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL) | 4:03 |
-| 9 | [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 |
-| 10 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
-| 11 | [Dear Friend, Queer Friend](https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Dear Friend, Queer Friend](https://open.spotify.com/album/3qCUk0kqHsXXZies60tO8C) | 5:16 |
-| 12 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
-| 13 | [Rockstar Joy](https://open.spotify.com/track/0C2SdzgTneBs8BtJcOaXrV) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Rockstar Joy](https://open.spotify.com/album/7iS69GvYdunWGVyXPb7FxH) | 3:27 |
-| 14 | [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 |
-| 15 | [Drywall](https://open.spotify.com/track/4ygcbHjrfBz5ULRFb0G3OV) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Drywall](https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j) | 4:14 |
+| 1 | [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 |
+| 2 | [Drywall](https://open.spotify.com/track/4ygcbHjrfBz5ULRFb0G3OV) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Drywall](https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j) | 4:14 |
+| 3 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
+| 4 | [Vacation](https://open.spotify.com/track/6l02vsnlXfxMZomTDTf1xF) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [Vacation](https://open.spotify.com/album/2Gm2o38xxEiIbwmWUIPog9) | 2:24 |
+| 5 | [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 |
+| 6 | [FU : ILY](https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [FU : ILY](https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN) | 2:29 |
+| 7 | [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 |
+| 8 | [End of the World](https://open.spotify.com/track/1LEtUoL1OTp6s7UDC1qlbP) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [End of the World](https://open.spotify.com/album/5omifXCLUvR9btSGKw90En) | 2:36 |
+| 9 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
+| 10 | [Truth or Dare](https://open.spotify.com/track/62CSylX8QyL5bvcSCE2He0) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Truth or Dare](https://open.spotify.com/album/4MKe28WDs1OdlvueCEeMvj) | 2:34 |
+| 11 | [7563](https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [7563](https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL) | 4:03 |
+| 12 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
+| 13 | [Dear Friend, Queer Friend](https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Dear Friend, Queer Friend](https://open.spotify.com/album/3qCUk0kqHsXXZies60tO8C) | 5:16 |
+| 14 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
+| 15 | [Rockstar Joy](https://open.spotify.com/track/0C2SdzgTneBs8BtJcOaXrV) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Rockstar Joy](https://open.spotify.com/album/7iS69GvYdunWGVyXPb7FxH) | 3:27 |
 | 16 | [You Saw Me](https://open.spotify.com/track/6IgSIZJxsO6QworA7pabvJ) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [Reiyo The Giant](https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n) | [You Saw Me](https://open.spotify.com/album/1Pn4p6IUmSdcLZDlW4Hk1W) | 2:37 |
 | 17 | [Signals](https://open.spotify.com/track/7p5z1HdAOE3o8S9CDRZiIu) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Signals](https://open.spotify.com/album/2pxjaO2WsHQnbnrpQIfUry) | 2:35 |
 | 18 | [pull me out](https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [4 songs](https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU) | 3:04 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 96 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 97 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 
-Snapshot ID: `AAAAABBGg1xexMdK/DNFdnwnL8TD3+r3`
+Snapshot ID: `AAAAAEOtWgKH8zRgso5NRmDJavx5pANF`

@@ -1,12 +1,12 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 123767,
+  "num_followers": 123791,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANPhnfawK2A3Kls56kzMPET3NULy",
+  "snapshot_id": "AAAAACC5k+lNihGG9BC7uQYzs+lI0zOc",
   "tracks": [
     {
       "added_at": "2025-05-23 06:00:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Intraterreno",
-        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 234428,
-      "name": "Intraterreno",
-      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "La teor\u00eda de la evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 173062,
       "name": "La teor\u00eda de la evoluci\u00f3n",
       "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Intraterreno",
+        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 234428,
+      "name": "Intraterreno",
+      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Benedicto",
+        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Benedicto",
+      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 213334,
       "name": "El eslab\u00f3n perdido",
       "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Benedicto",
-        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
-      },
-      "artists": [
-        {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Benedicto",
-      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Callejones",
         "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 192000,
       "name": "Callejones",
       "url": "https://open.spotify.com/track/0Ri0HMOZDj0l3xlCC1wZHr"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Hombre (One Shot) [Remix]",
         "url": "https://open.spotify.com/album/3bCmiho1yBiqd6Udt3ayEY"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 184600,
       "name": "Hombre (One Shot) - Remix",
       "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 221648,
-      "name": "De Mi Muerte",
-      "url": "https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Aire para Vivir",
         "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 223512,
       "name": "Aire para Vivir",
       "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 221648,
+      "name": "De Mi Muerte",
+      "url": "https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Inedito",
-        "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
-      },
-      "artists": [
-        {
-          "name": "Al2 El Aldeano",
-          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Cora",
         "url": "https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 164536,
       "name": "Legendarios",
       "url": "https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Inedito",
+        "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
+      },
+      "artists": [
+        {
+          "name": "Al2 El Aldeano",
+          "url": "https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq"
     },
     {
       "added_at": "2025-05-23 06:00:30",

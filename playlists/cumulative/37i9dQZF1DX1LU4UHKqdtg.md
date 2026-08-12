@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: Red Velvet
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: KiiiKiii
 
-1,797 songs - 3 day 22 hr 28 min
+1,798 songs - 3 day 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 | 2022-08-25 | 2022-12-16 |
 | [A Kind Of Magic \- Coke Studio Session](https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [A Kind Of Magic \(Coke Studio Session\)](https://open.spotify.com/album/47oy52LyIbbzC0qLKQH16Z) | 2:49 | 2022-06-07 | 2022-07-29 |
 | [A Parallel World \(from Forgotten Island\)](https://open.spotify.com/track/5B7Aeln3v0fMgJh8MhxTw0) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [A Parallel World \(from Forgotten Island\)](https://open.spotify.com/album/1fpU3p9VuH941YMEVXaiqE) | 3:37 | 2026-07-23 |  |
+| [A Piece of My heart](https://open.spotify.com/track/0U97V0OQpcr9kg6kaZMtgT) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [A Piece of My heart](https://open.spotify.com/album/0lC0jbq9YDJ214MU1t0bmn) | 3:10 | 2026-08-12 |  |
 | [A Sleepless Night](https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [X](https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u) | 2:45 | 2024-10-15 | 2025-01-12 |
 | [A WOO!!](https://open.spotify.com/track/7DzFF9F9FK7zaBZMyEKPjn) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [A WOO!!](https://open.spotify.com/album/5hptDtgFSlWscXePYAYyio) | 3:43 | 2022-01-25 | 2022-03-23 |
 | [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-13 | 2024-10-08 |
@@ -1264,7 +1265,7 @@
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-17 | 2022-07-19 |
 | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/5Z44QP5dcX1lBhyonY7k1u) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/album/3dN4xXrYaQfWvLr1oCorQy) | 3:02 | 2022-07-12 | 2022-07-29 |
 | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/6Q6xoyS5cJ8jQbsJhcahEt) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/album/3rytWLCteW328NgdL5E6PA) | 3:02 | 2022-07-28 | 2022-10-05 |
-| [Say It](https://open.spotify.com/track/2oDizoGsTI166tSrBsotGT) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Say It](https://open.spotify.com/album/7uXc6ya1gTIT7JtnKtqXEW) | 3:04 | 2026-06-25 |  |
+| [Say It](https://open.spotify.com/track/2oDizoGsTI166tSrBsotGT) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Say It](https://open.spotify.com/album/7uXc6ya1gTIT7JtnKtqXEW) | 3:04 | 2026-06-25 | 2026-08-12 |
 | [Say My Name](https://open.spotify.com/track/07LJ6qegqwX8rRm37SxwRN) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/77XpHSPU2ctQxUhgVgekoX) | 2:39 | 2025-11-05 | 2026-04-22 |
 | [Say My Name](https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC) | [Say Yes!](https://open.spotify.com/artist/7sPKpBhx7fwPp9wMGYvQJI) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:19 | 2023-04-10 | 2023-06-28 |
 | [SCARLET](https://open.spotify.com/track/0Z8bWd7z22v31G4pWdnpRX) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [DOOR](https://open.spotify.com/album/6pPe2DC79gdVq5SiQG6TuK) | 3:44 | 2022-09-20 | 2022-11-18 |

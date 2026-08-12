@@ -12680,7 +12680,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 154434,
       "name": "CZEMPION 2",
       "url": "https://open.spotify.com/track/1Ymguhxs4YAwklSsDUnUin"
@@ -20588,7 +20588,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 133135,
       "name": "Grand Soir",
       "url": "https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5"
@@ -37714,7 +37714,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "NIC NIE MIJA",
       "url": "https://open.spotify.com/track/5QG98InY2TALW4heEeze5H"
@@ -39794,7 +39794,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 125333,
       "name": "NOWE CIOCIE",
       "url": "https://open.spotify.com/track/0wtwLMGwAsXynftM6OvCo1"
@@ -44080,7 +44080,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -48388,7 +48388,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 197938,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
@@ -57318,7 +57318,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 209908,
       "name": "Toksyna",
       "url": "https://open.spotify.com/track/0QDGplY5KALFQQA2w8bdo9"
@@ -59134,7 +59134,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 138000,
       "name": "Uno Momento",
       "url": "https://open.spotify.com/track/2lszjkyKpER3mEFPQQayZR"
@@ -61711,6 +61711,32 @@
     },
     {
       "album": {
+        "name": "WI\u0118CEJ NIEBA",
+        "url": "https://open.spotify.com/album/4aIheOtXr99P8hkvUKb5nQ"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "WI\u0118CEJ NIEBA",
+      "url": "https://open.spotify.com/track/1oI0ZAXcbp2cNC9elQqMQJ"
+    },
+    {
+      "album": {
         "name": "Wi\u0119cej \u017bycia",
         "url": "https://open.spotify.com/album/1H1uwQyzqIXe6bKhUMV572"
       },
@@ -62878,7 +62904,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 160048,
       "name": "WSZYSTKO NA POTEM",
       "url": "https://open.spotify.com/track/70HC55OTbMVHGSLA9MT9aw"

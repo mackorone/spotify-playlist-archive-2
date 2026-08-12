@@ -1,12 +1,12 @@
 {
   "description": "Rock with a drop. Cover: Madeon \\m/",
-  "num_followers": 356676,
+  "num_followers": 356692,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA29y0fdbqkGe5YjJUqzupU2Yyqq",
+  "snapshot_id": "AAAAAH76p1eahyLXhOhY+29MZmx1QP4s",
   "tracks": [
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Welcome To My Life",
-        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
-      },
-      "artists": [
-        {
-          "name": "STVW",
-          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
-        },
-        {
-          "name": "Story Untold",
-          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Welcome To My Life",
-      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "Sacrificial",
         "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Welcome To My Life",
+        "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
+      },
+      "artists": [
+        {
+          "name": "STVW",
+          "url": "https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k"
+        },
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Welcome To My Life",
+      "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1491,6 +1491,26 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "Signal",
+        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Signal",
+      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "Raise the Dead",
         "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 150000,
       "name": "Raise the Dead",
       "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "Signal",
-        "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 194823,
-      "name": "Signal",
-      "url": "https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 227167,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "You Call Me Reckless",
         "url": "https://open.spotify.com/album/77GBZv45BvxMeDEPaJgGX0"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 195929,
       "name": "You Call Me Reckless",
       "url": "https://open.spotify.com/track/0GRhBpD36Iu7ur3fUUJgzN"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 227167,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Not My Night",
-        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Not My Night",
-      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -1731,6 +1711,50 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Not My Night",
+        "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Not My Night",
+      "url": "https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1767,30 +1791,6 @@
       "duration_ms": 176200,
       "name": "Steps On You (Peep My Style)",
       "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "Rival",
-          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
-        },
-        {
-          "name": "KC",
-          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1955,22 +1955,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "AUTOPSY BUFFET",
-        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ"
       },
       "artists": [
         {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         },
         {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
         }
       ],
-      "duration_ms": 134400,
-      "name": "AUTOPSY BUFFET",
-      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
+      "duration_ms": 201131,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1991,22 +1991,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ"
+        "name": "AUTOPSY BUFFET",
+        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
       },
       "artists": [
         {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
         },
         {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
         }
       ],
-      "duration_ms": 201131,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa"
+      "duration_ms": 134400,
+      "name": "AUTOPSY BUFFET",
+      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "Save The Cat",
+        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 172404,
+      "name": "Save The Cat",
+      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "Being One",
         "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 175533,
       "name": "ANTIDOTE (FT. PIXEL GRIP) - AMORTAL RMX",
       "url": "https://open.spotify.com/track/3YnnPZM0mVpfbWydph1pDR"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "Save The Cat",
-        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 172404,
-      "name": "Save The Cat",
-      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/13iD4vvsL8cM0RITfvimmH"
-      },
-      "artists": [
-        {
-          "name": "Brock B",
-          "url": "https://open.spotify.com/artist/5WZagxom0NMqEIFOWCZvYa"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 193349,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/4bMseXqCfosc2uxfsmC3ps"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "Bad Blood (Weird Genius Remix)",
         "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
       },
@@ -2379,6 +2359,22 @@
       "duration_ms": 197334,
       "name": "Bad Blood - Weird Genius Remix",
       "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2403,18 +2399,38 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/13iD4vvsL8cM0RITfvimmH"
+      },
+      "artists": [
+        {
+          "name": "Brock B",
+          "url": "https://open.spotify.com/artist/5WZagxom0NMqEIFOWCZvYa"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 193349,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/4bMseXqCfosc2uxfsmC3ps"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2435,22 +2451,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
@@ -2463,22 +2463,6 @@
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2507,6 +2491,22 @@
       "duration_ms": 235862,
       "name": "iF_i_FaLL",
       "url": "https://open.spotify.com/track/12O1jHrTRLaQE2fWeZatIz"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     }
   ],
   "unique_name": "Rocktronic",

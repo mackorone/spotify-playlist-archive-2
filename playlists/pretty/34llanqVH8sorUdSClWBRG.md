@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 
 > Mental illness
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 72 songs - 3 hr 58 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,6 @@ pretty - [cumulative](/playlists/cumulative/34llanqVH8sorUdSClWBRG.md) - [plain]
 | 70 | [why am i like this](https://open.spotify.com/track/3gE5o0qeyamJePqYcPgYcJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [why am i like this](https://open.spotify.com/album/6hhTRMlslZIDOcuobjHjLh) | 2:56 |
 | 71 | [Tucson Fog](https://open.spotify.com/track/5qxeZ6YpXUiNYLlaQOeLGu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/1MbrGdr3eLlzIZs4xW5CIZ) | 2:15 |
 | 72 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 |
+| 73 | [Crazy](https://open.spotify.com/track/3WERqti6Iy25H3wc0l7Den) | [The Bridge City Sinners](https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt) | [In the Age of Doubt](https://open.spotify.com/album/71coqJLIiqtg9uUQjtr1MP) | 2:21 |
 
-Snapshot ID: `AAAAULIz93lkvzsznnDZl+dzjGIgtCkw`
+Snapshot ID: `AAAAUTShGC0XjOXHuYAu4Nd+xAnL0gHk`

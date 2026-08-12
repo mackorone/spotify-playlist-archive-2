@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 173241,
+  "num_followers": 173301,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABjl5Noxn0G3N4RYZbvmiK3H4OPQ",
+  "snapshot_id": "AAAAAJj07Z+tCsKBtM9T2r4slX4xtf3N",
   "tracks": [
     {
       "added_at": "2026-08-07 04:10:41",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-08-07 04:10:41",
       "album": {
-        "name": "Hooked on the Bassline",
-        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Hooked on the Bassline",
-      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
-    },
-    {
-      "added_at": "2026-08-07 04:10:41",
-      "album": {
         "name": "Poker Face",
         "url": "https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 157804,
       "name": "Poker Face",
       "url": "https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt"
+    },
+    {
+      "added_at": "2026-08-07 04:10:41",
+      "album": {
+        "name": "Hooked on the Bassline",
+        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Hooked on the Bassline",
+      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
     },
     {
       "added_at": "2026-08-07 04:10:41",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-08-07 04:10:41",
       "album": {
-        "name": "Seelenf*cker",
-        "url": "https://open.spotify.com/album/6N4rnVWRSscD9bWCExrbWv"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 162239,
-      "name": "Seelenf*cker",
-      "url": "https://open.spotify.com/track/7fx06lQhSj6VPZyOzNPMs9"
-    },
-    {
-      "added_at": "2026-08-07 04:10:41",
-      "album": {
         "name": "New Bass New Kick",
         "url": "https://open.spotify.com/album/20S0A1VJ47VjPI6ifA3r8l"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 180000,
       "name": "New Bass New Kick",
       "url": "https://open.spotify.com/track/0pNuOeCk1z0BpRWVWlglIm"
+    },
+    {
+      "added_at": "2026-08-07 04:10:41",
+      "album": {
+        "name": "Seelenf*cker",
+        "url": "https://open.spotify.com/album/6N4rnVWRSscD9bWCExrbWv"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 162239,
+      "name": "Seelenf*cker",
+      "url": "https://open.spotify.com/track/7fx06lQhSj6VPZyOzNPMs9"
     },
     {
       "added_at": "2026-08-07 04:10:41",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-07 04:10:41",
       "album": {
-        "name": "Electrify",
-        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Electrify",
-      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
-    },
-    {
-      "added_at": "2026-08-07 04:10:41",
-      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
+    },
+    {
+      "added_at": "2026-08-07 04:10:41",
+      "album": {
+        "name": "Electrify",
+        "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Electrify",
+      "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
     },
     {
       "added_at": "2026-08-07 04:10:41",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2026-08-07 04:10:41",
       "album": {
-        "name": "Shadows Of The Night (GIGI DAG Mix)",
-        "url": "https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi"
-      },
-      "artists": [
-        {
-          "name": "GIGI D'AGOSTINO",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        },
-        {
-          "name": "Boostedkids",
-          "url": "https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ"
-        },
-        {
-          "name": "GIGIDAG",
-          "url": "https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0"
-        }
-      ],
-      "duration_ms": 162130,
-      "name": "Shadows Of The Night - GIGI DAG Mix",
-      "url": "https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS"
-    },
-    {
-      "added_at": "2026-08-07 04:10:41",
-      "album": {
         "name": "Come On Baddie Let's Go Party",
         "url": "https://open.spotify.com/album/7dKJsT8XflsEX5hlz32hU2"
       },
@@ -1523,6 +1499,30 @@
       "duration_ms": 153311,
       "name": "Come On Baddie Let's Go Party",
       "url": "https://open.spotify.com/track/5xC5CWiHAlUyVmkVfhMhQ5"
+    },
+    {
+      "added_at": "2026-08-07 04:10:41",
+      "album": {
+        "name": "Shadows Of The Night (GIGI DAG Mix)",
+        "url": "https://open.spotify.com/album/5X1zTvAgAce4WDfP2vRBbi"
+      },
+      "artists": [
+        {
+          "name": "GIGI D'AGOSTINO",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        },
+        {
+          "name": "Boostedkids",
+          "url": "https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ"
+        },
+        {
+          "name": "GIGIDAG",
+          "url": "https://open.spotify.com/artist/5dnmJca9sE7eYfwKyeWVI0"
+        }
+      ],
+      "duration_ms": 162130,
+      "name": "Shadows Of The Night - GIGI DAG Mix",
+      "url": "https://open.spotify.com/track/5n3jPpWweeAWjSEIONrcXS"
     },
     {
       "added_at": "2026-08-07 04:10:41",

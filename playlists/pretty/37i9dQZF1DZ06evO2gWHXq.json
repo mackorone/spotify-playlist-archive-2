@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 227429,
+  "num_followers": 227436,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAABWMejyB/TpPTR4/ZbQeyps",
+  "snapshot_id": "ankUgAAAAACDax2ZX4YR7OSNK0G6XSLB",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 205430,
-      "name": "Ella Es Una Amenaza",
-      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
+      "duration_ms": 180018,
+      "name": "Mis Defectos",
+      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 180018,
-      "name": "Mis Defectos",
-      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
+      "duration_ms": 205430,
+      "name": "Ella Es Una Amenaza",
+      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
     },
     {
       "added_at": null,
@@ -539,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOP TOP (feat. MC Davo)",
-        "url": "https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 362063,
-      "name": "TOP TOP (feat. MC Davo)",
-      "url": "https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marybel (Remix)",
         "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 218000,
       "name": "Marybel - Remix",
       "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOP TOP (feat. MC Davo)",
+        "url": "https://open.spotify.com/album/0pGlWHw5twnUTOBCvkIKLI"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 362063,
+      "name": "TOP TOP (feat. MC Davo)",
+      "url": "https://open.spotify.com/track/75uaabQUMf0Vg7YKwVQq01"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas 3",
-        "url": "https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 191917,
-      "name": "Todo menso",
-      "url": "https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tengo Que Probar",
         "url": "https://open.spotify.com/album/6RaWvAhFPcp3AthMNLi9ob"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 201000,
       "name": "Tengo Que Probar",
       "url": "https://open.spotify.com/track/0iRtpJoX4pVQx3vUHzaNSU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas 3",
+        "url": "https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 191917,
+      "name": "Todo menso",
+      "url": "https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e"
     },
     {
       "added_at": null,

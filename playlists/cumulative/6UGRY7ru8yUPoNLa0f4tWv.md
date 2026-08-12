@@ -4,7 +4,7 @@
 
 > The Biggest Clubland tunes!
 
-121 songs - 6 hr 15 min
+122 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Raindrops](https://open.spotify.com/track/13fM4MVYK4T0TpcNxSa9qF) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Stunt](https://open.spotify.com/artist/2thOenzsesBQDJxkDkMUGI) | [Raindrops](https://open.spotify.com/album/2U5iVZYUD6mp61uohY2wDb) | 2:45 | 2020-03-06 |  |
 | [REHAB](https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [REHAB](https://open.spotify.com/album/7cWLfM1fEbvTA4x8FW4Eas) | 3:15 | 2024-12-16 |  |
 | [Right By Your Side](https://open.spotify.com/track/6TTpQovvBwIprojOZPL8DA) | [N\-Force](https://open.spotify.com/artist/5d4adJfsFgPHPOQZpgHtp1), [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [Right By Your Side](https://open.spotify.com/album/0zFRULT2WiE482D2pSO1O1) | 2:39 | 2025-06-06 |  |
+| [Rock Da House 2026](https://open.spotify.com/track/5DZ7dl8EW2fTtVYde7tcQE) | [Tall Paul](https://open.spotify.com/artist/0RXgSe2pCSZ6DJitqJZ6nt) | [Rock Da House 2026](https://open.spotify.com/album/6Sxa6TYerR4Eh2g72bcLeF) | 2:54 | 2026-08-11 |  |
 | [Run To You \- SUMD4ZE Edit](https://open.spotify.com/track/7GdqjqLKrf4yWO2EoDtU2T) | [SUMD4ZE](https://open.spotify.com/artist/6T3rJwEHvw1o5JCGouZtec), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [Run To You \(SUMD4ZE Edit\)](https://open.spotify.com/album/5j3MWUbMQI5jRgIgx6r7g4) | 2:31 | 2024-08-27 |  |
 | [See the Light \- Radio Edit](https://open.spotify.com/track/0WIwD1asb0JXRiXFr6DaZF) | [Paradise](https://open.spotify.com/artist/1DCz9X0OMg7tAxWZxXWCEh) | [See the Light](https://open.spotify.com/album/19SSTVpR6Tr3G8o2lGKGds) | 3:20 | 2024-03-29 |  |
 | [Set Fire To The Rain](https://open.spotify.com/track/2tGt0ZUbQvrkMaplKZPWlp) | [Noah Edwards](https://open.spotify.com/artist/5Pd3zt4GrkvQiSjDTM9eJg) | [Set Fire To The Rain](https://open.spotify.com/album/3CE3eZGz1tTY7iBbyI1Ane) | 3:41 | 2022-12-16 |  |

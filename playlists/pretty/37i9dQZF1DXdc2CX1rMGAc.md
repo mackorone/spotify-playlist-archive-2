@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,828 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,881 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 99 | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 |
 | 100 | [Still Luvin](https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Still Luvin](https://open.spotify.com/album/4IxPNOw15YdDYoe5yBUZit) | 4:06 |
 
-Snapshot ID: `AAAAALV5pUpwiGL7lwrRTIQ5QD/gTzPW`
+Snapshot ID: `AAAAAEH2uriey+opZ7v6PYw/eWBNOryM`

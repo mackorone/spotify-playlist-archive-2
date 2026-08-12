@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 26556,
+  "num_followers": 26557,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKOthhkFFN4cpI70of9+Tf3Djlo",
+  "snapshot_id": "AAAAAPt3qJ5ZB9qp4zjfxjlG1P0QC0aF",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Love Yourz",
+      "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 256706,
       "name": "Who Gon Stop Me",
       "url": "https://open.spotify.com/track/3R1k8P1MrDdLSRhlTaaWAS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Love Yourz",
-      "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
     },
     {
       "added_at": "2022-10-01 16:00:00",

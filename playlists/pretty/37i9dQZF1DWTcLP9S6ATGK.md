@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,562 likes - 106 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,556 likes - 106 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 105 | [Beruntung](https://open.spotify.com/track/2QV2J06IuV9WaKIwuDumHD) | [BILLKISS](https://open.spotify.com/artist/3xQbrXOLhJyNm1NmcrYw6L) | [Beruntung](https://open.spotify.com/album/2kgfISxu32SW0uewmD31Uo) | 3:53 |
 | 106 | [Surat Untuk Penakluk Hatiku](https://open.spotify.com/track/2vuqaLSKw7R9DlP2cAgDtx) | [Clay Siahaan](https://open.spotify.com/artist/26O6jBlQew6TaDWOBYtPCr), [Sisca Insani](https://open.spotify.com/artist/0uh9xFuckufgEa6T7SNpzt) | [Surat Untuk Penakluk Hatiku](https://open.spotify.com/album/6j8nJzEHz7weIbXoZiSCkI) | 3:54 |
 
-Snapshot ID: `AAAAALOrDS3dUop9KhnilkrI4pUi3SWB`
+Snapshot ID: `AAAAABRxAb7uLMddO6vLf5fRePh+hXNq`

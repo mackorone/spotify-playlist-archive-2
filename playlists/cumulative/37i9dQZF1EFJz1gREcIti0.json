@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "YEARNALISM",
+        "url": "https://open.spotify.com/album/3WaxSapHGFrhvipg1wuLta"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192136,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/64Vt6857ya0Bf5f7T5Ycoo"
+    },
+    {
+      "album": {
         "name": "Alone With You",
         "url": "https://open.spotify.com/album/0kHOukhQ8TT7IFNyzq2DZo"
       },

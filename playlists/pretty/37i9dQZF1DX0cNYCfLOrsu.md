@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Jada Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,962 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,027 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 70 | [Dumpling \- Toddla T Remix](https://open.spotify.com/track/0YLdHkSOh05jocGjQ8mpfc) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [Dumpling \(Toddla T Remix\)](https://open.spotify.com/album/4FxgvtP89Ep5lFOPSNB6pw) | 2:39 |
 | 71 | [Inches](https://open.spotify.com/track/249LE3CJaJqTL6IKzX0Gn8) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Reggae Gold 2020](https://open.spotify.com/album/50WEjU3CE9lRAikhuk7Wau) | 2:36 |
 | 72 | [A Nuh My Style](https://open.spotify.com/track/2zbPQ4eWQEvywNRTDWUAAk) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [A Nuh My Style](https://open.spotify.com/album/1tAlghBkDlKo1iJwKZ55Lo) | 2:44 |
-| 73 | [Do That \(feat\. Tony Matterhorn\)](https://open.spotify.com/track/2l36ZNtoL7LxW93xU8EJyv) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh), [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:04 |
+| 73 | [No Gyal](https://open.spotify.com/track/1ImihjOlex6Hj7eH4Zhujs) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:58 |
 | 74 | [Execution](https://open.spotify.com/track/4MhSHzlW1y0Q6e60lwwZS5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Execution](https://open.spotify.com/album/5KiowkyG0rLXDJgoR9ZEDD) | 2:55 |
 | 75 | [Turn Up](https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0) | [Turn Up](https://open.spotify.com/album/3kPls8TKkU0uoBNkYODLIi) | 2:50 |
 
-Snapshot ID: `AAAAALSoGTkuP8syg3GOMb3kepf6lKyc`
+Snapshot ID: `AAAAAH0/sqJKXx4PchwQe49sJd75S9+m`

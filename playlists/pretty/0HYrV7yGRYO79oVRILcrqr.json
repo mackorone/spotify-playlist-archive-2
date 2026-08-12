@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMNgOmD96IFyErQLh/8tfeGDH1YqUm",
+  "snapshot_id": "AAAMOeZ7kyvh+UTttHWAr8HF3lvpaDEm",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -395,6 +395,22 @@
       "duration_ms": 148865,
       "name": "Money",
       "url": "https://open.spotify.com/track/7ALuXUMj3Lz7i0yoFJaaCP"
+    },
+    {
+      "added_at": "2026-08-11 05:50:25",
+      "album": {
+        "name": "Covers Pt. 1",
+        "url": "https://open.spotify.com/album/6Lv3vu9yod1CdBzOHiwaNP"
+      },
+      "artists": [
+        {
+          "name": "Obsidian Rose",
+          "url": "https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx"
+        }
+      ],
+      "duration_ms": 152917,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/3meKJA7QwTiHdTu0k5TWoH"
     },
     {
       "added_at": "2026-08-04 16:43:09",
@@ -1117,6 +1133,22 @@
       "url": "https://open.spotify.com/track/2qsT8O0iWzxEDvZ1Cmoikh"
     },
     {
+      "added_at": "2026-08-11 05:52:49",
+      "album": {
+        "name": "Wild Man",
+        "url": "https://open.spotify.com/album/2RYNgaILfpO78U3QAJpEYA"
+      },
+      "artists": [
+        {
+          "name": "Stu White",
+          "url": "https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ"
+        }
+      ],
+      "duration_ms": 287200,
+      "name": "Wild Man",
+      "url": "https://open.spotify.com/track/3T7iZlkZHGfqcDK7ujnfmR"
+    },
+    {
       "added_at": "2026-08-02 19:26:56",
       "album": {
         "name": "End Game",
@@ -1195,6 +1227,22 @@
       "duration_ms": 208252,
       "name": "Punch the Clown",
       "url": "https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg"
+    },
+    {
+      "added_at": "2026-08-11 11:29:52",
+      "album": {
+        "name": "Broken Mirror",
+        "url": "https://open.spotify.com/album/2jP3WS6QD2RVGFLU2mHvUv"
+      },
+      "artists": [
+        {
+          "name": "ThorE.E.K",
+          "url": "https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps"
+        }
+      ],
+      "duration_ms": 233257,
+      "name": "Broken Mirror",
+      "url": "https://open.spotify.com/track/3PahSDh7r7E2yMgAJ69sFV"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

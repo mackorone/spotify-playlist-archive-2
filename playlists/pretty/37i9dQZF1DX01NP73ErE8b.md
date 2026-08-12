@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 Angelina Mango e Marco Mengoni in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,515 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,562 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 74 | [Esibizionista](https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [MA IO SONO FUOCO](https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ) | 3:27 |
 | 75 | [Un Bel Casino](https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Un Bel Casino](https://open.spotify.com/album/7IDEKTMviDwAp2sDpzToBG) | 2:34 |
 
-Snapshot ID: `AAAAAFgllIPrWO07O7uNLszDtKyjGDhh`
+Snapshot ID: `AAAAAOY1EfbVISw/4AL3mUx28T5EVkVh`

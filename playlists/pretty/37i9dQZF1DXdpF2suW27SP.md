@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,720 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,717 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [A Sangue Frio](https://open.spotify.com/track/5lw0TJfpoSfAxaCyv9B5rV) | [Força Suprema](https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3), [Ace](https://open.spotify.com/artist/23yq6Jr4TRstJpoqQuTlYo), [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG) | [A Sangue Frio](https://open.spotify.com/album/59Kkx26A6q5PUSd49WoC83) | 2:40 |
 | 70 | [Tudo o Que Eu Peço](https://open.spotify.com/track/7khhRsH9FfE8v9YyVEos5j) | [Young Double](https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY), [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ), [Slim Boy](https://open.spotify.com/artist/3taajR4dFA7XMW1OU9P7DU) | [Tudo o Que Eu Peço](https://open.spotify.com/album/4xWhdoAMXHu0j8whz77O2y) | 3:37 |
 
-Snapshot ID: `AAAAAHYCy9EPMG6feaKctxA+as5ue5Ep`
+Snapshot ID: `AAAAAANRiB8piUYg+zexJCaYgkjqxvA2`

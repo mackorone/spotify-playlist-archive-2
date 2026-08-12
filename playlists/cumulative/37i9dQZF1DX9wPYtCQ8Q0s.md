@@ -4,7 +4,7 @@
 
 > A batida certa para o seu treino
 
-195 songs - 10 hr 55 min
+196 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Live Off My Closet \(feat\. Future\)](https://open.spotify.com/track/6AyWdCtEn1DdxjnxPeojR2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:53 | 2024-04-03 | 2026-05-08 |
 | [London \(feat\. EO\)](https://open.spotify.com/track/0lstGz2advSx5VqY8olvzt) | [AJ](https://open.spotify.com/artist/4fUHIq4b5WARbnYXe2UH2x), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [EO](https://open.spotify.com/artist/0M42FTSaBb8W0laID5CR0U) | [London \(feat\. EO\)](https://open.spotify.com/album/5pjvJBFRifoHaGIPOXHjus) | 3:48 | 2024-04-03 | 2026-04-11 |
 | [Look Alive \(feat\. Drake\)](https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Simi](https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S) | 3:01 | 2023-02-07 | 2024-04-19 |
-| [Love And Choppa](https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Love And Choppa](https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF) | 2:20 | 2025-01-17 |  |
+| [Love And Choppa](https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x) | [Love And Choppa](https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF) | 2:20 | 2025-01-17 | 2026-08-12 |
 | [Lucky You \(feat\. Joyner Lucas\)](https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:04 | 2023-02-07 |  |
 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 | 2023-09-12 | 2025-01-18 |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-10 | 2024-09-13 |
@@ -164,6 +164,7 @@
 | [Simon Says](https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5) | 2:53 | 2023-09-12 | 2024-01-15 |
 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 | 2024-01-12 | 2024-04-19 |
 | [SKYLINE](https://open.spotify.com/track/2qn8UgOBzaKF3luvJxDWWp) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [SKYLINE](https://open.spotify.com/album/30vHn0s0oD01zHExU2JY2k) | 3:18 | 2024-09-13 | 2024-11-12 |
+| [SPAZZZ](https://open.spotify.com/track/2gTKgf5amk8BvHY5VSd9GS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [SPAZZZ](https://open.spotify.com/album/6F0OQcX9dLeQwFQ5NLpTNK) | 3:16 | 2026-08-07 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-09-12 | 2026-03-19 |
 | [Starboy \- Kygo Remix](https://open.spotify.com/track/6LJFgCd9wU2VptHEwz2Wl3) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Starboy \(Kygo Remix\)](https://open.spotify.com/album/4rGQxBDZ4hHCKePXaYOTSB) | 4:04 | 2024-09-13 |  |
 | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Still Be Friends \(feat\. Tory Lanez & Tyga\)](https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY) | 3:33 | 2023-09-12 |  |

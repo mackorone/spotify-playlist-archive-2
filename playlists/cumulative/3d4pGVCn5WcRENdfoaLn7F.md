@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-420 songs - 1 day 1 hr 13 min
+422 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Disaster](https://open.spotify.com/track/3aAMBTuhmlMEsKgLEyo4v1) | [Hearts Fail](https://open.spotify.com/artist/0g30Kbxw2uxutv0sMGk80s) | [You Are Never Alone](https://open.spotify.com/album/1J5WUaoUFhuSjE0Z3mpwMs) | 5:34 | 2025-09-06 | 2026-01-05 |
 | [Distance](https://open.spotify.com/track/1PlyiUyljQJmnopGshRJSU) | [Hiding from Humans](https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8) | [Radio](https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH) | 3:35 | 2026-01-17 | 2026-02-25 |
 | [Doc Holliday](https://open.spotify.com/track/3OohvRQPyZSKfyAeg1ph9A) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Doc Holliday](https://open.spotify.com/album/4XByeZcCRXXAl1jjnHGfro) | 4:49 | 2026-05-06 | 2026-05-26 |
+| [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 | 2026-08-11 |  |
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-04 | 2025-12-06 |
 | [Down and Out](https://open.spotify.com/track/4FijKBMTSLv63uXNh3qM1e) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Down and Out](https://open.spotify.com/album/6Hg0NRmmjjjjaBKYqG3nGh) | 3:42 | 2026-04-11 | 2026-05-26 |
 | [Drugstore Cowboy](https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI) | [Krooked Tongue](https://open.spotify.com/artist/1KURu1cYKhnrpZ8W1sGynh) | [Drugstore Cowboy](https://open.spotify.com/album/30lF61DTj8x7Ep1htMWuyw) | 3:41 | 2025-10-31 | 2025-12-06 |
@@ -206,6 +207,7 @@
 | [LIGHTHOUSE](https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 2:56 | 2026-06-29 | 2026-08-08 |
 | [Lithium](https://open.spotify.com/track/4f6eNSvw58g7nm47pXtbMH) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:32 | 2026-01-01 | 2026-01-21 |
 | [Little Demon](https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Little Demon](https://open.spotify.com/album/6WUXUmnb4DMvyDKyfRg3W7) | 3:47 | 2026-07-18 |  |
+| [Lloyd Dobler](https://open.spotify.com/track/5H59SgewBgxf43cOiT6Y7L) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [SOREN'S HOME II](https://open.spotify.com/album/7HpquLyhvRVx1YjoPWl5t0) | 2:40 | 2026-08-11 |  |
 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 | 2026-04-04 |  |
 | [Loser](https://open.spotify.com/track/5ksHTPVHRiLAXsXnJPZbAF) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:13 | 2026-08-03 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2025-11-20 | 2025-12-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every friday, by INDIE EDITORS Cover: This is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289,260 likes - 200 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,183 likes - 200 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 199 | [Reelin](https://open.spotify.com/track/2IUAGDffoWoasAGUPu5sM5) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Reelin](https://open.spotify.com/album/62Jnh12nK2w9rKee5BYNwE) | 2:42 |
 | 200 | [PQC](https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [PQC](https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY) | 3:32 |
 
-Snapshot ID: `AAAAANRNdaS+Ddlr4bpl8dZ2qoJp+G5O`
+Snapshot ID: `AAAAAIvi9hgAEZAde5iWoAOdzsiy9TiK`

@@ -1,12 +1,12 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55185,
+  "num_followers": 55189,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3iXPCI9Bo4IGnPghvtYrLmLUMn",
+  "snapshot_id": "AAAAAOPUiEsntrtZw15zNNISvb82adOK",
   "tracks": [
     {
       "added_at": "2026-08-07 10:55:48",
@@ -83,22 +83,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 163593,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "Calm Current",
         "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2g4iQQOFPBFsFJYKpTo1Fk"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 163593,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -159,18 +159,18 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Maru",
-        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
         }
       ],
-      "duration_ms": 167978,
-      "name": "Maru",
-      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -191,18 +191,18 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+        "name": "Maru",
+        "url": "https://open.spotify.com/album/6ViM3Un8Bka8ToQXC92QFr"
       },
       "artists": [
         {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+      "duration_ms": 167978,
+      "name": "Maru",
+      "url": "https://open.spotify.com/track/14rLUUlDJTGPO0IOvAviss"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "BEAU PAYSAGE",
-        "url": "https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT"
-      },
-      "artists": [
-        {
-          "name": "orbe",
-          "url": "https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J"
-        }
-      ],
-      "duration_ms": 348805,
-      "name": "BEAU PAYSAGE",
-      "url": "https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "Shin",
         "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 225152,
       "name": "Shin",
       "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "BEAU PAYSAGE",
+        "url": "https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT"
+      },
+      "artists": [
+        {
+          "name": "orbe",
+          "url": "https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J"
+        }
+      ],
+      "duration_ms": 348805,
+      "name": "BEAU PAYSAGE",
+      "url": "https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -567,38 +567,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Yura Yura",
-        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
-      },
-      "artists": [
-        {
-          "name": "paniyolo",
-          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Yura Yura",
-      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "Silently Beats",
         "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
       },
@@ -615,6 +583,22 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
+        "name": "Yura Yura",
+        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
+      },
+      "artists": [
+        {
+          "name": "paniyolo",
+          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Yura Yura",
+      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
         "name": "wave wave wave",
         "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 294193,
       "name": "The Next vacation",
       "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "UP AND DOWN Original Soundtrack",
-        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
-      },
-      "artists": [
-        {
-          "name": "Marihiko Hara",
-          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
-        }
-      ],
-      "duration_ms": 189696,
-      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "Resting Place",
         "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
       },
@@ -731,6 +715,38 @@
       "duration_ms": 189723,
       "name": "Resting Place",
       "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "UP AND DOWN Original Soundtrack",
+        "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
+      },
+      "artists": [
+        {
+          "name": "Marihiko Hara",
+          "url": "https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm"
+        }
+      ],
+      "duration_ms": 189696,
+      "name": "\u304a\u306f\u306a\u3057\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "Connection",
+        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -767,22 +783,6 @@
       "duration_ms": 149333,
       "name": "qutie",
       "url": "https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
-        "name": "Connection",
-        "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
-      },
-      "artists": [
-        {
-          "name": "Night Tempo",
-          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "Breezy",
-      "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1011,42 +1011,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "bed (rework)",
-        "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
-      },
-      "artists": [
-        {
-          "name": "\u6a2a\u5c71\u8d77\u6717",
-          "url": "https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr"
-        },
-        {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
-        }
-      ],
-      "duration_ms": 235339,
-      "name": "bed - rework",
-      "url": "https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
-        "name": "The Color and the Light",
-        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
-      },
-      "artists": [
-        {
-          "name": "Jesse Blake",
-          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
-        }
-      ],
-      "duration_ms": 295058,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "re: Sound Of Light",
         "url": "https://open.spotify.com/album/24R74RGaArQFDwqz8LzYp0"
       },
@@ -1083,22 +1047,38 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Touch the Sky",
-        "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
+        "name": "The Color and the Light",
+        "url": "https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8"
       },
       "artists": [
         {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
-        },
-        {
-          "name": "Gyrefunk",
-          "url": "https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u"
+          "name": "Jesse Blake",
+          "url": "https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X"
         }
       ],
-      "duration_ms": 222985,
-      "name": "Touch the Sky",
-      "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
+      "duration_ms": 295058,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "bed (rework)",
+        "url": "https://open.spotify.com/album/55TlZbTAmCgXIS1aGdQgRS"
+      },
+      "artists": [
+        {
+          "name": "\u6a2a\u5c71\u8d77\u6717",
+          "url": "https://open.spotify.com/artist/0vlT69d2LzCebohSPMktHr"
+        },
+        {
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
+        }
+      ],
+      "duration_ms": 235339,
+      "name": "bed - rework",
+      "url": "https://open.spotify.com/track/2KsL8zTHdhq9UCoQS828JR"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1143,6 +1123,26 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
+        "name": "Touch the Sky",
+        "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        },
+        {
+          "name": "Gyrefunk",
+          "url": "https://open.spotify.com/artist/7eQEQLV4hM1kD1K0tKjI9u"
+        }
+      ],
+      "duration_ms": 222985,
+      "name": "Touch the Sky",
+      "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
         "name": "cycling break",
         "url": "https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP"
       },
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
+        "name": "flowingtime",
+        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
+      },
+      "artists": [
+        {
+          "name": "Otokaze",
+          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Colony",
+      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
         "name": "It Hurts to Love You (it meant a lot)",
         "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
-        "name": "flowingtime",
-        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
-      },
-      "artists": [
-        {
-          "name": "Otokaze",
-          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Colony",
-      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1283,42 +1283,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Blue Notes",
-        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
-      },
-      "artists": [
-        {
-          "name": "Sol Rising",
-          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
-        },
-        {
-          "name": "Max Ribner",
-          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
-        }
-      ],
-      "duration_ms": 198369,
-      "name": "Blue Notes",
-      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
-        "name": "Jetty (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 69720,
-      "name": "Boardwalk",
-      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "Night Owl Dream",
         "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
       },
@@ -1347,6 +1311,42 @@
       "duration_ms": 196875,
       "name": "Ghost Town - Side-B",
       "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "Jetty (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 69720,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "Blue Notes",
+        "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
+      },
+      "artists": [
+        {
+          "name": "Sol Rising",
+          "url": "https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv"
+        },
+        {
+          "name": "Max Ribner",
+          "url": "https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY"
+        }
+      ],
+      "duration_ms": 198369,
+      "name": "Blue Notes",
+      "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        },
-        {
-          "name": "Sherry W",
-          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "Generic",
         "url": "https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 191875,
       "name": "Generic",
       "url": "https://open.spotify.com/track/5ljunHfdK4WvqK4eQo5MI9"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        },
+        {
+          "name": "Sherry W",
+          "url": "https://open.spotify.com/artist/1VRYoddmAxzr1h41tzCwms"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "see",
-        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
-      },
-      "artists": [
-        {
-          "name": "sorami",
-          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "see",
-      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "falling asleep.",
         "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 194000,
       "name": "falling asleep.",
       "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "see",
+        "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
+      },
+      "artists": [
+        {
+          "name": "sorami",
+          "url": "https://open.spotify.com/artist/2AkZ0l1SsJQbUsHDoI1x98"
+        }
+      ],
+      "duration_ms": 207613,
+      "name": "see",
+      "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "\u30a2\u30a4\u30eb",
-        "url": "https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ"
+        "name": "FADE AWAY",
+        "url": "https://open.spotify.com/album/4dXqGDJUhy6JUqulb1aAP1"
       },
       "artists": [
         {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+          "name": "JIDA",
+          "url": "https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b"
+        },
+        {
+          "name": "Rachel Lim",
+          "url": "https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc"
         }
       ],
-      "duration_ms": 245500,
-      "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
-      "url": "https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ"
+      "duration_ms": 213098,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/523JhlyXKv5nUyRUFbYSlS"
     }
   ],
   "unique_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",

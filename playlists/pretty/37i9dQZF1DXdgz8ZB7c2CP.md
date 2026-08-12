@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a> 🐺 featuring Jai Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,495 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,522 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 99 | [tell you straight](https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [tell you straight](https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq) | 2:04 |
 | 100 | [PUT IT DOWN \- Jkyl & Hyde Remix](https://open.spotify.com/track/46WqNBxyjLaxbHMM4BKTA2) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [PUT IT DOWN \(Jkyl & Hyde Remix\)](https://open.spotify.com/album/5DjMcPsSEQpWcECwAT0mKp) | 3:14 |
 
-Snapshot ID: `AAAAALoewCKeIyjnqLhEdqM0mz0XqADf`
+Snapshot ID: `AAAAACcG/9E0kz39VJCd2VKGq2QoDZgK`

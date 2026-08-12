@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 820 likes - 56 songs - 3 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 825 likes - 58 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 54 | [Marie](https://open.spotify.com/track/0UukYGJDTeWAhEg2pz5yR8) | [Skyway](https://open.spotify.com/artist/7Gls7YN8kthen9FXXWIM3R) | [Time To Be Alive](https://open.spotify.com/album/6QRatbdQi9sUQfP7o5sN82) | 3:00 |
 | 55 | [Black Fruit No\. 2](https://open.spotify.com/track/3XZWRUFdjhhVIQviLZvPe7) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Black Fruit No\. 2](https://open.spotify.com/album/0lLLS72NE9M0msnI5PcfUS) | 3:57 |
 | 56 | [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 |
+| 57 | [Don't Call](https://open.spotify.com/track/6mezWgu1bwXF0AUsbJOIhe) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 2:18 |
+| 58 | [Lloyd Dobler](https://open.spotify.com/track/5H59SgewBgxf43cOiT6Y7L) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [SOREN'S HOME II](https://open.spotify.com/album/7HpquLyhvRVx1YjoPWl5t0) | 2:40 |
 
-Snapshot ID: `AAAD4k0QrkgKy7cXFZB1oEPqXKFbgKJb`
+Snapshot ID: `AAAD5HO4+ksuEW31Rmt5D58mb5B78zVu`

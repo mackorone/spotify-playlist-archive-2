@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : DC",
-  "num_followers": 758373,
+  "num_followers": 758516,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhSYtdWU37I6B21c9t8GwmQuPNO",
+  "snapshot_id": "AAAAACB/HvM3zusazUPZMjdyLj1lh9TF",
   "tracks": [
     {
       "added_at": "2026-08-03 04:59:13",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
     },
     {
+      "added_at": "2026-08-07 10:36:26",
+      "album": {
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 157013,
+      "name": "Vetta Karuppu Game Begins",
+      "url": "https://open.spotify.com/track/1lGh7Np4yXwHlqYKYgWfEV"
+    },
+    {
       "added_at": "2026-08-04 10:26:43",
       "album": {
         "name": "The One Rule (From \"Vishwanath & Sons\")(Tamil)",
@@ -105,20 +121,24 @@
       "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
     },
     {
-      "added_at": "2026-08-07 10:36:26",
+      "added_at": "2026-08-07 06:02:36",
       "album": {
-        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
-        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
       },
       "artists": [
         {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
         }
       ],
-      "duration_ms": 157013,
-      "name": "Vetta Karuppu Game Begins",
-      "url": "https://open.spotify.com/track/1lGh7Np4yXwHlqYKYgWfEV"
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-07-19 03:08:15",
@@ -167,26 +187,6 @@
       "duration_ms": 195744,
       "name": "The Wedding Song (From \"Vishwanath & Sons\")(Tamil)",
       "url": "https://open.spotify.com/track/0Y8hFPjJk8Kh4gJnfbYg1j"
-    },
-    {
-      "added_at": "2026-08-07 06:02:36",
-      "album": {
-        "name": "Pesamale",
-        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
-      },
-      "artists": [
-        {
-          "name": "Siri Xander",
-          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
-        },
-        {
-          "name": "Arra Aria Khayal",
-          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Pesamale",
-      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-07-23 08:03:05",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/2ay9nEL0Fkw1ZxZZVTvxju"
     },
     {
+      "added_at": "2026-08-11 11:08:38",
+      "album": {
+        "name": "Bloody Band (From \"DC\")",
+        "url": "https://open.spotify.com/album/3DP9NGKiVtifrv6hJXBehZ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 156176,
+      "name": "Bloody Band (From \"DC\")",
+      "url": "https://open.spotify.com/track/6HaqRVq9t26NjWNhH193V4"
+    },
+    {
       "added_at": "2026-08-07 10:36:26",
       "album": {
         "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
@@ -319,38 +335,6 @@
       "duration_ms": 258993,
       "name": "Ekavali (From \"Renigunta 2\")",
       "url": "https://open.spotify.com/track/40rsaNsQOa4jFd15CvdUFX"
-    },
-    {
-      "added_at": "2026-08-06 11:17:55",
-      "album": {
-        "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
-        "url": "https://open.spotify.com/album/5rexeAC6WM1rkFNnRQaHVs"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Mathichiyam Bala",
-          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        },
-        {
-          "name": "Elan",
-          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
-        },
-        {
-          "name": "VENGAYO",
-          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
-        }
-      ],
-      "duration_ms": 178530,
-      "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
-      "url": "https://open.spotify.com/track/1cTduCpvpyg6XdDS9MwOUT"
     },
     {
       "added_at": "2026-08-07 10:25:57",
@@ -429,6 +413,30 @@
       "url": "https://open.spotify.com/track/2BzXM1aKE5xFBabPGWfpIX"
     },
     {
+      "added_at": "2026-06-19 13:18:18",
+      "album": {
+        "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
+        "url": "https://open.spotify.com/album/4hwIPgr2dJLoAa7smPsbE4"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Arunraja Kamaraj",
+          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
+      "url": "https://open.spotify.com/track/1DgQIai8yxUNhNeYVfaqT9"
+    },
+    {
       "added_at": "2026-08-07 10:36:26",
       "album": {
         "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
@@ -469,6 +477,30 @@
       "url": "https://open.spotify.com/track/2WB5hsoW6J1o64jAFm5cZ7"
     },
     {
+      "added_at": "2026-08-11 11:08:38",
+      "album": {
+        "name": "Arugey Arugey (From \"I'M Game - Tamil\")",
+        "url": "https://open.spotify.com/album/0cJqYGf12nRfm1hYbNgj3i"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 264418,
+      "name": "Arugey Arugey - From \"I'M Game - Tamil\"",
+      "url": "https://open.spotify.com/track/2hExMHPo41sESrORZPXf65"
+    },
+    {
       "added_at": "2026-08-07 10:45:48",
       "album": {
         "name": "Mannaru",
@@ -505,28 +537,36 @@
       "url": "https://open.spotify.com/track/40z4C1EQcBw4XeotvcaKRU"
     },
     {
-      "added_at": "2026-06-19 13:18:18",
+      "added_at": "2026-08-06 11:17:55",
       "album": {
-        "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
-        "url": "https://open.spotify.com/album/4hwIPgr2dJLoAa7smPsbE4"
+        "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+        "url": "https://open.spotify.com/album/5rexeAC6WM1rkFNnRQaHVs"
       },
       "artists": [
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
         },
         {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+          "name": "Mathichiyam Bala",
+          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
         },
         {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        },
+        {
+          "name": "VENGAYO",
+          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Pattampoochi (From \"Vishwanath & Sons\")(Tamil)",
-      "url": "https://open.spotify.com/track/1DgQIai8yxUNhNeYVfaqT9"
+      "duration_ms": 178530,
+      "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+      "url": "https://open.spotify.com/track/1cTduCpvpyg6XdDS9MwOUT"
     },
     {
       "added_at": "2026-07-06 12:23:12",

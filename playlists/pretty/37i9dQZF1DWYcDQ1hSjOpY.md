@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,211,733 likes - 353 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,212,586 likes - 353 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 52 | [Somae](https://open.spotify.com/track/7vzLL4nOoxwcrgdhLjtM07) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Somae](https://open.spotify.com/album/0uroKcbnRPgLaz6xyksVFn) | 2:43 |
 | 53 | [Evolving](https://open.spotify.com/track/77CwoUlyvtahUd8xbbH23O) | [Red Ripples](https://open.spotify.com/artist/0j3jW3YwTwnn46zLTuWNhq) | [Evolving](https://open.spotify.com/album/5VDQr8rbDnFj8URgc6SEtl) | 2:34 |
 | 54 | [Vacancy](https://open.spotify.com/track/0k9zOyKY1RIEp1eOQdLjP8) | [Sonical Serenity](https://open.spotify.com/artist/5efTlkpka6MMoEpB3QXXYM) | [Vacancy](https://open.spotify.com/album/1APBrqA9gbBiyDNlHMezzC) | 2:45 |
-| 55 | [Amber Drift](https://open.spotify.com/track/1W8mTQkijEhqkfzubYY80R) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [Amber Drift](https://open.spotify.com/album/1JABfmSeY0DPdZ5ez1Nn8z) | 2:45 |
+| 55 | [Amber Drift](https://open.spotify.com/track/1W8mTQkijEhqkfzubYY80R) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP), [Between Pages](https://open.spotify.com/artist/5cfEtlt3DAdiHabSH75X7l) | [Amber Drift](https://open.spotify.com/album/1JABfmSeY0DPdZ5ez1Nn8z) | 2:45 |
 | 56 | [Embraced](https://open.spotify.com/track/1VuHvIO8KO9zeR5dmqSbYL) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Embraced](https://open.spotify.com/album/4H1vAQZ4xwVEf6oFVgGzGy) | 2:52 |
 | 57 | [Whispers](https://open.spotify.com/track/6hHpBvnX67RLcxh4rWa92E) | [Zenful Whispers](https://open.spotify.com/artist/5oeOZtGEVoT5yeFYvnGBya) | [Whispers](https://open.spotify.com/album/2Unk20ePub65iFCkQd5d4N) | 3:07 |
 | 58 | [Gradient](https://open.spotify.com/track/1XAH1s20v2hBj8H6tJQ42p) | [Lunabae](https://open.spotify.com/artist/7yYEiQ59ecj1ZaKyse42Tc) | [Gradient](https://open.spotify.com/album/06KUFZxCRdkEmceKHDFKMC) | 2:34 |
@@ -362,4 +362,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 352 | [Lost In Yesterday](https://open.spotify.com/track/1vtoQy0Bltfse2ZTMSUdfY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Lost In Yesterday](https://open.spotify.com/album/6AmGlVejoRSFNIT18eo7R3) | 2:40 |
 | 353 | [Contemplation](https://open.spotify.com/track/3VFmHInobdXT3lAYhQoKJi) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Contemplation](https://open.spotify.com/album/3i02hPApQdUfXhQHH2ifCp) | 3:25 |
 
-Snapshot ID: `AAAAAHFek3lJuOeYTK8dM495W77Qdgc4`
+Snapshot ID: `AAAAAOsvyiwKHXHi6PcmseNetcPWQ4r8`

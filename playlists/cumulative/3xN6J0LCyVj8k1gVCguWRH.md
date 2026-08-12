@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,413 songs - 14 day 22 hr 54 min
+6,414 songs - 14 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1932,6 +1932,7 @@
 | [Float \- feat\. Jim Adkins](https://open.spotify.com/track/55ajMXRw1koPLQiG5jOXf1) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Jim Adkins](https://open.spotify.com/artist/0Zh8szcqjar4shjPoWJHTc) | [Belong](https://open.spotify.com/album/2sdK35lVZvkcOvztZYpG3a) | 3:27 | 2025-12-18 | 2026-02-02 |
 | [Floating](https://open.spotify.com/track/3m9zGSLMJQEGQMafEwty7l) | [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [Floating](https://open.spotify.com/album/1SfCkbDZNt4umXP4PNINBE) | 2:59 | 2026-05-07 | 2026-06-07 |
 | [Floating on Air](https://open.spotify.com/track/56cdUMV5peqmwP3946cCGx) | [Ambient Sleep](https://open.spotify.com/artist/60jnkxjFq9yCtCfijm4f4x) | [Anxiety Release and Meditative States](https://open.spotify.com/album/5WtoPjidr4EVpSZErJeVMo) | 2:24 | 2026-03-22 | 2026-04-03 |
+| [Flow Arabe](https://open.spotify.com/track/7H0f7PFqeX3bWiQ7MSuwGN) | [Don Killer](https://open.spotify.com/artist/0WgrqbamncDB0IL21zO6iF) | [Flores Negras](https://open.spotify.com/album/4qzQFpZMJHqicUV3ETUlmK) | 2:18 | 2026-08-11 |  |
 | [Flower](https://open.spotify.com/track/49r8KQDs5IkIxs10tTBfY2) | [Adom](https://open.spotify.com/artist/5cp4XJR0TgFBtT5jbHk1Dl) | [Flower](https://open.spotify.com/album/7tF4SlJfRqeYsdoA0q4Pf1) | 2:51 | 2022-12-09 | 2023-05-30 |
 | [Flowers](https://open.spotify.com/track/2dT2ng9hFxCMjW0sWhKnqP) | [Edor](https://open.spotify.com/artist/1ULXAsr3CfTmuwvwsJR36a) | [Myself](https://open.spotify.com/album/58YLhewWS1Ri1baYlWerU3) | 2:57 | 2021-06-04 | 2021-06-20 |
 | [Flowers](https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso) | [Flowers](https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2) | 2:56 | 2026-03-02 | 2026-04-04 |

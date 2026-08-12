@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,930 likes - 200 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,943 likes - 200 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 199 | [Lethe](https://open.spotify.com/track/6Cmb7gj7OucjhOUZ7nm7YU) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Lethe](https://open.spotify.com/album/4xYHFpYfmR8XMjhQw24CkO) | 2:39 |
 | 200 | [Candlelight](https://open.spotify.com/track/19PBGxKb4vebSTZGhlc9uh) | [Slepth](https://open.spotify.com/artist/3sKO7LRCv1v7joHE7Hpbql) | [Candlelight](https://open.spotify.com/album/5qbbUnPUJYw8cxXT9a73yc) | 2:43 |
 
-Snapshot ID: `AAAAANkAEHE7wtfmy8MnLw0YjrbfCBWl`
+Snapshot ID: `AAAAADCPTq/tMVe337yUDlOoeYjqa+FQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Pooh Shiesty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,477 likes - 102 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,610 likes - 102 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 16 | [MONSTER](https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [MONSTER](https://open.spotify.com/album/67UBaBuoT0TiWBOmaa7T4k) | 2:37 |
 | 17 | [Living Large](https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Set In Stone](https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB) | 2:28 |
 | 18 | [MANE](https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [MANE](https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H) | 3:17 |
-| 19 | [HERE AND THERE ft LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
+| 19 | [HERE AND THERE FT LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
 | 20 | [Good At It](https://open.spotify.com/track/2wI7XSysVR8ZjfLFjJh4DU) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4) | [Street Fanci 5](https://open.spotify.com/album/2hbLrnDfRSzuTJaguW2g77) | 2:42 |
 | 21 | [They Can’t Count](https://open.spotify.com/track/5wYRluwyyBS5lkPHzEvikU) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [They Can’t Count](https://open.spotify.com/album/0j5uHtWI3vVZlbMuviaTfK) | 2:01 |
 | 22 | [I SEE RED \(feat\. FATT SMAXK\)](https://open.spotify.com/track/1kcJM16RbeZLiHugHb7PMh) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Still Dangerous](https://open.spotify.com/album/7s4NBjgfxAAOETtqwRIvRV) | 2:18 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 101 | [Feeling On My Body](https://open.spotify.com/track/5AIKM6zNiPi00rbWPnEq80) | [Taffy](https://open.spotify.com/artist/7hjNO6RQeqZIBZpZQdstUO), [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Feeling On My Body](https://open.spotify.com/album/50owKb2Oo4FXVBpsxBwxSq) | 2:37 |
 | 102 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 |
 
-Snapshot ID: `AAAAAGncONLaRMdxHuqrqk0UcTCjUSqo`
+Snapshot ID: `AAAAAAO6F3k83JYMZqBYNotb3u/byktJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,484 likes - 59 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,487 likes - 59 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 58 | [Mala Vita](https://open.spotify.com/track/75QFWXuAuKhrrMXg4o8HSI) | [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [Ank Beats](https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W) | [Mala Vita](https://open.spotify.com/album/7FBuEImstQqIga0n66HbML) | 2:17 |
 | 59 | [ARAGORN](https://open.spotify.com/track/1EplyD8aYp2lujM3Vjs3Mz) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Misk](https://open.spotify.com/artist/4JMMgnz7NNpnj5okuoV7Xx) | [ARAGORN](https://open.spotify.com/album/26R30prhxm1bgA3fHuzqKz) | 4:25 |
 
-Snapshot ID: `AAAAAPY/6KRIx0Go2fYjtulSPcf+pa8N`
+Snapshot ID: `AAAAAMxUDWmvkvemKweff8mEmrxDrEvM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > KAROL G x Bruno Mars, Tayc x Didi B, Alex Warren et Amelie Lens x Angèle au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,506 likes - 72 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,473 likes - 72 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 71 | [Vacation \- \(Anywhere You Wanna Go\)](https://open.spotify.com/track/5j1Lga2clyZfkwlX4YDB3Z) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Vacation \(Anywhere You Wanna Go\)](https://open.spotify.com/album/0mi47rdTlmgbB1INvs5tBB) | 2:50 |
 | 72 | [Les artistes sont des lâches](https://open.spotify.com/track/6U545byUmlOJgk1omR7muF) | [Keny Arkana](https://open.spotify.com/artist/0Q5EUbHvUWlYpSwmKKbUSF) | [Les artistes sont des lâches](https://open.spotify.com/album/3gkidXCmfGawP4ZUZ1xzV2) | 2:23 |
 
-Snapshot ID: `AAAAAJEY2gok9Nc26qx56ka2ILOzWNWe`
+Snapshot ID: `AAAAANgt7jGjUTWoWfcX5dKvp4HW8RIT`

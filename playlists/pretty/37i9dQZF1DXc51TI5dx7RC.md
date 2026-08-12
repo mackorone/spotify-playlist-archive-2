@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Mirrr, BLVCKHEART
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,333 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,362 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 49 | [รู้ตัวอีกที](https://open.spotify.com/track/7kiPXq1mQ8yakcIYmqrw6t) | [Sexski](https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ) | [รู้ตัวอีกที](https://open.spotify.com/album/4r1iXiLyOrHnfn0v3NADld) | 3:10 |
 | 50 | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/album/4hnaPredSGZI91cmD8WqGB) | 3:31 |
 
-Snapshot ID: `AAAAAGW2QX5DFYup/YBxB6Am+hnGTFnN`
+Snapshot ID: `AAAAANPdWCJAR5DFOsRW+dD26KfyaVpL`

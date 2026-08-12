@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "album": {
         "name": "AIR FORCE BLANCHE",
         "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
       },
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 135000,
       "name": "CRASHOUT FREESTYLE",
       "url": "https://open.spotify.com/track/4wbXc63MjufLUCXLnIW8B5"
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 185377,
       "name": "Ghetto Superstars",
       "url": "https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S"
@@ -3238,6 +3256,24 @@
       "duration_ms": 189048,
       "name": "How To Heal",
       "url": "https://open.spotify.com/track/3s8dyCHLhV2Ha162qEoNaw"
+    },
+    {
+      "album": {
+        "name": "Huus boue",
+        "url": "https://open.spotify.com/album/5yYZlpNCsoHOh3szzv5Qaq"
+      },
+      "artists": [
+        {
+          "name": "Baschi",
+          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "Huus boue",
+      "url": "https://open.spotify.com/track/7uSFyEYZZ0i230hsyiLe9R"
     },
     {
       "album": {
@@ -4032,6 +4068,24 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {

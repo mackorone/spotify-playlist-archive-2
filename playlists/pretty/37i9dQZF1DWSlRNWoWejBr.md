@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,724 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,888 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 49 | [Ele Carrega Minha Bolsa](https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr) | [dj andreoli](https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa), [TOMAS](https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF), [DJ Kayque](https://open.spotify.com/artist/6nNrD1epadXGS9JVOWf0x2) | [Ele Carrega Minha Bolsa](https://open.spotify.com/album/3Qrmx9hrVlLzCULW9H5rxl) | 2:13 |
 | 50 | [Equipe Caos](https://open.spotify.com/track/6UveejVb6aioPKeamhz1nE) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Biurifol](https://open.spotify.com/artist/6kHgGRuWCJ5FpbieBncl9X), [Mc Mylla](https://open.spotify.com/artist/5y1arZoe6vuqNqEECfFTIq), [DJ Emige](https://open.spotify.com/artist/7Bwy2izsR02avTMcKR6EOr), [Mais Alto](https://open.spotify.com/artist/6ArlLCqc3gl1ASDpaK19qr) | [Equipe Caos](https://open.spotify.com/album/3g7tO5O1qKMYhVoA7NuaCR) | 3:03 |
 
-Snapshot ID: `AAAAAKPuO93wEgBaoX/YrejsX/hPr5QS`
+Snapshot ID: `AAAAAPxHz0EuDeD9WrKDGRUs1Ngca3En`

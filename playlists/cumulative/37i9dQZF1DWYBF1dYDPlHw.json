@@ -5842,7 +5842,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 394173,
       "name": "One Day Like This",
       "url": "https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb"
@@ -6008,6 +6008,24 @@
       "duration_ms": 274320,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2026-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183894,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/2MYidPOz5NHAtKUySTzbwx"
     },
     {
       "album": {

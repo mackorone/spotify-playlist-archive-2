@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Dimitri Vegas & Sylver
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,481 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,472 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 75 | [State Of Mind](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
 | 76 | [Nite Rite Gamma](https://open.spotify.com/track/3UzW5id2hmsOLxICHYRqLl) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Finchy](https://open.spotify.com/artist/4FfZTVelwN3QSK8ZvGHXZ2) | [Nite Rite: Alpha, Beta, Gamma, Delta E.P.](https://open.spotify.com/album/5R3SBiv5TWtbzn8kiyXLUN) | 3:46 |
 | 77 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
-| 78 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/6CMx10yU6I5bZzelgQ2NEa), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 |
+| 78 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/2lkpWTHHz2wqjXk5cLTc4I), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 |
 | 79 | [Summer Jam](https://open.spotify.com/track/0hPJu90W3jFiTSogvXTm3A) | [TLM](https://open.spotify.com/artist/7wV0mwdNBRSZ7vCaEPCGME), [Tjade](https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh), [Lucky Done Gone](https://open.spotify.com/artist/1eKMhcfR1J5oGdmcOiVA1n), [Moody Mehran](https://open.spotify.com/artist/1FtldHhVu3BpGvaiwaPE5K), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7) | [Summer Jam](https://open.spotify.com/album/6wdCgtpAuoLv5w5FAQJ2Rg) | 3:49 |
 | 80 | [You Make Me Feel Alive](https://open.spotify.com/track/7qyyRciWnIXp1Bv56xnFrm) | [Bobby & Djenko](https://open.spotify.com/artist/66FPEh7FWHOM30bckLmOux) | [Burning Up EP](https://open.spotify.com/album/0BaMRGO3uK8zIa6SESoVjq) | 3:47 |
 | 81 | [Tshanduko](https://open.spotify.com/track/7Lo8J2w9i9l3vCVQjVjHNo) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [Jordy Wess](https://open.spotify.com/artist/6zEOPtIsNzR1O6fKKWWJDX), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Tshanduko](https://open.spotify.com/album/1zunE8X7YMvL8fHWLWiRy6) | 3:16 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 95 | [On & On \(Shots in Zante\)](https://open.spotify.com/track/7bUcwlEVIaBndm7LCSgJwn) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Tom Hall](https://open.spotify.com/artist/467yXfSwNLfBmxeaTp7rQo), [Billy Young](https://open.spotify.com/artist/4S4CrQmGnnYLokMkV9F33Y) | [On & On \(Shots in Zante\)](https://open.spotify.com/album/3tR4yuJy4ceiIvWS40S8as) | 2:00 |
 | 96 | [Fuego On My USB](https://open.spotify.com/track/2FbFT19G7Tf9WtpDzmmfTh) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Fuego On My USB](https://open.spotify.com/album/5danirARXIoVSj4xcjdRKn) | 2:44 |
 
-Snapshot ID: `AAAAAKsGZkJ66EcFi8SCLIr9I6FPkIwM`
+Snapshot ID: `AAAAAKrqvh0nJDD6tKbBFogsR462IS/z`

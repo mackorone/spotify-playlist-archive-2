@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,265 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,252 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 99 | [Kirves](https://open.spotify.com/track/5sSvoq9yhc4Bcb4vOYXYOU) | [Kullervo](https://open.spotify.com/artist/39KHP6jiqcSRQRO9KOXbBs) | [Kirves](https://open.spotify.com/album/3UeQl9EHnRfV13yp16FUVR) | 2:36 |
 | 100 | [Olé](https://open.spotify.com/track/2556VUiY8z521j1h7sWjLV) | [Horse Attack Sqwad](https://open.spotify.com/artist/24LKxLWbV018hPbn5YQ34K) | [Rysdyk](https://open.spotify.com/album/2iM1T9fMPSGtXrCOYIKfwZ) | 3:07 |
 
-Snapshot ID: `AAAAAKRB/2GA1dUF7blifwYmS8pg4RQj`
+Snapshot ID: `AAAAAIsu/iO0s10cs/0rDYgmqChKlKfM`

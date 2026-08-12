@@ -1,12 +1,12 @@
 {
   "description": "Antoon kiest 20 bangers voor zomer ID \ud83d\udd76\ufe0f main character summer <a href=\"spotify:genre:0JQ5DAqbMKFHoCrqEupC7P\">Welke zomer ID ben jij?</a>",
-  "num_followers": 314153,
+  "num_followers": 314135,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOvrtDunyXoLj88joULlQZK5wSjz",
+  "snapshot_id": "AAAAANSv9GjatwymxqOlR9ofU+H0pnrE",
   "tracks": [
     {
       "added_at": "2026-08-10 22:00:25",
@@ -75,22 +75,6 @@
       "duration_ms": 150620,
       "name": "Beetje Van Mij",
       "url": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
-    },
-    {
-      "added_at": "2026-08-10 22:00:25",
-      "album": {
-        "name": "Zonnebank",
-        "url": "https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E"
-      },
-      "artists": [
-        {
-          "name": "Ray & Beer",
-          "url": "https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt"
-        }
-      ],
-      "duration_ms": 184656,
-      "name": "Zonnebank",
-      "url": "https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK"
     },
     {
       "added_at": "2026-08-10 22:00:25",
@@ -411,6 +395,22 @@
       "duration_ms": 238067,
       "name": "Innerbloom - Radio Edit",
       "url": "https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf"
+    },
+    {
+      "added_at": "2026-08-10 22:00:25",
+      "album": {
+        "name": "Zonnebank",
+        "url": "https://open.spotify.com/album/6HGoeSFFyVHFMTis04Td9E"
+      },
+      "artists": [
+        {
+          "name": "Ray & Beer",
+          "url": "https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt"
+        }
+      ],
+      "duration_ms": 184656,
+      "name": "Zonnebank",
+      "url": "https://open.spotify.com/track/5MCBmUeV3b1Rmwzb99fjgK"
     },
     {
       "added_at": "2026-08-10 22:00:25",

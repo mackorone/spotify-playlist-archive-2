@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 504160,
+  "num_followers": 504205,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAABVhlmSc5LBzLMdTPRjnXwg",
+  "snapshot_id": "ankUgAAAAABI7RfkLrcTgPiAT47Pzeb/",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabbath Bloody Sabbath",
-        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
+        "name": "13",
+        "url": "https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 355746,
-      "name": "Sabbra Cadabra (2009 Remaster)",
-      "url": "https://open.spotify.com/track/1qdXodVqWyuzRKMDzAz1Xe"
+      "duration_ms": 532266,
+      "name": "God Is Dead?",
+      "url": "https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq"
+        "name": "Sabbath Bloody Sabbath",
+        "url": "https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 532266,
-      "name": "God Is Dead?",
-      "url": "https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo"
+      "duration_ms": 355746,
+      "name": "Sabbra Cadabra (2009 Remaster)",
+      "url": "https://open.spotify.com/track/1qdXodVqWyuzRKMDzAz1Xe"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headless Cross (2024 Remaster)",
-        "url": "https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 389226,
-      "name": "Headless Cross - 2024 Remaster",
-      "url": "https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seventh Star",
         "url": "https://open.spotify.com/album/16uFPGPWCJWvuiGwMVtYRw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 269453,
       "name": "No Stranger to Love - 2009 Remaster",
       "url": "https://open.spotify.com/track/2ygXPctQz2DlDqKONcPGDE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Headless Cross (2024 Remaster)",
+        "url": "https://open.spotify.com/album/6Si7gWvgXKnHwl1CORi05a"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 389226,
+      "name": "Headless Cross - 2024 Remaster",
+      "url": "https://open.spotify.com/track/5jt5p7HeK0QpJk1KmDPI5O"
     },
     {
       "added_at": null,

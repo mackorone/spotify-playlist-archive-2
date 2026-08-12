@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Frank van Etten
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,356 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,370 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Al Win Ik 10 Miljoen](https://open.spotify.com/track/6Lt1QW8Y7eO8rv2bdiTO1Q) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Al Win Ik 10 Miljoen](https://open.spotify.com/album/0NvmRdmQNK1iFfcSjGcl12) | 2:02 |
 | 100 | [Word Nou Niet Verliefd](https://open.spotify.com/track/1ZpATRatNBgDJbRRFVTiJI) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Word Nou Niet Verliefd](https://open.spotify.com/album/6cSjWRts5xNQwZDj3dsYZ0) | 2:51 |
 
-Snapshot ID: `AAAAAIF6yQ6yiGz89MjBPZaAHdP8mTwa`
+Snapshot ID: `AAAAAET54kQKX6FMUKTBSPUNRqnnyQDo`

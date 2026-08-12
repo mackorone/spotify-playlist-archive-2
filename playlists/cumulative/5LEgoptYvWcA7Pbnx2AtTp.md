@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-209 songs - 11 hr 39 min
+211 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/track/4BjIajLqiUhAUVnR854RJr) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/album/2quKDe4qshXgtiGogCHq5v) | 1:01 | 2022-05-06 | 2023-07-09 |
 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 | 2024-09-15 |  |
 | [Terry's Taxidermy](https://open.spotify.com/track/5JYQEV4kFJoEBFqADbdvSY) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Splittsville](https://open.spotify.com/album/5YbIovTXkJS00GlBNcdTeS) | 5:41 | 2023-04-01 |  |
+| [Texting & Driving](https://open.spotify.com/track/7vM2XjIZRTLQ3JmPezcHVr) | [GUPPY](https://open.spotify.com/artist/7h2unW7eZtsPqA2O46ai3Z) | [Something is Happening…](https://open.spotify.com/album/7DgxHSUA9QEZozUrlxhiI0) | 2:59 | 2026-08-11 |  |
 | [That's Me](https://open.spotify.com/track/32SHYXEJZkpsnJkcggucM0) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:15 | 2024-09-19 |  |
 | [The Bidding](https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 2:40 | 2022-05-06 |  |
 | [The Bureau](https://open.spotify.com/track/2lDGj4Pi8UuQIPQdi8M9Eu) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Hesitant Alien](https://open.spotify.com/album/6eIESGFbd6HVMqlO8e1mYT) | 2:37 | 2025-03-12 |  |
@@ -179,6 +180,7 @@
 | [The Communists Have the Music](https://open.spotify.com/track/1FxKw2GFlIinh2m7jjied5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [The Communists Have the Music](https://open.spotify.com/album/2aZQBVva4VopWmzXj2uoKr) | 2:27 | 2022-05-06 |  |
 | [The Cringe \(feat\. Patton Oswalt\)](https://open.spotify.com/track/3tHa6meN0d6j7GLtXX3cEX) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Patton Oswalt](https://open.spotify.com/artist/6YvKo1VtZxCoT8IkbAYswy) | [Crazy Ex\-Girlfriend: Season 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2iDGoikRLMHrmEHe6p1T8P) | 2:35 | 2024-10-14 |  |
 | [The Cult of Dionysus](https://open.spotify.com/track/4zg2zMNSI0W8ipGA32kKp5) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM) | [Cosmicandy](https://open.spotify.com/album/68OF44SIppyRCY9NTWrsK2) | 3:05 | 2024-12-09 |  |
+| [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 3:00 | 2026-08-11 |  |
 | [The Distance](https://open.spotify.com/track/1szwDbVdIdoQq5mG5GXAmJ) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/0xqBjioTJ32aszn90qV2m1) | 3:00 | 2025-04-22 |  |
 | [The Home Depot Beat](https://open.spotify.com/track/4euxYgIl5XEqUj5WB9lHNq) | [The Home Depot](https://open.spotify.com/artist/7tzPysmGf12PwEIQ8toFU6) | [The Home Depot Beat](https://open.spotify.com/album/3cflHXbTyEWMDg1ylyO7SS) | 0:35 | 2022-05-06 |  |
 | [The Lady and the Tiger](https://open.spotify.com/track/1jVGFo4Bw14GDGc1ht4G4n) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Join Us](https://open.spotify.com/album/69HFkyVMVy1b2aRLYBHG0i) | 2:55 | 2022-05-06 |  |

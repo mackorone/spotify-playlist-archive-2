@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,294 likes - 98 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,332 likes - 98 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 97 | [Your Light](https://open.spotify.com/track/6KEe574k65Sa3oOKKjKR6R) | [Verses GT](https://open.spotify.com/artist/4iJE0jzx9tLd3JE9TGhcpC), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Your Light](https://open.spotify.com/album/4UfeC4NU6yzZejBluF9Buo) | 4:08 |
 | 98 | [Uforia2](https://open.spotify.com/track/1naY9jtsdeOExa34heIlRg) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Uforia2](https://open.spotify.com/album/1znqfNbpTiwZ201yA6lrrc) | 6:32 |
 
-Snapshot ID: `AAAAAKjLWObj11ZawqiqPSsQtG4/KZEx`
+Snapshot ID: `AAAAAMyPh8IT0tRjbafQeEMn/dKBQx41`

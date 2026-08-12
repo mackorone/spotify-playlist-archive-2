@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 631120,
+  "num_followers": 631064,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKTG9e/+VejJDcAQaq1TvzTUTI3y",
+  "snapshot_id": "AAAAAFbixrmWi0n0w8dd7YuX+ItL0F7x",
   "tracks": [
     {
       "added_at": "2024-07-05 20:58:56",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Can't Fight",
-      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5DIgFG1fM76vmNYlvfv2JJ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 270892,
       "name": "Salt And The Sea",
       "url": "https://open.spotify.com/track/6d2MCbByfqhU85Fmj8WCAN"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Can't Fight",
+      "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "KIWANUKA",
-        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Rolling",
-      "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/0sPcMRaH3i6TO1yvDkOxPS"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "KIWANUKA",
+        "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+        "name": "Sour Lemon",
+        "url": "https://open.spotify.com/album/2gl1YvNVNAd1DdV3r7rOQ0"
       },
       "artists": [
         {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
         }
       ],
-      "duration_ms": 244951,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
+      "duration_ms": 236466,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/25JOOXgL3bVkBzjzGvcLoE"
     }
   ],
   "unique_name": "Scenic Route",

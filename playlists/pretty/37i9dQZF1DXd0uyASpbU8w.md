@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from DJ Zinhle, REMA, De Mthuda,  Elaine, PLG Chanty and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,401 likes - 80 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,425 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 54 | [Flora Ntlemo](https://open.spotify.com/track/1xSxYhxMf862S8DB1CzULB) | [Dark Horse](https://open.spotify.com/artist/0cx12bBCHP8mnzHKOsUkyU) | [FLORA NTLEMO](https://open.spotify.com/album/1a1tF5lN0JXAooLnrhQHeO) | 9:20 |
 | 55 | [Bayabuza](https://open.spotify.com/track/7puHl0lb8TMhp0NlmReMzr) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Beekay Monalayzzar](https://open.spotify.com/artist/4JWpONb9Zo8S3YBFCGKmgR) | [Bayabuza](https://open.spotify.com/album/1a3J20O4lGYiA4xgLOVpqW) | 5:03 |
 | 56 | [Benga](https://open.spotify.com/track/4L05PJ4cNe8yfUmCM8WCao) | [ÜDORĀ](https://open.spotify.com/artist/4opfpihhGD63A38XX6s9lq), [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Benga](https://open.spotify.com/album/0JHB5mltdOqL26LtQxlz5V) | 4:41 |
-| 57 | [MGGAXO](https://open.spotify.com/track/1516NYuQjK7NaHmHdD68Uc) | [MAKE BOYZ](https://open.spotify.com/artist/2EcqJe3MVmmllzpwhPbGh3), [PRXNCE ICIS](https://open.spotify.com/artist/3FxSuK09DqdlxhBl6RND9A), [Creed oasis](https://open.spotify.com/artist/6ZoF6LKlVwaohaKiOlUNQF), [Tank Saviour](https://open.spotify.com/artist/4spkghJN9s9AF6VsyxIp8Q), [Tallrickyworldwide](https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS) | [MGAXO 2](https://open.spotify.com/album/2gzLUKV0HSnrW8uG26AniU) | 3:08 |
+| 57 | [Mgaxo](https://open.spotify.com/track/1516NYuQjK7NaHmHdD68Uc) | [MAKE BOYZ](https://open.spotify.com/artist/2EcqJe3MVmmllzpwhPbGh3), [PRXNCE ICIS](https://open.spotify.com/artist/3FxSuK09DqdlxhBl6RND9A), [Creed oasis](https://open.spotify.com/artist/6ZoF6LKlVwaohaKiOlUNQF), [Tank Saviour](https://open.spotify.com/artist/4spkghJN9s9AF6VsyxIp8Q), [Tallrickyworldwide](https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS) | [MGAXO 2](https://open.spotify.com/album/2gzLUKV0HSnrW8uG26AniU) | 3:08 |
 | 58 | [Flex](https://open.spotify.com/track/3w5zShArpvMHd4i666Mwzd) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Flex](https://open.spotify.com/album/4L2n82835iB0l8PJ6H7nau) | 3:14 |
 | 59 | [Somebody](https://open.spotify.com/track/3CFCxKoA91XYhTh452SAJj) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Somebody](https://open.spotify.com/album/6Lbkqp4MmahYVWmBq6LUWR) | 3:51 |
 | 60 | [Sugar Sugar \- Extended](https://open.spotify.com/track/0w6le8DFLoOLyqmgC22LOb) | [Drizzy Sam Rsa](https://open.spotify.com/artist/400dgBHAKK7icw1lrKLvBg) | [Sugar Sugar \(Extended\)](https://open.spotify.com/album/2FnHFQORG9vY87gH2pPrFx) | 4:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 79 | [Many Phases \(feat\. Pfunzo Strings, AJ SafeSax & Sai Mabaso\)](https://open.spotify.com/track/57NP3oDIn9AJEuviBnoPI0) | [Tumi Musiq](https://open.spotify.com/artist/7v35vAs83G7W7Q0QA1SKOk), [Pfunzo Strings](https://open.spotify.com/artist/1mqLSq0sRVBQ2sysTTl63e), [AJ SafeSax](https://open.spotify.com/artist/6Yjy6qZIHYs9gMQe4tWUNr), [Sai Mabaso](https://open.spotify.com/artist/7nS10GNiWOK6umXtLQxNCA) | [Many Phases \(feat\. Pfunzo Strings, AJ SafeSax & Sai Mabaso\)](https://open.spotify.com/album/46fERBGYV9JfhxOp8d78DH) | 8:04 |
 | 80 | [Truth Be Told](https://open.spotify.com/track/3JPsQweLgYNrrgYnRmaH8T) | [Cornelius SA](https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N) | [Truth Be Told](https://open.spotify.com/album/3m0U7rzTWvyjL83K0pMs74) | 3:55 |
 
-Snapshot ID: `AAAAAFmbBjESJqVRF9wODDeFmIvyxwDm`
+Snapshot ID: `AAAAAFzeBchQ+FKIfq1rDItTmh9ELlNI`

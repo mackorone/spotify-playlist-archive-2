@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Nihaash
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,754 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,762 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Zoned Out](https://open.spotify.com/track/1zTN8OyoUBTXkAema6qYwx) | [NAGRA](https://open.spotify.com/artist/6WsC98HpaI7DwYbY2d74A5), [MishrAyush](https://open.spotify.com/artist/0hbD4EauwECKxPSO2XyrDo) | [Zoned Out](https://open.spotify.com/album/79akuX2PrHMexwtPjLEVqv) | 3:23 |
 | 50 | [Likh Likh Naam Tera](https://open.spotify.com/track/2CUrkLUDnX5nmQF4dybitd) | [Kirdaar](https://open.spotify.com/artist/338jXhNnM7wFYvYEX9kjOI), [Firoze](https://open.spotify.com/artist/1mJI4U1m2KZXvGFT9pt875), [Saffyy music](https://open.spotify.com/artist/0J6Vq7b7rNMvz2Gr27gAbJ) | [Likh Likh Naam Tera](https://open.spotify.com/album/3eZa7Jq1fpYMOFkTSSkgrb) | 3:21 |
 
-Snapshot ID: `AAAAAA6yhFzZtoelrs2AGZRyG5lOBh/k`
+Snapshot ID: `AAAAAIbiNLIrF8AEuALPrjiHn/3HevvR`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,221 songs - 3 day 17 hr 46 min
+1,222 songs - 3 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Approaching Summer](https://open.spotify.com/track/4os6s7sgqVGHZ5AsBqaCl0) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Approaching Summer](https://open.spotify.com/album/3Dv3zNkhOUQXmeUN28UIm5) | 2:27 | 2019-06-19\* | 2020-10-22 |
 | [Apricots](https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:06 | 2021-04-24 | 2023-02-14 |
 | [Aquatic Ambience](https://open.spotify.com/track/3zF1RvARE71MBXeWETPoEk) | [Funk Fiction](https://open.spotify.com/artist/12Rrb0zhWhcbaXJhVtrmXz) | [Aquatic Ambience](https://open.spotify.com/album/2vVrBHREP6fcU0yd998jok) | 3:14 | 2019-06-19\* | 2023-05-06 |
-| [Arc on the Range](https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Arc on the Range](https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G) | 4:39 | 2024-05-24 | 2026-08-05 |
+| [Arc on the Range](https://open.spotify.com/track/6itakCL7VYWmyVCJ2oHGA6) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Arc on the Range](https://open.spotify.com/album/1e6jpG7caxvj1OhralO91G) | 4:39 | 2024-05-24 |  |
 | [Arcade Dreams](https://open.spotify.com/track/0D0kIo64u1uXLNeH0j2JzW) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Arcade Dreams](https://open.spotify.com/album/3DgaITbrxI84EZ9HIf27ml) | 4:03 | 2019-06-19\* | 2020-10-22 |
 | [Arcoíris](https://open.spotify.com/track/4I9ZVOXtZVUpbLuIxDajrc) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG) | [Salutations](https://open.spotify.com/album/1SatJaSjmQCa7QVV45318U) | 3:13 | 2021-09-17 | 2022-07-27 |
 | [Arms Length](https://open.spotify.com/track/7D2amqgFKzSPPEuvZT3i9p) | [Spurz](https://open.spotify.com/artist/7w2AcpaXAApTypVl4yXAbN) | [Loud Futures](https://open.spotify.com/album/4dgMbu4oWm0yDFQbPUlPcI) | 2:31 | 2019-05-26\* | 2022-04-19 |
@@ -573,6 +573,7 @@
 | [Laamore](https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb) | [Hidden Spheres](https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa) | [Laamore](https://open.spotify.com/album/6hS7OvK64BDDcg4AiGHODg) | 4:40 | 2021-03-02 | 2022-05-18 |
 | [LADDE](https://open.spotify.com/track/72QA6iKUvHyCVthf1ZfPY2) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [LADDE](https://open.spotify.com/album/1ypYF5od00pv2Dnid1OaUg) | 4:04 | 2022-01-26 | 2022-04-16 |
 | [Lake Okeechobee](https://open.spotify.com/track/1KIX0mqi0DNaBzbxcz8eud) | [Kray Stax](https://open.spotify.com/artist/18U2xdC8wtA3Jl6mQcrjWS) | [Lake Okeechobee](https://open.spotify.com/album/1idFCsZkFsAbPr2ebKPlZr) | 3:01 | 2019-06-19\* | 2020-10-21 |
+| [Land of Make Believe](https://open.spotify.com/track/7nMziJ2cHchGwQK9Xq6996) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Land of Make Believe](https://open.spotify.com/album/0zSXwg2CZGGm5OSRRysf1O) | 5:51 | 2026-08-06 |  |
 | [Land, Sea and Sky](https://open.spotify.com/track/0lKz06k1SJmOXwxL2HhV2N) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 5:28 | 2019-05-26\* | 2020-10-22 |
 | [Landside](https://open.spotify.com/track/0MYcDq74yEMem9mW3m2ELY) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Contrast](https://open.spotify.com/album/6DF4x3OXTnKLtmdhH3gxHg) | 6:06 | 2019-06-19\* | 2022-04-20 |
 | [Lapis Manalis](https://open.spotify.com/track/6gW441yrmO9J6wELZmcFZr) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Strange Meridians](https://open.spotify.com/album/5BOeEGhCqLKyX5CE3wwS1F) | 3:55 | 2024-12-04 | 2024-12-29 |
@@ -894,7 +895,7 @@
 | [Sea Of Voices](https://open.spotify.com/track/2lNFWUrxuNaQsf5I1pDTPr) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 4:58 | 2019-05-26\* | 2020-10-22 |
 | [Seasick](https://open.spotify.com/track/2uqfupZS1yPIS1wVo6EMA6) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [The North Water \(Original Score\)](https://open.spotify.com/album/1X5zkSYbZkIgmmJkMklgCh) | 4:40 | 2021-09-10 | 2022-07-27 |
 | [Secret Garden](https://open.spotify.com/track/5n6ZUXNRoo6mRpkb1lsg0s) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Secret Garden](https://open.spotify.com/album/5rSVBpgPTxN5UjwVg2WX4S) | 7:19 | 2026-05-01 |  |
-| [Seduction](https://open.spotify.com/track/0mEVAXbjfanF5Xetns8pPV) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:16 | 2026-04-16 |  |
+| [Seduction](https://open.spotify.com/track/0mEVAXbjfanF5Xetns8pPV) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:16 | 2026-04-16 | 2026-08-12 |
 | [See Out Loud](https://open.spotify.com/track/7j7Nf0friRoOV82W4k0CGd) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Origins](https://open.spotify.com/album/6WKtIzf5m5Gw8YVuXIph4v) | 4:04 | 2024-06-07 | 2024-06-10 |
 | [Seek & Expand](https://open.spotify.com/track/6cuVOpIDJIuBxLbDFRDB17) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 5:30 | 2019-06-19\* | 2022-04-20 |
 | [self\-love](https://open.spotify.com/track/20Qufms0u6e9mHprf81SzX) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 2:23 | 2019-06-19\* | 2021-03-09 |
@@ -1220,7 +1221,7 @@
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [Yip, Yip, Yip](https://open.spotify.com/track/0Jdoa0h7JwqZIxuRbddFAD) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Yip, Yip, Yip](https://open.spotify.com/album/0rk3qC18ghOoB7M4ge5kyO) | 2:03 | 2024-02-12 | 2024-05-09 |
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 |  |
-| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 |  |
+| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 | 2026-08-12 |
 | [Yūrei](https://open.spotify.com/track/0WGzvQMqARePYxra8qZgOr) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Polychrome Swim](https://open.spotify.com/album/5BdjVQkPnr10XILcaiVwhi) | 3:58 | 2020-11-13 | 2022-04-16 |
 | [zero hour contract](https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [emo\_ecstasy\_everything](https://open.spotify.com/album/5Z7spMFDZwAAQsNhS16gV8) | 4:12 | 2020-10-28 | 2022-06-22 |
 | [zin2 test5](https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 2:39 | 2023-07-28 | 2023-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,531 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,507 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Wake Up and Get Sexy](https://open.spotify.com/track/061lImbIi2dyZift5GqtIo) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv) | [SYNY 3 Act I](https://open.spotify.com/album/7HcelJ0xbHNYZ5QaPTg3p9) | 2:33 |
 | 100 | [Trouble](https://open.spotify.com/track/3IU8gx0FlYarKKA4TOgraH) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:17 |
 
-Snapshot ID: `AAAAAGvCfDuouRFIMMZ2qINbivCcV/dz`
+Snapshot ID: `AAAAAHJkO+MlOFQrkUzCShRBt9JghLSG`

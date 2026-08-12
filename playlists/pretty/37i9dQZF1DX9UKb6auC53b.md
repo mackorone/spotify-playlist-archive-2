@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UKb6auC53b.md) - [plain]
 
 > Music from "DAN DA DAN"! ©龍幸伸／集英社・ダンダダン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,548 likes - 38 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,560 likes - 38 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9UKb6auC53b.md) - [plain]
 | 37 | [taro and hanako](https://open.spotify.com/track/5b5PhKDfMW3Om4Gt7jFBhy) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 1:26 |
 | 38 | [the kitos](https://open.spotify.com/track/4jM2VyEYUAwdrydP9bOfER) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「ダンダダン」オリジナルサウンドトラック](https://open.spotify.com/album/10kMEkj5msPjwYisBX5F53) | 1:43 |
 
-Snapshot ID: `AAAAAI6oFa4YeusGHNmYWT8KobBvRL+T`
+Snapshot ID: `AAAAAOjsrXRAerSndn5GQG7JH6tUD9i+`

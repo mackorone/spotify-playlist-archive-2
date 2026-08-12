@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 142897,
+  "num_followers": 142909,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAB51uwUc4Pebn12leTOK0P",
+  "snapshot_id": "ankUgAAAAADI0+Xc5CPypRmfjbhZgLVi",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Do The Dark - Remastered 2001",
-      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
+      "duration_ms": 178400,
+      "name": "Here's Looking At You - Remastered 2001",
+      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Here's Looking At You - Remastered 2001",
-      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
+      "duration_ms": 231800,
+      "name": "Do The Dark - Remastered 2001",
+      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,199 likes - 49 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,227 likes - 49 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 48 | [Ropa Cara](https://open.spotify.com/track/076uJiAXPcni8CFjSfzMIV) | [Yampi](https://open.spotify.com/artist/3Ia6QnB1tPR9bcgnmbL5FO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Ropa Cara](https://open.spotify.com/album/6D81VwcWSpkivO69n7wmxB) | 3:13 |
 | 49 | [PATRONA](https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [PATRONA](https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf) | 2:45 |
 
-Snapshot ID: `AAAAALWijMGCArOYDpiVfBETKZQ1L16h`
+Snapshot ID: `AAAAAHG5it3oNLMRe6R9CDULHjrwM5N9`

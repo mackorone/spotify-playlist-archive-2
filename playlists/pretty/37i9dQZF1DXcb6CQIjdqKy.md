@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Cory Asbury
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,649,383 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,710 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 80 | [Shameless](https://open.spotify.com/track/7bQKckZ2AsrFOok83WJb6v) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [This Bed I Made](https://open.spotify.com/album/1atz6Ki6hL5RjUgGIDfkJA) | 3:44 |
 | 81 | [Hold Me Up](https://open.spotify.com/track/5hfOwP6REbZckEZjMhxDAA) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hold Me Up](https://open.spotify.com/album/6Y7YankyJF0H9HUoofcRHm) | 2:32 |
 | 82 | [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 |
-| 83 | [SOMETHING IN THE WATER](https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:39 |
+| 83 | [SOMETHING IN THE WATER](https://open.spotify.com/track/38abUcedwmO4pyKllQBNxO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 2:39 |
 | 84 | [Grateful Heart \(Thank You Jesus\)](https://open.spotify.com/track/6anIiEM3wvqooQbWqUTyzp) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Grateful Heart \(Thank You Jesus\)](https://open.spotify.com/album/5b5IWEUgP8P5ms1EIOhDOM) | 2:51 |
 | 85 | [When You Give It Up](https://open.spotify.com/track/5d70RGXlCzwqQl5WLV6Wpk) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [When You Give It Up](https://open.spotify.com/album/174U4t8jS0tRqjhpXlgBMh) | 2:42 |
 | 86 | [Bibles Again](https://open.spotify.com/track/3BpGShSSLe8vIxtQvuWILQ) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Bibles Again](https://open.spotify.com/album/3kx3JtanfbamWIGtqIFOwn) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Let It Be A Hallelujah](https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Let It Be A Hallelujah](https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc) | 3:58 |
 | 100 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
 
-Snapshot ID: `AAAAAPN1SuePU1kce7O9pLeve5v0B7b1`
+Snapshot ID: `AAAAAEn4t/joNy2rRvDq3j1cG1usB3MW`

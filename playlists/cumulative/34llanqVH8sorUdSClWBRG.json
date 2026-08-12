@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "In the Age of Doubt",
+        "url": "https://open.spotify.com/album/71coqJLIiqtg9uUQjtr1MP"
+      },
+      "artists": [
+        {
+          "name": "The Bridge City Sinners",
+          "url": "https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141881,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3WERqti6Iy25H3wc0l7Den"
+    },
+    {
+      "album": {
         "name": "Transcendental Youth",
         "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
       },

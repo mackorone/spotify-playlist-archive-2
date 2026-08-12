@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 
 > The official Eurovision Song Contest 2026 playlist\. Congrats to this year's winner DARA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,682 likes - 35 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,487 likes - 35 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain]
 | 34 | [Ēnā](https://open.spotify.com/track/5jrN6fnBH38Bh0IQJnjiUJ) | [Atvara](https://open.spotify.com/artist/4FTGADpPjk9LgpAQAqQhI0) | [Ēnā](https://open.spotify.com/album/5B0vWqpxIriwZSTdE5Wv4K) | 2:53 |
 | 35 | [Just Go](https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD) | [JIVA](https://open.spotify.com/artist/4DK0buOfEJIxAIV5nhxQbc) | [Just Go](https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc) | 3:00 |
 
-Snapshot ID: `AAAAAJeYTiAJCDBmcmly9fKLh9fmWcQn`
+Snapshot ID: `AAAAAI8O36u6OPS2yGvVQrHcAgEdCraB`

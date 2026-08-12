@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,612 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,739 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Pawn Shop Guitar](https://open.spotify.com/track/0YLFAf6LETZiEpQTbRbU4B) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Pawn Shop Guitar](https://open.spotify.com/album/2yU7UhtuGQWdy5zUes5nMQ) | 3:48 |
 | 100 | [Demons In Your Choir](https://open.spotify.com/track/39Ra5S4b4srNRbPScFDKo7) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Demons In Your Choir](https://open.spotify.com/album/1dAKuCI09fY46OiAzjTlHz) | 4:16 |
 
-Snapshot ID: `AAAAAAAYrEFsv7gWh9yZTO9tDghFHDVy`
+Snapshot ID: `AAAAABDT/YzeTaS+6Zpk8S0UKRZX5iLk`

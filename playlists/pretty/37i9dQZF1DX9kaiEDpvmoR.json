@@ -1,12 +1,12 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93827,
+  "num_followers": 93821,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGS5WMtBoxZlkJwVNzIsrSyWS2XT",
+  "snapshot_id": "AAAAAOdRJ4T/BMy0z7ZorvSoZJeT/feM",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:23",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-08-06 22:00:23",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+        "name": "\u00c4r det h\u00e4r det \u00e4r party",
+        "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Korslagda",
+          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
         }
       ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+      "duration_ms": 202011,
+      "name": "\u00c4r det h\u00e4r det \u00e4r party",
+      "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
     },
     {
       "added_at": "2026-08-06 22:00:23",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-08-06 22:00:23",
       "album": {
-        "name": "\u00c4r det h\u00e4r det \u00e4r party",
-        "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
       "artists": [
         {
-          "name": "Korslagda",
-          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 202011,
-      "name": "\u00c4r det h\u00e4r det \u00e4r party",
-      "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-08-06 22:00:23",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-08-06 22:00:23",
       "album": {
-        "name": "Din S\u00e5ng",
-        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 236479,
-      "name": "Din S\u00e5ng",
-      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
-    },
-    {
-      "added_at": "2026-08-06 22:00:23",
-      "album": {
         "name": "Liten o stor",
         "url": "https://open.spotify.com/album/2FMRH9FpnWQMAup3ERZjS4"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 312103,
       "name": "Liten o stor",
       "url": "https://open.spotify.com/track/7qxO2lAWbo8OPNkONgK3YF"
+    },
+    {
+      "added_at": "2026-08-06 22:00:23",
+      "album": {
+        "name": "Din S\u00e5ng",
+        "url": "https://open.spotify.com/album/64vTKNWTHScWdFu6eG4LJr"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 236479,
+      "name": "Din S\u00e5ng",
+      "url": "https://open.spotify.com/track/7z9yS76hKaktbg1cJieHQC"
     },
     {
       "added_at": "2026-08-06 22:00:23",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-06 22:00:23",
       "album": {
-        "name": "R\u00e4dda Liv",
-        "url": "https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "R\u00e4dda Liv",
-      "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
-    },
-    {
-      "added_at": "2026-08-06 22:00:23",
-      "album": {
         "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
         "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 182746,
       "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
       "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
+    },
+    {
+      "added_at": "2026-08-06 22:00:23",
+      "album": {
+        "name": "R\u00e4dda Liv",
+        "url": "https://open.spotify.com/album/4QqhNQxXWmPBpYZNn1p5aj"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "R\u00e4dda Liv",
+      "url": "https://open.spotify.com/track/1HU7FMa7cj5l1Zv4R6B0dO"
     },
     {
       "added_at": "2026-08-06 22:00:23",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-08-06 22:00:23",
       "album": {
+        "name": "EXISTENS",
+        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
+      },
+      "artists": [
+        {
+          "name": "Hurula",
+          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
+        }
+      ],
+      "duration_ms": 172874,
+      "name": "EXISTENS",
+      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "added_at": "2026-08-06 22:00:23",
+      "album": {
         "name": "Stronger Than",
         "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 262501,
       "name": "Everything's wasted",
       "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
-    },
-    {
-      "added_at": "2026-08-06 22:00:23",
-      "album": {
-        "name": "EXISTENS",
-        "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
-      },
-      "artists": [
-        {
-          "name": "Hurula",
-          "url": "https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP"
-        }
-      ],
-      "duration_ms": 172874,
-      "name": "EXISTENS",
-      "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
     },
     {
       "added_at": "2026-08-06 22:00:23",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-08-06 22:00:23",
       "album": {
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+    },
+    {
+      "added_at": "2026-08-06 22:00:23",
+      "album": {
         "name": "M\u00e4nniskobarn",
         "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 255386,
       "name": "Svindlande h\u00f6jder",
       "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
-    },
-    {
-      "added_at": "2026-08-06 22:00:23",
-      "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
     },
     {
       "added_at": "2026-08-06 22:00:23",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-08-06 22:00:23",
       "album": {
-        "name": "Another Kingdom Is Gone (Kleerup Rework)",
-        "url": "https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C"
-      },
-      "artists": [
-        {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
-        },
-        {
-          "name": "Ingrid Witt",
-          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Another Kingdom Is Gone (Kleerup Rework)",
-      "url": "https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC"
-    },
-    {
-      "added_at": "2026-08-06 22:00:23",
-      "album": {
         "name": "Bad Blood",
         "url": "https://open.spotify.com/album/7i1g3DW1WAjsYXsWHAsQP9"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 170000,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/6F5ZOMStXsxHAfWDqpcOVZ"
+    },
+    {
+      "added_at": "2026-08-06 22:00:23",
+      "album": {
+        "name": "Another Kingdom Is Gone (Kleerup Rework)",
+        "url": "https://open.spotify.com/album/5VWeV0bnJqXKot4rz7r54C"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        },
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Another Kingdom Is Gone (Kleerup Rework)",
+      "url": "https://open.spotify.com/track/7ECipYFXDXGYOHC18SRZRC"
     }
   ],
   "unique_name": "Aktuellt",

@@ -1,12 +1,12 @@
 {
   "description": "Finest collection of Malayalam Music from the past 10 years Cover : Pallichattambi",
-  "num_followers": 230240,
+  "num_followers": 230336,
   "original_name": " Mollywood Gold ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANc2zv7E1nE2qz5CwkQ2TLyD8CsE",
+  "snapshot_id": "AAAAACsuYrYB+NV98MRWAnvJ9Rn6L/ho",
   "tracks": [
     {
       "added_at": "2026-04-14 08:19:30",
@@ -159,6 +159,34 @@
       "duration_ms": 354666,
       "name": "Kanmanipoove (From \"Thudarum\")",
       "url": "https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh"
+    },
+    {
+      "added_at": "2026-08-11 08:43:21",
+      "album": {
+        "name": "Asalayavale (From \"Khalifa\")",
+        "url": "https://open.spotify.com/album/3l83qf0otZwAAVztKlBqVQ"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Mohammed Maqbool Mansoor",
+          "url": "https://open.spotify.com/artist/4Y82LR5X1lk8t9bzoVgnjq"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Asalayavale (From \"Khalifa\")",
+      "url": "https://open.spotify.com/track/50VZxKGM9I6VfHYGXKaAJn"
     },
     {
       "added_at": "2025-09-23 06:28:54",
@@ -863,26 +891,6 @@
       "duration_ms": 294124,
       "name": "Sakhiyeee - From \"Thrissur Pooram\"",
       "url": "https://open.spotify.com/track/1h9a23OsWfQbrazCujBqlc"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "ARM (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5oaInp3W6gvXXmU8GjpUoM"
-      },
-      "artists": [
-        {
-          "name": "Dhibu Ninan Thomas",
-          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
-        },
-        {
-          "name": "Vaikom Vijayalakshmi",
-          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Angu Vaana Konilu",
-      "url": "https://open.spotify.com/track/25YVPOdnGdr0hnA9XJ5Jbs"
     },
     {
       "added_at": "2024-12-04 12:15:00",

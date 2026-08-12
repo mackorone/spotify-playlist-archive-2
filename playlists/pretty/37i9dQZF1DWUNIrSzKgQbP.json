@@ -1,12 +1,12 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1642741,
+  "num_followers": 1642568,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA9UDjtnLuqQ1b/YQ6kqIuZ1aNUW",
+  "snapshot_id": "AAAAAD/nuLryYsR/1v23pOBgnRRXh3qB",
   "tracks": [
     {
       "added_at": "2026-07-09 23:27:48",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Half Blue",
+        "url": "https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 232747,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Who Wants",
         "url": "https://open.spotify.com/album/12o0RLnSOC8pR8rBikuwW4"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 288526,
       "name": "Summer of Love",
       "url": "https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Half Blue",
-        "url": "https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 232747,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Savannah",
-        "url": "https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz"
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
       },
       "artists": [
         {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 204493,
-      "name": "Savannah",
-      "url": "https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP"
+      "duration_ms": 237626,
+      "name": "Shark Smile",
+      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
     }
   ],
   "unique_name": "Summer Acoustic",

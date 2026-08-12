@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 148124,
       "name": "Dhak Dhak Reloaded",
       "url": "https://open.spotify.com/track/5VbLC80g5f6oSbSq9BsC6K"
@@ -5850,6 +5850,40 @@
       "duration_ms": 186751,
       "name": "Tip Tip - From \"Lockdown\"",
       "url": "https://open.spotify.com/track/69iaaF0VAWOciXqJ2wfe54"
+    },
+    {
+      "album": {
+        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290779,
+      "name": "Toh Phir Aao - Dobara",
+      "url": "https://open.spotify.com/track/6LYfwNkkrplbxbheWtkBL2"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26490,
+  "num_followers": 26499,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK1P4ffXths5fbHn/lUwwajrxIHE",
+  "snapshot_id": "AAAAACrgjdegJWM/+umKYJ+lyo8podV7",
   "tracks": [
     {
       "added_at": "2026-08-07 10:55:02",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-08-07 10:55:02",
       "album": {
+        "name": "Sightseeing",
+        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "duration_ms": 154065,
+      "name": "Sightseeing",
+      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
+    },
+    {
+      "added_at": "2026-08-07 10:55:02",
+      "album": {
         "name": "DEATH NOTE",
         "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 174081,
       "name": "DEATH NOTE",
       "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
-    },
-    {
-      "added_at": "2026-08-07 10:55:02",
-      "album": {
-        "name": "Sightseeing",
-        "url": "https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt"
-      },
-      "artists": [
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 154065,
-      "name": "Sightseeing",
-      "url": "https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7"
     },
     {
       "added_at": "2026-08-07 10:55:02",

@@ -1,12 +1,12 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Voice",
-  "num_followers": 249280,
+  "num_followers": 249308,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGEMtgLv/e87WoMesndPicnuJpXu",
+  "snapshot_id": "AAAAAKOW4oWRknZsMTHf3O9orhxiYGvk",
   "tracks": [
     {
       "added_at": "2026-07-02 16:13:31",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
+        "name": "The A List",
+        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
+      },
+      "artists": [
+        {
+          "name": "Pumpa",
+          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "The A List",
+      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
         "name": "Mind My Business",
         "url": "https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 119040,
       "name": "Mind My Business",
       "url": "https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
-        "name": "The A List",
-        "url": "https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ"
-      },
-      "artists": [
-        {
-          "name": "Pumpa",
-          "url": "https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "The A List",
-      "url": "https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Last Train",
-        "url": "https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5"
-      },
-      "artists": [
-        {
-          "name": "Mical Teja",
-          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
-        }
-      ],
-      "duration_ms": 217777,
-      "name": "Last Train",
-      "url": "https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "iShal",
         "url": "https://open.spotify.com/album/21VpDRRs5PrfuCT45QzAaS"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 216405,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/5MdJXHJhPJSmEfUjhcpj1Y"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5"
+      },
+      "artists": [
+        {
+          "name": "Mical Teja",
+          "url": "https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu"
+        }
+      ],
+      "duration_ms": 217777,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "The Queen of Bacchanal",
-        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
-      },
-      "artists": [
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 234242,
-      "name": "Just a Little Bit",
-      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "The Queen of Bacchanal",
+        "url": "https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 234242,
+      "name": "Just a Little Bit",
+      "url": "https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
+        "name": "ESKIMO (Remix)",
+        "url": "https://open.spotify.com/album/6nyKtPtSwlci3g0BeQDvqt"
       },
       "artists": [
         {
-          "name": "Patrice Roberts",
-          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
+          "name": "Trinidad Killa",
+          "url": "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 220500,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
+      "duration_ms": 181153,
+      "name": "ESKIMO - Remix",
+      "url": "https://open.spotify.com/track/5g3FsL8VeeCMt3rlFhEqw6"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "ESKIMO (Remix)",
-        "url": "https://open.spotify.com/album/6nyKtPtSwlci3g0BeQDvqt"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/6W7sCrkEdeoBuiZOdL0Fzq"
       },
       "artists": [
         {
-          "name": "Trinidad Killa",
-          "url": "https://open.spotify.com/artist/1urq8kMcszfaha2Ebjrzgx"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Patrice Roberts",
+          "url": "https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt"
         }
       ],
-      "duration_ms": 181153,
-      "name": "ESKIMO - Remix",
-      "url": "https://open.spotify.com/track/5g3FsL8VeeCMt3rlFhEqw6"
+      "duration_ms": 220500,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1u2lFfwvfAeqsxIsB5AEeX"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Lambadas Internacionais - As Melhores",
-        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
-      },
-      "artists": [
-        {
-          "name": "Carlos Santos",
-          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
-        }
-      ],
-      "duration_ms": 258666,
-      "name": "Hot-Hot-Hot",
-      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Hot and Groovy",
         "url": "https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 282567,
       "name": "Hot and Groovy",
       "url": "https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Lambadas Internacionais - As Melhores",
+        "url": "https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Santos",
+          "url": "https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Hot-Hot-Hot",
+      "url": "https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj"
     },
     {
       "added_at": "2026-07-02 16:13:31",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-07-02 16:13:31",
       "album": {
-        "name": "Search Party",
-        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
-      },
-      "artists": [
-        {
-          "name": "Preedy",
-          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
-        }
-      ],
-      "duration_ms": 206609,
-      "name": "Search Party",
-      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
-    },
-    {
-      "added_at": "2026-07-02 16:13:31",
-      "album": {
         "name": "Spoil You",
         "url": "https://open.spotify.com/album/05O8Va1zg6YGzpSv6jHBsb"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 188842,
       "name": "Spoil You",
       "url": "https://open.spotify.com/track/1PR6TnBCQncxQPtUC3o0ZE"
+    },
+    {
+      "added_at": "2026-07-02 16:13:31",
+      "album": {
+        "name": "Search Party",
+        "url": "https://open.spotify.com/album/5u8anZBLJ122fh1jpVnt3g"
+      },
+      "artists": [
+        {
+          "name": "Preedy",
+          "url": "https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn"
+        }
+      ],
+      "duration_ms": 206609,
+      "name": "Search Party",
+      "url": "https://open.spotify.com/track/32vazc4u4mcNMIc9TBQguB"
     },
     {
       "added_at": "2026-07-02 16:13:31",

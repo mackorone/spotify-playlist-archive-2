@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Check out the first lineup for Hiphopplaya Festival 2026\. \(힙합플레야 2026의 최종 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,146 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,156 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 71 | [CRIB](https://open.spotify.com/track/2vU2TawckWuVgAl2A16EFW) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB) | [ORTON](https://open.spotify.com/album/6mRgzklymNUAfjrSsrYS0Q) | 2:31 |
 | 72 | [ROB LUCCI](https://open.spotify.com/track/2lROZPacJeB6Ko22uYW8xQ) | [OKASHII](https://open.spotify.com/artist/6Vs5u8gSzXsS1LPZhmXoiB) | [ORTON](https://open.spotify.com/album/6mRgzklymNUAfjrSsrYS0Q) | 2:58 |
 
-Snapshot ID: `AAAAACDwpbylq43L8DGRitLrIyyJLZa1`
+Snapshot ID: `AAAAABM5xS00TyB5xwCeu8eNd/XwrrG6`

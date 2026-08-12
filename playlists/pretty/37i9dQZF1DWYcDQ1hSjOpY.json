@@ -1,12 +1,12 @@
 {
   "description": "Soothing, minimalist ambient for deep sleep.",
-  "num_followers": 2211733,
+  "num_followers": 2212586,
   "original_name": "Deep Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHFek3lJuOeYTK8dM495W77Qdgc4",
+  "snapshot_id": "AAAAAOsvyiwKHXHi6PcmseNetcPWQ4r8",
   "tracks": [
     {
       "added_at": "2026-08-06 14:14:26",
@@ -882,6 +882,10 @@
         {
           "name": "Delta Shores",
           "url": "https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP"
+        },
+        {
+          "name": "Between Pages",
+          "url": "https://open.spotify.com/artist/5cfEtlt3DAdiHabSH75X7l"
         }
       ],
       "duration_ms": 165000,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,722 likes - 92 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,701 likes - 92 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wbVzPMSvwH.md) - [plain]
 | 91 | [Manusia Kuat](https://open.spotify.com/track/1vT1rKlEzvT9r0uYwAuwC8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:04 |
 | 92 | [Cintaku](https://open.spotify.com/track/4hykertmVe1gPtNB2atBNJ) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Everlasting Hits](https://open.spotify.com/album/4X9jiWC7TjqziUu92g4KgU) | 4:42 |
 
-Snapshot ID: `AAAAAFzMVuUcTbsWuH9wiOjqYJ1wK6gD`
+Snapshot ID: `AAAAAI4FE95AmgAb20XAgh3qJ8HO20LK`

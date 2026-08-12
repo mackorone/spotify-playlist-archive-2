@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2026\. Hit shuffle for a mixed listening experience\. Cover: Eslabon Armado
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,732 likes - 180 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,740 likes - 180 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 179 | [LA FORMULA](https://open.spotify.com/track/1uqCUWuLckeGAcpIthq9xj) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 1:38 |
 | 180 | [UN DIA](https://open.spotify.com/track/3iPYnV9WRHto3sy1kn4DDZ) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 2:53 |
 
-Snapshot ID: `AAAAABI73T3Gy5iTASBqzEO2WsyDHv6t`
+Snapshot ID: `AAAAACYDvpbEqEDoVEa65Zby1m44Uu3e`

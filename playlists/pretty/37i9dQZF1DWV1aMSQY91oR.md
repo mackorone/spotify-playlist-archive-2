@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Derin Falana
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,451 likes - 53 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,462 likes - 53 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 11 | [GIRLS WANT BOYS WHO STFU](https://open.spotify.com/track/01FSlKPjxQ6LJj0MvhjYjl) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [GIRLS WANT BOYS WHO STFU](https://open.spotify.com/album/4TC5qKN9Ki29S5RuHLSo4k) | 2:21 |
 | 12 | [Sweet Fuego](https://open.spotify.com/track/1eZ0SCPTHjLj8wE9hB1H35) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [A.A.F.B\-Sides](https://open.spotify.com/album/5LYjokc0bkRmpo3zh43e3s) | 2:23 |
 | 13 | [keep me going \(BIRDBRAIN\)](https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [keep me going \(BIRDBRAIN\)](https://open.spotify.com/album/6OOrYEPMhJEryhQVEFYxFR) | 2:09 |
-| 14 | [HERE AND THERE ft LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
+| 14 | [HERE AND THERE FT LIL BABY](https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [VERA VOLPE: THE PRELUDE](https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx) | 2:19 |
 | 15 | [THOMASVILLE DAYS](https://open.spotify.com/track/0Zt0bqKQ5NNKDR6IXzBJlz) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [THOMASVILLE DAYS](https://open.spotify.com/album/5DjZei9uXZZLrgevgN0z02) | 1:52 |
 | 16 | [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 |
 | 17 | [Devoted](https://open.spotify.com/track/6XjBgPONT73YdFj2CGEgiA) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Devoted](https://open.spotify.com/album/6XVRDqdMVxWxg6YykoZfK6) | 2:20 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 52 | [New Motor](https://open.spotify.com/track/2OAxKC7VXapgK47dkdXuqb) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [New Motor](https://open.spotify.com/album/16p2kU3BHNQ6917SIqh5Fd) | 1:54 |
 | 53 | [Que Sera](https://open.spotify.com/track/5ITL4jQQFHcnlkClBcVLJa) | [Stoney Jackson](https://open.spotify.com/artist/4pJSL3Q8yWIS78DpblIaOZ) | [Que Sera](https://open.spotify.com/album/4Y8GeXC8S1WVwCOZwm24H2) | 3:40 |
 
-Snapshot ID: `AAAAAKRRQghXEmjeq7zUj7S6CDiKwxMo`
+Snapshot ID: `AAAAAAJCc13aI1Fs3Sxf+uUTOrppiIoO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,809 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,822 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 63 | [BULLSHIT](https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT) | [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA), [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [BULLSHIT](https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW) | 2:18 |
 | 64 | [TITANIK](https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [GHO$TY](https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX) | [TITANIK](https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP) | 2:43 |
 | 65 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
-| 66 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 |
-| 67 | [Beszívom](https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Beszívom](https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb) | 2:56 |
+| 66 | [Beszívom](https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Beszívom](https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb) | 2:56 |
+| 67 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 |
 | 68 | [Sephora](https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Sephora](https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w) | 4:31 |
 | 69 | [Midnight \(The Hanging Tree\)](https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs), [1979](https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R) | [Midnight \(The Hanging Tree\)](https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh) | 2:58 |
 | 70 | [vrumm](https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [vrumm](https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ) | 2:26 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 76 | [Bad Boyz](https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Goore](https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp), [Kretz](https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd) | [Bad Boyz](https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U) | 3:03 |
 | 77 | [Brazil Fánk](https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Felszálló Ág](https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c) | 2:43 |
 | 78 | [Rollercoaster](https://open.spotify.com/track/0e0rMDNx3D0xMgOAcZQ2rj) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Four Seasons \- Winter](https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA) | 2:11 |
-| 79 | [TAKE YOUR TIME](https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [TAKE YOUR TIME](https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot) | 2:21 |
-| 80 | [Tequila](https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Tequila](https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst) | 2:01 |
+| 79 | [Tequila](https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Tequila](https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst) | 2:01 |
+| 80 | [TAKE YOUR TIME](https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [TAKE YOUR TIME](https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot) | 2:21 |
 
-Snapshot ID: `AAAAAHDg+V2zWJnTNuoXCBT29gA3fFeI`
+Snapshot ID: `AAAAANXfWlDN2nDXAB/1bElSTIeWeTkk`

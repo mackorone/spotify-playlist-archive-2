@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: KITSCHKRIEG, Blumengarten, Shirin David
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,342 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,324 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Kodoku](https://open.spotify.com/track/6bOpaowQXoFxpPYAXEejSp) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Kodoku EP](https://open.spotify.com/album/6eyBRckyqEPv8wxYz7FWpg) | 3:01 |
 | 60 | [イッツ・ア・ニューデイ \(feat\. MONKEY MAJIK\)](https://open.spotify.com/track/1PpuLqdqWZlgsLyTxkhUz2) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [ザ・ライト](https://open.spotify.com/album/1fCx2hCiCAnZeRQyYQC5NM) | 3:23 |
 
-Snapshot ID: `AAAAAE6Pa6ixl7g15p+Ih1+ba9diswA+`
+Snapshot ID: `AAAAAHUnb0NaQyg/vtl9ugfQNLe7fgJ7`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Nadin Amizah, Rony Parulian, Ravyn Lenae, FLO dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,966 likes - 93 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,935 likes - 93 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 92 | [The Ever After](https://open.spotify.com/track/5kop1pa4mJso9v6Uz9wvNf) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Ever After](https://open.spotify.com/album/6mlnFCmVsUFI9ZeAesrogh) | 5:18 |
 | 93 | [Reborn](https://open.spotify.com/track/2SyKKIaY3buKvidX8VPtJn) | [Girls Archives.](https://open.spotify.com/artist/4iAzYOFlBDA9cIJtwWF97h) | [Reborn](https://open.spotify.com/album/55UpcId53ZrBz2NDNuPcBT) | 2:49 |
 
-Snapshot ID: `AAAAAAdli/4uRbs/8bBaP6eZXMPw/CYP`
+Snapshot ID: `AAAAABhXB1o54rPExwHgW9AzIvPgAuQt`

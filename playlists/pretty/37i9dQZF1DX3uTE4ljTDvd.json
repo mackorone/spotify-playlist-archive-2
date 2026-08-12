@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 134292,
+  "num_followers": 134299,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKr7RToJ0UqtGjtde8Vu4lxsfubv",
+  "snapshot_id": "AAAAAM+3T/h8jtmvMMHUv2nnRBPBgQfH",
   "tracks": [
     {
       "added_at": "2026-03-02 15:12:51",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Acredito na Promessa",
-        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 245109,
-      "name": "Acredito na Promessa",
-      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Quando o Eterno For Real",
         "url": "https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 290222,
       "name": "Quando o Eterno For Real",
       "url": "https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Acredito na Promessa",
+        "url": "https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 245109,
+      "name": "Acredito na Promessa",
+      "url": "https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Basta Uma Palavra",
-        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
-      },
-      "artists": [
-        {
-          "name": "Mateus Pereira",
-          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 291253,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Basta Uma Palavra",
+        "url": "https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N"
+      },
+      "artists": [
+        {
+          "name": "Mateus Pereira",
+          "url": "https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx"
     },
     {
       "added_at": "2026-03-02 15:12:51",

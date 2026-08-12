@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 
 > This is Big Thief\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,313 likes - 42 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,338 likes - 42 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,35 +20,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtJ8m.md) - [plain]
 | 10 | [Masterpiece \- 2023 Remaster](https://open.spotify.com/track/03fbvOUMV0CP6BYuqw06Za) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 3:50 |
 | 11 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 |
 | 12 | [Mythological Beauty](https://open.spotify.com/track/3DM9c4wXXe0FBIBE6sgahF) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 5:06 |
-| 13 | [Shoulders](https://open.spotify.com/track/79zOjwivNbq4XVaWufOyvu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:13 |
-| 14 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
+| 13 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
+| 14 | [Shoulders](https://open.spotify.com/track/79zOjwivNbq4XVaWufOyvu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:13 |
 | 15 | [Dragon New Warm Mountain I Believe in You](https://open.spotify.com/track/3UN7R1teOKhmB8SnxtwiPK) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:43 |
 | 16 | [Objects](https://open.spotify.com/track/0hCMAsSI7vjdb4Z1I5pJkN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 2:42 |
-| 17 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
-| 18 | [All Night All Day](https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 |
+| 17 | [All Night All Day](https://open.spotify.com/track/3gVrDEjo68KtplLuZuATTI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 |
+| 18 | [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 |
 | 19 | [Heavy Bend](https://open.spotify.com/track/6qopJBPesEVIrIT0qMtbNs) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 1:36 |
 | 20 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
-| 21 | [Black Diamonds](https://open.spotify.com/track/4vIYmN7CggO2cPwJdfxCj4) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:34 |
-| 22 | [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:12 |
+| 21 | [Double Infinity](https://open.spotify.com/track/4jdNbCXGGciAOLwAShbJ9Z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:12 |
+| 22 | [Black Diamonds](https://open.spotify.com/track/4vIYmN7CggO2cPwJdfxCj4) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:34 |
 | 23 | [Time Escaping](https://open.spotify.com/track/32k3OLmeIWe93KY0QzMmZX) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:48 |
 | 24 | [Vegas \- 2023 Remaster](https://open.spotify.com/track/2KgWGc5KgyNS0scSS6KLmJ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 2:19 |
-| 25 | [Haley](https://open.spotify.com/track/7933H8AtrJHG5afYmlQlTX) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:32 |
-| 26 | [How Could I Have Known](https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 |
+| 25 | [How Could I Have Known](https://open.spotify.com/track/17tN4TOGM562ach3uvZZUi) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 4:48 |
+| 26 | [Haley](https://open.spotify.com/track/7933H8AtrJHG5afYmlQlTX) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:32 |
 | 27 | [Forgotten Eyes](https://open.spotify.com/track/3uVlbYb1nUwwcYziaJk9LD) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:31 |
 | 28 | [Real Love \- 2023 Remaster](https://open.spotify.com/track/7LTUCZcEv05vnvyEsn9HBT) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 4:17 |
-| 29 | [Mary](https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 5:30 |
-| 30 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 |
+| 29 | [UFOF](https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:08 |
+| 30 | [Mary](https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 5:30 |
 | 31 | [Two Hands](https://open.spotify.com/track/75Y8OgF0HypPrCKcbYu3no) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 3:52 |
 | 32 | [Humans](https://open.spotify.com/track/20g9uu9hwEaBHFqZ68TN6j) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 3:23 |
-| 33 | [Pretty Things](https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:04 |
-| 34 | [Orange](https://open.spotify.com/track/4xaVx8jb12zUS6l2Ckx6nW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:30 |
+| 33 | [Orange](https://open.spotify.com/track/4xaVx8jb12zUS6l2Ckx6nW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:30 |
+| 34 | [Pretty Things](https://open.spotify.com/track/31AqPCVn9DPDiq4IfBU6WG) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/0ttVHlYJDFPoy54J3uziQd) | 3:04 |
 | 35 | [Rock and Sing](https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 2:03 |
 | 36 | [Breathe in My Lungs](https://open.spotify.com/track/6sSlJJp9lHRL1tPY1QEUmB) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Mythological Beauty](https://open.spotify.com/album/407CZIQW4o1sEzxA4NFoph) | 2:52 |
-| 37 | [Love In Mine](https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Love In Mine](https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB) | 3:18 |
-| 38 | [Open Desert](https://open.spotify.com/track/79GNPyz34aVNeAZXXVlrLv) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:47 |
+| 37 | [Open Desert](https://open.spotify.com/track/79GNPyz34aVNeAZXXVlrLv) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:47 |
+| 38 | [Love In Mine](https://open.spotify.com/track/5KK4WRj0kYRJatZN3lEG52) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Love In Mine](https://open.spotify.com/album/2JKJErveQLxl3DMN6L34fB) | 3:18 |
 | 39 | [Wolf](https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 4:42 |
 | 40 | [I Was Young When I Left Home \(feat\. Big Thief\)](https://open.spotify.com/track/63KU6CDZK4fzBQhSEFymBn) | [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG), [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Decoration Day, Vol\. 4](https://open.spotify.com/album/67uMXsEywNemsQDRbZV35D) | 4:24 |
 | 41 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 |
 | 42 | [Strange](https://open.spotify.com/track/0y8c74ezNCYou4FrX4xI8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:41 |
 
-Snapshot ID: `anfDAAAAAAB1aDMkD0EkPUGCrw6p/Fl3`
+Snapshot ID: `ankUgAAAAADITxWNaUPa7Qvm6DiqDZNf`

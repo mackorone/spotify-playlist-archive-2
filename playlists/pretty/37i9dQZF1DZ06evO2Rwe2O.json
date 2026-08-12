@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 13122,
+  "num_followers": 13124,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAD7BW01ohrfpcOqK4oou6hF",
+  "snapshot_id": "ankUgAAAAAAmDQ1uiC4Ko8Eh5i8Rp7fZ",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Louder Than The Lies",
+      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 344760,
       "name": "Good Good Father - Live",
       "url": "https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 268018,
-      "name": "Your Love Changes Everything",
-      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 268018,
+      "name": "Your Love Changes Everything",
+      "url": "https://open.spotify.com/track/5EK9diaPvJbJHarH2l8Sfb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let It Begin",
         "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
       },
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Louder Than The Lies",
-      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
+      "duration_ms": 287143,
+      "name": "Have Your Way",
+      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The Light Comes",
-        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 261921,
-      "name": "I Want To Tell The World",
-      "url": "https://open.spotify.com/track/57RNAiMB8QPGim8gwqiyGa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Every Time I Breathe",
         "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When The Light Comes",
+        "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 261921,
+      "name": "I Want To Tell The World",
+      "url": "https://open.spotify.com/track/57RNAiMB8QPGim8gwqiyGa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let It Begin",
         "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
       },
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 287143,
-      "name": "Have Your Way",
-      "url": "https://open.spotify.com/track/4hmBFGpaTLXrUqedsgzNCp"
+      "duration_ms": 180997,
+      "name": "Lions And Eagles",
+      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
     },
     {
       "added_at": null,
@@ -615,38 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let It Begin",
-        "url": "https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 180997,
-      "name": "Lions And Eagles",
-      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "I Will Go",
-      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Life Would Be Like",
         "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
       },
@@ -663,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fields Of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
       "artists": [
         {
@@ -672,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Fields of Grace",
-      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
+      "duration_ms": 214933,
+      "name": "I Will Go",
+      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
     },
     {
       "added_at": null,
@@ -699,6 +683,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fields Of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Fields of Grace",
+      "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get the Truth",
+        "url": "https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful Offerings (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 262079,
       "name": "I Belong To God",
       "url": "https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What I Was Made For",
-        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 334173,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2w1ztbOA65oNxOjBVKpnQo"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get the Truth",
-        "url": "https://open.spotify.com/album/1uHOFv8yPQwPOxaFiB2g9T"
+        "name": "What I Was Made For",
+        "url": "https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 257026,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/4DHwQgifWfvk38gZ98DBHU"
+      "duration_ms": 334173,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2w1ztbOA65oNxOjBVKpnQo"
     },
     {
       "added_at": null,

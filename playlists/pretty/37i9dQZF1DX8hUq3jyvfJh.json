@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a Mannda Lym e mais mulheres incr\u00edveis no volume m\u00e1ximo! Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:78WvOgIBo2emAnJLbv7nXO\">Mannda Lym</a>",
-  "num_followers": 196360,
+  "num_followers": 196371,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALUgENnVnFjNwbrpcQfHd2k385J2",
+  "snapshot_id": "AAAAAA8nDfe8nmT+jWQmpF4uIMXX5wZd",
   "tracks": [
     {
       "added_at": "2026-07-06 16:39:02",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
+        "name": "Resenha das Minas 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        }
+      ],
+      "duration_ms": 186992,
+      "name": "Fuso Hor\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
         "name": "BRava",
         "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 174500,
       "name": "INCOMUM",
       "url": "https://open.spotify.com/track/0ZjG6xiuxccP2EvMPjQrjb"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
-        "name": "Resenha das Minas 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04DLIEUzzTn3ojH7601CBS"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        }
-      ],
-      "duration_ms": 186992,
-      "name": "Fuso Hor\u00e1rio - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ajfctrkPbXOaU7JblpCST"
     },
     {
       "added_at": "2026-07-06 16:39:02",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-07-06 16:39:02",
       "album": {
-        "name": "Consegue",
-        "url": "https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir"
-      },
-      "artists": [
-        {
-          "name": "Rafa Laranja",
-          "url": "https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Consegue",
-      "url": "https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6"
-    },
-    {
-      "added_at": "2026-07-06 16:39:02",
-      "album": {
         "name": "Queda Livre",
         "url": "https://open.spotify.com/album/7fRdi8fYU5RlYtpq2e7z5Z"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 205152,
       "name": "Queda Livre",
       "url": "https://open.spotify.com/track/5wLOJe5YV4QSUHNVqzUXLe"
+    },
+    {
+      "added_at": "2026-07-06 16:39:02",
+      "album": {
+        "name": "Consegue",
+        "url": "https://open.spotify.com/album/5t6j9pFbGmKULEOO7e49ir"
+      },
+      "artists": [
+        {
+          "name": "Rafa Laranja",
+          "url": "https://open.spotify.com/artist/0rckl6K5SET6bcBDcNN9c7"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Consegue",
+      "url": "https://open.spotify.com/track/3yXJoCJEXV7zxawvu8WfN6"
     },
     {
       "added_at": "2026-07-06 16:39:02",

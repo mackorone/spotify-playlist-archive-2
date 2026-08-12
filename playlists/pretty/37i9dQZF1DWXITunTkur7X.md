@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,729 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,733 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 13 | [Leef Nu Het Kan](https://open.spotify.com/track/7sMx7mu0VxhEcrfATmLok6) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Leef \(Deluxe Edition\)](https://open.spotify.com/album/5f2Lv9px7pmFzABGxLsxEJ) | 3:01 |
 | 14 | [Bagagedrager](https://open.spotify.com/track/3v0ouAltce6AySBTYBP3pk) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Deze Wereld Is Van Jou](https://open.spotify.com/album/6ZA4I36iU9qhVjsJOGzUnJ) | 3:41 |
 | 15 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
-| 16 | [Blijf Bij Mij](https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijf Bij Mij](https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu) | 2:59 |
-| 17 | [IJskoud](https://open.spotify.com/track/2zVNIG9cfMyFxt8XqJ64s4) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Diamant](https://open.spotify.com/album/0GWbu2w7YoVg5NO9BekOxu) | 3:30 |
+| 16 | [IJskoud](https://open.spotify.com/track/2zVNIG9cfMyFxt8XqJ64s4) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Diamant](https://open.spotify.com/album/0GWbu2w7YoVg5NO9BekOxu) | 3:30 |
+| 17 | [Blijf Bij Mij](https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijf Bij Mij](https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu) | 2:59 |
 | 18 | [Als Het Avond Is](https://open.spotify.com/track/3ciQQMSy1lKDqJbwU9l1LT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Als Het Avond Is](https://open.spotify.com/album/5LlrRTvslzI8fo2WsRcRkc) | 3:25 |
 | 19 | [Samen Voor Altijd](https://open.spotify.com/track/3zJ2U5rN8Pl1Aqnxar7TOw) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Jada Borsato](https://open.spotify.com/artist/6EdpDU1kcKCtErNVnIpUbE), [Day Ewbank](https://open.spotify.com/artist/4hdeWCPuav4Ezwtb9OGCb1), [John Ewbank](https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG) | [Duizend Spiegels](https://open.spotify.com/album/29MG7geSPIrr42IeLmKCNr) | 4:08 |
 | 20 | [Dat Ik Je Mis](https://open.spotify.com/track/4aSPBYgQXGnU1HzoCwDMjG) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [En Hoe Het Dan Ook Weer Dag Wordt](https://open.spotify.com/album/5TNBqIavcqnggyzF1I50qh) | 4:16 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 24 | [Zou Zo Graag](https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T) | [Jurk!](https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28) | [Avondjurk](https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO) | 3:32 |
 | 25 | [Los Van De Grond](https://open.spotify.com/track/27kHxYIpKSNwFJMPoEYBjW) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua), [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [Grote Liefde \(Incl\. Niemand Anders\)](https://open.spotify.com/album/1bhTybvSsTJcHFiadWZr81) | 3:51 |
 | 26 | [Liefde In De Lucht](https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Joshua Nolet](https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV) | [Liefde In De Lucht](https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3) | 3:32 |
-| 27 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
-| 28 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
+| 27 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
+| 28 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
 | 29 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |
 | 30 | [Schouder Aan Schouder](https://open.spotify.com/track/3Zs8NVXn61nMzHwgUdnOw3) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Dromen Durven Delen](https://open.spotify.com/album/1nmOBRgGGHKFxRtkxurEiE) | 3:56 |
 | 31 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 64 | [Zoutelande](https://open.spotify.com/track/59H8FBoOPxW1jOaQToWHXi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike Arnaert](https://open.spotify.com/artist/2ovvfw7LL1RAhlqyGLlvGC) | [Aan](https://open.spotify.com/album/058xGrYZ3uGpjL7M1asXlw) | 3:43 |
 | 65 | [Een Nieuwe Dag](https://open.spotify.com/track/49uHHiEI3TkQ60F619MvgB) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Fier Deluxe](https://open.spotify.com/album/5OO4wiLAUGxCJa1Rbgok2x) | 3:29 |
 
-Snapshot ID: `AAAAAIrjtiKxwF4TK4RH8o8w+ppNUTt2`
+Snapshot ID: `AAAAAOHcPryuLLqEsyGGAiCtO8iAhOGR`

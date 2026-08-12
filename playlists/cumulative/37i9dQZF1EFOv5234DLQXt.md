@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-145 songs - 10 hr 12 min
+145 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Angel Electrico \- MTV Unplugged](https://open.spotify.com/track/7H8TNV5Vc6poupuNxaE6KG) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:45 | 2024-04-03 |  |
 | [Angel Eléctrico \- Remasterizado 2007](https://open.spotify.com/track/40DSOFzJigXSQZkSOM32rs) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:36 | 2024-01-29 | 2024-04-04 |
 | [Artefacto](https://open.spotify.com/track/3gNwT8yZf11yR3fEiLVaTE) | [Tottem & la Salamanca](https://open.spotify.com/artist/3JNn5nh6mLqYf5varKmuhd) | [Artefacto](https://open.spotify.com/album/7ug7FQFdxSNPbGQ8Tz7WK8) | 3:26 | 2024-01-29 |  |
-| [Beautiful](https://open.spotify.com/track/1R3mCl9ya7FanRNWTeiQUE) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 6:12 | 2024-01-29 |  |
+| [Beautiful](https://open.spotify.com/track/1R3mCl9ya7FanRNWTeiQUE) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 7:26 | 2024-01-29 |  |
 | [Bocanada \- En Vivo](https://open.spotify.com/track/5hHsaH5b6zEKKo1igorHhT) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/4O1tWQDZLiE3cE4fRv6a0C) | 4:29 | 2025-07-02 |  |
 | [Bocanada \- En Vivo](https://open.spotify.com/track/7sJka3hr6kdXGrxWHIEWUm) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 4:29 | 2024-01-29 | 2025-07-03 |
 | [Cactus](https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:54 | 2024-01-29 |  |
@@ -102,8 +102,8 @@
 | [Ojo de la Tormenta \- Homenaje a Soda Stereo](https://open.spotify.com/track/4EC78sKFDaSzfQtH3brrHg) | [Los Outsaiders](https://open.spotify.com/artist/2gdeNtgtKrerQPPSjUeoA5) | [Ojo de la Tormenta \(Homenaje a Soda Stereo\)](https://open.spotify.com/album/1RdIDQn7L0iIATbndVzfD2) | 4:07 | 2024-01-29 | 2025-11-14 |
 | [Otra Piel](https://open.spotify.com/track/0f8UKGM3m5ZdxgF46vaikm) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 4:40 | 2024-01-29 |  |
 | [Paseando Por Roma \- Remasterizado 2007](https://open.spotify.com/track/7Dk43uYcLammTOb4kS7Q9g) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:34 | 2024-03-22 |  |
-| [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:31 | 2024-01-29 |  |
-| [Perdonar Es Divino](https://open.spotify.com/track/2SL56OF774pYUz8cWN6Jg0) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:17 | 2024-01-29 |  |
+| [Paseo Inmoral](https://open.spotify.com/track/6VH153hUoK92d0cqsf5l9i) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:30 | 2024-01-29 |  |
+| [Perdonar Es Divino](https://open.spotify.com/track/2SL56OF774pYUz8cWN6Jg0) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 5:18 | 2024-01-29 |  |
 | [Persiana Americana](https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:50 | 2024-01-29 |  |
 | [Picnic En El 4º B \- Me Verás Volver Gira 2007](https://open.spotify.com/track/61GH5nDlNqP1CbVUCh3J3H) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Gira Me Verás Volver](https://open.spotify.com/album/4Sy7VzDS4j1MLIYF85grsZ) | 4:21 | 2024-01-29 |  |
 | [Planeador \(SEP7IMO DIA\)](https://open.spotify.com/track/45utWFSZB3s3IZWdx4UHuc) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [SEP7IMO DIA](https://open.spotify.com/album/0HUncweJW3LTO0YOvOEX4a) | 2:24 | 2024-01-29 |  |
@@ -113,7 +113,7 @@
 | [Primavera 0](https://open.spotify.com/track/4brv29ksZwuqU3R4iegzZ2) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:36 | 2025-04-01 |  |
 | [Prófugos \- Remasterizado 2007](https://open.spotify.com/track/1Tja3miBbbENpqIOAqGWXa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 5:17 | 2024-01-29 |  |
 | [Pudo Ser](https://open.spotify.com/track/7wpwbzqjAsqqsrgps37ugy) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 5:23 | 2024-01-29 |  |
-| [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 | 2024-01-29 |  |
+| [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:34 | 2024-01-29 |  |
 | [Quatro](https://open.spotify.com/track/0O5hSHELzjLmErZOyZwiKc) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 5:07 | 2024-01-29 |  |
 | [Raiz](https://open.spotify.com/track/405X09dZAt6d4bATowZk65) | [Indra T\. Syoji](https://open.spotify.com/artist/1hwDcwT1qdHdajBSpy1uyi) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 4:31 | 2024-01-29 | 2024-10-21 |
 | [Rapto](https://open.spotify.com/track/69Je4J4Gw5AIikOzGqdsDS) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:56 | 2024-01-29 |  |
@@ -125,7 +125,7 @@
 | [Sudestada](https://open.spotify.com/track/4Furx239MHnKbwwDMtDVWG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:31 | 2024-03-22 |  |
 | [Sueles Dejarme Solo](https://open.spotify.com/track/7qz2gGwfzqREato14g4tk4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 | 2024-01-29 |  |
 | [Sweet Sahumerio \- Remasterizado 2007](https://open.spotify.com/track/0GcU3ZhlnF5k3vKjqPRifa) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 6:03 | 2024-01-29 |  |
-| [Tabú](https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:48 | 2024-03-20 |  |
+| [Tabú](https://open.spotify.com/track/5NHyNFYxLRifc2kI1FqDUP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:49 | 2024-03-20 |  |
 | [Tabú \(feat\. Ely Guerra\)](https://open.spotify.com/track/5yEz5u9lfLHDO1s7aMcq8s) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS) | [Argentina Songbook](https://open.spotify.com/album/5FNdQV7A2U2tSAfDuHFhdu) | 4:39 | 2024-01-29 | 2024-03-21 |
 | [Te Hacen Falta Vitaminas](https://open.spotify.com/track/0RlpuslAJMOhXHsuyhEpvn) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 2:38 | 2024-01-29 |  |
 | [Te Hacen Falta Vitaminas](https://open.spotify.com/track/22KA3JofMEiB0rvD7z5Kbg) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Te Hacen Falta Vitaminas \(Official Video\)](https://open.spotify.com/album/64lxmlDJgzblBcty8oCEBJ) | 2:39 | 2024-01-30 | 2024-02-01 |

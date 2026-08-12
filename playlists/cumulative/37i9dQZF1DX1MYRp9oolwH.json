@@ -2479,6 +2479,32 @@
     },
     {
       "album": {
+        "name": "Evare Nuvve (From \"I'M Game - Telugu\")",
+        "url": "https://open.spotify.com/album/1PW0Ft8TF5vQ91BfWImiAd"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Sanare",
+          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264418,
+      "name": "Evare Nuvve - From \"I'M Game - Telugu\"",
+      "url": "https://open.spotify.com/track/0oLfwDDvhEYVIUwBih2lG5"
+    },
+    {
+      "album": {
         "name": "Evare Nuvvu (From \"Premistunnaa\")",
         "url": "https://open.spotify.com/album/5PJ4KHeLnEkp0bGDx2t99H"
       },
@@ -8148,7 +8174,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 242993,
       "name": "Okka Maate (From \"MRP - Neekentha Nakentha\")",
       "url": "https://open.spotify.com/track/1bJgJvuw1bYpWqUEL4HAN6"

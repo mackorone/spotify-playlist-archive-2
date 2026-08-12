@@ -1,12 +1,12 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 127368,
+  "num_followers": 127390,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOjAQzdpxyCdDUQ0PlMDnOXD+zka",
+  "snapshot_id": "AAAAAC1j917JASblxDjoBS52QmpU09ZC",
   "tracks": [
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "El Divorcio",
+        "url": "https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 241583,
+      "name": "El Divorcio",
+      "url": "https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 117950,
       "name": "Cumbia buena",
       "url": "https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "El Divorcio",
-        "url": "https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 241583,
-      "name": "El Divorcio",
-      "url": "https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "\u00bfC\u00f3mo Te Explico?",
-        "url": "https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK"
-      },
-      "artists": [
-        {
-          "name": "Baketha",
-          "url": "https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "\u00bfC\u00f3mo Te Explico?",
-      "url": "https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Rompi",
         "url": "https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 193608,
       "name": "Rompi",
       "url": "https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "\u00bfC\u00f3mo Te Explico?",
+        "url": "https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK"
+      },
+      "artists": [
+        {
+          "name": "Baketha",
+          "url": "https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "\u00bfC\u00f3mo Te Explico?",
+      "url": "https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
       },
       "artists": [
         {
-          "name": "Grupo Alegria",
-          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
         }
       ],
-      "duration_ms": 421026,
-      "name": "Solo por Ella / Ya Te Olvide - Mujer",
-      "url": "https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx"
+      "duration_ms": 175694,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/2nwa6nS5lXnsvwX48RWkbS"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1683,6 +1687,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alegria",
+          "url": "https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg"
+        }
+      ],
+      "duration_ms": 421026,
+      "name": "Solo por Ella / Ya Te Olvide - Mujer",
+      "url": "https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -1695,22 +1715,6 @@
       "duration_ms": 253822,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s",
       "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1731,18 +1735,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
       },
       "artists": [
         {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
         }
       ],
-      "duration_ms": 356938,
-      "name": "La Santa Diabla",
-      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
+      "duration_ms": 188053,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
     }
   ],
   "unique_name": "Cumbias para carretear",

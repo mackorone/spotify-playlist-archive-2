@@ -15274,7 +15274,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -18314,7 +18314,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -24692,7 +24692,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 206360,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/0FRwqcOhrijgeT4yJHyoVC"
@@ -27032,7 +27032,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 165975,
       "name": "Hugsa alltof miki\u00f0 um \u00feig",
       "url": "https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl"
@@ -27412,7 +27412,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 163687,
       "name": "Hver Er S\u00e1 Besti",
       "url": "https://open.spotify.com/track/2oZDf893nA2eQx8QvHT0qN"
@@ -30466,6 +30466,24 @@
       "duration_ms": 133426,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/6TkXViJUO3SA6FMcrNwlD9"
+    },
+    {
+      "album": {
+        "name": "LA 83",
+        "url": "https://open.spotify.com/album/7AI0mYZSh22SsP7ZjF0xBW"
+      },
+      "artists": [
+        {
+          "name": "FMG Copa$tetic Baby",
+          "url": "https://open.spotify.com/artist/1nO0kwcpWI5kFVOgMWHPH1"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206378,
+      "name": "Jock Your Body Now",
+      "url": "https://open.spotify.com/track/1SqWm2UvMa8cI3bIlbb7r8"
     },
     {
       "album": {
@@ -34592,7 +34610,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 209558,
       "name": "Lj\u00f3sin Kvikna",
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
@@ -39894,7 +39912,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 161133,
       "name": "Naggar",
       "url": "https://open.spotify.com/track/0yHR1QnAjAsSC8WAJIWXSS"
@@ -53414,7 +53432,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
@@ -60036,7 +60054,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 176842,
       "name": "T\u00edgrisd\u00fdr",
       "url": "https://open.spotify.com/track/1gOizp5qByisN2mKI64Eox"

@@ -1,12 +1,12 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 498537,
+  "num_followers": 498545,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIGNMe0SH4rAKSFbaxbU1Kng02nQ",
+  "snapshot_id": "AAAAAJm/nWjyPyfXUc/KR91fX6G0Rtp2",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:17",
@@ -427,6 +427,26 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
+        "name": "STAMMTISCHPAROLEN",
+        "url": "https://open.spotify.com/album/191phiyLpFECFHOqVsOkAU"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "duration_ms": 153950,
+      "name": "S\u00dcDAFRIKA",
+      "url": "https://open.spotify.com/track/33cjCblfm9WhGaCRMACaLu"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
         "name": "WIR SIND DIE DEUTSCHEN",
         "url": "https://open.spotify.com/album/602HAtnVA6Z3YC0UOXD8yO"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 147724,
       "name": "WIR SIND DIE DEUTSCHEN",
       "url": "https://open.spotify.com/track/4zFSajqGWIvzih1dfyfwjP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
-        "name": "STAMMTISCHPAROLEN",
-        "url": "https://open.spotify.com/album/191phiyLpFECFHOqVsOkAU"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
-        }
-      ],
-      "duration_ms": 153950,
-      "name": "S\u00dcDAFRIKA",
-      "url": "https://open.spotify.com/track/33cjCblfm9WhGaCRMACaLu"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
-      },
-      "artists": [
-        {
-          "name": "MXM",
-          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
-        }
-      ],
-      "duration_ms": 240761,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
-      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 210869,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
+      },
+      "artists": [
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "duration_ms": 240761,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -815,22 +815,26 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Schau mal herein",
-        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
+        "name": "ALDI",
+        "url": "https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3"
       },
       "artists": [
         {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
         },
         {
-          "name": "Florian Silbereisen",
-          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
+          "name": "Marc Eggers",
+          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
+        },
+        {
+          "name": "bozi",
+          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
         }
       ],
-      "duration_ms": 183133,
-      "name": "Schau mal herein",
-      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
+      "duration_ms": 140818,
+      "name": "ALDI",
+      "url": "https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -855,26 +859,22 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "ALDI",
-        "url": "https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3"
+        "name": "Schau mal herein",
+        "url": "https://open.spotify.com/album/69m1H2ksabmBn4oCQzYut7"
       },
       "artists": [
         {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
         },
         {
-          "name": "Marc Eggers",
-          "url": "https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf"
-        },
-        {
-          "name": "bozi",
-          "url": "https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU"
+          "name": "Florian Silbereisen",
+          "url": "https://open.spotify.com/artist/4zgxsfsKRmAn6Wj2HXRYcq"
         }
       ],
-      "duration_ms": 140818,
-      "name": "ALDI",
-      "url": "https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0"
+      "duration_ms": 183133,
+      "name": "Schau mal herein",
+      "url": "https://open.spotify.com/track/0f6pPvxwkvBFaIpfhAQHgt"
     },
     {
       "added_at": "2026-08-06 22:01:17",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-08-06 22:01:17",
       "album": {
-        "name": "Keine Freunde bleiben (feat. Mia Julia)",
-        "url": "https://open.spotify.com/album/56QPDNJ6Ziz8RGvwOPSOvE"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "Keine Freunde bleiben (feat. Mia Julia)",
-      "url": "https://open.spotify.com/track/0EULWVqXc1O6SLccguCoTH"
-    },
-    {
-      "added_at": "2026-08-06 22:01:17",
-      "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 185437,
       "name": "Layla",
       "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+    },
+    {
+      "added_at": "2026-08-06 22:01:17",
+      "album": {
+        "name": "Keine Freunde bleiben (feat. Mia Julia)",
+        "url": "https://open.spotify.com/album/56QPDNJ6Ziz8RGvwOPSOvE"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "Keine Freunde bleiben (feat. Mia Julia)",
+      "url": "https://open.spotify.com/track/0EULWVqXc1O6SLccguCoTH"
     },
     {
       "added_at": "2026-08-06 22:01:17",

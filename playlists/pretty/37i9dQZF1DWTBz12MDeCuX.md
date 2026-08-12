@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,141 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,098 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [marie](https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [marie](https://open.spotify.com/album/6FhxvQfSYvQn1pQVExw0i4) | 3:08 |
 | 99 | [Soda Zitron](https://open.spotify.com/track/7FytLKznuhvK7yHtCxZaP7) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Soda Zitron](https://open.spotify.com/album/6xLhRYX5YJN8LGFNeJ1GYC) | 2:57 |
 
-Snapshot ID: `AAAAACqopfCERJFI8SUsYt0skv1MLcbx`
+Snapshot ID: `AAAAAPxjhcn0u8AaYiCfZlsBf3B1wi1v`

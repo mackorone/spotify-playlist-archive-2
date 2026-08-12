@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
-  "num_followers": 595428,
+  "num_followers": 595666,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB8T39sT09oSIWqCSKAMR3orxknK",
+  "snapshot_id": "AAAAAF8EZlEoamAsI1Zi3Uuyjy3Ptn2K",
   "tracks": [
     {
       "added_at": "2026-05-04 16:53:23",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-05-04 16:53:23",
       "album": {
+        "name": "Don\u2019t Stop Movin\u2019",
+        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
+      },
+      "artists": [
+        {
+          "name": "Livin' Joy",
+          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Don't Stop Movin'",
+      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
+    },
+    {
+      "added_at": "2026-05-04 16:53:23",
+      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 591733,
       "name": "French Kiss - The Original Underground Mix",
       "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
-    },
-    {
-      "added_at": "2026-05-04 16:53:23",
-      "album": {
-        "name": "Don\u2019t Stop Movin\u2019",
-        "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
-      },
-      "artists": [
-        {
-          "name": "Livin' Joy",
-          "url": "https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu"
-        }
-      ],
-      "duration_ms": 319866,
-      "name": "Don't Stop Movin'",
-      "url": "https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc"
     },
     {
       "added_at": "2026-05-04 16:53:23",

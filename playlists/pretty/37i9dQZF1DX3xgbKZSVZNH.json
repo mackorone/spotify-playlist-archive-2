@@ -1,12 +1,12 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 304461,
+  "num_followers": 304500,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFBrMJbcES4A6NebvjGtbwpXx0KU",
+  "snapshot_id": "AAAAAKmoGei3WiAe/y02BV+slO0XtVLS",
   "tracks": [
     {
       "added_at": "2026-07-09 17:06:41",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
+        "name": "Bon Jovi Greatest Hits",
+        "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
       },
       "artists": [
         {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 248266,
-      "name": "Hungry Eyes",
-      "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
+      "duration_ms": 353106,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH"
     },
     {
       "added_at": "2026-07-09 17:06:41",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-07-09 17:06:41",
       "album": {
-        "name": "Bon Jovi Greatest Hits",
-        "url": "https://open.spotify.com/album/3Ad4QdO0EJr1c2livr9cmm"
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
         }
       ],
-      "duration_ms": 353106,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7o10Pto0YFchZl1zL4dLPH"
+      "duration_ms": 248266,
+      "name": "Hungry Eyes",
+      "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
     },
     {
       "added_at": "2026-07-09 17:06:41",

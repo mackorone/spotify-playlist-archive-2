@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52vakQNmxYD.md) - [plain]
 
 > Más que una moda, es un estilo de vida que trasciende\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,492 likes - 163 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,529 likes - 163 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52vakQNmxYD.md) - [plain]
 | 162 | [Corrido de Luis Aguirre \(Época Pesada\) \- En Vivo](https://open.spotify.com/track/0BBBfnslK0y5mo1hiVTz3H) | [Jorge Gamboa](https://open.spotify.com/artist/34H9dYJWpNi8w6s8RdQusx), [El Chalinillo](https://open.spotify.com/artist/3ncPsQYH14tuyWl6cScIQL) | [Corrido de Luis Aguirre \(Época Pesada\) \[En Vivo\]](https://open.spotify.com/album/7j2wb1HRjtHqrF4XuuIMvz) | 3:12 |
 | 163 | [Narco Cumpleaños](https://open.spotify.com/track/6PLxslViqiG8q7ZOC3HNJ6) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Narco Cumpleaños](https://open.spotify.com/album/758NJOV3ZE2YPjEjZleBTt) | 2:21 |
 
-Snapshot ID: `AAAAAPnXUytE9iItuOEILEPK6rSx3FEz`
+Snapshot ID: `AAAAAKm1/nNP9mjOPtZdiiFkzRNzhtKm`

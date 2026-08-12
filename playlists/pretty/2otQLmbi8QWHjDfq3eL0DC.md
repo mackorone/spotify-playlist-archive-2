@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > Get ready to dance with the best House Music! Featuring pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Fred Again.\. and more\. Perfect for clubbing, parties or just vibing\. Deep House, Tech House, Progressive House &amp; Disco House\. Updated Weekly! Like &amp; Save.
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,309,089 likes - 100 songs - 5 hr 3 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,309,052 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

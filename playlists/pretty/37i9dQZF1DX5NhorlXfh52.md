@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NhorlXfh52.md) - [plain]
 
 > Get ready for CORTIS's \[PUT YOUR PHONE DOWN\] tour and dive into the ultimate setlist! 다가오는 CORTIS의 투어를 준비하며 히트곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,098 likes - 13 songs - 36 min 39 sec
+[Spotify](https://open.spotify.com/user/spotify) - 28,194 likes - 13 songs - 36 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NhorlXfh52.md) - [plain]
 | 12 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 |
 | 13 | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/1pFQRreMptp3dkh64WiUNx) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [What You Want \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/0YoNZBlXu7clpO3QcBrldX) | 3:14 |
 
-Snapshot ID: `AAAAABOqUIxQq7S3UX37iYShLC/+PCcI`
+Snapshot ID: `AAAAAJpx6f/ngRTD/0MK7R5mo/h2YBOc`

@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MKKSJUVEYF.md) - [plain]
 | 64 | [Zingara](https://open.spotify.com/track/4kzOYNpDNmkSGs9w6Z7dVB) | [Iva Zanicchi](https://open.spotify.com/artist/06WyIm2la1sB8sKdfWAvU9) | [Italian Classics: Iva Zanicchi Collection, Vol\. 1](https://open.spotify.com/album/5wJwNAENAfgsAecab15bIh) | 2:33 |
 | 65 | [Chi Non Lavora Non Fa L'Amore \- Remastered 2009](https://open.spotify.com/track/5QNEUi7oFTKcOrEMzLA9uV) | [Claudia Mori](https://open.spotify.com/artist/0c5nXKT37cYsbaXiw5mFVk) | [Claudiamoricollection](https://open.spotify.com/album/4Gt6wfxjDhC6W1eu21hunV) | 2:58 |
 
-Snapshot ID: `AAAAAFpWhBhYmXDSPH2sqaY4gCsm9CSv`
+Snapshot ID: `AAAAAHF8oklZf2VqXNWs+A/EyDYTjqoE`

@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Bonobo
 
-503 songs - 1 day 7 hr 30 min
+504 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Happy Days \- Edit](https://open.spotify.com/track/0lPnmGoJ4iSDIflLs1Vchl) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Happy Tears](https://open.spotify.com/album/4MHelmVR9cbC7kkbmJHJAc) | 1:54 | 2025-06-12 | 2025-07-01 |
 | [hav u a sec](https://open.spotify.com/track/24cyaMZTXupAMeBAdgOyC6) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [hav u a sec](https://open.spotify.com/album/16Gl86UJDr0uQe244RYCui) | 4:58 | 2026-07-23 |  |
 | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/track/6AlTHpfu0unvKz7uc3PFVv) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Heartfalls \(feat\. Khazali\)](https://open.spotify.com/album/0pav2XJdIIb7cswufb8ZwF) | 3:22 | 2025-03-21 | 2025-07-25 |
-| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-13 |  |
+| [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 | 2026-02-13 | 2026-08-12 |
 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 | 2024-10-24 | 2025-02-14 |
 | [Hey Baby](https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Hey Baby](https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q) | 3:56 | 2024-05-24 | 2025-03-07 |
 | [Hey Hi Hello](https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Hey Hi Hello](https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p) | 3:09 | 2025-07-03 | 2025-08-28 |
@@ -505,6 +505,7 @@
 | [Where We Go \(Calypso\)](https://open.spotify.com/track/1EYYQBuaBraV7WBdTfSwwe) | [Compact Disk Dummies](https://open.spotify.com/artist/67hOz31eSjfEo9FR2N0ST5) | [Where We Go \(Calypso\)](https://open.spotify.com/album/3txDgqkWqeaHnn3jQJrvOb) | 3:25 | 2024-03-22 | 2025-01-17 |
 | [Who Do You Believe](https://open.spotify.com/track/0H386Lr3iWsKyonoKcncT0) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Who Do You Believe](https://open.spotify.com/album/1GcfbfpC3npBgo89qHKRcO) | 4:03 | 2021-10-28 | 2024-03-22 |
 | [Wild Night](https://open.spotify.com/track/13gxt7JI2OH5vvJthc9vXH) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Headroom \(Deluxe Edition\)](https://open.spotify.com/album/5f0t2FvbugVNsbmfSEh1pi) | 3:25 | 2021-10-28 | 2024-03-22 |
+| [Woman](https://open.spotify.com/track/0nVA2gw5AKuuJjiVKwJvhB) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv), [deadream](https://open.spotify.com/artist/17TL40UHDx9A5qfF3tskms) | [Woman](https://open.spotify.com/album/0VJhL9eUwtKSAiqVOYKsFV) | 3:45 | 2026-07-23 |  |
 | [Won't Give Your Love](https://open.spotify.com/track/1dO2xUT8D2MsscEEOcKX0Y) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Won't Give Your Love](https://open.spotify.com/album/3HJk1ikOOqmL4g07YRGG9l) | 2:43 | 2024-03-22 | 2024-09-20 |
 | [Wonderful Life '25](https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Wonderful Life '25](https://open.spotify.com/album/1AF8ip6XRTWQkN1y5rQm2a) | 2:58 | 2025-05-29 | 2026-05-08 |
 | [words](https://open.spotify.com/track/26jHXGOE2EENKlCByolM1x) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [words](https://open.spotify.com/album/0wV2RsQZbMRVH1MynpbBSD) | 2:17 | 2025-05-08 | 2025-10-04 |

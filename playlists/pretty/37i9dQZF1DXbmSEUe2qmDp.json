@@ -1,12 +1,12 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482860,
+  "num_followers": 482861,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKAn2GDlV++0vIu+RR/Uu7sK1yZk",
+  "snapshot_id": "AAAAACHnshKVCa7epc45y0OfYpIEZ033",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:33",
@@ -31,26 +31,6 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Ca\u00ed Na Sua L\u00e1bia",
-        "url": "https://open.spotify.com/album/3JdvqjqeCJNs5nF3zq5Xt2"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jr.",
-          "url": "https://open.spotify.com/artist/7dgev01uAFXg3mU5tVeDM7"
-        },
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Ca\u00ed Na Sua L\u00e1bia",
-      "url": "https://open.spotify.com/track/1rKIYDHKRzf3B0sqxVMkCI"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
         "name": "Postinho de Gasolina",
         "url": "https://open.spotify.com/album/5LEVnXg3usIhjeS7HAadfs"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 143371,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/0xXYRMvxCUBKWVptybXSjB"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
+        "name": "Ca\u00ed Na Sua L\u00e1bia",
+        "url": "https://open.spotify.com/album/3JdvqjqeCJNs5nF3zq5Xt2"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jr.",
+          "url": "https://open.spotify.com/artist/7dgev01uAFXg3mU5tVeDM7"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Ca\u00ed Na Sua L\u00e1bia",
+      "url": "https://open.spotify.com/track/1rKIYDHKRzf3B0sqxVMkCI"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -179,26 +179,6 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2lARVUV40jZnnWXWp4I2Fv"
-      },
-      "artists": [
-        {
-          "name": "Thainara e Thatiane",
-          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
-        },
-        {
-          "name": "Gian & Giovani",
-          "url": "https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/4uZRf8dVBGZRGPfN0VRyxI"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
         "name": "Te Conhe\u00e7o de Onde?",
         "url": "https://open.spotify.com/album/6Ucn1KxdT6QbSGnNORbzX9"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 145963,
       "name": "Te Conhe\u00e7o de Onde?",
       "url": "https://open.spotify.com/track/20nB8sd9Foj2VFLz0834hp"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
+        "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2lARVUV40jZnnWXWp4I2Fv"
+      },
+      "artists": [
+        {
+          "name": "Thainara e Thatiane",
+          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
+        },
+        {
+          "name": "Gian & Giovani",
+          "url": "https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb"
+        }
+      ],
+      "duration_ms": 255875,
+      "name": "Tatuagem (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/4uZRf8dVBGZRGPfN0VRyxI"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Retronejo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01wk7MYyaS6GEHKb9tpwzX"
-      },
-      "artists": [
-        {
-          "name": "Matheus Henrique & Gabriel",
-          "url": "https://open.spotify.com/artist/0k2WWgstIfg1IXJbsxf0pZ"
-        }
-      ],
-      "duration_ms": 145722,
-      "name": "Cerveja Falando - Ao Vivo",
-      "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
         "name": "PIX DE 1 REAL",
         "url": "https://open.spotify.com/album/6Z5iturICQytbtsloXqaOa"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 152830,
       "name": "PIX DE 1 REAL",
       "url": "https://open.spotify.com/track/5WiNzAfWe9mhgFoqCZFIQi"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
+        "name": "Retronejo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01wk7MYyaS6GEHKb9tpwzX"
+      },
+      "artists": [
+        {
+          "name": "Matheus Henrique & Gabriel",
+          "url": "https://open.spotify.com/artist/0k2WWgstIfg1IXJbsxf0pZ"
+        }
+      ],
+      "duration_ms": 145722,
+      "name": "Cerveja Falando - Ao Vivo",
+      "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -371,6 +371,22 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
+        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
+      },
+      "artists": [
+        {
+          "name": "Elis Justi",
+          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
+        }
+      ],
+      "duration_ms": 165822,
+      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
         "name": "Porta De Balada (Ao Vivo)",
         "url": "https://open.spotify.com/album/2AV2iuD8aoVlubd4uWkxBA"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 165481,
       "name": "Conte\u00fado Abusivo - Ao Vivo",
       "url": "https://open.spotify.com/track/64WaTsz7QqYEXPYv0uidA7"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
-        "name": "Sequ\u00eancia de Fotos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7pktxBCrRL1drzh01aWGtn"
-      },
-      "artists": [
-        {
-          "name": "Elis Justi",
-          "url": "https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt"
-        }
-      ],
-      "duration_ms": 165822,
-      "name": "Sequ\u00eancia de Fotos - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EnJEBV61bd4A0HflT2Vfr"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
-      },
-      "artists": [
-        {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
-        },
-        {
-          "name": "Juliana Marques",
-          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
-        }
-      ],
-      "duration_ms": 132269,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
         "name": "0 KM Chorado",
         "url": "https://open.spotify.com/album/5dln2Uw9L65YzASRVfdFXI"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 201509,
       "name": "0 KM Chorado",
       "url": "https://open.spotify.com/track/6cWYhI4j2WzrgexGLOd3J9"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
+      },
+      "artists": [
+        {
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+        },
+        {
+          "name": "Juliana Marques",
+          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
+        }
+      ],
+      "duration_ms": 132269,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Simplesmente Deluxe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/625q4hSNT1fDIOUv79hbEj"
-      },
-      "artists": [
-        {
-          "name": "J\u00fanior e C\u00e9zar",
-          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
-        }
-      ],
-      "duration_ms": 146206,
-      "name": "Garrafa De \u00c1gua - Ao Vivo",
-      "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
         "name": "Ao Vivo no Studio Bar, Vol.1",
         "url": "https://open.spotify.com/album/2P3xr478xr9eUnpOsfIUQo"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 228351,
       "name": "Cacos de Briga - Ao Vivo",
       "url": "https://open.spotify.com/track/0aTRJjEmWkXicXmzZFeuxS"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
+        "name": "Simplesmente Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/625q4hSNT1fDIOUv79hbEj"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "duration_ms": 146206,
+      "name": "Garrafa De \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Aqui Tem Sentimento, Ep.3",
-        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Henrique",
-          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
-        }
-      ],
-      "duration_ms": 193283,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
         "name": "Brincadeira Gostosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/3jnWJyosYXVTCHeX2hGg7j"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 174698,
       "name": "Brincadeira Gostosa - Ao Vivo",
       "url": "https://open.spotify.com/track/5o1cSr6a6qhooelaFTXP05"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
+        "name": "Aqui Tem Sentimento, Ep.3",
+        "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Henrique",
+          "url": "https://open.spotify.com/artist/7z48B4UbsaRaEfsRKgqDJk"
+        }
+      ],
+      "duration_ms": 193283,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/70a5UtwaRBqKE9jcr7s96y"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
+        "name": "No Rancho, Vol. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6"
+      },
+      "artists": [
+        {
+          "name": "Ana Karla",
+          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+        }
+      ],
+      "duration_ms": 162837,
+      "name": "N\u00e3o Tenho Advogado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
         "name": "Meu Astral",
         "url": "https://open.spotify.com/album/2j9q1BZPQELmyK4DCAaF3W"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 131432,
       "name": "Congela",
       "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
-        "name": "No Rancho, Vol. 01 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01bDZkfxolGLZ2kG18EHK6"
-      },
-      "artists": [
-        {
-          "name": "Ana Karla",
-          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
-        }
-      ],
-      "duration_ms": 162837,
-      "name": "N\u00e3o Tenho Advogado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UThpd6uiIEi9cJWmNpKe6"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
         "name": "Ao Vivo em Campo Grande, EP. 1",
         "url": "https://open.spotify.com/album/7o378e3AwijB3VGyZGQjUt"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 145900,
       "name": "Vivendo Errado - Ao Vivo",
       "url": "https://open.spotify.com/track/5iTgiuRBUHkhqoNUcRxMOX"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
+        "name": "Melhor Que Nada",
+        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        }
+      ],
+      "duration_ms": 131277,
+      "name": "Melhor Que Nada",
+      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
+    },
+    {
+      "added_at": "2026-08-07 03:00:33",
+      "album": {
         "name": "Guenta o Choro (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/7cHvfn6RrEyHdpWO6GNlgI"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 166470,
       "name": "Mulher Sabe, Mulher Sente",
       "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
-    },
-    {
-      "added_at": "2026-08-07 03:00:33",
-      "album": {
-        "name": "Melhor Que Nada",
-        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        }
-      ],
-      "duration_ms": 131277,
-      "name": "Melhor Que Nada",
-      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uQHjCY1j0Bbwkol3AxYw2"
+        "name": "No 12 & Sem Freio, Vol. 5 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/27zC5QuiunZPHEbh0J6x0I"
       },
       "artists": [
         {
-          "name": "Melissa e Milena",
-          "url": "https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw"
+          "name": "J\u00falia Mariano",
+          "url": "https://open.spotify.com/artist/1JHXmHgKOpMTwr2B7QACoy"
         }
       ],
-      "duration_ms": 206094,
-      "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/2WdOgGVJXlUXz6ZoUiQnrG"
+      "duration_ms": 176928,
+      "name": "Ningu\u00e9m Me Avisou - Ao Vivo",
+      "url": "https://open.spotify.com/track/3VyiCZwS8E1ByvpAnfhgie"
     },
     {
       "added_at": "2026-08-07 03:00:33",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-08-07 03:00:33",
       "album": {
-        "name": "No 12 & Sem Freio, Vol. 5 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/27zC5QuiunZPHEbh0J6x0I"
+        "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uQHjCY1j0Bbwkol3AxYw2"
       },
       "artists": [
         {
-          "name": "J\u00falia Mariano",
-          "url": "https://open.spotify.com/artist/1JHXmHgKOpMTwr2B7QACoy"
+          "name": "Melissa e Milena",
+          "url": "https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw"
         }
       ],
-      "duration_ms": 176928,
-      "name": "Ningu\u00e9m Me Avisou - Ao Vivo",
-      "url": "https://open.spotify.com/track/3VyiCZwS8E1ByvpAnfhgie"
+      "duration_ms": 206094,
+      "name": "Coisas Esot\u00e9ricas / N\u00e3o Vou Mais Chorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2WdOgGVJXlUXz6ZoUiQnrG"
     },
     {
       "added_at": "2026-08-07 03:00:33",

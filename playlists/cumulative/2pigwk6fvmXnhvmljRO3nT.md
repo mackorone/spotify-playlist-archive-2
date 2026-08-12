@@ -4,7 +4,7 @@
 
 > 
 
-8,797 songs - 22 day 9 hr 15 min
+8,800 songs - 22 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5767,6 +5767,7 @@
 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 | 2024-12-05 |  |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2025-03-17 |  |
 | [Shelter](https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/album/2vVfxcvBQAGnEKM3zM0zxw) | 3:38 | 2025-03-12 |  |
+| [Shiawasenomonosashi](https://open.spotify.com/track/5iUjWA0lGW4TXr6KJs6Y0r) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 5:27 | 2026-08-11 |  |
 | [Shibuya \(feat\. Syd\)](https://open.spotify.com/track/6WVSnyKQGzs1fosa2I3FMQ) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 2:16 | 2025-01-03 |  |
 | [Shiki no Uta](https://open.spotify.com/track/3IYPLyQDgCJsyRgJ1NWWGv) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 5:00 | 2025-09-11 |  |
 | [Shiki No Uta](https://open.spotify.com/track/7Eyj9NYnHec30O9ANkloFo) | [The Brotet](https://open.spotify.com/artist/1RMsv0fIkVQpdA93TvfLfk) | [Shiki No Uta](https://open.spotify.com/album/1Kh493hhUBAwkmM7w0EvpR) | 6:23 | 2025-04-30 |  |
@@ -8000,6 +8001,7 @@
 | [リテラチュア](https://open.spotify.com/track/1Oc8AYDtd0Hcpz8Ijl4JaT) | [上田麗奈](https://open.spotify.com/artist/0Ebjc98xSQOvz5kUPIzBWH) | [リテラチュア](https://open.spotify.com/album/2PTMl1FagFSWwFFwA98SOP) | 4:00 | 2025-05-17 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2025-01-04 |  |
 | [ルミナス](https://open.spotify.com/track/2imEBsXVoLpYTqkTAfycay) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 4:11 | 2026-03-22 |  |
+| [ルージュの伝言](https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:02 | 2026-08-11 |  |
 | [レイテンシーガール](https://open.spotify.com/track/1SgLBqrhVLZkXFqd5DH5cW) | [フレネシ](https://open.spotify.com/artist/1YoSYNmMHPZEa2WNNUS1oP) | [ゲンダイ](https://open.spotify.com/album/5zOMiKrqwNSTQMBnmWrzQE) | 4:09 | 2025-01-24 |  |
 | [レイン](https://open.spotify.com/track/2LZ9iobmtiQa52mZMIebuH) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [dead stock](https://open.spotify.com/album/2ixMIjm8h9yWYzWer77AhV) | 4:15 | 2025-05-07 |  |
 | [レイン](https://open.spotify.com/track/7wiweCvxdbBw2mTP3AaY9q) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [SID 10th Anniversary BEST](https://open.spotify.com/album/5fsq4xsJpaGlzLPOwU6kHW) | 4:16 | 2025-01-15 |  |
@@ -8050,6 +8052,7 @@
 | [以下、勅命](https://open.spotify.com/track/3ocYVarcmradbXIHKY44Ks) | [オルフェーヴル \(CV\. 日笠陽子\)](https://open.spotify.com/artist/2YiY6vEoIiyVW3WyDnQNIM) | [『ウマ娘 プリティーダービー』WINNING LIVE 24](https://open.spotify.com/album/5Yz7vK4nu9lMIEm8VwPjrZ) | 4:22 | 2026-01-16 |  |
 | [伊豆甘夏納豆売り](https://open.spotify.com/track/3lo62oIkdf6b5ufn6HUaHh) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [BRASILIAN SKIES](https://open.spotify.com/album/0zXeZw0oFC2Db99RqlfHur) | 6:49 | 2025-01-04 |  |
 | [何なんw](https://open.spotify.com/track/2Nl3vx5qRnATIckVRZxb4T) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 5:20 | 2025-01-03 |  |
+| [何もきかないで](https://open.spotify.com/track/1TVytW8KF6lq6yFtJze61w) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [COBALT HOUR](https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu) | 3:11 | 2026-08-11 |  |
 | [僕が君に出来ること](https://open.spotify.com/track/4zYWl3eovDB7WWtbqoZH22) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [僕が君に出来ること](https://open.spotify.com/album/271UWxoVi51iUnjfUVMDnR) | 3:27 | 2025-01-03 |  |
 | [僕が死のうと思ったのは](https://open.spotify.com/track/0QGDmJCe9mZOe2YXVOjqTs) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/1TmNiPfVxj6ktlhbRdy8Um) | 6:23 | 2025-01-03 |  |
 | [僕と三原色](https://open.spotify.com/track/5C3AH2Pxm8r2wovLBFWHe7) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 | 2026-06-16 |  |

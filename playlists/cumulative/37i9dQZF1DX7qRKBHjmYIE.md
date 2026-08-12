@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Girl Ultra & Buscabulla.
 
-1,033 songs - 2 day 7 hr 36 min
+1,034 songs - 2 day 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Love You Like A Love Song](https://open.spotify.com/track/3Ge27Zxv9DLpYenWdoUyVJ) | [Kauai45](https://open.spotify.com/artist/01veRCzqGIkUMo7L5PyBAD) | [Love You Like A Love Song](https://open.spotify.com/album/52oyEMc0XE02mCIGFJ1bys) | 1:21 | 2023-02-17 | 2023-05-13 |
 | [LOVELANGUAGE](https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [LOVELANGUAGE](https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio) | 3:44 | 2023-10-20 | 2024-04-13 |
 | [low key](https://open.spotify.com/track/3bCRdEmYFPFQXQuw4kVKab) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [low key](https://open.spotify.com/album/7C0ZJIs2Xe4VdwyhENJSQF) | 4:14 | 2024-01-19 | 2024-04-13 |
-| [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-11-07 |  |
+| [Lucero](https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Lucero](https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A) | 3:46 | 2025-11-07 | 2026-08-12 |
 | [luchador](https://open.spotify.com/track/32NwtN9F0vSxTOZQpMIuJZ) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [luchador ep](https://open.spotify.com/album/3oaIJcAqtbu6NMzcpFgLk0) | 2:22 | 2023-11-17 | 2024-01-29 |
 | [Lucid Dream](https://open.spotify.com/track/0EH9R67SvlEYGFwdVpa6bB) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Lucid Dream](https://open.spotify.com/album/61fX7FNQK2NvtK16unJ8Uj) | 3:07 | 2021-12-02 | 2022-01-25 |
 | [LULUNA](https://open.spotify.com/track/3FEEtt6a2JNuoxkBPOaFO8) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [LULUNA](https://open.spotify.com/album/6ONpKrCEQZQGVCULcGTEcq) | 3:08 | 2024-01-12 | 2024-04-19 |
@@ -842,6 +842,7 @@
 | [sin distraccion](https://open.spotify.com/track/7GYV8Tducpghn4cAURvCIs) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [sin distraccion](https://open.spotify.com/album/6tZr8Y2iRffoLtWxUF0EXG) | 2:58 | 2024-04-12 | 2024-04-27 |
 | [Sin Dormir \- Live](https://open.spotify.com/track/26NRRiDHgh3SXa6ovSCINl) | [Jaswiry Morel](https://open.spotify.com/artist/1fGZCYZpR1kUczhB55AJaW) | [Sin Dormir \(Live\)](https://open.spotify.com/album/0AMLHfrKcXe464LzwHwnK6) | 4:47 | 2022-06-03 | 2022-07-28 |
 | [Sin Explicación](https://open.spotify.com/track/3vHKVGqtZsMwWt0EJ9qxPi) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 1:58 | 2022-10-27 | 2022-11-05 |
+| [Sin Mí](https://open.spotify.com/track/0eUR25AAXUBYWTGhNoSX5u) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Sin Mí](https://open.spotify.com/album/33A5vKIqvwVGfvtnhx0GNh) | 2:59 | 2026-08-07 |  |
 | [sin ti](https://open.spotify.com/track/4ot2OO7TQ67W8avmH1zL1f) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [sin ti](https://open.spotify.com/album/04jTnT3HRRda7v1L3qvAAw) | 2:52 | 2021-12-02 | 2022-07-23 |
 | [SINCERA TE](https://open.spotify.com/track/0LHx4VkNoLuC60p23xUpig) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 4:02 | 2024-01-12 | 2024-03-02 |
 | [SINCERA TE](https://open.spotify.com/track/2bDPkeiKH5PMRPMpNeb3Kt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 4:02 | 2023-12-01 | 2024-01-19 |

@@ -1,12 +1,12 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1101356,
+  "num_followers": 1101375,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKUs15PKQr+T6MlUUtF6xCEmDkU",
+  "snapshot_id": "AAAAANZSXdIFXEowjUyMvOlmmDoO2vOE",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:47",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5"
-      },
-      "artists": [
-        {
-          "name": "Yearboox",
-          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5"
+      },
+      "artists": [
+        {
+          "name": "Yearboox",
+          "url": "https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "light up",
+        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "light up",
+      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 191962,
       "name": "I Don't Want To Fall In Love Again",
       "url": "https://open.spotify.com/track/54HHg1hkAWyJkS2QFeyOrY"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "light up",
-        "url": "https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "light up",
-      "url": "https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
+        "name": "Into You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 246901,
+      "name": "Into You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 150994,
       "name": "Water The Flowers",
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Into You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 246901,
-      "name": "Into You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "tonight",
-        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
+        "name": "Happy For Myself",
+        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
       },
       "artists": [
         {
-          "name": "BEACHPEOPLE",
-          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 164477,
-      "name": "tonight",
-      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
+      "duration_ms": 165366,
+      "name": "Happy For Myself",
+      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1255,6 +1255,22 @@
       "duration_ms": 161506,
       "name": "Lady In the GPS",
       "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "tonight",
+        "url": "https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ"
+      },
+      "artists": [
+        {
+          "name": "BEACHPEOPLE",
+          "url": "https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba"
+        }
+      ],
+      "duration_ms": 164477,
+      "name": "tonight",
+      "url": "https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1303,22 +1319,6 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
-        "name": "Happy For Myself",
-        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Happy For Myself",
-      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "When A Good Man Cries",
-        "url": "https://open.spotify.com/album/2QAkD0UQPequuKUym51naj"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Morning Birds",
         "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
       },
@@ -1475,18 +1459,34 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "eat some pasta",
-        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
+        "name": "When A Good Man Cries",
+        "url": "https://open.spotify.com/album/2QAkD0UQPequuKUym51naj"
       },
       "artists": [
         {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 141762,
-      "name": "eat some pasta",
-      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 161787,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Weit weg",
-        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
+        "name": "eat some pasta",
+        "url": "https://open.spotify.com/album/2sPuR1EOOWzQ4c6xsMR0OQ"
       },
       "artists": [
         {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
         }
       ],
-      "duration_ms": 161787,
-      "name": "Weit weg",
-      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
+      "duration_ms": 141762,
+      "name": "eat some pasta",
+      "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
     },
     {
       "added_at": "2026-08-06 22:00:47",

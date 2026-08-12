@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: After",
-  "num_followers": 1664524,
+  "num_followers": 1664474,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMzanFUID5n7gn7kSGZleH0W/yO2",
+  "snapshot_id": "AAAAAPienMvNItydxWKG3epKn71ZMtH2",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:11",
@@ -73,20 +73,20 @@
       "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
     },
     {
-      "added_at": "2026-07-31 16:09:08",
+      "added_at": "2026-08-11 13:37:13",
       "album": {
-        "name": "Greetings From Bleak St.",
-        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/6FFIUdRFaJW6cr2ZaD40hZ"
       },
       "artists": [
         {
-          "name": "Josie Edwards",
-          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 226041,
-      "name": "Chemical Light",
-      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
+      "duration_ms": 245841,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/69wt3kOH6ZtogwiLGOt394"
     },
     {
       "added_at": "2026-07-31 16:09:08",
@@ -183,6 +183,22 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-07-31 16:09:08",
+      "album": {
+        "name": "Greetings From Bleak St.",
+        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "duration_ms": 226041,
+      "name": "Chemical Light",
+      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -729,22 +745,6 @@
       "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
     },
     {
-      "added_at": "2026-07-10 16:27:35",
-      "album": {
-        "name": "Sweet Fortune",
-        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 233736,
-      "name": "Too Many Ways",
-      "url": "https://open.spotify.com/track/3ldsizLTF9X7JyivBQ27Fy"
-    },
-    {
       "added_at": "2026-07-17 04:02:10",
       "album": {
         "name": "Summer Nights",
@@ -759,6 +759,22 @@
       "duration_ms": 220608,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
+    },
+    {
+      "added_at": "2026-07-10 16:27:35",
+      "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233736,
+      "name": "Too Many Ways",
+      "url": "https://open.spotify.com/track/3ldsizLTF9X7JyivBQ27Fy"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -829,22 +845,6 @@
       "url": "https://open.spotify.com/track/40hiSrEnjRq1JyMeDf0Npo"
     },
     {
-      "added_at": "2026-06-22 21:48:31",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "Miyazaki",
@@ -859,6 +859,22 @@
       "duration_ms": 204778,
       "name": "Miyazaki",
       "url": "https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ"
+    },
+    {
+      "added_at": "2026-06-22 21:48:31",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 194773,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -913,22 +929,6 @@
       "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
     },
     {
-      "added_at": "2026-07-03 04:20:13",
-      "album": {
-        "name": "Come On",
-        "url": "https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 193319,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
-    },
-    {
       "added_at": "2026-06-12 04:02:00",
       "album": {
         "name": "The Fall",
@@ -943,6 +943,22 @@
       "duration_ms": 218433,
       "name": "The Fall - Shadow",
       "url": "https://open.spotify.com/track/3jEU3tTP9uOMPSfySPRcJk"
+    },
+    {
+      "added_at": "2026-07-03 04:20:13",
+      "album": {
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 193319,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
     },
     {
       "added_at": "2026-06-19 04:01:13",
@@ -1081,22 +1097,6 @@
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
-      "added_at": "2026-06-26 04:55:44",
-      "album": {
-        "name": "Suburbia",
-        "url": "https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 214597,
-      "name": "Suburbia",
-      "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
-    },
-    {
       "added_at": "2026-07-24 14:58:57",
       "album": {
         "name": "FLOWERS",
@@ -1113,20 +1113,20 @@
       "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
     },
     {
-      "added_at": "2026-07-10 16:27:35",
+      "added_at": "2026-06-26 04:55:44",
       "album": {
-        "name": "Haven't Said I Love You Yet",
-        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
+        "name": "Suburbia",
+        "url": "https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE"
       },
       "artists": [
         {
-          "name": "Golden Cats",
-          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
         }
       ],
-      "duration_ms": 113725,
-      "name": "Haven't Said I Love You Yet",
-      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
+      "duration_ms": 214597,
+      "name": "Suburbia",
+      "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
     },
     {
       "added_at": "2026-07-24 04:02:39",
@@ -1143,6 +1143,22 @@
       "duration_ms": 230637,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
+    },
+    {
+      "added_at": "2026-07-10 16:27:35",
+      "album": {
+        "name": "Haven't Said I Love You Yet",
+        "url": "https://open.spotify.com/album/3oH6oD1wZxzAjc2sz3owej"
+      },
+      "artists": [
+        {
+          "name": "Golden Cats",
+          "url": "https://open.spotify.com/artist/2jmo1S0qDb6WzvNfTf6PUr"
+        }
+      ],
+      "duration_ms": 113725,
+      "name": "Haven't Said I Love You Yet",
+      "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1175,6 +1191,22 @@
       "duration_ms": 229100,
       "name": "lie alone",
       "url": "https://open.spotify.com/track/2VzOhFDUMzY5FFjZe2uBpf"
+    },
+    {
+      "added_at": "2026-07-31 04:02:11",
+      "album": {
+        "name": "Crush On You",
+        "url": "https://open.spotify.com/album/3GHaB9uuOC97efCTFZnEhP"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Crush On You",
+      "url": "https://open.spotify.com/track/1DbYXCbGZe3xR8N1nVdhgH"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1261,22 +1293,6 @@
       "url": "https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P"
     },
     {
-      "added_at": "2026-07-31 04:02:11",
-      "album": {
-        "name": "Crush On You",
-        "url": "https://open.spotify.com/album/3GHaB9uuOC97efCTFZnEhP"
-      },
-      "artists": [
-        {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Crush On You",
-      "url": "https://open.spotify.com/track/1DbYXCbGZe3xR8N1nVdhgH"
-    },
-    {
       "added_at": "2026-07-10 16:27:35",
       "album": {
         "name": "Not For A Lack Of Trying",
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/4FNptC8qbW6cAJBsymtHMI"
     },
     {
-      "added_at": "2026-07-24 04:02:39",
-      "album": {
-        "name": "I Hope You Don't Remember Me",
-        "url": "https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201508,
-      "name": "That's Fine",
-      "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
-    },
-    {
       "added_at": "2026-07-31 16:09:08",
       "album": {
         "name": "Coldplay",
@@ -1339,6 +1339,22 @@
       "duration_ms": 153400,
       "name": "Coldplay",
       "url": "https://open.spotify.com/track/5kxmDMKJYO8tj5FDX2x09w"
+    },
+    {
+      "added_at": "2026-07-24 04:02:39",
+      "album": {
+        "name": "I Hope You Don't Remember Me",
+        "url": "https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 201508,
+      "name": "That's Fine",
+      "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
     },
     {
       "added_at": "2026-07-17 04:02:10",
@@ -1373,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "Vertical",
-        "url": "https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 156041,
-      "name": "Vertical",
-      "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "juniper ring",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/3qgNwPwVvm6j8JUhpZ2yd3"
     },
     {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "Vertical",
+        "url": "https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 156041,
+      "name": "Vertical",
+      "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"
+    },
+    {
       "added_at": "2026-06-05 04:02:01",
       "album": {
         "name": "Mesmerized",
@@ -1451,6 +1467,22 @@
       "duration_ms": 227127,
       "name": "Girl, Intentions",
       "url": "https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v"
+    },
+    {
+      "added_at": "2026-08-07 15:29:36",
+      "album": {
+        "name": "She's The Only One",
+        "url": "https://open.spotify.com/album/1p9MIpHyhfw9aVHcYJXCvW"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 200417,
+      "name": "She's The Only One",
+      "url": "https://open.spotify.com/track/5ipoqLoXRhdeMB5FcpJWMQ"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1487,22 +1519,6 @@
     {
       "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "Paradise Now & Forever",
-        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 215531,
-      "name": "Lipdance",
-      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
         "name": "Geezer",
         "url": "https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO"
       },
@@ -1521,20 +1537,20 @@
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
     },
     {
-      "added_at": "2026-08-07 15:29:36",
+      "added_at": "2026-05-15 16:17:55",
       "album": {
-        "name": "She's The Only One",
-        "url": "https://open.spotify.com/album/1p9MIpHyhfw9aVHcYJXCvW"
+        "name": "Paradise Now & Forever",
+        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
       },
       "artists": [
         {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 200417,
-      "name": "She's The Only One",
-      "url": "https://open.spotify.com/track/5ipoqLoXRhdeMB5FcpJWMQ"
+      "duration_ms": 215531,
+      "name": "Lipdance",
+      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1625,22 +1641,6 @@
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
     },
     {
-      "added_at": "2026-06-05 04:02:01",
-      "album": {
-        "name": "waiting on me",
-        "url": "https://open.spotify.com/album/5ehGgn9837PUrdBOJ07JdJ"
-      },
-      "artists": [
-        {
-          "name": "ALINA",
-          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
-        }
-      ],
-      "duration_ms": 175911,
-      "name": "waiting on me",
-      "url": "https://open.spotify.com/track/5D9ui417eWuVc41Wi7bzZ6"
-    },
-    {
       "added_at": "2026-07-03 04:20:13",
       "album": {
         "name": "Slush Puppy",
@@ -1657,24 +1657,20 @@
       "url": "https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-06-05 04:02:01",
       "album": {
-        "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
-        "url": "https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN"
+        "name": "waiting on me",
+        "url": "https://open.spotify.com/album/5ehGgn9837PUrdBOJ07JdJ"
       },
       "artists": [
         {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+          "name": "ALINA",
+          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
         }
       ],
-      "duration_ms": 188253,
-      "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
-      "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
+      "duration_ms": 175911,
+      "name": "waiting on me",
+      "url": "https://open.spotify.com/track/5D9ui417eWuVc41Wi7bzZ6"
     }
   ],
   "unique_name": "Indie Pop",

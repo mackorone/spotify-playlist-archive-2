@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 
 > Old school jams to kick nostalgia up a notch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,021 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,035 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvfFlvhiszK.md) - [plain]
 | 39 | [Anadwo Yede](https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6) | [KK Fosu](https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO) | [Ghana Old School HipLife Essentials](https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG) | 4:38 |
 | 40 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
 | 41 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
-| 42 | [Aben Wo Aha](https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wa Ha](https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd) | 5:12 |
-| 43 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
+| 42 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
+| 43 | [Aben Wo Aha](https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Aben Wa Ha](https://open.spotify.com/album/6xFIOw6oitS4vkTK6q41Sd) | 5:12 |
 | 44 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 |
 | 45 | [Soroku Special](https://open.spotify.com/track/1HIzAGOVvUIf1U7L2NUolW) | [Kaakyire Kwame Appiah](https://open.spotify.com/artist/6Pmxco13PCCjhPCwxKeUic) | [Soroku](https://open.spotify.com/album/56OAJsISgvpTsUv3PrkVJ3) | 7:36 |
 | 46 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
-| 47 | [Bribi Gyegye Wo](https://open.spotify.com/track/7fN2FjaBQ1RYqIcvCWNWXq) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Playboy](https://open.spotify.com/album/4SD9udK8YGf5HBarLWikZi) | 6:15 |
-| 48 | [Iron Boy](https://open.spotify.com/track/1sXlJilnVuMx9mMCYN9lMZ) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3) | 6:09 |
+| 47 | [Iron Boy](https://open.spotify.com/track/1sXlJilnVuMx9mMCYN9lMZ) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/4lmhSuZqCz9VzA8vOfZdR3) | 6:09 |
+| 48 | [Bribi Gyegye Wo](https://open.spotify.com/track/7fN2FjaBQ1RYqIcvCWNWXq) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Playboy](https://open.spotify.com/album/4SD9udK8YGf5HBarLWikZi) | 6:15 |
 | 49 | [Koforidua Flowers](https://open.spotify.com/track/2TnWgysg3OGR3CCf3jKKKC) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [The Return of Kofi B](https://open.spotify.com/album/5zNJB9e8rs4sQeCmQqz99n) | 4:50 |
 | 50 | [Meyere ne me mpena](https://open.spotify.com/track/23ihDMqcmFHFviUdndXeld) | [OKOMFOUR KWADEE](https://open.spotify.com/artist/7cL1cbqdjLnI6R3uhUv6uu) | [Old School Hiplife Vol.1](https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW) | 5:45 |
 
-Snapshot ID: `AAAAAPQZ61oxkOg/p9kJydDIm94K8jO4`
+Snapshot ID: `AAAAAJzG15AYWxynn6L0vftFALUxN3am`

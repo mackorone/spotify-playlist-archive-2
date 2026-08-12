@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Ankita Barwad
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,571 likes - 53 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,576 likes - 53 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 52 | [Hourglass](https://open.spotify.com/track/5cTYkfhZWoyXs7j4WD0j1J) | [Run it's the Kid](https://open.spotify.com/artist/36057fby7tY856T2vg7jQj) | [Abracadabra](https://open.spotify.com/album/3ScGwEpXDBPN7xcowjge5O) | 2:56 |
 | 53 | [alvida](https://open.spotify.com/track/70n9Zs89z8eSSLtRM7F20d) | [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Anubha Kaul](https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [alvida](https://open.spotify.com/album/76dgMixpVYWtb9zxmh8xLg) | 4:05 |
 
-Snapshot ID: `AAAAANOzPM1H5oLKhL0hvg+YFfxyl9xL`
+Snapshot ID: `AAAAALkaCm9ZFQIf+3QnHtkoHyZaXOyp`

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2073297,
+  "num_followers": 2073291,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAABWfrmxvnkfXgka+ODj8DTr",
+  "snapshot_id": "ankUgAAAAADeRPxyh+0ix3T+W8x8mB48",
   "tracks": [
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+        "name": "Burnin' (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Forever Loving Jah",
-      "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
+      "duration_ms": 279720,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin' (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe"
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 279720,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH"
+      "duration_ms": 242333,
+      "name": "Forever Loving Jah",
+      "url": "https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f"
     },
     {
       "added_at": null,

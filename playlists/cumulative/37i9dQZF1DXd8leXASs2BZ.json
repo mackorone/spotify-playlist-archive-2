@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ziproom",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: It-Works",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -2527,7 +2527,7 @@
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 114429,
+      "duration_ms": 114439,
       "name": "Arigatosan",
       "url": "https://open.spotify.com/track/6faekZ25TR4Cub44OvabFe"
     },
@@ -17770,7 +17770,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 107012,
       "name": "loose",
       "url": "https://open.spotify.com/track/7DxADWPzkfFc2RFEVADHm7"
@@ -28048,6 +28048,24 @@
       "duration_ms": 212500,
       "name": "Still Fly",
       "url": "https://open.spotify.com/track/19r9afNN7X9t5UbZHDnuQ1"
+    },
+    {
+      "album": {
+        "name": "Still loading",
+        "url": "https://open.spotify.com/album/53pynlfnbI9QWZQMVb8Sb8"
+      },
+      "artists": [
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123245,
+      "name": "Still loading",
+      "url": "https://open.spotify.com/track/5aZrPIsqiFyEquMM9I9rK0"
     },
     {
       "album": {

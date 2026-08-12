@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: O.O.O (\uc624\uc624\uc624) ) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 250993,
+  "num_followers": 251029,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvbyayEd/vYPpDKQv7KM2Teggmi",
+  "snapshot_id": "AAAAAEuoK05grHBzIzlt96A1dTE8Vqld",
   "tracks": [
     {
       "added_at": "2026-08-07 06:38:02",
@@ -175,18 +175,18 @@
     {
       "added_at": "2026-08-07 06:38:02",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
+        "name": "If I have you only (My love X Nerd Connection)",
+        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
       },
       "artists": [
         {
-          "name": "BEOMGYU",
-          "url": "https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH"
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
+      "duration_ms": 250573,
+      "name": "If I have you only (My love X Nerd Connection)",
+      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
       "added_at": "2026-08-07 06:38:02",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-08-07 06:38:02",
       "album": {
-        "name": "If I have you only (My love X Nerd Connection)",
-        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
       },
       "artists": [
         {
-          "name": "Nerd Connection",
-          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+          "name": "BEOMGYU",
+          "url": "https://open.spotify.com/artist/69vfchlzopPm72nD2elXCH"
         }
       ],
-      "duration_ms": 250573,
-      "name": "If I have you only (My love X Nerd Connection)",
-      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
+      "duration_ms": 188013,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
     },
     {
       "added_at": "2026-08-07 06:38:02",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-08-07 06:38:02",
       "album": {
+        "name": "\ub098\ubb34",
+        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "\ub098\ubb34",
+      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
+    },
+    {
+      "added_at": "2026-08-07 06:38:02",
+      "album": {
         "name": "can't love (feat. HAN (Stray Kids))",
         "url": "https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 195000,
       "name": "can't love (feat. HAN (Stray Kids))",
       "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
-    },
-    {
-      "added_at": "2026-08-07 06:38:02",
-      "album": {
-        "name": "\ub098\ubb34",
-        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "\ub098\ubb34",
-      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
       "added_at": "2026-08-07 06:38:02",

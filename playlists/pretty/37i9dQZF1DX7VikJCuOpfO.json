@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Pedro Fernandez \ud83d\udcf8",
-  "num_followers": 368355,
+  "num_followers": 368345,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5sh5Q5bgM9GMuaRcDqOz002e5B",
+  "snapshot_id": "AAAAANfmBRHq/hdcCLueswHNSE1mVY61",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:42",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
+        "name": "Si Nos Dejan",
+        "url": "https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 154903,
+      "name": "Si Nos Dejan",
+      "url": "https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
         "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
         "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 159466,
       "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
       "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
-        "name": "Si Nos Dejan",
-        "url": "https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 154903,
-      "name": "Si Nos Dejan",
-      "url": "https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
+        "name": "Ebrio de Amor",
+        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Zahena",
+          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+        }
+      ],
+      "duration_ms": 173291,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
         "name": "Me Enloqueces",
         "url": "https://open.spotify.com/album/1Vf2WGDh6Igd14bK28zBGd"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Ebrio de Amor",
-        "url": "https://open.spotify.com/album/0wceLScJ01XKGDkHFctkuc"
+        "name": "Despecho Puro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
       "artists": [
         {
-          "name": "Emiliano Zahena",
-          "url": "https://open.spotify.com/artist/1ENJx96DOgvkeWTzhR0gf6"
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
         }
       ],
-      "duration_ms": 173291,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/28zdZevsnKflm8GL4z1uwB"
+      "duration_ms": 173173,
+      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
+      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -859,22 +875,6 @@
       "duration_ms": 426232,
       "name": "As\u00ed Fue",
       "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
-        "name": "Despecho Puro (En Vivo)",
-        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
-      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
-      },
-      "artists": [
-        {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
-        }
-      ],
-      "duration_ms": 199887,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Los Amigos Asi",
         "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 207830,
       "name": "Los Amigos Asi",
       "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "\u00c9chenle Sal a la Herida",
+        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "duration_ms": 199887,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
-      },
-      "artists": [
-        {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 195245,
       "name": "\u00bfQui\u00e9n Es Usted?",
       "url": "https://open.spotify.com/track/5KWvrJF3O2w5niGvaaZt9K"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+      },
+      "artists": [
+        {
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
+        "name": "Mi M\u00e9xico Mestizo",
+        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
+      },
+      "artists": [
+        {
+          "name": "Sant Orozco",
+          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
+        }
+      ],
+      "duration_ms": 146060,
+      "name": "Mi M\u00e9xico Mestizo",
+      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
         "name": "Qu\u00e9 Manera De Perder",
         "url": "https://open.spotify.com/album/3gug01l53bHONxiMPjAJmQ"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 155667,
       "name": "Qu\u00e9 Manera De Perder",
       "url": "https://open.spotify.com/track/6ilcYE1SD0G3K4VbQiwYHs"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
-        "name": "Mi M\u00e9xico Mestizo",
-        "url": "https://open.spotify.com/album/2xQyshk5TRjdAVLonc74gv"
-      },
-      "artists": [
-        {
-          "name": "Sant Orozco",
-          "url": "https://open.spotify.com/artist/0ZeCzmxhyIQU8pB2jloBbG"
-        }
-      ],
-      "duration_ms": 146060,
-      "name": "Mi M\u00e9xico Mestizo",
-      "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+        "name": "Olvidarte",
+        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Horacio de Jes\u00fas",
+          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
         }
       ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
+      "duration_ms": 158866,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Olvidarte",
-        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
-      },
-      "artists": [
-        {
-          "name": "Horacio de Jes\u00fas",
-          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Si Ya Te Valgo",
         "url": "https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 149500,
       "name": "Si Ya Te Valgo",
       "url": "https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-07-24 06:00:42",

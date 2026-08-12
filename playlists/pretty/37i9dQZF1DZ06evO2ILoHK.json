@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 13264,
+  "num_followers": 13275,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADsHicPMeWjqiSjwKpJHmet",
+  "snapshot_id": "ankUgAAAAACPBCvzDezwHgeJu7u+qMhZ",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 194933,
-      "name": "For You The Moon",
-      "url": "https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX"
+      "duration_ms": 157586,
+      "name": "Oversized",
+      "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Oversized",
-      "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
+      "duration_ms": 194933,
+      "name": "For You The Moon",
+      "url": "https://open.spotify.com/track/0fCjQx9nAA512CPcH8AXfX"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 123589,
+      "name": "Skip Town",
+      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 123589,
-      "name": "Skip Town",
-      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     },
     {
       "added_at": null,

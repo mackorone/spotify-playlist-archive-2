@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 632612,
+  "num_followers": 632646,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAR0gb32Es7v40urb6Bfuch",
+  "snapshot_id": "ankUgAAAAADASkkEHOY88j7QlGiXDKLm",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 230573,
-      "name": "Fantastic Baby",
-      "url": "https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99"
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 233098,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+      "duration_ms": 230573,
+      "name": "Fantastic Baby",
+      "url": "https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BigBang First Single",
-        "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 238293,
-      "name": "We belong together",
-      "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 233320,
       "name": "Always",
       "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BigBang First Single",
+        "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 238293,
+      "name": "We belong together",
+      "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
     },
     {
       "added_at": null,

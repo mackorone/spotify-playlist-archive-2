@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 
 > <a href="spotify:artist:4VZEaqiJm8GOd1pSgjD62y">Skeleten's </a> favourite tracks\. Updated regularly\. Curated by Skeleten\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,631 likes - 93 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,645 likes - 93 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 | 92 | [Sweet Tides](https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL) | 4:48 |
 | 93 | [Ice Cold](https://open.spotify.com/track/28tbaltM8sSC44QjnRQNkl) | [Armlock](https://open.spotify.com/artist/7BoU3VkauvnYvttpymQ7pG) | [Seashell Angel Lucky Charm](https://open.spotify.com/album/3a0L9E26PsoK6fjRWWiE7w) | 3:12 |
 
-Snapshot ID: `AAAAAGUAdpUlMJTD+TervXVKWaY68KdY`
+Snapshot ID: `AAAAAOrr3EkF5gA4fRgOh0E3mapguAbX`

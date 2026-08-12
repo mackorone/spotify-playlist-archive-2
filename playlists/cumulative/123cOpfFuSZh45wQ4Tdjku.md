@@ -4,7 +4,7 @@
 
 > mostly furry
 
-493 songs - 1 day 0 hr 0 min
+494 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-12-10 |  |
 | [Mark's Barks](https://open.spotify.com/track/78IHITBEFOS1J7qsAbkjGb) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 2:54 | 2025-04-24 |  |
 | [masquerade](https://open.spotify.com/track/64EA2RKyciBwCuVczLH6Ct) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/20blibqF1THTtLCzQq0Ovx) | 2:24 | 2026-07-17 |  |
+| [MAX LVL FIXATED!!](https://open.spotify.com/track/2bZb9Zfw2mvjnwnbeqA36G) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [MAX LVL FIXATED!!](https://open.spotify.com/album/2TjEZDDEujxCQ5w8Mr88h6) | 1:18 | 2026-08-11 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/7K8sbZTkJHd0bhQVIevIN5) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Maybe Tomorrow](https://open.spotify.com/album/74eSuDMDXfOOz0VGhGZsDh) | 3:12 | 2024-07-12 |  |
 | [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 | 2026-07-17 |  |
 | [Memory Merge](https://open.spotify.com/track/5usdxPXJmVeqwheEYreUoo) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Memory Merge](https://open.spotify.com/album/10TkVdtVrvg5Pcm4jsnRPg) | 4:32 | 2024-07-09 |  |

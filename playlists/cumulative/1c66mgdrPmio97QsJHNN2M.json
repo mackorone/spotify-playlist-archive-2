@@ -2777,6 +2777,28 @@
     },
     {
       "album": {
+        "name": "Center of Attention",
+        "url": "https://open.spotify.com/album/2RtHd1GKvydamiLxwh7FLn"
+      },
+      "artists": [
+        {
+          "name": "Crisno",
+          "url": "https://open.spotify.com/artist/3m7wasPOBCTIpzpwRoCiBV"
+        },
+        {
+          "name": "Alee Herrera",
+          "url": "https://open.spotify.com/artist/5cePm6WZPC96jPUJVKR2bQ"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182578,
+      "name": "ATTENTION",
+      "url": "https://open.spotify.com/track/2OzBgirycXgNhkHbfHLvxa"
+    },
+    {
+      "album": {
         "name": "The Edge",
         "url": "https://open.spotify.com/album/0B4GhE0pbBE7eVTUTCs52f"
       },
@@ -4249,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Believe In Me",
+        "url": "https://open.spotify.com/album/351d6SVC9Pq4MrIDEWFvIQ"
+      },
+      "artists": [
+        {
+          "name": "NorLights",
+          "url": "https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Believe In Me",
+      "url": "https://open.spotify.com/track/7bodTY1G8StQjTkU2XN2t3"
+    },
+    {
+      "album": {
         "name": "Ben Unutuldum",
         "url": "https://open.spotify.com/album/5Kh7ACXMUGRswoIJTcivM3"
       },
@@ -4350,7 +4390,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 168088,
       "name": "Better",
       "url": "https://open.spotify.com/track/5P02O0VaKb6CAjh62G6Rl5"
@@ -4794,6 +4834,28 @@
       "duration_ms": 196425,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf"
+    },
+    {
+      "album": {
+        "name": "Bleeding Star",
+        "url": "https://open.spotify.com/album/0GOb0FZ4htOaHpcac78G3y"
+      },
+      "artists": [
+        {
+          "name": "deepbleak",
+          "url": "https://open.spotify.com/artist/7z0v66N91NHVvPJW9HccIi"
+        },
+        {
+          "name": "Jeffrey Stevenson",
+          "url": "https://open.spotify.com/artist/3XFOxeccJDkzwjiMkRx2Py"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "Bleeding Star",
+      "url": "https://open.spotify.com/track/6G0U1q09GkFQ8ZmqZaQTlm"
     },
     {
       "album": {
@@ -5994,6 +6056,24 @@
       "duration_ms": 180000,
       "name": "Built This",
       "url": "https://open.spotify.com/track/01x6FDJiGtTfZYATbgzrgz"
+    },
+    {
+      "album": {
+        "name": "Bullet For Your Gun",
+        "url": "https://open.spotify.com/album/5cIH1H2S4rLLrAYoQ7t1Sr"
+      },
+      "artists": [
+        {
+          "name": "Former Teen",
+          "url": "https://open.spotify.com/artist/1Vzt8cjNUHR5ZZ7i99Bh1u"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246716,
+      "name": "Bullet For Your Gun",
+      "url": "https://open.spotify.com/track/2J4EC6Gb119yhv9Yyhb7jY"
     },
     {
       "album": {
@@ -7357,6 +7437,24 @@
     },
     {
       "album": {
+        "name": "circles",
+        "url": "https://open.spotify.com/album/0nKPivAAFf8tkRBYVNlmeN"
+      },
+      "artists": [
+        {
+          "name": "Abby Hayes",
+          "url": "https://open.spotify.com/artist/4uq3sajRfWtL1i1mN2SZA7"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177751,
+      "name": "circles",
+      "url": "https://open.spotify.com/track/6AN1RdJk3621MSbxtvGJJG"
+    },
+    {
+      "album": {
         "name": "CITRUS (Radio Edit)",
         "url": "https://open.spotify.com/album/29R16dNM76gb0YTQoAH9aj"
       },
@@ -8258,7 +8356,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 177624,
       "name": "Counting My Days",
       "url": "https://open.spotify.com/track/3LqXf0QG4odHO7RHxx5oOV"
@@ -12175,7 +12273,7 @@
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 126234,
+      "duration_ms": 126380,
       "name": "Engine Trouble",
       "url": "https://open.spotify.com/track/4DWHrx5VHS3Dom3nO9mhJA"
     },
@@ -14239,6 +14337,24 @@
     },
     {
       "album": {
+        "name": "Flowers of my Heart",
+        "url": "https://open.spotify.com/album/4hVHANjgwkKbsb1QuN6ZVh"
+      },
+      "artists": [
+        {
+          "name": "Lim\u00e9a",
+          "url": "https://open.spotify.com/artist/55AoknBPVemaKR8DFtWUbI"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Flowers of my Heart",
+      "url": "https://open.spotify.com/track/2iu3JELMFPQiIK3NfwiNMJ"
+    },
+    {
+      "album": {
         "name": "Ambient Darkness - Vol. 2 - The Light",
         "url": "https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO"
       },
@@ -15220,6 +15336,24 @@
       "duration_ms": 195483,
       "name": "From The Sea",
       "url": "https://open.spotify.com/track/7DI9jbZ7ArpDbj48lkFfzi"
+    },
+    {
+      "album": {
+        "name": "From This Height",
+        "url": "https://open.spotify.com/album/5CqUxuMDpvFDJF3iEAcSN3"
+      },
+      "artists": [
+        {
+          "name": "Neon the Bishop",
+          "url": "https://open.spotify.com/artist/2Sq4yDPC8Dbr2JzsPWOfBt"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164181,
+      "name": "From This Height",
+      "url": "https://open.spotify.com/track/63xS1t0I37bDRVnoXOcOsX"
     },
     {
       "album": {
@@ -19072,7 +19206,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 209000,
       "name": "I Don't Know How To Rest",
       "url": "https://open.spotify.com/track/5pbwM03L3giFMzdIS4fYkW"
@@ -19354,6 +19488,24 @@
       "duration_ms": 149370,
       "name": "I Landed",
       "url": "https://open.spotify.com/track/5QNKtFyOW7cU6ClaSY0JhH"
+    },
+    {
+      "album": {
+        "name": "I Love House Music",
+        "url": "https://open.spotify.com/album/1CYDAjGw30pORK2xnzNacF"
+      },
+      "artists": [
+        {
+          "name": "\u039evgenia Scher",
+          "url": "https://open.spotify.com/artist/2a1Kx80c8AFmz1wyXz5dcn"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "I Love House Music",
+      "url": "https://open.spotify.com/track/39zGrsZuEzdlHP5ZIf2aSn"
     },
     {
       "album": {
@@ -19646,6 +19798,24 @@
       "duration_ms": 258000,
       "name": "I Smile You Scream",
       "url": "https://open.spotify.com/track/3Ao8aIUwZnLlmNMqdl3dfG"
+    },
+    {
+      "album": {
+        "name": "Century Repeated",
+        "url": "https://open.spotify.com/album/3exTw7LyKIelnA6pYGuCKe"
+      },
+      "artists": [
+        {
+          "name": "\u00c6rt\u016br\u0153",
+          "url": "https://open.spotify.com/artist/5U3Bpj6hQPxNC6LWdbiqcW"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "I Stare At The Reflection",
+      "url": "https://open.spotify.com/track/6UDVO1EuM2hRGiOEi3AqUJ"
     },
     {
       "album": {
@@ -35054,7 +35224,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 197848,
       "name": "Sad Song - Single Version",
       "url": "https://open.spotify.com/track/0sM1yXhut3nUjtaXxfbLUQ"
@@ -35910,7 +36080,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 133090,
       "name": "Senescence",
       "url": "https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi"
@@ -36683,6 +36853,24 @@
     },
     {
       "album": {
+        "name": "Silent Sands",
+        "url": "https://open.spotify.com/album/10bDFWcA41hEuZlczVuZHY"
+      },
+      "artists": [
+        {
+          "name": "Rodeo Terrorists",
+          "url": "https://open.spotify.com/artist/2HlNfoIxYsyWIhfexCF3tc"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254840,
+      "name": "Silent Sands",
+      "url": "https://open.spotify.com/track/2xu1SdJaEvhnrs20JjVEbh"
+    },
+    {
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/5m50JPFpfHMR0VaORmzzSi"
       },
@@ -36770,6 +36958,24 @@
       "duration_ms": 207322,
       "name": "Since I've Been Gone.",
       "url": "https://open.spotify.com/track/3JWFXsJjOfwqWGZtBBQ08h"
+    },
+    {
+      "album": {
+        "name": "Since We Met",
+        "url": "https://open.spotify.com/album/7KdS6nHF6biNCqvMULEeNY"
+      },
+      "artists": [
+        {
+          "name": "Eh Eye Penman",
+          "url": "https://open.spotify.com/artist/2g9vCVro45oMEg04m66Wr1"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151959,
+      "name": "Since We Met",
+      "url": "https://open.spotify.com/track/2Y78JSqxs1Axm6xtfrfZuX"
     },
     {
       "album": {
@@ -41269,6 +41475,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/5tazduv9AxK9hIrZRAPAeI"
+      },
+      "artists": [
+        {
+          "name": "Trae James",
+          "url": "https://open.spotify.com/artist/19FY9cKc4gCZJ8st3njpXn"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/61KD8LmglSsOlaknqT1PjD"
+    },
+    {
+      "album": {
         "name": "The One I Want Beside Me",
         "url": "https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b"
       },
@@ -42906,7 +43130,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 70480,
       "name": "to heal",
       "url": "https://open.spotify.com/track/1mP2FPvYkA4ZfmccPl2Hft"
@@ -44220,6 +44444,24 @@
       "duration_ms": 217999,
       "name": "Uplink Complete",
       "url": "https://open.spotify.com/track/2alwGvYruOVS5efMz6VNwO"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG"
+      },
+      "artists": [
+        {
+          "name": "Evan Fahey",
+          "url": "https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156623,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd"
     },
     {
       "album": {
@@ -47388,7 +47630,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 191040,
       "name": "worldcup 2026",
       "url": "https://open.spotify.com/track/1zWGLazX0FmmJgAEMvXSyR"
@@ -48124,6 +48366,24 @@
       "duration_ms": 194680,
       "name": "You Made a Way",
       "url": "https://open.spotify.com/track/1XuBlUYZ5KthP1OZmN1yoQ"
+    },
+    {
+      "album": {
+        "name": "You Make It Easy",
+        "url": "https://open.spotify.com/album/6bKYvHLVhiRYzLyb98tMFQ"
+      },
+      "artists": [
+        {
+          "name": "Brian Grey",
+          "url": "https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197337,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/6mauoUvR2Adwe2LtE7Xnh8"
     },
     {
       "album": {

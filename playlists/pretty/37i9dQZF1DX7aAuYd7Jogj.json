@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ambiental para un sue\u00f1o profundo.",
-  "num_followers": 1952293,
+  "num_followers": 1952598,
   "original_name": "Sue\u00f1o Profundo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJqBV+2lDCvpuZdMlty/Axqzirov",
+  "snapshot_id": "AAAAANgE+2XW0DP/9TL6kxACz8J8RKVl",
   "tracks": [
     {
       "added_at": "2026-08-06 13:51:03",
@@ -990,6 +990,10 @@
         {
           "name": "Delta Shores",
           "url": "https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP"
+        },
+        {
+          "name": "Between Pages",
+          "url": "https://open.spotify.com/artist/5cfEtlt3DAdiHabSH75X7l"
         }
       ],
       "duration_ms": 165000,

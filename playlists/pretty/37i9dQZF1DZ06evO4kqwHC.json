@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1112197,
+  "num_followers": 1112326,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAB44lQS4WBruSXAw7oXKf6M",
+  "snapshot_id": "ankUgAAAAABOYNniSZVoa1SNFhpTCrRS",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 310470,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
+      "duration_ms": 268306,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One By One (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 268306,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH"
+      "duration_ms": 310470,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
     },
     {
       "added_at": null,

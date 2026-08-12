@@ -8532,7 +8532,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 188144,
       "name": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
       "url": "https://open.spotify.com/track/7qi9PyWVq0Rt0eaVdiS8hg"
@@ -8678,6 +8678,28 @@
       "duration_ms": 243380,
       "name": "Ishq Ya Tharak (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/6gPiWTRBdOzS8szv8gFjwf"
+    },
+    {
+      "album": {
+        "name": "Iss Baarish Mein",
+        "url": "https://open.spotify.com/album/77XwGMgmzDHPN8UK3QEQxZ"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Faisal Miya Photuwale",
+          "url": "https://open.spotify.com/artist/3Fqd8tulb5mkZm3qXJD4th"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "Iss Baarish Mein",
+      "url": "https://open.spotify.com/track/45SRRK89L134g875lh5cn4"
     },
     {
       "album": {
@@ -9172,7 +9194,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 207883,
       "name": "Jag Se Laaj - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/6GPqgUduoEAJ81ZPA4itWK"
@@ -18168,7 +18190,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 236036,
       "name": "Saree (From \"Dhamaal 4\")",
       "url": "https://open.spotify.com/track/7g0VHb0AYPsMqjX1x3eDOU"
@@ -20629,6 +20651,40 @@
     },
     {
       "album": {
+        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290779,
+      "name": "Toh Phir Aao - Dobara",
+      "url": "https://open.spotify.com/track/6LYfwNkkrplbxbheWtkBL2"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/4j3Q0oWVdnU3pw0Y8G8h06"
       },
@@ -21592,6 +21648,32 @@
       "duration_ms": 276359,
       "name": "Tumhare Liye",
       "url": "https://open.spotify.com/track/3X3BnAkWoadSsoMxyBBq27"
+    },
+    {
+      "album": {
+        "name": "Awarapan 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2NbND4ShruXX3xK7KOj7UL"
+      },
+      "artists": [
+        {
+          "name": "Wasif Ahmad",
+          "url": "https://open.spotify.com/artist/4zIUFtRcCItKwCb2upjArR"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sachin Urmtosh",
+          "url": "https://open.spotify.com/artist/1mU6MSjhzEgsJBjEIWbUy3"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229218,
+      "name": "Tumhare Liye",
+      "url": "https://open.spotify.com/track/5giNtZnbVG9GSFJfmL1lF7"
     },
     {
       "album": {

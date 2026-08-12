@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,223 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,210 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [androgynous](https://open.spotify.com/track/42EW9h83a492E9z9Kh4n0y) | [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [engine heartbreak](https://open.spotify.com/album/1Z2k9Ol6vCUkcGpoy4vcBC) | 2:05 |
 | 80 | [New Park](https://open.spotify.com/track/0gldSDrbMgZW6zi1kUHa5o) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [POiSON ANNA](https://open.spotify.com/artist/1qC3BErhNjJ0AP7Ddg4YfD) | [New Park / King Kong](https://open.spotify.com/album/6rD6fQyNWvMD42dLQcAkil) | 2:58 |
 
-Snapshot ID: `AAAAAEK7h9JLMAdpN2qPplp9qEru6MTu`
+Snapshot ID: `AAAAAK3lnqBshPw1qbAdVcUclhc/3Fmc`

@@ -292,7 +292,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 515517,
       "name": "diluted dreams",
       "url": "https://open.spotify.com/track/2pRLD3RpQa6WHGenTsXe2s"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 118286,
       "name": "Sad Gondola",
       "url": "https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ"
@@ -1815,6 +1815,32 @@
     },
     {
       "album": {
+        "name": "a crying poem",
+        "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "Bloodz Boi",
+          "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167112,
+      "name": "The Lighter",
+      "url": "https://open.spotify.com/track/63xBi9Nng7SHubBf76ePjt"
+    },
+    {
+      "album": {
         "name": "quilted lament",
         "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
       },
@@ -1848,7 +1874,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 268134,
       "name": "Tuufuhhoowaah",
       "url": "https://open.spotify.com/track/4Ib1aQhVD5SeIgFE0ycCBZ"
@@ -1902,7 +1928,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "vii",
       "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"
@@ -1974,7 +2000,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 96000,
       "name": "xi",
       "url": "https://open.spotify.com/track/4FnhjO3q1jAftUTfxLYXZ5"

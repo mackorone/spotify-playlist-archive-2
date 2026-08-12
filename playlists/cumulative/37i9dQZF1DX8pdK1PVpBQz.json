@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Charisma Club",
+  "description": "The best new music by independent artists and labels. Cover: blinder ",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -880,6 +880,24 @@
       "duration_ms": 222222,
       "name": "48",
       "url": "https://open.spotify.com/track/6w8CeYasVAQ8sAOWK6Qiel"
+    },
+    {
+      "album": {
+        "name": "low-res",
+        "url": "https://open.spotify.com/album/7rkhtgAWlFWTxFXfk9M1Cc"
+      },
+      "artists": [
+        {
+          "name": "blinder",
+          "url": "https://open.spotify.com/artist/6juJRLHxGjBVbtO7CYvhEe"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "480p",
+      "url": "https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ"
     },
     {
       "album": {
@@ -6018,7 +6036,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 189545,
       "name": "Bag Of Sand",
       "url": "https://open.spotify.com/track/6xPIof8affSfAo4ADpcEFC"
@@ -16952,7 +16970,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 173200,
       "name": "cute girls online",
       "url": "https://open.spotify.com/track/1aStOPLlxnzXx2Z8kjkTJI"
@@ -19122,6 +19140,32 @@
       "duration_ms": 159804,
       "name": "dirty dancing",
       "url": "https://open.spotify.com/track/1gdfNi8uXMJNWPvlFRPbUW"
+    },
+    {
+      "album": {
+        "name": "Dirty Glamour",
+        "url": "https://open.spotify.com/album/34XptZfYhP1Jv5hqYMxjOQ"
+      },
+      "artists": [
+        {
+          "name": "Bootleg Baby",
+          "url": "https://open.spotify.com/artist/39hQdmiAlOUeCthGYC9EoL"
+        },
+        {
+          "name": "Sidney Phillips",
+          "url": "https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T"
+        },
+        {
+          "name": "lil ket",
+          "url": "https://open.spotify.com/artist/4eRIX5JhG8gg3Hk5T9EqJ7"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175037,
+      "name": "Dirty Glamour",
+      "url": "https://open.spotify.com/track/1ehBycRM3wpES0VaDNBMgr"
     },
     {
       "album": {
@@ -23876,7 +23920,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 313460,
       "name": "Express",
       "url": "https://open.spotify.com/track/2qZHzf2ryUC1xPlushUdFi"
@@ -24526,7 +24570,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 204808,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0GqAS4RZn7LrmCE1KEoUqE"
@@ -54141,6 +54185,24 @@
     },
     {
       "album": {
+        "name": "Oh Why",
+        "url": "https://open.spotify.com/album/0PD8xWsA6ra3Ean9TATxyw"
+      },
+      "artists": [
+        {
+          "name": "Clancy",
+          "url": "https://open.spotify.com/artist/2n5IPXv8ZXji01o0eQK7SL"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181998,
+      "name": "Oh Why",
+      "url": "https://open.spotify.com/track/4cvIB3MkkbVOrle2G1sL8c"
+    },
+    {
+      "album": {
         "name": "Oh, I give up!",
         "url": "https://open.spotify.com/album/3y3QZWLr75iwE9AsQsGwEd"
       },
@@ -54902,6 +54964,24 @@
       "duration_ms": 306064,
       "name": "One Metaphor",
       "url": "https://open.spotify.com/track/7vPHuU32t236AX3w2jW4SN"
+    },
+    {
+      "album": {
+        "name": "One More Drink",
+        "url": "https://open.spotify.com/album/6x6EC5fPB9Mqt9hIxQjZpY"
+      },
+      "artists": [
+        {
+          "name": "JROCHEMAN",
+          "url": "https://open.spotify.com/artist/2RBL4DJjkxG84El9WFemGg"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "One More Drink",
+      "url": "https://open.spotify.com/track/0N0o2E1UguFlpfnFCM2cDh"
     },
     {
       "album": {
@@ -60276,6 +60356,24 @@
       "duration_ms": 220638,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/2IP2H33uE9OiBkYAzpZdzI"
+    },
+    {
+      "album": {
+        "name": "Rabbits",
+        "url": "https://open.spotify.com/album/6Vco7gZ0m047qiGFMwKASC"
+      },
+      "artists": [
+        {
+          "name": "Postures",
+          "url": "https://open.spotify.com/artist/4edQ03KOWDS3WymnBhHt2M"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281213,
+      "name": "Rabbits",
+      "url": "https://open.spotify.com/track/1SlznUkpMXxK7sn6peyhOD"
     },
     {
       "album": {
@@ -67716,7 +67814,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 180652,
       "name": "snow angels",
       "url": "https://open.spotify.com/track/6iJW5YyaHt8xilWVWoPMEe"
@@ -69502,6 +69600,24 @@
       "duration_ms": 235236,
       "name": "Springboard",
       "url": "https://open.spotify.com/track/2gpZ0p7s4m5ECDrEwGQKH4"
+    },
+    {
+      "album": {
+        "name": "Sprinkler",
+        "url": "https://open.spotify.com/album/6bOxKtlEuxsqUU91RZeVGe"
+      },
+      "artists": [
+        {
+          "name": "The Genevieves",
+          "url": "https://open.spotify.com/artist/0OZboGse6PkB47XXWqfPzm"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "Sprinkler",
+      "url": "https://open.spotify.com/track/1VP90IeNBq6gGOTntOrS08"
     },
     {
       "album": {
@@ -78212,7 +78328,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 112000,
       "name": "Twisted Truth",
       "url": "https://open.spotify.com/track/7tvuqLhwdrTxfjfxOfGVrB"
@@ -82054,7 +82170,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-12",
       "duration_ms": 227804,
       "name": "Westgarth",
       "url": "https://open.spotify.com/track/4GvNyCdF60aiz0js9CKozI"
@@ -86024,6 +86140,24 @@
       "duration_ms": 174580,
       "name": "Zuriel",
       "url": "https://open.spotify.com/track/3rzT4JjzQrpPHtqTMPRTZV"
+    },
+    {
+      "album": {
+        "name": "{Creepy-Not-Cute}",
+        "url": "https://open.spotify.com/album/50jB9UjjYKWLRKA2LSfrm5"
+      },
+      "artists": [
+        {
+          "name": "Jessica Fortuin",
+          "url": "https://open.spotify.com/artist/21e6hJWQRybYW0atX9kQBK"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218098,
+      "name": "{Creepy-Not-Cute}",
+      "url": "https://open.spotify.com/track/6ftcJZRB2Z0ZKUuXUira6R"
     },
     {
       "album": {

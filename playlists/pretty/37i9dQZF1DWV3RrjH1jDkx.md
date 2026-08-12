@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Cezinando, Anna Lille, Alex Warren og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,768 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,757 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 75 | [En gang til og aldri mer](https://open.spotify.com/track/47QxfJ5YEx8PrJlPRcE963) | [Hayeminol](https://open.spotify.com/artist/1xljZ0p7YdqrqJL6qFfjR6) | [En gang til og aldri mer](https://open.spotify.com/album/1t7NXk10RRmdGhcV2gRR8Z) | 5:00 |
 | 76 | [Schizophrenic Confessions](https://open.spotify.com/track/1OdHq4sFgPNbBEogDAU4WK) | [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [Schizophrenic Confessions](https://open.spotify.com/album/0hpmrZf6EyKVI58gHVHXjG) | 3:48 |
 
-Snapshot ID: `AAAAALqJkEgO11F//oCpmIg8qCUiYZhd`
+Snapshot ID: `AAAAAA7zBxIBoqaJuHcIru2zKn9XmeG3`

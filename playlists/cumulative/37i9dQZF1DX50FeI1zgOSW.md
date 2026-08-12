@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
 
-841 songs - 1 day 23 hr 33 min
+843 songs - 1 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Eechi](https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M) | [Eechi](https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx) | 3:43 | 2023-05-16 | 2023-07-25 |
 | [Ek Ladka Ek Ladki](https://open.spotify.com/track/619Q4UvtstPPGeuKphAGss) | [Deepak Nandakumar](https://open.spotify.com/artist/6sOZm1BpI7yCnDgMloAEBn), [Nathania Ericka Thomas](https://open.spotify.com/artist/44JgmiFgNRsJtxQWtr7qVY) | [Ek Ladka Ek Ladki](https://open.spotify.com/album/4nEd1d4L5VMmOpMj6oOCv2) | 3:34 | 2024-03-28 | 2024-08-11 |
 | [Ellam Neeye](https://open.spotify.com/track/7wTUCkOEI0fjXy4MmpvYh7) | [Sai Prashob](https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 09](https://open.spotify.com/album/2VUNrm34E74MAkHnnTgOBB) | 3:10 | 2026-08-10 |  |
+| [Ellam Pochu Da](https://open.spotify.com/track/65SwdszQPvOwTjEdvYsO7p) | [Shikha Prabhakaran](https://open.spotify.com/artist/2yjIbOUQHdWtBVaI4C3LqV), [Faisal Razi](https://open.spotify.com/artist/0rRhddei9JKXd5aAbCPfPN), [Helvin KS](https://open.spotify.com/artist/3KSOiuxMEIU6r3CltvLt4U) | [Ellam Pochu Da](https://open.spotify.com/album/1PSDE01h0ajmiC9DODGfp4) | 2:58 | 2026-08-11 |  |
 | [Empty hand](https://open.spotify.com/track/3njyySsHr7viXEfgxv5v3U) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB), [Guru Gopalan](https://open.spotify.com/artist/3ZCZd3bpEeDoCczZUBNPYW) | [Empty hand](https://open.spotify.com/album/2IDykOuQ2l1S5knqnGP2Ri) | 3:01 | 2025-02-26 | 2025-06-04 |
 | [En Azhagi](https://open.spotify.com/track/3ELuzYrD4aGwelk2smuP7s) | [I Am SGS](https://open.spotify.com/artist/2gqbchIInZikLDhPMaWjee), [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m) | [En Azhagi](https://open.spotify.com/album/0BwhWKqQzUkqii2y9pyOMw) | 4:16 | 2025-11-10 | 2026-04-09 |
 | [En Iraivi](https://open.spotify.com/track/12bZUm9TrbeJD6S0sQ4UjW) | [Vignesh Vijayaraghavan](https://open.spotify.com/artist/5wQQ1XWiYpVHDBvsUSMg0c), [Ramya Suresh](https://open.spotify.com/artist/6sWGxACkKI0ZJAB5c3JUhU) | [En Iraivi](https://open.spotify.com/album/5EznRgL8djyLX4TBweLt7S) | 3:35 | 2025-09-08 | 2026-01-28 |
@@ -401,6 +402,7 @@
 | [Manjakizhange](https://open.spotify.com/track/5V8lgBdrbPb9Nt4fM2g4Kx) | [Adityan](https://open.spotify.com/artist/3oE6w5AkzIXRIR860NKYjc) | [Manjakizhange](https://open.spotify.com/album/4oV39FxFImDWG0xgyXnC9H) | 4:11 | 2023-07-31 | 2024-02-01 |
 | [Mannipaya](https://open.spotify.com/track/2zhTPVJtOlwDMpaUYfQIjn) | [Andriyana Rajahselvam](https://open.spotify.com/artist/3YSjPoy0AbAnNLZriJLcP6), [Nira](https://open.spotify.com/artist/0mzyuFfvjtJ6z6F3vqUzll) | [Mannipaya](https://open.spotify.com/album/6X7oqggnGMqx9Br60vx9DS) | 3:56 | 2023-03-21 | 2023-07-25 |
 | [MAPPU](https://open.spotify.com/track/6WCNGFUbzx8oSNSZZBSU0S) | [LINGGES](https://open.spotify.com/artist/7wPsR5gJq1N0GSVcBidY76), [Vetha Shahana](https://open.spotify.com/artist/2Bkya49Y15WCHqNRhRz8yA) | [MAPPU](https://open.spotify.com/album/7DWe5hTZv2d69Lm9qGtiQE) | 3:08 | 2025-05-15 | 2025-08-26 |
+| [Marakka Thonudhé](https://open.spotify.com/track/43Wv0rkvjqxh6mOrbZyD4i) | [Keyran](https://open.spotify.com/artist/4g7DtRBVyQ23grLxtMEOrY), [BSP](https://open.spotify.com/artist/6iOuI0IPcd6hbU1AK6jI3A), [Eshwar](https://open.spotify.com/artist/05e3yCFYzbJC96M1QuHk6S) | [Marakka Thonudhé](https://open.spotify.com/album/5DWg0jFFJtjdkdMTqTtpDH) | 3:04 | 2026-08-11 |  |
 | [Maruguriye](https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9) | [Aneesh](https://open.spotify.com/artist/5xygYgMW6E6BlT9IJm4Guj), [Samanwitha Prashanth](https://open.spotify.com/artist/72HwlfqlCwqOWUPKwCR3uP), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Maruguriye](https://open.spotify.com/album/4isPDjqpqszETdbRUc4NdD) | 3:48 | 2026-02-13 | 2026-07-20 |
 | [Maruvaati](https://open.spotify.com/track/5Oea0pw6YbO9v9yhjP5Gbj) | [Wasim R](https://open.spotify.com/artist/3VpaMk7vUcWlbF9GhqNoT2) | [Maruvaati](https://open.spotify.com/album/1Yjp0QGEKrZLzanB29GWmZ) | 2:30 | 2026-05-20 |  |
 | [Maya](https://open.spotify.com/track/7kXUnNf7vZTyWHrnmcDpPl) | [Cozzy](https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5), [Jo](https://open.spotify.com/artist/7rTuLzJBUcmKeqfqxuhv94) | [Maya](https://open.spotify.com/album/33kre6aCwOaOGcckKeQilT) | 3:18 | 2024-03-19 | 2024-09-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > أفضل أغاني الراي
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,531 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,614 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Yakarhoni Gololi Limada](https://open.spotify.com/track/1IJKFOm451pPfkBKputTyo) | [Salim Louza](https://open.spotify.com/artist/5eUkzLuoz3r8bzu7Cg44Jj) | [Yakarhoni Gololi Limada](https://open.spotify.com/album/1tcn7HWpvgNAzL9iPLn0hD) | 6:24 |
 | 60 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
 
-Snapshot ID: `AAAAADsfydpjhf77WIdA4Anfc5DQR6Cs`
+Snapshot ID: `AAAAACpmMgfjPETmRoGp+iy7xmaSGfT8`

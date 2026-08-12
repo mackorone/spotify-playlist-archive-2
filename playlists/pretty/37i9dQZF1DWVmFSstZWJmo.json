@@ -1,12 +1,12 @@
 {
   "description": "Fcukers on the cover bby",
-  "num_followers": 217303,
+  "num_followers": 217341,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA2qI893PcshXqf7IN75JYjx5/5j",
+  "snapshot_id": "AAAAAJ0SZuKnfwj0iJeym0vDKIrrdRX9",
   "tracks": [
     {
       "added_at": "2026-08-07 19:48:03",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-08-07 19:48:03",
       "album": {
+        "name": "Youth Novels",
+        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "I'm Good, I'm Gone",
+      "url": "https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE"
+    },
+    {
+      "added_at": "2026-08-07 19:48:03",
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 465333,
       "name": "Paris - Aeroplane Remix",
       "url": "https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP"
-    },
-    {
-      "added_at": "2026-08-07 19:48:03",
-      "album": {
-        "name": "Youth Novels",
-        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "I'm Good, I'm Gone",
-      "url": "https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE"
     }
   ],
   "unique_name": "Indie Sleaze",

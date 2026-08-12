@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 123691,
+  "num_followers": 123734,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAAAXyfP4Mrpotxuj9BOcwLI6",
+  "snapshot_id": "ankUgAAAAACNL/LqWdlkaZD8oDSH+LUn",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
+        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Silueta De Cristal - En Vivo",
+      "url": "https://open.spotify.com/track/1SjQxDn3wDuXejZrAP1PCT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 212053,
       "name": "Ni Se Te Ocurra (Para Toda La Vida)",
       "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
-        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Pase Y Pase - En Vivo",
-      "url": "https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
+        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Pase Y Pase - En Vivo",
+      "url": "https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Millonario De Amor",
         "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 242613,
       "name": "Quince Minutos De Ti",
       "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
-        "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "Silueta De Cristal - En Vivo",
-      "url": "https://open.spotify.com/track/1SjQxDn3wDuXejZrAP1PCT"
     },
     {
       "added_at": null,

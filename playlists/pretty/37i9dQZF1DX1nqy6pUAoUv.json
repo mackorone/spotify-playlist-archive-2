@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170456,
+  "num_followers": 170451,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFH2fGW27YJCIADcG4GzdLbCRD/X",
+  "snapshot_id": "AAAAAP4Jhaqu40h7nmJ9NWxWyoLbVLTg",
   "tracks": [
     {
       "added_at": "2025-09-02 20:08:27",
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Souvenir",
-        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
+        "name": "Rosey",
+        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Bermuda Triangle",
+          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
         }
       ],
-      "duration_ms": 278355,
-      "name": "The Morning Song",
-      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
+      "duration_ms": 225999,
+      "name": "Rosey",
+      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Rosey",
-        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
+        "name": "Souvenir",
+        "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
       },
       "artists": [
         {
-          "name": "Bermuda Triangle",
-          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 225999,
-      "name": "Rosey",
-      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
+      "duration_ms": 278355,
+      "name": "The Morning Song",
+      "url": "https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Ruminations",
-        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
-      },
-      "artists": [
-        {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Barbary Coast (Later)",
-      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Ruminations",
+        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
+      },
+      "artists": [
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Barbary Coast (Later)",
+      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Between the Dirt and the Stars",
-        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
-      },
-      "artists": [
-        {
-          "name": "Mary Chapin Carpenter",
-          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
-        }
-      ],
-      "duration_ms": 463133,
-      "name": "Between the Dirt and the Stars",
-      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Gold Record",
         "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Between the Dirt and the Stars",
+        "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "duration_ms": 463133,
+      "name": "Between the Dirt and the Stars",
+      "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "From Where I Started",
-        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
+        "name": "Pacific Northwest Bound",
+        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
       },
       "artists": [
         {
-          "name": "Sera Cahoone",
-          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
+          "name": "Mike McKenna Jr.",
+          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
         }
       ],
-      "duration_ms": 154000,
-      "name": "Time to Give",
-      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
+      "duration_ms": 173786,
+      "name": "Pacific Northwest Bound",
+      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Pacific Northwest Bound",
-        "url": "https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ"
+        "name": "From Where I Started",
+        "url": "https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M"
       },
       "artists": [
         {
-          "name": "Mike McKenna Jr.",
-          "url": "https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0"
+          "name": "Sera Cahoone",
+          "url": "https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ"
         }
       ],
-      "duration_ms": 173786,
-      "name": "Pacific Northwest Bound",
-      "url": "https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN"
+      "duration_ms": 154000,
+      "name": "Time to Give",
+      "url": "https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO"
     }
   ],
   "unique_name": "Contemporary Folk",

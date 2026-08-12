@@ -1,13 +1,29 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 52312,
+  "num_followers": 52319,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anfDAAAAAADWhgC0UjYm7L4Ro35R/XZK",
+  "snapshot_id": "ankUgAAAAABGFD1cdtYklGbh7LFNaXgY",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 132906,
+      "name": "Bluey Theme Tune (Instrument Parade)",
+      "url": "https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 118893,
       "name": "Dance Mode",
       "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 132906,
-      "name": "Bluey Theme Tune (Instrument Parade)",
-      "url": "https://open.spotify.com/track/3ABoIhUlvJZp2ZDlfeThP7"
     },
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Here (The Orchestral Album)",
-        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
+        "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
+        "url": "https://open.spotify.com/album/6WTHRiGPgH0ZsIROsUkkB5"
       },
       "artists": [
         {
@@ -80,9 +80,29 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 301805,
-      "name": "Sleepytime",
-      "url": "https://open.spotify.com/track/0h6M0zKFd1toRFAiLXKIre"
+      "duration_ms": 64311,
+      "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
+      "url": "https://open.spotify.com/track/18oXrfb62Kn2GtU2Kqi4qM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        }
+      ],
+      "duration_ms": 189707,
+      "name": "Creek is Beautiful!",
+      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
     },
     {
       "added_at": null,
@@ -111,28 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        }
-      ],
-      "duration_ms": 189707,
-      "name": "Creek is Beautiful!",
-      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
-        "url": "https://open.spotify.com/album/6WTHRiGPgH0ZsIROsUkkB5"
+        "name": "Up Here (The Orchestral Album)",
+        "url": "https://open.spotify.com/album/7Mjv8eiKQVYqeA2wJwMUaq"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 64311,
-      "name": "La canci\u00f3n de Bluey (Espa\u00f1ol - Latinoam\u00e9rica)",
-      "url": "https://open.spotify.com/track/18oXrfb62Kn2GtU2Kqi4qM"
+      "duration_ms": 301805,
+      "name": "Sleepytime",
+      "url": "https://open.spotify.com/track/0h6M0zKFd1toRFAiLXKIre"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Mode!",
-        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 246939,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/5M80oeQX9BRz2tryvy5S9r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluey the Album (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 145986,
       "name": "Camping",
       "url": "https://open.spotify.com/track/4w5LdmsuCKio1HnWIycAub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Mode!",
+        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 246939,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/5M80oeQX9BRz2tryvy5S9r"
     },
     {
       "added_at": null,
@@ -247,6 +247,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Helena Czajka",
+          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
+        }
+      ],
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance Mode!",
         "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
       },
@@ -271,30 +295,6 @@
       "duration_ms": 146646,
       "name": "The Gnome Song (feat. Meg Washington)",
       "url": "https://open.spotify.com/track/6ePFV4tdMDBo2KQmpQioKq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Helena Czajka",
-          "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
-        }
-      ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Mode!",
-        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        }
-      ],
-      "duration_ms": 65038,
-      "name": "It Was Yesterday",
-      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bluey the Album (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 48396,
       "name": "The Creek (Intro)",
       "url": "https://open.spotify.com/track/6n5B43oRmZnwTpVfdJiVz4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dance Mode!",
+        "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        }
+      ],
+      "duration_ms": 65038,
+      "name": "It Was Yesterday",
+      "url": "https://open.spotify.com/track/1vMrZkX9ZnsqYlAFjBmwfd"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bluey the Album (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "duration_ms": 202098,
+      "name": "Wagon Ride",
+      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dance Mode!",
         "url": "https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 81363,
       "name": "Chattermax",
       "url": "https://open.spotify.com/track/2fjzQBE5mdrkmjYI3WkAWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluey the Album (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
-      },
-      "artists": [
-        {
-          "name": "Bluey",
-          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        }
-      ],
-      "duration_ms": 202098,
-      "name": "Wagon Ride",
-      "url": "https://open.spotify.com/track/5A7NglEPKMeCu7y8AJmzAD"
     },
     {
       "added_at": null,
