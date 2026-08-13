@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,749 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,793 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 36 | [People](https://open.spotify.com/track/1ylPmbpG7ht7cbBHu9nGK5) | [Stahgee](https://open.spotify.com/artist/1V2bR5y4rXl7gJHskZJyaj), [Lordeyang](https://open.spotify.com/artist/6v8leGUQLRwqN1MKGzcJow) | [People](https://open.spotify.com/album/6kLpkNA9EUBhTXw0N0kiZd) | 2:47 |
 | 37 | [Ego](https://open.spotify.com/track/2KpBEUqfK2LkScRRxB413X) | [Trench RB](https://open.spotify.com/artist/7GO9ysAvMiz5BK2vNikd2G) | [Ego](https://open.spotify.com/album/6WVEZFxbQAjrywuE6J8OOr) | 2:59 |
 | 38 | [7 DAYS](https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [STREET ANTHEM / 7 DAYS](https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg) | 2:34 |
-| 39 | [North South](https://open.spotify.com/track/3lNiwgHf5K7lUQx9PRSLID) | [Cleanblack Music](https://open.spotify.com/artist/0eTh5bU55ifpbfoUpfuO24), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [North & South](https://open.spotify.com/album/2CXXKHfhLJZLj1zlZP1lzi) | 3:10 |
+| 39 | [North South](https://open.spotify.com/track/3lNiwgHf5K7lUQx9PRSLID) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG), [Cleanblack Music](https://open.spotify.com/artist/0eTh5bU55ifpbfoUpfuO24) | [North & South](https://open.spotify.com/album/2CXXKHfhLJZLj1zlZP1lzi) | 3:10 |
 | 40 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 |
 | 41 | [Nta na Imo](https://open.spotify.com/track/3KOcPXqUnHHInChtUFoZuI) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 2:38 |
 | 42 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 58 | [NO APOLOGIES](https://open.spotify.com/track/7LxjavMU1YVyYPPBsjs3Zc) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:14 |
 | 59 | [Country Dey Hot](https://open.spotify.com/track/5gOF6qWSwHuF0gfQkiZONM) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB) | [Country Dey Hot](https://open.spotify.com/album/1A0lvkvRxKpnb7Gu2bvZ9b) | 1:50 |
 
-Snapshot ID: `AAAAAIez772AqIJS53U/pxay4ShH8kHH`
+Snapshot ID: `AAAAAL/Fd1KRvXIED4Nw7HqQGS2GMLpS`

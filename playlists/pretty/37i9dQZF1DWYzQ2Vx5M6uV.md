@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Ysa C
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,468 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,460 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 39 | [Soso \- Remix](https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:22 |
 | 40 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
 | 41 | [KTM](https://open.spotify.com/track/3XXofal1zx616qGCutchgq) | [Aissa](https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Nake](https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG) | [KTM](https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv) | 2:57 |
-| 42 | [Medetown](https://open.spotify.com/track/6vLPeh2r5vu7VrnfBhDu1F) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [OMERTA](https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY) | 3:01 |
-| 43 | [yo viendo](https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:28 |
+| 42 | [yo viendo](https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:28 |
+| 43 | [Medetown](https://open.spotify.com/track/6vLPeh2r5vu7VrnfBhDu1F) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [OMERTA](https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY) | 3:01 |
 | 44 | [Eva Longoria](https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Afro](https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA) | 3:19 |
 | 45 | [Pretty GIRL](https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:56 |
 | 46 | [Estuve Ahí](https://open.spotify.com/track/0deJuuwLr6HofRCDVDbVNA) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Estuve Ahí](https://open.spotify.com/album/4Xw68DlfaFUwGOLFvnpZxW) | 2:15 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 72 | [Todo Se Supera](https://open.spotify.com/track/4CaC69iESuAoTEJ3wN0DRd) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Todo Se Supera](https://open.spotify.com/album/6yuunIfINN48eEwBvD37T0) | 3:19 |
 | 73 | [Un Trip](https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41) | [Key\-Key](https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi) | [Un Trip](https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63) | 2:38 |
 | 74 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
-| 75 | [RAMÉ](https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [RAMÉ](https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw) | 2:41 |
-| 76 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
+| 75 | [PAKETE VAS](https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g) | [PAKETE VAS](https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU) | 2:07 |
+| 76 | [RAMÉ](https://open.spotify.com/track/4RYqpukZYyESWyhEc3EYXT) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [RAMÉ](https://open.spotify.com/album/4h5f7sE8qn781dGvmqSniw) | 2:41 |
 | 77 | [Ojitos Chinos](https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Ojitos Chinos](https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk) | 2:21 |
 | 78 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 79 | [Aroma](https://open.spotify.com/track/0h3siPcPcHfmSr6n4wloZW) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Afro Vibes \(2024\-07\-19\)](https://open.spotify.com/album/1iQijMFf2omolFxF3gL4RQ) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 99 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
 | 100 | [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 |
 
-Snapshot ID: `AAAAANS6RT3bbvITm1LiDA1FXMLNv11Y`
+Snapshot ID: `AAAAALcSVGcDMaQH3J5INR/U9RR79eLr`

@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Maglore",
-  "num_followers": 156432,
+  "num_followers": 156448,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPbcrDB0ioeSIpXVLNS7yHDGiJo8",
+  "snapshot_id": "AAAAAPlQxAul6rzhxtj9piTc5CV6ckU5",
   "tracks": [
     {
       "added_at": "2026-08-07 03:03:34",
@@ -383,26 +383,6 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
-        "name": "Pra Voc\u00ea Guardei o Amor",
-        "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 299778,
-      "name": "Pra Voc\u00ea Guardei o Amor",
-      "url": "https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv"
-    },
-    {
-      "added_at": "2026-08-07 03:03:34",
-      "album": {
         "name": "Fica um Pouco Mais",
         "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
       },
@@ -419,18 +399,22 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
-        "name": "R\u00e1dio",
-        "url": "https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH"
+        "name": "Pra Voc\u00ea Guardei o Amor",
+        "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
       },
       "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
         {
           "name": "Colomy",
           "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
         }
       ],
-      "duration_ms": 202000,
-      "name": "R\u00e1dio",
-      "url": "https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E"
+      "duration_ms": 299778,
+      "name": "Pra Voc\u00ea Guardei o Amor",
+      "url": "https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv"
     },
     {
       "added_at": "2026-08-07 03:03:34",
@@ -463,6 +447,22 @@
       "duration_ms": 229746,
       "name": "Sem\u00e1foro",
       "url": "https://open.spotify.com/track/1Nn7sJLkzaWrbtW6WuifT8"
+    },
+    {
+      "added_at": "2026-08-07 03:03:34",
+      "album": {
+        "name": "R\u00e1dio",
+        "url": "https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "R\u00e1dio",
+      "url": "https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E"
     },
     {
       "added_at": "2026-08-07 03:03:34",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
+        "name": "Flagra",
+        "url": "https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Flagra",
+      "url": "https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k"
+    },
+    {
+      "added_at": "2026-08-07 03:03:34",
+      "album": {
         "name": "Rotorquestra de Liquidificafu",
         "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 207500,
       "name": "Eu",
       "url": "https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D"
-    },
-    {
-      "added_at": "2026-08-07 03:03:34",
-      "album": {
-        "name": "Flagra",
-        "url": "https://open.spotify.com/album/1AR6eFADiEfwFGhrJ6MWWS"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Flagra",
-      "url": "https://open.spotify.com/track/4frLfd7EJQz25oLrqcj92k"
     },
     {
       "added_at": "2026-08-07 03:03:34",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
+        "name": "MENINA VENENO",
+        "url": "https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft"
+      },
+      "artists": [
+        {
+          "name": "HOZE",
+          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
+        }
+      ],
+      "duration_ms": 168107,
+      "name": "MENINA VENENO",
+      "url": "https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ"
+    },
+    {
+      "added_at": "2026-08-07 03:03:34",
+      "album": {
         "name": "Espetacular",
         "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 212024,
       "name": "Feedback - Ao Vivo",
       "url": "https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg"
-    },
-    {
-      "added_at": "2026-08-07 03:03:34",
-      "album": {
-        "name": "MENINA VENENO",
-        "url": "https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft"
-      },
-      "artists": [
-        {
-          "name": "HOZE",
-          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
-        }
-      ],
-      "duration_ms": 168107,
-      "name": "MENINA VENENO",
-      "url": "https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ"
     },
     {
       "added_at": "2026-08-07 03:03:34",

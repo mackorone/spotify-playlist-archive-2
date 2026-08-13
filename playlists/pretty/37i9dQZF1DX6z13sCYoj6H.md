@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z13sCYoj6H.md) - [plain]
 
 > The official soundtrack and score of Something Very Bad Is Going To Happen, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,515 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,535 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z13sCYoj6H.md) - [plain]
 | 41 | [I Want to See You Dancing](https://open.spotify.com/track/6djaJJk6xkkbG9JeGAnHsL) | [Terry Webster](https://open.spotify.com/artist/7D9y6P3UJOEKoT2qznw0Ew) | [Keep the Violence Down \- The Satril Years](https://open.spotify.com/album/3qHdLjpGJQOq3MoFlVsG17) | 2:34 |
 | 42 | [We Will Not Be Lovers \- 2006 Remaster](https://open.spotify.com/track/5HcSxmtgf66je7TNKO1rR9) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [Fisherman's Blues](https://open.spotify.com/album/0lIGBQj12ehBETiO01zUZx) | 7:01 |
 
-Snapshot ID: `AAAAALCkg9VkNW21AT0PPUVI0GgKQKGE`
+Snapshot ID: `AAAAANdNJgcf7KRbvZ3DaxFXaadpeIyO`

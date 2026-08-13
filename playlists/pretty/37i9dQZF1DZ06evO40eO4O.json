@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8326,
+  "num_followers": 8333,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAxR593IW2p1+yPMAnkPUCU",
+  "snapshot_id": "anpmAAAAAACqPnyV6W4+cNTiPX1nEEXV",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Va Muy Bien",
-        "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
+        "name": "AL\u00d3",
+        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 141098,
-      "name": "Me Va Muy Bien",
-      "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
+      "duration_ms": 171428,
+      "name": "AL\u00d3",
+      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AL\u00d3",
-        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
+        "name": "Me Va Muy Bien",
+        "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
       },
       "artists": [
         {
@@ -500,45 +500,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 171428,
-      "name": "AL\u00d3",
-      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mitad",
-        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 172392,
-      "name": "mitad",
-      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA NI\u00d1A DE FUEGO",
-        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "ARRABALERA",
-      "url": "https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE"
+      "duration_ms": 141098,
+      "name": "Me Va Muy Bien",
+      "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
     },
     {
       "added_at": null,
@@ -567,6 +531,42 @@
       "duration_ms": 245538,
       "name": "Nasty Girl (feat. Ingratax)",
       "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA NI\u00d1A DE FUEGO",
+        "url": "https://open.spotify.com/album/7aqGuXR2Aq76FtenpEEDRO"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "ARRABALERA",
+      "url": "https://open.spotify.com/track/2s9cvQzfwAgdnFUaKNivfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mitad",
+        "url": "https://open.spotify.com/album/7yBVnMTs3IbijMx8wsXyEp"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 172392,
+      "name": "mitad",
+      "url": "https://open.spotify.com/track/0OmKNkSVTMfRFbrgvmz1bO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,200,287 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,198,945 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 49 | [LA PLAYA](https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [SE LLEGÓ EL VERANO](https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ) | 2:57 |
 | 50 | [Desde Que Te Tengo](https://open.spotify.com/track/27aIkG6qb03S40uNAorXkM) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:46 |
 
-Snapshot ID: `AAAAAPbiz9o2gyksKskhF01Z7LfE58y0`
+Snapshot ID: `AAAAAAUiU/AV5XCM263f1iwDso874tB7`

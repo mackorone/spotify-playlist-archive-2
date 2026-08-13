@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Savi Kaboo, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: SYDOW, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 176201,
       "name": "bitte bleib",
       "url": "https://open.spotify.com/track/7kKHVRD76m9XVDhwOcg894"
@@ -4369,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Bygone Days",
+        "url": "https://open.spotify.com/album/27miqHTQ0c39dA4WADl8LS"
+      },
+      "artists": [
+        {
+          "name": "DALEE",
+          "url": "https://open.spotify.com/artist/6K3SgAqoj6bHHJ0um9CbOV"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198165,
+      "name": "Bygone Days",
+      "url": "https://open.spotify.com/track/244ojf3pW6wSz35doPNMe4"
+    },
+    {
+      "album": {
         "name": "C$D",
         "url": "https://open.spotify.com/album/0gK8OawcOdbojmrpcRRMKV"
       },
@@ -4622,6 +4640,24 @@
       "duration_ms": 153529,
       "name": "Caravella",
       "url": "https://open.spotify.com/track/5jxOTEF0fmk0jfmMXa4tKj"
+    },
+    {
+      "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/2bq2cjJoqqzHw5HQEbwcTL"
+      },
+      "artists": [
+        {
+          "name": "SYDOW",
+          "url": "https://open.spotify.com/artist/5mbkFxQCZwbv7p5h2S5GVl"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201736,
+      "name": "caroline",
+      "url": "https://open.spotify.com/track/7iUrV9iLQ0mmwRam5Lk2jr"
     },
     {
       "album": {
@@ -8998,7 +9034,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 155208,
       "name": "famous",
       "url": "https://open.spotify.com/track/2g55ohgMpaLyVpxsLyQTy7"
@@ -9952,7 +9988,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 167973,
       "name": "fuck it up",
       "url": "https://open.spotify.com/track/3q6wlbhirqQDUhm99FXqln"
@@ -12450,7 +12486,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 164375,
       "name": "Hin & Weg",
       "url": "https://open.spotify.com/track/6S8vBexDS2SlYlr2x6e9nC"
@@ -18386,7 +18422,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 247976,
       "name": "Motion Picture",
       "url": "https://open.spotify.com/track/7os4HIaa4YdpXeM3MtE31j"
@@ -22261,6 +22297,28 @@
     },
     {
       "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/4LDUHXKAXDiXQwHV9ElM1m"
+      },
+      "artists": [
+        {
+          "name": "Wollion",
+          "url": "https://open.spotify.com/artist/1ZbdUjXP1z1Mce5u22INMh"
+        },
+        {
+          "name": "82J6",
+          "url": "https://open.spotify.com/artist/0F3htQiOShH9wagg6odGCv"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428736,
+      "name": "Reload",
+      "url": "https://open.spotify.com/track/2iQVewPoo2i2P18NhU49li"
+    },
+    {
+      "album": {
         "name": "Remember The Days",
         "url": "https://open.spotify.com/album/2HFfyhihMs8YL7BUdINi2y"
       },
@@ -24556,6 +24614,24 @@
       "duration_ms": 202087,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/58X3Z1oPvb4ajMDVz29aFb"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/344mhcJHc881vCwkYdPw7L"
+      },
+      "artists": [
+        {
+          "name": "C\u00dcLP\u00c1",
+          "url": "https://open.spotify.com/artist/7lsPWTunpzhyGn9kVjvtPR"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239016,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/1NOUTNp9n2WRrkb5lCFfO7"
     },
     {
       "album": {
@@ -29060,6 +29136,28 @@
       "duration_ms": 152909,
       "name": "w0h1n",
       "url": "https://open.spotify.com/track/1XaocztXVNrRKYVySXQszD"
+    },
+    {
+      "album": {
+        "name": "Wahrheit oder Pflicht",
+        "url": "https://open.spotify.com/album/4CjbY6FInHp0pK1A1P4GIy"
+      },
+      "artists": [
+        {
+          "name": "KABA",
+          "url": "https://open.spotify.com/artist/2ajNEK8cFosmV0MBDw5jwG"
+        },
+        {
+          "name": "Katja",
+          "url": "https://open.spotify.com/artist/4cHFleVjoza5bee10s6Hdr"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217093,
+      "name": "Wahrheit oder Pflicht",
+      "url": "https://open.spotify.com/track/5vrIpkVCenPmUQGGseSMGI"
     },
     {
       "album": {

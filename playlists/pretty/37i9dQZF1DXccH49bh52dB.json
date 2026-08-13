@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 745859,
+  "num_followers": 745981,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANXzAgFIIp9W2VotSV0VMe23YUpE",
+  "snapshot_id": "AAAAAO/BIiAKJSXwZm7rKVuV5bHqxI7h",
   "tracks": [
     {
       "added_at": "2026-07-10 04:00:56",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 164009,
       "name": "Dancing in the Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Fast Car",
-        "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
-        }
-      ],
-      "duration_ms": 212424,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 212424,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
+        "name": "Food for the Soul",
+        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        }
+      ],
+      "duration_ms": 210562,
+      "name": "Food for the Soul",
+      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
         "name": "Love Songs (feat. Kosmo Kint)",
         "url": "https://open.spotify.com/album/2ZaVJ7fzj4JfjTkRuzmPSZ"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 198425,
       "name": "Love Songs (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
-        "name": "Food for the Soul",
-        "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        }
-      ],
-      "duration_ms": 210562,
-      "name": "Food for the Soul",
-      "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Never Walk Alone",
-        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
+        "name": "Lovers On The Dancefloor",
+        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
       },
       "artists": [
         {
@@ -1304,13 +1304,13 @@
           "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
         }
       ],
-      "duration_ms": 188360,
-      "name": "Never Walk Alone",
-      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
+      "duration_ms": 153088,
+      "name": "Lovers On The Dancefloor",
+      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Lovers On The Dancefloor",
-        "url": "https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN"
+        "name": "Never Walk Alone",
+        "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
       },
       "artists": [
         {
@@ -1400,13 +1400,13 @@
           "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         },
         {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
         }
       ],
-      "duration_ms": 153088,
-      "name": "Lovers On The Dancefloor",
-      "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
+      "duration_ms": 188360,
+      "name": "Never Walk Alone",
+      "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "feel",
-        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Emorio",
-        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Faf\u00e1 de Bel\u00e9m",
-          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Emorio",
-      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Emorio",
+        "url": "https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "duration_ms": 163840,
+      "name": "Emorio",
+      "url": "https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL"
     },
     {
       "added_at": "2026-07-10 04:00:56",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-07-10 04:00:56",
       "album": {
-        "name": "Goodbye (feat. Lyse) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
-      },
-      "artists": [
-        {
-          "name": "Feder",
-          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
-        },
-        {
-          "name": "Lyse",
-          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
-        }
-      ],
-      "duration_ms": 201938,
-      "name": "Goodbye (feat. Lyse) - Radio Edit",
-      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
-    },
-    {
-      "added_at": "2026-07-10 04:00:56",
-      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/71f51ihuW0oVdl2s4yFzSU"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 250000,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/04BNQFaBlFF7WDeTb1V0AP"
+    },
+    {
+      "added_at": "2026-07-10 04:00:56",
+      "album": {
+        "name": "Goodbye (feat. Lyse) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2UGPPuVJHDKLYd9Z2G7zS4"
+      },
+      "artists": [
+        {
+          "name": "Feder",
+          "url": "https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM"
+        },
+        {
+          "name": "Lyse",
+          "url": "https://open.spotify.com/artist/7K9peN1sknRNqPr9YEYedM"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "Goodbye (feat. Lyse) - Radio Edit",
+      "url": "https://open.spotify.com/track/3PnOOmkxruDDAiMYZZTgO7"
     },
     {
       "added_at": "2026-07-10 04:00:56",

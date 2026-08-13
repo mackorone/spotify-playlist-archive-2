@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW297YTjR45L.md) - [plain]
 
 > enjoy the ITZY 3RD WORLD TOUR \[TUNNEL VISION\] LIVE SET including the voices of them on stage! \(있지의 무대 멘트와 목소리가 포함된 \[TUNNEL VISION\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,992 likes - 28 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,998 likes - 28 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW297YTjR45L.md) - [plain]
 | 27 | [달라달라 \(DALLA DALLA\)](https://open.spotify.com/track/5JA4q7xkeSxmhgfAkPWnWW) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/4MNtFZXiyx5ltdldHFKQSg) | 3:19 |
 | 28 | [CLOSING MESSAGE FROM ITZY](https://open.spotify.com/track/5Dd23P7nbnAC2gx3elyQCG) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [ITZY 3RD WORLD TOUR \[TUNNEL VISION\]](https://open.spotify.com/album/3Z85OEMDZ6pkwCj4aR6RIv) | 1:25 |
 
-Snapshot ID: `AAAAACnaoY+Sncoz8txPUmA3Tmt0u6+F`
+Snapshot ID: `AAAAAJ/PhhXbS5J5ej7hg/NKaiD0weHr`

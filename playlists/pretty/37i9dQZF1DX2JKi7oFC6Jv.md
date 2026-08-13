@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,332 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,341 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 30 | [Tribal Warrior](https://open.spotify.com/track/0VhVO2DHLPRptJhTg60stS) | [Bakongo](https://open.spotify.com/artist/4FmchdtAj76UxQiNOjCgMo) | [Tribal Warrior](https://open.spotify.com/album/5qCvhwNOVnIunkiBwnbBYs) | 5:08 |
 | 31 | [Frontline](https://open.spotify.com/track/6h05VHWDLN16kDBSWe0KpH) | [Princess Nyah](https://open.spotify.com/artist/0hqvQutG576D21W1yxkSsh) | [Diary of a Princess](https://open.spotify.com/album/1mzpEX5Ofcd8Vehzt8pGQe) | 3:55 |
 | 32 | [Bongo Jam \- Club Mix](https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U) | [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [Calista](https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2) | [Bongo Jam](https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN) | 7:41 |
-| 33 | [Ravers](https://open.spotify.com/track/1Zk2e5gEbJbAqjC1HIozCc) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [European 305](https://open.spotify.com/artist/1UB3q4Ly1A7pOno5OMLENU) | [Ravers](https://open.spotify.com/album/6AOBVhxdU833s723ef7IrE) | 2:28 |
-| 34 | [Emotions](https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90) | [Zinc](https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF), [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:05 |
+| 33 | [Emotions](https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90) | [Zinc](https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF), [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:05 |
+| 34 | [Ravers](https://open.spotify.com/track/1Zk2e5gEbJbAqjC1HIozCc) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [European 305](https://open.spotify.com/artist/1UB3q4Ly1A7pOno5OMLENU) | [Ravers](https://open.spotify.com/album/6AOBVhxdU833s723ef7IrE) | 2:28 |
 | 35 | [T\-Shirt \- Crazy Cousinz Vocal Remix](https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [T\-Shirt \(UK remixes\)](https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn) | 5:35 |
 | 36 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
 | 37 | [Bust Your Windows \(feat\. Gracious K\) \- DJ Naughty \(UK Funky Remix\)](https://open.spotify.com/track/4ENaM9gBkb3jB2wkY8kq2g) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy), [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Bust Your Windows](https://open.spotify.com/album/5aaup0npZmZo3FO2Hm1d8Y) | 6:39 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 43 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
 | 44 | [Chantes](https://open.spotify.com/track/5B4mII2vIgWjlZAOxOdrt1) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
 | 45 | [Go Hard](https://open.spotify.com/track/4K9QL2YtsACZbgSePiGnvj) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Best of Bizzle](https://open.spotify.com/album/6Kdsrh31egVDwdWFNKb6XW) | 3:32 |
-| 46 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
-| 47 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
+| 46 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
+| 47 | [Quicktime \- Roska Remix](https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI) | [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Firepower EP](https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U) | 7:19 |
 | 48 | [I'm Fly \- DJ Version](https://open.spotify.com/track/0e5jqZDWMqo5u13SQ0WmXQ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [I'm Fly](https://open.spotify.com/album/3xwYsxgBdRhr4sJ1H0XDuf) | 4:08 |
 | 49 | [So Dangerous \- Radio Edit](https://open.spotify.com/track/1PhVMk51cxAFJlYQFG7QNW) | [DJ Footloose](https://open.spotify.com/artist/17s4oWHagNWfsl2tMHfLZI), [Syren Rivers](https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T) | [So Dangerous \(2008\)](https://open.spotify.com/album/39Qtk9Qfzv8u9LsMBoZe1o) | 3:32 |
 | 50 | [Funky Flex vs Pulse](https://open.spotify.com/track/5t9EmlfRigyMIJ1CECAxhZ) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Funky Flex vs Pulse](https://open.spotify.com/album/7CwgtLVlFey2pwT5lFCTHf) | 6:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 59 | [Bounce](https://open.spotify.com/track/3myQSDJmH49vj05O5N0LUA) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [Serocee](https://open.spotify.com/artist/6eccR9J1A0lXF0AFvj5JO9) | [Str8 Rum 2](https://open.spotify.com/album/3baBsm8dNr2cBrEgITKEum) | 2:56 |
 | 60 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
 
-Snapshot ID: `AAAAAGzkuV6s0FuTtsqPX6jMlA4HB2gh`
+Snapshot ID: `AAAAAPZMibGUqbV6DcZcdWVn63wcgRV3`

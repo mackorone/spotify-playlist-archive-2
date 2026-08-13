@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,069 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,071 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 14 | [Glamorous](https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:21 |
 | 15 | [Music Gets The Best Of Me](https://open.spotify.com/track/504KQuqyGkSg3xxN3FeSyy) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:38 |
 | 16 | [Bittersweet](https://open.spotify.com/track/2ThTvDTm6pkB0Upc8orpjz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 3:26 |
-| 17 | [Stay On Me](https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Stay On Me](https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC) | 3:07 |
-| 18 | [Hypnotized](https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [HANA \(Deluxe\)](https://open.spotify.com/album/7qLSaa8bECEnHabElnugub) | 3:02 |
+| 17 | [Hypnotized](https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Wuh Oh](https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8) | [HANA \(Deluxe\)](https://open.spotify.com/album/7qLSaa8bECEnHabElnugub) | 3:02 |
+| 18 | [Stay On Me](https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Stay On Me](https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC) | 3:07 |
 | 19 | [Relentless Love](https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 4:03 |
 | 20 | [Mixed Up World](https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:43 |
 | 21 | [Fuck With You](https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Gilbere Forté](https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK) | [Disco Crash](https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv) | 3:11 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 24 | [I Won't Change You](https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Shoot From The Hip](https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P) | 3:39 |
 | 25 | [Off & On](https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 3:31 |
 | 26 | [Catch You](https://open.spotify.com/track/1LjXn0nG37aBWPPnDOq1nQ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:18 |
-| 27 | [True Faith \- BBC Session](https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [True Faith \(BBC Session\)](https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY) | 5:02 |
-| 28 | [Taste](https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Taste](https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA) | 2:50 |
+| 27 | [Taste](https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Taste](https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA) | 2:50 |
+| 28 | [True Faith \- BBC Session](https://open.spotify.com/track/22p4EDZmtQjkS2wYq0jYjH) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [True Faith \(BBC Session\)](https://open.spotify.com/album/25ay5Qj85HqQ6eTHHecpVY) | 5:02 |
 | 29 | [Dolce Vita](https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:31 |
 | 30 | [Lost in the Sunshine](https://open.spotify.com/track/3RaNrjfoe9NADcR7MgG6NQ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb) | 4:03 |
 | 31 | [Starlight](https://open.spotify.com/track/2GkquduIKdU8FrsPugJ4Ob) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:19 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fIzg7.md) - [plain]
 | 45 | [Everything is Sweet](https://open.spotify.com/track/0Bt1jC0ia1DAKjSkqIsqiV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb) | 4:49 |
 | 46 | [Immortal](https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Visions, Vol\. 1](https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb) | 3:30 |
 | 47 | [While You're Still Young \- From ''Everybody's Talking About Jamie''](https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [The Feeling](https://open.spotify.com/artist/4AksvCnkZaQoTu1nJr62Db) | [While You're Still Young \(From ''Everybody's Talking About Jamie''\)](https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA) | 3:03 |
-| 48 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 |
-| 49 | [If You Go](https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:25 |
+| 48 | [New Flame](https://open.spotify.com/track/3R7yqdKUuQPPGgkCpkyzhC) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 2:49 |
+| 49 | [Magic](https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:33 |
 | 50 | [Love Is a Camera](https://open.spotify.com/track/5Lbt7w60bPFzouE6bEWFyL) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 4:13 |
 
-Snapshot ID: `ankUgAAAAABRr2aWvNh3vaumspyKK1Ag`
+Snapshot ID: `anpmAAAAAAB/eQ/BVbNOIQOjBurcT2do`

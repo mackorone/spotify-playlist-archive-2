@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 274,021 likes - 30 songs - 1 hr 43 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 274,000 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 27 | [Excuse Me](https://open.spotify.com/track/3LI6re9hgjfRopafe76N8t) | [Italobros](https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5) | [Excuse Me EP](https://open.spotify.com/album/31f5PwT3JJnrqPwzMoybdW) | 3:24 |
 | 28 | [Like Tha](https://open.spotify.com/track/7yINwBY2KfVAYCBLlXL0y1) | [DMC](https://open.spotify.com/artist/79elFN82NaopoNUxqtDPJ7) | [Like Tha](https://open.spotify.com/album/6UUkLpplW9qmTdR6ypQuxv) | 4:03 |
 | 29 | [6AM](https://open.spotify.com/track/1yKLBLfIsJHio3OX5CT2fD) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [6AM](https://open.spotify.com/album/0ReI8vTo8FK6sfPeY2BGNT) | 3:06 |
-| 30 | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
+| 30 | [Impressions](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
 
 Snapshot ID: `AAAItiawp6Edp7vM+B00nPImDQ/l9bn+`

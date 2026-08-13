@@ -1,12 +1,12 @@
 {
   "description": "A softer space.",
-  "num_followers": 610523,
+  "num_followers": 610484,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADFYavzWr2vRVUV+sbpPO96sU1hg",
+  "snapshot_id": "AAAAAP8FIuFKlwQX7mRtaLyov0cURLDg",
   "tracks": [
     {
       "added_at": "2024-10-10 15:49:38",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
+        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
+      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 256124,
       "name": "Snow On The Beach (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Anthems For A Seventeen Year-Old Girl (From \"I Saw the TV Glow\")",
-        "url": "https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
-      "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
     },
     {
       "added_at": "2026-07-23 17:10:49",
@@ -577,20 +577,20 @@
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
-      "added_at": "2026-07-23 17:10:49",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Clearing (B Sides)",
-        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+        "name": "Anyone But You",
+        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Gospel Oak",
-      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
+      "duration_ms": 176000,
+      "name": "Anyone But You",
+      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anyone But You",
-        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Anyone But You",
-      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 262871,
       "name": "Radio",
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
+    },
+    {
+      "added_at": "2026-07-23 17:10:49",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Gospel Oak",
+      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -655,22 +655,6 @@
       "duration_ms": 345600,
       "name": "Brooklyn Baby - Spotify Singles",
       "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 155007,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -719,6 +703,22 @@
       "duration_ms": 166760,
       "name": "locket",
       "url": "https://open.spotify.com/track/3DXAC5bKciAE2hhGXX4GMc"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155007,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Like I Used To",
         "url": "https://open.spotify.com/album/2WYwG9H90bEhcHdyeUdA3h"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 182513,
       "name": "Philadelphia (with Searows)",
       "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 415969,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 193640,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/6kvdjKkkd2QJ0arXpjCmfW"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "Seventeen Going Under (Deluxe)",
@@ -1071,6 +1055,22 @@
       "duration_ms": 238333,
       "name": "The Dying Light",
       "url": "https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 193640,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/6kvdjKkkd2QJ0arXpjCmfW"
     },
     {
       "added_at": "2024-07-12 12:20:23",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Spiderwebs",
-        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
-      },
-      "artists": [
-        {
-          "name": "Alfie Jukes",
-          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
-        }
-      ],
-      "duration_ms": 153241,
-      "name": "Spiderwebs",
-      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 328931,
       "name": "Son",
       "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Spiderwebs",
+        "url": "https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 153241,
+      "name": "Spiderwebs",
+      "url": "https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Wisconsin Winter",
-        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
-      },
-      "artists": [
-        {
-          "name": "Laura Alden",
-          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "Wisconsin Winter",
-      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "A Stranger Desired",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Wisconsin Winter",
+        "url": "https://open.spotify.com/album/7GuMOXneGJMFtrwfYdwqto"
+      },
+      "artists": [
+        {
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Wisconsin Winter",
+      "url": "https://open.spotify.com/track/2d1rzqRJjwlul6vMLVWOXS"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I"
       },
@@ -1545,22 +1545,6 @@
       "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Meet Me At The Record Store",
-        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
-      },
-      "artists": [
-        {
-          "name": "Pa Sheehy",
-          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
-        }
-      ],
-      "duration_ms": 233111,
-      "name": "Meet Me At The Record Store",
-      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
-    },
-    {
       "added_at": "2024-08-29 19:59:48",
       "album": {
         "name": "Oblivion",
@@ -1575,6 +1559,22 @@
       "duration_ms": 184571,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0R39eXyJMfdAQZ3Eac3DQG"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Meet Me At The Record Store",
+        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
+      },
+      "artists": [
+        {
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
+        }
+      ],
+      "duration_ms": 233111,
+      "name": "Meet Me At The Record Store",
+      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
     },
     {
       "added_at": "2024-05-31 15:25:10",

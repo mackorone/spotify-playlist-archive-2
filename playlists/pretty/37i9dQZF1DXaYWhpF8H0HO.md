@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Lukas Will
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,727 likes - 94 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,729 likes - 94 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 93 | [Almost Home Again](https://open.spotify.com/track/6L0KxnMl27Nb4MY2UumMRb) | [Reischa Alana](https://open.spotify.com/artist/4d99g47Up9gZ0TJiFiLbqJ) | [Almost Home Again](https://open.spotify.com/album/5tvyyjREnZSKpT7JrVc8QU) | 3:03 |
 | 94 | [WHAT U WANT](https://open.spotify.com/track/3eSwtFQuAz2PcfHVZCIIyL) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [WHAT U WANT](https://open.spotify.com/album/10KM8rJzZR3CdlbNzNNEUD) | 5:40 |
 
-Snapshot ID: `AAAAAOrbDEqCuZqQXpyjXyemnblY5Nfh`
+Snapshot ID: `AAAAAGmjNDHGgJi+29b020OAMmSRsk5Q`

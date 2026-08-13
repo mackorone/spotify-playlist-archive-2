@@ -4,7 +4,7 @@
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-194 songs - 10 hr 43 min
+195 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Check Am](https://open.spotify.com/track/5q1Go2adbGbqjgXxSD0UZS) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:14 | 2021-12-28 | 2022-02-03 |
 | [Comfortable \(feat\. Davido\)](https://open.spotify.com/track/0C91daZBEChlLpb8LLqojh) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Comfortable \(feat\. Davido\)](https://open.spotify.com/album/4615wavxmU3iwOfhzC8FoG) | 3:12 | 2023-01-20 | 2023-01-23 |
 | [Confirm \(feat\. Davido\)](https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Confirm \(feat\. Davido\)](https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy) | 3:49 | 2021-12-28 | 2022-10-05 |
-| [Constantly](https://open.spotify.com/track/7mTmTcz10Plcg8ljzGsECa) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:41 | 2026-08-02 |  |
+| [Constantly](https://open.spotify.com/track/7mTmTcz10Plcg8ljzGsECa) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:41 | 2026-08-02 | 2026-08-13 |
 | [Coolest Kid in Africa \(feat\. Nasty C\)](https://open.spotify.com/track/6A7oGoKJDwL0l0FBwREQJP) | [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Son of Mercy \- EP](https://open.spotify.com/album/33te65RWNpXJCwL2cFDRTP) | 3:48 | 2022-01-02 | 2022-03-01 |
 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 | 2021-12-28 | 2026-04-21 |
 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 | 2022-05-07 |  |
@@ -93,6 +93,7 @@
 | [Gobe](https://open.spotify.com/track/3d1aboWNpT2UYajHpbRExQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/6KjWnuW1bcexQkKuG8W4HK) | 3:49 | 2025-04-13 |  |
 | [Green Light Riddim](https://open.spotify.com/track/32N5JyUQ6SzkapNGe2JOMi) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 | 2021-12-28 | 2022-08-27 |
 | [GROOVING \(feat\. Davido and Seun Kuti\)](https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:46 | 2025-10-08 |  |
+| [Guide](https://open.spotify.com/track/7CVjRCTjoZ2e1zB16HkT1p) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Oriadé](https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz) | 2:48 | 2026-08-13 |  |
 | [Hayya Hayya \(Better Together\) \- Music from the FIFA World Cup Qatar 2022 Official Soundtrack](https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Aisha](https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Hayya Hayya \(Better Together\) \[Music from FIFA World Cup Qatar 2022 Soundtrack\]](https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU) | 3:26 | 2022-04-06 |  |
 | [Heaven](https://open.spotify.com/track/3UZsdMo8mE9rzVmy8FjdEA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:10 | 2022-05-08 | 2022-08-31 |
 | [High](https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 3:13 | 2022-12-08 |  |

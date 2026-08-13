@@ -1,12 +1,12 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Hansom \u0112li ",
-  "num_followers": 70274,
+  "num_followers": 70333,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+BUOqk6a7E75VWF1CHGiEU5MQx",
+  "snapshot_id": "AAAAANdekPUIZ/jctLyzsJkzTgAc/WnV",
   "tracks": [
     {
       "added_at": "2026-08-07 04:03:08",
@@ -563,18 +563,18 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Rinque de m\u00eame que c'est",
-        "url": "https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ"
+        "name": "Gold in California",
+        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
       },
       "artists": [
         {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
         }
       ],
-      "duration_ms": 213798,
-      "name": "Rinque de m\u00eame que c'est",
-      "url": "https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU"
+      "duration_ms": 214752,
+      "name": "Gold in California",
+      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -595,18 +595,18 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Gold in California",
-        "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
+        "name": "Rinque de m\u00eame que c'est",
+        "url": "https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ"
       },
       "artists": [
         {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
         }
       ],
-      "duration_ms": 214752,
-      "name": "Gold in California",
-      "url": "https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp"
+      "duration_ms": 213798,
+      "name": "Rinque de m\u00eame que c'est",
+      "url": "https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Tout ce qui d\u00e9passe",
-        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
-      },
-      "artists": [
-        {
-          "name": "Colin L\u00e9o",
-          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
-        }
-      ],
-      "duration_ms": 170693,
-      "name": "Tout ce qui d\u00e9passe",
-      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
-    },
-    {
-      "added_at": "2026-08-07 04:03:08",
-      "album": {
         "name": "Deux places au cimeti\u00e8re",
         "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 148979,
       "name": "omg",
       "url": "https://open.spotify.com/track/235y0f40Nf3ZaSeXjS91fX"
+    },
+    {
+      "added_at": "2026-08-07 04:03:08",
+      "album": {
+        "name": "Tout ce qui d\u00e9passe",
+        "url": "https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc"
+      },
+      "artists": [
+        {
+          "name": "Colin L\u00e9o",
+          "url": "https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC"
+        }
+      ],
+      "duration_ms": 170693,
+      "name": "Tout ce qui d\u00e9passe",
+      "url": "https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "rappelle-moi comme je t'aime",
-        "url": "https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia"
-      },
-      "artists": [
-        {
-          "name": "Katrine Sansregret",
-          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "rappelle-moi comme je t'aime",
-      "url": "https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo"
-    },
-    {
-      "added_at": "2026-08-07 04:03:08",
-      "album": {
         "name": "Deux places au cimeti\u00e8re",
         "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
+        "name": "rappelle-moi comme je t'aime",
+        "url": "https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia"
+      },
+      "artists": [
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "rappelle-moi comme je t'aime",
+      "url": "https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo"
+    },
+    {
+      "added_at": "2026-08-07 04:03:08",
+      "album": {
         "name": "Journal d'un Loup-Garou",
         "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 309760,
       "name": "Dis-moi dis-moi dis-moi",
       "url": "https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu"
-    },
-    {
-      "added_at": "2026-08-07 04:03:08",
-      "album": {
-        "name": "Excuse-moi",
-        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
-      },
-      "artists": [
-        {
-          "name": "Lilou Morin",
-          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
-        }
-      ],
-      "duration_ms": 197145,
-      "name": "Excuse-moi",
-      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -871,18 +855,18 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Courtside",
-        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+        "name": "Excuse-moi",
+        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
       },
       "artists": [
         {
-          "name": "Luis Clavis",
-          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+          "name": "Lilou Morin",
+          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
         }
       ],
-      "duration_ms": 182961,
-      "name": "Courtside",
-      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
+      "duration_ms": 197145,
+      "name": "Excuse-moi",
+      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -899,6 +883,22 @@
       "duration_ms": 229047,
       "name": "Demain",
       "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
+    },
+    {
+      "added_at": "2026-08-07 04:03:08",
+      "album": {
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "duration_ms": 182961,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e8ges",
+          "url": "https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO"
+        }
+      ],
+      "duration_ms": 225801,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3"
+    },
+    {
+      "added_at": "2026-08-07 04:03:08",
+      "album": {
         "name": "Demain \u00e7a ira",
         "url": "https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4i8Ehc9tCsJIAHs3LNDL6i"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e8ges",
-          "url": "https://open.spotify.com/artist/3aHCC5XL7q7F6UCfOOL4XO"
-        }
-      ],
-      "duration_ms": 225801,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3"
-    },
-    {
-      "added_at": "2026-08-07 04:03:08",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/1kHCoobdUawPAZaiyll1N4"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 134213,
       "name": "Qu'est-ce que je viens faire ici ?",
       "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
-    },
-    {
-      "added_at": "2026-08-07 04:03:08",
-      "album": {
-        "name": "Les serpents dans l'eau",
-        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9cile",
-          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
-        }
-      ],
-      "duration_ms": 217046,
-      "name": "Les serpents dans l'eau",
-      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Paranormal",
-        "url": "https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO"
-      },
-      "artists": [
-        {
-          "name": "Kamilou",
-          "url": "https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Paranormal",
-      "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"
-    },
-    {
-      "added_at": "2026-08-07 04:03:08",
-      "album": {
         "name": "Sanzaru",
         "url": "https://open.spotify.com/album/1ekuOtDRjg5ZGVyS8W4xzB"
       },
@@ -1063,6 +1031,38 @@
       "duration_ms": 189791,
       "name": "Sanzaru",
       "url": "https://open.spotify.com/track/2AKMoiJfH9SDy5DamRsozh"
+    },
+    {
+      "added_at": "2026-08-07 04:03:08",
+      "album": {
+        "name": "Les serpents dans l'eau",
+        "url": "https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9cile",
+          "url": "https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH"
+        }
+      ],
+      "duration_ms": 217046,
+      "name": "Les serpents dans l'eau",
+      "url": "https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu"
+    },
+    {
+      "added_at": "2026-08-07 04:03:08",
+      "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO"
+      },
+      "artists": [
+        {
+          "name": "Kamilou",
+          "url": "https://open.spotify.com/artist/2AGWEzhXzD8JhIYQdYRtr5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Paranormal",
+      "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
+        "name": "Que ta lumi\u00e8re",
+        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 232319,
+      "name": "Que ta lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
+    },
+    {
+      "added_at": "2026-08-07 04:03:08",
+      "album": {
         "name": "Fleuron (feat. Helena Deland)",
         "url": "https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0"
       },
@@ -1139,34 +1155,18 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Que ta lumi\u00e8re",
-        "url": "https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO"
+        "name": "L'avalanche",
+        "url": "https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO"
       },
       "artists": [
         {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+          "name": "Moses Belanger",
+          "url": "https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd"
         }
       ],
-      "duration_ms": 232319,
-      "name": "Que ta lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD"
-    },
-    {
-      "added_at": "2026-08-07 04:03:08",
-      "album": {
-        "name": "Je t'oublie quand m\u00eame pas",
-        "url": "https://open.spotify.com/album/0woE4E5OxLtqJpsDINKYTh"
-      },
-      "artists": [
-        {
-          "name": "maudit vincent",
-          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
-        }
-      ],
-      "duration_ms": 210258,
-      "name": "Je t'oublie quand m\u00eame pas",
-      "url": "https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0"
+      "duration_ms": 204444,
+      "name": "L'avalanche",
+      "url": "https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "L'avalanche",
-        "url": "https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO"
+        "name": "Je t'oublie quand m\u00eame pas",
+        "url": "https://open.spotify.com/album/0woE4E5OxLtqJpsDINKYTh"
       },
       "artists": [
         {
-          "name": "Moses Belanger",
-          "url": "https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd"
+          "name": "maudit vincent",
+          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
         }
       ],
-      "duration_ms": 204444,
-      "name": "L'avalanche",
-      "url": "https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi"
+      "duration_ms": 210258,
+      "name": "Je t'oublie quand m\u00eame pas",
+      "url": "https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0"
     },
     {
       "added_at": "2026-08-07 04:03:08",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-08-07 04:03:08",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+        "name": "Verger",
+        "url": "https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe"
       },
       "artists": [
         {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+          "name": "H\u00e9ron",
+          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
         }
       ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
+      "duration_ms": 213599,
+      "name": "Roi de verre",
+      "url": "https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy"
     }
   ],
   "unique_name": "Qu\u00e9b\u00e9cois Contemporain",

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Melvin Crispell III, Kurt Carr & The Kurt Carr Singers, Donald Lawrence & The Tri\-City Singers and more
+> With Marvin Winans, Melvin Crispell III, Kurt Carr & The Kurt Carr Singers and more
 
 2,023 songs - 6 day 12 hr 41 min
 

@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/6YfQmfK8Ac9XMMYmPdfN4F"
+      },
+      "artists": [
+        {
+          "name": "Morgan Bronner",
+          "url": "https://open.spotify.com/artist/4pQ4PiAiC6AGiW9oyZG2Jo"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170657,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5WRPtxnqTfXfGYDf1BXzRI"
+    },
+    {
+      "album": {
         "name": "Baby Blues",
         "url": "https://open.spotify.com/album/5DWsDgEBeXYcYx5oWywWre"
       },

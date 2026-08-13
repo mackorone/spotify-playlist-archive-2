@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 119 | [革命家](https://open.spotify.com/track/1tjDM0F7ojg9gqDdPjubSa) | [Bobby Chen](https://open.spotify.com/artist/1KkuALrf8T61dUSezl80Y4) | [我不是搖滾歌手](https://open.spotify.com/album/2p5z0wMyiVFGDA87mBHdSL) | 4:28 |
 | 120 | [小日記](https://open.spotify.com/track/7ayVmZVEzhdXHQiSXx7Qj1) | [盧可沛](https://open.spotify.com/artist/4mkIoKpfYgK6c0AJ1rRYwb) | [小日記](https://open.spotify.com/album/7eO0fzqhmkMPIEvMR8pvpp) | 3:53 |
 
-Snapshot ID: `AAAAAIfe15nZkvRzdUkcrHVFMVKX+fZO`
+Snapshot ID: `AAAAAIf9tSgfZIC0qyRDy1JW7QaAnplV`

@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17160,
+  "num_followers": 17159,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK5u79Hgk0BBUS3V0Nz54DQ5kypM",
+  "snapshot_id": "AAAAAKFr1trV5K5BEpU5y7Now/Paq2KL",
   "tracks": [
     {
       "added_at": "2026-07-03 07:30:31",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
+        "name": "long to be the garden",
+        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyunchang",
+          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "long to be the garden",
-        "url": "https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq"
+        "name": "Can We Talk Again",
+        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
       },
       "artists": [
         {
-          "name": "Kim Hyunchang",
-          "url": "https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB"
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T"
+      "duration_ms": 184386,
+      "name": "Can We Talk Again",
+      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
     },
     {
       "added_at": "2026-07-03 07:30:31",
@@ -775,22 +791,6 @@
       "duration_ms": 211061,
       "name": "With an Umbrella (feat. EZ Kim)",
       "url": "https://open.spotify.com/track/1n0AKrAgihIBumnkrpoNof"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
-        "name": "Can We Talk Again",
-        "url": "https://open.spotify.com/album/7upDgBOqXuwU72JPeBLIzA"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 184386,
-      "name": "Can We Talk Again",
-      "url": "https://open.spotify.com/track/0zuOKdFHYFIOTyJi0aOIuo"
     },
     {
       "added_at": "2026-07-03 07:30:31",

@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1482512,
+  "num_followers": 1482690,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABTutCz7o8c9BNVfohQLxfQ",
+  "snapshot_id": "anpmAAAAAACbNX3R4+YGS+Jc2nmfFI7V",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 271600,
-      "name": "Can't Tell Me Nothing",
-      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
+      "duration_ms": 243440,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 243440,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
     },
     {
       "added_at": null,
@@ -599,30 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BULLY - DELUXE",
-        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "I CAN\u2019T WAIT (feat. Ms. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/4DOsPwJtokv6HEifZ6t5j6"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 111477,
       "name": "BURN",
       "url": "https://open.spotify.com/track/7BPadP3q9qwMkho3IMPU99"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BULLY - DELUXE",
+        "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "I CAN\u2019T WAIT (feat. Ms. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-729 songs - 1 day 15 hr 47 min
+730 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [DALE BABY](https://open.spotify.com/track/71D3yrwwKGf9HDbXO5PJjD) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [DALE BABY](https://open.spotify.com/album/5jIce6BU7PcSkS7aXXGL0l) | 2:50 | 2024-04-26 | 2024-07-13 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-20 | 2024-09-28 |
 | [Danoto kopay](https://open.spotify.com/track/3Z0bGsiJF9ErQF1iMHsa1G) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Danoto kopay](https://open.spotify.com/album/4BGy2DxZmw8dLyu1OYEeyT) | 4:08 | 2025-05-30 | 2026-03-28 |
+| [Danoto kopay](https://open.spotify.com/track/1NCd6Euj3t2wiYRgPaX162) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Danoto kopay](https://open.spotify.com/album/5VZ7ACYZjoPVerXbmtIcAt) | 4:08 | 2026-08-07 |  |
 | [DEJA VU](https://open.spotify.com/track/5yGgXcprl6pFgJnXj8ay3S) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW) | [SAUCE KID 4](https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE) | 2:22 | 2025-10-17 | 2025-10-25 |
 | [Delta Force](https://open.spotify.com/track/3D4O7Jetr7t07qOo6i6Pds) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Tzanca Uragan](https://open.spotify.com/artist/3lbZr7dH2UwN4ZBhv0CcXb) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:07 | 2024-07-05 | 2025-02-08 |
 | [DEPUTATI](https://open.spotify.com/track/5LTuvpF2WOXEQCenVZiPuP) | [Nasyo Chernia](https://open.spotify.com/artist/14hRjnPyJXRdg38ghjQA9H), [Fury](https://open.spotify.com/artist/1NoJcqjaeEWed9cu8s55e5), [Monkey](https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO) | [DEPUTATI](https://open.spotify.com/album/3KTIBGoXps5d2ntRzCKmzx) | 3:01 | 2025-08-22 | 2025-12-27 |
@@ -595,7 +596,7 @@
 | [Друга любов](https://open.spotify.com/track/4Zgi5K7G6WeC686JliBgch) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Друга любов](https://open.spotify.com/album/2YGInfAl16XWTtrkX3wFNL) | 3:43 | 2025-04-25 | 2025-05-03 |
 | [Дум Так](https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Дум Так](https://open.spotify.com/album/3zwks6rRLPkYwShLPswVjd) | 3:14 | 2024-08-23 | 2025-04-19 |
 | [Дум так](https://open.spotify.com/track/2KJCqTUX8ZkDHChSpSxk5W) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Дум Так](https://open.spotify.com/album/2T1ISUdXJB28h8T3Npf6FD) | 3:14 | 2025-04-18 | 2025-04-26 |
-| [Дъното копай](https://open.spotify.com/track/1HNT2gc2dDu9uymszz1ITN) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Дъното копай](https://open.spotify.com/album/10IxXLlcxkd2fssT2gsxts) | 4:08 | 2026-04-24 |  |
+| [Дъното копай](https://open.spotify.com/track/1HNT2gc2dDu9uymszz1ITN) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Дъното копай](https://open.spotify.com/album/10IxXLlcxkd2fssT2gsxts) | 4:08 | 2026-04-24 | 2026-08-13 |
 | [Ела, Хабиби](https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS) | [Emilia](https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Ела, Хабиби](https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD) | 2:51 | 2024-02-16 | 2024-02-24 |
 | [Жалко](https://open.spotify.com/track/5GikULGCkwN6T8l5ldDAGL) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:49 | 2024-07-05 | 2024-07-20 |
 | [Жесток?](https://open.spotify.com/track/2YVcP9lXu8vw6H3wmAbMbD) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Tita](https://open.spotify.com/artist/5uOrQMWvhytvkjU7P3jgwV) | [Жесток?](https://open.spotify.com/album/4VdNNYFvrxPeB9fsTcpsqd) | 3:10 | 2025-11-21 | 2025-11-29 |

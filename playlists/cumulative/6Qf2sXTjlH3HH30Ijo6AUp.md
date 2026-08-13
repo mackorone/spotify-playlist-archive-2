@@ -2,7 +2,7 @@
 
 ### [100 Uplifting Songs](https://open.spotify.com/playlist/6Qf2sXTjlH3HH30Ijo6AUp)
 
-> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! A good playlist for pickme pop, feel good pop, and other positive music to boost your mood!
+> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! An affirmation song collection full of heartfelt, lovely moments, high vibrational energy and strong songs that make you feel unstoppable.
 
 416 songs - 23 hr 56 min
 

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHNrj52tseVkcs7u8CoT12Ue7t6",
+  "snapshot_id": "AAAAAEve/Ipq8ojyZ2b8VP83lYM3I0Az",
   "tracks": [
     {
       "added_at": "2024-07-19 06:48:03",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Haven't Met You Yet",
+      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "#3",
         "url": "https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 202530,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 244586,
-      "name": "Haven't Met You Yet",
-      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
     },
     {
       "added_at": "2024-07-19 06:48:03",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2024-07-19 06:48:03",
       "album": {
+        "name": "You've Got The Love",
+        "url": "https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO"
+    },
+    {
+      "added_at": "2024-07-19 06:48:03",
+      "album": {
         "name": "Up To Now",
         "url": "https://open.spotify.com/album/1IN1tRZL4wr52v3iZBz4Qb"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 223440,
       "name": "Tijdmachine",
       "url": "https://open.spotify.com/track/0xhWYqbieArhuGsYn9ADzF"
-    },
-    {
-      "added_at": "2024-07-19 06:48:03",
-      "album": {
-        "name": "You've Got The Love",
-        "url": "https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO"
     },
     {
       "added_at": "2024-07-19 06:48:03",

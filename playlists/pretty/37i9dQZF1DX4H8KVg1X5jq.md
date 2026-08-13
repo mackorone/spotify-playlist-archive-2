@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H8KVg1X5jq.md) - [plain]
 
 > The complete soundtrack to Love Story: John F\. Kennedy Jr\. & Carolyn Bessette, airing now on FX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,551 likes - 55 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,627 likes - 55 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H8KVg1X5jq.md) - [plain]
 | 54 | [Concerto for Piano and Orchestra No\. 5 in F Minor, BWV 1056: II\. Largo \- 2015 Remastered Version](https://open.spotify.com/track/4JFzXV50joVqf5NUPwIBzv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP), [Vladimir Golschmann](https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M), [Columbia Symphony Orchestra](https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE) | [Bach: Keyboard Concertos Nos\. 3, 5 & 7, BWV 1054, 1056 & 1058 \(Gould Remastered\)](https://open.spotify.com/album/76pasddqXzyN1q1Dsu8Hjy) | 2:56 |
 | 55 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 
-Snapshot ID: `AAAAAEE94GNkvZ01aXoK8tQf6TtDHuqm`
+Snapshot ID: `AAAAAApPJpq40ywufxUxfnm3qA1Ko0ME`

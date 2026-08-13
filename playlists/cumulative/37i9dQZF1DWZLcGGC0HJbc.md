@@ -2,7 +2,7 @@
 
 ### [Touching Grass](https://open.spotify.com/playlist/37i9dQZF1DWZLcGGC0HJbc)
 
-> Sarah Julia kiezen 20 mooie liedjes voor zomer ID 📵 mindful genieters\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> Sarah Julia kiezen 20 liedjes voor de zomer\. <a href="spotify:presents:jouwzomerid">Meer zomersuggesties? Doe de quiz.</a>
 
 324 songs - 19 hr 20 min
 

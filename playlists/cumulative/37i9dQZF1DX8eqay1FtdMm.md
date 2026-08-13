@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: sunwoojunga\(선우정아\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: JEONG EUN JI \(정은지\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-664 songs - 1 day 19 hr 18 min
+667 songs - 1 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Because of love](https://open.spotify.com/track/7u8cKCV0mrXirJcHhhFFz6) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys), [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because of love](https://open.spotify.com/album/6pfIavz40knR8l2TixGw5X) | 3:40 | 2024-05-02 | 2024-05-10 |
 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 | 2022-02-10 | 2026-08-10 |
 | [Because You're Not Here](https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/60w4ZxJnDrtlq7klh2e62m) | 4:18 | 2021-12-20 | 2022-10-25 |
+| [Become More Beautiful](https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [Become More Beautiful](https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt) | 4:28 | 2026-08-12 |  |
 | [Believe](https://open.spotify.com/track/5zTlkJSfyPhWTO1zw3MAx0) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Believe](https://open.spotify.com/album/2qIrjlGbXlc197HAUPVJyS) | 3:47 | 2022-02-25 | 2022-07-25 |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2022-03-24 | 2025-08-02 |
 | [Beside you](https://open.spotify.com/track/0PulmEG8fg22Cy7JGTP0Kq) | [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Beside you \(Better Days X Jang Hye\-Jin\)](https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD) | 4:12 | 2024-09-18 | 2024-09-28 |
@@ -158,7 +159,7 @@
 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 | 2023-10-19 |  |
 | [Even if fate separates us](https://open.spotify.com/track/3EJJObwczdPZlWvD8lk94t) | [Song Ha Yea](https://open.spotify.com/artist/28swpgrq4Fmfayz13dWrJi) | [Even if fate separates us](https://open.spotify.com/album/1aM0VqxuVamCdVAhbfiMVq) | 3:49 | 2022-06-18 | 2022-07-05 |
 | [Even If This Love Disappears Tonight](https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Even If This Love Disappears Tonight](https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF) | 3:40 | 2026-01-27 | 2026-05-05 |
-| [Everyday waiting you](https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Everyday waiting you](https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb) | 4:01 | 2023-01-25 |  |
+| [Everyday waiting you](https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Everyday waiting you](https://open.spotify.com/album/0uxFRF63oTtQZIfiWkdAnb) | 4:01 | 2023-01-25 | 2026-08-13 |
 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 | 2022-07-07 | 2024-10-14 |
 | [Excuse](https://open.spotify.com/track/25NbUuEgEGmMPiaCv3IAar) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Excuse](https://open.spotify.com/album/5CstpUDL81KyWYHqlsOS7G) | 3:35 | 2025-02-03 | 2025-04-17 |
 | [Fade away](https://open.spotify.com/track/3a0OpXCAQlT7EkhSyVcniQ) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [First Letter](https://open.spotify.com/album/6KDXZk6JcmTkDtuW49ScTo) | 4:17 | 2022-02-25 | 2022-07-13 |
@@ -243,6 +244,7 @@
 | [I hope so](https://open.spotify.com/track/6oQ31q5jXYywB9GfOAg80O) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0LpkST4SAahVzDKRC09YkF) | 3:19 | 2022-05-31 | 2022-06-05 |
 | [I knew](https://open.spotify.com/track/3U4yoCgME7eQecYMRWiy3j) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [I knew](https://open.spotify.com/album/6PdzG9x8QbcLL6KZx5pAAG) | 4:56 | 2022-03-29 | 2022-04-20 |
 | [I Know](https://open.spotify.com/track/3U8M6bGrZTIyonmFBO39BX) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [I Know](https://open.spotify.com/album/5vkGZSPl30cogX9pNg9uUC) | 3:26 | 2022-04-01 | 2022-04-16 |
+| [i love LOVE](https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Summer, I](https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU) | 3:00 | 2026-08-12 |  |
 | [I loved her a lot \(Feat\. Lee Ji yong\)](https://open.spotify.com/track/1laPD9SFgZQaMFAddIvHz7) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Lee Ji Yong](https://open.spotify.com/artist/5Iue50JE9RVewFikKWS6nH) | [I loved her a lot](https://open.spotify.com/album/0mKg95b4sy79j7iEhUAFps) | 3:50 | 2022-06-20 | 2022-07-05 |
 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 | 2021-12-20 |  |
 | [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 | 2025-02-10 |  |
@@ -267,7 +269,7 @@
 | [If you see me](https://open.spotify.com/track/1kJSVgmiirpy69GZYealwW) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [If you see me](https://open.spotify.com/album/3Ib1E0Oc3d6OzEAMZoSYXy) | 4:03 | 2024-12-05 | 2025-02-04 |
 | [If you were.](https://open.spotify.com/track/1z7iHdFB9B2RudJJsqoIb8) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [ONE MIND 3](https://open.spotify.com/album/6M5jzARlZqnZhUqMXuzriG) | 4:24 | 2022-03-24 | 2022-04-16 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-20 | 2024-05-22 |
-| [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 |  |
+| [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 | 2022-05-03 | 2026-08-13 |
 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 | 2021-12-20 | 2026-01-18 |
 | [Island](https://open.spotify.com/track/3owarI3zuA4HiGWZCVE817) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [CROSSROAD](https://open.spotify.com/album/1UQfHVOBlIFd5YJ1PaM6GG) | 4:29 | 2022-03-31 | 2022-04-24 |
 | [Island](https://open.spotify.com/track/3ICrCBhFiLaX0qP7KErHLe) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.1](https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep) | 4:16 | 2025-02-10 |  |
@@ -502,7 +504,7 @@
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-01-27 |  |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2024-09-02 |  |
 | [Surrender](https://open.spotify.com/track/3giNZ1ZVKFVRPJZq4ckF7o) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [DIVA](https://open.spotify.com/album/4sOFEOAhkVbcV3QiIJIRaT) | 3:57 | 2024-11-28 | 2024-12-06 |
-| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-09-01 |  |
+| [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 | 2025-09-01 | 2026-08-13 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2024-05-29 | 2024-06-06 |
 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 | 2022-08-03 | 2023-07-21 |
 | [Sweet Thing](https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a) | [GOMAK BOYS](https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT) | [GOMAK BOYS](https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9) | 3:24 | 2022-11-23 | 2023-06-19 |
@@ -571,6 +573,7 @@
 | [voKal\_Kim Kyung Ho](https://open.spotify.com/track/3EnUqfVZyac1sDXMN1Hshp) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [v o K a l Audio Liners](https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f) | 0:04 | 2024-05-29 | 2024-06-06 |
 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-12 | 2024-02-21 |
 | [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/track/2upF0nACk3Afl8njq0zunH) | [Klozer](https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/album/2UE0mGldffDWffKQLNIDuQ) | 3:41 | 2025-12-18 | 2026-01-28 |
+| [Walk through the rain](https://open.spotify.com/track/668TPlB2MKEFE4r3BrdKPA) | [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Walk through the rain](https://open.spotify.com/album/4Bf0fX2sBnNtN8GeQx6p23) | 4:06 | 2026-08-12 |  |
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 | 2026-05-06 |
 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 | 2022-04-01 | 2023-10-11 |
 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 | 2026-01-04 |

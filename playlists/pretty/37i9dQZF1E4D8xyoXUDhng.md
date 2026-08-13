@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Melvin Crispell III, Kurt Carr & The Kurt Carr Singers, Donald Lawrence & The Tri\-City Singers and more
+> With Marvin Winans, Melvin Crispell III, Kurt Carr & The Kurt Carr Singers and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 425 likes - 50 songs - 4 hr 37 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Ògo](https://open.spotify.com/track/75guVQXKjEvciqcye8Dvxf) | [Lulu Ayeni](https://open.spotify.com/artist/4wJrUVEndPeYQJDa4XBRQm) | [Ògo](https://open.spotify.com/album/74vBhIiYhB2fgneVLDQp6R) | 2:45 |
 | 50 | [He'll Take The Pain Away \- Live](https://open.spotify.com/track/1QBu0WE5BNuKNNAjRC0YPh) | [Gods Property](https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 8:41 |
 
-Snapshot ID: `AAAAAPLPrEp2FNISDgdsUnUxtxViW056`
+Snapshot ID: `AAAAAEzF32UtHVUWece8PaAdzkvwAoDQ`

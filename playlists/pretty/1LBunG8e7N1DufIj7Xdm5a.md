@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,685 songs - 10 day 11 hr 54 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,686 songs - 10 day 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,7 +225,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 215 | [Sphinx](https://open.spotify.com/track/1LTs0l4VWslDurokRJV2aL) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Sphinx](https://open.spotify.com/album/3abIn07BJ2iEEsvKMuvIor) | 4:08 |
 | 216 | [Indignant Swines](https://open.spotify.com/track/2mbTq483VlKgAckIHfixEl) | [Guild Theory](https://open.spotify.com/artist/5IT4b61RSF63uTYpeB0U7G) | [The Mellified Man](https://open.spotify.com/album/5SOJRspNEAX5mWO9ikdmHV) | 5:32 |
 | 217 | [Riffle gun](https://open.spotify.com/track/180XhecKAAcAiMDFb1wwJt) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Riffle gun](https://open.spotify.com/album/0lkcmLr2UtipAk2VyEBkLY) | 2:56 |
-| 218 | [Seven days a week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven days a week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 |
+| 218 | [Seven Days a Week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven Days a Week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 |
 | 219 | [Bank Teller.](https://open.spotify.com/track/7lWIwOOialndshBkc13sTm) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Bank Teller.](https://open.spotify.com/album/2IRFHEUeU5WSQesKUSAIDl) | 2:09 |
 | 220 | [Stunt](https://open.spotify.com/track/5mp3J2EBk1NBaBDgzRFrnv) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Stunt](https://open.spotify.com/album/1W9V8eWitTMYjnwXeFEzHW) | 2:42 |
 | 221 | [Agosto](https://open.spotify.com/track/1B6lLZVGPkFEO4NwHQCRYw) | [Eraclea](https://open.spotify.com/artist/1wGQi0sO3do5LGZChXMs2t) | [Toboga](https://open.spotify.com/album/4d6Ta0jnT8fnmM8QHSgZlj) | 3:02 |
@@ -2746,7 +2746,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 2736 | [Luna de México \(another\)](https://open.spotify.com/track/3m9WkhpTugTvEokx09cmsa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mexico pop in spanish](https://open.spotify.com/album/2XRshzrNGyk4HFaZolB5VY) | 2:49 |
 | 2737 | [Cielo Mexicano](https://open.spotify.com/track/6RsHWhDjylBY344U27mOVt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mexico pop in spanish](https://open.spotify.com/album/2XRshzrNGyk4HFaZolB5VY) | 2:01 |
 | 2738 | [Cielo Mexicano \(another\)](https://open.spotify.com/track/2mMw0ev66Cds2hOUqp6jJR) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mexico pop in spanish](https://open.spotify.com/album/2XRshzrNGyk4HFaZolB5VY) | 2:03 |
-| 2739 | [Seven days a week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven days a week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 |
+| 2739 | [Seven Days a Week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven Days a Week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 |
 | 2740 | [Snowflakes and Mistletoe](https://open.spotify.com/track/735LfWdSY3JK0k59445dKj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cool Christmas Music 2024](https://open.spotify.com/album/7she4qOnlfJb9w6nIjbqGQ) | 2:36 |
 | 2741 | [Snowflakes and Mistletoe \(another\)](https://open.spotify.com/track/0bSQLsHgiwx0tIagzZkWOA) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cool Christmas Music 2024](https://open.spotify.com/album/7she4qOnlfJb9w6nIjbqGQ) | 2:38 |
 | 2742 | [Snowflakes on My Nose](https://open.spotify.com/track/6MlUC9Xbb6rvZnP36hSbXB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cool Christmas Music 2024](https://open.spotify.com/album/7she4qOnlfJb9w6nIjbqGQ) | 2:41 |
@@ -4693,5 +4693,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4683 | [Electrifying](https://open.spotify.com/track/1YRKoosj9yh5391ksDhCx3) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Electrifying](https://open.spotify.com/album/2O5k7L9K9KAwkuLMwKtRWG) | 5:43 |
 | 4684 | [Electrifying](https://open.spotify.com/track/1YRKoosj9yh5391ksDhCx3) | [The Rift](https://open.spotify.com/artist/20XC0kNuHwNw2w2R0mDolP) | [Electrifying](https://open.spotify.com/album/2O5k7L9K9KAwkuLMwKtRWG) | 5:43 |
 | 4685 | [hyperstition](https://open.spotify.com/track/5lDryKiJUN4LLh7QkPuaoI) | [Love me machine!](https://open.spotify.com/artist/0E9Nmp2LVPkVxXJzsOjp2f) | [hyperstition](https://open.spotify.com/album/3dZ0DG8dQvDHD1Zjrdj0uH) | 4:48 |
+| 4686 | [Echoes Of Aether](https://open.spotify.com/track/2EOgtXubkshm9MiCFizYHI) | [Sanguira](https://open.spotify.com/artist/6V7rI2im6CabcUrznsNmdv) | [Echoes Of Aether](https://open.spotify.com/album/72o1LWmCp60Irn8pygPCmD) | 3:09 |
 
-Snapshot ID: `AAAJpPnvu+aN3nERQfiX1EJXT1a34dPH`
+Snapshot ID: `AAAJpY4CcrYDsvOSeuIerfJ6xpS/9atM`

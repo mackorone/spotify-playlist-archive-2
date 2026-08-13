@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Get ready to dance with the best House Music! Featuring pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Fred Again.\. and more\. Perfect for clubbing, parties or just vibing\. Deep House, Tech House, Progressive House &amp; Disco House\. Updated Weekly! Like &amp; Save.
+> Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,309,052 likes - 100 songs - 5 hr 3 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,308,986 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 | 99 | [Dilemma](https://open.spotify.com/track/59ePyxDJM8WCsec3yHkSgc) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Dilemma](https://open.spotify.com/album/1bU5ONtwYXdvgoEiAQ92is) | 2:38 |
 | 100 | [Never Alone](https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Vincent Vossen](https://open.spotify.com/artist/50SCzzclPLasHTR2YuLJA7) | [Never Alone](https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW) | 3:39 |
 
-Snapshot ID: `AAAR4bKclcYRBDEPk/koBbSx4AhB5E7c`
+Snapshot ID: `AAAR4xHSYJX0jKB63vooTvbkNidqoqVq`

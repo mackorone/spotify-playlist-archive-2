@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1141274,
+  "num_followers": 1141225,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIT2sWN/ZwXhk6Xh6wpnJiSXNs6g",
+  "snapshot_id": "AAAAAMvFsMmB3Xarhd99HWQFRqBSctZ1",
   "tracks": [
     {
       "added_at": "2025-10-10 04:00:44",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-10-10 04:00:44",
       "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
-    },
-    {
-      "added_at": "2025-10-10 04:00:44",
-      "album": {
         "name": "Until The Tunnel Vision Melts",
         "url": "https://open.spotify.com/album/4ERaJcbO4A2O1Oajsj1wZT"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 213720,
       "name": "Dreamwalker",
       "url": "https://open.spotify.com/track/6a27ujWv21H3qCkFGFj58L"
+    },
+    {
+      "added_at": "2025-10-10 04:00:44",
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
     },
     {
       "added_at": "2025-10-10 04:00:44",

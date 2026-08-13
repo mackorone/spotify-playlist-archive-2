@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Pallichattambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,336 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,447 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [Nilapakshi Happy Version](https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Maradona \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo) | 3:48 |
 | 50 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
 
-Snapshot ID: `AAAAACsuYrYB+NV98MRWAnvJ9Rn6L/ho`
+Snapshot ID: `AAAAAMGU9vUUnt+08ylNZnkUDAO4N564`

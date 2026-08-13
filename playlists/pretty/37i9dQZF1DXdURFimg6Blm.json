@@ -1,12 +1,12 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1483856,
+  "num_followers": 1483938,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqtH8SB5lBITRotGkEZM1n9wVm0",
+  "snapshot_id": "AAAAAGN0ILZ+GNiqtI6yG3rHHp/zRwmv",
   "tracks": [
     {
       "added_at": "2026-07-31 04:01:53",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
+        "name": "Hey Everybody",
+        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Hey Everybody",
+      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
-        "name": "Hey Everybody",
-        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 156498,
-      "name": "Hey Everybody",
-      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -731,30 +731,6 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
-        "name": "Turn The Tide (ft. Sylver)",
-        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        },
-        {
-          "name": "Pat B",
-          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "Turn The Tide (ft. Sylver)",
-      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Noche Without You",
-      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
         "name": "POP DAT THANG (David Guetta Mix)",
         "url": "https://open.spotify.com/album/7rtul2MGOdXBk485Ua18L6"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 172727,
       "name": "POP DAT THANG - David Guetta Mix",
       "url": "https://open.spotify.com/track/1DyPR5YSPHlRhqRQQR4CGB"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
+    },
+    {
+      "added_at": "2026-07-31 04:01:53",
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
       },
@@ -1291,22 +1311,18 @@
     {
       "added_at": "2026-07-31 04:01:53",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
+        "name": "$MONEY",
+        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
       },
       "artists": [
         {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 226976,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
+      "duration_ms": 154898,
+      "name": "$MONEY",
+      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
     },
     {
       "added_at": "2026-07-31 04:01:53",
@@ -1331,22 +1347,6 @@
       "duration_ms": 240318,
       "name": "Dracula - JENNIE Remix - Boys Noize Disko Version",
       "url": "https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl"
-    },
-    {
-      "added_at": "2026-07-31 04:01:53",
-      "album": {
-        "name": "$MONEY",
-        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 154898,
-      "name": "$MONEY",
-      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
     },
     {
       "added_at": "2026-07-31 04:01:53",

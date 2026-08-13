@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 443939,
+  "num_followers": 443950,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9b5M/DsS+gor5gLAZBzoiC5T5H",
+  "snapshot_id": "AAAAAJtiFB7RO93wwYvx7kETIcUtZ832",
   "tracks": [
     {
       "added_at": "2026-07-30 22:00:26",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Falling Like The Stars",
-        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "Falling Like The Stars",
-      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "In The Lonely Hour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Falling Like The Stars",
+        "url": "https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Falling Like The Stars",
+      "url": "https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Mejor ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Mejor ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "T'estimo tant",
         "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 183231,
       "name": "T'estimo tant",
       "url": "https://open.spotify.com/track/0jZcdLFYg3XDFqQaqzGlaQ"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Mejor ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Mejor ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "No tenemos tiempo",
-        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
-      },
-      "artists": [
-        {
-          "name": "L\u00eda Luque",
-          "url": "https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "No tenemos tiempo",
-      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 232040,
       "name": "Boredom",
       "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "No tenemos tiempo",
+        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
+      },
+      "artists": [
+        {
+          "name": "L\u00eda Luque",
+          "url": "https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "No tenemos tiempo",
+      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Otro perro andaluz (Cara A)",
-        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
-      },
-      "artists": [
-        {
-          "name": "CABA",
-          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "Un d\u00eda de julio",
-      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Otro perro andaluz (Cara A)",
+        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
+      },
+      "artists": [
+        {
+          "name": "CABA",
+          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Un d\u00eda de julio",
+      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Redux",
-        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 357956,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "SANGRE SUCIA",
-        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
+        "name": "Redux",
+        "url": "https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW"
       },
       "artists": [
         {
-          "name": "\u00c1ngeles Toledano",
-          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 224132,
-      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
-      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+      "duration_ms": 357956,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+        "name": "SANGRE SUCIA",
+        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
       "artists": [
         {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+          "name": "\u00c1ngeles Toledano",
+          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+      "duration_ms": 224132,
+      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
+      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
+      },
+      "artists": [
+        {
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
-      },
-      "artists": [
-        {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
-        }
-      ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
+      },
+      "artists": [
+        {
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
+        }
+      ],
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "amor 925.",
         "url": "https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7"
       },
@@ -1471,22 +1471,6 @@
       "duration_ms": 209591,
       "name": "No Valdr\u00e1 La Pena",
       "url": "https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "girlhood",
-        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
-      },
-      "artists": [
-        {
-          "name": "NEW LORE",
-          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "girlhood",
-      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1523,22 +1507,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
       },
@@ -1559,6 +1527,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "mai adeu",
         "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 103461,
       "name": "nada nada",
       "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "girlhood",
+        "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "girlhood",
+      "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1715,30 +1715,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Pictures",
-        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1763,6 +1739,30 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
         "name": "Albino Rhino",
         "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 249861,
       "name": "Albino Rhino",
       "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "El Noi de la Mare",
-        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
-        }
-      ],
-      "duration_ms": 243020,
-      "name": "El Noi de la Mare",
-      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Bombas de Amor",
         "url": "https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 162925,
       "name": "Bombas de Amor",
       "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "El Noi de la Mare",
+        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+        }
+      ],
+      "duration_ms": 243020,
+      "name": "El Noi de la Mare",
+      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "KERALA",
-        "url": "https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ"
-      },
-      "artists": [
-        {
-          "name": "Marina Sabadell",
-          "url": "https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V"
-        }
-      ],
-      "duration_ms": 213843,
-      "name": "KERALA",
-      "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "The Inner City",
         "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 180808,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "KERALA",
+        "url": "https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sabadell",
+          "url": "https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V"
+        }
+      ],
+      "duration_ms": 213843,
+      "name": "KERALA",
+      "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
     }
   ],
   "unique_name": "Relax en casa",

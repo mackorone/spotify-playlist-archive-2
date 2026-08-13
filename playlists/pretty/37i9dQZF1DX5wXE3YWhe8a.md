@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wXE3YWhe8a.md) - [plain]
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,233 likes - 75 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,244 likes - 75 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wXE3YWhe8a.md) - [plain]
 | 74 | [Playing at the Quiet Hour](https://open.spotify.com/track/590o8NliZmWfGVyGwoiJ5b) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [Time Lapse](https://open.spotify.com/album/5d8ao8OQLV1WRGBydWN0LI) | 2:59 |
 | 75 | [wildflowers](https://open.spotify.com/track/2YSblbztd9pNPSr0crTErJ) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [wildflowers](https://open.spotify.com/album/5sQeAGnf5OiVGrkaPN1fgF) | 2:12 |
 
-Snapshot ID: `AAAAAAuutMrmmK4mEbrHwtP+emZdbq7B`
+Snapshot ID: `AAAAAA40rPztdpMlk++i65vRE5R9zyhe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,402 likes - 128 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,419 likes - 128 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 127 | [Frühlingsgefühle](https://open.spotify.com/track/4h0QLxUzVqQ7QKFSnWjvdu) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Frühlingsgefühle](https://open.spotify.com/album/7M5trxxK8lsEExyuBP1Au8) | 2:16 |
 | 128 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 |
 
-Snapshot ID: `AAAAAKhjZhkBYmy+T+SCJH/htNNjaLRT`
+Snapshot ID: `AAAAAEhpic3qvlXPQ5KmAO3ysx4LaIDH`

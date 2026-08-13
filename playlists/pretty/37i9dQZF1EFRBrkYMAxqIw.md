@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186 likes - 151 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 151 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 49 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
 | 50 | [Close Your Eyes](https://open.spotify.com/track/11ZLztlvXKdaortTq9gDaG) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Close Your Eyes](https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H) | 2:37 |
 | 51 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
-| 52 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 |
-| 53 | [Everlasting](https://open.spotify.com/track/3fQpNZSQAR1Kf0X5IbSVoX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/2VDsKC01rmUccAq2qcxFy2) | 2:37 |
+| 52 | [Everlasting](https://open.spotify.com/track/3fQpNZSQAR1Kf0X5IbSVoX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/2VDsKC01rmUccAq2qcxFy2) | 2:37 |
+| 53 | [How Good We Had It](https://open.spotify.com/track/1JfhFTWcYJB7QaCimFHxhl) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU) | [How Good We Had It](https://open.spotify.com/album/3S6gQ7g8MlKENMiwnM0ZKR) | 3:05 |
 | 54 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
 | 55 | [Escape](https://open.spotify.com/track/5UA23VfYZt4RZkF6g3nZAp) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [Escape](https://open.spotify.com/album/3cfs0TtaFisZ9d1mytwQvB) | 2:55 |
 | 56 | [Ghost town...](https://open.spotify.com/track/6yPOtWOsflPZWc4z6Agnxx) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream inside a dream…](https://open.spotify.com/album/11H0ggNORjbmX0LhZ9iK2d) | 2:44 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 122 | [Rotten Peaches](https://open.spotify.com/track/7wOCKHdhWsKzRd9YKYz3zV) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:20 |
 | 123 | [1000 Questions](https://open.spotify.com/track/0LxpkO2AazoIfJ1PoRFbBp) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 4:06 |
 | 124 | [Grace](https://open.spotify.com/track/68s1dh2bqaBZOTpYiivFSg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:01 |
-| 125 | [I Believe](https://open.spotify.com/track/6FeljyjrAnDRxY353qaBZt) | [Will Manning](https://open.spotify.com/artist/0ABzOSdX8CJyoE5KsDe5TV) | [I Believe](https://open.spotify.com/album/4Qe8RT45vxnlQvLEKrt6R7) | 2:55 |
-| 126 | [Body On \- Boys' Version](https://open.spotify.com/track/0dqMB39X4ef3h1TcuRk9fn) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU) | [Body On \(Boys' Version\)](https://open.spotify.com/album/0OCtODbqho9EH8hBculKgN) | 3:16 |
+| 125 | [Body On \- Boys' Version](https://open.spotify.com/track/0dqMB39X4ef3h1TcuRk9fn) | [dearALICE](https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU) | [Body On \(Boys' Version\)](https://open.spotify.com/album/0OCtODbqho9EH8hBculKgN) | 3:16 |
+| 126 | [I Believe](https://open.spotify.com/track/6FeljyjrAnDRxY353qaBZt) | [Will Manning](https://open.spotify.com/artist/0ABzOSdX8CJyoE5KsDe5TV) | [I Believe](https://open.spotify.com/album/4Qe8RT45vxnlQvLEKrt6R7) | 2:55 |
 | 127 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 |
 | 128 | [Stay \- Piano ver.](https://open.spotify.com/track/1yT4l2NRZubuYRYT1lVD9a) | [Mizki](https://open.spotify.com/artist/5zJpeKLSuVa7kulMcgRGcE) | [Stay \(Piano ver.\)](https://open.spotify.com/album/4u9KIaeMZgkgi9LZSqVaVD) | 3:20 |
 | 129 | [Stop Making It Worse](https://open.spotify.com/track/5XJiYEHHCfbghn4Ddbgij3) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:51 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 150 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 151 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcZU/AAAAAAibbaB7eF58qTxP0V8JDaE`
+Snapshot ID: `AcZaYAAAAACw+rNWRPh4J74AwcdaZJqc`

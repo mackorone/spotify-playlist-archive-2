@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,623 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,620 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 48 | [Plegaria para un niño dormido](https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 3:47 |
 | 49 | [Libertango \- En Vivo en Luna Park](https://open.spotify.com/track/7JK4ZND7Gvd3smWaX5eU3t) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6), [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [Libertango \(En Vivo en el Luna Park\)](https://open.spotify.com/album/16ncE46moDunwP7X7P7xRH) | 3:26 |
 | 50 | [Viaje Sin Luna](https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 4:32 |
-| 51 | [SOLO](https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:33 |
-| 52 | [Yumbera](https://open.spotify.com/track/1hCjsKGQkWdi551Vgxgjn1) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Incidental Tango](https://open.spotify.com/album/6HL9PB5KmthDOLH8q00Gdg) | 4:12 |
+| 51 | [Yumbera](https://open.spotify.com/track/1hCjsKGQkWdi551Vgxgjn1) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Incidental Tango](https://open.spotify.com/album/6HL9PB5KmthDOLH8q00Gdg) | 4:12 |
+| 52 | [SOLO](https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:33 |
 | 53 | [Mistela](https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Limanueva](https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy) | 4:00 |
 | 54 | [Ghost Town](https://open.spotify.com/track/3vEZd9EiNj1fiwY6oFclTu) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh), [Mela Green](https://open.spotify.com/artist/1OoRlzoPBEdN9gPMt7Dx69), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Ghost Town](https://open.spotify.com/album/3drZDHi0DVKGn6mLwDueij) | 4:29 |
 | 55 | [Funky Tango \- Remasterizado 2023](https://open.spotify.com/track/26w0kTFqcEkBN3rI0QIe5n) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG), [Juan Salinas](https://open.spotify.com/artist/3LkShlQRHHeTS7Y6iyOeX8) | [Funky Tango \(Remasterizado 2023\)](https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c) | 7:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 69 | [Uprising Of Kindness](https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2) | [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [This Is Richard Bona](https://open.spotify.com/album/28rNJjo7RDgAV7Uscjv67T) | 4:01 |
 | 70 | [Amor de Tango](https://open.spotify.com/track/1J4n9qgCWFUgWae1LqZUH6) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Amor de Tango](https://open.spotify.com/album/0RaAYnwUyy8tuWEAxTXdJJ) | 3:05 |
 
-Snapshot ID: `AAAAANiPwUXHWoUWMzcdP10GRuNQWKk7`
+Snapshot ID: `AAAAAPD9CPGr2ZFQ9ujHOQPtaiOzejjO`

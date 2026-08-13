@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Mack Keane",
-  "num_followers": 239885,
+  "num_followers": 239884,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGZ+pQTx/LHzd7Z8kWWvsLVyDx0V",
+  "snapshot_id": "AAAAAAc8wrjw124uW+n8OSqwViy8m9Zp",
   "tracks": [
+    {
+      "added_at": "2026-08-13 00:28:16",
+      "album": {
+        "name": "Sam Smith - Spotify Live Room",
+        "url": "https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 197957,
+      "name": "When He\u2019s Gone (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/72lbG8nN6XULABnAiFaSzA"
+    },
+    {
+      "added_at": "2026-08-13 00:28:16",
+      "album": {
+        "name": "Sam Smith - Spotify Live Room",
+        "url": "https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 291433,
+      "name": "Big Girls Don't Cry (Fergie Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6"
+    },
     {
       "added_at": "2026-07-22 18:09:22",
       "album": {

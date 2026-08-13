@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 572674,
+  "num_followers": 572700,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAhsCrTFSG5gvpsG8QBmoPz",
+  "snapshot_id": "anpmAAAAAACRH7UMxLrJE8Zb+O7X54G5",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
+        "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "Cradle to the Grave",
+      "url": "https://open.spotify.com/track/1w0xrvkbggPkTdZPDPNPFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1nW4xR4B2Ok6JOv9KyMYhy"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 227309,
       "name": "When the Seasons Change",
       "url": "https://open.spotify.com/track/7w0VXWwbgA2a7si5E3k7Yp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 2",
-        "url": "https://open.spotify.com/album/3lUaarZcFRxIxn84ECPJgy"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "Cradle to the Grave",
-      "url": "https://open.spotify.com/track/1w0xrvkbggPkTdZPDPNPFn"
     },
     {
       "added_at": null,

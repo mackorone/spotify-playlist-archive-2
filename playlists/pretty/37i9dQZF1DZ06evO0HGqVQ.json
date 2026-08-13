@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32232,
+  "num_followers": 32236,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACYQgy7ZLK8GHkjtV4PMkqG",
+  "snapshot_id": "anpmAAAAAADrcPQ3qfRg/7QNuqlaRQkb",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sue\u00f1os de Colombia",
         "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 281386,
       "name": "Cuando Te Vayas",
       "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "D\u00ed Que Si",
-      "url": "https://open.spotify.com/track/4Zl7QcPqfCIMFzc3BcjB7o"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "D\u00ed Que Si",
+      "url": "https://open.spotify.com/track/4Zl7QcPqfCIMFzc3BcjB7o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 322560,
       "name": "Tu Historieta",
       "url": "https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3"
     },
     {
       "added_at": null,

@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GyB1VTMbAk.md) - [plain]
 | 28 | [One Kiss](https://open.spotify.com/track/4aShw2oGVO55cXxFGu7MM7) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 3:32 |
 | 29 | [Inside My Love](https://open.spotify.com/track/0ctTbnpZKsDjY7vG7jtPeM) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:39 |
 
-Snapshot ID: `AAAAAEI0tDW2WqCPqCj8PvR+g730SLFK`
+Snapshot ID: `AAAAADfRrUuc1dRy6dZJpQY56GBMW7Aw`

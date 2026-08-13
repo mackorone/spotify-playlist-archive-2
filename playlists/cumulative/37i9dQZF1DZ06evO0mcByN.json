@@ -1496,6 +1496,28 @@
       "duration_ms": 309636,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+    },
+    {
+      "album": {
+        "name": "Vencendo de Joelhos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3fZmJsxEKccWynHXnsqxnp"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532500,
+      "name": "Vencendo de Joelhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/1gk1YLKK4HmJzAWL9teEsU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mcByN"

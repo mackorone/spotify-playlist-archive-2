@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxtEGRFJYsS.md) - [plain]
 
 > Celebrate Super Mario Bros\. 40th Anniversary ©Nintendo
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,404 likes - 130 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,513 likes - 130 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxtEGRFJYsS.md) - [plain]
 | 129 | [緑の星](https://open.spotify.com/track/3K44GXIsZaVM76cm52nvuj) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 2:03 |
 | 130 | [Theme of SMG2](https://open.spotify.com/track/5ZKfI1NNzpzQA5u8nAlFBK) | [スーパーマリオギャラクシー](https://open.spotify.com/artist/5Ti5KEwE1Xi17uMbxvOYJz) | [スーパーマリオギャラクシー 2](https://open.spotify.com/album/4EpfiRJt2aCGOONvSseDSX) | 1:59 |
 
-Snapshot ID: `AAAAAAAf6lhrOHQZ0+Vk7geY/REUXiix`
+Snapshot ID: `AAAAAKIYqXOj3lg8ZXbv9/7VlqeSbUi/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Dimitri Vegas & Sylver
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,472 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,462 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 95 | [On & On \(Shots in Zante\)](https://open.spotify.com/track/7bUcwlEVIaBndm7LCSgJwn) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Tom Hall](https://open.spotify.com/artist/467yXfSwNLfBmxeaTp7rQo), [Billy Young](https://open.spotify.com/artist/4S4CrQmGnnYLokMkV9F33Y) | [On & On \(Shots in Zante\)](https://open.spotify.com/album/3tR4yuJy4ceiIvWS40S8as) | 2:00 |
 | 96 | [Fuego On My USB](https://open.spotify.com/track/2FbFT19G7Tf9WtpDzmmfTh) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Fuego On My USB](https://open.spotify.com/album/5danirARXIoVSj4xcjdRKn) | 2:44 |
 
-Snapshot ID: `AAAAAKrqvh0nJDD6tKbBFogsR462IS/z`
+Snapshot ID: `AAAAANcRjrjqVmLn4llUt1VgzMIWLjcY`

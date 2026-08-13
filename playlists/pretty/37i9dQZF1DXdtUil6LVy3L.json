@@ -1,12 +1,12 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 38852,
+  "num_followers": 38847,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMf4uR8VDef8Xd0VwTvkd9wv9bNK",
+  "snapshot_id": "AAAAAAOBB/E3AKkavWndMcz1vAlcT3hz",
   "tracks": [
     {
       "added_at": "2025-12-19 14:32:05",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "O Come, All Ye Faithful",
-        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
-      },
-      "artists": [
-        {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "O Come, All Ye Faithful",
-      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "I Saw Three Ships",
         "url": "https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 147547,
       "name": "In the Bleak Midwinter",
       "url": "https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "duration_ms": 177874,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Candy Canes and Silver Lanes",
-        "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
-      },
-      "artists": [
-        {
-          "name": "Brandon's Three",
-          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
-        }
-      ],
-      "duration_ms": 223151,
-      "name": "Candy Canes and Silver Lanes",
-      "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 154096,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Candy Canes and Silver Lanes",
+        "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
+      },
+      "artists": [
+        {
+          "name": "Brandon's Three",
+          "url": "https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM"
+        }
+      ],
+      "duration_ms": 223151,
+      "name": "Candy Canes and Silver Lanes",
+      "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
+        "name": "We Three Kings",
+        "url": "https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH"
+      },
+      "artists": [
+        {
+          "name": "Augustus Step",
+          "url": "https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M"
+        }
+      ],
+      "duration_ms": 179183,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
         "name": "O Tannenbaum",
         "url": "https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 214596,
       "name": "Tis the season",
       "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
-        "name": "We Three Kings",
-        "url": "https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH"
-      },
-      "artists": [
-        {
-          "name": "Augustus Step",
-          "url": "https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M"
-        }
-      ],
-      "duration_ms": 179183,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "I Heard the Bells on Christmas Day",
-        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
-      },
-      "artists": [
-        {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
-        }
-      ],
-      "duration_ms": 149940,
-      "name": "I Heard the Bells on Christmas Day",
-      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "Holly Jolly Christmas",
         "url": "https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 123000,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
     },
     {
       "added_at": "2025-12-19 14:32:05",

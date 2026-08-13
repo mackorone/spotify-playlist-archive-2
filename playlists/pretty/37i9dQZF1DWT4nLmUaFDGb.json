@@ -1,12 +1,12 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 732347,
+  "num_followers": 732541,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAxs4Egbhcb7e+NYOA/2Dqmz+Sgv",
+  "snapshot_id": "AAAAAL1o3Mbup4VdHjkGagdwq/AAdl6Z",
   "tracks": [
     {
       "added_at": "2026-06-08 07:25:41",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Peter Cincotti",
+        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
+      },
+      "artists": [
+        {
+          "name": "Peter Cincotti",
+          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 244653,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Peter Cincotti",
-        "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
-      },
-      "artists": [
-        {
-          "name": "Peter Cincotti",
-          "url": "https://open.spotify.com/artist/1PjKnsWzJra4dV8OXiNC5F"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/2DPBgT4BHfawknU40BZ1gg"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Make this moment",
-        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
-      },
-      "artists": [
-        {
-          "name": "Inger Marie Gundersen",
-          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
-        }
-      ],
-      "duration_ms": 287613,
-      "name": "Will you still love me tomorrow",
-      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Dreaming Wide Awake",
         "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 210520,
       "name": "Hit The Ground",
       "url": "https://open.spotify.com/track/66kSq3nyISTG4FcTeeOpe2"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Make this moment",
+        "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
+      },
+      "artists": [
+        {
+          "name": "Inger Marie Gundersen",
+          "url": "https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq"
+        }
+      ],
+      "duration_ms": 287613,
+      "name": "Will you still love me tomorrow",
+      "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 257533,
       "name": "Smile",
       "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -847,22 +847,18 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
       "artists": [
         {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -883,18 +879,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
       },
       "artists": [
         {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Tis Autumn",
-        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
-      },
-      "artists": [
-        {
-          "name": "Belle-Skinner",
-          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
-        }
-      ],
-      "duration_ms": 130162,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Passion World",
         "url": "https://open.spotify.com/album/2pSQtV2WOa5tKWhaFaZqBi"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 492520,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/6kEi3816EhM1usV0W3DWGD"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Tis Autumn",
+        "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
+      },
+      "artists": [
+        {
+          "name": "Belle-Skinner",
+          "url": "https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA"
+        }
+      ],
+      "duration_ms": 130162,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "On Vacation",
         "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 326729,
       "name": "Save Your Love for Me",
       "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Make It Another Old Fashioned, Please",
         "url": "https://open.spotify.com/album/0Exch16Z1tgNcINQHTB9G4"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 172080,
       "name": "Make It Another Old Fashioned, Please",
       "url": "https://open.spotify.com/track/0BXVF6rdWKfDY28a02u5WN"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/0iMw5aKpZC7Ifv7oQZ8FzF"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 177773,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/4aRUHmTxZtltzbnv1XApBD"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "Burgundy",
         "url": "https://open.spotify.com/album/0kKAsVURzU5scFPBk5wU9p"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 260144,
       "name": "Burgundy",
       "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
-        "name": "Baby Won't You Please Come Home",
-        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
         "name": "Nice Girls Don't Stay for Breakfast",
         "url": "https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 217507,
       "name": "Nice Girls Don't Stay for Breakfast",
       "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "added_at": "2026-06-08 07:25:41",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-06-08 07:25:41",
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2026-06-08 07:25:41",
+      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
-    },
-    {
-      "added_at": "2026-06-08 07:25:41",
-      "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2026-06-08 07:25:41",

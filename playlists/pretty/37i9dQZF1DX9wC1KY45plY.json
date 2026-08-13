@@ -1,12 +1,12 @@
 {
   "description": "A soundtrack to fuel your good mood while on the road.",
-  "num_followers": 6854835,
+  "num_followers": 6855510,
   "original_name": "Classic Road Trip Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFoHyQYuCiYTbHvLP/kDj6H4Wt6D",
+  "snapshot_id": "AAAAAFlo4YXEYsSoBieMOj3ss5otTTnA",
   "tracks": [
     {
       "added_at": "2021-11-12 16:54:53",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "Working Class Dog",
-        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
-      },
-      "artists": [
-        {
-          "name": "Rick Springfield",
-          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Jessie's Girl",
-      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "Working Class Dog",
+        "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
+      },
+      "artists": [
+        {
+          "name": "Rick Springfield",
+          "url": "https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Jessie's Girl",
+      "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
     },
     {
       "added_at": "2021-11-12 16:54:53",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-11-12 16:54:53",
       "album": {
-        "name": "War (Remastered)",
-        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 279440,
-      "name": "Sunday Bloody Sunday - Remastered 2008",
-      "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
-    },
-    {
-      "added_at": "2021-11-12 16:54:53",
-      "album": {
         "name": "Welcome To The Real World",
         "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 343933,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
+    },
+    {
+      "added_at": "2021-11-12 16:54:53",
+      "album": {
+        "name": "War (Remastered)",
+        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 279440,
+      "name": "Sunday Bloody Sunday - Remastered 2008",
+      "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
     },
     {
       "added_at": "2021-11-12 16:54:53",

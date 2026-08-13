@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Mando en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,863 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,883 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 11 | [Romantiqueo](https://open.spotify.com/track/3wc0VpeQhWsk9cgLDrlG1C) | [Pambo](https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P) | [Romantiqueo](https://open.spotify.com/album/4Y0BamVM6wBrjj1LPwHlLz) | 3:06 |
 | 12 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 13 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |
-| 14 | [Diamantes](https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW) | [Bon Calso](https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Diamantes](https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU) | 4:10 |
+| 14 | [Vuelvo A Ti](https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ya Es Mañana](https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO) | 3:06 |
 | 15 | [KAWASAKI](https://open.spotify.com/track/1ojKC4x3rDKoaikvEx1Lt2) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G) | [KAWASAKI](https://open.spotify.com/album/5AsNKgoGpbkOGSJyLjY4mM) | 2:37 |
-| 16 | [Vuelvo A Ti](https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ya Es Mañana](https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO) | 3:06 |
+| 16 | [Diamantes](https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW) | [Bon Calso](https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Diamantes](https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU) | 4:10 |
 | 17 | [Tu Falta De Querer](https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Falta De Querer](https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW) | 3:13 |
 | 18 | [Abrázame](https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Abrázame](https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L) | 3:04 |
 | 19 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 69 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
 | 70 | [Te Amé +](https://open.spotify.com/track/6afTXhyxiBpokGmbeCtWCO) | [María Bolio](https://open.spotify.com/artist/5YpEQND4xgBEwvj98Bq6NR) | [A MÍ TAMBIÉN ME PASÓ](https://open.spotify.com/album/23HsDOXlfBhWRCiVkrqwC3) | 2:35 |
 
-Snapshot ID: `AAAAABWSCmCFsrFilMJ5Vnqc+HlzW9ww`
+Snapshot ID: `AAAAAHVSAuHj5xedxmrVC+S6WsTH8XwW`

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 498951,
+  "num_followers": 498968,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEY6poPeduEL6+SLiXzjRiyBQUiP",
+  "snapshot_id": "AAAAAPrODr7t0iKaaiEmIWrwzMg1CIiq",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:43",
@@ -147,22 +147,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Runtuh",
-        "url": "https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW"
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
       },
       "artists": [
         {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        },
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
         }
       ],
-      "duration_ms": 223973,
-      "name": "Runtuh",
-      "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
+      "duration_ms": 234204,
+      "name": "Lantas",
+      "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -219,18 +215,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
+        "name": "Runtuh",
+        "url": "https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW"
       },
       "artists": [
         {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        },
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
         }
       ],
-      "duration_ms": 234204,
-      "name": "Lantas",
-      "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
+      "duration_ms": 223973,
+      "name": "Runtuh",
+      "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
     },
     {
       "added_at": "2026-02-27 14:15:43",

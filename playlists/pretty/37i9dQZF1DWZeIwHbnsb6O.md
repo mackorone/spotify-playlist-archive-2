@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,618 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,675 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 49 | [Lost In My World \(Perdido en Mi Mundo\)](https://open.spotify.com/track/7CsV5sRCCpayqPhmtJoNTU) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [15 Éxitos de los Dug Dug's Rock and Roll](https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC) | 4:07 |
 | 50 | [Llamarada](https://open.spotify.com/track/2uXz8MxMjYd04aDVh7xCKg) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock, Balada y Sentimiento, Vol\. I](https://open.spotify.com/album/1YTbsdm4trFRqGpRlcXkDA) | 3:19 |
 | 51 | [Una Lágrima \- Una Lacrima](https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Las Numero 1 De Estela Nuñez](https://open.spotify.com/album/6hTXiPN5rX7Beamc05glhq) | 3:56 |
-| 52 | [No Tengo Dinero](https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Personalidad](https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7) | 3:09 |
-| 53 | [La de la Mochila Azul](https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [Personalidad](https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop) | 2:46 |
+| 52 | [La de la Mochila Azul](https://open.spotify.com/track/4eDbJ81SQHYN1oV2qUmr2j) | [Pedrito Fernández](https://open.spotify.com/artist/4Vqref81u7WVsS0OhbJwDk) | [Personalidad](https://open.spotify.com/album/37hzzmje0NL0lKmAbcHZop) | 2:46 |
+| 53 | [No Tengo Dinero](https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Personalidad](https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7) | 3:09 |
 | 54 | [Volver Volver](https://open.spotify.com/track/2T843kQT0bYF8fa5J9vOB4) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Historia De Un Idolo Vol.II](https://open.spotify.com/album/10xkQkDuJeUoGotXr48raI) | 2:57 |
 | 55 | [Mi Forma De Sentir](https://open.spotify.com/track/6MO2QUZimjbrBAGF8JXbrT) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Amor](https://open.spotify.com/album/1gVOp2EGl88lizl4rHSnnf) | 3:51 |
 | 56 | [Los nenes con los nenes](https://open.spotify.com/track/4qqsiYS4RvwJeSxnnGlYTH) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [Los Nenes con Los Nenes](https://open.spotify.com/album/1VFwdg4Yzw62omxQ7ose4t) | 2:41 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 61 | [Corazon de roca](https://open.spotify.com/track/7gZsYjASjfykZdB8ncVJvI) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1YvJGXqCVBgAc5d3M6316Q) | 2:56 |
 | 62 | [La Felicidad](https://open.spotify.com/track/4HfazXWeoXF1Tg4IRQUz7U) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [Tesoros De Coleccion \- Gualberto Castro](https://open.spotify.com/album/1larO2IxJUB00ju9MTGTfv) | 3:32 |
 
-Snapshot ID: `AAAAAL61ntB8bnoeRdOmUOinELrIm1d7`
+Snapshot ID: `AAAAAD2DUnxVCbJ/SsNk+YDJ9j3OEIjJ`

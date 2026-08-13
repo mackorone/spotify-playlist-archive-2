@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8707,
+  "num_followers": 8712,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAgcWG7GuZgqqLJwuL/Lbrf",
+  "snapshot_id": "anpmAAAAAACmWp9i+kbKWoB4CPmZA0sY",
   "tracks": [
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 170706,
-      "name": "Early Morning",
-      "url": "https://open.spotify.com/track/7HIULEtD9FG7cyACU620DN"
+      "duration_ms": 175173,
+      "name": "Wailau",
+      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
     },
     {
       "added_at": null,
@@ -712,9 +712,25 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 175173,
-      "name": "Wailau",
-      "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
+      "duration_ms": 170706,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/7HIULEtD9FG7cyACU620DN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 276386,
+      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
       "duration_ms": 224960,
       "name": "Train Ride",
       "url": "https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 276386,
-      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
     },
     {
       "added_at": null,

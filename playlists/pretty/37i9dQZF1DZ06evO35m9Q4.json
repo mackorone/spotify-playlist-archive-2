@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 169398,
+  "num_followers": 169418,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAD0A/QFqGenBmP+wqL+76Ri",
+  "snapshot_id": "anpmAAAAAABF7Yi8j7/GhHKuW1a6hP7v",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 240986,
-      "name": "Cold Shot",
-      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
+      "duration_ms": 551786,
+      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
+      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 551786,
-      "name": "Tin Pan Alley (AKA Roughest Place in Town)",
-      "url": "https://open.spotify.com/track/7zto61V8ySp03Qi6X1LU2X"
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 540573,
-      "name": "Call It Stormy Monday",
-      "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
+      "duration_ms": 358573,
+      "name": "Pride And Joy",
+      "url": "https://open.spotify.com/track/5Ky0KrI4tRVImiv9IqpiSz"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 358573,
-      "name": "Pride And Joy",
-      "url": "https://open.spotify.com/track/5Ky0KrI4tRVImiv9IqpiSz"
+      "duration_ms": 540573,
+      "name": "Call It Stormy Monday",
+      "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 335160,
-      "name": "I'm Leaving You (Commit A Crime) - Live",
-      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+      "duration_ms": 910573,
+      "name": "Blues At Sunrise",
+      "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
     },
     {
       "added_at": null,
@@ -755,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
       "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 910573,
-      "name": "Blues At Sunrise",
-      "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
+      "duration_ms": 335160,
+      "name": "I'm Leaving You (Commit A Crime) - Live",
+      "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
     },
     {
       "added_at": null,

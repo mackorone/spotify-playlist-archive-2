@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > The best pop music right now ft\. Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,258 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,179 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 | 79 | [Dog Eat Dog](https://open.spotify.com/track/1aeU0ElUC1sbK0uNWp7Ks2) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Dog Eat Dog](https://open.spotify.com/album/7hPGd9jeiXcxRj4Wc3EjXL) | 2:54 |
 | 80 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 
-Snapshot ID: `AAAAAGN0XXEYgrI3G3hb6RAsK01SlqOv`
+Snapshot ID: `AAAAAAFUt8l3VeLimJP7e2DRK1ZrZWgv`

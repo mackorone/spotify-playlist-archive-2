@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,140 songs - 2 day 23 hr 40 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,585 likes - 1,140 songs - 2 day 23 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1096,7 +1096,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1086 | [Nada Para el Final](https://open.spotify.com/track/0mHf1ye1UPJtCpXtXU96qg) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5), [Germán Villanueva](https://open.spotify.com/artist/7lzPFDJz9rjFD9LuT3qOXy) | [Nada Para el Final](https://open.spotify.com/album/32RmbZnbq7AM5Q4Z9lWFbP) | 4:29 |
 | 1087 | [Left Behind](https://open.spotify.com/track/3IOiro4TIqIr5iDIxqfIOw) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [Cycles](https://open.spotify.com/album/0ldBcNzrZ5np7NxLADFz0y) | 4:14 |
 | 1088 | [Good Friends & Bad Decisions](https://open.spotify.com/track/1YldLB9XJR6T1jiCwDnkeY) | [Be Quiet Brenna](https://open.spotify.com/artist/2xoRLPY284eB59QCr3J9aT) | [Good Friends & Bad Decisions](https://open.spotify.com/album/2onXjgWRzTud7vk1OrBvbG) | 3:23 |
-| 1089 | [Without you](https://open.spotify.com/track/5CM9Cw8yMdbdgQpE4v1iik) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Without you](https://open.spotify.com/album/362kVEYJ5Sg7tRpvhEOTVu) | 3:14 |
+| 1089 | [Without You](https://open.spotify.com/track/5CM9Cw8yMdbdgQpE4v1iik) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Without You](https://open.spotify.com/album/362kVEYJ5Sg7tRpvhEOTVu) | 3:14 |
 | 1090 | [Ruínas](https://open.spotify.com/track/2bYOkQsfPvIegMlBQoWUYE) | [Lamarquez](https://open.spotify.com/artist/47TmTJiO9p0BgTx4iKA4Tc) | [Ruínas](https://open.spotify.com/album/6NsucsDDCZVXCbIWMSzOJp) | 3:47 |
 | 1091 | [Comentário Sobre O Relógio](https://open.spotify.com/track/1fUwq4wzoIpxIyeaJaMZ4N) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 3:39 |
 | 1092 | [What Are You On](https://open.spotify.com/track/0cvYz0MdRkyBuz0NZZYNEG) | [Folly Drifters](https://open.spotify.com/artist/31Q0nMQq6CSQ4IhF3yxIxQ) | [Otter Punch](https://open.spotify.com/album/5uVXmCQ7bHsolx1wggpG1H) | 1:46 |

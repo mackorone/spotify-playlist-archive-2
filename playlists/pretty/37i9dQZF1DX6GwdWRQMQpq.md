@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,260,215 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,260,709 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 |
 | 50 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 |
 
-Snapshot ID: `AAAAABlzw3vye05tpnsfWq/aG8f5/rWn`
+Snapshot ID: `AAAAALutctJB7mqWgXE3RCIp1I2UiW9u`

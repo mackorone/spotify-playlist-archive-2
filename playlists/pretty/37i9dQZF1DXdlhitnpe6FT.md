@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,682 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,772 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 54 | [Piano](https://open.spotify.com/track/1Q3ascxB6uII8InItPbW23) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ), [Raul Di Blasio](https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u) | [Grandes Exitos](https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS) | 6:23 |
 | 55 | [Atlantis](https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [20 Golden Greats](https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu) | 2:48 |
 | 56 | [Recuerdos De La Alhambra \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/track/5fDbDD0sJ8DLzzSzpMKZZL) | [Luis Cobos](https://open.spotify.com/artist/1H75EEjXwzO6v2K1d8QGPX), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [La Danza De Los Corcelos \(with The Royal Philharmonic Orchestra\)](https://open.spotify.com/album/7xNLPcZiXI18BJS2O4OXWD) | 3:53 |
-| 57 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
-| 58 | [Ravel's Bolero](https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [The Ferrante & Teicher Collection](https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV) | 6:43 |
+| 57 | [Ravel's Bolero](https://open.spotify.com/track/5HbxBGpEw5xoBXUwRFNA7x) | [Ferrante & Teicher](https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB) | [The Ferrante & Teicher Collection](https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV) | 6:43 |
+| 58 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 59 | [Mélissa \(de "Bilitis"\)](https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Collection Francis Lai: Erotique, Vol\. 3 \(Bandes originales de films\)](https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V) | 4:39 |
 | 60 | [Java](https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88) | [Al Hirt](https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE) | [Greatest Hits](https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB) | 1:56 |
 | 61 | [Wheels](https://open.spotify.com/track/7GKP7S8RolxzYC7qmvWn4k) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Smooth Jazz](https://open.spotify.com/album/3YsZrPFpoRt9Q58FEpFkxo) | 2:04 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 114 | [Always in my heart](https://open.spotify.com/track/40rN59RjmCSBlXUNxKifae) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [45 Greatest Hits](https://open.spotify.com/album/2SsXx2EEIhWDk6O1l3WoPh) | 2:29 |
 | 115 | [Frenesi](https://open.spotify.com/track/4NlfRihvAjaPWFjygOWZNx) | [Gustavo Pimentel](https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU) | [A Regar La Polilla](https://open.spotify.com/album/6qywWZ1ChDMHt0KBEf7Fq6) | 3:20 |
 
-Snapshot ID: `AAAAALn8uLxuBGxTbM+7crI2nS85aKui`
+Snapshot ID: `AAAAADtIVSiNUe03Nywxwp9VONQqJlZo`

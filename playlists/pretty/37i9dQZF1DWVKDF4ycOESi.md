@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di KAROL G, Ozuna, Farruko, Stray Kids e tanti altri\. <br/>\(P.s\. andiamo in vacanza, ci vediamo tra due settimane 👋🏻\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,136 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,118 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 58 | [The Fountain](https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [The Fountain](https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E) | 3:25 |
 | 59 | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/track/25SRep6PSGi4jVVt5aJdB2) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [BIG NOTER \(feat\. Joe Talbot\)](https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4) | 3:14 |
 
-Snapshot ID: `AAAAAPyIwTAKr/NZdZ8xZgXfweP98A3+`
+Snapshot ID: `AAAAAIT0eAryEvlADUE+HegBqYsSgN+D`

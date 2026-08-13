@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2026 Artists to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,411 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,414 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 22 | [soulless](https://open.spotify.com/track/0MR7Cb6TlNaQgs0vXDaK0W) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [soulless](https://open.spotify.com/album/3jGZXvQfjP1PUehR25z6T1) | 2:08 |
 | 23 | [Happy For You](https://open.spotify.com/track/49s2t57uSy4eN8goASFrD9) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Happy For You](https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb) | 2:51 |
 | 24 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
-| 25 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 |
-| 26 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 |
+| 25 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 |
+| 26 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 |
 | 27 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
 | 28 | [Candycrush](https://open.spotify.com/track/3vGaZLl90LVC8ghGEb1IV9) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Candycrush](https://open.spotify.com/album/4lzlcepHrqqSFLjJXBgUM1) | 3:14 |
 | 29 | [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 34 | [PEACE](https://open.spotify.com/track/3ReoBWqpM0ceIUNmu7Gii9) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [PEACE](https://open.spotify.com/album/0UQAktHlWTgQtvt8QjMSho) | 2:17 |
 | 35 | [Throw Yourself to the Sword](https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T) | 2:40 |
 
-Snapshot ID: `AAAAAKJbzQMm2cT2k6iQYNr36Ou9qkQX`
+Snapshot ID: `AAAAAMpHRgwIePvqkkJhk1cG9lnTF0X1`

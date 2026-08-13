@@ -4,7 +4,7 @@
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 35 min
+89 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 | 2023-03-24 |  |
 | [Demasiado](https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:57 | 2025-10-31 |  |
 | [Demasiado](https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Demasiado](https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV) | 2:57 | 2023-03-24 | 2025-10-31 |
-| [DESPEDIDA](https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DESPEDIDA](https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb) | 3:36 | 2026-03-20 |  |
+| [DESPEDIDA](https://open.spotify.com/track/1OZLPVkCHAtOMk8K3xwyf5) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [METÁSTASIS](https://open.spotify.com/album/1GdrKufEtiNcSvcVYwn6i0) | 3:36 | 2026-08-13 |  |
+| [DESPEDIDA](https://open.spotify.com/track/4pTsCmLk3zEOSxjmznXVNI) | [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DESPEDIDA](https://open.spotify.com/album/3EpvmjKJlGBOwcSv2p4wVb) | 3:36 | 2026-03-20 | 2026-08-13 |
 | [Día De Abril](https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 2:56 | 2023-03-24 | 2024-10-20 |
 | [El Club](https://open.spotify.com/track/3DbPK8G0VblHrWSjuT8xFG) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:38 | 2023-05-17 | 2026-08-09 |
 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2023-03-24 | 2023-05-18 |

@@ -1,12 +1,12 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Pretty Girl",
-  "num_followers": 138335,
+  "num_followers": 138352,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLnllWu6jF3bM2vj7G/Egki5L10",
+  "snapshot_id": "AAAAAJi/JtRJPn7vlbt/77NsHn5/mifO",
   "tracks": [
     {
       "added_at": "2026-08-07 01:08:39",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
         "name": "HUMAN AGAIN",
         "url": "https://open.spotify.com/album/6wTs6A9l7dl7C3WcqvF8XX"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 196972,
       "name": "HUMAN AGAIN",
       "url": "https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "Sweet Hallelujah",
-        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 182156,
-      "name": "Sweet Hallelujah",
-      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
         "name": "PQC",
         "url": "https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
+        "name": "Sweet Hallelujah",
+        "url": "https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 182156,
+      "name": "Sweet Hallelujah",
+      "url": "https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "The Biggest Dick",
-        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 163296,
-      "name": "The Biggest Dick",
-      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
         "name": "Blue Shadows (feat. Karen O)",
         "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
@@ -859,22 +843,18 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW"
+        "name": "The Biggest Dick",
+        "url": "https://open.spotify.com/album/1AvlJXt6F6pSNhP4tY3pqy"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        },
-        {
-          "name": "The Maes",
-          "url": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 180281,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
+      "duration_ms": 163296,
+      "name": "The Biggest Dick",
+      "url": "https://open.spotify.com/track/5nYlyj9C5ucDMLn8ZoytLY"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -903,18 +883,22 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/48RNylcbSmsNNJscnAYoEW"
       },
       "artists": [
         {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        },
+        {
+          "name": "The Maes",
+          "url": "https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa"
         }
       ],
-      "duration_ms": 212439,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE"
+      "duration_ms": 180281,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/4nOYIkLMPJyxmZmhxsIOfk"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -931,6 +915,22 @@
       "duration_ms": 227397,
       "name": "Celestial Bodies",
       "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "Beautiful Noise In My Head",
-        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 211331,
-      "name": "Beautiful Noise In My Head",
-      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
         "name": "Hurracane",
         "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "Giving Up Air",
-        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+        "name": "Beautiful Noise In My Head",
+        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
       },
       "artists": [
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
         }
       ],
-      "duration_ms": 287411,
-      "name": "Giving Up Air",
-      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+      "duration_ms": 211331,
+      "name": "Beautiful Noise In My Head",
+      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1143,6 +1127,22 @@
       "duration_ms": 186184,
       "name": "Thrills",
       "url": "https://open.spotify.com/track/3Cq4tuFqivRPL9OWlr8OHP"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/1ElrGX99sSg7iXR5QRujpi"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
         "name": "STAMPEDE",
         "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "closer",
-        "url": "https://open.spotify.com/album/1ElrGX99sSg7iXR5QRujpi"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "closer",
-      "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
         "name": "Pull Up (feat. Pino D\u2019Angi\u00f2 & Scrufizzer)",
         "url": "https://open.spotify.com/album/1yVo8JFEoUIsOvzNlM5iUB"
       },
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "AHHCade",
-        "url": "https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
-        }
-      ],
-      "duration_ms": 126004,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
         "name": "Don't Worry Baby",
         "url": "https://open.spotify.com/album/7wjgGvAcDs9eGvAS2jQRKJ"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 207272,
       "name": "Don't Worry Baby",
       "url": "https://open.spotify.com/track/4nuw7DBPuiNHGSeUqkAEb4"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
+        "name": "AHHCade",
+        "url": "https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 126004,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "Love Balloon",
+      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "Love Balloon",
-      "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "Velcro",
-        "url": "https://open.spotify.com/album/5ucuVQ7IvRZDPtdXfql6HG"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 208096,
-      "name": "Velcro",
-      "url": "https://open.spotify.com/track/3a76rzObHzW2ybgktTS4Ga"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
+        "name": "Velcro",
+        "url": "https://open.spotify.com/album/5ucuVQ7IvRZDPtdXfql6HG"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 208096,
+      "name": "Velcro",
+      "url": "https://open.spotify.com/track/3a76rzObHzW2ybgktTS4Ga"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 211233,
       "name": "East Village",
       "url": "https://open.spotify.com/track/5LiP68DZdXab2WX8EcWREO"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC"
+      },
+      "artists": [
+        {
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+        }
+      ],
+      "duration_ms": 364117,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1603,18 +1619,38 @@
     {
       "added_at": "2026-08-07 01:08:39",
       "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/6Eu72RHqQLK1ToCmBmhDAC"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5sjPQMyBzNpCesF7mBR4Jk"
       },
       "artists": [
         {
-          "name": "Wade Forster",
-          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+          "name": "Midnight Til Morning",
+          "url": "https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd"
         }
       ],
-      "duration_ms": 364117,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7tWZuWDD6ddy3oxImHjF4l"
+      "duration_ms": 187984,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1hvxnJ2rwvFBCAiZMKCX87"
+    },
+    {
+      "added_at": "2026-08-07 01:08:39",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/2i4pcui4vyTDqfZrEJt9Aw"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        },
+        {
+          "name": "Meg Mac",
+          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1655,26 +1691,6 @@
       "duration_ms": 192000,
       "name": "Ya Mind",
       "url": "https://open.spotify.com/track/3RvVDaK0JZ5i0fDgOAojog"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/2i4pcui4vyTDqfZrEJt9Aw"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        },
-        {
-          "name": "Meg Mac",
-          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL"
     },
     {
       "added_at": "2026-08-07 01:08:39",
@@ -1731,26 +1747,6 @@
       "duration_ms": 262653,
       "name": "Wichita Lineman (feat. Nick Cave)",
       "url": "https://open.spotify.com/track/7v6s2kEfYa1ZEkg1o8fKwO"
-    },
-    {
-      "added_at": "2026-08-07 01:08:39",
-      "album": {
-        "name": "Do You Want This",
-        "url": "https://open.spotify.com/album/5iWax2Wx9uQ4q4paIo3wde"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 211781,
-      "name": "Do You Want This",
-      "url": "https://open.spotify.com/track/6ITfKmdTryTr2Fc119YIvg"
     }
   ],
   "unique_name": "Turn Up Aus",

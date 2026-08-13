@@ -1,12 +1,12 @@
 {
   "description": "The IDs that got us here. #Spotify20",
-  "num_followers": 6082,
+  "num_followers": 6089,
   "original_name": "Our Favorite IDs from the Last 20 Years",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKy0UoufTMVLCuYyj3CZylH/b979",
+  "snapshot_id": "AAAAAGIh4u7/XM5muHblUX/SPF4jEXMj",
   "tracks": [
     {
       "added_at": "2026-05-12 12:00:20",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "Foreign Ororo (Special Edition)",
         "url": "https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z"
       },
@@ -319,38 +335,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Sorry I Am Late (Extended)",
-        "url": "https://open.spotify.com/album/4KtZYPGVGvdmAR5XL4lhPL"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 489714,
-      "name": "Sorry I Am Late - Extended",
-      "url": "https://open.spotify.com/track/4FpawvuBz4HxTz7UqR4ter"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Baian\u00e1",
         "url": "https://open.spotify.com/album/4fnmyznELge41MnyNpUp78"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 152558,
       "name": "Baian\u00e1",
       "url": "https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "Sorry I Am Late (Extended)",
+        "url": "https://open.spotify.com/album/4KtZYPGVGvdmAR5XL4lhPL"
+      },
+      "artists": [
+        {
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
+        }
+      ],
+      "duration_ms": 489714,
+      "name": "Sorry I Am Late - Extended",
+      "url": "https://open.spotify.com/track/4FpawvuBz4HxTz7UqR4ter"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/4C0vF98YQZ2DJF3nG36vGl"
-      },
-      "artists": [
-        {
-          "name": "Cajmere",
-          "url": "https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT"
-        },
-        {
-          "name": "Dajae",
-          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
-        }
-      ],
-      "duration_ms": 327138,
-      "name": "Brighter Days - Dajae- Underground Mix '93",
-      "url": "https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "They Will EP",
         "url": "https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 413314,
       "name": "Tell Me Are We",
       "url": "https://open.spotify.com/track/7q8xVdmpBJHNOA6pZq1Hhw"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/4C0vF98YQZ2DJF3nG36vGl"
+      },
+      "artists": [
+        {
+          "name": "Cajmere",
+          "url": "https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "duration_ms": 327138,
+      "name": "Brighter Days - Dajae- Underground Mix '93",
+      "url": "https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Bad Kingdom",
-      "url": "https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "What They Say EP",
         "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 400115,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Bad Kingdom",
+      "url": "https://open.spotify.com/track/52XjrfqvrxaMtjCDYEKkXN"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Objekt #4",
-        "url": "https://open.spotify.com/album/1dMTbnutjku3NdjGjsN3zK"
-      },
-      "artists": [
-        {
-          "name": "Objekt",
-          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
-        }
-      ],
-      "duration_ms": 440252,
-      "name": "Theme from Q",
-      "url": "https://open.spotify.com/track/7Bzyr2VDVOAIU4o0KpSWnp"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "From the Heart, It's a Start, A Work of Art",
         "url": "https://open.spotify.com/album/6CRb9D4dG00bz36EAucgHy"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 587300,
       "name": "Regret",
       "url": "https://open.spotify.com/track/0hhu27TVhfBKjIvKOL83IQ"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "Objekt #4",
+        "url": "https://open.spotify.com/album/1dMTbnutjku3NdjGjsN3zK"
+      },
+      "artists": [
+        {
+          "name": "Objekt",
+          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+        }
+      ],
+      "duration_ms": 440252,
+      "name": "Theme from Q",
+      "url": "https://open.spotify.com/track/7Bzyr2VDVOAIU4o0KpSWnp"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Settle",
-        "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 283705,
-      "name": "When A Fire Starts To Burn",
-      "url": "https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Let It Go (with Marc E. Bassy)",
         "url": "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 204226,
       "name": "Let It Go (with Marc E. Bassy)",
       "url": "https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "Settle",
+        "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 283705,
+      "name": "When A Fire Starts To Burn",
+      "url": "https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9"
     },
     {
       "added_at": "2026-05-12 12:00:20",

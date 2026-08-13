@@ -1,12 +1,12 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 365848,
+  "num_followers": 365852,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVkOUjqoWfBzU+YopL54DQoivQk",
+  "snapshot_id": "AAAAAOFgK0J2ApkFidVeqJokMuHHkB3k",
   "tracks": [
     {
       "added_at": "2024-06-03 14:49:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Tell Him",
-        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
-      },
-      "artists": [
-        {
-          "name": "The Exciters",
-          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Tell Him - Single Version",
-      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "The Best of Sam & Dave",
         "url": "https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 152333,
       "name": "Soothe Me",
       "url": "https://open.spotify.com/track/3pL0x4IUqemNfzJPn5Hvbi"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
+      },
+      "artists": [
+        {
+          "name": "The Exciters",
+          "url": "https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Tell Him - Single Version",
+      "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
-        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "Music From Big Pink (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 278626,
       "name": "The Weight - Remastered",
       "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "You Never Can Tell: His Complete Chess Recordings 1960 -1966",
+        "url": "https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "The 35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/2qCc29FRlPx7b4rXl30YOv"
+        "name": "How Sweet It Is To Be Loved By You",
+        "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
       },
       "artists": [
         {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 161226,
-      "name": "I Second That Emotion",
-      "url": "https://open.spotify.com/track/0p005IFxS4eFfXNk0m7jjM"
+      "duration_ms": 177773,
+      "name": "How Sweet It Is (To Be Loved By You)",
+      "url": "https://open.spotify.com/track/7xsH4s0GwIQUhId1AtPVZv"
     }
   ],
   "unique_name": "Easy 60s",

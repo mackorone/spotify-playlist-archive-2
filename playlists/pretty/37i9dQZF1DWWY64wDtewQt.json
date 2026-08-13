@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 11865901,
+  "num_followers": 11867282,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIN4hsWePj89mR82cZGU5i4XBny8",
+  "snapshot_id": "AAAAAC9AKoS4Tvrwl8tjviEfpAw6SD19",
   "tracks": [
     {
       "added_at": "2026-03-22 01:21:26",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/0uYxQl1aLEhVBOEoMhF2tT"
     },
     {
-      "added_at": "2026-07-24 15:50:04",
-      "album": {
-        "name": "PARTY FUNK",
-        "url": "https://open.spotify.com/album/2rHyIQPDgK3d6MB0LG1ok9"
-      },
-      "artists": [
-        {
-          "name": "Young Madz",
-          "url": "https://open.spotify.com/artist/3ofxdYHNTybYtecPRDGENF"
-        }
-      ],
-      "duration_ms": 132990,
-      "name": "Party Funk",
-      "url": "https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX"
-    },
-    {
       "added_at": "2026-02-06 17:42:53",
       "album": {
         "name": "GOZALO",
@@ -297,6 +281,46 @@
       "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
     },
     {
+      "added_at": "2026-07-24 15:50:04",
+      "album": {
+        "name": "X-COOL!",
+        "url": "https://open.spotify.com/album/3PCH80fzGQH5i7YB4wvEc2"
+      },
+      "artists": [
+        {
+          "name": "tienanh109",
+          "url": "https://open.spotify.com/artist/2cEiz8Q3ZntEQl2rJr1An7"
+        },
+        {
+          "name": "HDN",
+          "url": "https://open.spotify.com/artist/2VeycUHUfDjoYqpkOSllnn"
+        },
+        {
+          "name": "MC K3",
+          "url": "https://open.spotify.com/artist/1w1IS5ufNR3HLQ0tMWYyGc"
+        }
+      ],
+      "duration_ms": 115976,
+      "name": "X-COOL! - Slowed",
+      "url": "https://open.spotify.com/track/3Yju0AQsjm06w7Q53xt4Ht"
+    },
+    {
+      "added_at": "2026-08-12 23:10:59",
+      "album": {
+        "name": "MONTAGEM URANIUM",
+        "url": "https://open.spotify.com/album/02v4wwlrIwnowie9SrjSuY"
+      },
+      "artists": [
+        {
+          "name": "ZAYLO",
+          "url": "https://open.spotify.com/artist/41rOXkwf7ccICwE9yRnEKi"
+        }
+      ],
+      "duration_ms": 99741,
+      "name": "MONTAGEM URANIUM - Slowed",
+      "url": "https://open.spotify.com/track/7N3H0T7EgeflYdKd68lvIV"
+    },
+    {
       "added_at": "2026-07-17 04:04:29",
       "album": {
         "name": "MONTAGEM DEL\u00cdRIO",
@@ -311,6 +335,22 @@
       "duration_ms": 125051,
       "name": "MONTAGEM DEL\u00cdRIO - Super Slowed",
       "url": "https://open.spotify.com/track/1O6LIybBwZr2q9YoveyLWf"
+    },
+    {
+      "added_at": "2026-07-24 15:50:04",
+      "album": {
+        "name": "PARTY FUNK",
+        "url": "https://open.spotify.com/album/2rHyIQPDgK3d6MB0LG1ok9"
+      },
+      "artists": [
+        {
+          "name": "Young Madz",
+          "url": "https://open.spotify.com/artist/3ofxdYHNTybYtecPRDGENF"
+        }
+      ],
+      "duration_ms": 132990,
+      "name": "Party Funk",
+      "url": "https://open.spotify.com/track/2WOC880HHZcDB2YRgiPRuX"
     },
     {
       "added_at": "2025-08-29 15:35:59",
@@ -519,30 +559,6 @@
       "duration_ms": 138116,
       "name": "FUNK SIGILO - ULTRA SLOWED",
       "url": "https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj"
-    },
-    {
-      "added_at": "2026-07-24 15:50:04",
-      "album": {
-        "name": "X-COOL!",
-        "url": "https://open.spotify.com/album/3PCH80fzGQH5i7YB4wvEc2"
-      },
-      "artists": [
-        {
-          "name": "tienanh109",
-          "url": "https://open.spotify.com/artist/2cEiz8Q3ZntEQl2rJr1An7"
-        },
-        {
-          "name": "HDN",
-          "url": "https://open.spotify.com/artist/2VeycUHUfDjoYqpkOSllnn"
-        },
-        {
-          "name": "MC K3",
-          "url": "https://open.spotify.com/artist/1w1IS5ufNR3HLQ0tMWYyGc"
-        }
-      ],
-      "duration_ms": 115976,
-      "name": "X-COOL! - Slowed",
-      "url": "https://open.spotify.com/track/3Yju0AQsjm06w7Q53xt4Ht"
     },
     {
       "added_at": "2026-07-03 12:00:24",
@@ -2015,30 +2031,6 @@
       "duration_ms": 71025,
       "name": "MONTAGEM RELACIONISTA JUDICIAL RKT - Super Slowed",
       "url": "https://open.spotify.com/track/3MPNlK986yp4QOFBChLeEJ"
-    },
-    {
-      "added_at": "2024-09-20 15:04:16",
-      "album": {
-        "name": "X-TALI",
-        "url": "https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw"
-      },
-      "artists": [
-        {
-          "name": "MXCCREE",
-          "url": "https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt"
-        },
-        {
-          "name": "DJ GL3CHEKY",
-          "url": "https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM"
-        },
-        {
-          "name": "MC PR",
-          "url": "https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX"
-        }
-      ],
-      "duration_ms": 72352,
-      "name": "X-TALI",
-      "url": "https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO"
     },
     {
       "added_at": "2025-04-11 16:25:48",

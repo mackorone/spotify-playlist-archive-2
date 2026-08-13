@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Zaylevelten
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,628 likes - 80 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,705 likes - 80 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Yeye Talk](https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [Yeye Talk](https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug) | 2:05 |
 | 80 | [By Now](https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [By Now](https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT) | 3:31 |
 
-Snapshot ID: `AAAAAAsxddF+byWaI97zYbmOZmQYjuFe`
+Snapshot ID: `AAAAAC3OrR+3SQg/oy8FI0uUq/LolmBg`

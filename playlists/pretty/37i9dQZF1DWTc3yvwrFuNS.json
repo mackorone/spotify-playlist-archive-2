@@ -6,8 +6,40 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFiGQ+RFYoPkxd1OOe/6AAyD4bif",
+  "snapshot_id": "AAAAAEZrt0sVpfBzkaDaFwm/M9PctTxB",
   "tracks": [
+    {
+      "added_at": "2026-08-13 00:29:17",
+      "album": {
+        "name": "Sam Smith - Spotify Live Room",
+        "url": "https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 197957,
+      "name": "When He\u2019s Gone (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/72lbG8nN6XULABnAiFaSzA"
+    },
+    {
+      "added_at": "2026-08-13 00:29:17",
+      "album": {
+        "name": "Sam Smith - Spotify Live Room",
+        "url": "https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 291433,
+      "name": "Big Girls Don't Cry (Fergie Cover) (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6"
+    },
     {
       "added_at": "2026-07-22 18:10:33",
       "album": {

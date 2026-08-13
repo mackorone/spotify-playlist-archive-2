@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: SACHI
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,993 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,990 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 40 | [Barthelona](https://open.spotify.com/track/0SYOYm0e54czc1wHToxLBh) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Barthelona](https://open.spotify.com/album/0RQfxB3rNoZ8zFJhBUPoLM) | 2:40 |
 | 41 | [Unfold Me](https://open.spotify.com/track/4r9vSPOFseeHuKVafFDCTU) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Unfold Me](https://open.spotify.com/album/0xKFlbqRurBLyANvAN3JE7) | 2:43 |
 | 42 | [Assunto](https://open.spotify.com/track/1uQLmsSdOT0F4iXpCDN1sZ) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [SOLANCE](https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha) | [Assunto / Window Shake](https://open.spotify.com/album/46I9p8xZmYec27ppxJdbR2) | 2:41 |
-| 43 | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
+| 43 | [Impressions](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
 | 44 | [Get Buck](https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Get Buck](https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl) | 2:30 |
 | 45 | [You See Me](https://open.spotify.com/track/72dqzWRgFMXYPGnzyKerCx) | [Knox](https://open.spotify.com/artist/60CUDBelKW8Rr72PU4PIk3) | [You See Me](https://open.spotify.com/album/2DBxxZiqoFNZ8atjS9VS74) | 3:45 |
 | 46 | [Take a Trip](https://open.spotify.com/track/1DLbj9XXkwroJGBeaBwPnA) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli), [LX](https://open.spotify.com/artist/72EYA0tlOOCLqxO7PK0Pxk) | [Holdin' On](https://open.spotify.com/album/5apTEirjhqpqJfNPkUBgla) | 2:57 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 98 | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/track/4kSPUCwxN0KjrX8Q3uM3rY) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Spin Me Slowly \(feat\. Julia Church\)](https://open.spotify.com/album/1YAcTt8kz8Pfyp5GzkiNKx) | 3:02 |
 | 99 | [The Rhythm](https://open.spotify.com/track/1Ox6mkzti9mPAOMrTXqbfO) | [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF) | [The Rhythm](https://open.spotify.com/album/2kvGwemv236SbHOpmg1IOl) | 3:00 |
 
-Snapshot ID: `AAAAAADQPxcofFvBmMEz4yGxOLoBLzd+`
+Snapshot ID: `AAAAAO2NEgZ+P3SOKNNdhPF5GCQKk15j`

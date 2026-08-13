@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 139923,
+  "num_followers": 139933,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGtOQPaQvHmPkjVB2xbytzsk0JGS",
+  "snapshot_id": "AAAAAEjOT8apCZY2f1g7G+05fU2av5eB",
   "tracks": [
     {
       "added_at": "2024-07-17 12:24:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Giant Steps (2020 Remaster)",
         "url": "https://open.spotify.com/album/6NkgPYCMAzttRIKDpuJrFp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 287843,
       "name": "Giant Steps - 2020 Remaster",
       "url": "https://open.spotify.com/track/69KzcVxzsz1KvLzaxMMobe"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -835,6 +835,22 @@
       "duration_ms": 544826,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "New Time, New 'Tet",
+        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 453133,
+      "name": "From Dream to Dream",
+      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "New Time, New 'Tet",
-        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 453133,
-      "name": "From Dream to Dream",
-      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Magnificent Charlie Parker",
         "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "A Flower Is A Lovesome Thing",
-      "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 417306,
       "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/6kKpF48UR3DWYHLwbfvZ3C"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "A Flower Is A Lovesome Thing",
+      "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 454720,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Now!",
         "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 192493,
       "name": "Opus De Funk",
       "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 454720,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Third Season",
-        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
+        "name": "Tell It The Way It Is",
+        "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
         }
       ],
-      "duration_ms": 414360,
-      "name": "Don't Cry, Just Sigh",
-      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
+      "duration_ms": 328800,
+      "name": "Dukes Place",
+      "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Tell It The Way It Is",
-        "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
+        "name": "Third Season",
+        "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
       },
       "artists": [
         {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 328800,
-      "name": "Dukes Place",
-      "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
+      "duration_ms": 414360,
+      "name": "Don't Cry, Just Sigh",
+      "url": "https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Stan Getz Quartets (Remastered)",
-        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Complete Prestige Recordings",
         "url": "https://open.spotify.com/album/6rkXgOCaYoeg4XiC4Hpct9"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 641733,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Stan Getz Quartets (Remastered)",
+        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
-        }
-      ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Contemporary Jazz",
         "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 962320,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+        }
+      ],
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Sirens",
-        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 504266,
-      "name": "Kalypso",
-      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "On This Night",
         "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 447466,
       "name": "The Mac Man",
       "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Sirens",
+        "url": "https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 504266,
+      "name": "Kalypso",
+      "url": "https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Moving In",
-        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 463640,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Where Are You?",
         "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 315520,
       "name": "Nigeria",
       "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 463640,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Just You, Just Me",
-        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Spiritual Unity 50th Anniversary Expanded Edition",
         "url": "https://open.spotify.com/album/2i00ELuwsh1PfB82vrlGZs"
       },
@@ -2479,6 +2463,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "The Cool Sounds Of Pepper Adams",
+        "url": "https://open.spotify.com/album/3z2vgBE5b5c09FNeaX6UC4"
+      },
+      "artists": [
+        {
+          "name": "Pepper Adams",
+          "url": "https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR"
+        }
+      ],
+      "duration_ms": 617173,
+      "name": "Bloos, Booze, Blues",
+      "url": "https://open.spotify.com/track/6Hw7Rp62cMwVpAReee0chl"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Impressions (Live)",
         "url": "https://open.spotify.com/album/7g6pX3CjRqEiqF1fFm9M8b"
       },
@@ -2495,22 +2495,6 @@
       "duration_ms": 612881,
       "name": "Impressions (feat. Eric Dolphy) - Live",
       "url": "https://open.spotify.com/track/0jFcrPx0fe5pRBRKKf8Apf"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "The Cool Sounds Of Pepper Adams",
-        "url": "https://open.spotify.com/album/3z2vgBE5b5c09FNeaX6UC4"
-      },
-      "artists": [
-        {
-          "name": "Pepper Adams",
-          "url": "https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR"
-        }
-      ],
-      "duration_ms": 617173,
-      "name": "Bloos, Booze, Blues",
-      "url": "https://open.spotify.com/track/6Hw7Rp62cMwVpAReee0chl"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2559,6 +2543,22 @@
       "duration_ms": 289360,
       "name": "Yardbird Suite - Remastered Version",
       "url": "https://open.spotify.com/track/3Q0nmzI0my2GaaYjdKHfQS"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Just You, Just Me",
+        "url": "https://open.spotify.com/album/0xHZokGw5MVHBVzumhx4zN"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "On the Sunny Side of the Street - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/1f42qBi0iHP3ZTef6H5WjB"
     },
     {
       "added_at": "2024-07-17 12:24:10",

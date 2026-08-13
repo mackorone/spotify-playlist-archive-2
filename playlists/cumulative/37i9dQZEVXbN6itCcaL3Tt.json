@@ -9380,7 +9380,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 192760,
       "name": "California",
       "url": "https://open.spotify.com/track/4KW66ZVoSyUN0TJXdL9mLc"
@@ -12680,7 +12680,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 154434,
       "name": "CZEMPION 2",
       "url": "https://open.spotify.com/track/1Ymguhxs4YAwklSsDUnUin"
@@ -13595,6 +13595,24 @@
     },
     {
       "album": {
+        "name": "DELI SUPREME",
+        "url": "https://open.spotify.com/album/2iyTvhDOMGcBDx7Klstyio"
+      },
+      "artists": [
+        {
+          "name": "MJ Deli",
+          "url": "https://open.spotify.com/artist/4zlJMomtDhz5jPYQC0UNhE"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151920,
+      "name": "DELI SUPREME",
+      "url": "https://open.spotify.com/track/7mFj66qVnjoZUXkyPljGj8"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -13918,7 +13936,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 155374,
       "name": "DIAMENTY NA MNIE P\u0141ACZ\u0104",
       "url": "https://open.spotify.com/track/3XT2MbKJLTjwU10kYFxO9c"
@@ -20019,6 +20037,36 @@
     },
     {
       "album": {
+        "name": "GLOBAL",
+        "url": "https://open.spotify.com/album/3mOaQWXMW7YjPNMef7HZDm"
+      },
+      "artists": [
+        {
+          "name": "Pusher",
+          "url": "https://open.spotify.com/artist/0fK8tIJvuUipbExfySWTVb"
+        },
+        {
+          "name": "Oska030",
+          "url": "https://open.spotify.com/artist/5mk5cvluGcQc8liUhNc8nO"
+        },
+        {
+          "name": "Baba Hassan",
+          "url": "https://open.spotify.com/artist/0bnklE4AY6Jf8Y3gfDSli4"
+        },
+        {
+          "name": "DeeVoe",
+          "url": "https://open.spotify.com/artist/7avn0wHSO3cny6OM46NALL"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "GLOBAL",
+      "url": "https://open.spotify.com/track/3x3wnyRHpnTTzyyUwzDbYm"
+    },
+    {
+      "album": {
         "name": "Glosy w Glowie",
         "url": "https://open.spotify.com/album/27coS4uDe1cfwKASHa2yox"
       },
@@ -20588,7 +20636,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 133135,
       "name": "Grand Soir",
       "url": "https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5"
@@ -48388,7 +48436,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 197938,
       "name": "RED BULL 64 BARS",
       "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
@@ -57318,7 +57366,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 209908,
       "name": "Toksyna",
       "url": "https://open.spotify.com/track/0QDGplY5KALFQQA2w8bdo9"

@@ -1,12 +1,12 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Alaska1867, Birnir og m\u00f6rgum fleirum!",
-  "num_followers": 9698,
+  "num_followers": 9700,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6CdvSZP18P6ZM29f+UgTxyWvlY",
+  "snapshot_id": "AAAAAAww7xRYxCLcecqoliyFia3UwCoh",
   "tracks": [
     {
       "added_at": "2026-08-07 00:00:28",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
+        "name": "Baby Kool (Evelyn)",
+        "url": "https://open.spotify.com/album/5FiEKdAi2sTPyyLAB3B4JJ"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 224199,
+      "name": "Baby Kool (Evelyn)",
+      "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 157714,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
-        "name": "Baby Kool (Evelyn)",
-        "url": "https://open.spotify.com/album/5FiEKdAi2sTPyyLAB3B4JJ"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 224199,
-      "name": "Baby Kool (Evelyn)",
-      "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "Vacation (Anywhere You Wanna Go)",
-        "url": "https://open.spotify.com/album/0mi47rdTlmgbB1INvs5tBB"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        }
-      ],
-      "duration_ms": 170042,
-      "name": "Vacation - (Anywhere You Wanna Go)",
-      "url": "https://open.spotify.com/track/5j1Lga2clyZfkwlX4YDB3Z"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
         "name": "run",
         "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 185000,
       "name": "This & That",
       "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "Vacation (Anywhere You Wanna Go)",
+        "url": "https://open.spotify.com/album/0mi47rdTlmgbB1INvs5tBB"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        }
+      ],
+      "duration_ms": 170042,
+      "name": "Vacation - (Anywhere You Wanna Go)",
+      "url": "https://open.spotify.com/track/5j1Lga2clyZfkwlX4YDB3Z"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "Music Sounds",
-        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 159551,
-      "name": "Music Sounds",
-      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
         "name": "skinny love",
         "url": "https://open.spotify.com/album/33dGLGQEX6UV8d4qnQPF1d"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 146552,
       "name": "skinny love",
       "url": "https://open.spotify.com/track/2PxJ5XoT05UT8bsX13umqx"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "Music Sounds",
+        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Music Sounds",
+      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "Coldplay",
-        "url": "https://open.spotify.com/album/6ZfbvmcLM0zwWH42RnJ2BB"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "Coldplay",
-      "url": "https://open.spotify.com/track/5kxmDMKJYO8tj5FDX2x09w"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
         "name": "We Not Tired",
         "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 172921,
       "name": "We Not Tired",
       "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "Coldplay",
+        "url": "https://open.spotify.com/album/6ZfbvmcLM0zwWH42RnJ2BB"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "Coldplay",
+      "url": "https://open.spotify.com/track/5kxmDMKJYO8tj5FDX2x09w"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "One Life To Give",
-        "url": "https://open.spotify.com/album/1DnpAElpk83B3mKAoiZSmE"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 165975,
-      "name": "One Life To Give",
-      "url": "https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
         "name": "Fast Lane",
         "url": "https://open.spotify.com/album/2vMgit0PMLiycYbYeu1Zas"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 174347,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/0KraHSiibM4cJR5pgfbI97"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "One Life To Give",
+        "url": "https://open.spotify.com/album/1DnpAElpk83B3mKAoiZSmE"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 165975,
+      "name": "One Life To Give",
+      "url": "https://open.spotify.com/track/5eYyHqwe3jHaPrzQjWP6pp"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -1179,6 +1179,38 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
+        "name": "Solder",
+        "url": "https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw"
+      },
+      "artists": [
+        {
+          "name": "effe",
+          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Tears Always Burn",
+      "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "Only metaphorically",
+        "url": "https://open.spotify.com/album/1BI2BuwSNRjGTV2ZvV6bll"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 136412,
+      "name": "Only metaphorically",
+      "url": "https://open.spotify.com/track/2da6MxtV7gKlC0LYWdLgYW"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/4T6vJEQ27RqNrjeGU9ALCH"
       },
@@ -1207,38 +1239,6 @@
       "duration_ms": 132660,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/7sZ1YpqIgxRKIbSQkOAINO"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
-        "name": "Only metaphorically",
-        "url": "https://open.spotify.com/album/1BI2BuwSNRjGTV2ZvV6bll"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 136412,
-      "name": "Only metaphorically",
-      "url": "https://open.spotify.com/track/2da6MxtV7gKlC0LYWdLgYW"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
-        "name": "Solder",
-        "url": "https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw"
-      },
-      "artists": [
-        {
-          "name": "effe",
-          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Tears Always Burn",
-      "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/6PbNic2a0kCUKocCXm8g1b"
-      },
-      "artists": [
-        {
-          "name": "Elliphant",
-          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
-        }
-      ],
-      "duration_ms": 182665,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/2LsOYBxm67CSsSoScShEAY"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
-        "name": "Everything's Coming Up Roses",
-        "url": "https://open.spotify.com/album/4j1BODYNtrv9K6jeddp6kE"
-      },
-      "artists": [
-        {
-          "name": "Violet Days",
-          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Everything's Coming Up Roses",
-      "url": "https://open.spotify.com/track/7npSWFOhuKLAEkg4rSCUY6"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
         "name": "Billboard Style",
         "url": "https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL"
       },
@@ -1399,26 +1367,6 @@
       "duration_ms": 170196,
       "name": "Billboard Style",
       "url": "https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN"
-    },
-    {
-      "added_at": "2026-08-07 00:00:28",
-      "album": {
-        "name": "euro trash girl 2",
-        "url": "https://open.spotify.com/album/6eYHnfSwei7Lk4ycR72GZL"
-      },
-      "artists": [
-        {
-          "name": "Zoumer",
-          "url": "https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB"
-        },
-        {
-          "name": "Chicks On Speed",
-          "url": "https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV"
-        }
-      ],
-      "duration_ms": 156299,
-      "name": "euro trash girl 2",
-      "url": "https://open.spotify.com/track/5dPir4tJQil6mBosEJEzdf"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -1447,18 +1395,54 @@
     {
       "added_at": "2026-08-07 00:00:28",
       "album": {
-        "name": "Schizophrenic Confessions",
-        "url": "https://open.spotify.com/album/0hpmrZf6EyKVI58gHVHXjG"
+        "name": "Everything's Coming Up Roses",
+        "url": "https://open.spotify.com/album/4j1BODYNtrv9K6jeddp6kE"
       },
       "artists": [
         {
-          "name": "BLAD\u00cb",
-          "url": "https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC"
+          "name": "Violet Days",
+          "url": "https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL"
         }
       ],
-      "duration_ms": 228292,
-      "name": "Schizophrenic Confessions",
-      "url": "https://open.spotify.com/track/1OdHq4sFgPNbBEogDAU4WK"
+      "duration_ms": 225720,
+      "name": "Everything's Coming Up Roses",
+      "url": "https://open.spotify.com/track/7npSWFOhuKLAEkg4rSCUY6"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "euro trash girl 2",
+        "url": "https://open.spotify.com/album/6eYHnfSwei7Lk4ycR72GZL"
+      },
+      "artists": [
+        {
+          "name": "Zoumer",
+          "url": "https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB"
+        },
+        {
+          "name": "Chicks On Speed",
+          "url": "https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV"
+        }
+      ],
+      "duration_ms": 156299,
+      "name": "euro trash girl 2",
+      "url": "https://open.spotify.com/track/5dPir4tJQil6mBosEJEzdf"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "Glitter",
+        "url": "https://open.spotify.com/album/6PbNic2a0kCUKocCXm8g1b"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/2LsOYBxm67CSsSoScShEAY"
     },
     {
       "added_at": "2026-08-07 00:00:28",
@@ -1475,6 +1459,22 @@
       "duration_ms": 180842,
       "name": "Six Years Of Keeping On",
       "url": "https://open.spotify.com/track/0gSIr2lOp9I2mynmYdjzyf"
+    },
+    {
+      "added_at": "2026-08-07 00:00:28",
+      "album": {
+        "name": "Schizophrenic Confessions",
+        "url": "https://open.spotify.com/album/0hpmrZf6EyKVI58gHVHXjG"
+      },
+      "artists": [
+        {
+          "name": "BLAD\u00cb",
+          "url": "https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "Schizophrenic Confessions",
+      "url": "https://open.spotify.com/track/1OdHq4sFgPNbBEogDAU4WK"
     },
     {
       "added_at": "2026-08-07 00:00:28",

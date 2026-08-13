@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: DAYOUNG, Jay Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,519 likes - 88 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,520 likes - 88 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 87 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 88 | [Baby Girl](https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Baby Girl](https://open.spotify.com/album/1cQrCUTt0apJXgpgTCGiwU) | 2:57 |
 
-Snapshot ID: `AAAAAAp9ShY3YD7rZ2sAD0dJoabMMpeH`
+Snapshot ID: `AAAAACmffcj5IgZL2mBvc+YpoDbg85FG`

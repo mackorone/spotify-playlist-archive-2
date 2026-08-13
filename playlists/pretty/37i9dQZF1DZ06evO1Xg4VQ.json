@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 74198,
+  "num_followers": 74206,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAqLx/odTs6OYf2+qfmF+IS",
+  "snapshot_id": "anpmAAAAAACzRfKrNzQrxBzE16cdNu/f",
   "tracks": [
     {
       "added_at": null,
@@ -507,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+        "name": "La Marcha de la Vida",
+        "url": "https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD"
       },
       "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 275506,
-      "name": "Cuando Me Tocas T\u00fa",
-      "url": "https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p"
+      "duration_ms": 269133,
+      "name": "Calaveras",
+      "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
     },
     {
       "added_at": null,
@@ -539,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Marcha de la Vida",
-        "url": "https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD"
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
       "artists": [
-        {
-          "name": "Benny",
-          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Calaveras",
-      "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
+      "duration_ms": 275506,
+      "name": "Cuando Me Tocas T\u00fa",
+      "url": "https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 248026,
-      "name": "Palomo Del Comalito",
-      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Chile",
         "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 205200,
       "name": "Los Caminos de la Vida",
       "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 248026,
+      "name": "Palomo Del Comalito",
+      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "La Sandunga",
-      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Border",
         "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
@@ -855,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
       },
       "artists": [
         {
@@ -864,25 +848,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Balas y Chocolate",
-      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 283484,
-      "name": "La Pochota",
-      "url": "https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ"
+      "duration_ms": 253400,
+      "name": "La Sandunga",
+      "url": "https://open.spotify.com/track/5V3eIxVzFeD9W2JmZgBpNx"
     },
     {
       "added_at": null,
@@ -908,21 +876,33 @@
       "added_at": null,
       "album": {
         "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk"
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 290864,
-      "name": "Cambias Mi Mundo",
-      "url": "https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE"
+      "duration_ms": 283484,
+      "name": "La Pochota",
+      "url": "https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Balas y Chocolate",
+      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
     },
     {
       "added_at": null,
@@ -948,6 +928,26 @@
       "added_at": null,
       "album": {
         "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0GejtWfUyFdDzU73z7O9Gk"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 290864,
+      "name": "Cambias Mi Mundo",
+      "url": "https://open.spotify.com/track/5CS5LjHwR4Bk4Q4AihPhNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambias Mi Mundo",
         "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
       },
       "artists": [
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Sandunga",
         "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 260013,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     },
     {
       "added_at": null,

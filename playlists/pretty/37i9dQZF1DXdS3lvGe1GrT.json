@@ -1,13 +1,49 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Maya Donovan",
-  "num_followers": 100783,
+  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Ada Lea",
+  "num_followers": 100879,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALWoijY74owJvG+adApkdYRJgBSF",
+  "snapshot_id": "AAAAAGQNSSkxTIQt9WcpqAe4t2S4WceG",
   "tracks": [
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "Three Reds",
+        "url": "https://open.spotify.com/album/1TORmjib416bF532Zsd0rL"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Three Reds",
+      "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
+    },
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "the end is a wave",
+        "url": "https://open.spotify.com/album/4OsMPyGaxzsUrU7eBzbP9f"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        },
+        {
+          "name": "Common Holly",
+          "url": "https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "i've never been in love",
+      "url": "https://open.spotify.com/track/1SGd9mcmE7A5HF2obnb93Y"
+    },
     {
       "added_at": "2026-08-05 16:00:13",
       "album": {
@@ -23,6 +59,38 @@
       "duration_ms": 198810,
       "name": "Multiform",
       "url": "https://open.spotify.com/track/2bmiqYmS6rhfbUEUCXKueV"
+    },
+    {
+      "added_at": "2026-08-12 15:03:10",
+      "album": {
+        "name": "OBL",
+        "url": "https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 244483,
+      "name": "OBL",
+      "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
+    },
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "winner (deluxe edition)",
+        "url": "https://open.spotify.com/album/3Gv0nXcKGHYSjywqQMdyKV"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 146199,
+      "name": "long way home",
+      "url": "https://open.spotify.com/track/6uHtF3g68x3Mwj0xBmPh0n"
     },
     {
       "added_at": "2026-08-05 16:00:13",
@@ -41,6 +109,38 @@
       "url": "https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3"
     },
     {
+      "added_at": "2026-08-12 14:37:58",
+      "album": {
+        "name": "Brace for Impact",
+        "url": "https://open.spotify.com/album/5lFVhnQha0G8jPBMxLGrdZ"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "duration_ms": 171085,
+      "name": "Brace for Impact",
+      "url": "https://open.spotify.com/track/4m5h9O9nUCg5njX8tC344q"
+    },
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ"
+      },
+      "artists": [
+        {
+          "name": "Maya Donovan",
+          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
+        }
+      ],
+      "duration_ms": 217759,
+      "name": "Salami",
+      "url": "https://open.spotify.com/track/7kb5f5KOA5IFNUP1ZywIqo"
+    },
+    {
       "added_at": "2026-07-22 13:05:27",
       "album": {
         "name": "The Ground Here",
@@ -55,6 +155,54 @@
       "duration_ms": 200730,
       "name": "The Ground Here",
       "url": "https://open.spotify.com/track/418czu4odsJIt9JabJYg2u"
+    },
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "100 MILLION",
+        "url": "https://open.spotify.com/album/5xjXkDG5Tli8W8FczI9YPR"
+      },
+      "artists": [
+        {
+          "name": "Ethansroom",
+          "url": "https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "100 MILLION",
+      "url": "https://open.spotify.com/track/1jR4ALpdqJ12ghzdrzmvmo"
+    },
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "Cowboy Songs",
+        "url": "https://open.spotify.com/album/5sDlzkixdYQsPwYXUaYION"
+      },
+      "artists": [
+        {
+          "name": "Lorg",
+          "url": "https://open.spotify.com/artist/2JOyr8sEiYctjeSOlBZltC"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Cowboy Songs",
+      "url": "https://open.spotify.com/track/0CH2FvRGL75Yqz9kXh574B"
+    },
+    {
+      "added_at": "2026-08-12 14:26:15",
+      "album": {
+        "name": "The Afterglow",
+        "url": "https://open.spotify.com/album/4KUi0N0LIgpFdcvwz1A9Ky"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "The Afterglow",
+      "url": "https://open.spotify.com/track/7x9pmiucNJujRXZgN5MrjE"
     },
     {
       "added_at": "2026-08-05 16:00:13",
@@ -123,22 +271,6 @@
       "duration_ms": 201890,
       "name": "Wandering Arrow",
       "url": "https://open.spotify.com/track/6pM2fT3fBVDA8MLW2wfXic"
-    },
-    {
-      "added_at": "2026-07-16 15:18:39",
-      "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ"
-      },
-      "artists": [
-        {
-          "name": "Maya Donovan",
-          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Cephalopods Do",
-      "url": "https://open.spotify.com/track/4qwZ29tDAmGKmNTA9YVbGw"
     },
     {
       "added_at": "2026-07-29 19:41:46",
@@ -239,22 +371,6 @@
       "duration_ms": 143420,
       "name": "Microphone",
       "url": "https://open.spotify.com/track/6dxVW32LFhEiEAfqlDAPwD"
-    },
-    {
-      "added_at": "2026-07-16 15:18:39",
-      "album": {
-        "name": "Portal to the Past",
-        "url": "https://open.spotify.com/album/6cUZeY1E3OX3E7GTZBhmpI"
-      },
-      "artists": [
-        {
-          "name": "Lily Seabird",
-          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
-        }
-      ],
-      "duration_ms": 422306,
-      "name": "Portal to the Past",
-      "url": "https://open.spotify.com/track/739dDUpE5EOSRxWp3v79Rh"
     },
     {
       "added_at": "2026-07-22 13:05:27",
@@ -451,22 +567,6 @@
       "duration_ms": 399026,
       "name": "Autosmile",
       "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
-    },
-    {
-      "added_at": "2026-06-24 22:08:07",
-      "album": {
-        "name": "Just Like That",
-        "url": "https://open.spotify.com/album/0UA130o1GHwKGHhzpW9Ggk"
-      },
-      "artists": [
-        {
-          "name": "yeemz",
-          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
-        }
-      ],
-      "duration_ms": 153491,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/5MfdiCBpbFbzmjVLRAykGp"
     },
     {
       "added_at": "2026-07-09 16:32:53",
@@ -1047,38 +1147,6 @@
     {
       "added_at": "2026-05-13 15:04:36",
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/3lWYYXSLKRrbiqvOsRSeTH"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bishop",
-          "url": "https://open.spotify.com/artist/1SNT1xbb94VsMFDUMTRViq"
-        }
-      ],
-      "duration_ms": 243834,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/0fX87MQuQEbN6yTsurdeJ8"
-    },
-    {
-      "added_at": "2026-05-13 15:04:36",
-      "album": {
-        "name": "Red Dragonfly",
-        "url": "https://open.spotify.com/album/6QnR7oyhYeKenfmwdI1ai5"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Red Dragonfly",
-      "url": "https://open.spotify.com/track/2YpapyODyBEZU9W3AKnGZ3"
-    },
-    {
-      "added_at": "2026-05-13 15:04:36",
-      "album": {
         "name": "Six String",
         "url": "https://open.spotify.com/album/5v6BHPf3ikQi9d4kFih5PB"
       },
@@ -1091,38 +1159,6 @@
       "duration_ms": 191112,
       "name": "Six String",
       "url": "https://open.spotify.com/track/4NKSMuM0rG4FN6CwPjXHQM"
-    },
-    {
-      "added_at": "2026-05-06 16:16:56",
-      "album": {
-        "name": "This Is Our Life",
-        "url": "https://open.spotify.com/album/2k7ZhJMvHlhJ1gVl2144Jg"
-      },
-      "artists": [
-        {
-          "name": "Nina Winder-Lind",
-          "url": "https://open.spotify.com/artist/1hsdZQJ4mGNTv5cuuIRp1j"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "This Is Our Life",
-      "url": "https://open.spotify.com/track/04kHb4oQztTRtINGtTGrzF"
-    },
-    {
-      "added_at": "2026-05-06 16:16:56",
-      "album": {
-        "name": "apple tree",
-        "url": "https://open.spotify.com/album/24OY90lIcXEWvA1h59TpZe"
-      },
-      "artists": [
-        {
-          "name": "earth 2 tiffany",
-          "url": "https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi"
-        }
-      ],
-      "duration_ms": 163254,
-      "name": "apple tree",
-      "url": "https://open.spotify.com/track/4Se16udQXcb46gp6JieVIi"
     },
     {
       "added_at": "2026-04-22 16:18:30",
@@ -1139,22 +1175,6 @@
       "duration_ms": 211106,
       "name": "Malvern Star",
       "url": "https://open.spotify.com/track/4fE7Ddf94LW0d3svuj4W8E"
-    },
-    {
-      "added_at": "2026-05-06 16:16:56",
-      "album": {
-        "name": "Flower",
-        "url": "https://open.spotify.com/album/6UOb7o1P84OvtuBrgiBMz2"
-      },
-      "artists": [
-        {
-          "name": "Hollow Bastion",
-          "url": "https://open.spotify.com/artist/7wtsdpC5XVsxap879lzhFV"
-        }
-      ],
-      "duration_ms": 266566,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/03zy9xJ8UnPLlfzn4bFF3B"
     },
     {
       "added_at": "2026-04-15 17:14:04",
@@ -1203,22 +1223,6 @@
       "duration_ms": 195200,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt"
-    },
-    {
-      "added_at": "2026-04-29 18:31:34",
-      "album": {
-        "name": "picking petals",
-        "url": "https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 228942,
-      "name": "picking petals",
-      "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
     }
   ],
   "unique_name": "Fresh Finds Folk",

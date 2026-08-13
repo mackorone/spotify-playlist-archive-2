@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 700623,
+  "num_followers": 700934,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFipmm34zEaR2W+EFhc13A2NoEhJ",
+  "snapshot_id": "AAAAAKdWEzp0b219M68RCXt0WcHddadq",
   "tracks": [
     {
       "added_at": "2026-06-30 12:26:56",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Faites vous des amis",
         "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 265426,
       "name": "Assedic",
       "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2026-06-30 12:26:56",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-06-30 12:26:56",
       "album": {
-        "name": "La Chapelle Au Clair De Lune",
-        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
-      },
-      "artists": [
-        {
-          "name": "Leo Marjane",
-          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
-        }
-      ],
-      "duration_ms": 187626,
-      "name": "En septembre sous la pluie",
-      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
-    },
-    {
-      "added_at": "2026-06-30 12:26:56",
-      "album": {
         "name": "Chansons sans \u00e9poques: 1964 - 1968 (Remasteris\u00e9 en 2017)",
         "url": "https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 193586,
       "name": "Si tu vas \u00e0 Paris - Remasteris\u00e9 en 2017",
       "url": "https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ"
+    },
+    {
+      "added_at": "2026-06-30 12:26:56",
+      "album": {
+        "name": "La Chapelle Au Clair De Lune",
+        "url": "https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj"
+      },
+      "artists": [
+        {
+          "name": "Leo Marjane",
+          "url": "https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "En septembre sous la pluie",
+      "url": "https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7"
     },
     {
       "added_at": "2026-06-30 12:26:56",

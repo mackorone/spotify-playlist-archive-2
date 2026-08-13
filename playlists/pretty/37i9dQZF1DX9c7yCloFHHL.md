@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: TWO LANES
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,595 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,660 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Malachite](https://open.spotify.com/track/3qHbOgMaAlrnKoQq0mwU4e) | [Martin Brugger](https://open.spotify.com/artist/1CChwzxv51jVD73HJwnHM5) | [The Shell](https://open.spotify.com/album/6CjAsLFtw2SHYaqCuU2FYc) | 3:47 |
 | 100 | [goethite](https://open.spotify.com/track/0ctAcnpjdaB29zyziKkVWT) | [coulou's cafe](https://open.spotify.com/artist/5EHMIshG4dQaW4MrIj9cHa), [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [goethite](https://open.spotify.com/album/5qkPyxH9elarvGHnxPFo3M) | 3:38 |
 
-Snapshot ID: `AAAAAL451uj7tTdYg1mLxqkPrOCr8j4S`
+Snapshot ID: `AAAAAGb0MT7742CeVKrN19Ld7fk1OdBP`

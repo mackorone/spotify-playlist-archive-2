@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: FLO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,469 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,461 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 49 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
 | 50 | [On Wires](https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [On Wires](https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH) | 3:22 |
 
-Snapshot ID: `AAAAAFpfODAeI7HmwZ7rSIxtbGSeVDJG`
+Snapshot ID: `AAAAAEaCHdZJO03vgiJcxZcUEa2huowr`

@@ -1,12 +1,12 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 292699,
+  "num_followers": 292677,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKqmnjasirYQRcA1+RmuFEmIchF",
+  "snapshot_id": "AAAAAJ4P428jw4PuFvtmxZ/FXu6N5EA1",
   "tracks": [
     {
       "added_at": "2026-06-10 11:59:44",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
-        "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 151506,
-      "name": "DUVET",
-      "url": "https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "bad",
         "url": "https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 164073,
       "name": "bad",
       "url": "https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
+        "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 151506,
+      "name": "DUVET",
+      "url": "https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
+        "name": "Useless (Without You)",
+        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 166894,
+      "name": "Useless (Without You)",
+      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
         "name": "Forever Ends Someday",
         "url": "https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 152493,
       "name": "July",
       "url": "https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
-        "name": "Useless (Without You)",
-        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 166894,
-      "name": "Useless (Without You)",
-      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 232114,
       "name": "Physical (feat.Tink)",
       "url": "https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Miss That",
-        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 176316,
-      "name": "Miss That",
-      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Mr. Lovebomb",
         "url": "https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 227317,
       "name": "side slider",
       "url": "https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Miss That",
+        "url": "https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 176316,
+      "name": "Miss That",
+      "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
+        "name": "cracks beneath my skin",
+        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
+      },
+      "artists": [
+        {
+          "name": "Noha Sar\u00e9",
+          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
+        }
+      ],
+      "duration_ms": 185082,
+      "name": "cracks beneath my skin",
+      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
         "name": "If The Walls Could Talk",
         "url": "https://open.spotify.com/album/4g0koBPNH9fzEjvwENe9lx"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 190666,
       "name": "If The Walls Could Talk",
       "url": "https://open.spotify.com/track/0EQsHZM97bzawiFkFdGThi"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
-        "name": "cracks beneath my skin",
-        "url": "https://open.spotify.com/album/5qNqKONiGXnzpqafdWit9B"
-      },
-      "artists": [
-        {
-          "name": "Noha Sar\u00e9",
-          "url": "https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7"
-        }
-      ],
-      "duration_ms": 185082,
-      "name": "cracks beneath my skin",
-      "url": "https://open.spotify.com/track/3Dk0k6j6npirNZkHGELjJY"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Watch You Leave",
-        "url": "https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y"
-      },
-      "artists": [
-        {
-          "name": "Latanya Alberto",
-          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
-        }
-      ],
-      "duration_ms": 263850,
-      "name": "Watch You Leave",
-      "url": "https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "YARN",
         "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 197323,
       "name": "Empath",
       "url": "https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Watch You Leave",
+        "url": "https://open.spotify.com/album/6k3Dsk5NOsGhXx78guGx1y"
+      },
+      "artists": [
+        {
+          "name": "Latanya Alberto",
+          "url": "https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357"
+        }
+      ],
+      "duration_ms": 263850,
+      "name": "Watch You Leave",
+      "url": "https://open.spotify.com/track/71H62uTyeyqMwIvtCispPT"
     },
     {
       "added_at": "2026-06-10 11:59:44",

@@ -7335,6 +7335,24 @@
     },
     {
       "album": {
+        "name": "Terror TV",
+        "url": "https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195811,
+      "name": "Terror TV",
+      "url": "https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X"
+    },
+    {
+      "album": {
         "name": "That Was A Joke",
         "url": "https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF"
       },
@@ -8156,7 +8174,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 156106,
       "name": "Vain",
       "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"

@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14928,
+  "num_followers": 14933,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADwmT4/i6J8O2bcBAb5qnLU",
+  "snapshot_id": "anpmAAAAAAAG4yCIYTdCMYYQVGdROdi4",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 221603,
-      "name": "No Kissing Baby",
-      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 229345,
       "name": "Non Living Thing",
       "url": "https://open.spotify.com/track/7H7XxS0Qbrs0NCnjijkqC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 221603,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
     },
     {
       "added_at": null,
@@ -511,6 +511,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "ACCRA GIRLS",
+      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq"
       },
@@ -559,50 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lavida Loca (feat. Lasmid)",
-        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "Lavida Loca (feat. Lasmid)",
-      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BADDIES <3 MOLIY",
-        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "ACCRA GIRLS",
-      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
       },
@@ -623,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/6f2ShNSV829Nn5L7A4r0gq"
+        "name": "Lavida Loca (feat. Lasmid)",
+        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
       },
       "artists": [
         {
@@ -632,13 +612,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
         }
       ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/3ctX0ZD94IwqTYLTX8ZahE"
+      "duration_ms": 159292,
+      "name": "Lavida Loca (feat. Lasmid)",
+      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 267660,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2ChuNrtRECfBmGlW34Bq0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/6f2ShNSV829Nn5L7A4r0gq"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 287261,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/3ctX0ZD94IwqTYLTX8ZahE"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 129427,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 193333,
       "name": "Strength of a Woman",
       "url": "https://open.spotify.com/track/1roi2yd19qyecN3oTA3D5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 129427,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3GWjL519XWevcfq8cd2dHR"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Rollies and Cigars",
+      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anointing",
         "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 253040,
       "name": "CCTV",
       "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Rollies and Cigars",
-      "url": "https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M3Gye Wo Girl",
-        "url": "https://open.spotify.com/album/0Hj7mjkuVK8u6Lf4sGrV4t"
+        "name": "LOMO (League On My Own)",
+        "url": "https://open.spotify.com/album/1270NwzRh39zsb43lqGPMh"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
         },
         {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 206896,
-      "name": "M3Gye Wo Girl",
-      "url": "https://open.spotify.com/track/1GrasNMqiO24le1C5KTeKN"
+      "duration_ms": 224052,
+      "name": "LOMO (League On My Own)",
+      "url": "https://open.spotify.com/track/7Im6qCPwCter92NXAUDdvr"
     }
   ],
   "unique_name": "This Is Sarkodie",

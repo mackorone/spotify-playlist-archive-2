@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,698 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,702 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [roman](https://open.spotify.com/track/4MLdOGy0E4yBTTQw2wmwj6) | [NEWLIGHTCHILD](https://open.spotify.com/artist/6OYItdfhVXpz16ZvpFq7Uh) | [roman](https://open.spotify.com/album/0Mek7bjcFz29dhabAKukHt) | 1:42 |
 | 50 | [Монополия](https://open.spotify.com/track/2A2ltYcfg98g2oUkW1Xl86) | [Monetochka](https://open.spotify.com/artist/0yp6xP5xe1qarfugfTixOK) | [Молитвы\. Анекдоты\. Тосты.](https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox) | 3:37 |
 
-Snapshot ID: `Mg6GwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mg/YQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

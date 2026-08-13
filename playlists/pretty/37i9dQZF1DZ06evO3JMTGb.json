@@ -1,12 +1,12 @@
 {
   "description": "This is Sofie Birch. The essential tracks, all in one playlist.",
-  "num_followers": 215,
+  "num_followers": 214,
   "original_name": "This Is Sofie Birch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADE8hZLFjG/L4LeKc8T/9ZH",
+  "snapshot_id": "anpmAAAAAADiCABXI8Q+CFodxU2uj4K7",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Spirit Cartography",
-      "url": "https://open.spotify.com/track/1yCJJ8Q0WD0qeilHu25qIn"
+      "duration_ms": 178870,
+      "name": "Azurit",
+      "url": "https://open.spotify.com/track/13CmQg0AH6TSLez3OpCQFg"
     },
     {
       "added_at": null,
@@ -96,9 +96,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 178870,
-      "name": "Azurit",
-      "url": "https://open.spotify.com/track/13CmQg0AH6TSLez3OpCQFg"
+      "duration_ms": 215000,
+      "name": "Spirit Cartography",
+      "url": "https://open.spotify.com/track/1yCJJ8Q0WD0qeilHu25qIn"
     },
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Repair Techniques",
+        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Johan Car\u00f8e",
+          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 225742,
-      "name": "Driving Towards the Deaths Mycelium",
-      "url": "https://open.spotify.com/track/709CSssXkcrwidi6D3LxyQ"
+      "duration_ms": 89977,
+      "name": "You Make Me Care More",
+      "url": "https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA"
     },
     {
       "added_at": null,
@@ -287,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Repair Techniques",
-        "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Johan Car\u00f8e",
-          "url": "https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw"
         }
       ],
-      "duration_ms": 89977,
-      "name": "You Make Me Care More",
-      "url": "https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA"
+      "duration_ms": 225742,
+      "name": "Driving Towards the Deaths Mycelium",
+      "url": "https://open.spotify.com/track/709CSssXkcrwidi6D3LxyQ"
     },
     {
       "added_at": null,
@@ -571,22 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
+        "name": "Goddag",
+        "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
       },
       "artists": [
         {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+          "name": "Phine & Ormen",
+          "url": "https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO"
         },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 311077,
-      "name": "Silver Age",
-      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
+      "duration_ms": 160000,
+      "name": "Jeg Kan S\u00e5 Godt Li Blomster",
+      "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddag",
-        "url": "https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6"
-      },
-      "artists": [
-        {
-          "name": "Phine & Ormen",
-          "url": "https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Jeg Kan S\u00e5 Godt Li Blomster",
-      "url": "https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2nd Quake",
         "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
@@ -664,9 +644,25 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 298865,
-      "name": "Endowment",
-      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
+      "duration_ms": 311077,
+      "name": "Silver Age",
+      "url": "https://open.spotify.com/track/4ztZ4SgrT8OnBCaExPva0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": null,
@@ -711,18 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
       },
       "artists": [
+        {
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+        },
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+      "duration_ms": 298865,
+      "name": "Endowment",
+      "url": "https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv"
     },
     {
       "added_at": null,

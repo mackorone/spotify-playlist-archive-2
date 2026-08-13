@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qTdJLSokm3.md) - [plain]
 
 > <a href="https://webtoon.onelink.me/u70y/Spotify1">화산귀환</a>의 공식 플레이리스트입니다\. 나와 음악 취향이 닮은 캐릭터 커버를 만나보세요\. 당신의 캐릭터는 어떤 캐릭터인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,178 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,181 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qTdJLSokm3.md) - [plain]
 | 49 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [play hard](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
 | 50 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
 
-Snapshot ID: `AAAAAIfre1ARYaJ0Y75ZorAPbPHhFdX/`
+Snapshot ID: `AAAAAOPDbDWEUWHaJeCvIF2yNvW80WUC`

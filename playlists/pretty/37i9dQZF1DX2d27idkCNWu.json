@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259719,
+  "num_followers": 259721,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH1DlBEHmB+t7zr808zQjIWRtZ4y",
+  "snapshot_id": "AAAAAInsilhn/9FwEMQK6GBMxzJjA0ne",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:11",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176586,
-      "name": "Use Somebody - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
         "name": "Arcade (Acoustic Version)",
         "url": "https://open.spotify.com/album/3xiJB41twLQIbwMmv6N9Jz"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 199237,
       "name": "Arcade - Acoustic Version",
       "url": "https://open.spotify.com/track/5e5XSjfqBk4mgRnQR1vu8Z"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176586,
+      "name": "Use Somebody - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+        "name": "Believe Acoustic",
+        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
       },
       "artists": [
         {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
+      "duration_ms": 187680,
+      "name": "Boyfriend - Acoustic Version",
+      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -379,34 +379,18 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Believe Acoustic",
-        "url": "https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7"
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
         }
       ],
-      "duration_ms": 187680,
-      "name": "Boyfriend - Acoustic Version",
-      "url": "https://open.spotify.com/track/3ZsOYk34IQMrH4B1PBdofL"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -423,6 +407,22 @@
       "duration_ms": 228231,
       "name": "Barquinho de papel",
       "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 232706,
       "name": "Slow Dancing in a Burning Room - Acoustic",
       "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
         "name": "Live Acoustic EP",
         "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 209741,
       "name": "New Rules - Piano, Acoustic; Live",
       "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
+        "name": "Ac\u00fastico Luedji Luna",
+        "url": "https://open.spotify.com/album/4T0jseUbcizO3xgKOmEqYo"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 270491,
+      "name": "I\u00f4i\u00f4 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ZEOfzIWxGWefJi7trtje4"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
         "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) [A Cappella]",
         "url": "https://open.spotify.com/album/2TsPwV3jf75zXaP2Y1Z7Ye"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 132727,
       "name": "Made You Look (feat. Sri, Scott Hoying, Elyse Myers & Chris Olsen) - A Cappella",
       "url": "https://open.spotify.com/track/4MHrJOgMvqykhcRtYNWiZQ"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "Ac\u00fastico Luedji Luna",
-        "url": "https://open.spotify.com/album/4T0jseUbcizO3xgKOmEqYo"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 270491,
-      "name": "I\u00f4i\u00f4 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ZEOfzIWxGWefJi7trtje4"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -1319,6 +1319,22 @@
       "duration_ms": 245681,
       "name": "do raso ao fundo",
       "url": "https://open.spotify.com/track/6CCL120WKQUGBPHpndoqAW"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
+        "name": "Sozinho e Bem Acompanhado",
+        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 206445,
+      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
+      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -1399,22 +1415,6 @@
       "duration_ms": 141330,
       "name": "Bad Memories - Acoustic",
       "url": "https://open.spotify.com/track/38Z2ZEs6tW8D0AnM0AVSxP"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "Sozinho e Bem Acompanhado",
-        "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 206445,
-      "name": "Por Voc\u00ea - Sozinho e Bem Acompanhado",
-      "url": "https://open.spotify.com/track/3rGthpBUKrpgdnqPsctR0w"
     },
     {
       "added_at": "2026-08-07 03:00:11",

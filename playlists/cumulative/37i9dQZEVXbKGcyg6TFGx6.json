@@ -15634,7 +15634,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -15678,7 +15678,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 216352,
       "name": "Danza Kuduro - Version MTO",
       "url": "https://open.spotify.com/track/2ynaRz7EuNbDrNrlr3QUjP"
@@ -19568,7 +19568,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 208608,
       "name": "El milagro de tenerte",
       "url": "https://open.spotify.com/track/4fyCY6UM8GlSVEntWO1KLD"
@@ -26604,7 +26604,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 206360,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/0FRwqcOhrijgeT4yJHyoVC"
@@ -34103,6 +34103,24 @@
     },
     {
       "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150511,
+      "name": "La p\u00e9tasse",
+      "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
+    },
+    {
+      "album": {
         "name": "Civilisation",
         "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
       },
@@ -36482,7 +36500,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -37374,7 +37392,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -40058,7 +40076,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
@@ -46418,7 +46436,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -47572,7 +47590,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -52960,6 +52978,28 @@
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6"
+    },
+    {
+      "album": {
+        "name": "Live Fast Die Young",
+        "url": "https://open.spotify.com/album/6K1sk20kfAnW0Jlh3LHWsW"
+      },
+      "artists": [
+        {
+          "name": "Icy",
+          "url": "https://open.spotify.com/artist/175e5s7H5zPUvseDzoS2GY"
+        },
+        {
+          "name": "Talo FL",
+          "url": "https://open.spotify.com/artist/6WjZwGRYIwEkm8qZyE2mjl"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142404,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/7cGY5Cq9yyx6u8PV8cLycY"
     },
     {
       "album": {
@@ -62340,7 +62380,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -62358,7 +62398,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/4uQY80TKE1u4ZQZQKHzVEi"
@@ -69998,7 +70038,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -70328,7 +70368,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
@@ -71438,7 +71478,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-11",
+      "date_removed": null,
       "duration_ms": 179640,
       "name": "\u00c0 l'aise",
       "url": "https://open.spotify.com/track/3XzwTdwcIz67nPOE6sitEo"

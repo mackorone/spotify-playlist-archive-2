@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,881 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,904 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 77 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 |
 | 78 | [Day 'N' Nite](https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Acid Boyz](https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a) | [Day 'N' Nite](https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa) | 2:13 |
 | 79 | [2004](https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2004](https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us) | 3:08 |
-| 80 | [Pedro \- W&W Remix](https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Pedro \(W&W Remix\)](https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A) | 2:39 |
+| 80 | [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 |
 | 81 | [Click Click Click](https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Click Click Click](https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl) | 2:47 |
-| 82 | [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 |
+| 82 | [Pedro \- W&W Remix](https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Pedro \(W&W Remix\)](https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A) | 2:39 |
 | 83 | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY) | 2:32 |
 | 84 | [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 |
 | 85 | [Bel Mercy \- Techno](https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC) | [Paayne](https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO) | [Bel Mercy \(Techno\)](https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H) | 1:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 99 | [One Night in Bangkok 2K23 \- Da Tweekaz 2K23 Remix](https://open.spotify.com/track/44rdr40M1DhqS7X5HKoPQ9) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Vinylshakerz](https://open.spotify.com/artist/7g7uwd4PAs7J3PgiKUx47q) | [One Night In Bangkok 2K23 \(The Ultimate Remixes\)](https://open.spotify.com/album/31gy6l39adSklojfefXZCB) | 3:27 |
 | 100 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 |
 
-Snapshot ID: `AAAAAIUY3XJ+2EQZM3GVtDwMTL2C8+bb`
+Snapshot ID: `AAAAAAmvJ3slgDWK4YZTxnN4UFOu0icX`

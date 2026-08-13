@@ -4605,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Bleeding Stars",
+        "url": "https://open.spotify.com/album/7h83oGdK3lc4SfgAdgvQpy"
+      },
+      "artists": [
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/1kFBUmLbV6cvRA7PFc00SM"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210337,
+      "name": "Bleeding Stars",
+      "url": "https://open.spotify.com/track/72qr7jAEXtgSoArhJdGJ3F"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/7FidJA5VFOziqJcXAs8Q3c"
       },

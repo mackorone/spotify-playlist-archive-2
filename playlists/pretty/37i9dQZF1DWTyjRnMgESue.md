@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,649 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,657 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 63 | [Undo Me](https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Exit Strategy](https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD) | 4:21 |
 | 64 | [Audrey Hepburn](https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 3:06 |
 | 65 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
-| 66 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
-| 67 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
+| 66 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
+| 67 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
 | 68 | [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 |
 | 69 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 |
 | 70 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [golden boy](https://open.spotify.com/track/03dP8ZaoX9ftHDDGJqDmeP) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [golden boy](https://open.spotify.com/album/2Y8kR25oTu2nlNQWoOzbsW) | 3:14 |
 | 100 | [Wild One](https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Wild One](https://open.spotify.com/album/6uQPitAnucKcatIRufA7om) | 2:22 |
 
-Snapshot ID: `AAAAAAU0CKqyqNQDNbpja83bX+vthjZ4`
+Snapshot ID: `AAAAAP5x+CEUB0s5yaC6BpVipNo5+JuS`

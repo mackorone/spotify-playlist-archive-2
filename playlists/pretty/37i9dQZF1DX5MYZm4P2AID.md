@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,023 likes - 274 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,031 likes - 274 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,10 +217,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 207 | [Crashed My Bike](https://open.spotify.com/track/1CrSOYgDKMg2aU48FmRFsQ) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Crashed My Bike](https://open.spotify.com/album/72FchzzTvWhylxrFSR7Y8l) | 3:03 |
 | 208 | [Come On](https://open.spotify.com/track/5pc6PL2JYnJ8tvyW2ciinU) | [The 4th Coming](https://open.spotify.com/artist/1CeSvNOGIf68AZ9MH1zwhr) | [Strange Things \(The Complete Works, 1970 \- 1974\)](https://open.spotify.com/album/4kwIasWUTsii5bSXUFFlDT) | 2:57 |
 | 209 | [Let it Burn](https://open.spotify.com/track/3QH0vAK0h4L9pOZZdHX5YY) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Let it Burn](https://open.spotify.com/album/5A3Pw3CQl7DSX26vMeOTCC) | 6:03 |
-| 210 | [After After](https://open.spotify.com/track/2MVypWL5Lbz5lOKmB2wyRj) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/799SiIngfx9kQtEC1jcert) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 8:10 |
+| 210 | [After After](https://open.spotify.com/track/2MVypWL5Lbz5lOKmB2wyRj) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/3dClk1vDnyMOSLxtDWqMxo) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 8:10 |
 | 211 | [Move over, I'll Drive](https://open.spotify.com/track/4KwrA7IeaqTu4FKC7JBUx9) | [Black River Assembly](https://open.spotify.com/artist/3tHuD8jeAX2vlwluLKWxlg) | [Marsh Land EP](https://open.spotify.com/album/3sHRFNWrczJOdTiwVk26Qx) | 2:51 |
 | 212 | [Don't You Forget It](https://open.spotify.com/track/1PzGdNHZ2w9L0lpiaklRYJ) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Allah\-Las](https://open.spotify.com/album/4PIfaEqfAARIiWtgqk8AzG) | 3:04 |
-| 213 | [Rest In Blue](https://open.spotify.com/track/3dHHhmghmAy4iQQ4hEnu6U) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/799SiIngfx9kQtEC1jcert) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 4:20 |
+| 213 | [Rest In Blue](https://open.spotify.com/track/3dHHhmghmAy4iQQ4hEnu6U) | [Little Barrie](https://open.spotify.com/artist/5ozUXaDjc4mfVyDIWCJH4E), [Malcolm Catto](https://open.spotify.com/artist/3dClk1vDnyMOSLxtDWqMxo) | [Quatermass Seven](https://open.spotify.com/album/0XEty5HBu5XeQGuSQcezxI) | 4:20 |
 | 214 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 |
 | 215 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 |
 | 216 | [King of a One Horse Town](https://open.spotify.com/track/4QF8w44G6fU4VNxQJK1OJn) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:46 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 273 | [Never Gonna Let You Go](https://open.spotify.com/track/6XMyKqEUjoPFDClvRJyO6x) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Seafaring Strangers: Private Yacht](https://open.spotify.com/album/3QUi5Qd9OpGCWoAFeuf5vM) | 2:31 |
 | 274 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `AAAAAPuFcgkr9GwWz6EgdzUhgTiLZhXU`
+Snapshot ID: `AAAAACbk5B5YA6gL47LrTDuHDHgxN1Tx`

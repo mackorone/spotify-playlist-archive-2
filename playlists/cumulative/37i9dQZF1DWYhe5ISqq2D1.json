@@ -25879,6 +25879,24 @@
     },
     {
       "album": {
+        "name": "\u6804\u990a",
+        "url": "https://open.spotify.com/album/5zz8XFh79B4JXzlozWeeOB"
+      },
+      "artists": [
+        {
+          "name": "Summer Eye",
+          "url": "https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190025,
+      "name": "\u6804\u990a",
+      "url": "https://open.spotify.com/track/38tZWlrkJuNrjwCeLULR9M"
+    },
+    {
+      "album": {
         "name": "\u6848\u306e\u5b9a\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
         "url": "https://open.spotify.com/album/6OsOr0IIHM1VobBeAO5zsu"
       },

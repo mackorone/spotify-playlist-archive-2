@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EBIFIwhU4y.md) - [plain]
 
 > This is a normal day playlist with SUGA\. Vote for the NORMAL day song that best suits SUGA! Then, the NORMAL Day BTS playlist will be complete!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,587 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,580 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EBIFIwhU4y.md) - [plain]
 | 19 | [Save Me](https://open.spotify.com/track/7bxGcILuAjkZzaveU28ZJS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Most Beautiful Moment in Life: Young Forever](https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09) | 3:16 |
 | 20 | [NORMAL](https://open.spotify.com/track/4pcMA8zSATPOZzZd6fWI5N) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 3:04 |
 
-Snapshot ID: `AAAAAO6qk1+vBoGANQevqcDAfpdC0kQv`
+Snapshot ID: `AAAAAGQoi6dnA58OLqD2RSDTvRnDdbJr`

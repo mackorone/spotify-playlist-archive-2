@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,628 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,627 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 49 | [Alpha](https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Alpha](https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S) | 3:18 |
 | 50 | [Auto](https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Auto](https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf) | 2:22 |
 
-Snapshot ID: `AAAAAEBNmKiGvIb3igWQaMpylNIwhqN9`
+Snapshot ID: `AAAAAN5Fwap9GrxzKaN0t05U9EmdCuxT`

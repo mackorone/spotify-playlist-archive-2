@@ -1,12 +1,12 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 178165,
+  "num_followers": 178189,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtIeK30MlNBmGP1h1u4+ELUV/Eb",
+  "snapshot_id": "AAAAADqYfMo1BW2B0ZP+xHiLocXWzYcH",
   "tracks": [
     {
       "added_at": "2024-07-11 01:42:53",
@@ -255,18 +255,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Sin Tu Amor",
-        "url": "https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4"
+        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
+        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
+      "duration_ms": 180866,
+      "name": "Mi gran noche",
+      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -287,18 +287,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Digan Lo Que Digan: Banda Sonora Original De La Pe",
-        "url": "https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ"
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4"
       },
       "artists": [
         {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Mi gran noche",
-      "url": "https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx"
+      "duration_ms": 195840,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "S\u00f3lo para enamorados",
         "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Si Quieres Verme Llorar",
-        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lopez",
-          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
-        }
-      ],
-      "duration_ms": 190807,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Intimamente",
         "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
       },
@@ -1375,22 +1359,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
-          "url": "https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Te regalo mis ojos",
-      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
         "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
       },
@@ -1403,6 +1371,38 @@
       "duration_ms": 181960,
       "name": "Lo Que Te Queda",
       "url": "https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Si Quieres Verme Llorar",
+        "url": "https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lopez",
+          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
+        }
+      ],
+      "duration_ms": 190807,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda del Rayo y Los Gatos Salvajes",
+          "url": "https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "Te regalo mis ojos",
+      "url": "https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Sus Mas Grandes Exit",
-        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
-      },
-      "artists": [
-        {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Solo un Hombre",
         "url": "https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 158133,
       "name": "Fresa Salvaje",
       "url": "https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Sus Mas Grandes Exit",
+        "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
+      },
+      "artists": [
+        {
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM"
     },
     {
       "added_at": "2024-07-11 01:42:53",

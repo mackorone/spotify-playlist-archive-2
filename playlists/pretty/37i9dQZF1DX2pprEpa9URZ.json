@@ -1,12 +1,12 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 916035,
+  "num_followers": 916133,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADLhpLD6PmDEIVwzarHitq5tSbPh",
+  "snapshot_id": "AAAAAGTLtMRzHbvlZyoqLqGkDQqbGdqu",
   "tracks": [
     {
       "added_at": "2026-07-28 06:53:17",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Bahar",
         "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 232600,
       "name": "Bahar",
       "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "La Isla",
-        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
-      },
-      "artists": [
-        {
-          "name": "Megablast",
-          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
-        },
-        {
-          "name": "Eribertho Cruz",
-          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
-        }
-      ],
-      "duration_ms": 193306,
-      "name": "La Isla - Radio Version",
-      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -839,22 +819,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Karanfilce Devojce (PACHIRA Remix)",
-        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
+        "name": "La Isla",
+        "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
       "artists": [
         {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+          "name": "Megablast",
+          "url": "https://open.spotify.com/artist/3FkAamTY6TR8lc6xOFO21T"
         },
         {
-          "name": "PACHIRA",
-          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
+          "name": "Eribertho Cruz",
+          "url": "https://open.spotify.com/artist/6dQxJRakmUNWvvWVH8nQdb"
         }
       ],
-      "duration_ms": 342853,
-      "name": "Karanfilce Devojce - PACHIRA Remix",
-      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+      "duration_ms": 193306,
+      "name": "La Isla - Radio Version",
+      "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -871,6 +851,26 @@
       "duration_ms": 375652,
       "name": "Thierry",
       "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Karanfilce Devojce (PACHIRA Remix)",
+        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
+      },
+      "artists": [
+        {
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "PACHIRA",
+          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Karanfilce Devojce - PACHIRA Remix",
+      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
-      },
-      "artists": [
-        {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
-        },
-        {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
-        }
-      ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Casablanca",
         "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 285148,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
+      },
+      "artists": [
+        {
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+        },
+        {
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
+        }
+      ],
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1195,34 +1195,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Maithori",
-        "url": "https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9"
-      },
-      "artists": [
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "Frigid Armadillo",
-          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
-        },
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maithori",
-      "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
@@ -1251,6 +1223,34 @@
       "duration_ms": 187722,
       "name": "With You",
       "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Maithori",
+        "url": "https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Maithori",
+      "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
-        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
-      },
-      "artists": [
-        {
-          "name": "Bonga",
-          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
-        },
-        {
-          "name": "Everything Counts",
-          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
-        }
-      ],
-      "duration_ms": 451375,
-      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
-      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Where's My People",
         "url": "https://open.spotify.com/album/2Om6QigvsPDH9iJdJKf7U2"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 171840,
       "name": "Where's My People",
       "url": "https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
+        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
+      },
+      "artists": [
+        {
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        },
+        {
+          "name": "Everything Counts",
+          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+        }
+      ],
+      "duration_ms": 451375,
+      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
+      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
     },
     {
       "added_at": "2026-07-28 06:53:17",

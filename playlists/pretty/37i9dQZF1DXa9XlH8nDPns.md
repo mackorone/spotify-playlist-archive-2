@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 ### [Happy Roadtrip](https://open.spotify.com/playlist/37i9dQZF1DXa9XlH8nDPns)
 
-> De Nachtwacht kiest 20 roadtrip songs! zomer ID 🚐 avonturier\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> De Nachtwacht kiest 20 songs voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,940 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,943 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 99 | [T\-Shirt Weather](https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ) | 3:14 |
 | 100 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 
-Snapshot ID: `AAAAAG4FV/zHF3nhT1XMpq8ImsZ+fqha`
+Snapshot ID: `AAAAAJyJpi1E63aNtxp75iNdHLwlEl9A`

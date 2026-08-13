@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Way Dynamic
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,245 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,243 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 98 | [Because I Don’t Know](https://open.spotify.com/track/6Qymnl2KeKsdfafjZIJo0Y) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Because I Don't Know](https://open.spotify.com/album/7CmB0dTJA6Kce2EuiOlbmU) | 4:33 |
 | 99 | [Girl, Intentions](https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Girl, Intentions](https://open.spotify.com/album/0zam2ZW2T22AhELRLudgoF) | 3:47 |
 
-Snapshot ID: `AAAAAKwIBhpVTjXXDb9BGgCDfAl5KOBb`
+Snapshot ID: `AAAAAAtTwp2sk1qKjtGMO5ypXQjH4aK/`

@@ -11361,24 +11361,6 @@
     },
     {
       "album": {
-        "name": "\u9ec4\u660f\u306a\u30d6\u30eb\u30fc -Twilight Blue-",
-        "url": "https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        }
-      ],
-      "date_added": "2026-08-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR"
-    },
-    {
-      "album": {
         "name": "TRANSIT IN SUMMER",
         "url": "https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1"
       },
@@ -17482,6 +17464,32 @@
       "duration_ms": 242840,
       "name": "\u6d41\u6d6a",
       "url": "https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA"
+    },
+    {
+      "album": {
+        "name": "\u9ec4\u660f\u306a\u30d6\u30eb\u30fc -Twilight Blue-",
+        "url": "https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u8ca1\u6d25\u30de\u30a4",
+          "url": "https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3"
+        },
+        {
+          "name": "KiBi",
+          "url": "https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm"
+        }
+      ],
+      "date_added": "2026-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "\u6d99\u306e\u30ab\u30e9\u30c3\u30c8 -Rumor Girl- (feat. \u8ca1\u6d25\u30de\u30a4)",
+      "url": "https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR"
     },
     {
       "album": {

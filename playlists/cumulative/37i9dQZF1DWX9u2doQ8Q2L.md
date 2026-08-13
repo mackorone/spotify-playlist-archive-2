@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,766 songs - 4 day 10 hr 47 min
+1,767 songs - 4 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [BLESS](https://open.spotify.com/track/6Y3INf4lMK5vD7suGUQCYi) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [BLESS](https://open.spotify.com/album/1a94QVkGy554V6TaGemasq) | 2:21 | 2023-10-31 | 2023-11-02 |
 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 | 2025-06-03 | 2025-07-16 |
 | [BLOW](https://open.spotify.com/track/3OSEQtAIxVzQ8iLzxgOXoi) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [BLOW](https://open.spotify.com/album/1jCajyPWXNO04KBS6jDgGC) | 3:33 | 2023-09-21 | 2023-10-18 |
-| [Blue](https://open.spotify.com/track/0JlgLVccHLtzolsiwaqsJ0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Blue](https://open.spotify.com/album/30Ih6h18WnB3nr72Wi7iy7) | 3:16 | 2026-06-18 |  |
+| [Blue](https://open.spotify.com/track/0JlgLVccHLtzolsiwaqsJ0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Blue](https://open.spotify.com/album/30Ih6h18WnB3nr72Wi7iy7) | 3:16 | 2026-06-18 | 2026-08-13 |
 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 | 2024-10-09 | 2024-11-20 |
 | [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-10 |  |
 | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/track/6KJW2wfW3iKbOinXZTbf3v) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Blue Bird \(feat\. Maika Loubté\)](https://open.spotify.com/album/65rWyGlUaqsWQwYwOLFxIH) | 3:50 | 2023-06-06 | 2023-06-28 |
@@ -1525,6 +1525,7 @@
 | [メトロシティ](https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メトロシティ](https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd) | 3:20 | 2024-09-25 |  |
 | [メニュウ](https://open.spotify.com/track/7aW0GKhmgHV6S0wFdpSqOc) | [田中タリラ](https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou) | [メニュウ](https://open.spotify.com/album/1vpa6YULMwOolLTOvrfbQC) | 2:10 | 2022-05-26 | 2022-06-03 |
 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 | 2024-09-04 |  |
+| [モンストロ](https://open.spotify.com/track/78GGBmoEMw4MqTzynPfqMw) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [モンストロ](https://open.spotify.com/album/3dPGxHOubAlabcR20uJGsG) | 3:09 | 2026-08-12 |  |
 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 | 2024-05-01 | 2024-08-02 |
 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 | 2023-12-14 | 2023-12-20 |
 | [ユメのはじまり。 \- Jun Saito Remix](https://open.spotify.com/track/3iO7xENmCkZ7TTxCgGt8nJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk), [Jun Saito](https://open.spotify.com/artist/1bqPq6zml4iC1qENWKoSXr) | [ユメのはじまり。 \(Jun Saito Remix\)](https://open.spotify.com/album/2DGSE70OQLmkXcrtJFEKj3) | 4:49 | 2024-06-04 | 2024-06-13 |

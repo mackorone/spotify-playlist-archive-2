@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANs49vszLeqVp0GzOe6cvViW2Yek",
+  "snapshot_id": "AAAAAGOuDM+9gmFsHC21+ak34Wyeqroy",
   "tracks": [
     {
       "added_at": "2026-08-07 04:00:00",
@@ -99,6 +99,42 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "Whatchu Bringing?",
+        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 163935,
+      "name": "Stop Being Late (feat. J. Ivy)",
+      "url": "https://open.spotify.com/track/4vi1vMGebwMS8KzumrEPDw"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "YOU AND YOU ONLY",
         "url": "https://open.spotify.com/album/6u9tWSStA3YPwPktqRZjLp"
       },
@@ -123,6 +159,22 @@
       "duration_ms": 160879,
       "name": "Only",
       "url": "https://open.spotify.com/track/5Rfg5cZiaEnhNfJz1eSO9q"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "duration_ms": 279779,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -155,74 +207,6 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/1bc1n9OOm4BDud97xlorYi"
-      },
-      "artists": [
-        {
-          "name": "Yngwie Malmsteen",
-          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
-        }
-      ],
-      "duration_ms": 279779,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/21WWur6B3kTFoIRPxQlBlZ"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Whatchu Bringing?",
-        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
-      },
-      "artists": [
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        }
-      ],
-      "duration_ms": 137984,
-      "name": "I Wonder (feat. Phoelix)",
-      "url": "https://open.spotify.com/track/23DXnuvmYOezDiKTFSt91l"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Floette ft. John Glacier",
-        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 192212,
-      "name": "Floette ft. John Glacier",
-      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
         "name": "Whatchu Bringing?",
         "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
       },
@@ -251,18 +235,38 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Nimrods Original Soundtrack",
-        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
+        "name": "Floette ft. John Glacier",
+        "url": "https://open.spotify.com/album/6CQ0DN6ovZhxyECQwmqwrJ"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
         }
       ],
-      "duration_ms": 72528,
-      "name": "Auld Lang Syne - Live",
-      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
+      "duration_ms": 192212,
+      "name": "Floette ft. John Glacier",
+      "url": "https://open.spotify.com/track/2f5pyfkPX3cOeSdXBS07J9"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Waiting For The Drugs To Kick In",
+        "url": "https://open.spotify.com/album/4ehRUrvhpeZBQMvIuOiUO2"
+      },
+      "artists": [
+        {
+          "name": "Wheeler Walker Jr.",
+          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+        }
+      ],
+      "duration_ms": 186862,
+      "name": "Waiting For The Drugs To Kick In",
+      "url": "https://open.spotify.com/track/1Dt45xDgl7qd5TgE9qSHkm"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -319,6 +323,22 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "This Ring (25th Anniversary) (Remastered 2026)",
+        "url": "https://open.spotify.com/album/12I65mTRhgyB2DiDWcArnF"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 355334,
+      "name": "This Ring (25th Anniversary) (Remastered 2026)",
+      "url": "https://open.spotify.com/track/2wit2ysL7kcRH5rmpYINCb"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "Reality Awaits",
         "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
       },
@@ -331,6 +351,54 @@
       "duration_ms": 200186,
       "name": "Lonely in the Future",
       "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Gjallarhorn",
+        "url": "https://open.spotify.com/album/6PWN9YmGj9cMgtlsLMgqNL"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 314200,
+      "name": "Gjallarhorn",
+      "url": "https://open.spotify.com/track/1rouZuMqJonxGcQcM1ZFRT"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "HUN",
+        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 275227,
+      "name": "Horsemen",
+      "url": "https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Nimrods Original Soundtrack",
+        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 72528,
+      "name": "Auld Lang Syne - Live",
+      "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -355,38 +423,6 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "This Ring (25th Anniversary) (Remastered 2026)",
-        "url": "https://open.spotify.com/album/12I65mTRhgyB2DiDWcArnF"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 355334,
-      "name": "This Ring (25th Anniversary) (Remastered 2026)",
-      "url": "https://open.spotify.com/track/2wit2ysL7kcRH5rmpYINCb"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
       },
@@ -403,86 +439,18 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Waiting For The Drugs To Kick In",
-        "url": "https://open.spotify.com/album/4ehRUrvhpeZBQMvIuOiUO2"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
-          "name": "Wheeler Walker Jr.",
-          "url": "https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 186862,
-      "name": "Waiting For The Drugs To Kick In",
-      "url": "https://open.spotify.com/track/1Dt45xDgl7qd5TgE9qSHkm"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Gjallarhorn",
-        "url": "https://open.spotify.com/album/6PWN9YmGj9cMgtlsLMgqNL"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 314200,
-      "name": "Gjallarhorn",
-      "url": "https://open.spotify.com/track/1rouZuMqJonxGcQcM1ZFRT"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Beard",
-        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 197782,
-      "name": "GMFU (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/4WRSuXKiVASgd9z6sk1yZL"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "HUN",
-        "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 275227,
-      "name": "Horsemen",
-      "url": "https://open.spotify.com/track/312y90eEwVzpMT5SQD3w0C"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Hookah Baby",
-        "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Hookah Baby",
-      "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -527,6 +495,58 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
+        "name": "Beard",
+        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 197782,
+      "name": "GMFU (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/4WRSuXKiVASgd9z6sk1yZL"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Hookah Baby",
+        "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Hookah Baby",
+      "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Maverick \u201cAlmost Forever\u201d EP",
+        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 180369,
+      "name": "Poured",
+      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
         "name": "Still Crying",
         "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
       },
@@ -539,22 +559,6 @@
       "duration_ms": 249654,
       "name": "Still Crying",
       "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "On Melancholy Hill",
-        "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 186144,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/21k2ZXCeUNuHN7lgkGWYjD"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -579,18 +583,54 @@
     {
       "added_at": "2026-08-07 04:00:00",
       "album": {
-        "name": "Maverick \u201cAlmost Forever\u201d EP",
-        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
+        "name": "Summer Jazz: Thelonious Monk",
+        "url": "https://open.spotify.com/album/7jdckKq9eMjAnXawjY8JwR"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
         }
       ],
-      "duration_ms": 180369,
-      "name": "Poured",
-      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+      "duration_ms": 209480,
+      "name": "Four In One - Alternate Take",
+      "url": "https://open.spotify.com/track/0bHx49sOlTCZTtDCsFYuXr"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "Philip Glass: Evening Song No.3",
+        "url": "https://open.spotify.com/album/3UqOjOrakeACSn8Zk3joZs"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Chase Spruill",
+          "url": "https://open.spotify.com/artist/0BAmi9xRzmDOwkQXUhivft"
+        }
+      ],
+      "duration_ms": 271371,
+      "name": "Evening Song No.3 for Solo Violin",
+      "url": "https://open.spotify.com/track/58JaKRhM1DnaK1vLGT3Oy9"
+    },
+    {
+      "added_at": "2026-08-07 04:00:00",
+      "album": {
+        "name": "On Melancholy Hill",
+        "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 186144,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/21k2ZXCeUNuHN7lgkGWYjD"
     },
     {
       "added_at": "2026-08-07 04:00:00",
@@ -615,46 +655,6 @@
       "duration_ms": 255045,
       "name": "You Gonna Learn Today (feat. Myles & Kamai, Georgia Anne Muldrow)",
       "url": "https://open.spotify.com/track/4baP0NvNpC6KHvo1Xa6nQ1"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Summer Jazz: Thelonious Monk",
-        "url": "https://open.spotify.com/album/7jdckKq9eMjAnXawjY8JwR"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "I Should Care - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6sYnAVOEFBajsC1kawg9yd"
-    },
-    {
-      "added_at": "2026-08-07 04:00:00",
-      "album": {
-        "name": "Philip Glass: Evening Song No.3",
-        "url": "https://open.spotify.com/album/3UqOjOrakeACSn8Zk3joZs"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Chase Spruill",
-          "url": "https://open.spotify.com/artist/0BAmi9xRzmDOwkQXUhivft"
-        }
-      ],
-      "duration_ms": 271371,
-      "name": "Evening Song No.3 for Solo Violin",
-      "url": "https://open.spotify.com/track/58JaKRhM1DnaK1vLGT3Oy9"
     },
     {
       "added_at": "2026-08-07 04:00:00",

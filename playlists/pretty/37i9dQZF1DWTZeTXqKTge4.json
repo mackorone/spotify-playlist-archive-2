@@ -1,12 +1,12 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Jeekay, Imposs",
-  "num_followers": 89658,
+  "num_followers": 89656,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK5yKz89eFeLLjhGLU58zngLojyU",
+  "snapshot_id": "AAAAAHVt/zMDHTrD09iry+uhG7daH6Tb",
   "tracks": [
     {
       "added_at": "2026-08-07 04:03:10",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Petites Victoires",
-        "url": "https://open.spotify.com/album/4fPi0fipmBM4yTr1kGqXrs"
-      },
-      "artists": [
-        {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Enfant de l'asphalte",
-      "url": "https://open.spotify.com/track/5hlAF7U9HtFGu9XuVNrnCj"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Discontinu\u00e9",
         "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 175476,
       "name": "Discontinu\u00e9",
       "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "Petites Victoires",
+        "url": "https://open.spotify.com/album/4fPi0fipmBM4yTr1kGqXrs"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Enfant de l'asphalte",
+      "url": "https://open.spotify.com/track/5hlAF7U9HtFGu9XuVNrnCj"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
         "name": "Collimateur",
         "url": "https://open.spotify.com/album/048FdJYYn7Q6jSq09pRBn4"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/38lhD7UTPAqxVHeX4BIpVm"
       },
       "artists": [
         {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
         }
       ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+      "duration_ms": 123263,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1ppKGaddAQIZuYOx1YDvn6"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/38lhD7UTPAqxVHeX4BIpVm"
-      },
-      "artists": [
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
-        }
-      ],
-      "duration_ms": 123263,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/1ppKGaddAQIZuYOx1YDvn6"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Laisse nous",
         "url": "https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 168000,
       "name": "Laisse nous",
       "url": "https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -919,34 +935,22 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+        "name": "514-50 Dans mon r\u00e9seau (\u00c9dition 20e anniversaire)",
+        "url": "https://open.spotify.com/album/4WfwdFaRrXE83b4biyPhlK"
       },
       "artists": [
         {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 160263,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
-        "name": "BASSE COUTURE",
-        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
-      },
-      "artists": [
+          "name": "Sans Pression",
+          "url": "https://open.spotify.com/artist/4WRTfy1amcikjn8lvpd5pS"
+        },
         {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+          "name": "Yvon Krev\u00e9",
+          "url": "https://open.spotify.com/artist/0xGKfXSf03NYjxQQruyYOZ"
         }
       ],
-      "duration_ms": 171106,
-      "name": "BASSE COUTURE",
-      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
+      "duration_ms": 352600,
+      "name": "L'\u00e9tage souterrain",
+      "url": "https://open.spotify.com/track/5jEY7o6CLzkEqQAvIHaiRG"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -983,22 +987,18 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "514-50 Dans mon r\u00e9seau (\u00c9dition 20e anniversaire)",
-        "url": "https://open.spotify.com/album/4WfwdFaRrXE83b4biyPhlK"
+        "name": "BASSE COUTURE",
+        "url": "https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc"
       },
       "artists": [
         {
-          "name": "Sans Pression",
-          "url": "https://open.spotify.com/artist/4WRTfy1amcikjn8lvpd5pS"
-        },
-        {
-          "name": "Yvon Krev\u00e9",
-          "url": "https://open.spotify.com/artist/0xGKfXSf03NYjxQQruyYOZ"
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
         }
       ],
-      "duration_ms": 352600,
-      "name": "L'\u00e9tage souterrain",
-      "url": "https://open.spotify.com/track/5jEY7o6CLzkEqQAvIHaiRG"
+      "duration_ms": 171106,
+      "name": "BASSE COUTURE",
+      "url": "https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "SORRY C BUSINESS",
-        "url": "https://open.spotify.com/album/31HGOeBqPSjku2sL21UMgg"
-      },
-      "artists": [
-        {
-          "name": "Yellow Rice",
-          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
-        },
-        {
-          "name": "d\u00f8nnyr2k\u00e9bb",
-          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
-        }
-      ],
-      "duration_ms": 153563,
-      "name": "Sorry c Business",
-      "url": "https://open.spotify.com/track/6n5IeMTNWr4c1UKgiFjM90"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "rien de saint",
         "url": "https://open.spotify.com/album/7Kyu0i8EgPWd3IXT5uTaHk"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 172000,
       "name": "oh nah",
       "url": "https://open.spotify.com/track/04kfi5mfD3h30yGWp2PF7r"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "SORRY C BUSINESS",
+        "url": "https://open.spotify.com/album/31HGOeBqPSjku2sL21UMgg"
+      },
+      "artists": [
+        {
+          "name": "Yellow Rice",
+          "url": "https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD"
+        },
+        {
+          "name": "d\u00f8nnyr2k\u00e9bb",
+          "url": "https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a"
+        }
+      ],
+      "duration_ms": 153563,
+      "name": "Sorry c Business",
+      "url": "https://open.spotify.com/track/6n5IeMTNWr4c1UKgiFjM90"
     },
     {
       "added_at": "2026-08-07 04:03:10",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
+        "name": "Zizou",
+        "url": "https://open.spotify.com/album/6cVeWJqnfuEpHlGJCHDU4G"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        },
+        {
+          "name": "DODOZ",
+          "url": "https://open.spotify.com/artist/0sbr6QCzSofwuoVyLSURqn"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Zizou",
+      "url": "https://open.spotify.com/track/1L0ReG0kmjMfBZHAKz6Kok"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
         "name": "Fanta",
         "url": "https://open.spotify.com/album/27ShQy2DlLSofOukxfzHtU"
       },
@@ -1319,26 +1339,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Zizou",
-        "url": "https://open.spotify.com/album/6cVeWJqnfuEpHlGJCHDU4G"
-      },
-      "artists": [
-        {
-          "name": "S\u2019tano",
-          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
-        },
-        {
-          "name": "DODOZ",
-          "url": "https://open.spotify.com/artist/0sbr6QCzSofwuoVyLSURqn"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Zizou",
-      "url": "https://open.spotify.com/track/1L0ReG0kmjMfBZHAKz6Kok"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "HECTOR",
         "url": "https://open.spotify.com/album/3h7rvIoOGQX50pyPWcGJrO"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-07 04:03:10",
       "album": {
-        "name": "Abeille",
-        "url": "https://open.spotify.com/album/7rXnuzAhTqzz7EiVHTJZsn"
-      },
-      "artists": [
-        {
-          "name": "Jula\u00ef",
-          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Abeille",
-      "url": "https://open.spotify.com/track/3MQRhmb0LfmjKi0WuW93XV"
-    },
-    {
-      "added_at": "2026-08-07 04:03:10",
-      "album": {
         "name": "Blue Volvo",
         "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 169552,
       "name": "Blue Volvo",
       "url": "https://open.spotify.com/track/6vdWn7Pxc4u7om93eXRkfy"
+    },
+    {
+      "added_at": "2026-08-07 04:03:10",
+      "album": {
+        "name": "Abeille",
+        "url": "https://open.spotify.com/album/7rXnuzAhTqzz7EiVHTJZsn"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Abeille",
+      "url": "https://open.spotify.com/track/3MQRhmb0LfmjKi0WuW93XV"
     },
     {
       "added_at": "2026-08-07 04:03:10",

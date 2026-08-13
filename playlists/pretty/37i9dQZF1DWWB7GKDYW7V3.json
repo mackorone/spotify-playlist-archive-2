@@ -1,12 +1,12 @@
 {
   "description": "De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer... ",
-  "num_followers": 36893,
+  "num_followers": 36894,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMfE0mdoMIbvYoVeIymHsPpqutH",
+  "snapshot_id": "AAAAABn8oRUcNlihBGgInVHIA4PowVQT",
   "tracks": [
     {
       "added_at": "2026-05-12 09:00:32",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "Passing Through",
-        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
-      },
-      "artists": [
-        {
-          "name": "Chef'Special",
-          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
-        }
-      ],
-      "duration_ms": 215269,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Wolfmother",
         "url": "https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 175666,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "Passing Through",
+        "url": "https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "duration_ms": 215269,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
     },
     {
       "added_at": "2026-05-12 09:00:32",

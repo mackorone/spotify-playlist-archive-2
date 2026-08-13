@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 600219,
+  "num_followers": 600366,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMAvNIslLfaofu3qwfGnW/24MGng",
+  "snapshot_id": "AAAAABnSI+iNV8spVKhxzZjT+DAAQQEy",
   "tracks": [
     {
       "added_at": "2026-08-11 14:10:49",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 112273,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "C\u00f3mo Le Digo",
         "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 226100,
       "name": "C\u00f3mo Le Digo",
       "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 112273,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D"
     },
     {
       "added_at": "2026-08-11 14:10:49",

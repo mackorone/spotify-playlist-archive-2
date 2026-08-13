@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,891 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,883 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 33 | [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 |
 | 34 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
 | 35 | [Enamorada](https://open.spotify.com/track/18qskSnKcANSA5hzpQf2Jv) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Enamorada](https://open.spotify.com/album/6OCzzBiS3G9gQg55C6iYUE) | 2:32 |
-| 36 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
-| 37 | [Una Temporada en el Invierno](https://open.spotify.com/track/2BpSPF4MMl9dgr52nuRsH9) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 3:56 |
-| 38 | [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 |
-| 39 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
+| 36 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
+| 37 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
+| 38 | [Una Temporada en el Invierno](https://open.spotify.com/track/2BpSPF4MMl9dgr52nuRsH9) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 3:56 |
+| 39 | [Te Vi](https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Te Vi](https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp) | 3:25 |
 | 40 | [No va a pasar](https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [No va a pasar](https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T) | 3:31 |
 | 41 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 |
 | 42 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
@@ -64,20 +64,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 54 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 |
 | 55 | [Te Miento \- Al Piano](https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Potra al Piano](https://open.spotify.com/album/39IiI16vrMXz85wT7u5Nyp) | 3:20 |
 | 56 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 |
-| 57 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 |
-| 58 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
-| 59 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
-| 60 | [El Gobierno de China](https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [El Gobierno de China](https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b) | 2:22 |
+| 57 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
+| 58 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 |
+| 59 | [El Gobierno de China](https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [El Gobierno de China](https://open.spotify.com/album/0Ar9uTqPd3flcz9frcMl0b) | 2:22 |
+| 60 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
 | 61 | [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 |
 | 62 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 |
 | 63 | [Mi Religión](https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Un Amoroso Asunto](https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY) | 2:39 |
 | 64 | [PARA VERTE](https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0) | [CATALINA SEGURA](https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx) | [INFRUTESCENCIA](https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm) | 2:19 |
 | 65 | [Sueño Raro](https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Sueño Raro](https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT) | 3:37 |
 | 66 | [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 |
-| 67 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |
-| 68 | [llorando en la luna](https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [llorando en la luna](https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj) | 2:57 |
-| 69 | [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 |
-| 70 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
+| 67 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
+| 68 | [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 |
+| 69 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |
+| 70 | [llorando en la luna](https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [llorando en la luna](https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj) | 2:57 |
 | 71 | [Gris \- En Vivo](https://open.spotify.com/track/1DW06C5KlWPeQTrwDOdmfk) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE) | [El Gris También Es un Color \(En Vivo\)](https://open.spotify.com/album/5SOjXHY4Rxuv0xG9zknnUR) | 3:05 |
 | 72 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
 | 73 | [Otra Manera](https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 |
 | 80 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
 
-Snapshot ID: `AAAAAPjb0x+LvQoOPk5Vx1UdTT57TvCX`
+Snapshot ID: `AAAAAP98Qj54wBsC4NzQzIM9NbkvatDf`

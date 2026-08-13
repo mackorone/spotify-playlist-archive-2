@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-350 songs - 18 hr 11 min
+351 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [In My Mind](https://open.spotify.com/track/1xDoxgBWey42TdlfUMQvof) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [In My Mind](https://open.spotify.com/album/73NqmT9ULMEra22oCQYeNd) | 2:06 | 2025-05-23 |  |
 | [Industria](https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Industria](https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0) | 3:31 | 2023-08-18 | 2023-10-01 |
 | [It's a Fine Day](https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [It's a Fine Day](https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk) | 2:32 | 2023-10-06 |  |
+| [It's Like That](https://open.spotify.com/track/4NxJwtZ01ndD6SVY9QKxt3) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [It's Like That](https://open.spotify.com/album/1u4BoTCoy8Fjbv1RCAQelV) | 3:16 | 2026-08-07 |  |
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-08-22 | 2023-08-27 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 | 2024-04-19 |
 | [J'Adore Techno](https://open.spotify.com/track/4ONkQFkHF5d1d8dEBiN1XD) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Krimsonn](https://open.spotify.com/artist/5AmxhPl99r1cBm9WqrIuyU) | [J'Adore Techno](https://open.spotify.com/album/1dYxpfY1sSzEkbTMBNr5Ar) | 2:06 | 2026-03-27 | 2026-05-02 |
@@ -254,7 +255,7 @@
 | [Pulse](https://open.spotify.com/track/5IWZWLUlFAKT2NJBwnN7NO) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Pulse](https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj) | 1:59 | 2024-11-29 | 2024-12-07 |
 | [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-08-11 | 2023-08-18 |
 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 | 2023-11-10 | 2024-06-08 |
-| [Push It \- Ueberrest Remix](https://open.spotify.com/track/6XZQXS0D9wwI24I3hQZFrw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [Push It \(Ueberrest Remix\)](https://open.spotify.com/album/5uLOMJab207RjQBtayElnE) | 3:34 | 2026-05-01 |  |
+| [Push It \- Ueberrest Remix](https://open.spotify.com/track/6XZQXS0D9wwI24I3hQZFrw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [Push It \(Ueberrest Remix\)](https://open.spotify.com/album/5uLOMJab207RjQBtayElnE) | 3:34 | 2026-05-01 | 2026-08-13 |
 | [Put Your Hands Up](https://open.spotify.com/track/3SEAdzMgWA07duJbbGS0mI) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Put Your Hands Up](https://open.spotify.com/album/57gISdh88rRrVUiA19CQlU) | 2:51 | 2025-12-05 |  |
 | [Pyramid Rave](https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Pyramid Rave / Feel The Energy](https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR) | 2:36 | 2024-07-12 | 2024-11-11 |
 | [Rapture](https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [The Bossline](https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE) | [Rapture](https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs) | 2:26 | 2023-11-17 | 2024-06-07 |

@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 58 | [OUTSIDE ALL SUMMER](https://open.spotify.com/track/4VreDYwSxLuxATdvW975On) | [Joseph Chilliams](https://open.spotify.com/artist/6lirZ0ouvh4l3fz3HSnIwi), [Frsh Waters](https://open.spotify.com/artist/14hFXWA8giW96HpYkTxywX), [Tru](https://open.spotify.com/artist/51Y9uMxhciB1I5qIAhJs8q) | [OUTSIDE ALL SUMMER](https://open.spotify.com/album/4vhbtuoynRryWO4M7RTmLk) | 2:44 |
 | 59 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 
-Snapshot ID: `AAAAADxCeNhS82Ls5TDwdTYhRTd+HSTI`
+Snapshot ID: `AAAAAM5zvL/DZ6VOR6NSf1datjjvjKy+`

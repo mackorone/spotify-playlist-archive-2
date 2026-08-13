@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-810 songs - 1 day 15 hr 7 min
+811 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Don't Care](https://open.spotify.com/track/1t6yJs1WSeetp1OdFf9oHJ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:11 | 2025-05-16 | 2025-06-28 |
 | [Don't Let Me Down](https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh) | 3:04 | 2023-10-13 | 2024-02-22 |
 | [Don't Let Me Down](https://open.spotify.com/track/60MtVesSSqlEdtEgBWex6F) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Don't Let Me Down](https://open.spotify.com/album/46gG6qQ1sqqBIGdRDPE3FG) | 3:04 | 2024-03-01 | 2024-04-19 |
-| [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 |  |
+| [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 | 2026-02-06 | 2026-08-13 |
 | [Don't Suffer \(feat\. Winny\)](https://open.spotify.com/track/0Wsa980EcwCu3CaEbJ5Cdl) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Wahala Princess](https://open.spotify.com/album/36UBYDg9LwiVNSClAGPcc2) | 2:40 | 2026-03-20 | 2026-04-17 |
 | [Done With Talking](https://open.spotify.com/track/4Ml0dbQwZ8DCQFqp7Zir1K) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9), [Skondtrack](https://open.spotify.com/artist/4mqRl2NpY6gEtKLDzSRJQZ) | [Done With Talking](https://open.spotify.com/album/2YMPntxNoTghXrBpV8Acpi) | 3:00 | 2024-04-26 | 2024-05-15 |
 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 | 2025-11-14 | 2025-12-19 |
@@ -343,6 +343,7 @@
 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 | 2024-07-05 | 2025-07-05 |
 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 | 2025-07-18 | 2026-07-10 |
 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 | 2025-11-28 |  |
+| [International Collector](https://open.spotify.com/track/3loWkeEtVnG0RoJjkzm760) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [International Collector / Oz.](https://open.spotify.com/album/3HEIDd1ULSIGXLySINdbaK) | 1:55 | 2026-08-07 |  |
 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 | 2026-06-19 |  |
 | [Isn't It Beautiful](https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Isn't It Beautiful](https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK) | 2:36 | 2026-04-17 | 2026-05-22 |
 | [It’s Giving Summer](https://open.spotify.com/track/6yED7TjsAgeiuduj9D9yyj) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [It’s Giving Summer](https://open.spotify.com/album/0HDY9BIPgbOLbF2dgeEVPi) | 2:36 | 2023-06-16 | 2023-07-29 |

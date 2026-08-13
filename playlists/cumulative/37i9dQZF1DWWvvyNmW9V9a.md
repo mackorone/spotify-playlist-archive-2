@@ -2,9 +2,9 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> it's chuck o'clock
+> a never ending midnight somb
 
-2,775 songs - 6 day 0 hr 27 min
+2,776 songs - 6 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1583,6 +1583,7 @@
 | [Middle Of The Night](https://open.spotify.com/track/7dE6CFpsyBMHnC9OgEwDN2) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Middle Of The Night](https://open.spotify.com/album/01rdnuF8355WShHCdipdtG) | 2:41 | 2024-02-16 | 2024-03-16 |
 | [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-27 | 2024-10-19 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-28 | 2022-12-10 |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-08-12 |  |
 | [MILK OF THE SIREN](https://open.spotify.com/track/1AUyzuh7CIr1yDYPTOgQQL) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS \(Deluxe\)](https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg) | 4:25 | 2023-04-05 | 2023-05-01 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-04-27 | 2024-09-24 |
 | [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-16 | 2025-05-31 |

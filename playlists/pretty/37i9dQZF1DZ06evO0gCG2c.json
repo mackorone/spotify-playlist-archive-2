@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 345429,
+  "num_followers": 345473,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABngHTdNNemr3NC9b6wr/Ku",
+  "snapshot_id": "anpmAAAAAABA0xV3IPpf18Cdze74boxG",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strength & Loyalty",
+        "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 287480,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lottery",
         "url": "https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 185333,
       "name": "Boom Body",
       "url": "https://open.spotify.com/track/2FIGowzgXPaIuZhcFNdT2P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strength & Loyalty",
-        "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 287480,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4"
     },
     {
       "added_at": null,

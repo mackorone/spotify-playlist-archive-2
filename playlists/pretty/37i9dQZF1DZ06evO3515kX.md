@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3515kX.md) - [plain]
 | 33 | [C' Mon \- Live In Tokyo Japan, 1977](https://open.spotify.com/track/4wCRQHZSGTfQ1evOYpaxGT) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Live In Japan](https://open.spotify.com/album/0q2VqAWnXR3RGRXdMMMv2O) | 4:13 |
 | 34 | [Rock And Roll \- Live](https://open.spotify.com/track/7ceetu1BbvkNuVasWaJNpv) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [Gotta Be Free \(Live Cleveland '76\)](https://open.spotify.com/album/1LWpbvccD3kpQQZcNzMb09) | 4:09 |
 
-Snapshot ID: `ankUgAAAAABgLfyadVCHzj1rLyuag7Yw`
+Snapshot ID: `anpmAAAAAABLLN4MF/aFSWDAQMKYARC8`

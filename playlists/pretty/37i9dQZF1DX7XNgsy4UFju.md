@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ This Is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,473 likes - 97 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,468 likes - 97 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 96 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 97 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 
-Snapshot ID: `AAAAAEOtWgKH8zRgso5NRmDJavx5pANF`
+Snapshot ID: `AAAAAAbiGgAqiCrYVQ9UZb9iyGsbFA44`

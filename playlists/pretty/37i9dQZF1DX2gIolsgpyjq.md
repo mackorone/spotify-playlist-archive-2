@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: muuk
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,013 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,026 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [HOPEFULLY](https://open.spotify.com/track/4DeG0tQuzMh4FsXWrx3cMR) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [HOPEFULLY](https://open.spotify.com/album/5rQwkqb164tcVJlaG5nmlE) | 2:16 |
 | 50 | [The Arms Of You](https://open.spotify.com/track/37FTd4rCyFV9qLmxlF0fFY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [The Arms Of You](https://open.spotify.com/album/549YvrnPbw6IUBBqJzhH43) | 2:50 |
 
-Snapshot ID: `AAAAAMHccYbK8lvvJJL1Fv1enP9dOYmg`
+Snapshot ID: `AAAAADVKBTO6xtTmXcAp0PYafsxzmcIQ`

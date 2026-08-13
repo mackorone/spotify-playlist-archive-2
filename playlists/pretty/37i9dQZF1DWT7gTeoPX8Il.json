@@ -1,12 +1,12 @@
 {
   "description": "layan je",
-  "num_followers": 171174,
+  "num_followers": 171209,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIX8UFPAvcpFALoSlTLgNvpuUGZZ",
+  "snapshot_id": "AAAAACCDt+rzZNqAAS/12zrluCrJTDWX",
   "tracks": [
     {
       "added_at": "2026-07-17 07:14:07",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Berdamai",
-        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 255599,
-      "name": "Terima Kasih Sudah Bertahan",
-      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
         "name": "Pendampingmu #TahtaHatiku",
         "url": "https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 244666,
       "name": "Pendampingmu #TahtaHatiku",
       "url": "https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
+        "name": "Berdamai",
+        "url": "https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 255599,
+      "name": "Terima Kasih Sudah Bertahan",
+      "url": "https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -419,18 +419,22 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Hafiz",
-        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
+        "name": "Lagu Pernikahan Kita",
+        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
       },
       "artists": [
         {
-          "name": "Hafiz Suip",
-          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
         }
       ],
-      "duration_ms": 263480,
-      "name": "Bahagiamu Deritaku",
-      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
+      "duration_ms": 261476,
+      "name": "Lagu Pernikahan Kita",
+      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -451,22 +455,18 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Lagu Pernikahan Kita",
-        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
+        "name": "Hafiz",
+        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
         }
       ],
-      "duration_ms": 261476,
-      "name": "Lagu Pernikahan Kita",
-      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
+      "duration_ms": 263480,
+      "name": "Bahagiamu Deritaku",
+      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -591,18 +591,18 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Sampai Menutup Mata",
-        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+        "name": "Menunggumu Sampai Akhir Hidup",
+        "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
       },
       "artists": [
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+          "name": "Shanna Shannon",
+          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
         }
       ],
-      "duration_ms": 248666,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+      "duration_ms": 251298,
+      "name": "Menunggumu Sampai Akhir Hidup",
+      "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -623,18 +623,18 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Menunggumu Sampai Akhir Hidup",
-        "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
+        "name": "Sampai Menutup Mata",
+        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
       },
       "artists": [
         {
-          "name": "Shanna Shannon",
-          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
         }
       ],
-      "duration_ms": 251298,
-      "name": "Menunggumu Sampai Akhir Hidup",
-      "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
+      "duration_ms": 248666,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
+        "name": "Tak Adil",
+        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 188012,
+      "name": "Tak Adil",
+      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
+    },
+    {
+      "added_at": "2026-07-17 07:14:07",
+      "album": {
         "name": "Katakan Saja",
         "url": "https://open.spotify.com/album/6Jc1f9u2q0sIe3xwvZeRCH"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2026-07-17 07:14:07",
       "album": {
-        "name": "Tak Adil",
-        "url": "https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K"
+        "name": "Kata",
+        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
       },
       "artists": [
         {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 188012,
-      "name": "Tak Adil",
-      "url": "https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V"
+      "duration_ms": 220083,
+      "name": "Kata",
+      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
     },
     {
       "added_at": "2026-07-17 07:14:07",
@@ -835,22 +851,6 @@
       "duration_ms": 220649,
       "name": "Sumpah Mati",
       "url": "https://open.spotify.com/track/4WIh0MLodej2ts8EDBhLGU"
-    },
-    {
-      "added_at": "2026-07-17 07:14:07",
-      "album": {
-        "name": "Kata",
-        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
-      },
-      "artists": [
-        {
-          "name": "Rizky Febian",
-          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
-        }
-      ],
-      "duration_ms": 220083,
-      "name": "Kata",
-      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
     },
     {
       "added_at": "2026-07-17 07:14:07",

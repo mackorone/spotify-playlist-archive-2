@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,217 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,219 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 48 | [Bernskan](https://open.spotify.com/track/42l2RMDpR6dKE8SSUzxdiG) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sátt](https://open.spotify.com/album/5MKoXI1asA8qMwmnPB4QHF) | 3:30 |
 | 49 | [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 |
 
-Snapshot ID: `AAAAAOTkDtCo6EC+g1JEay6H1hOED/wU`
+Snapshot ID: `AAAAAE4wNgSd819czZ27eX49obrrWAdp`

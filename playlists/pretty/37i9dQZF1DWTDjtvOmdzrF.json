@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556858,
+  "num_followers": 556848,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFXqen2btmne3MEkJSp0xVcNQ5sF",
+  "snapshot_id": "AAAAACixTjQK3dOb24IbsGUIz4kxXz9s",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:13",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Tampar",
-        "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 202824,
-      "name": "Tampar",
-      "url": "https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "Tuhan Sebut Sia-Sia",
         "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 317453,
       "name": "Tuhan Sebut Sia-Sia",
       "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Tampar",
+        "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 202824,
+      "name": "Tampar",
+      "url": "https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "keepyousafe",
-        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
-      },
-      "artists": [
-        {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
-        }
-      ],
-      "duration_ms": 261673,
-      "name": "keepyousafe",
-      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "semua, semua.",
         "url": "https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 201479,
       "name": "Kembalikanku",
       "url": "https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "keepyousafe",
+        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
+      },
+      "artists": [
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+        }
+      ],
+      "duration_ms": 261673,
+      "name": "keepyousafe",
+      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2026-02-27 14:15:13",

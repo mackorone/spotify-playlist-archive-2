@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 240178,
+  "num_followers": 240266,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADDvAEK0RrgfbQWY6DXscIq",
+  "snapshot_id": "anpmAAAAAACvJWALK8Azyjo8w1iyrfnr",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
@@ -100,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Look at My Life",
-      "url": "https://open.spotify.com/track/4Yf6QS1hjFWT1qMqvpzNcK"
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/61Oyg0lrAOMjBpEStqfOZ1"
     },
     {
       "added_at": null,
@@ -119,22 +103,6 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
     },
     {
       "added_at": null,
@@ -159,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
@@ -168,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 216175,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/5a6p56me3eFdKXcWnsPtLE"
+      "duration_ms": 190533,
+      "name": "Look at My Life",
+      "url": "https://open.spotify.com/track/4Yf6QS1hjFWT1qMqvpzNcK"
     },
     {
       "added_at": null,
@@ -191,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/7ce3IkZzM0jPo2KfB7iDVU"
       },
@@ -223,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
@@ -232,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 215157,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob"
+      "duration_ms": 216175,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/5a6p56me3eFdKXcWnsPtLE"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
       "duration_ms": 245629,
       "name": "I know it won't work",
       "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 243495,
-      "name": "Men Like You",
-      "url": "https://open.spotify.com/track/0rHAvHeAeCDaiZ8cHVefna"
+      "duration_ms": 215157,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/18JiNe32mvOL72aysWL2ob"
     },
     {
       "added_at": null,
@@ -368,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 219645,
-      "name": "Broke My Heart",
-      "url": "https://open.spotify.com/track/0MZClqTDH4zdG8bn9RZLLP"
+      "duration_ms": 243495,
+      "name": "Men Like You",
+      "url": "https://open.spotify.com/track/0rHAvHeAeCDaiZ8cHVefna"
     },
     {
       "added_at": null,
@@ -391,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 229162,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
       },
@@ -423,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 229162,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daughter from Hell",
         "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 171585,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5zMEt1dvOpGKaQVAWGFVfe"
+      "duration_ms": 219645,
+      "name": "Broke My Heart",
+      "url": "https://open.spotify.com/track/0MZClqTDH4zdG8bn9RZLLP"
     },
     {
       "added_at": null,

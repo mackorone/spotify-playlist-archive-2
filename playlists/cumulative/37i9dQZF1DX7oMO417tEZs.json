@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da A curated space for the avant-garde\u22c6 \u02da\u208a\u2027\u207a Cover: Arca",
+  "description": "\u207a\u2027\u208a\u02da A curated space for the avant-garde\u22c6 \u02da\u208a\u2027\u207a Cover: underscores",
   "name": "Proto-",
   "tracks": [
     {
@@ -34594,6 +34594,24 @@
       "duration_ms": 377999,
       "name": "the ordinary is ordinary because it ordinarily repeats",
       "url": "https://open.spotify.com/track/4o3MqrMKZnku8PZTVZEPeR"
+    },
+    {
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "The Peace",
+      "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
     },
     {
       "album": {

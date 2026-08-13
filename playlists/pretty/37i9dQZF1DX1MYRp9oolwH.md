@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Srinivasa Mangapuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,306 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,307 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Kamsahamnida \(From "Korean Kanakaraju"\)](https://open.spotify.com/album/0dPSyFZAgD9WtDVIHujBc5) | 3:13 |
 | 50 | [Manga Manga \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/track/32igh3Hc2LXrFU2BxOTRuC) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Manga Manga \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/album/6qlNqqctixLvmk07Rnr3qU) | 3:05 |
 
-Snapshot ID: `AAAAALO2WqqCQor0tWn/X9Py78T6Bz3r`
+Snapshot ID: `AAAAAC4Cigrn4zrHCqHL/KyEzYuiKPs1`

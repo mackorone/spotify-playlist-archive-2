@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,741 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,823 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 31 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 | 32 | [Pitbull](https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s) | [Mad Dogz](https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP), [Lowderz](https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq) | [Pitbull](https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE) | 2:42 |
 | 33 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 |
-| 34 | [Baile DF](https://open.spotify.com/track/6DN8RUpeHortTh008NC7GT) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Adame DJ](https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy), [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05), [MC DA FRANÇA](https://open.spotify.com/artist/2V9ch5D3H4ERAENaVmfEgb) | [Baile DF](https://open.spotify.com/album/12Nv07jCBifBnGeCNRzk5d) | 3:05 |
-| 35 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 |
+| 34 | [One Million](https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [LOTTEN](https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D) | [One Million](https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA) | 3:07 |
+| 35 | [Baile DF](https://open.spotify.com/track/6DN8RUpeHortTh008NC7GT) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Adame DJ](https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy), [Thalia Abdon](https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05), [MC DA FRANÇA](https://open.spotify.com/artist/2V9ch5D3H4ERAENaVmfEgb) | [Baile DF](https://open.spotify.com/album/12Nv07jCBifBnGeCNRzk5d) | 3:05 |
 | 36 | [Doin Nottin](https://open.spotify.com/track/54J48WdbKeNTLBtBluuGcK) | [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U), [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Doin Nottin](https://open.spotify.com/album/0wQMycZ8ZsoRJDkKZdvpTQ) | 2:26 |
 | 37 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
 | 38 | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 49 | [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 |
 | 50 | [Won't Back Down](https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Won't Back Down](https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII) | 2:45 |
 
-Snapshot ID: `AAAAAL3ZSzzW4AbkPqGVW2uuHWJjZLKB`
+Snapshot ID: `AAAAAO8hTyKoBREtnIEFy0Kw4detbpUe`

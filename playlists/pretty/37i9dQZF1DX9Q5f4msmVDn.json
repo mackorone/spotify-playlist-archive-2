@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJoaQ3dLJFaPBie31cbIaJgny1NW",
+  "snapshot_id": "AAAAAEVnZUEqyRbEV165NhjYFLk0WvXC",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -171,26 +171,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Free Nationals",
-        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
-      },
-      "artists": [
-        {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
-        },
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 193740,
-      "name": "Eternal Light",
-      "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 361280,
       "name": "Double Up (feat. Belly and Dom Kennedy)",
       "url": "https://open.spotify.com/track/4iVD0fTHGxV9JWloujsL3s"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Free Nationals",
+        "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
+      },
+      "artists": [
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 193740,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
     },
     {
       "added_at": "2022-10-01 16:00:00",

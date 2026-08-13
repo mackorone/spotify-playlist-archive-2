@@ -1,12 +1,12 @@
 {
   "description": "This is Sick Of It All. The essential tracks, all in one playlist.",
-  "num_followers": 8112,
+  "num_followers": 8115,
   "original_name": "This Is Sick Of It All",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACFxe+GW0+YpZ30jOsMW2gs",
+  "snapshot_id": "anpmAAAAAAATIx36ca4vBaBOTtbzUHIR",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/31k142dr62jiftXxOnjmfF"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 134906,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6ObOBjkmMjYUa9SybDUVMD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood, Sweat & No Tears",
         "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 115026,
       "name": "Breeders of Hate",
       "url": "https://open.spotify.com/track/3NhIHP6C9fp7STYbpFwkPL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/31k142dr62jiftXxOnjmfF"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 134906,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6ObOBjkmMjYUa9SybDUVMD"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death To Tyrants",
-        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 123906,
-      "name": "Machete",
-      "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood, Sweat & No Tears",
         "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 108266,
       "name": "Clobberin' Time / Pay the Price",
       "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death To Tyrants",
+        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 123906,
+      "name": "Machete",
+      "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call to Arms",
-        "url": "https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Potential for a Fall",
-      "url": "https://open.spotify.com/track/5g6A50hVooexlUrhanaLWY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Look Around",
         "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
       },
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Based On A True Story",
-        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
+        "name": "Call to Arms",
+        "url": "https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU"
       },
       "artists": [
         {
@@ -612,25 +596,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Death Or Jail",
-      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake The Sleeping Dragon!",
-        "url": "https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 58093,
-      "name": "Self Important Shithead",
-      "url": "https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ"
+      "duration_ms": 148800,
+      "name": "Potential for a Fall",
+      "url": "https://open.spotify.com/track/5g6A50hVooexlUrhanaLWY"
     },
     {
       "added_at": null,
@@ -651,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake The Sleeping Dragon!",
+        "url": "https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 58093,
+      "name": "Self Important Shithead",
+      "url": "https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just Look Around",
         "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
       },
@@ -663,6 +647,38 @@
       "duration_ms": 156826,
       "name": "The Shield",
       "url": "https://open.spotify.com/track/5lvwWeseoP8J62xwRx4pug"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Based On A True Story",
+        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Death Or Jail",
+      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sick Of It All",
+        "url": "https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 73226,
+      "name": "N.S./My Revenge",
+      "url": "https://open.spotify.com/track/6MxlzQlmyJqQmzkeFt83Wn"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sick Of It All",
-        "url": "https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 73226,
-      "name": "N.S./My Revenge",
-      "url": "https://open.spotify.com/track/6MxlzQlmyJqQmzkeFt83Wn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Look Around",
         "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake The Sleeping Dragon!",
-        "url": "https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 99680,
-      "name": "To the Wolves",
-      "url": "https://open.spotify.com/track/5XoMAlcT3hfacpbGofD9v8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Act of Defiance",
         "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 162945,
       "name": "DNC",
       "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake The Sleeping Dragon!",
+        "url": "https://open.spotify.com/album/0a3peoydFvzUOVj0N5deVv"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 99680,
+      "name": "To the Wolves",
+      "url": "https://open.spotify.com/track/5XoMAlcT3hfacpbGofD9v8"
     },
     {
       "added_at": null,

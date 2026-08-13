@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
-140 songs - 10 hr 5 min
+141 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Chitti Nadumune](https://open.spotify.com/track/4NugyVw9Of2Z4uyBXf33tX) | [Mallikarjun](https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2) | [Gudumba Shankar](https://open.spotify.com/album/330aGp8Rl5dhqKoPRsY203) | 5:54 | 2022-10-13 |  |
 | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/track/6KUAJvrLISj8EytPvGu7Yu) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/album/0aSxprg9rrJscWulKritHu) | 5:41 | 2023-07-25 |  |
 | [Ek Baar](https://open.spotify.com/track/7KWksSySkwqGS3vo59yygt) | [Dsp](https://open.spotify.com/artist/2TxDLvRVA0F4LAIyqakei7), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Vinaya Vidheya Rama](https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF) | 4:19 | 2021-10-21 | 2022-10-14 |
-| [Ekkada Ekkada](https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Murari](https://open.spotify.com/album/5JedwC5U716Hg3pUANEtVu) | 6:11 | 2022-10-13 |  |
+| [Ekkada Ekkada](https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Murari](https://open.spotify.com/album/5JedwC5U716Hg3pUANEtVu) | 6:11 | 2022-10-13 | 2026-08-13 |
 | [Ekkada Ekkada](https://open.spotify.com/track/67SWVPZ6zeQKOKpGKGSt4q) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Shining Star Mahesh Babu](https://open.spotify.com/album/1wYhaHt2MCRTk5VmgAXp5N) | 6:11 | 2022-10-13 | 2023-02-26 |
 | [Ekkada Ekkada](https://open.spotify.com/track/7CwwtSBeTSglx1kDJ6owQ2) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Murari](https://open.spotify.com/album/6kl5gAF0jqGb9iKdLVGBHr) | 6:11 | 2022-10-13 | 2024-04-19 |
 | [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 | 2022-10-13 |  |
@@ -91,6 +91,7 @@
 | [Nee Kallalona](https://open.spotify.com/track/1TbAX8IybA1SCy4z4rNTpn) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 3:55 | 2021-10-21 | 2022-10-14 |
 | [Nee Kannu Neeli Samudram \- Telugu](https://open.spotify.com/track/1C9SYGI40nNYh98gN87Fwr) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Uppena](https://open.spotify.com/album/0vHE0cmA8orbBgzIWz9T3D) | 5:12 | 2022-10-13 |  |
 | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/track/0Vjckx1G9Nt1S4GVfVKEdo) | [Gowtham Bharadwaj](https://open.spotify.com/artist/4iPWkK6w5BekqTgXcg8f7L), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Nee Neeli Kannullona \(From "Dear Comrade"\)](https://open.spotify.com/album/3RcUaHobHgt8eRQY7fPADf) | 2:26 | 2021-10-21 | 2023-11-09 |
+| [Neela Poori](https://open.spotify.com/track/48COQEa9dLJBadH5EO9VwB) | [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Mahathma](https://open.spotify.com/album/5Lcs851etHK2DXWPKAKncp) | 3:36 | 2026-08-12 |  |
 | [Ninnila](https://open.spotify.com/track/5a7RaYvPiV2ThtSqpS2m4x) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Toliprema \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7e5Uy5EuxnoNIhiq1OJ9PQ) | 3:54 | 2021-10-21 | 2022-07-29 |
 | [Ninnila](https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Tholi Prema](https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb) | 3:54 | 2021-10-21 | 2022-10-14 |
 | [Ninnu Chudagaane](https://open.spotify.com/track/1E5zyR7GT3PKjH3cqhVXVf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 5:31 | 2022-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234171,
+  "num_followers": 234167,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANckt7MUOGg1Pfw5TNEDgcmOKIlF",
+  "snapshot_id": "AAAAAAyxPXESOnlYXeWcEeGErr4WPbtE",
   "tracks": [
     {
       "added_at": "2026-06-18 23:01:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C"
       },
       "artists": [
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "Soft Launch",
+          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
         }
       ],
-      "duration_ms": 189905,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
+      "duration_ms": 242757,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Dinosaur",
-        "url": "https://open.spotify.com/album/6jWXZ0gJSVxUppa1zEsn6C"
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
       "artists": [
         {
-          "name": "Soft Launch",
-          "url": "https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 242757,
-      "name": "Dinosaur",
-      "url": "https://open.spotify.com/track/6bJyGzdTAeUm5MUBJRQowK"
+      "duration_ms": 189905,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240508,
-      "name": "JUPiTER",
-      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "For Mary",
         "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 259751,
       "name": "Mary",
       "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240508,
+      "name": "JUPiTER",
+      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "unposted letters",
-        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 205230,
-      "name": "unposted letters",
-      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "strongboi",
         "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 243206,
       "name": "flame",
       "url": "https://open.spotify.com/track/02jhBMmYb4HHlrDP4kPp6f"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "unposted letters",
+        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 205230,
+      "name": "unposted letters",
+      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 204202,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/6FrjprlGLkS4u8x6Y5uTPG"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 182624,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/1lTJTWRQtYT9bVYcD5tiHn"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb"
+      },
+      "artists": [
+        {
+          "name": "Swapmeet",
+          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
+        }
+      ],
+      "duration_ms": 204202,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Lover (Don\u2019t Let Me Down)",
         "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 250794,
       "name": "Lover (Don't Let Me Down)",
       "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
+      },
+      "artists": [
+        {
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
+        }
+      ],
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Prime Corner",
         "url": "https://open.spotify.com/album/3A8uXIiJbiHupbZsJicvRn"
       },
@@ -1647,26 +1663,6 @@
       "duration_ms": 197779,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Reach Out / Olympus",
-        "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 223344,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Philippines](https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1)
 
-> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Ian Penn\]\. Artwork: Isu Kim.
+> The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[AEUNA\]\. Artwork: Isu Kim.
 
-4,133 songs - 10 day 1 hr 28 min
+4,139 songs - 10 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [5 AM](https://open.spotify.com/track/5wWAQwh2tVGy9gQE5Mt3Bf) | [VID](https://open.spotify.com/artist/5mtu6plEC7sUWGo68fi6q1) | [5 AM](https://open.spotify.com/album/61rDRvw7Y3xS4qjtGR6otF) | 2:05 | 2023-09-28 | 2023-10-24 |
 | [5012](https://open.spotify.com/track/775jNb2eWx1cID6GQ6eObG) | [Space\-Ta](https://open.spotify.com/artist/4LKfZyQ8hPWDNuOLw6tMVl) | [5012](https://open.spotify.com/album/1gDJ5KUtBsvz2bFLMMIKLv) | 6:26 | 2026-05-06 | 2026-07-09 |
 | [5050](https://open.spotify.com/track/50iElIXT7KIJDDCE5SK0TJ) | [JASTENN](https://open.spotify.com/artist/5svCxcD5y6knncM1lSlAgM) | [5050](https://open.spotify.com/album/3oazuCUqNcwJXNbLCDLga6) | 3:14 | 2026-01-15 | 2026-03-20 |
+| [5AM](https://open.spotify.com/track/4eyEuejVygsDJbOlDVIiwF) | [Monty Gi](https://open.spotify.com/artist/2TBFowoG8SRg9opiTfO5r9) | [5AM](https://open.spotify.com/album/6tJLNtMiKLl8tSBTrNRudw) | 3:10 | 2026-08-12 |  |
 | [5IN5](https://open.spotify.com/track/0VAmVvZPUxBmiZVHVwWB9x) | [NAIV](https://open.spotify.com/artist/20slUJYsGQ6lecW91DROiN) | [5IN5](https://open.spotify.com/album/4sqxlnkK4EB9CQatBh6Dfi) | 2:34 | 2022-05-05 | 2022-06-17 |
 | [5traws](https://open.spotify.com/track/3YKEOeOgoLpaM1mOMMjMUM) | [MAGE](https://open.spotify.com/artist/0vhbTpMY6YaoSPlLyWO0JV) | [5traws](https://open.spotify.com/album/06OcVD1DU4ewL2Lu2FZGID) | 3:16 | 2023-03-16 | 2024-01-12 |
 | [5treyhunnid](https://open.spotify.com/track/61kAxwXW7Ij3yni3IVdNQn) | [Vikrum](https://open.spotify.com/artist/0FxkilnyBBr1YSZtmWSRhc) | [5treyhunnid](https://open.spotify.com/album/29yNHQzdHarO2lTNtQZpal) | 3:30 | 2026-01-22 | 2026-03-13 |
@@ -1518,6 +1519,7 @@
 | [Honeydew](https://open.spotify.com/track/0LzHboDLyVCxMAb4Hcebie) | [Rycess](https://open.spotify.com/artist/0YyWewAYP0lImXtNMUloWk) | [Honeydew](https://open.spotify.com/album/2MPsMuNgtmPCez8P3laBYD) | 2:16 | 2023-06-29 | 2023-07-14 |
 | [hopelessly romantic](https://open.spotify.com/track/6U8sbYPndRcVe5NUM5SF01) | [Athena Gail](https://open.spotify.com/artist/7B2olqCA3cYn1IrKE13V5F) | [hopelessly romantic](https://open.spotify.com/album/48MhspbOohw6r63rSwwBbA) | 2:37 | 2024-08-23 | 2025-01-17 |
 | [Hopia](https://open.spotify.com/track/2dGWAXuxULnH0sFkfnntBB) | [Ynah Bautista](https://open.spotify.com/artist/63c4CsAnR3z3QFzEm0Lzzc) | [Hopia](https://open.spotify.com/album/7JZVZUJIA9861ojFTXJBgd) | 5:38 | 2025-11-27 | 2025-12-04 |
+| [Hoping](https://open.spotify.com/track/2qO7n9wGJP7eZDS0kUurVM) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y) | [Hoping](https://open.spotify.com/album/5E048utnRTEf4Vvfqqv4h5) | 3:51 | 2026-08-12 |  |
 | [Horizon](https://open.spotify.com/track/4msXqfubQxEvF4ooCU2mAV) | [Cydel](https://open.spotify.com/artist/17BHZBOCKQZpUISW5h1qiU), [Marc Fichel](https://open.spotify.com/artist/2TGGjdRcepSJLfwg6YB9Zl) | [Horizon](https://open.spotify.com/album/0EoRwIxg4S1rrq7gnyTSWf) | 3:28 | 2022-07-28 | 2022-09-09 |
 | [Hot Coffee](https://open.spotify.com/track/6E3HWs7xAoCRGxegWDuIan) | [LYNDE](https://open.spotify.com/artist/6ynab8zRwxH5J3EBWnWAc4) | [Hot Coffee](https://open.spotify.com/album/5pKqRvcYKSq8w1dDPZvHBi) | 4:24 | 2023-02-16 | 2024-01-12 |
 | [Hot Maria Clara](https://open.spotify.com/track/6N9GWoGVnaU4v34zXXusQ7) | [Sanya Lopez](https://open.spotify.com/artist/2a6QUNiSghqAzg1sZ621vq) | [Hot Maria Clara](https://open.spotify.com/album/0hq7NRkLIIp1SUY1UMH70z) | 2:52 | 2022-07-14 | 2023-01-13 |
@@ -2986,6 +2988,7 @@
 | [Pretty Girls on the Run](https://open.spotify.com/track/7a1dEhhi7qQTCLtffaQrwx) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y) | [Pretty Girls on the Run](https://open.spotify.com/album/2pGP0eL5owjxyrvHmb3u0Y) | 3:01 | 2025-11-20 | 2026-03-06 |
 | [Pretty Lady](https://open.spotify.com/track/3B32HlnTLM2sqSYsUWtRNA) | [BabyDraco](https://open.spotify.com/artist/4OT6Ai52nAOe20SXsDoXSI) | [Pretty Lady](https://open.spotify.com/album/5vfeq5PLKpJkdj3ycehfts) | 2:10 | 2024-11-22 | 2025-02-28 |
 | [Pretty Like a Boy](https://open.spotify.com/track/6PbuIO5SHleVkognLZ8ukj) | [SABINE](https://open.spotify.com/artist/5AOCgEaRP9XukUTstJizDz) | [Pretty Like a Boy](https://open.spotify.com/album/7iUUvv7bqBaCr2prhSEcy5) | 3:54 | 2025-08-21 | 2025-11-21 |
+| [PRETTY LITTLE LIARS](https://open.spotify.com/track/0E2DkvSSuhwlJC9ULLBVoj) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [PRETTY LITTLE LIARS](https://open.spotify.com/album/5rsTESLWr1k0UleE7C21AA) | 2:21 | 2026-08-12 |  |
 | [Pretty Morena](https://open.spotify.com/track/65ATzvXTFLjNQn9cWeAsKO) | [Treylow](https://open.spotify.com/artist/1WTi529mePUVVuHfZNp4Jp) | [Pretty Morena](https://open.spotify.com/album/3ZLxsmPLnvPC5QrIDKlWuV) | 3:30 | 2023-11-16 | 2024-01-26 |
 | [pretty nostalgia](https://open.spotify.com/track/4ztlpZcQZ9B8PSLAzLwkj5) | [Renzo Sy](https://open.spotify.com/artist/4rfbCfMiXIqYNOII8JJFbB) | [singles for pringles](https://open.spotify.com/album/36IkSOdQIhxbyEknf6Dpk1) | 3:25 | 2023-07-13 | 2023-07-28 |
 | [prettyface \(freestyle\)](https://open.spotify.com/track/5WVrEUxOlaoreKY8h5kr1n) | [Prettyboy Russell](https://open.spotify.com/artist/6JROhO8hLJ0Xb4jtsB1fi2) | [prettyface \(freestyle\)](https://open.spotify.com/album/5tv0cvRb7zAlEp4fSRb1hp) | 1:24 | 2025-09-04 | 2025-11-21 |
@@ -3014,6 +3017,7 @@
 | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/track/5C0qiTrshrTIX39Mghx0qP) | [Jeff Cifra](https://open.spotify.com/artist/1rDZsKJMNkRas9AZRQqwws) | [Pwede Bang Ako Na Lang Ulit](https://open.spotify.com/album/4z7xaGq9T4CcKOFYLpENsH) | 4:14 | 2023-01-26 | 2023-02-17 |
 | [Pwede Naman](https://open.spotify.com/track/22NC5BjfwYYMYoAZcxI16l) | [Fiore](https://open.spotify.com/artist/7pI1QdQKO1uKurPMk8zQe7) | [Pwede Naman](https://open.spotify.com/album/5GE92BTg1HgmbsMeA2e6tb) | 3:36 | 2025-11-13 | 2026-02-06 |
 | [pwede pa ba](https://open.spotify.com/track/4auLi87KJ6J1eeIhkfCxOu) | [EC Orduna](https://open.spotify.com/artist/62ycja55uV9zKY8mw6cdWa) | [pwede pa ba](https://open.spotify.com/album/6BYmCAhbZZRiU3lYVfLJ2d) | 2:47 | 2024-02-08 | 2024-03-01 |
+| [PWEDE PA BA?](https://open.spotify.com/track/6vwucCuEg3nAEh4Y842B9h) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [PWEDE PA BA?](https://open.spotify.com/album/3vWoEer55gRSwALl3OP6vB) | 2:50 | 2026-08-12 |  |
 | [Pyromaniacs](https://open.spotify.com/track/2FRPY3sJbCBIabCqnL5NI7) | [Lindenwood](https://open.spotify.com/artist/4oi2jc0SiVtglXRbQ0qpI0) | [Pyromaniacs](https://open.spotify.com/album/78ZSYak6eEYWv8vgHAYeDb) | 2:31 | 2024-04-11 | 2024-06-01 |
 | [Quarter Life Crisis](https://open.spotify.com/track/4RRPegT5rufbPgN9WAEmoW) | [poetryonherskin](https://open.spotify.com/artist/65ja300pzBSGnFOBYqZ8Kn) | [split](https://open.spotify.com/album/6Zp74ItJkPHgoQ8ZPxCi8j) | 3:49 | 2024-06-20 | 2024-07-27 |
 | [Questions \(feat\. esa\)](https://open.spotify.com/track/04zkmHTyNSYpZiO165b02N) | [Anj](https://open.spotify.com/artist/2FCofcDkDipKOWOKfKV95s), [esa](https://open.spotify.com/artist/32gKPyvVOMrhSCrjDm657c) | [Questions \(feat\. esa\)](https://open.spotify.com/album/4UAVGekWUgUTQHUJivFomM) | 5:30 | 2024-01-18 | 2024-02-16 |
@@ -3406,6 +3410,7 @@
 | [So Good](https://open.spotify.com/track/2m1Ibcep3wRlABiJGE0q4E) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [So Good](https://open.spotify.com/album/0p5BWUp31AWW06oGxplpe6) | 2:24 | 2023-05-18 | 2023-06-02 |
 | [So You Go Out There](https://open.spotify.com/track/5cJwzxSBAdqwQNslRrGUzR) | [Pat's Soundhouse](https://open.spotify.com/artist/11ZPsPERyCMMa4p6qaCFyI) | [Pat's Soundhouse II](https://open.spotify.com/album/4bClRKDyPQMh37wWjGoVHb) | 3:48 | 2023-07-13 | 2023-07-28 |
 | [Sobrang Crazy](https://open.spotify.com/track/0H8VlGbon5eLxmyw8CJihF) | [Lemanzytoe](https://open.spotify.com/artist/0ROvGUQK11AP74f4OzHZw7) | [Sobrang Crazy](https://open.spotify.com/album/1RvoZmWTIn1vCe9X3nSbQJ) | 3:09 | 2024-05-16 | 2024-06-14 |
+| [SOBRANG FLY](https://open.spotify.com/track/6b3yX6hVglGGOBPSmrzRVv) | [cole](https://open.spotify.com/artist/5JoLnpAiiuQQwFD6n3qUmw), [sko](https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw) | [SOBRANG FLY](https://open.spotify.com/album/4LAjpEDosO1DtE8RoFgi3V) | 2:40 | 2026-08-12 |  |
 | [Sobrang kalma](https://open.spotify.com/track/5v9qir0OyJwXJT5dL0YzmT) | [Sheed](https://open.spotify.com/artist/6WqpI59QEG4AJpleDh0wqL) | [Sobrang kalma](https://open.spotify.com/album/0W4VLcqkP3GDw9G8paVfmR) | 3:57 | 2024-05-02 | 2024-06-07 |
 | [Sobrang Sariwa](https://open.spotify.com/track/7k9RHgBfcs7XtIrucoDmBk) | [Luwi](https://open.spotify.com/artist/0xbHD9GWJjzAlVPPfzItTD) | [Omsiman Typashitz](https://open.spotify.com/album/2TYXWKsNFObvfFUPozfZM3) | 3:44 | 2023-06-22 | 2023-07-07 |
 | [Socorro Nights](https://open.spotify.com/track/33QVNXvPGrFZ3wc7gOSYtg) | [JASTENN](https://open.spotify.com/artist/5svCxcD5y6knncM1lSlAgM) | [Socorro Nights](https://open.spotify.com/album/1hvBQK0DfWEwtvXDmcLOvU) | 3:29 | 2024-03-14 | 2024-04-19 |
@@ -3456,6 +3461,7 @@
 | [Stay For A While](https://open.spotify.com/track/1D3TyFjHS8Th31Qo268LIt) | [Krei](https://open.spotify.com/artist/1EVBedRMHOBRFKH4B0gaFI) | [Stay For A While](https://open.spotify.com/album/6cqO7PA9VzFvXUgEktSNYv) | 3:48 | 2023-02-23 | 2023-03-03 |
 | [Stay Golden](https://open.spotify.com/track/6Otgjjo0GVEqC5fGSZ3xuY) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Stay Golden](https://open.spotify.com/album/2ePCRBGUXtbVQXNhUc9Rsw) | 1:54 | 2023-06-08 | 2023-06-23 |
 | [stay in](https://open.spotify.com/track/70czFufZqR6PjtgV1DWoFL) | [Loosh](https://open.spotify.com/artist/4mLTbizOABI4JrciVqYWJb) | [stay in](https://open.spotify.com/album/2aKgceiyZkk4W00aQG0Oda) | 2:30 | 2022-03-10 | 2022-03-25 |
+| [Stay or Go](https://open.spotify.com/track/37Flpbbfq8YgZzDvFdw5jt) | [Leona](https://open.spotify.com/artist/6p0AoaFFGvSBo6ah5wjS2q) | [Stay or Go](https://open.spotify.com/album/1QVQ1y9asdzFgoP0dRDVCj) | 2:44 | 2026-08-12 |  |
 | [STAY STUCK](https://open.spotify.com/track/3tWZaBbCw9za7BmfLvyMPH) | [DAYDREAM](https://open.spotify.com/artist/2faj7edIfsj1CYzYFeoaqp) | [STAY STUCK](https://open.spotify.com/album/5KIxR4dcNEzowMAuq3KmSp) | 3:12 | 2023-06-22 | 2023-07-07 |
 | [Stay the Whole Night](https://open.spotify.com/track/2IW0hvYpJ0mIknsNjTCuaB) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx), [Kiéf](https://open.spotify.com/artist/6mRiRJOn73gL5XXbDQvSuC) | [Stay the Whole Night](https://open.spotify.com/album/2GJDVcSjuz2HypHN6DtMdK) | 3:20 | 2025-09-25 | 2025-12-04 |
 | [Stay This Way](https://open.spotify.com/track/2l1aEKM9s7oKs23EM4M2TE) | [Eptu](https://open.spotify.com/artist/6Nvf6NU0aWICRUxk3tVpXB), [Geuneul](https://open.spotify.com/artist/6uSaCBHrprsu7g60k2pcIW) | [Stay This Way](https://open.spotify.com/album/5DsUfCu6K9nQ3hKy6WFwIb) | 2:47 | 2023-01-19 | 2023-02-17 |

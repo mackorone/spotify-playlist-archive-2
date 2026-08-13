@@ -24571,6 +24571,24 @@
     },
     {
       "album": {
+        "name": "Summer Jazz: Thelonious Monk",
+        "url": "https://open.spotify.com/album/7jdckKq9eMjAnXawjY8JwR"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209480,
+      "name": "Four In One - Alternate Take",
+      "url": "https://open.spotify.com/track/0bHx49sOlTCZTtDCsFYuXr"
+    },
+    {
+      "album": {
         "name": "Lets Poison These Streetz",
         "url": "https://open.spotify.com/album/1eezY8ch0cPHLelHW72FN5"
       },
@@ -33222,7 +33240,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 182520,
       "name": "I Should Care - Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6sYnAVOEFBajsC1kawg9yd"
@@ -33658,7 +33676,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 137984,
       "name": "I Wonder (feat. Phoelix)",
       "url": "https://open.spotify.com/track/23DXnuvmYOezDiKTFSt91l"
@@ -65438,7 +65456,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 163935,
       "name": "Stop Being Late (feat. J. Ivy)",
       "url": "https://open.spotify.com/track/4vi1vMGebwMS8KzumrEPDw"

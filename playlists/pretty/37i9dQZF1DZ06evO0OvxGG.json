@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9675,
+  "num_followers": 9680,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAC46qshSN1R60K+TPCWus5J",
+  "snapshot_id": "anpmAAAAAACWbTCgTfkk9sAq+r4ii8eC",
   "tracks": [
     {
       "added_at": null,
@@ -951,22 +951,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
+        "name": "Outro Som de Sacanagem",
+        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
       },
       "artists": [
         {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+      "duration_ms": 115275,
+      "name": "Outro Som de Sacanagem",
+      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
     },
     {
       "added_at": null,
@@ -999,26 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outro Som de Sacanagem",
-        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
       },
       "artists": [
         {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
         }
       ],
-      "duration_ms": 115275,
-      "name": "Outro Som de Sacanagem",
-      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
     },
     {
       "added_at": null,

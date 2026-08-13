@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,266 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,287 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [El Nazareno](https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr) | 5:36 |
 | 50 | [Comedia](https://open.spotify.com/track/2HEtouKKbiZSOnZJmYj1h0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G) | 3:31 |
 
-Snapshot ID: `AAAAADP2JLo2/Ru30nYk+MBO5YQtO9i0`
+Snapshot ID: `AAAAAGfilKeYbxLJ3JYzLCSYG1684vNa`

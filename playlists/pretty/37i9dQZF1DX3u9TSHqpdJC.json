@@ -1,13 +1,141 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Sophia Willingham & Elisheva Artwork by Paola Saliby",
-  "num_followers": 242193,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Ami Cheon Artwork by Paola Saliby",
+  "num_followers": 242192,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZJKNVkSjRfi/6DqVE24KywqVOS",
+  "snapshot_id": "AAAAAHMD3RhWvaYM2+BIgxMFWk82+kt3",
   "tracks": [
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "aries baby",
+        "url": "https://open.spotify.com/album/1YCbcLx3eScz9BGs7camuS"
+      },
+      "artists": [
+        {
+          "name": "Ami Cheon",
+          "url": "https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb"
+        }
+      ],
+      "duration_ms": 152014,
+      "name": "aries baby",
+      "url": "https://open.spotify.com/track/6j6NzyRcYOQBHl4ZXNEYyP"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "feelers",
+        "url": "https://open.spotify.com/album/00lY3S9VQS87lbDYv8xZkx"
+      },
+      "artists": [
+        {
+          "name": "favourite daughter",
+          "url": "https://open.spotify.com/artist/5adUhor66Yv7p08ReRM8Nk"
+        }
+      ],
+      "duration_ms": 215713,
+      "name": "feelers",
+      "url": "https://open.spotify.com/track/5FtEr2o68yV6ylYE4Mf4fZ"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "You Are Never Gone From Me",
+        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "duration_ms": 212055,
+      "name": "You Are Never Gone From Me",
+      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "Into the Ground",
+        "url": "https://open.spotify.com/album/2ydeZcsTVJEe7IPzam2gL6"
+      },
+      "artists": [
+        {
+          "name": "dearest",
+          "url": "https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Into the Ground",
+      "url": "https://open.spotify.com/track/7qS4cZTYXHyqwJn8omn2lR"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "Sadder Days",
+        "url": "https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Sadder Days",
+      "url": "https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "i'm not stupid",
+        "url": "https://open.spotify.com/album/6iLemoWCEBzsn34LNHhi4x"
+      },
+      "artists": [
+        {
+          "name": "Prestyn Smith",
+          "url": "https://open.spotify.com/artist/1J6uxKkYke0sUt5vcmy7Xi"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "i'm not stupid",
+      "url": "https://open.spotify.com/track/4IRByDfK4OxuN4fXigs7OS"
+    },
+    {
+      "added_at": "2026-08-12 04:00:21",
+      "album": {
+        "name": "CONCENTR888 (MASH UP)",
+        "url": "https://open.spotify.com/album/5dIYM3eTETtGXn6e9jH0OX"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "CONCENTR888 - MASH UP",
+      "url": "https://open.spotify.com/track/1p34wjjCUCAuCXq9ssInnL"
+    },
     {
       "added_at": "2026-07-29 04:00:18",
       "album": {
@@ -671,22 +799,6 @@
     {
       "added_at": "2026-07-08 04:00:12",
       "album": {
-        "name": "Sidekick",
-        "url": "https://open.spotify.com/album/2ZjO30TBy2hCRoFdZj2gUv"
-      },
-      "artists": [
-        {
-          "name": "Morgana",
-          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
-        }
-      ],
-      "duration_ms": 197176,
-      "name": "Sidekick",
-      "url": "https://open.spotify.com/track/2dnkypL7uPTydT483Ptaoj"
-    },
-    {
-      "added_at": "2026-07-08 04:00:12",
-      "album": {
         "name": "somethingsdontsitright",
         "url": "https://open.spotify.com/album/7FKz4ailQLLQiVxvzmV7K4"
       },
@@ -1099,102 +1211,6 @@
       "duration_ms": 239700,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
-    },
-    {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "Patsy",
-        "url": "https://open.spotify.com/album/4VwFrVs0quGf6qMtz0JyiE"
-      },
-      "artists": [
-        {
-          "name": "Alfreda",
-          "url": "https://open.spotify.com/artist/57HS6X4QpZkt1JeT7QpNcM"
-        }
-      ],
-      "duration_ms": 226071,
-      "name": "Patsy",
-      "url": "https://open.spotify.com/track/5aWeN56KTs6E8eGlVKnb5A"
-    },
-    {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "So What?",
-        "url": "https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 168383,
-      "name": "So What?",
-      "url": "https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U"
-    },
-    {
-      "added_at": "2026-04-29 04:00:30",
-      "album": {
-        "name": "Songs I Wrote Since She Left",
-        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "Piece of Your Love",
-      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
-    },
-    {
-      "added_at": "2026-05-13 17:43:08",
-      "album": {
-        "name": "Chloe Showed Me",
-        "url": "https://open.spotify.com/album/1iN809Rv6ca7WOfJvuAmlr"
-      },
-      "artists": [
-        {
-          "name": "Sofia D'Angelo",
-          "url": "https://open.spotify.com/artist/4dZ7XqXL0hD6rSIkUs11b5"
-        }
-      ],
-      "duration_ms": 150797,
-      "name": "Chloe Showed Me",
-      "url": "https://open.spotify.com/track/5XQTbbeLLN5WYvye53LApg"
-    },
-    {
-      "added_at": "2026-05-06 15:27:46",
-      "album": {
-        "name": "Immortal",
-        "url": "https://open.spotify.com/album/5i1PXexy6LcmfAjCJENRFz"
-      },
-      "artists": [
-        {
-          "name": "Akeira Jade",
-          "url": "https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF"
-        }
-      ],
-      "duration_ms": 208460,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
-    },
-    {
-      "added_at": "2026-04-29 04:00:30",
-      "album": {
-        "name": "Sick of Staying",
-        "url": "https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU"
-      },
-      "artists": [
-        {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 206470,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
     }
   ],
   "unique_name": "Fresh Finds Pop",

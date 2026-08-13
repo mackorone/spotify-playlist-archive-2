@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,770 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,773 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 10 | [Nunca Mais \- Ao Vivo](https://open.spotify.com/track/7k8YBbVumvWI1ujyjWbvlo) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [O Fantástico Mundo De Nattan \(Ao Vivo\)](https://open.spotify.com/album/3MsdSA7cGEb95F2IMQUGGJ) | 3:06 |
 | 11 | [Diz a Verdade](https://open.spotify.com/track/36Pli1XkX8lHfIJpSYA6bx) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Diz a Verdade](https://open.spotify.com/album/23uFWJuBGpUhKFct5j2Ena) | 2:29 |
 | 12 | [Tapão Na Raba](https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Som No Talo](https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2) | 2:55 |
-| 13 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 |
-| 14 | [Meu Bem](https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Bem](https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki) | 2:20 |
+| 13 | [Meu Bem](https://open.spotify.com/track/0vfRBCO9DSAWscf03UxYnV) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Meu Bem](https://open.spotify.com/album/75Eavqf0il2XWzkxxYFAki) | 2:20 |
+| 14 | [Só Tem Eu](https://open.spotify.com/track/1X0MaGErD8rcspqQs9s2m0) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Só Tem Eu](https://open.spotify.com/album/1s3EYRI1ZcHN1lZOqYok5e) | 2:44 |
 | 15 | [Recairei \- Ao Vivo](https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Piseiro 2020 Ao Vivo](https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP) | 2:46 |
 | 16 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
 | 17 | [Filho do Mato](https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Filho do Mato](https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r) | 2:52 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 55 | [Quem Nunca \- Ao Vivo em Fortaleza](https://open.spotify.com/track/2ekuJuZiOw523TPWtqXguQ) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Quem Nunca \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX) | 2:35 |
 | 56 | [Não Digita \- Ao Vivo](https://open.spotify.com/track/3pj8CGadPM5hYJjC1gxpP8) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Nossa História \- Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/6ZgVLQPG1FsY7JCT5tFPeY) | 3:15 |
 | 57 | [Trip do Boyzinho](https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Trip do Boyzinho](https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx) | 2:49 |
-| 58 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |
-| 59 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
-| 60 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
+| 58 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
+| 59 | [Juramento do Dedinho](https://open.spotify.com/track/4Eco98ezksfnQzVNJCjg9j) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Juramento do Dedinho](https://open.spotify.com/album/2OKTFhlxZ0yvUEQsgXaCP0) | 2:44 |
+| 60 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |
 
-Snapshot ID: `AAAAAJM6wmi4Utt3Lw0PoNCLwkHWyFb9`
+Snapshot ID: `AAAAADBJemdynkz1g1PZGxRTFSeFjkZp`

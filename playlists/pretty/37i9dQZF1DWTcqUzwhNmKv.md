@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Northlane are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,653,943 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,653,963 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [The Phantom Gospel](https://open.spotify.com/track/24vLfItXGAuB9pg1onsGoQ) | [At The Gates](https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD) | [The Ghost of a Future Dead](https://open.spotify.com/album/2A2hiumM2pI9nyq0vTRG0C) | 2:44 |
 | 80 | [EYESTALK ABLATIONS](https://open.spotify.com/track/3ZUiQE3GYtxzGq7YsXqk3M) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [EYESTALK ABLATIONS](https://open.spotify.com/album/48jUKiaEuju9RBAbz2MPJr) | 3:31 |
 
-Snapshot ID: `AAAAAEjLeRtYmiqCs0YR/wLOe9nJYiBf`
+Snapshot ID: `AAAAAHwz9ffnNtxPpFXVYfeGpj2Pw/vM`

@@ -5677,6 +5677,28 @@
     },
     {
       "album": {
+        "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
+        "url": "https://open.spotify.com/album/63NrrYAALeBh1JATf2CxzW"
+      },
+      "artists": [
+        {
+          "name": "Marcus Maison",
+          "url": "https://open.spotify.com/artist/7I4Qxt1m4cNYYqlryDrfw7"
+        },
+        {
+          "name": "Ella Nova",
+          "url": "https://open.spotify.com/artist/4kVUMKEKjYpiSlzQLSOltZ"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260869,
+      "name": "Kaksi lensi yli k\u00e4enpes\u00e4n",
+      "url": "https://open.spotify.com/track/3ZHJj8COm4waKlogKExd3H"
+    },
+    {
+      "album": {
         "name": "Kakskyt\u00e4 milli\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/3p8czdUrT2iCGLxEw8AE2J"
       },
@@ -14252,7 +14274,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 176000,
       "name": "Satumaa",
       "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"

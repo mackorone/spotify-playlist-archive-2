@@ -2,7 +2,7 @@
 
 ### [PARTYNEXTDOOR Radio](https://open.spotify.com/playlist/37i9dQZF1E4sPTJXAlqbkG)
 
-> With Sonder, Drake, Miguel and more
+> With Sonder, Jhené Aiko, Drake and more
 
 705 songs - 1 day 16 hr 11 min
 

@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285825,
+  "num_followers": 285833,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEMdmogzJr985KQ/E993arHEKEni",
+  "snapshot_id": "AAAAANuLZbKk9HfBU6ySR4hPnpkv4aYr",
   "tracks": [
     {
       "added_at": "2026-07-23 21:17:27",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Love. Ain't Love",
-        "url": "https://open.spotify.com/album/1R55TgjVR6Bq6onvCiQHQB"
-      },
-      "artists": [
-        {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
-        }
-      ],
-      "duration_ms": 174413,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/6IIhAAslHaT2mJtqRq3Dpi"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Coat Of Many Colors",
         "url": "https://open.spotify.com/album/7kaEjySfxfkCxuCTBo9m5u"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 193945,
       "name": "Coat Of Many Colors",
       "url": "https://open.spotify.com/track/1d2bVY1wm0ho9tyHSbVlos"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Love. Ain't Love",
+        "url": "https://open.spotify.com/album/1R55TgjVR6Bq6onvCiQHQB"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/6IIhAAslHaT2mJtqRq3Dpi"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 229516,
-      "name": "She's A Rainbow",
-      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Soak Up The Sun",
         "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 239744,
       "name": "Soak Up The Sun",
       "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "She's A Rainbow",
+      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "All I Ever Need Is You",
         "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 210459,
       "name": "All I Ever Need Is You",
       "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -607,26 +607,18 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Up On The Ridge",
-        "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        },
-        {
-          "name": "Del McCoury",
-          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
         }
       ],
-      "duration_ms": 249213,
-      "name": "Pride (In The Name Of Love)",
-      "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -655,18 +647,26 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+        "name": "Up On The Ridge",
+        "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        },
+        {
+          "name": "Del McCoury",
+          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
         }
       ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+      "duration_ms": 249213,
+      "name": "Pride (In The Name Of Love)",
+      "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -959,42 +959,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Verry Garcia",
-        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 302720,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Pickin' on the 90s",
-        "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "The Sidekicks",
-          "url": "https://open.spotify.com/artist/0cuataW2AnHzeTbA2ERBYI"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
@@ -1027,6 +991,42 @@
       "duration_ms": 729807,
       "name": "Rhapsody in Blue(grass)",
       "url": "https://open.spotify.com/track/0zx3CiQNU6sqLbgOnrqKNK"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Pickin' on the 90s",
+        "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "The Sidekicks",
+          "url": "https://open.spotify.com/artist/0cuataW2AnHzeTbA2ERBYI"
+        }
+      ],
+      "duration_ms": 198460,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Verry Garcia",
+        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
+      },
+      "artists": [
+        {
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
+        }
+      ],
+      "duration_ms": 302720,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Go Your Own Way",
+        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
+      },
+      "artists": [
+        {
+          "name": "SloCoast",
+          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
+        }
+      ],
+      "duration_ms": 247534,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Folsom Prison Blues",
         "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 206886,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Go Your Own Way",
-        "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
-      },
-      "artists": [
-        {
-          "name": "SloCoast",
-          "url": "https://open.spotify.com/artist/1pqfEZcU2ZglurzGnEkaNd"
-        }
-      ],
-      "duration_ms": 247534,
-      "name": "Go Your Own Way",
-      "url": "https://open.spotify.com/track/50M460tbcGAaJuX0HQJygx"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": ".",
         "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 298250,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Johnny B. Goode",
-        "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 167827,
       "name": "Norwegian Wood (This Bird Has Flown)",
       "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Johnny B. Goode",
+        "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Jukebox",
-        "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
+        "name": "Guess I'm Doing Fine",
+        "url": "https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21"
       },
       "artists": [
         {
-          "name": "Matt Carson",
-          "url": "https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8"
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
         },
         {
-          "name": "Madilyn Carson",
-          "url": "https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
+      "duration_ms": 280441,
+      "name": "Guess I'm Doing Fine",
+      "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
     }
   ],
   "unique_name": "Bluegrass Covers",

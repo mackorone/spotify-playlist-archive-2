@@ -1,12 +1,12 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 505932,
+  "num_followers": 506020,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+kwFk64uS2VUtlejQ3MFiOEoId",
+  "snapshot_id": "AAAAAOybqZCB/kgUPy+OWGLnI7m6686V",
   "tracks": [
     {
       "added_at": "2024-07-15 15:23:26",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-15 15:23:26",
       "album": {
+        "name": "Moon River And Other Great Movie Themes",
+        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 154866,
+      "name": "A Summer Place",
+      "url": "https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0"
+    },
+    {
+      "added_at": "2024-07-15 15:23:26",
+      "album": {
         "name": "The Godfather (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 177733,
       "name": "I Have But One Heart",
       "url": "https://open.spotify.com/track/4rTozJf2UY14LNG6Q3E321"
-    },
-    {
-      "added_at": "2024-07-15 15:23:26",
-      "album": {
-        "name": "Moon River And Other Great Movie Themes",
-        "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 154866,
-      "name": "A Summer Place",
-      "url": "https://open.spotify.com/track/71kwIDWJ0xClRjxvIey6D0"
     },
     {
       "added_at": "2024-07-15 15:23:26",

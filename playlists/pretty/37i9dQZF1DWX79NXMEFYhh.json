@@ -1,12 +1,12 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 844921,
+  "num_followers": 844748,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHwDqDmQl+tmMsxDm6tW50BeA5dz",
+  "snapshot_id": "AAAAALaHGgGwkI/7ByP7wzhAKsxCMbzV",
   "tracks": [
     {
       "added_at": "2026-08-05 08:45:46",
@@ -843,22 +843,18 @@
     {
       "added_at": "2026-08-05 08:45:46",
       "album": {
-        "name": "this is what forever feels like",
-        "url": "https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI"
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 154841,
-      "name": "this is what forever feels like (with Nick Jonas)",
-      "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
     }
   ],
   "unique_name": "cuddleweather",

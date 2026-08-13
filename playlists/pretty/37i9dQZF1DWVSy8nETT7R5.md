@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSy8nETT7R5.md) - [plain]
 
 > Listen to the soundtracks of Resident Playbook\. \(언젠가는 슬기로울 전공의 생활의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,062 likes - 32 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,065 likes - 32 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Resident Playbook : Liner 1](https://open.spotify.com/track/76433I1qQNH5f7Xq8Z3VZx) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Resident Playbook Audio Liners](https://open.spotify.com/album/1qHWenH9QQHUAeRU3sgldV) | 0:19 |
-| 2 | [START!](https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG) | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn), [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf), [I.N](https://open.spotify.com/artist/1odvXbzhdzNajv6un9x5Mc) | [Resident Playbook, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6DypdU7rOJQ5HEauFecbNE) | 3:46 |
+| 2 | [START!](https://open.spotify.com/track/4fdxYCWRK0YXkxepMKsCDG) | [Lee Know](https://open.spotify.com/artist/04jivE3Ek7Xu8WSGVmEqUn), [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf), [I.N](https://open.spotify.com/artist/0pE38FCzIoaeiVb3mrHDKv) | [Resident Playbook, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/6DypdU7rOJQ5HEauFecbNE) | 3:46 |
 | 3 | [Resident Playbook : Liner 2](https://open.spotify.com/track/1LiC1xEGfnKyh6mrHK2XJq) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Resident Playbook Audio Liners](https://open.spotify.com/album/1qHWenH9QQHUAeRU3sgldV) | 0:19 |
 | 4 | [Sunny Day](https://open.spotify.com/track/0fPAkbNhWfRqP3SaP1SQAi) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Resident Playbook, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6Zn9PhgFHb7gldbPj4PfFp) | 3:16 |
 | 5 | [Resident Playbook : Liner 3](https://open.spotify.com/track/6vhz8QGbVEXVM9X9wV6R5v) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Resident Playbook Audio Liners](https://open.spotify.com/album/1qHWenH9QQHUAeRU3sgldV) | 0:31 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSy8nETT7R5.md) - [plain]
 | 31 | [After Party](https://open.spotify.com/track/23tKQpnDJLCiVXmxzXEUJ9) | [Cbarrgs](https://open.spotify.com/artist/4qRI7BqjuKH3ulYQrEYnLa), [urbanation](https://open.spotify.com/artist/3zTaD5i9DS26yJ1mdCFOGO) | [Let Me Know \- EP](https://open.spotify.com/album/3wDkPuDlhkfWWe5HLhWOeZ) | 2:52 |
 | 32 | [Last Dance](https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:26 |
 
-Snapshot ID: `AAAAAFwUaf7DAGdNJWv/kg0/91MRZK+E`
+Snapshot ID: `AAAAAM1xtkmt0GK3UPqQVQH8PQKBUVrQ`

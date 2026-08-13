@@ -1,12 +1,12 @@
 {
   "description": "Loud, proud, and free to be. Bops on repeat from LGBTQIA+ artists only. Cover: Sami Landri for Montreal Pride",
-  "num_followers": 23173,
+  "num_followers": 23178,
   "original_name": "GLOW US & Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANr8tfO8iRHUt5yAZgT9dYtNMTst",
+  "snapshot_id": "AAAAAG/omc0BOsQlSeLcS2Wp0qugALUp",
   "tracks": [
     {
       "added_at": "2026-08-07 04:03:17",
@@ -343,26 +343,6 @@
     {
       "added_at": "2026-08-07 04:03:17",
       "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 223456,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
-    },
-    {
-      "added_at": "2026-08-07 04:03:17",
-      "album": {
         "name": "I Don't Know How But They Found Me...Again!",
         "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 229911,
       "name": "God Has A Hitman",
       "url": "https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z"
+    },
+    {
+      "added_at": "2026-08-07 04:03:17",
+      "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 223456,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
     },
     {
       "added_at": "2026-08-07 04:03:17",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-08-07 04:03:17",
       "album": {
-        "name": "no one's son",
-        "url": "https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 206198,
-      "name": "no one's son",
-      "url": "https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr"
-    },
-    {
-      "added_at": "2026-08-07 04:03:17",
-      "album": {
         "name": "Kind",
         "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 247372,
       "name": "Kind",
       "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
+    },
+    {
+      "added_at": "2026-08-07 04:03:17",
+      "album": {
+        "name": "no one's son",
+        "url": "https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 206198,
+      "name": "no one's son",
+      "url": "https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr"
     },
     {
       "added_at": "2026-08-07 04:03:17",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-08-07 04:03:17",
       "album": {
-        "name": "ulysse",
-        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 195980,
-      "name": "ulysse",
-      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
-    },
-    {
-      "added_at": "2026-08-07 04:03:17",
-      "album": {
         "name": "Dimestore Jesus",
         "url": "https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 217200,
       "name": "Dimestore Jesus",
       "url": "https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn"
+    },
+    {
+      "added_at": "2026-08-07 04:03:17",
+      "album": {
+        "name": "ulysse",
+        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 195980,
+      "name": "ulysse",
+      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
     },
     {
       "added_at": "2026-08-07 04:03:17",

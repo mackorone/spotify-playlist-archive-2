@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,502,945 likes - 216 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,503,256 likes - 216 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 215 | [Poor Judgment](https://open.spotify.com/track/13024yZOI6vDFyfglElnfV) | [Jordan Moon](https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1) | [Poor Judgment](https://open.spotify.com/album/0hzwJdROFkdLTugbmllf88) | 2:58 |
 | 216 | [I Choose You](https://open.spotify.com/track/1URQNNZ4XQZZOvSTRmyOwq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I Choose You](https://open.spotify.com/album/2PRf4gPKnvHLgEq1QLhBMF) | 3:40 |
 
-Snapshot ID: `AAAAAE1dmzq6YuZWy18FQcnLjIgzeWmP`
+Snapshot ID: `AAAAAJp+qwiIeF4Mc0nNBTTSlEteWog/`

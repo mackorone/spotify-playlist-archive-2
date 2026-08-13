@@ -1,12 +1,12 @@
 {
   "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
-  "num_followers": 2322,
+  "num_followers": 2323,
   "original_name": "This Is Rev. Gary Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADuGvhezBRhZAgfIl9YXxg6",
+  "snapshot_id": "anpmAAAAAAAsthRzV9BlUQm02toiylPy",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say No To The Devil",
-        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
+        "name": "Dream Beach",
+        "url": "https://open.spotify.com/album/48Ry8Q67XQPqRd9dHezy9g"
       },
       "artists": [
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        },
         {
           "name": "Rev. Gary Davis",
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 299640,
-      "name": "Lost Boy In The Wilderness",
-      "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
+      "duration_ms": 193500,
+      "name": "U Got 2 Move",
+      "url": "https://open.spotify.com/track/0O5ut8UliWwxqMf4KRudkH"
     },
     {
       "added_at": null,
@@ -219,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Beach",
-        "url": "https://open.spotify.com/album/48Ry8Q67XQPqRd9dHezy9g"
+        "name": "Say No To The Devil",
+        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
       },
       "artists": [
-        {
-          "name": "Cloudchord",
-          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
-        },
         {
           "name": "Rev. Gary Davis",
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 193500,
-      "name": "U Got 2 Move",
-      "url": "https://open.spotify.com/track/0O5ut8UliWwxqMf4KRudkH"
+      "duration_ms": 299640,
+      "name": "Lost Boy In The Wilderness",
+      "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rev. Blind Gary Davis 1935 - 1949",
-        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+        "name": "Pure Religion and Bad Company",
+        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 182047,
-      "name": "Cross And Evil Woman Blues",
-      "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
+      "duration_ms": 162333,
+      "name": "Cocaine Blues",
+      "url": "https://open.spotify.com/track/4dhox7dGyHnNfnqpk9oIKK"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure Religion and Bad Company",
-        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
+        "name": "Rev. Blind Gary Davis 1935 - 1949",
+        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 162333,
-      "name": "Cocaine Blues",
-      "url": "https://open.spotify.com/track/4dhox7dGyHnNfnqpk9oIKK"
+      "duration_ms": 182047,
+      "name": "Cross And Evil Woman Blues",
+      "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental",
+      "url": "https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Had My Way: Early Home Recordings",
         "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 276362,
       "name": "Oh Glory, How Happy I Am",
       "url": "https://open.spotify.com/track/30BoxMAKNWj0szlFeFhvXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental",
-      "url": "https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Home and Church, 1962 - 1967",
-        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+        "name": "Say No To The Devil",
+        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 116173,
-      "name": "Sally, Where'd You Get Your Liquor From",
-      "url": "https://open.spotify.com/track/28TV9KnXnoxaABtzIAUChb"
+      "duration_ms": 263160,
+      "name": "I Decided To Go Down",
+      "url": "https://open.spotify.com/track/73vg5Yl2h1ueT22YBFbLlF"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say No To The Devil",
-        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 263160,
-      "name": "I Decided To Go Down",
-      "url": "https://open.spotify.com/track/73vg5Yl2h1ueT22YBFbLlF"
+      "duration_ms": 116173,
+      "name": "Sally, Where'd You Get Your Liquor From",
+      "url": "https://open.spotify.com/track/28TV9KnXnoxaABtzIAUChb"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worried Blues",
-        "url": "https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 230826,
-      "name": "Mornin' Train",
-      "url": "https://open.spotify.com/track/7GjgmGyUHn1GiLLGkYKwuO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At Home and Church, 1962 - 1967",
         "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "I Saw The Light",
-      "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel, Blues And Street Songs",
         "url": "https://open.spotify.com/album/5HRbXDdVkIBNZkArEAN2XO"
       },
@@ -703,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues & Ragtime (Live)",
-        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
+        "name": "Worried Blues",
+        "url": "https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz"
       },
       "artists": [
         {
@@ -712,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 160360,
-      "name": "Buck Rag",
-      "url": "https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q"
+      "duration_ms": 230826,
+      "name": "Mornin' Train",
+      "url": "https://open.spotify.com/track/7GjgmGyUHn1GiLLGkYKwuO"
     },
     {
       "added_at": null,
@@ -751,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sun of Our Life",
-        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
       },
       "artists": [
         {
@@ -760,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Horse Thief's Blues",
-      "url": "https://open.spotify.com/track/4BlE7I2ZuQXEPNv843pLrM"
+      "duration_ms": 180560,
+      "name": "I Saw The Light",
+      "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
     },
     {
       "added_at": null,
@@ -783,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say No To The Devil",
-        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
+        "name": "The Sun of Our Life",
+        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
       },
       "artists": [
         {
@@ -792,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 258266,
-      "name": "Lord, I Looked Down The Road",
-      "url": "https://open.spotify.com/track/3DwLIPryx8uGBcchKIrUCj"
+      "duration_ms": 179333,
+      "name": "Horse Thief's Blues",
+      "url": "https://open.spotify.com/track/4BlE7I2ZuQXEPNv843pLrM"
     },
     {
       "added_at": null,
@@ -811,6 +779,38 @@
       "duration_ms": 126506,
       "name": "I'm Going Back to Jesus",
       "url": "https://open.spotify.com/track/2xPFvDlbBDekEfzOonWBnb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues & Ragtime (Live)",
+        "url": "https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Buck Rag",
+      "url": "https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rev. Blind Gary Davis 1935 - 1949",
+        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 183902,
+      "name": "Lord, I Wish I Could See",
+      "url": "https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS"
     }
   ],
   "unique_name": "This Is Rev. Gary Davis",

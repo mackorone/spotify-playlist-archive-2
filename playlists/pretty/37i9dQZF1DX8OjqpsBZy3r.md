@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 | 95 | [Dicked Down in Dallas](https://open.spotify.com/track/1yhft6ZqYadd4GOrKrmK3a) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Dicked Down in Dallas](https://open.spotify.com/album/4l5bLOtUFmUkD9RbsvJV9R) | 3:21 |
 | 96 | [My Person](https://open.spotify.com/track/1MOOJuxUu9QiQE9GgkYYPb) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/3XyV6DyEqRb8V9tW4YeJLG) | 2:57 |
 | 97 | [Your Man](https://open.spotify.com/track/38puMH41SYytv1i38GWEM0) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5dwwsU4v2sFbnPn0UR835g) | 3:31 |
-| 98 | [Diamond In My Pocket](https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Different Day](https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k) | 3:16 |
+| 98 | [Diamond in My Pocket](https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Different Day](https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k) | 3:16 |
 | 99 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 100 | [Boy](https://open.spotify.com/track/7A8OfzqXBHYGk61FZTHoeo) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 
-Snapshot ID: `AAAAAB1CLT8554m0hsv/NuoBIzVWEW8W`
+Snapshot ID: `AAAAAAT9rzNcbigLG4XvUi7V3OSlFdaX`

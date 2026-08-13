@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 15486,
+  "num_followers": 15503,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAYiItXbavN1yYy2Hqi4c7G",
+  "snapshot_id": "anpmAAAAAAArNBBWccWGqUosMPiDHaSa",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 155171,
-      "name": "Love n Hate",
-      "url": "https://open.spotify.com/track/4JWsx1jeYFRBdcWj76VyRG"
+      "duration_ms": 191956,
+      "name": "Trying Things",
+      "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 191956,
-      "name": "Trying Things",
-      "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
+      "duration_ms": 155171,
+      "name": "Love n Hate",
+      "url": "https://open.spotify.com/track/4JWsx1jeYFRBdcWj76VyRG"
     },
     {
       "added_at": null,

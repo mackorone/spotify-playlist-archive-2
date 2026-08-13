@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Black K
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,675 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,726 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Un Côté](https://open.spotify.com/track/3cDgYs9FSmmpIGVwsfzh3J) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq), [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [Un Côté](https://open.spotify.com/album/6xrCKFbzQa9T8NVZXxKVVb) | 2:30 |
 | 2 | [MATATA](https://open.spotify.com/track/5do88OelExklNmPNf17iu1) | [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa) | [MATATA](https://open.spotify.com/album/4F7jRvnwDtwF5bD66NyxVh) | 2:13 |
 | 3 | [Securiser](https://open.spotify.com/track/5UtM5QxsLvNHnTVsD0JD6N) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [Securiser](https://open.spotify.com/album/06WMbjeGQ4pSSXhdiXmsXr) | 2:54 |
-| 4 | [Armageddon \(feat\. Genezio\)](https://open.spotify.com/track/2gBVUZqu3B0RvQImki9Z3j) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Armageddon \(feat\. Genezio\)](https://open.spotify.com/album/2izdFK60er4VekUQoMQMKZ) | 2:40 |
+| 4 | [Armageddon](https://open.spotify.com/track/2gBVUZqu3B0RvQImki9Z3j) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Armageddon](https://open.spotify.com/album/2izdFK60er4VekUQoMQMKZ) | 2:40 |
 | 5 | [Adriano](https://open.spotify.com/track/3BSbM6PrlqWHRL2uci4kAz) | [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv) | [Flâ Ni](https://open.spotify.com/album/338CpWJ2T8WYv1ABjLEp5j) | 2:44 |
 | 6 | [SORRY I'M BAD](https://open.spotify.com/track/5RbG6Oi4myHjMy9U74HoMn) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [SORRY I'M BAD](https://open.spotify.com/album/6qWEhSnVbwQXycx9xW2XpB) | 2:43 |
 | 7 | [FAIS ÇA BIEN](https://open.spotify.com/track/71ETExWimdrcoAbUio6b79) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [FAIS ÇA BIEN](https://open.spotify.com/album/1kLHbf3rbvaRB7CbEjauC5) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 49 | [WOLOSSO](https://open.spotify.com/track/1R04AZROC1WGL7oWQ4v81E) | [Marla](https://open.spotify.com/artist/0mucJeDL0Mvb5KES4NhiHG) | [REINE MARLA](https://open.spotify.com/album/5m5OTC6SVzEidWQP87lO7Q) | 2:30 |
 | 50 | [GAWAYA.](https://open.spotify.com/track/3ghVMn5q0q4Dr4D2EJx5Wz) | [Plugbinks131](https://open.spotify.com/artist/0M42LMc47vGlBHq3TD1lxe), [GOKS](https://open.spotify.com/artist/4XF5gUmwmXNMHsLKEvbypD) | [GAWAYA.](https://open.spotify.com/album/6g0aryHOy5YH93uqMszZqv) | 2:32 |
 
-Snapshot ID: `AAAAAHVEC6b2VIYTcwtT5w7S0ul+XmhF`
+Snapshot ID: `AAAAABWTWRxcZ+kUWpEDAr8yOlHqM487`

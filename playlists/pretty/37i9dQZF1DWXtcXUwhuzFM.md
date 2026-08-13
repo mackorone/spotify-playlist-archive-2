@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Diogi, Dw, Vilma Alina.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,953 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,944 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 74 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
 | 75 | [The Dawn To Armageddon](https://open.spotify.com/track/4ihpkTO0bmpRxCIYjf9rGQ) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [The Dawn To Armageddon](https://open.spotify.com/album/68TM6MsShNDJv3CsI1D55h) | 4:59 |
 
-Snapshot ID: `AAAAAF8FUzbdY5ABBTNKf+aNGdqQOy+7`
+Snapshot ID: `AAAAAI2rDYj/wr0BLWWKUcUxF3YsUpcB`

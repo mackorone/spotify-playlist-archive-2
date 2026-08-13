@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,320 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,322 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 31 | [Teeth](https://open.spotify.com/track/6d96mLOd9hUdJJVw2KFQAA) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 3:46 |
 | 32 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
 | 33 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
-| 34 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
-| 35 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
+| 34 | [yes! yes! a thousand times yes!](https://open.spotify.com/track/4dSataK59s0m0UpNnQX0Ed) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2) | [the whaler](https://open.spotify.com/album/3k9zFidsO5YuOnIgKWkUI0) | 3:54 |
+| 35 | [ps pls call me](https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML) | [Dear Maryanne](https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8) | [ps pls call me](https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7) | 2:34 |
 | 36 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
 | 37 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
 | 38 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 56 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
 | 57 | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 |
 | 58 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
-| 59 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
-| 60 | [Big\-Box Store Heart](https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Big\-Box Store Heart](https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM) | 3:35 |
-| 61 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
+| 59 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
+| 60 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
+| 61 | [Big\-Box Store Heart](https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Big\-Box Store Heart](https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM) | 3:35 |
 | 62 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
 | 63 | [noitanitsarcorP](https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Trying Not to Have a Thought](https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM) | 4:09 |
 | 64 | [espresso lemonade](https://open.spotify.com/track/0oyIQwGA643nX5gM934FtV) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [espresso lemonade](https://open.spotify.com/album/0HU8Quj0rptShKDVllOWoE) | 2:33 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 79 | [My Fault](https://open.spotify.com/track/50FpCfseTjaMAWQ9q1Krfl) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Ferried Away](https://open.spotify.com/album/2GAlwex2k6grIDP3ieQf6c) | 2:27 |
 | 80 | [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 |
 | 81 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 |
-| 82 | [Arrowhead](https://open.spotify.com/track/59VAMnorUAUOTzINy5KEpD) | [Charmer](https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc) | [Arrowhead](https://open.spotify.com/album/2wIc6Q44MWXDSxw8McR3pr) | 2:39 |
-| 83 | [Grendel](https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Grendel](https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82) | 5:04 |
+| 82 | [Grendel](https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Grendel](https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82) | 5:04 |
+| 83 | [Arrowhead](https://open.spotify.com/track/59VAMnorUAUOTzINy5KEpD) | [Charmer](https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc) | [Arrowhead](https://open.spotify.com/album/2wIc6Q44MWXDSxw8McR3pr) | 2:39 |
 | 84 | [Fluff My Pillow](https://open.spotify.com/track/4SBD0bAYfLzq3ggGwRMqaR) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Fluff My Pillow](https://open.spotify.com/album/3nO2YsXGByVe5c5Sf78skN) | 2:37 |
 | 85 | [Chessie](https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh) | [twentythreenineteen](https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE) | [Chessie](https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO) | 2:53 |
 | 86 | [Cactus Song](https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs) | [Raccoon Tour](https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R) | [Cactus Song](https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 99 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 |
 | 100 | [Never Meant To](https://open.spotify.com/track/5NtfFrcimmMi0VNn2Nt1tO) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [Never Meant To](https://open.spotify.com/album/6G43jE12MNPUbmdzbSlBOo) | 3:04 |
 
-Snapshot ID: `AAAAAHtNGmaBzyd0NqLqR07rSa1pqh/g`
+Snapshot ID: `AAAAANcI65nlQfWc3yXO1md3orQ07Y8w`

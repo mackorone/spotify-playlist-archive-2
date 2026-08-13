@@ -1,12 +1,12 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover:  Llona",
-  "num_followers": 99127,
+  "num_followers": 99203,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABwaWlwiI6ifWCAf7/U/uYg1RNcX",
+  "snapshot_id": "AAAAAF6kOS0r082JTs/EEPlDfvkf0VZm",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:36",
@@ -319,38 +319,6 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "Baba God",
-      "url": "https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
         "name": "Many Things",
         "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
       },
@@ -367,22 +335,18 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
-        "name": "Timileyin 2.0",
-        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 159346,
-      "name": "Where I\u2019m from",
-      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
+      "duration_ms": 164125,
+      "name": "Baba God",
+      "url": "https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -407,6 +371,62 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Timileyin 2.0",
+        "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Where I\u2019m from",
+      "url": "https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Life is Slo II",
+        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Life is Slo II",
+      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -451,26 +471,6 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
-        "name": "Life is Slo II",
-        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
-      },
-      "artists": [
-        {
-          "name": "EF Moon",
-          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Life is Slo II",
-      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u"
       },
@@ -483,6 +483,26 @@
       "duration_ms": 162063,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Orindowo",
+        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 167787,
+      "name": "Orindowo",
+      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -519,26 +539,6 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
-        "name": "Orindowo",
-        "url": "https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 167787,
-      "name": "Orindowo",
-      "url": "https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 164745,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "God's Promise",
-      "url": "https://open.spotify.com/track/5aLkNJK9xVeCL90lRzlZVm"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -599,22 +583,6 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
         "name": "Bhadriyun",
         "url": "https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3"
       },
@@ -627,6 +595,38 @@
       "duration_ms": 184000,
       "name": "Shkran Lak",
       "url": "https://open.spotify.com/track/1LI2n5x6htKLCAzc6lCN8k"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "God's Promise",
+      "url": "https://open.spotify.com/track/5aLkNJK9xVeCL90lRzlZVm"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
-        "name": "God Abeg",
-        "url": "https://open.spotify.com/album/2V1mG4syocQGXnH2EFHMPN"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 190961,
-      "name": "God Abeg",
-      "url": "https://open.spotify.com/track/7kzGpRbR0uwQrvqBs8Xskw"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
         "name": "Barrystar Vol. 1",
         "url": "https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA"
       },
@@ -675,26 +659,6 @@
       "duration_ms": 192857,
       "name": "See Me See God (SMSG)",
       "url": "https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Realness",
-      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -719,18 +683,38 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
-        "name": "Akonuche",
-        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
+        "name": "God Abeg",
+        "url": "https://open.spotify.com/album/2V1mG4syocQGXnH2EFHMPN"
       },
       "artists": [
         {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
         }
       ],
-      "duration_ms": 136500,
-      "name": "Akonuche",
-      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
+      "duration_ms": 190961,
+      "name": "God Abeg",
+      "url": "https://open.spotify.com/track/7kzGpRbR0uwQrvqBs8Xskw"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Realness",
+      "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -755,6 +739,22 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
+        "name": "Akonuche",
+        "url": "https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI"
+      },
+      "artists": [
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Akonuche",
+      "url": "https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
         "name": "OBT (feat. BhadBoi OML)",
         "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 170526,
       "name": "OBT (feat. BhadBoi OML)",
       "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2026-08-07 00:01:36",
@@ -1363,6 +1363,26 @@
     {
       "added_at": "2026-08-07 00:01:36",
       "album": {
+        "name": "Kashamadupe",
+        "url": "https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D"
+      },
+      "artists": [
+        {
+          "name": "Kashy",
+          "url": "https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 148536,
+      "name": "Orin Halleluyah",
+      "url": "https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox"
+    },
+    {
+      "added_at": "2026-08-07 00:01:36",
+      "album": {
         "name": "High Tension",
         "url": "https://open.spotify.com/album/7vl3pmA09x8tV7OUYCcTZ1"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 163944,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR"
-    },
-    {
-      "added_at": "2026-08-07 00:01:36",
-      "album": {
-        "name": "Kashamadupe",
-        "url": "https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D"
-      },
-      "artists": [
-        {
-          "name": "Kashy",
-          "url": "https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 148536,
-      "name": "Orin Halleluyah",
-      "url": "https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox"
     },
     {
       "added_at": "2026-08-07 00:01:36",

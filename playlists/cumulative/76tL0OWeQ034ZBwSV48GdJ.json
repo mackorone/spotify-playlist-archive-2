@@ -4689,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Live from Joshua Tree",
+        "url": "https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227186,
+      "name": "Valley of the Yuccas - Live from Joshua Tree",
+      "url": "https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6"
+    },
+    {
+      "album": {
         "name": "Venere",
         "url": "https://open.spotify.com/album/7LzrIgEiPN4JgGrpqfHV2S"
       },

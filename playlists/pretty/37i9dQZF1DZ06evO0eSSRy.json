@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAsXFX2PLCX7iyan9Q2Nvfp",
+  "snapshot_id": "anpmAAAAAAByfdM7ow4Iq2rJDsoAf9iU",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 233965,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z"
     },
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
+        "name": "Know",
+        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 201534,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z"
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 244767,
-      "name": "Houses of American Style",
-      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
+      "duration_ms": 264306,
+      "name": "The Luck You Had",
+      "url": "https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 264306,
-      "name": "The Luck You Had",
-      "url": "https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY"
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
     },
     {
       "added_at": null,

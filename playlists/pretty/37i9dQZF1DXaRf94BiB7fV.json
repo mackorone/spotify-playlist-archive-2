@@ -1,13 +1,61 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Ankita Barwad",
-  "num_followers": 62576,
+  "description": "The best new music by independent artists and labels in India. Cover - Purple Cassette",
+  "num_followers": 62590,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALkaCm9ZFQIf+3QnHtkoHyZaXOyp",
+  "snapshot_id": "AAAAAE9LEjMYKTX9GxaLoXAJWh64dt/C",
   "tracks": [
+    {
+      "added_at": "2026-08-05 07:30:04",
+      "album": {
+        "name": "Waiting on Nothing",
+        "url": "https://open.spotify.com/album/0g4BvO0kYz92BeB7i2imMH"
+      },
+      "artists": [
+        {
+          "name": "Purple Cassette",
+          "url": "https://open.spotify.com/artist/4xZ8YVXNE6n0bhcZAmdCdb"
+        }
+      ],
+      "duration_ms": 215854,
+      "name": "Waiting on Nothing",
+      "url": "https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp"
+    },
+    {
+      "added_at": "2026-08-12 07:30:10",
+      "album": {
+        "name": "More Than Just Friends",
+        "url": "https://open.spotify.com/album/0ewYGkCOCcpE2jLuNW09KK"
+      },
+      "artists": [
+        {
+          "name": "Saroj Kashyap",
+          "url": "https://open.spotify.com/artist/2B9uyvPOGRnNfmprPhMADk"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "More Than Just Friends",
+      "url": "https://open.spotify.com/track/0xMwOHk6GauKk9SDJn7xyu"
+    },
+    {
+      "added_at": "2026-08-12 07:30:10",
+      "album": {
+        "name": "SAAWAN (A Thumri Fusion)",
+        "url": "https://open.spotify.com/album/6FxTZpDO5XVPt8uYRWufeK"
+      },
+      "artists": [
+        {
+          "name": "Ananya Mishra",
+          "url": "https://open.spotify.com/artist/4JirIwaCh8ywD86MGUGEIW"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "SAAWAN - A Thumri Fusion",
+      "url": "https://open.spotify.com/track/7gv2EKHOhFGcljndxw9o0S"
+    },
     {
       "added_at": "2026-07-29 07:30:17",
       "album": {
@@ -45,6 +93,26 @@
       "url": "https://open.spotify.com/track/2wUvjrkR4YooAvZrXqjNKY"
     },
     {
+      "added_at": "2026-08-12 07:30:10",
+      "album": {
+        "name": "Wajah",
+        "url": "https://open.spotify.com/album/4suNaW4e39QYZYw5TH2KnY"
+      },
+      "artists": [
+        {
+          "name": "Khaali Frame",
+          "url": "https://open.spotify.com/artist/4LCjgzBudEmv8KrDyziGSj"
+        },
+        {
+          "name": "Andrew KZ",
+          "url": "https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR"
+        }
+      ],
+      "duration_ms": 232105,
+      "name": "Wajah",
+      "url": "https://open.spotify.com/track/34354fFFbEWvMu7QigCMAM"
+    },
+    {
       "added_at": "2026-08-05 07:30:04",
       "album": {
         "name": "Tu Kahe Toh",
@@ -75,22 +143,6 @@
       "duration_ms": 238611,
       "name": "Shahar Nagar",
       "url": "https://open.spotify.com/track/6nT8HnwIR5YSGgakmowL18"
-    },
-    {
-      "added_at": "2026-08-05 07:30:04",
-      "album": {
-        "name": "Waiting on Nothing",
-        "url": "https://open.spotify.com/album/0g4BvO0kYz92BeB7i2imMH"
-      },
-      "artists": [
-        {
-          "name": "Purple Cassette",
-          "url": "https://open.spotify.com/artist/4xZ8YVXNE6n0bhcZAmdCdb"
-        }
-      ],
-      "duration_ms": 215854,
-      "name": "Waiting on Nothing",
-      "url": "https://open.spotify.com/track/5IAd2YfP8ificqniAaaRyp"
     },
     {
       "added_at": "2026-07-29 07:30:17",
@@ -567,22 +619,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Darr",
-        "url": "https://open.spotify.com/album/0VZ3TwblBqNaVMZBlazRW0"
-      },
-      "artists": [
-        {
-          "name": "Hemang",
-          "url": "https://open.spotify.com/artist/0Mcoqh0ZKmp41Apx7sKyfa"
-        }
-      ],
-      "duration_ms": 202230,
-      "name": "Darr",
-      "url": "https://open.spotify.com/track/0J9cayYWTt38N0vxhxWdih"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Tu Na Aayi",
         "url": "https://open.spotify.com/album/1hD581ohlD9YwRxzky1YpR"
       },
@@ -635,38 +671,6 @@
       "duration_ms": 167999,
       "name": "Satao Na",
       "url": "https://open.spotify.com/track/76yWBF5SYoZ5I7NhAun1yA"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "How Do I Love?",
-        "url": "https://open.spotify.com/album/2gmWnuQsYitAwUYJMfTJNe"
-      },
-      "artists": [
-        {
-          "name": "Rahul Advani",
-          "url": "https://open.spotify.com/artist/4ol2EjDnh4lRaTk3lfFtQb"
-        }
-      ],
-      "duration_ms": 227637,
-      "name": "How Do I Love?",
-      "url": "https://open.spotify.com/track/7b6A3dnfqJPZoAInvbnrI1"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/22MxarLyVJJAEnToRzrjEu"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Bulusu",
-          "url": "https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO"
-        }
-      ],
-      "duration_ms": 257484,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/67f8GUBDuds7YQf6Syn0cQ"
     },
     {
       "added_at": "2026-07-15 08:00:14",
@@ -827,22 +831,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Bawarey",
-        "url": "https://open.spotify.com/album/7z0V9zGb1kChSeKrcRnK8a"
-      },
-      "artists": [
-        {
-          "name": "Amitabh Sen",
-          "url": "https://open.spotify.com/artist/33x5yF9xmVbC3K1kdXZ3FE"
-        }
-      ],
-      "duration_ms": 244350,
-      "name": "Bawarey",
-      "url": "https://open.spotify.com/track/1UyflqWPfETX9VhO3ks6ES"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Neer Bharan",
         "url": "https://open.spotify.com/album/4hYwar8PBO70C4eAbrACtw"
       },
@@ -859,22 +847,6 @@
       "duration_ms": 348000,
       "name": "Neer Bharan",
       "url": "https://open.spotify.com/track/6bfKZYgAaMgRLZYTxK0T9f"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Phantom Baby",
-        "url": "https://open.spotify.com/album/2TPVo4DPP8kA6yosp9lpIa"
-      },
-      "artists": [
-        {
-          "name": "JBABE",
-          "url": "https://open.spotify.com/artist/3c31TRttHfPOdHHVfijaby"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Phantom Baby",
-      "url": "https://open.spotify.com/track/1CN05iiInwzi0XzNXB6WIZ"
     },
     {
       "added_at": "2026-07-15 08:00:14",
@@ -927,22 +899,6 @@
       "duration_ms": 174497,
       "name": "Behisaab",
       "url": "https://open.spotify.com/track/3j2aNckJSXNJ56gpKmmfvm"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/3ScGwEpXDBPN7xcowjge5O"
-      },
-      "artists": [
-        {
-          "name": "Run it's the Kid",
-          "url": "https://open.spotify.com/artist/36057fby7tY856T2vg7jQj"
-        }
-      ],
-      "duration_ms": 176869,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/5cTYkfhZWoyXs7j4WD0j1J"
     },
     {
       "added_at": "2026-07-15 08:00:14",

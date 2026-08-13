@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With UrvTek, Learke, sixwing and more
+> With Learke, sixwing, UrvTek and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 30 | [ITS NOT ME ITS YOU](https://open.spotify.com/track/1qoTwMDxMyj1c4RZEw2e5G) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:08 |
 | 31 | [outcast](https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [outcast \(they all hate me\)](https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62) | 3:02 |
 | 32 | [Sleep Paralysis](https://open.spotify.com/track/1MniCshySWjTHcKkUo863V) | [thquib](https://open.spotify.com/artist/4GPqq6X7U4krVNpLUg4PTm) | [Sleep Paralysis](https://open.spotify.com/album/0VL7JtzWNmVOvPAB6YtpLO) | 1:45 |
-| 33 | [clicker training](https://open.spotify.com/track/1CfIqRIywjlFiUxLXKKT0X) | [astrid](https://open.spotify.com/artist/5XnEaGhnWsAywwADYeeZi1) | [puppy](https://open.spotify.com/album/6liykK6dJpC67PF5EYl67p) | 1:50 |
+| 33 | [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 |
 | 34 | [TURN B4CK TIM3](https://open.spotify.com/track/7uX3mQKhyoqJa1rWXH2Hqs) | [D3s1ph3r](https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7) | [N0T 4B0UT U](https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx) | 2:17 |
 | 35 | [Choker](https://open.spotify.com/track/51LrY0DllvahLhlbiqqaO1) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [tired brain analysis](https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj) | 2:53 |
 | 36 | [Directions](https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 3:01 |
 | 37 | [squarewalker](https://open.spotify.com/track/1PdpDVCHd5HUk5PjKahh11) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [squarewalker](https://open.spotify.com/album/60s5zKl6UQkd933ausNY91) | 3:33 |
 | 38 | [rose tints](https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [AWAY FROM WHAT MATTERS](https://open.spotify.com/album/4BFOVKidGy8yuH8JbM6iI2) | 3:14 |
 | 39 | [TEK VIRUS](https://open.spotify.com/track/6yBLNlEO4sDWfKYiTzl2LP) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [TEK VIRUS](https://open.spotify.com/album/43amIZ7kYYRxfN1veKmrsI) | 4:01 |
-| 40 | [Shit Yourself Violently](https://open.spotify.com/track/3KRIxu4nidUqvh5uCnOPLg) | [Gynx](https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl) | [Sparkle Signal](https://open.spotify.com/album/3dyEzOmrM1UortWaIMorky) | 2:24 |
+| 40 | [clicker training](https://open.spotify.com/track/1CfIqRIywjlFiUxLXKKT0X) | [astrid](https://open.spotify.com/artist/5XnEaGhnWsAywwADYeeZi1) | [puppy](https://open.spotify.com/album/6liykK6dJpC67PF5EYl67p) | 1:50 |
 | 41 | [no inbetween](https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 |
 | 42 | [www.PUPPYLUV.xoxo](https://open.spotify.com/track/1CnRrvxklPzRwC2oZhJhSZ) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [PUPPY LOVER](https://open.spotify.com/album/5MRpoaBRHA6foRiPCljuPx) | 3:25 |
-| 43 | [Playground](https://open.spotify.com/track/4CM1J83MAkCeJsW4U6RUep) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Playground](https://open.spotify.com/album/1qdU8N1mJAx6dK3xplaOWC) | 1:43 |
-| 44 | [Dumbass of the Century](https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8) | [Dumbass of the Century](https://open.spotify.com/album/2utuabIBmucnFPVawLqj67) | 2:48 |
+| 43 | [Shit Yourself Violently](https://open.spotify.com/track/3KRIxu4nidUqvh5uCnOPLg) | [Gynx](https://open.spotify.com/artist/41vwOItZ3tvhGwj3zUaYjl) | [Sparkle Signal](https://open.spotify.com/album/3dyEzOmrM1UortWaIMorky) | 2:24 |
+| 44 | [Playground](https://open.spotify.com/track/4CM1J83MAkCeJsW4U6RUep) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Playground](https://open.spotify.com/album/1qdU8N1mJAx6dK3xplaOWC) | 1:43 |
 | 45 | [T00 LATE](https://open.spotify.com/track/2XzxAmosDQYdxu5vQJxAmH) | [D3s1ph3r](https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7) | [N0T 4B0UT U](https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx) | 2:30 |
 | 46 | [I NEED THAT](https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:17 |
-| 47 | [ASS UP!](https://open.spotify.com/track/2rFOofFAEIdsmrpksO4U1d) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [FANSERVICE](https://open.spotify.com/album/54YEanuOUpFwTM178pBDLM) | 2:24 |
+| 47 | [Dumbass of the Century](https://open.spotify.com/track/45Ad16HqTlyWwfbehEu6OI) | [Spott](https://open.spotify.com/artist/0gQWoLdyMfjBGGITOMhTh8) | [Dumbass of the Century](https://open.spotify.com/album/2utuabIBmucnFPVawLqj67) | 2:48 |
 | 48 | [choke it out!](https://open.spotify.com/track/6e7XkfLsy4LrjwDGaVNXkh) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [my teeth will free you](https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR) | 1:49 |
-| 49 | [GEOCITIES](https://open.spotify.com/track/2LN7XWSdbzI5G5H00KT08I) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w) | [GEOCITIES](https://open.spotify.com/album/7vOKcuInk3NnZukDeEDyGC) | 1:45 |
-| 50 | [losercore](https://open.spotify.com/track/4iVCldDNBMNKF9qwgVVh7n) | [awerewa](https://open.spotify.com/artist/7c6aZP4Zi0c7CK5M2H6FwB), [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [losercore](https://open.spotify.com/album/24w81Km5rX1peA9ImkcWIX) | 2:49 |
+| 49 | [ASS UP!](https://open.spotify.com/track/2rFOofFAEIdsmrpksO4U1d) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [FANSERVICE](https://open.spotify.com/album/54YEanuOUpFwTM178pBDLM) | 2:24 |
+| 50 | [GEOCITIES](https://open.spotify.com/track/2LN7XWSdbzI5G5H00KT08I) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w) | [GEOCITIES](https://open.spotify.com/album/7vOKcuInk3NnZukDeEDyGC) | 1:45 |
 
-Snapshot ID: `AAAAAKHfa6f4X2Rl1q1J6oP9yHBqdDRO`
+Snapshot ID: `AAAAAKi5y/Unob7FIrVlTDPaTmmRvi73`

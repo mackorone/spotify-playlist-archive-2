@@ -2,7 +2,7 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: Jiggy Djé
+> De beste tracks in WS❗️Cover: Jiggy Djé\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier meer zomer aanbevelingen!</a>
 
 527 songs - 23 hr 48 min
 

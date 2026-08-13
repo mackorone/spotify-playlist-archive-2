@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 186922,
       "name": "Amar Pela Metade",
       "url": "https://open.spotify.com/track/1UQvRmRhbX3WxSLW3NbUIU"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 127200,
       "name": "BANGLA",
       "url": "https://open.spotify.com/track/0eICBdMRCwuF8YxgaaHNRe"
@@ -11518,7 +11518,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -33091,6 +33091,24 @@
     },
     {
       "album": {
+        "name": "Saloia",
+        "url": "https://open.spotify.com/album/7ru2TCUhoSoHXukQIWxAHL"
+      },
+      "artists": [
+        {
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Saloia",
+      "url": "https://open.spotify.com/track/6n0jihDYFApFTZIICTHxvO"
+    },
+    {
+      "album": {
         "name": "Samba de Malandro",
         "url": "https://open.spotify.com/album/45IHFpwPgHPvjQHsZHURSu"
       },
@@ -35374,7 +35392,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -37636,7 +37654,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 258223,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5p1eiAHN5xYAMrSUDKxidI"

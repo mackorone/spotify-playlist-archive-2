@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Amrita Soon.\n  Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: FIG. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -12773,6 +12773,24 @@
     },
     {
       "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/1GXnrfJVkKA3IJ1qDrx6j7"
+      },
+      "artists": [
+        {
+          "name": "After Mdnight",
+          "url": "https://open.spotify.com/artist/3ep3ws1EvwD6SKeVjjorqT"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0TQGjBPwI3UUM3zvKRsnad"
+    },
+    {
+      "album": {
         "name": "Laughing track",
         "url": "https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN"
       },
@@ -22489,6 +22507,24 @@
     },
     {
       "album": {
+        "name": "Takkan Menyerah",
+        "url": "https://open.spotify.com/album/5bQfcQaIirkXPX2XR0g6b3"
+      },
+      "artists": [
+        {
+          "name": "Meer Nash",
+          "url": "https://open.spotify.com/artist/5u7bSTNoq9AU1dh4sgurL8"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237445,
+      "name": "Takkan Menyerah",
+      "url": "https://open.spotify.com/track/44wumjkitSkaorAWIiXjfu"
+    },
+    {
+      "album": {
         "name": "Takkan Stop",
         "url": "https://open.spotify.com/album/77WhHJTVtRA2RB755f5YQv"
       },
@@ -26438,6 +26474,24 @@
       "duration_ms": 256000,
       "name": "Wistful",
       "url": "https://open.spotify.com/track/6tBrlSVkjXrzllNo7CFO0z"
+    },
+    {
+      "album": {
+        "name": "Wit It",
+        "url": "https://open.spotify.com/album/61b0DFFuEqScHNpM7mmeAN"
+      },
+      "artists": [
+        {
+          "name": "raphungzel",
+          "url": "https://open.spotify.com/artist/6Fd2on0E8oz3eb5FIt0MZI"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "Wit It",
+      "url": "https://open.spotify.com/track/3FoZhqHeI2sKtRVbq9NoDD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,625 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,699 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Pépin](https://open.spotify.com/track/6GEBHcjoJkUIccDac8LeaY) | [La Folie](https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Pépin](https://open.spotify.com/album/3CtMWQgzKAnC1r46FHSUHF) | 2:23 |
 | 50 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
 
-Snapshot ID: `AAAAAEHeCqdO0CleQjClouNAPW4ccAjw`
+Snapshot ID: `AAAAAF7xuolYSt0mQYilCEBq8S2ABtre`

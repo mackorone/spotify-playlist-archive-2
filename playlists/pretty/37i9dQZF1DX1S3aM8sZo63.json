@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. To\u00f1o y Fredy en portada \ud83d\udcf8",
-  "num_followers": 1073921,
+  "num_followers": 1073895,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMQoxExELpYcRZ7C/Pxr/Xnodyy",
+  "snapshot_id": "AAAAAGIXo8iInDtFnrwVFCnoKVkuPnnJ",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:29",
@@ -475,8 +475,8 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 189826,
-      "name": "Y Que Quede Claro",
-      "url": "https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY"
+      "duration_ms": 162906,
+      "name": "Yo Me Confi\u00e9",
+      "url": "https://open.spotify.com/track/12cRDWVrxI7Wf0KHiVr3fH"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -559,8 +559,8 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Gracias Por Creer",
-        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 162906,
-      "name": "Yo Me Confi\u00e9",
-      "url": "https://open.spotify.com/track/12cRDWVrxI7Wf0KHiVr3fH"
+      "duration_ms": 189826,
+      "name": "Y Que Quede Claro",
+      "url": "https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY"
     },
     {
       "added_at": "2026-07-03 06:00:29",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-03 06:00:29",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 212071,
-      "name": "Sue\u00f1o G\u00fcajiro",
-      "url": "https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G"
-    },
-    {
-      "added_at": "2026-07-03 06:00:29",
-      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 151510,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/4wobadpvabyC1A50QWd0s1"
+    },
+    {
+      "added_at": "2026-07-03 06:00:29",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 212071,
+      "name": "Sue\u00f1o G\u00fcajiro",
+      "url": "https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G"
     },
     {
       "added_at": "2026-07-03 06:00:29",

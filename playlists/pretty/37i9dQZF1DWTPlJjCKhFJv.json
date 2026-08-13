@@ -1,12 +1,12 @@
 {
   "description": "If the music is loud enough, maybe the house will clean itself",
-  "num_followers": 33992,
+  "num_followers": 33994,
   "original_name": "Spring Clean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKUc7TJXscEbX0eB/GZ2E3uoVju3",
+  "snapshot_id": "AAAAAL+D+/HWgYEtZiSdmBd1dXmBStXB",
   "tracks": [
     {
       "added_at": "2026-03-13 10:59:50",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 185186,
-      "name": "Tears Dry On Their Own",
-      "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 185186,
+      "name": "Tears Dry On Their Own",
+      "url": "https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF"
     },
     {
       "added_at": "2026-03-13 10:59:50",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-13 10:59:50",
       "album": {
-        "name": "Little Voice",
-        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 258483,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
-    },
-    {
-      "added_at": "2026-03-13 10:59:50",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
+    },
+    {
+      "added_at": "2026-03-13 10:59:50",
+      "album": {
+        "name": "Little Voice",
+        "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 258483,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf"
     },
     {
       "added_at": "2026-03-13 10:59:50",

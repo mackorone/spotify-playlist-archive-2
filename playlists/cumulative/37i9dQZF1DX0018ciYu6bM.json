@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: KATSEYE)",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: WAYF BOYS (\uc6e8\uc774\ud504\ubcf4\uc774\uc988))",
   "name": "KimBops!",
   "tracks": [
     {
@@ -8312,7 +8312,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/1gK5uqArBDmAJSr0DwvJ1b"
@@ -16470,6 +16470,24 @@
       "duration_ms": 214136,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+    },
+    {
+      "album": {
+        "name": "WAYF BOYS DO",
+        "url": "https://open.spotify.com/album/1TUior96JLdFph4eqmQHcS"
+      },
+      "artists": [
+        {
+          "name": "WAYF BOYS",
+          "url": "https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166793,
+      "name": "WAYF BOYS DO",
+      "url": "https://open.spotify.com/track/7fqDQwY9YBGrEPaoicaVpV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 
 > Get your kids singing along with this fun playlist! They're sure to know these kid\-friendly classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,464 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,490 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu0xeeDiEZc.md) - [plain]
 | 44 | [Apples And Bananas](https://open.spotify.com/track/6DbFSjja7kE0lcAM4vNw8r) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 1:55 |
 | 45 | [BINGO](https://open.spotify.com/track/7l4EYTzxQM4Z3e4VYPRTwI) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 1 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/51624I5t3Uc6N89pHQw6CF) | 1:56 |
 | 46 | [Old MacDonald](https://open.spotify.com/track/5vaqWdV3UsR0tgmf82wRkW) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & Other Nursery Rhymes with Little Baby Bum](https://open.spotify.com/album/3WM68FwyD2PzaRrHUToEqZ) | 1:59 |
-| 47 | [Fruit Salad](https://open.spotify.com/track/7kDKvOxuIY4aiHdYgKP8gd) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 2:28 |
-| 48 | [ABC's](https://open.spotify.com/track/1HVy2hV1wg27NB6LCVBxPi) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/2Q6P6UWGxdZxsUZZgzikmJ) | 1:15 |
-| 49 | [Shake My Sillies Out](https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Play School: 50 Best Songs](https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ) | 0:45 |
+| 47 | [ABC's](https://open.spotify.com/track/1HVy2hV1wg27NB6LCVBxPi) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Nicky Notes](https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1) | [Blippi Tunes, Vol\. 1](https://open.spotify.com/album/2Q6P6UWGxdZxsUZZgzikmJ) | 1:15 |
+| 48 | [Shake My Sillies Out](https://open.spotify.com/track/2J57hWtC2Bg8jay51dbq9F) | [Play School](https://open.spotify.com/artist/0gkeMf1I9r5U5Hne19vr9A) | [Play School: 50 Best Songs](https://open.spotify.com/album/0JurDgXQP9DayhLcQTvCsJ) | 0:45 |
+| 49 | [Fruit Salad](https://open.spotify.com/track/7kDKvOxuIY4aiHdYgKP8gd) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [We're All Fruit Salad!: The Wiggles' Greatest Hits](https://open.spotify.com/album/6tUysAmatHIVl8dOSnfBoO) | 2:28 |
 | 50 | [Shoo\-Fly](https://open.spotify.com/track/69u6Wps4uQfwd2Jl4Jd3Ij) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Favorite Classic Kids' Songs](https://open.spotify.com/album/6q0jz3n3Hk7XAir2AaqaaC) | 2:58 |
 
-Snapshot ID: `AAAAAPNtia9G4V1h1/00EASh0EAkjrGP`
+Snapshot ID: `AAAAAFwTEnxZVVP8C/JTsQpgC1MbsUl1`

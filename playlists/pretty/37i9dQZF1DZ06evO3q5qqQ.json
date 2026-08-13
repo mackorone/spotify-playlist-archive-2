@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118264,
+  "num_followers": 118272,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADnVLiKcqBLHDEW8O7ZqTVr",
+  "snapshot_id": "anpmAAAAAABSfRH6j6KJaSCuuL2t9mm0",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puras De Servando ZL (En Vivo)",
         "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
       },
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149696,
-      "name": "La Pasadita (En vivo)",
-      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
+      "duration_ms": 185973,
+      "name": "El Mas Poderoso (En Vivo)",
+      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+        "name": "Pistiando Con Mi Tata, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 185973,
-      "name": "El Mas Poderoso (En Vivo)",
-      "url": "https://open.spotify.com/track/2Dgl2lWN7geG4QxG81XtKp"
+      "duration_ms": 149696,
+      "name": "La Pasadita (En vivo)",
+      "url": "https://open.spotify.com/track/2l9grS1b0xzLCKTWdWqeeO"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
+        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 149952,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
+      "duration_ms": 170410,
+      "name": "El Chivo Tatemado (En Vivo)",
+      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A La Sombra De Un \u00c1rbol, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1XBHkino209lUqg5yra3wO"
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 170410,
-      "name": "El Chivo Tatemado (En Vivo)",
-      "url": "https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72"
+      "duration_ms": 149952,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
     },
     {
       "added_at": null,

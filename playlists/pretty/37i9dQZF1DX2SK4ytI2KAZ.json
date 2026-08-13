@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1481816,
+  "num_followers": 1481785,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADvku/cDZshcUtPFh8+U2VvJJoUQ",
+  "snapshot_id": "AAAAAKe5tZ0JzSkOenOBWdsFGwuzhqXP",
   "tracks": [
     {
       "added_at": "2026-07-17 14:50:49",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 251880,
+      "name": "Drenched",
+      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
-        "name": "Love Balloon",
-        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 251880,
-      "name": "Drenched",
-      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Cancel Me (I'm Tired)",
-        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 222596,
-      "name": "Cancel Me (I\u2019m Tired)",
-      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Calling After Me",
         "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 187692,
       "name": "Calling After Me",
       "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 222596,
+      "name": "Cancel Me (I\u2019m Tired)",
+      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "junebug!",
-        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 139204,
-      "name": "junebug!",
-      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1147,6 +1131,22 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "No Love Lost to Kindness",
-        "url": "https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "Cowboy Without a Clue",
-      "url": "https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "No Love Lost to Kindness",
+        "url": "https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "Cowboy Without a Clue",
+      "url": "https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Boys In Blue",
-        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 153045,
-      "name": "Boys In Blue",
-      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Boys In Blue",
+        "url": "https://open.spotify.com/album/4Gc4rNpM6O60fm6seAbhqH"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 153045,
+      "name": "Boys In Blue",
+      "url": "https://open.spotify.com/track/0R3sddzRt8fbbY9GKmv1lw"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Sad In Carolina",
-        "url": "https://open.spotify.com/album/4Cb1b3JuX6IAMY9uUq1vfl"
-      },
-      "artists": [
-        {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
-        }
-      ],
-      "duration_ms": 190552,
-      "name": "Sad In Carolina",
-      "url": "https://open.spotify.com/track/477WW3uWDlPpMYR0ahASPh"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Subliminal",
         "url": "https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 165130,
       "name": "Subliminal",
       "url": "https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Sad In Carolina",
+        "url": "https://open.spotify.com/album/4Cb1b3JuX6IAMY9uUq1vfl"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        }
+      ],
+      "duration_ms": 190552,
+      "name": "Sad In Carolina",
+      "url": "https://open.spotify.com/track/477WW3uWDlPpMYR0ahASPh"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 157027,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/7naNsIGKrQ9HfeaoeHtNEf"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 231408,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 157027,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Singin\u2019 to an Empty Chair",
-        "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
-      },
-      "artists": [
-        {
-          "name": "Ratboys",
-          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
-        }
-      ],
-      "duration_ms": 182824,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "I'm Not Afraid Of Music Anymore",
         "url": "https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 177071,
       "name": "Along For The Ride",
       "url": "https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Singin\u2019 to an Empty Chair",
+        "url": "https://open.spotify.com/album/74sjx2H7SMLQkZrJscHw8Y"
+      },
+      "artists": [
+        {
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
+        }
+      ],
+      "duration_ms": 182824,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/5Ckcc7WY6Q7QI6RcP9XzVA"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Hole In The Ground",
-        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 224532,
-      "name": "Hole In The Ground",
-      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "kinda smacks",
         "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
+        "name": "Hole In The Ground",
+        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 224532,
+      "name": "Hole In The Ground",
+      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
@@ -1791,6 +1791,22 @@
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "for your love",
+        "url": "https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3"
+      },
+      "artists": [
+        {
+          "name": "Cruz Beckham",
+          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "for your love",
+      "url": "https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1823,22 +1839,6 @@
       "duration_ms": 197200,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
-        "name": "for your love",
-        "url": "https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3"
-      },
-      "artists": [
-        {
-          "name": "Cruz Beckham",
-          "url": "https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "for your love",
-      "url": "https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ"
     },
     {
       "added_at": "2026-07-17 14:50:49",

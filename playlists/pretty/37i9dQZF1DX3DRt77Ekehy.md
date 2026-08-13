@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,828 likes - 150 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,025 likes - 150 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DRt77Ekehy.md) - [plain]
 | 149 | [Serene Ascension \(432 Hz\)](https://open.spotify.com/track/1krwYvUMSkUuJJ99FQc2ZE) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Serene Ascension \(432 Hz\)](https://open.spotify.com/album/4bFbmkhM0aoLEsuqLed4kR) | 2:18 |
 | 150 | [432 Hz Centered](https://open.spotify.com/track/1S5ssuTXYQ3DPHraEwrWRq) | [Refugium](https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC) | [432 Hz Centered](https://open.spotify.com/album/3AxknB10hOdStdPkus53aI) | 2:41 |
 
-Snapshot ID: `AAAAAF+9sOd6OYiak/h5UvJC7UreAWk0`
+Snapshot ID: `AAAAACG6QqKHPUGx1Iq4dp0Hjsws3225`

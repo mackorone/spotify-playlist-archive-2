@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 758,
+  "num_followers": 759,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAChULR+WEDeVa+IBLclr9I+",
+  "snapshot_id": "anpmAAAAAABKROuwo2VtVf3vnIS/jfGd",
   "tracks": [
     {
       "added_at": null,
@@ -430,15 +430,11 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Double Dee",
-          "url": "https://open.spotify.com/artist/0VCa5LsylPVCUo93jxHCYe"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Early Worms Get Birds",
-      "url": "https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm"
+      "duration_ms": 194430,
+      "name": "No Pun Intended",
+      "url": "https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI"
     },
     {
       "added_at": null,
@@ -518,11 +514,35 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Double Dee",
+          "url": "https://open.spotify.com/artist/0VCa5LsylPVCUo93jxHCYe"
         }
       ],
-      "duration_ms": 194430,
-      "name": "No Pun Intended",
-      "url": "https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI"
+      "duration_ms": 182857,
+      "name": "Early Worms Get Birds",
+      "url": "https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play With Something Safe",
+        "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
+      },
+      "artists": [
+        {
+          "name": "Rosco P Coldchain",
+          "url": "https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Benz Sprinter",
+      "url": "https://open.spotify.com/track/6yBcveDwQEqqfAiZjK68e9"
     },
     {
       "added_at": null,
@@ -551,26 +571,6 @@
       "duration_ms": 270604,
       "name": "COLLECTION PLATES (feat. Young Chris)",
       "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play With Something Safe",
-        "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
-      },
-      "artists": [
-        {
-          "name": "Rosco P Coldchain",
-          "url": "https://open.spotify.com/artist/3YBBdrVEWJrj4XONK0UtP2"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Benz Sprinter",
-      "url": "https://open.spotify.com/track/6yBcveDwQEqqfAiZjK68e9"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late to My Own Funeral",
-        "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Trapezoid",
-      "url": "https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play With Something Safe",
         "url": "https://open.spotify.com/album/78Cct5R4fo9aGCRdxAuTTP"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 185379,
       "name": "Prayer Group",
       "url": "https://open.spotify.com/track/6knyRjv4stK4IIUFehw4dl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late to My Own Funeral",
+        "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Trapezoid",
+      "url": "https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Late to My Own Funeral",
+        "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Antonio Tuttle",
+      "url": "https://open.spotify.com/track/0IEP5dQOX5Km8IG626FG9Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreal",
         "url": "https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 128291,
       "name": "Unreal",
       "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Late to My Own Funeral",
-        "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Meal Prepping",
-      "url": "https://open.spotify.com/track/1miszn27p0hfXYkwVRWj5v"
     },
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvation for the Wicked",
-        "url": "https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "SINNERS",
-      "url": "https://open.spotify.com/track/6SZeloYUNLBtz9r6O1mPwH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late to My Own Funeral",
         "url": "https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W"
       },
@@ -840,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 167441,
-      "name": "Antonio Tuttle",
-      "url": "https://open.spotify.com/track/0IEP5dQOX5Km8IG626FG9Q"
+      "duration_ms": 166706,
+      "name": "Meal Prepping",
+      "url": "https://open.spotify.com/track/1miszn27p0hfXYkwVRWj5v"
     },
     {
       "added_at": null,
@@ -867,6 +843,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Salvation for the Wicked",
+        "url": "https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "SINNERS",
+      "url": "https://open.spotify.com/track/6SZeloYUNLBtz9r6O1mPwH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Criminally Attached",
         "url": "https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 184370,
       "name": "Thumb of Craven",
       "url": "https://open.spotify.com/track/0b4QMytM23x5RIqNoZR3pv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Craven N",
-        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        }
-      ],
-      "duration_ms": 135384,
-      "name": "Wolfing Down",
-      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -931,46 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvation for the Wicked",
-        "url": "https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM"
+        "name": "Craven N",
+        "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
       "artists": [
         {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "16 TITHES",
-      "url": "https://open.spotify.com/track/77XDy9BNa8KSZ0dapC90dZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criminally Attached",
-        "url": "https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         },
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
         }
       ],
-      "duration_ms": 152049,
-      "name": "Thread the Needle",
-      "url": "https://open.spotify.com/track/4yqk2d1ChKJsyKFShTY3JI"
+      "duration_ms": 135384,
+      "name": "Wolfing Down",
+      "url": "https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3"
     },
     {
       "added_at": null,
@@ -995,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criminally Attached",
+        "url": "https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 152049,
+      "name": "Thread the Needle",
+      "url": "https://open.spotify.com/track/4yqk2d1ChKJsyKFShTY3JI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -1011,6 +987,30 @@
       "duration_ms": 146807,
       "name": "Wit out a Question",
       "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salvation for the Wicked",
+        "url": "https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "16 TITHES",
+      "url": "https://open.spotify.com/track/77XDy9BNa8KSZ0dapC90dZ"
     },
     {
       "added_at": null,
@@ -1035,30 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvation for the Wicked",
-        "url": "https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "OFFERINGS",
-      "url": "https://open.spotify.com/track/5hMnU2uA3XbuDEulRabqRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -1075,6 +1051,26 @@
       "duration_ms": 127089,
       "name": "Deliver Us from Evil",
       "url": "https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

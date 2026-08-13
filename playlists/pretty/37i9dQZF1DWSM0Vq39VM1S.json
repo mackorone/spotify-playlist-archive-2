@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388045,
+  "num_followers": 388019,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmiuzYUpIGLanux2neOZ8XRB2Aj",
+  "snapshot_id": "AAAAAI6bPefsJhfQ+W1UyJFOSBJkkxP/",
   "tracks": [
     {
       "added_at": "2026-07-31 09:02:32",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Hen's Teeth",
         "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Horsepower For The Streets (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Small Mercies",
-      "url": "https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "Horsepower For The Streets (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Small Mercies",
+      "url": "https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
-      },
-      "artists": [
-        {
-          "name": "Annie Lalalove",
-          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Una lunghissima ombra",
         "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 389173,
       "name": "Ricordo tattile",
       "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/63f4ACjDE8ucRFZgnglWOm"
+      },
+      "artists": [
+        {
+          "name": "Annie Lalalove",
+          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/1PJEzOSG67yPOarjKAlvg6"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "How Much Does It Take To Shift It All",
         "url": "https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 153900,
       "name": "How Much Does It Take To Shift It All",
       "url": "https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

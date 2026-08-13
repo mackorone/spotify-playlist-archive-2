@@ -1,12 +1,12 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1642568,
+  "num_followers": 1642394,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD/nuLryYsR/1v23pOBgnRRXh3qB",
+  "snapshot_id": "AAAAAHtBTWFtBIoDsHG1++fsGQuwwVTI",
   "tracks": [
     {
       "added_at": "2026-07-09 23:27:48",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Down The Way",
-        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Birdseye",
         "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 151573,
       "name": "Birdseye",
       "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I"
-      },
-      "artists": [
-        {
-          "name": "Julia Pratt",
-          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
-        }
-      ],
-      "duration_ms": 240581,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "mountain of a memory",
         "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 276611,
       "name": "blue jean",
       "url": "https://open.spotify.com/track/40vvgzQb8LSURO2Vh7dJgz"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I"
+      },
+      "artists": [
+        {
+          "name": "Julia Pratt",
+          "url": "https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8"
+        }
+      ],
+      "duration_ms": 240581,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "When We Are Together",
-      "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 190453,
       "name": "Julia",
       "url": "https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "When We Are Together",
+      "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
     },
     {
       "added_at": "2026-07-09 23:27:48",

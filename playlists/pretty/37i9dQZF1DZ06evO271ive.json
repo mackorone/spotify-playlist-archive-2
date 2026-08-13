@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31057,
+  "num_followers": 31062,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAUKB4gV6GGdsec17foVtjw",
+  "snapshot_id": "anpmAAAAAABzfXaDalvlbP7S5qKa6/gG",
   "tracks": [
     {
       "added_at": null,
@@ -303,6 +303,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Eyes on Shiest",
+        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 143893,
+      "name": "Booty Club (feat. Sexyy Red, Tay Keith)",
+      "url": "https://open.spotify.com/track/04Ej3cJSaO2mZUUbagGNH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
         "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
       },
@@ -335,30 +359,6 @@
       "duration_ms": 140400,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Eyes on Shiest",
-        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 143893,
-      "name": "Booty Club (feat. Sexyy Red, Tay Keith)",
-      "url": "https://open.spotify.com/track/04Ej3cJSaO2mZUUbagGNH8"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 129170,
-      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
-      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PLUTO WORLD",
         "url": "https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 192676,
       "name": "Motion (feat. Sexyy Red and NaNaski)",
       "url": "https://open.spotify.com/track/7gJXSHmCXakEgkdzFSqy4L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+        "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 129170,
+      "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
+      "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finessin Distribution Deals",
-        "url": "https://open.spotify.com/album/5xvxAGdId1qTJ9SYo4FG96"
-      },
-      "artists": [
-        {
-          "name": "Fox BD",
-          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 114436,
-      "name": "G6",
-      "url": "https://open.spotify.com/track/1ArC6mSIm1HZdmZCi7wlJT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOTH WAYS",
         "url": "https://open.spotify.com/album/5takDjdhFUtCaKOX8w1McN"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 147600,
       "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
       "url": "https://open.spotify.com/track/7hh2C7xVRXOCiljojwYITf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finessin Distribution Deals",
+        "url": "https://open.spotify.com/album/5xvxAGdId1qTJ9SYo4FG96"
+      },
+      "artists": [
+        {
+          "name": "Fox BD",
+          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 114436,
+      "name": "G6",
+      "url": "https://open.spotify.com/track/1ArC6mSIm1HZdmZCi7wlJT"
     },
     {
       "added_at": null,

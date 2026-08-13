@@ -8566,7 +8566,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 149387,
       "name": "Ceai langa tine",
       "url": "https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT"
@@ -11268,7 +11268,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-12",
+      "date_removed": null,
       "duration_ms": 179551,
       "name": "Da fata se vede belea",
       "url": "https://open.spotify.com/track/137HVoB0FeQ4algPiTH60w"
@@ -18247,6 +18247,28 @@
     },
     {
       "album": {
+        "name": "Gangsta Luv",
+        "url": "https://open.spotify.com/album/6f8t3CYByKFuKuUBRHEjzf"
+      },
+      "artists": [
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133886,
+      "name": "Gangsta Luv",
+      "url": "https://open.spotify.com/track/3aMVeiJKtSSwhYwafOSZnM"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
       },
@@ -22725,6 +22747,28 @@
     },
     {
       "album": {
+        "name": "Inchisi La Domiciliu",
+        "url": "https://open.spotify.com/album/1lmbnyd5cS4EKwVJldcjHD"
+      },
+      "artists": [
+        {
+          "name": "Denis Nuca",
+          "url": "https://open.spotify.com/artist/4TLna5dZJK26djhdP36lmj"
+        },
+        {
+          "name": "Gheboas\u0103",
+          "url": "https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155991,
+      "name": "Inchisi La Domiciliu",
+      "url": "https://open.spotify.com/track/0eboSsYgksPciDqENjzA5z"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -26484,7 +26528,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -34406,7 +34450,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 162782,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/3x380J5Y7jLYz9x8vvzKvb"
@@ -39534,7 +39578,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 173793,
       "name": "SA TE PUP",
       "url": "https://open.spotify.com/track/3dKNqxTNbM58WbgwHeodDn"
@@ -43432,7 +43476,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 130000,
       "name": "StiluGaroiFreestyle",
       "url": "https://open.spotify.com/track/77e2stPrGMPnSMqbnEMD1G"

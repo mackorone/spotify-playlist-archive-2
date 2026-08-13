@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,286 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,306 likes - 40 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 9 | [Kalam Ennas](https://open.spotify.com/track/31xnf3zZUIX9w33rIlg9bH) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Kalam Ennas](https://open.spotify.com/album/4NRYYEbwnAtGi9UIcH9Qqc) | 7:02 |
 | 10 | [Abdel Kader \- Live à Bercy, Paris / 1998](https://open.spotify.com/track/3PNqtQFVeULgHm7Cs7Yofd) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ), [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [1,2,3, Soleils](https://open.spotify.com/album/1fYYDAZ9C2gg3rB66JpHjS) | 4:57 |
 | 11 | [Al Sood Oyouno](https://open.spotify.com/track/4YOT9nhghKCiTncEIEyWvd) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Nar Al Hob](https://open.spotify.com/album/7utlKxzLekJ6Bb43ZQTm1G) | 4:09 |
-| 12 | [Einy](https://open.spotify.com/track/5xxEGZMslp53oE2unBxJ5L) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Einy](https://open.spotify.com/album/0ISl77nOBwdDpWOBJOS2OR) | 4:58 |
-| 13 | [Mandam A'leyk \- 2000 Digital Remaster](https://open.spotify.com/track/0zhjCI84FEpzxhVt7DcZ6H) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Mandam A'Leuk](https://open.spotify.com/album/0xtqgojulqbkDENkt7vYjB) | 5:12 |
+| 12 | [Mandam A'leyk \- 2000 Digital Remaster](https://open.spotify.com/track/0zhjCI84FEpzxhVt7DcZ6H) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Mandam A'Leuk](https://open.spotify.com/album/0xtqgojulqbkDENkt7vYjB) | 5:12 |
+| 13 | [Einy](https://open.spotify.com/track/5xxEGZMslp53oE2unBxJ5L) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT), [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Einy](https://open.spotify.com/album/0ISl77nOBwdDpWOBJOS2OR) | 4:58 |
 | 14 | [Malhomsh Fel Tayeb](https://open.spotify.com/track/6amGvLtCwPRzsXvra8toV8) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Yashak Amar](https://open.spotify.com/album/0TiLIrZnWWOfbQekPaINIi) | 6:12 |
 | 15 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 |
 | 16 | [Eskandarany](https://open.spotify.com/track/7ASLjRJBMltLFRyDKmOdbo) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Layalyki](https://open.spotify.com/album/4GrJfxi95PEpCKmi2WVZGq) | 3:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 39 | [Yabo Khad](https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y) | [Fares](https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k) | [High Quality Vol 1](https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN) | 3:45 |
 | 40 | [الدلعونا](https://open.spotify.com/track/7ey7KJqVGCsKDvnMNYHMnq) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [مواويل ودبكة](https://open.spotify.com/album/7q7fTrlnMQzFMwQbka1E0v) | 11:14 |
 
-Snapshot ID: `AAAAAG0RvEfqVyXsQnWrcu6QcbjkZHwi`
+Snapshot ID: `AAAAAPZTo1t2tjzekF2QLDiYiHLv84hM`

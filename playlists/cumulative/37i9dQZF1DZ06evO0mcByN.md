@@ -4,7 +4,7 @@
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-75 songs - 6 hr 28 min
+76 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,5 +83,6 @@
 | [Vai Acontecer](https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 3:57 | 2023-07-09 |  |
 | [Vai Valer a Pena](https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:40 | 2023-07-09 |  |
 | [Vazio](https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vazio](https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR) | 5:09 | 2023-07-09 |  |
+| [Vencendo de Joelhos \- Ao Vivo](https://open.spotify.com/track/1gk1YLKK4HmJzAWL9teEsU) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Vencendo de Joelhos \(Ao Vivo\)](https://open.spotify.com/album/3fZmJsxEKccWynHXnsqxnp) | 8:52 | 2026-08-13 |  |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

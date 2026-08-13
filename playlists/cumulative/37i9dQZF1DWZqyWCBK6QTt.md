@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: ADÉLA
 
-456 songs - 1 day 4 hr 11 min
+457 songs - 1 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Beautiful Surprise \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1gXiYI4GLRq0NhTRkAXYqZ) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Spotify Singles](https://open.spotify.com/album/5GQsyApGiDXhevzFuqZQuA) | 2:39 | 2021-09-24 | 2022-07-21 |
 | [Believe \- Spotify Singles](https://open.spotify.com/track/5mtW8Fo5sjFQY6nA10mDIy) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Spotify Singles](https://open.spotify.com/album/2Ugyft4arCFXPSASDVIXs0) | 4:08 | 2022-10-03 | 2023-03-04 |
 | [Better Now \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Spotify Singles](https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7) | 3:50 | 2021-09-24 |  |
+| [Big Girls Don't Cry \(Fergie Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 | 2026-08-13 |  |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2021-09-24 |  |
 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 | 2023-05-31 | 2023-07-16 |
 | [Bittersweet Symphony \- Jim Eno Sessions](https://open.spotify.com/track/7EY9x0t85n6XxlaFAREbra) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0JSV7pb2t7Krg2ohhZpx5a) | 5:23 | 2021-09-24 | 2022-05-27 |
@@ -61,7 +62,7 @@
 | [Bridge over Troubled Water \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/0b0Q8bYchJLk4fCIyJhC0i) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Spotify Singles](https://open.spotify.com/album/6Q9QCXE8F7ubD0PE2bialv) | 5:00 | 2021-09-24 | 2022-07-29 |
 | [Broccoli \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6TdtffAIKX1VlGeDtadh2E) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU) | [Spotify Singles](https://open.spotify.com/album/2wxppKhtOtdVmulah3qxow) | 2:43 | 2022-03-24 | 2022-04-21 |
 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 | 2024-08-06 |  |
-| [Bubble Gum \- Spotify Singles](https://open.spotify.com/track/2kWvxORGE9opGvBigmJsRq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:06 | 2023-05-03 |  |
+| [Bubble Gum \- Spotify Singles](https://open.spotify.com/track/2kWvxORGE9opGvBigmJsRq) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Spotify Singles](https://open.spotify.com/album/7zEdNZvwcHjmuTKHB4mHlF) | 3:06 | 2023-05-03 | 2026-08-13 |
 | [Buena Sera \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1uDOXrIOANQXEhqbFay4Ks) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Spotify Singles](https://open.spotify.com/album/45TIKE2URFPyJlo6UA2kMl) | 3:14 | 2021-09-24 | 2022-05-27 |
 | [Buy U A Drank \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Spotify Singles](https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX) | 2:43 | 2021-09-24 | 2022-07-27 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-10-03 | 2024-04-19 |

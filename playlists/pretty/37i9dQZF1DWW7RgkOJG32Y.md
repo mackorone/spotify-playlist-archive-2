@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Cameron Whitcomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,338 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,406 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 |
 | 50 | [Songs About Us](https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Songs About Us](https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE) | 2:52 |
 
-Snapshot ID: `AAAAAGt0lLew66uZkve2F4NzxRp/Znw7`
+Snapshot ID: `AAAAALnNtaZqfXQZhA9MKqiU9WzFM7rQ`

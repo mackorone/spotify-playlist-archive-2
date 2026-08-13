@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by Arab artists\. Cover: Shargeeya
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,914 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,927 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 49 | [decompose](https://open.spotify.com/track/7bCD7NDkiRs5Hu9EqA72Wc) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:12 |
 | 50 | [NASKAR](https://open.spotify.com/track/6wnSQh2JzBCIj1kVFq1kPM) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:26 |
 
-Snapshot ID: `AAAAADXYVOAIcI4LQ2eWthgQrVVUZOZA`
+Snapshot ID: `AAAAAMG1vzJU8128uxVuZCtYaKnIyzFm`

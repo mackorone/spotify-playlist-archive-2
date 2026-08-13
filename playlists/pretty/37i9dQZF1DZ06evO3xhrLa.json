@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 247160,
+  "num_followers": 247188,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAVrfLgr1b34CKnlTnynB76",
+  "snapshot_id": "anpmAAAAAAC2mLAoPBVB2DbgjtdwWcFz",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chilombo",
-        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 212866,
-      "name": "B.S. (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
+      "duration_ms": 322160,
+      "name": "From Time",
+      "url": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
     },
     {
       "added_at": null,
@@ -215,22 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Was The Same (Deluxe)",
-        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 322160,
-      "name": "From Time",
-      "url": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
+      "duration_ms": 212866,
+      "name": "B.S. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
     },
     {
       "added_at": null,

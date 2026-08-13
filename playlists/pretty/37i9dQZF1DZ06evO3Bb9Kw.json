@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173908,
+  "num_followers": 173911,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAnfRpukL3XVhkF2b7lG/B6",
+  "snapshot_id": "anpmAAAAAADDgj8j7SdjBVCgXjPApksU",
   "tracks": [
     {
       "added_at": null,
@@ -995,30 +995,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell On Heels",
-        "url": "https://open.spotify.com/album/2zJVeRorn9q3XBeH7twIjc"
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
       },
       "artists": [
         {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        },
-        {
           "name": "Miranda Lambert",
           "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Angaleena Presley",
-          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
         }
       ],
-      "duration_ms": 196733,
-      "name": "Takin' Pills",
-      "url": "https://open.spotify.com/track/2I8sTYMwuTsTL3K5vR6MB5"
+      "duration_ms": 163875,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6zUbSReLqmTpjbX6GqdOkP"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

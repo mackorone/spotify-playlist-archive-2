@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 531282,
+  "num_followers": 531392,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAASlBzDi+yvmsuGhZFWT1Ax",
+  "snapshot_id": "anpmAAAAAACSbno8nWXcVHZ0KhdoFvtu",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
+      "duration_ms": 217633,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/1NhzZ6e9KUfNtmglopUIdo"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/2lBCw89lTcccd0HTvXGmyJ"
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
       },
       "artists": [
         {
@@ -304,25 +304,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 217633,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/1NhzZ6e9KUfNtmglopUIdo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Tompkins Square Park",
-      "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/7Kyfw8u6etOY1OkeEw2cMy"
     },
     {
       "added_at": null,
@@ -339,6 +323,22 @@
       "duration_ms": 314893,
       "name": "Lover of the Light",
       "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Tompkins Square Park",
+      "url": "https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wilder Mind",
-        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Wilder Mind",
-      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 221226,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2KQrrkOaaQWltWn6toCmfL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wilder Mind",
+        "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "Wilder Mind",
+      "url": "https://open.spotify.com/track/60Q1lkwI6yCnOdwbA1mX1s"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2426179,
+  "num_followers": 2425871,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPkPzlPMNWi5tBzbEeEpqS4+9JBZ",
+  "snapshot_id": "AAAAAGz+cY+fI+ZARvpePgkpRoJ0VMAP",
   "tracks": [
     {
       "added_at": "2026-08-07 04:22:25",
@@ -123,18 +123,26 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Soapdish Reloaded",
-        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
+        "name": "Sa Susunod Na Lang",
+        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
       "artists": [
         {
-          "name": "Soapdish",
-          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
         }
       ],
-      "duration_ms": 196693,
-      "name": "Tensionado",
-      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
+      "duration_ms": 214606,
+      "name": "Sa Susunod Na Lang",
+      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -171,26 +179,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Sa Susunod Na Lang",
-        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
+        "name": "Soapdish Reloaded",
+        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
       },
       "artists": [
         {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+          "name": "Soapdish",
+          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
         }
       ],
-      "duration_ms": 214606,
-      "name": "Sa Susunod Na Lang",
-      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+      "duration_ms": 196693,
+      "name": "Tensionado",
+      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Ikaw Lang Patutunguhan",
-        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
-      },
-      "artists": [
-        {
-          "name": "Amiel Sol",
-          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
-        }
-      ],
-      "duration_ms": 326896,
-      "name": "Ikaw Lang Patutunguhan",
-      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
         "name": "Middle-Aged Juvenile Novelty Pop Rockers",
         "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+        "name": "Ikaw Lang Patutunguhan",
+        "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
       },
       "artists": [
         {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
         }
       ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+      "duration_ms": 326896,
+      "name": "Ikaw Lang Patutunguhan",
+      "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -379,6 +363,22 @@
       "duration_ms": 157692,
       "name": "Marilag",
       "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Pa-umaga",
-        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
-      },
-      "artists": [
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 189019,
-      "name": "Pa-umaga",
-      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
+        "name": "Pa-umaga",
+        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 189019,
+      "name": "Pa-umaga",
+      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
         "name": "Oksihina",
         "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 204051,
       "name": "Oksihina",
       "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
         "name": "Nahanap Kita",
         "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
-        "name": "Saranggola",
-        "url": "https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Saranggola",
-      "url": "https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
         "name": "Uhaw (Tayong Lahat)",
         "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
+        "name": "Saranggola",
+        "url": "https://open.spotify.com/album/36gNzsCUsMd3CoD9zGyMUp"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "Saranggola",
+      "url": "https://open.spotify.com/track/2V3HVXu25O5xCAjmmptYCo"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
         "name": "Balisong (Transformed)",
         "url": "https://open.spotify.com/album/2e0sfb67QiHlZOjWVQ6Jmt"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 163571,
       "name": "Balisong - Transformed",
       "url": "https://open.spotify.com/track/2s9DQB5ftRcdIRpj3n3pDR"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -871,6 +855,22 @@
       "duration_ms": 259114,
       "name": "Titig",
       "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
+        "name": "Sila",
+        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
     }
   ],
   "unique_name": "OPM Favorites",

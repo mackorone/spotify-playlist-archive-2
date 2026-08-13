@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Amor Líquido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,623 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,624 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 26 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |
 | 27 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |
 | 28 | [OTA](https://open.spotify.com/track/3FjDHcmwRk8gSEfyjwMBnC) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [OTA](https://open.spotify.com/album/4sl6H4xJkNuDjFMPeHZVxJ) | 2:09 |
-| 29 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
-| 30 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
+| 29 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 |
+| 30 | [Mejor mañana](https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Mejor mañana](https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne) | 3:23 |
 | 31 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
 | 32 | [Ay Amor](https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Ay Amor](https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL) | 2:11 |
 | 33 | [Bichifokel](https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Bichifokel](https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q) | 3:07 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 37 | [NOIS](https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC) | [Ouineta](https://open.spotify.com/artist/3a1trTgNtHPigdFxMGg1e3), [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp) | [Ouineta Verificada](https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus) | 3:01 |
 | 38 | [V.I.P](https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [V.I.P](https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6) | 2:17 |
 | 39 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 |
-| 40 | [Te Perdí](https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:10 |
-| 41 | [Ave de Paso](https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Ave de Paso](https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG) | 3:50 |
+| 40 | [Ave de Paso](https://open.spotify.com/track/2RmeHwa9PczrBGmYJFdRgA) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Ave de Paso](https://open.spotify.com/album/5AwzxGNJnTMx94XOB0wUKG) | 3:50 |
+| 41 | [Te Perdí](https://open.spotify.com/track/6ONIKY4nNgn1Wxrn15eBFw) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:10 |
 | 42 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
 | 43 | [Yo quiero un affaire](https://open.spotify.com/track/3z9X4FONGlgEjttQHW2gLV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Yo quiero un affaire](https://open.spotify.com/album/4xZJ0Ak8kZS4XdDVJOxkmj) | 3:04 |
 | 44 | [desayunarte](https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [pop blandito](https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi) | 3:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [Pipe dream](https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Pipe dream](https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf) | 2:37 |
 | 48 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 | 49 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:54 |
-| 50 | [Perdón x ser yo](https://open.spotify.com/track/7mnlEDLpENE1qMJAOprtNp) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Perdón x ser yo](https://open.spotify.com/album/5f3slcUGQ4yKnHoY3JVEZV) | 2:46 |
+| 50 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 |
 
-Snapshot ID: `AAAAAHzGkfpNz9K+jQga67kdmU4Hb3+i`
+Snapshot ID: `AAAAAIfjZTpziy7RDLo6nznePsfQbEf8`

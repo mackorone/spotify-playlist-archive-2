@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: Jiggy Djé
+> De beste tracks in WS❗️Cover: Jiggy Djé\. <a href="spotify:genre:0JQ5IMCbQBLnL4wTUNKUoY">Check hier meer zomer aanbevelingen!</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,401 likes - 60 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,375 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Stap Maar In](https://open.spotify.com/track/4XBuMkIUw2dT2I0wipNYAL) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Stap Maar In](https://open.spotify.com/album/1XXdefqvfA8RBEqRYfldQt) | 2:39 |
 | 60 | [Niks Persoonlijks](https://open.spotify.com/track/6tQAp8c1u2UZdTY21xInfF) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Niks Persoonlijks](https://open.spotify.com/album/43lgqe1CDhc1uCCyPitltY) | 2:38 |
 
-Snapshot ID: `AAAAAGonONT++dMmCALohOngiCN53/h/`
+Snapshot ID: `AAAAAH/3D7JkfQ//pwhkG+55m5bxS+Ul`

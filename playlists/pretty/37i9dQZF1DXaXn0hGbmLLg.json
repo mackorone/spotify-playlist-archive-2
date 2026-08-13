@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxw0Qc6HtJhq1npdI/0vh516lEu",
+  "snapshot_id": "AAAAAP76c9nyEJcz7yeH8iDJeA64BGKm",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:19",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Do You Want It Right Now",
-        "url": "https://open.spotify.com/album/2eHQRRCQNj2lFDXYcPtj2M"
-      },
-      "artists": [
-        {
-          "name": "Stefania",
-          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "Do You Want It Right Now",
-      "url": "https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Terug Bij Af",
         "url": "https://open.spotify.com/album/5la8hK7ztHSPnb9mBycbXf"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 155374,
       "name": "Terug Bij Af",
       "url": "https://open.spotify.com/track/34LSD9i0uMB3ecBIdhNC89"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Do You Want It Right Now",
+        "url": "https://open.spotify.com/album/2eHQRRCQNj2lFDXYcPtj2M"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "Do You Want It Right Now",
+      "url": "https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/1yEWyUGH94b5OIKxGQR9co"
-      },
-      "artists": [
-        {
-          "name": "Elieve",
-          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
-        }
-      ],
-      "duration_ms": 149274,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/1UDekAHHjZsAUs3RWRBhKr"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Que Rico",
         "url": "https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Ik Wil Je Terug",
-        "url": "https://open.spotify.com/album/06L4yCUAIIVZH7XghhyDdl"
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/1yEWyUGH94b5OIKxGQR9co"
       },
       "artists": [
         {
-          "name": "FLORA",
-          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+          "name": "Elieve",
+          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
         }
       ],
-      "duration_ms": 166488,
-      "name": "Ik Wil Je Terug",
-      "url": "https://open.spotify.com/track/0hAJJ3P8CnHixr0AhySogi"
+      "duration_ms": 149274,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/1UDekAHHjZsAUs3RWRBhKr"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -679,6 +663,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Ik Wil Je Terug",
+        "url": "https://open.spotify.com/album/06L4yCUAIIVZH7XghhyDdl"
+      },
+      "artists": [
+        {
+          "name": "FLORA",
+          "url": "https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W"
+        }
+      ],
+      "duration_ms": 166488,
+      "name": "Ik Wil Je Terug",
+      "url": "https://open.spotify.com/track/0hAJJ3P8CnHixr0AhySogi"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "lastig :(",
         "url": "https://open.spotify.com/album/4RLeuOclPtyk7RBkgJmkXk"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/00wO5edPzxpaDAgQY37RoQ"
-      },
-      "artists": [
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 173904,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1RXW31o9gvK3bBvIcreHFF"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Raging Storms Turned to Beach Weather",
         "url": "https://open.spotify.com/album/5BZbnRd4Xc4bPAowC39ur1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173375,
       "name": "Coming up for Air",
       "url": "https://open.spotify.com/track/3xjtL3xd3VYg7qSLSGlH0A"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/00wO5edPzxpaDAgQY37RoQ"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 173904,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1RXW31o9gvK3bBvIcreHFF"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Love Me (Soul Card Never Declines)",
-        "url": "https://open.spotify.com/album/4zNLKcm2F1Wwazx7QKj2nR"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 169224,
-      "name": "Love Me (Soul Card Never Declines)",
-      "url": "https://open.spotify.com/track/6d4JIch090xEhhxPfk1Slt"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/6ZUmiLywnQFNRcnb0sqPvI"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 309946,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6eameOYe26Fy9h11X2S4P5"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Love Me (Soul Card Never Declines)",
+        "url": "https://open.spotify.com/album/4zNLKcm2F1Wwazx7QKj2nR"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 169224,
+      "name": "Love Me (Soul Card Never Declines)",
+      "url": "https://open.spotify.com/track/6d4JIch090xEhhxPfk1Slt"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Sad & Horny",
-        "url": "https://open.spotify.com/album/7bb2fOmEUOosOAhinucFd0"
-      },
-      "artists": [
-        {
-          "name": "Mila & Mira",
-          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
-        }
-      ],
-      "duration_ms": 181198,
-      "name": "Sad & Horny",
-      "url": "https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Make It Real Fierce",
         "url": "https://open.spotify.com/album/6rLWkeuygRzHjGQXUYQWWn"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 207567,
       "name": "Make It Real Fierce",
       "url": "https://open.spotify.com/track/0c5OZc96uyhE2gGZsBY6aL"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Sad & Horny",
+        "url": "https://open.spotify.com/album/7bb2fOmEUOosOAhinucFd0"
+      },
+      "artists": [
+        {
+          "name": "Mila & Mira",
+          "url": "https://open.spotify.com/artist/4UDEon8rygyvvXDVBVR4dg"
+        }
+      ],
+      "duration_ms": 181198,
+      "name": "Sad & Horny",
+      "url": "https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe"
     },
     {
       "added_at": "2026-08-04 22:00:19",

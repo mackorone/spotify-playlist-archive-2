@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: mgk, 千葉雄喜
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,715 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,716 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 49 | [OMG feat pusha t](https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 2:26 |
 | 50 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
 | 51 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
-| 52 | [DUMBLR](https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Kreayshawn](https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd) | [DUMBLR](https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8) | 2:44 |
+| 52 | [DUMBLR \(feat\. E\-40 & Kreayshawn\)](https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Kreayshawn](https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd) | [DUMBLR \(feat\. E\-40 & Kreayshawn\)](https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8) | 2:44 |
 | 53 | [Outside](https://open.spotify.com/track/66akDgOGJi139ys0umhBns) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Outside](https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT) | 3:04 |
 | 54 | [Ghetto Love Story](https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Rise Against My Broken Odds](https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB) | 2:58 |
 | 55 | [visa ビザ](https://open.spotify.com/track/0CU3GogGjRdkUQqiCOUiC4) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [REKKI II](https://open.spotify.com/album/6xzUgeLDloe7YAb2yNABsW) | 1:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 99 | [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 |
 | 100 | [BAKA BAKA](https://open.spotify.com/track/7nQN2LeQwBWX9CaOcTPMzv) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [BAKA BAKA](https://open.spotify.com/album/0ZoQyFhctmUakbVOaj4jxr) | 2:38 |
 
-Snapshot ID: `AAAAAM49Utbx/SOHaiwabv3I46H+Sh4n`
+Snapshot ID: `AAAAAJ1YmPs53GLkw+3QzkLghEcjwcZR`

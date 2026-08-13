@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38439,
+  "num_followers": 38438,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAB3PI1iJlKrmwxC9MFDPO5+",
+  "snapshot_id": "anpmAAAAAADUihUYs/8Fo3YEAxkihEPT",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
       "duration_ms": 117010,
       "name": "Gallop (feat. Evita Manji)",
       "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHEETAH BEND",
-        "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
-      },
-      "artists": [
-        {
-          "name": "JIMMY EDGAR",
-          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 200287,
-      "name": "METAL",
-      "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
     },
     {
       "added_at": null,

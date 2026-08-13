@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,385 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,395 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 9 | [Príncipe Negro](https://open.spotify.com/track/51lvHVjDd4ZaqBfycAtDWm) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [A Rainha das Aparelhagens, Vol\. 3](https://open.spotify.com/album/3xR49vqFimEPnvt24en3E7) | 3:36 |
 | 10 | [Pra Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0YcOV4SbJCSO5xJpVsIw18) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Isso É Calypso na Amazônia \- Bloco 1 \(Ao Vivo\)](https://open.spotify.com/album/07DKQEQmK2bV9AoZrhDivn) | 4:19 |
 | 11 | [Anjo](https://open.spotify.com/track/2lCGyoF4rolzOksz16CpDs) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:31 |
-| 12 | [Foi no Teu Olhar](https://open.spotify.com/track/1xRPZSsnyZOje2akLf3hKT) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Harrisson Lemos](https://open.spotify.com/artist/5iNIf91QnE9ViRRK6dSb70) | [Disparando o Sucesso Vol\. 5](https://open.spotify.com/album/59pwOf6MGXPUYSc1uT8SxG) | 3:46 |
+| 12 | [Te Amo Fudido](https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:43 |
 | 13 | [Aquele Alguém \- Ao Vivo](https://open.spotify.com/track/1nAD91gB0vCiMUPS0D90tZ) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Aquele Alguém \(Ao Vivo\)](https://open.spotify.com/album/5exAOaD06kYTFxUfPDdLDp) | 2:54 |
-| 14 | [Te Amo Fudido](https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Rock Doido](https://open.spotify.com/album/2lHhpY2cSNO1kjyReGEfrK) | 2:43 |
+| 14 | [Foi no Teu Olhar](https://open.spotify.com/track/1xRPZSsnyZOje2akLf3hKT) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Harrisson Lemos](https://open.spotify.com/artist/5iNIf91QnE9ViRRK6dSb70) | [Disparando o Sucesso Vol\. 5](https://open.spotify.com/album/59pwOf6MGXPUYSc1uT8SxG) | 3:46 |
 | 15 | [Passe de Mágica \- Ao Vivo](https://open.spotify.com/track/2Cjj80m95OCsZWR8nT3Msj) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Passe de Mágica \(Ao Vivo\)](https://open.spotify.com/album/3jNRjd9XKWYCHSW00aOM8L) | 4:40 |
 | 16 | [Tic Tac](https://open.spotify.com/track/5LPazgtTZDkx73NjcMnZgx) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo na Amazônia](https://open.spotify.com/album/0NsBhK5b0iHGZFOMirfnla) | 3:32 |
 | 17 | [Ruby](https://open.spotify.com/track/7c7wzn285HbPuZzmhz7z1i) | [Banda Ravelly](https://open.spotify.com/artist/5D7dGRxmAnl6Smasp7WGVW) | [Envolvendo Você!](https://open.spotify.com/album/0DmS3rCKjEDUNy9zBcp3wD) | 3:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 64 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
 | 65 | [Olha Bem Pra Mim](https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Olha Bem Pra Mim](https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU) | 3:18 |
 
-Snapshot ID: `AAAAAB8FbXVYmqhLmjfoUEVLZeNsXLXH`
+Snapshot ID: `AAAAAP3xcr1UZS75j2gSpGOOccySU4jH`

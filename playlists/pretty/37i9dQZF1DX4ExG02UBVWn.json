@@ -1,12 +1,12 @@
 {
   "description": "for the late nights",
-  "num_followers": 20925,
+  "num_followers": 20923,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIjJoSsrJWTcVa3THlCCWHz+6Dg",
+  "snapshot_id": "AAAAAG+U+/ZQjVGc/kY3GdYJFqDopk+i",
   "tracks": [
     {
       "added_at": "2025-08-07 15:52:15",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/23M9G26uSJJO3yFGoW8a9t"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 162986,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7ctAXhngA8Kmt6pgaDcphf"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/7pfx2xxO3rAQPVUIdQYwtM"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Figures On The Wall",
-        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
-      },
-      "artists": [
-        {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Figures On The Wall",
-      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Button Up",
         "url": "https://open.spotify.com/album/1D7dJ6DynUboIRFZ7TT20L"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 157440,
       "name": "Button Up",
       "url": "https://open.spotify.com/track/2dMW31LPd4yL1LVvmXcowO"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Figures On The Wall",
+        "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 182546,
+      "name": "Figures On The Wall",
+      "url": "https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Raining Colours",
-        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
-      },
-      "artists": [
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "Raining Colours",
-      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Doubt Nothing",
         "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 180000,
       "name": "Doubt Nothing",
       "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Raining Colours",
+        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "Raining Colours",
+      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "No Place for Patience, Vol. 3",
-        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 162120,
-      "name": "Pingu",
-      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Trouble Sleeping",
         "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215172,
       "name": "Trouble Sleeping",
       "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "No Place for Patience, Vol. 3",
+        "url": "https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 162120,
+      "name": "Pingu",
+      "url": "https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1187,46 +1187,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
-      },
-      "artists": [
-        {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
-        },
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        },
-        {
-          "name": "R-Kay",
-          "url": "https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Further Out Than The Edge",
         "url": "https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2"
       },
@@ -1259,6 +1219,46 @@
       "duration_ms": 218212,
       "name": "Soapbox Soliloquy",
       "url": "https://open.spotify.com/track/6VsIzGuLAHVTRPspRCpMYu"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
+      },
+      "artists": [
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        },
+        {
+          "name": "R-Kay",
+          "url": "https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "26% MIXTAPE",
-        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Ride 2 Nowhere",
-      "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Makin' You Mine/WHATCHUNEED",
         "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 138916,
       "name": "Makin' You Mine",
       "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "26% MIXTAPE",
+        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Ride 2 Nowhere",
+      "url": "https://open.spotify.com/track/4eRHpTaioNYFDEmtv94iZJ"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "White Doves",
+        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
+      },
+      "artists": [
+        {
+          "name": "Aanya Martin",
+          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
+        }
+      ],
+      "duration_ms": 284120,
+      "name": "White Doves",
+      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "White Doves",
-        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
-      },
-      "artists": [
-        {
-          "name": "Aanya Martin",
-          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
-        }
-      ],
-      "duration_ms": 284120,
-      "name": "White Doves",
-      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "LONG TERM PARKING",
-        "url": "https://open.spotify.com/album/0PT0jL8kzWpJs43y2oWMzu"
-      },
-      "artists": [
-        {
-          "name": "Luke RV",
-          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "LONG TERM PARKING",
-      "url": "https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Extinction",
         "url": "https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 291349,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "LONG TERM PARKING",
+        "url": "https://open.spotify.com/album/0PT0jL8kzWpJs43y2oWMzu"
+      },
+      "artists": [
+        {
+          "name": "Luke RV",
+          "url": "https://open.spotify.com/artist/4q7ILdeeWJ4NqBtYp0l7Yd"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "LONG TERM PARKING",
+      "url": "https://open.spotify.com/track/1oG8QZlA2QqBHWsen9oM6e"
     }
   ],
   "unique_name": "the night bus",

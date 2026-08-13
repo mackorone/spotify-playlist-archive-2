@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,461 songs - 6 day 0 hr 51 min
+2,462 songs - 6 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [BLACK TOWN](https://open.spotify.com/track/4MLD1rUJYsDl8YKaHGP17Z) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [BLACK TOWN](https://open.spotify.com/album/1F7F5LFxVH0cTu97rypLUa) | 4:02 | 2025-11-23 |  |
 | [Blackheart](https://open.spotify.com/track/482fNUiRC5p9PTmVsOdQF4) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Blackheart](https://open.spotify.com/album/1KNOQ1NRzkk4djXlvG4Omj) | 5:01 | 2024-04-10 |  |
 | [blame](https://open.spotify.com/track/2idlewO0rAgZpP1eXv0ZPB) | [diet lemon](https://open.spotify.com/artist/4w4tyhOTLrFjXwPzuUmT3U) | [juno](https://open.spotify.com/album/57Q0bfVvpxM4rZiulDEN4X) | 3:07 | 2025-11-24 |  |
+| [Bleeding Stars](https://open.spotify.com/track/72qr7jAEXtgSoArhJdGJ3F) | [Sideral](https://open.spotify.com/artist/1kFBUmLbV6cvRA7PFc00SM) | [Bleeding Stars](https://open.spotify.com/album/7h83oGdK3lc4SfgAdgvQpy) | 3:30 | 2026-08-12 |  |
 | [Blessed](https://open.spotify.com/track/2CkOsfHEuciqLsBAlhbdx2) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Blessed](https://open.spotify.com/album/7FidJA5VFOziqJcXAs8Q3c) | 4:08 | 2024-03-10 |  |
 | [Blessed Love](https://open.spotify.com/track/4JwrlbkK2FpS9m1eTZKJgY) | [R\-Juna](https://open.spotify.com/artist/0aQXmVGvxpQmQ3UbZttDBb) | [Dubs and Praises](https://open.spotify.com/album/3sY7rsSxS37DDDnAzfRFvq) | 3:00 | 2024-07-06 |  |
 | [Blessed Version](https://open.spotify.com/track/4xu243bcIR5stARMyqlwNH) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Blessed](https://open.spotify.com/album/7FidJA5VFOziqJcXAs8Q3c) | 4:06 | 2024-05-01 |  |

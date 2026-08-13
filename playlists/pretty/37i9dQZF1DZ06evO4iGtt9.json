@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 9732,
+  "num_followers": 9741,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAD9ofNPQIxcxItQ1hoaoZWx",
+  "snapshot_id": "anpmAAAAAABcHRwrz5AtkDSr1HONMEuW",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "To U",
+        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "To U",
+      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Upgrade",
         "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 235440,
       "name": "Alubarika",
       "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To U",
-        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "To U",
-      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
     },
     {
       "added_at": null,
@@ -611,18 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
+        "name": "Zero Panic, Vol. 2",
+        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
       },
       "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 187586,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
+      "duration_ms": 148140,
+      "name": "Taku",
+      "url": "https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv"
     },
     {
       "added_at": null,
@@ -647,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Panic, Vol. 2",
-        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
       },
       "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 148140,
-      "name": "Taku",
-      "url": "https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv"
+      "duration_ms": 187586,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
     },
     {
       "added_at": null,

@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 313417,
       "name": "100,000",
       "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/15t5pAZbc5EAnu3Uc2BKHX"
+      },
+      "artists": [
+        {
+          "name": "Standing On The Corner",
+          "url": "https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393000,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/37bY677poQAFeSdBNTN7Ik"
+    },
+    {
+      "album": {
         "name": "Beautiful ending (Giant Claw Remix)",
         "url": "https://open.spotify.com/album/5jNghdRggSV6Z8OCpT44XP"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 242474,
       "name": "Beautiful ending - Giant Claw Remix",
       "url": "https://open.spotify.com/track/0CL8rJtrUSpPLkOkDisuOt"
@@ -166,6 +184,42 @@
       "duration_ms": 193285,
       "name": "Darlos cowboys",
       "url": "https://open.spotify.com/track/5en6tlt4gHZiHwZRB1zykQ"
+    },
+    {
+      "album": {
+        "name": "death valley fridge magnet",
+        "url": "https://open.spotify.com/album/616dP07OohyFY5DuNFxJur"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264520,
+      "name": "death valley fridge magnet",
+      "url": "https://open.spotify.com/track/1rzf8tDuXVxyGXdJBxFNSI"
+    },
+    {
+      "album": {
+        "name": "Drive/Park",
+        "url": "https://open.spotify.com/album/2bCd5sjRz4VmrdFTGFOYjn"
+      },
+      "artists": [
+        {
+          "name": "Heathers",
+          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156368,
+      "name": "Drive/Park",
+      "url": "https://open.spotify.com/track/2nFYhi1w2aNyb4EcZQ5Jhx"
     },
     {
       "album": {
@@ -440,10 +494,28 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 151800,
       "name": "I Can't Die Like That",
       "url": "https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw"
+    },
+    {
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/6dNoZCStK0RoBhqLj3kJN8"
+      },
+      "artists": [
+        {
+          "name": "Silver Apples",
+          "url": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "I Have Known Love",
+      "url": "https://open.spotify.com/track/1t8hGSHakCiyoidxZ1Omfx"
     },
     {
       "album": {
@@ -476,7 +548,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 352893,
       "name": "I Want'a Do Something Freaky To You",
       "url": "https://open.spotify.com/track/4xiVqeo21JSq78pFGojGVY"
@@ -512,7 +584,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 208874,
       "name": "In The Shadow Of Your Ego",
       "url": "https://open.spotify.com/track/3XCMoxErSw7FbrgleP9jUm"
@@ -563,6 +635,42 @@
     },
     {
       "album": {
+        "name": "Live It Down",
+        "url": "https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223715,
+      "name": "Live It Down",
+      "url": "https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02"
+    },
+    {
+      "album": {
+        "name": "Live Without Her Love",
+        "url": "https://open.spotify.com/album/46hmma6B2khDw8CxVnxPDN"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248028,
+      "name": "Live Without Her Love",
+      "url": "https://open.spotify.com/track/5A2SzM69oijfu5scaUmzWi"
+    },
+    {
+      "album": {
         "name": "Lonely Road",
         "url": "https://open.spotify.com/album/5vFkmOg5Vy2ZqWd5I3M9og"
       },
@@ -592,7 +700,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 142133,
       "name": "Love Hit Me With A Wallop - Original",
       "url": "https://open.spotify.com/track/14yMcFEQ1zLnqEOL0cq4PU"
@@ -635,6 +743,42 @@
     },
     {
       "album": {
+        "name": "Mam Yinne Wa",
+        "url": "https://open.spotify.com/album/029cFMxo8WWyvXbh66yJmF"
+      },
+      "artists": [
+        {
+          "name": "Alogte Oho & His Sounds of Joy",
+          "url": "https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235118,
+      "name": "Mam Yinne Wa",
+      "url": "https://open.spotify.com/track/7idNapSLaJMRTfIk5nPE0U"
+    },
+    {
+      "album": {
+        "name": "No Ordinary Word",
+        "url": "https://open.spotify.com/album/6PwvGFJfhcZDhzCHwk4vei"
+      },
+      "artists": [
+        {
+          "name": "Curbside Lambsear",
+          "url": "https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362320,
+      "name": "Man The Door",
+      "url": "https://open.spotify.com/track/1WFg77VnAM70L2FmQatjp2"
+    },
+    {
+      "album": {
         "name": "Matter of Taste",
         "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
       },
@@ -664,7 +808,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 208470,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/0oDv7wIr85mZEJ5FIbuAFt"
@@ -690,10 +834,28 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 337733,
       "name": "Muffin Man",
       "url": "https://open.spotify.com/track/1a19kiTeYBOaS9G9aYNnEQ"
+    },
+    {
+      "album": {
+        "name": "No Ordinary Word",
+        "url": "https://open.spotify.com/album/6PwvGFJfhcZDhzCHwk4vei"
+      },
+      "artists": [
+        {
+          "name": "Curbside Lambsear",
+          "url": "https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345653,
+      "name": "No Ordinary Word",
+      "url": "https://open.spotify.com/track/5eFzFGYWwDMhOtlaWFDvxF"
     },
     {
       "album": {
@@ -751,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404160,
+      "name": "Peace Piece",
+      "url": "https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de"
+    },
+    {
+      "album": {
         "name": "Cupid & Psyche 85 (2022 Remaster)",
         "url": "https://open.spotify.com/album/7Din1AyNdpWkYlDhxbFoFu"
       },
@@ -762,7 +942,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 273438,
       "name": "Perfect Way - Remaster",
       "url": "https://open.spotify.com/track/1H0tGwgAstAxLzf9N7e1XL"
@@ -784,6 +964,24 @@
       "duration_ms": 309973,
       "name": "Picto",
       "url": "https://open.spotify.com/track/4WcvzX139qMLYTlPcCUoAn"
+    },
+    {
+      "album": {
+        "name": "Placeholder",
+        "url": "https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254421,
+      "name": "Placeholder",
+      "url": "https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE"
     },
     {
       "album": {
@@ -834,7 +1032,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 148080,
       "name": "Right Track",
       "url": "https://open.spotify.com/track/3APk2BngsDT5y1ZlfhtWx3"
@@ -852,7 +1050,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 157453,
       "name": "Soul Time",
       "url": "https://open.spotify.com/track/43AxKhfph92zcKMRAiqwvS"
@@ -874,6 +1072,42 @@
       "duration_ms": 158994,
       "name": "Spartak",
       "url": "https://open.spotify.com/track/0lGkyqqFTtfGG6yqzJZjxH"
+    },
+    {
+      "album": {
+        "name": "MY SKYSCRAPER",
+        "url": "https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em"
+      },
+      "artists": [
+        {
+          "name": "Nirosta Steel",
+          "url": "https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 813000,
+      "name": "SPECIAL WEAKNESS",
+      "url": "https://open.spotify.com/track/56PQ9YCEIe1YhSe90NGdRu"
+    },
+    {
+      "album": {
+        "name": "Still I Love Him",
+        "url": "https://open.spotify.com/album/0ENfPSVn8uvUIytzWFwvat"
+      },
+      "artists": [
+        {
+          "name": "Radie Peat",
+          "url": "https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "Still I Love Him",
+      "url": "https://open.spotify.com/track/1PbuDuVr1YqxVTk3jv4LTl"
     },
     {
       "album": {
@@ -1026,6 +1260,24 @@
       "duration_ms": 158981,
       "name": "The Sound It Made",
       "url": "https://open.spotify.com/track/0X8xSULeOMS3n3D0QxeYNZ"
+    },
+    {
+      "album": {
+        "name": "The Tenpenny Piece / Elizabeth Kelly's Delight",
+        "url": "https://open.spotify.com/album/50S1T5A2Yz4O7hczsxHgkt"
+      },
+      "artists": [
+        {
+          "name": "Paahto & The Bull",
+          "url": "https://open.spotify.com/artist/2dhyG72pNGPQiGVoPvTijs"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235120,
+      "name": "The Tenpenny Piece / Elizabeth Kelly's Delight",
+      "url": "https://open.spotify.com/track/22Qq7uQG5rM1lzejtEW3DT"
     },
     {
       "album": {
@@ -1184,7 +1436,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 253600,
       "name": "You Are",
       "url": "https://open.spotify.com/track/5qUTDIOCMufayjyWf4V074"

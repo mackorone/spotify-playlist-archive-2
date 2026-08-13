@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295392,
+  "num_followers": 295385,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEnQmG1lUsC8Vx6raSlZd1hWefD0",
+  "snapshot_id": "AAAAAE8d/vO7bcLnCXzixECBK+8Z0eq2",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Party Lines",
-        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 179110,
-      "name": "Party Lines",
-      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "inside",
         "url": "https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 153277,
       "name": "inside",
       "url": "https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Party Lines",
+        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 179110,
+      "name": "Party Lines",
+      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Projector",
-        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
-      },
-      "artists": [
-        {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
-        }
-      ],
-      "duration_ms": 93323,
-      "name": "Projector",
-      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Prevail",
         "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 194885,
       "name": "Prevail",
       "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 93323,
+      "name": "Projector",
+      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Hymns From The Hills",
-        "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
-      },
-      "artists": [
-        {
-          "name": "Poison Ru\u00efn",
-          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
-        }
-      ],
-      "duration_ms": 214186,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Saturday Sun",
         "url": "https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
+        "name": "Hymns From The Hills",
+        "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Poison Ru\u00efn",
+          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
         }
       ],
-      "duration_ms": 189418,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+      "duration_ms": 214186,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -983,6 +967,22 @@
       "duration_ms": 183600,
       "name": "Girth",
       "url": "https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Rolling By",
-        "url": "https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c"
-      },
-      "artists": [
-        {
-          "name": "Antenna",
-          "url": "https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f"
-        }
-      ],
-      "duration_ms": 182714,
-      "name": "Rolling By",
-      "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 145173,
       "name": "Volvo (On The Road)",
       "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Rolling By",
+        "url": "https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c"
+      },
+      "artists": [
+        {
+          "name": "Antenna",
+          "url": "https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f"
+        }
+      ],
+      "duration_ms": 182714,
+      "name": "Rolling By",
+      "url": "https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "O, My Love",
-        "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
-      },
-      "artists": [
-        {
-          "name": "Grrrl Gang",
-          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
-        }
-      ],
-      "duration_ms": 178006,
-      "name": "O, My Love",
-      "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "EXPO",
         "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 239746,
       "name": "Weights & Measures",
       "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "O, My Love",
+        "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "duration_ms": 178006,
+      "name": "O, My Love",
+      "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
     },
     {
       "added_at": "2026-07-17 17:28:38",

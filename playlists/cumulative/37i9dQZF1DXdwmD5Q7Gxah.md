@@ -4,7 +4,7 @@
 
 > let it be known this is a RE ADD of C,XOXO to this list 👀 Cover: Mackeeper <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-3,924 songs - 8 day 23 hr 2 min
+3,925 songs - 8 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2818,6 +2818,7 @@
 | [Rusty](https://open.spotify.com/track/5KgTKKQCX9wP4YIfc4N94l) | [Nick Mono](https://open.spotify.com/artist/4HyoBuDGnR8bp6TTrrVZ9q) | [Rusty](https://open.spotify.com/album/5h7xyNmVNAUzzt7OF6OF7O) | 2:54 | 2021-09-17 | 2021-12-02 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-26 | 2021-12-02 |
 | [Ruthless](https://open.spotify.com/track/1mbuSss0OVqfS00y7yCNCZ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:07 | 2019-08-02 | 2020-02-20 |
+| [rwm](https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [rwm](https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY) | 2:30 | 2026-08-12 |  |
 | [Ryd](https://open.spotify.com/track/3I8yVFjvJoOBM9tX4ZpxEL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Steve Lacy's Demo](https://open.spotify.com/album/47DbvIExnHbqAhIuzBAO9W) | 2:20 | 2020-08-20 | 2020-09-04 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-10-04 | 2024-12-20 |
 | [Sabotage](https://open.spotify.com/track/1Y7hYtpgid6k0jiMVCXqA1) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Sabotage](https://open.spotify.com/album/3rXM0G4Y0XI9jnglHN1ShB) | 2:44 | 2020-08-07 | 2020-09-15 |

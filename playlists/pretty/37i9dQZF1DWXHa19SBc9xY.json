@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 128693,
+  "num_followers": 128719,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANkysdlIz3YYVy1lUqMTQtCfleAy",
+  "snapshot_id": "AAAAACC/diUlDrFiUAIz7RorSdXwDJvI",
   "tracks": [
     {
       "added_at": "2026-06-17 15:55:41",
@@ -235,26 +235,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Andar Leve",
-        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
-      },
-      "artists": [
-        {
-          "name": "TNS",
-          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
-        },
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "Andar Leve",
-      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 233320,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "Andar Leve",
+        "url": "https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P"
+      },
+      "artists": [
+        {
+          "name": "TNS",
+          "url": "https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 165408,
+      "name": "Andar Leve",
+      "url": "https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo"
     },
     {
       "added_at": "2026-06-17 15:55:41",

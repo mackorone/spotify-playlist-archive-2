@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 857318,
+  "num_followers": 857382,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0Kf17+s1/b1iPNyQTSpKrsyXs+",
+  "snapshot_id": "AAAAAJ5BghREeSuOL6Km2yi5Geomq4Zc",
   "tracks": [
     {
       "added_at": "2026-08-03 15:52:54",
@@ -332,7 +332,7 @@
           "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 274431,
+      "duration_ms": 274444,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
+        "name": "GUAU!",
+        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 237800,
+      "name": "El Fantasma",
+      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 319393,
       "name": "Chau",
       "url": "https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
-        "name": "GUAU!",
-        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "El Fantasma",
-      "url": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
-        "name": "Hacer Un Puente",
-        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
-      },
-      "artists": [
-        {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-        }
-      ],
-      "duration_ms": 282960,
-      "name": "Hacer un puente",
-      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 232093,
       "name": "Llenos De Magia",
       "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
+        "name": "Hacer Un Puente",
+        "url": "https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld"
+      },
+      "artists": [
+        {
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        }
+      ],
+      "duration_ms": 282960,
+      "name": "Hacer un puente",
+      "url": "https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 277011,
-      "name": "Los Calientes",
-      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 277011,
+      "name": "Los Calientes",
+      "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
         "name": "Sea",
         "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 184546,
       "name": "Me haces bien",
       "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Magia Veneno",
+      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -959,22 +975,6 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Magia Veneno",
-      "url": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
-        "name": "El cantante",
-        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Estadio Azteca",
-      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
         "name": "HABLAR DE TI (...)",
         "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 218190,
       "name": "HABLAR DE TI (...)",
       "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
+        "name": "El cantante",
+        "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Estadio Azteca",
+      "url": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
-        "name": "Logo",
-        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Anoche So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
         "name": "A la Vez",
         "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 182876,
       "name": "A la Vez",
       "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
+        "name": "Logo",
+        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Anoche So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-08-03 15:52:54",
       "album": {
-        "name": "RIO HOTEL",
-        "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
+        "name": "Canciones Elegidas 93-04",
+        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 245572,
-      "name": "Apasionado",
-      "url": "https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs"
+      "duration_ms": 149880,
+      "name": "Tu Locura",
+      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -1459,6 +1459,22 @@
       "duration_ms": 201773,
       "name": "Mi enfermedad",
       "url": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF"
+    },
+    {
+      "added_at": "2026-08-03 15:52:54",
+      "album": {
+        "name": "RIO HOTEL",
+        "url": "https://open.spotify.com/album/39X3Jhsy9oT9XzgoUDs5P9"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 245572,
+      "name": "Apasionado",
+      "url": "https://open.spotify.com/track/7nNe66m3zuscn2Tn4nJwAs"
     },
     {
       "added_at": "2026-08-03 15:52:54",
@@ -1491,22 +1507,6 @@
       "duration_ms": 177066,
       "name": "C\u00f3mo Eran las Cosas - En Vivo",
       "url": "https://open.spotify.com/track/6EGyyUiYhSAbeIEZKECMm7"
-    },
-    {
-      "added_at": "2026-08-03 15:52:54",
-      "album": {
-        "name": "Canciones Elegidas 93-04",
-        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Tu Locura",
-      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
     }
   ],
   "unique_name": "Mates y M\u00fasica",

@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 835108,
+  "num_followers": 835139,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABxo4OCNs7TJTGOJUiBYGfn",
+  "snapshot_id": "anpmAAAAAAC1LoPhi6YF8PcFncZ8ePWM",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAYS BEFORE RODEO",
-        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
       },
       "artists": [
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 285480,
-      "name": "Don't Play (feat. The 1975 & Big Sean)",
-      "url": "https://open.spotify.com/track/1qXQmENykriAHunVaZc6FW"
+      "duration_ms": 295151,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
     },
     {
       "added_at": null,
@@ -599,18 +591,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
       "artists": [
         {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
           "name": "The 1975",
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 295151,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
+      "duration_ms": 285480,
+      "name": "Don't Play (feat. The 1975 & Big Sean)",
+      "url": "https://open.spotify.com/track/1qXQmENykriAHunVaZc6FW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: TRK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,727 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,743 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 39 | [Toxic](https://open.spotify.com/track/0HpW4Sulmcr9V6ZiS0uHhf) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Memory](https://open.spotify.com/album/3Wl2ztnOnwJALHLcxDbF2z) | 2:31 |
 | 40 | [Fire in your Eyes](https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Fire in your Eyes](https://open.spotify.com/album/4DB72Q0aDAkUy3Jljnp1Ly) | 3:35 |
 | 41 | [DANS LE DOS](https://open.spotify.com/track/2dIkrZHAbWa8mxjfZHdT18) | [NO PAIN NO GAIN](https://open.spotify.com/artist/4jMatNAUw3usV6EGr74CsJ), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [DANS LE DOS](https://open.spotify.com/album/5fgyxpYthSrZPXrCfGYH0d) | 3:10 |
-| 42 | [YOROBO DRILL ACTE 3](https://open.spotify.com/track/1OD1skHTgSSLF8lmWTqbB6) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [JEUNE & RICHE \(DELUXE\)](https://open.spotify.com/album/3yNYy5fvug5JKo755SZaEE) | 2:49 |
-| 43 | [Kaay Waay](https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b) | [VJ](https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao) | [DM](https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe) | 3:03 |
+| 42 | [Kaay Waay](https://open.spotify.com/track/6dmL9EuLQB6tHsn9IAVg6b) | [VJ](https://open.spotify.com/artist/5MDNhC2R2lHAGrUg0ztgao) | [DM](https://open.spotify.com/album/0HIfBTjs8M1Lr13flE5XFe) | 3:03 |
+| 43 | [YOROBO DRILL ACTE 3](https://open.spotify.com/track/1OD1skHTgSSLF8lmWTqbB6) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [JEUNE & RICHE \(DELUXE\)](https://open.spotify.com/album/3yNYy5fvug5JKo755SZaEE) | 2:49 |
 | 44 | [SL](https://open.spotify.com/track/7rKlN5VfDQ54sM4mHPTg6P) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 7:28 |
 | 45 | [Pression](https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:35 |
 | 46 | [Lover Boy \(feat\. Tayc & Dadju\)](https://open.spotify.com/track/1TvfZiJDDxAZgYjKyazZBe) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:08 |
-| 47 | [TAPER CREER \(feat\. Gazo\)](https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:40 |
-| 48 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 |
+| 47 | [Il s'appelait Tayc](https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Il s'appelait Tayc](https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we) | 3:40 |
+| 48 | [TAPER CREER \(feat\. Gazo\)](https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:40 |
 | 49 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
 | 50 | [Yoyo / Petit coeur](https://open.spotify.com/track/0zKdCMxjRXZW3xENEFMI1k) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Glish](https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln) | 4:52 |
 | 51 | [Coco \(feat\. Tayc\)](https://open.spotify.com/track/6MG8MRq1odNsWCasM9IehW) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Coco \(feat\. Tayc\)](https://open.spotify.com/album/5hGsaXtfKcheS0r0AzMhgi) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 79 | [Ma Belle](https://open.spotify.com/track/5HG0YvYbTJZWga06HQpwwz) | [DCartier](https://open.spotify.com/artist/4oWp1TLTg5WRcnCjhmDQ8A), [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED) | [Ma Belle](https://open.spotify.com/album/2EsvUZJnuUbfNWPR9iiyvj) | 3:09 |
 | 80 | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/track/0KZn7SdWR2wRZ1XdW7DU89) | [Axel Merryl](https://open.spotify.com/artist/3G8Pa34BvtmFCVZeOkUJBq), [Toofan](https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi) | [Gba Gba \(feat\. Toofan\)](https://open.spotify.com/album/0PPiG1yFFDt6KCxTemDNrm) | 2:56 |
 
-Snapshot ID: `AAAAAHsud8FxZEH2Azxwfx+kHkDu0gum`
+Snapshot ID: `AAAAAOHLVCQF/jb8FsCbtnXjMen3gML6`

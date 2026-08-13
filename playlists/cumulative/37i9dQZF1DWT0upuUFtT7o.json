@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new indie tracks from independent artists & labels. Cover: Pool Girl",
+  "description": "The best new indie tracks from independent artists & labels. Cover: effe",
   "name": "Fresh Finds Indie",
   "tracks": [
     {
@@ -4630,7 +4630,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 227986,
       "name": "Art of Suggestion",
       "url": "https://open.spotify.com/track/05tK6vKJJmFe3yDMw9wsLH"
@@ -16069,6 +16069,24 @@
     },
     {
       "album": {
+        "name": "digicam seraphim",
+        "url": "https://open.spotify.com/album/5ajTkaYbBeRzfpP2m1rvCd"
+      },
+      "artists": [
+        {
+          "name": "cratre",
+          "url": "https://open.spotify.com/artist/26Jjqr3I02y7Q7TAxPWsFW"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97690,
+      "name": "digicam seraphim",
+      "url": "https://open.spotify.com/track/1ZfE3ldndJjtJloRN4SsHE"
+    },
+    {
+      "album": {
         "name": "Digital Beggars",
         "url": "https://open.spotify.com/album/1IlMZCCHQzakesbETFaBLX"
       },
@@ -18480,7 +18498,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 284346,
       "name": "Election Day",
       "url": "https://open.spotify.com/track/14bE8Ti7Nk7MNLrTmKs13m"
@@ -24304,7 +24322,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 357000,
       "name": "Going about my day",
       "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
@@ -25745,6 +25763,24 @@
     },
     {
       "album": {
+        "name": "half smile",
+        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "half smile",
+      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
+    },
+    {
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/6r0e9t80tlT8jLRfYvKLRT"
       },
@@ -26326,6 +26362,24 @@
       "duration_ms": 248275,
       "name": "Headspins",
       "url": "https://open.spotify.com/track/5BEUsvw2Kb7V2oMXEnAi9Y"
+    },
+    {
+      "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/3bKlanBXxs4FsrN1IAleCy"
+      },
+      "artists": [
+        {
+          "name": "For Opal",
+          "url": "https://open.spotify.com/artist/3LCda3gkCgVOICHbZhFvM4"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5vI1xvEhvgvyMr2NbSTOHV"
     },
     {
       "album": {
@@ -28884,7 +28938,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 122560,
       "name": "I <3 You",
       "url": "https://open.spotify.com/track/658hxdysZypt05ifU1ox26"
@@ -33662,7 +33716,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 121418,
       "name": "Justice",
       "url": "https://open.spotify.com/track/2clie3tcvcFlpeSQbnhkyh"
@@ -35624,7 +35678,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 175666,
       "name": "Lick The Flame",
       "url": "https://open.spotify.com/track/32TOQ5loDzoipxm7qLgkv3"
@@ -50403,6 +50457,24 @@
     },
     {
       "album": {
+        "name": "Momoko",
+        "url": "https://open.spotify.com/album/6ZaBxp8UJJ9aNbFQX0Dg95"
+      },
+      "artists": [
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252480,
+      "name": "Rewind/Remind",
+      "url": "https://open.spotify.com/track/3eXFH6seJPXTULQTjcqUJM"
+    },
+    {
+      "album": {
         "name": "Rhododendron",
         "url": "https://open.spotify.com/album/6nEEILAs63DqDTFOtZ6A15"
       },
@@ -50624,7 +50696,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 139392,
       "name": "Right-Click, Rename",
       "url": "https://open.spotify.com/track/1CMLOWxgVwk2gvgpwkmBth"
@@ -54636,6 +54708,24 @@
       "duration_ms": 195680,
       "name": "sit with you (pain)",
       "url": "https://open.spotify.com/track/1QBeq423x9hTeJI6IGLPl4"
+    },
+    {
+      "album": {
+        "name": "Grace, Flair and Distance",
+        "url": "https://open.spotify.com/album/3Q4kLbPexP7VnH4jymSPo6"
+      },
+      "artists": [
+        {
+          "name": "jo from school",
+          "url": "https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180842,
+      "name": "Six Years Of Keeping On",
+      "url": "https://open.spotify.com/track/0gSIr2lOp9I2mynmYdjzyf"
     },
     {
       "album": {
@@ -60576,6 +60666,24 @@
       "duration_ms": 148513,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6KlkbowjQWXsef4AwSQu4c"
+    },
+    {
+      "album": {
+        "name": "Solder",
+        "url": "https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw"
+      },
+      "artists": [
+        {
+          "name": "effe",
+          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Tears Always Burn",
+      "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
     },
     {
       "album": {
@@ -68276,6 +68384,24 @@
       "duration_ms": 220548,
       "name": "What My Heart Is For",
       "url": "https://open.spotify.com/track/0tQnMCSpalT0fy1Zc7W8GN"
+    },
+    {
+      "album": {
+        "name": "imy3 & towhead",
+        "url": "https://open.spotify.com/album/00Vea8EpexdYFGTihEYfuF"
+      },
+      "artists": [
+        {
+          "name": "imy3",
+          "url": "https://open.spotify.com/artist/5tn7FeN8PYvZJ4jumJzIBQ"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159746,
+      "name": "What You Mean",
+      "url": "https://open.spotify.com/track/5GSCuy82SMwEdWmXCEArMa"
     },
     {
       "album": {

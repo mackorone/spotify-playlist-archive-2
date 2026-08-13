@@ -4,7 +4,7 @@
 
 > 
 
-138 songs - 9 hr 37 min
+139 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ballad of a Badman](https://open.spotify.com/track/2PLOCIYlFr8XxNsz0Lgs4l) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 4:14 | 2026-03-30 | 2026-05-03 |
 | [bedrott](https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5) | [duskydemise](https://open.spotify.com/artist/5y9Swh1G1KLBrlyM3wlNst) | [bedrott](https://open.spotify.com/album/0a9A5YTj5U1wBb9PwxSkMU) | 1:53 | 2026-03-30 | 2026-06-01 |
 | [Billie Jean Freestyle](https://open.spotify.com/track/3lNVBDUD9ybAq4yK3VV4Ns) | [CamDaGuapo](https://open.spotify.com/artist/4iLPlIi4D6LlySN30w0NZa) | [Billie Jean Freestyle](https://open.spotify.com/album/4NYVqGf6Wcj6jnO20f2xHK) | 2:01 | 2026-03-30 | 2026-05-03 |
+| [Bombs in the Ville/Hit the Gas](https://open.spotify.com/track/0Awr3NZMkRHQFabkMxW1VT) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:06 | 2026-08-12 |  |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2025-08-26 | 2025-10-23 |
 | [Broken Heart](https://open.spotify.com/track/1hNiqmCEOozAghYTQEbQH6) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Broken Heart](https://open.spotify.com/album/6bc1hlrJy9oULH5LnYNkpv) | 3:27 | 2025-11-05 |  |
 | [Buried Alive](https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:44 | 2026-02-21 |  |

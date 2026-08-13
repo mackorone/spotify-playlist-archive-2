@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Lily Meola
 
-2,295 songs - 5 day 3 hr 58 min
+2,296 songs - 5 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Blonde](https://open.spotify.com/track/3OyDQE1kQawm1xGhVc4uiR) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Blonde](https://open.spotify.com/album/6iq0bvsgI0En6mjsPN9Z73) | 2:39 | 2024-06-01 | 2024-07-02 |
 | [Blood And Butter](https://open.spotify.com/track/1QmWunl2nbV9o9lujiLIDn) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Blood And Butter](https://open.spotify.com/album/3dedSM3XVmO5P5cSxXdU7K) | 4:27 | 2023-02-01 | 2023-03-02 |
 | [BLOODMONEY](https://open.spotify.com/track/5SVnsTqXBHhHYLSwULC2nv) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:02 | 2024-11-01 | 2024-12-05 |
-| [Bloom](https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 3:28 | 2026-07-01 |  |
+| [Bloom](https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Night at the Opera](https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN) | 3:28 | 2026-07-01 | 2026-08-13 |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-08-03 | 2022-09-09 |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-17 | 2025-04-23 |
 | [BO$$ CHICK](https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 2:14 | 2023-04-05 | 2023-05-04 |
@@ -2003,6 +2003,7 @@
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-08-02 | 2023-09-07 |
 | [The Whole Thing](https://open.spotify.com/track/1UStVtpPmVF5Yyw63NAcR1) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Whole Thing](https://open.spotify.com/album/5ugYpwPXM2kDB5tpAi7F5n) | 3:51 | 2025-07-01 | 2025-08-30 |
 | [The Words](https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:53 | 2022-10-05 | 2022-11-03 |
+| [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 | 2026-08-11 |  |
 | [There Goes My Baby](https://open.spotify.com/track/10E3rJTsVL3Xfop80TbUvo) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [There Goes My Baby](https://open.spotify.com/album/0z3Cp5HFJnuejenCK20v6Y) | 2:26 | 2025-04-01 | 2025-06-05 |
 | [There She Goes Again](https://open.spotify.com/track/6sh6642AV8sSVc0SeQ9HEh) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [There She Goes Again](https://open.spotify.com/album/02mp1bdUCmzcHfH4lHFaf0) | 3:28 | 2021-12-01 | 2022-01-06 |
 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2PneNdtypG6XcgmWmGd9FI) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/4qyuqoJb1ffoE11trJgsXc) | 2:47 | 2024-08-01 | 2024-09-04 |

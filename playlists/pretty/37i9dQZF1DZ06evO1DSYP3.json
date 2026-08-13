@@ -1,17 +1,17 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5768,
+  "num_followers": 5769,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAD51asAZSocyBNOaXTjWzXG",
+  "snapshot_id": "anpmAAAAAAB8BmVW7s9kvapHEeZPjg3N",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "DUMBLR",
+        "name": "DUMBLR (feat. E-40 & Kreayshawn)",
         "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
       },
       "artists": [
@@ -29,7 +29,7 @@
         }
       ],
       "duration_ms": 164549,
-      "name": "DUMBLR",
+      "name": "DUMBLR (feat. E-40 & Kreayshawn)",
       "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
     },
     {
@@ -291,6 +291,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE ONE YOU WANTED",
+        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 190562,
+      "name": "100 Days (Feat. YG, P-Lo)",
+      "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE ONE YOU WANTED",
-        "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 190562,
-      "name": "100 Days (Feat. YG, P-Lo)",
-      "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
     },
     {
       "added_at": null,
@@ -523,30 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Mike Sherm",
-          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
-        }
-      ],
-      "duration_ms": 144459,
-      "name": "House",
-      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Mike Sherm",
+          "url": "https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd"
+        }
+      ],
+      "duration_ms": 144459,
+      "name": "House",
+      "url": "https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx"
     },
     {
       "added_at": null,
@@ -919,7 +919,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "OUT THE BOX",
+        "name": "OUT THE BOX (feat. Bosko)",
         "url": "https://open.spotify.com/album/3tJqpSeV4fXw2wZS1Yc28S"
       },
       "artists": [
@@ -933,7 +933,7 @@
         }
       ],
       "duration_ms": 144426,
-      "name": "OUT THE BOX",
+      "name": "OUT THE BOX (feat. Bosko)",
       "url": "https://open.spotify.com/track/2E8AxnMhRi71GN6eLS2HEq"
     },
     {
@@ -1063,22 +1063,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE FREESTYLE (Remix)",
-        "url": "https://open.spotify.com/album/2tnu3sjltkTWvLZ6R1meLT"
+        "name": "She Wanna (feat. P-Lo)",
+        "url": "https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd"
       },
       "artists": [
         {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE - Remix",
-      "url": "https://open.spotify.com/track/0XyaOS7RzOSqvcdRmpa7em"
+      "duration_ms": 205124,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ"
     }
   ],
   "unique_name": "This Is P-Lo",

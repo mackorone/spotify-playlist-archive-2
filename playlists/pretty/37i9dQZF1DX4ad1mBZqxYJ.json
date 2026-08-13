@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 121481,
+  "num_followers": 121501,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKI8d4npme995Xr49ATrAkrvkadA",
+  "snapshot_id": "AAAAAIBvci/ZDxaTaysQP3xATN1uygEA",
   "tracks": [
     {
       "added_at": "2024-10-04 19:39:18",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/61rRHurzkamUCuqQXs8PuP"
       },
@@ -2351,22 +2367,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO"
       },
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-10-04 19:39:18",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/72AgLJrge61AYrpf2zH8rl"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e"
-    },
-    {
-      "added_at": "2024-10-04 19:39:18",
-      "album": {
         "name": "Porte de Scarface",
         "url": "https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 172560,
       "name": "Porte de Scarface",
       "url": "https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK"
+    },
+    {
+      "added_at": "2024-10-04 19:39:18",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/72AgLJrge61AYrpf2zH8rl"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e"
     },
     {
       "added_at": "2024-10-04 19:39:18",

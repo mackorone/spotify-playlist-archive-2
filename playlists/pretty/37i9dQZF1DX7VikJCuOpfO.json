@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANfmBRHq/hdcCLueswHNSE1mVY61",
+  "snapshot_id": "AAAAAE5w2WinB8fRKW1vVtT6Vs1XnwYC",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:42",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Finjamos",
-        "url": "https://open.spotify.com/album/2mYgCInNQaJr7Xc5ZtPA9C"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 177891,
-      "name": "Finjamos",
-      "url": "https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "El Adi\u00f3s Ranchero",
         "url": "https://open.spotify.com/album/39veRp09mMstYyyFFRb4EK"
       },
@@ -787,22 +771,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "El Conejo De La Luna",
-        "url": "https://open.spotify.com/album/2YAGDIX4XNr301XxeHDJS4"
+        "name": "Finjamos",
+        "url": "https://open.spotify.com/album/2mYgCInNQaJr7Xc5ZtPA9C"
       },
       "artists": [
         {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
-        },
-        {
-          "name": "Mariachi Romanza de Rodrigo Rodriguez",
-          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
         }
       ],
-      "duration_ms": 218752,
-      "name": "El Conejo De La Luna",
-      "url": "https://open.spotify.com/track/4IUi1wu0APhApdPHetqOql"
+      "duration_ms": 177891,
+      "name": "Finjamos",
+      "url": "https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -847,6 +827,26 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
+        "name": "El Conejo De La Luna",
+        "url": "https://open.spotify.com/album/2YAGDIX4XNr301XxeHDJS4"
+      },
+      "artists": [
+        {
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "El Conejo De La Luna",
+      "url": "https://open.spotify.com/track/4IUi1wu0APhApdPHetqOql"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
         "name": "Despecho Puro (En Vivo)",
         "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 173173,
       "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
       "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
-      },
-      "artists": [
-        {
-          "name": "ANDYVERE",
-          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
-        }
-      ],
-      "duration_ms": 426232,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g"
+      },
+      "artists": [
+        {
+          "name": "ANDYVERE",
+          "url": "https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa"
+        }
+      ],
+      "duration_ms": 426232,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
         "name": "Una Limosna",
         "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "No Voy a Regresar",
-        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 195922,
-      "name": "No Voy a Regresar",
-      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Traigan Las Otras",
         "url": "https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 230806,
       "name": "Traigan Las Otras",
       "url": "https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "No Voy a Regresar",
+        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 195922,
+      "name": "No Voy a Regresar",
+      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Pagar\u00e9 Condena",
         "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 164960,
       "name": "Pagar\u00e9 Condena",
       "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
-      },
-      "artists": [
-        {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Cuando Ama Una Mujer",
         "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
       },
       "artists": [
         {
-          "name": "Eddy Y Samu",
-          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
         }
       ],
-      "duration_ms": 169287,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1275,6 +1259,22 @@
       "duration_ms": 146060,
       "name": "Mi M\u00e9xico Mestizo",
       "url": "https://open.spotify.com/track/5Rn5XDwuJmzSiqIsDLspyo"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
+      },
+      "artists": [
+        {
+          "name": "Eddy Y Samu",
+          "url": "https://open.spotify.com/artist/1ltW6BF5qgKsoN2T0nyEvn"
+        }
+      ],
+      "duration_ms": 169287,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
     },
     {
       "added_at": "2026-07-24 06:00:42",

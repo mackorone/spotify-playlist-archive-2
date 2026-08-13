@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 148920,
+  "num_followers": 148909,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADv+s0ffReNNcebunw00QoMS87OM",
+  "snapshot_id": "AAAAABVk2JxPhGiQ4cd51i4epd8WotN5",
   "tracks": [
     {
       "added_at": "2026-08-03 21:13:53",
@@ -663,8 +663,8 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+        "name": "Autor da Vida",
+        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+      "duration_ms": 268000,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -735,38 +735,6 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Falhas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
-      },
-      "artists": [
-        {
-          "name": "Daniel Juan",
-          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
-        }
-      ],
-      "duration_ms": 379130,
-      "name": "Falhas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
-        "name": "Autor da Vida",
-        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
         "name": "O Meu Lugar",
         "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
@@ -787,6 +755,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
         "name": "Diz - Ddg Reloaded Tour (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 339354,
       "name": "Diz - Ddg Reloaded Tour - Ao Vivo",
       "url": "https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
+        "name": "Falhas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
+      },
+      "artists": [
+        {
+          "name": "Daniel Juan",
+          "url": "https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH"
+        }
+      ],
+      "duration_ms": 379130,
+      "name": "Falhas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
         "name": "Leva-Me Al\u00e9m (One ao Vivo)",
         "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 180800,
       "name": "Leva-Me Al\u00e9m (One ao Vivo)",
       "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
-        "name": "Na Corte do Egito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Na Corte do Egito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
     },
     {
       "added_at": "2026-08-03 21:13:53",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-08-03 21:13:53",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
-    },
-    {
-      "added_at": "2026-08-03 21:13:53",
-      "album": {
         "name": "Pr\u00f3digo",
         "url": "https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 234198,
       "name": "Pr\u00f3digo",
       "url": "https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I"
+    },
+    {
+      "added_at": "2026-08-03 21:13:53",
+      "album": {
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2026-08-03 21:13:53",

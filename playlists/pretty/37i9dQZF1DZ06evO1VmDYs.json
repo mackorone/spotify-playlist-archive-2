@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 205033,
+  "num_followers": 205059,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACQqqiGOM+4yDz34kyzikzX",
+  "snapshot_id": "anpmAAAAAAD0M+8EWlRyJpOJNnfq1y7p",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Pork And Beans",
+      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Might as Well Be Strangers (ft. Wednesday)",
         "url": "https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 214346,
       "name": "We Might as Well Be Strangers (ft. Wednesday)",
       "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Pork And Beans",
-      "url": "https://open.spotify.com/track/7wclPheMJAUKn2njmO2s3A"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
+      "duration_ms": 257000,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 257000,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq"
+      "duration_ms": 227733,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Keep Fishin'",
-      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
+      "duration_ms": 137400,
+      "name": "Dope Nose",
+      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Dope Nose",
-      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+      "duration_ms": 172266,
+      "name": "Keep Fishin'",
+      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
     },
     {
       "added_at": null,

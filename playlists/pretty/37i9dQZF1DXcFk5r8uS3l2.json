@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1068924,
+  "num_followers": 1068921,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALNaXJMg7RXePAemqPOxxWqhprYx",
+  "snapshot_id": "AAAAAHflxpG2e1Phes3GxWknTH88hSLy",
   "tracks": [
     {
       "added_at": "2026-07-03 04:00:33",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
     },
     {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Let It Die Here",
+        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
+      },
+      "artists": [
+        {
+          "name": "Linda Perry",
+          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+        }
+      ],
+      "duration_ms": 223523,
+      "name": "Let It Die Here",
+      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
+    },
+    {
       "added_at": "2026-06-26 04:00:26",
       "album": {
         "name": "Swamp Dogg Contemplates The Afterlife",
@@ -959,18 +975,18 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Let It Die Here",
-        "url": "https://open.spotify.com/album/1hd41YWRm4P78xmjGYkqoJ"
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
       },
       "artists": [
         {
-          "name": "Linda Perry",
-          "url": "https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 223523,
-      "name": "Let It Die Here",
-      "url": "https://open.spotify.com/track/0qs2O2RK1mdxv2rzvs0OTT"
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-07-03 04:00:33",
@@ -987,22 +1003,6 @@
       "duration_ms": 235560,
       "name": "Can\u2019t Stand Still",
       "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 261760,
       "name": "Back Where I Started",
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Let the Music Get Down in Your Soul",
-        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Let the Music Get Down in Your Soul",
-      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Roots & Wings",
+      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Reconcile",
         "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
       },
@@ -1279,22 +1295,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Roots & Wings",
-        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
-      },
-      "artists": [
-        {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Roots & Wings",
-      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Plus One",
         "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 195573,
       "name": "Love Like Whiskey",
       "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Love in the Lead",
-        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
-      },
-      "artists": [
-        {
-          "name": "Ivan Hartle",
-          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
-        }
-      ],
-      "duration_ms": 195885,
-      "name": "Love in the Lead",
-      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1343,6 +1327,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Love in the Lead",
+        "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
+      },
+      "artists": [
+        {
+          "name": "Ivan Hartle",
+          "url": "https://open.spotify.com/artist/3JVVGMRtCA1lsynAOn8AU6"
+        }
+      ],
+      "duration_ms": 195885,
+      "name": "Love in the Lead",
+      "url": "https://open.spotify.com/track/7cUl5LQ464ZxnZCtTLSqTa"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Let's Get Loud",
-        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
-      },
-      "artists": [
-        {
-          "name": "Zach Person",
-          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
-        }
-      ],
-      "duration_ms": 288256,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Devil That You Know",
         "url": "https://open.spotify.com/album/6j19OocI2RQsxz9waAgqB4"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 198496,
       "name": "Devil That You Know",
       "url": "https://open.spotify.com/track/5ax26o9wSrvrG6qN3fy9e0"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Let's Get Loud",
+        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
+      },
+      "artists": [
+        {
+          "name": "Zach Person",
+          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
+        }
+      ],
+      "duration_ms": 288256,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Neon Sounds",
-        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
-      },
-      "artists": [
-        {
-          "name": "The Delta Bombers",
-          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Hey! You Know You Wanna!",
-      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Shoulda Been",
         "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 157125,
       "name": "Man I Used To Be",
       "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Neon Sounds",
+        "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
+      },
+      "artists": [
+        {
+          "name": "The Delta Bombers",
+          "url": "https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Hey! You Know You Wanna!",
+      "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
     },
     {
       "added_at": "2026-06-05 04:00:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,890 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,941 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 |
 | 100 | [I Let You Think That You Do](https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc) | [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Resurrection](https://open.spotify.com/album/3a9xrY1A9DkKauXZW17KQ8) | 3:30 |
 
-Snapshot ID: `AAAAAPbTfk1hunoQK41YGDhpez8jjWx3`
+Snapshot ID: `AAAAAAho2o83YXa34ZTPwOxgAdLFwira`

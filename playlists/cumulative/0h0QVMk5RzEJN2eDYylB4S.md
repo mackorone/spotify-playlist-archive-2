@@ -4,7 +4,7 @@
 
 > 
 
-546 songs - 2 day 13 hr 6 min
+547 songs - 2 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,6 +512,7 @@
 | [Undisguised](https://open.spotify.com/track/17KzrSaWV6HXhDdcQlgHfC) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Fields Without Fences](https://open.spotify.com/album/0C1BogexxhH0I1PoXqTbIg) | 6:21 | 2019-02-07 |  |
 | [Universal Nation \- Bart Skils Remix](https://open.spotify.com/track/3N03qHCOZxaTayny0KjWPh) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Universal Nation \(Bart Skils Remix\)](https://open.spotify.com/album/2oZfj7mpSyEyqQepnDKjyM) | 4:32 | 2021-02-09 |  |
 | [Unterwegs](https://open.spotify.com/track/1QzsdHtVSlB61AQkr46Cqj) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [1983](https://open.spotify.com/album/31bHWGxXkpup6zbPdNjhPy) | 5:13 | 2019-10-22 |  |
+| [Valley of the Yuccas \- Live from Joshua Tree](https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Live from Joshua Tree](https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv) | 3:47 | 2026-08-12 |  |
 | [Vapours](https://open.spotify.com/track/1DgfoSbmoJtiRVzuJ9iFK7) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [8\-track](https://open.spotify.com/album/3ophs4Ci76rbhWzu2QwCGC) | 5:58 | 2019-07-28 |  |
 | [Veins](https://open.spotify.com/track/3KUoiySr90tw8XSW8Ezmx4) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Damage / Veins](https://open.spotify.com/album/1zp3B8DVDey7KPwEjziZMF) | 7:23 | 2019-03-15 |  |
 | [Vermillion \- &ME Remix](https://open.spotify.com/track/14sXAzJk59scwHtuQjOIlM) | [Damian Lazarus & The Ancient Moons](https://open.spotify.com/artist/6eWDcQUkr1JSLQLn5j6dsc), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Remixes From The Other Side](https://open.spotify.com/album/4JlKhvgS86NmWsQlQ5BGq0) | 7:47 | 2019-08-13 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMmu9nLmCjJIdYsyuK/Zblb7ExCm",
+  "snapshot_id": "AAAAAJzz+V+hkefterh0Oir/jpNlIu6l",
   "tracks": [
     {
       "added_at": "2026-08-07 01:29:11",
@@ -255,26 +255,6 @@
     {
       "added_at": "2026-08-07 01:29:11",
       "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 244669,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
-    },
-    {
-      "added_at": "2026-08-07 01:29:11",
-      "album": {
         "name": "Couple - Special Single",
         "url": "https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 216094,
       "name": "Couple",
       "url": "https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL"
+    },
+    {
+      "added_at": "2026-08-07 01:29:11",
+      "album": {
+        "name": "Heaven Knows",
+        "url": "https://open.spotify.com/album/6Qn42r5xPsrEE3YziVwiIR"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 244669,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7zf5sJzBtOuujJYes54ucb"
     },
     {
       "added_at": "2026-08-07 01:29:11",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-08-07 01:29:11",
       "album": {
-        "name": "Like Spring",
-        "url": "https://open.spotify.com/album/2YcxpSvWg2MFfXeI50bE5V"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        },
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Like Spring",
-      "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
-    },
-    {
-      "added_at": "2026-08-07 01:29:11",
-      "album": {
         "name": "I\u2019m Not The Only One (feat. TAEYEON)",
         "url": "https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 239619,
       "name": "I\u2019m Not The Only One (feat. TAEYEON)",
       "url": "https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ"
+    },
+    {
+      "added_at": "2026-08-07 01:29:11",
+      "album": {
+        "name": "Like Spring",
+        "url": "https://open.spotify.com/album/2YcxpSvWg2MFfXeI50bE5V"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        },
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Like Spring",
+      "url": "https://open.spotify.com/track/67YLguFMT7wbJl2dSXeNGE"
     },
     {
       "added_at": "2026-08-07 01:29:11",
@@ -615,26 +615,6 @@
     {
       "added_at": "2026-08-07 01:29:11",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Question Marks (Feat. Paul Kim)",
-      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
-    },
-    {
-      "added_at": "2026-08-07 01:29:11",
-      "album": {
         "name": "Rain Drops (Feat. Chodan of QWER)",
         "url": "https://open.spotify.com/album/1iXiGFFMTl4uirqoakd53U"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 183529,
       "name": "Rain Drops (Feat. Chodan of QWER)",
       "url": "https://open.spotify.com/track/0mJ95hBlmJ7FOdPDTBs7RD"
+    },
+    {
+      "added_at": "2026-08-07 01:29:11",
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Question Marks (Feat. Paul Kim)",
+      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
     },
     {
       "added_at": "2026-08-07 01:29:11",
@@ -755,6 +755,30 @@
     {
       "added_at": "2026-08-07 01:29:11",
       "album": {
+        "name": "THIS NIGHT",
+        "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        },
+        {
+          "name": "Jhnovr",
+          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "This Night (feat. Blue.D, Jhnovr)",
+      "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
+    },
+    {
+      "added_at": "2026-08-07 01:29:11",
+      "album": {
         "name": "Flower Language",
         "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
       },
@@ -791,30 +815,6 @@
       "duration_ms": 179881,
       "name": "Never Meant to Be",
       "url": "https://open.spotify.com/track/7BstEf1Z8koda0WPrba16o"
-    },
-    {
-      "added_at": "2026-08-07 01:29:11",
-      "album": {
-        "name": "THIS NIGHT",
-        "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Blue.D",
-          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
-        },
-        {
-          "name": "Jhnovr",
-          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "This Night (feat. Blue.D, Jhnovr)",
-      "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
     },
     {
       "added_at": "2026-08-07 01:29:11",

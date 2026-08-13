@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 > With The Bad Dreamers, Gunship, Siamese Youth and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,375 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,382 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [The Runner](https://open.spotify.com/track/2HG2iqJZrd7ved05JRcDF5) | [Yota](https://open.spotify.com/artist/4U3vYFeDgmRT6RETWVgTe0) | [Hazy Paradise](https://open.spotify.com/album/1QrTgpPG09MXIf9NvKENrx) | 3:48 |
 | 50 | [Fractions \(feat\. Jessie Frye\)](https://open.spotify.com/track/2ulW5zd7SluGGWVZ1DMiTI) | [Wayfloe](https://open.spotify.com/artist/79QJSuBrbDVAtWerM3yGup), [Jessie Frye](https://open.spotify.com/artist/1UGJpKPVr7i3CqzuQPdEmi) | [Neon West](https://open.spotify.com/album/22pKdQcvzft2TYKbcttRcT) | 4:12 |
 
-Snapshot ID: `AAAAAARovVVHVF/pjjvE0A9uhylXt6am`
+Snapshot ID: `AAAAAO+6bBHy0HtkOGX7HtoPra7JMrHZ`

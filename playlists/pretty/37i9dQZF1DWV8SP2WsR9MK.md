@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,279 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,316 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 24 | [Hüttengriffe](https://open.spotify.com/track/15pJPbo0r00e82puUIUS1i) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Angular Blues](https://open.spotify.com/album/4wxLJpGmJetMtZHslJz3DR) | 5:15 |
 | 25 | [Unity Village](https://open.spotify.com/track/7o56T3Ib6ZjVT6qFTCQFqP) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Bright Size Life](https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw) | 3:42 |
 | 26 | [The Red One](https://open.spotify.com/track/1P4XzKG2bldGbhg6EO1N23) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [I Can See Your House From Here](https://open.spotify.com/album/6rrp2wRfrtYxuHM6N5Uavb) | 4:19 |
-| 27 | [Wavy Gravy \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:47 |
+| 27 | [A Foggy Day](https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Kessel Plays Standards](https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc) | 3:08 |
 | 28 | [Django](https://open.spotify.com/track/1LgoYJ5IYe74pDyayo3QHH) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:20 |
-| 29 | [A Foggy Day](https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Kessel Plays Standards](https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc) | 3:08 |
+| 29 | [Wavy Gravy \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:47 |
 | 30 | [Sookie Sookie \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Ray Blair](https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1) | [Alive! \(Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000\)](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 10:58 |
 | 31 | [Misty \- 2001 Remaster](https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q), [Malcolm Addey](https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH) | [The Sound Of Johnny Smith](https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh) | 5:28 |
 | 32 | [Sacred Place](https://open.spotify.com/track/0od5R0qVfDsWJKa3SL2wa9) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [Chiaroscuro](https://open.spotify.com/album/0lsINQ5eGOr4GBVfZYDqyI) | 4:13 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 57 | [Polka Dots and Moonbeams](https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 5:48 |
 | 58 | [Shape Of Things That Are And Were](https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Shape Of Things To Come](https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B) | 5:47 |
 | 59 | [Rambler](https://open.spotify.com/track/09AbZLx0X2GsRSXFgEpLKA) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Rambler](https://open.spotify.com/album/1vkLfWBiL2wHMxdGpDCbPC) | 8:12 |
-| 60 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
-| 61 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |
+| 60 | [Have You Met Miss Jones?](https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl) | [Tal Farlow](https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf) | [The Artistry Of Tal Farlow](https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO) | 4:56 |
+| 61 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |
 | 62 | [You'd Be So Nice To Come Home To \- alt\. take](https://open.spotify.com/track/1XTSIuZKon87IZortCLsWV) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 7:27 |
 | 63 | [Brooklyn Sometimes](https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Deep Song](https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8) | 8:22 |
 | 64 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Days Of Wine And Roses](https://open.spotify.com/track/1yegDiVa8d94H07ga1SLOt) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Boss Guitar](https://open.spotify.com/album/41Ymau5t3NA04iDRzdv3mR) | 3:46 |
 | 100 | [Solar](https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [Question and Answer](https://open.spotify.com/album/1kM7n3aiIKwS4FZqWLLdLv) | 8:25 |
 
-Snapshot ID: `AAAAAHlMzxGfhdQYrvScLGpMiY/k58+G`
+Snapshot ID: `AAAAAJofoWRHWK4/YGmeU/2/xaZZh5EG`

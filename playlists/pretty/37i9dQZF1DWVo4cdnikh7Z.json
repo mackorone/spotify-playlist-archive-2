@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : DC",
-  "num_followers": 758516,
+  "num_followers": 758660,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACB/HvM3zusazUPZMjdyLj1lh9TF",
+  "snapshot_id": "AAAAAL9x7L1tONhFhZmNBgMw1OcPd4TR",
   "tracks": [
     {
       "added_at": "2026-08-03 04:59:13",
@@ -141,6 +141,34 @@
       "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
+      "added_at": "2026-08-12 15:44:08",
+      "album": {
+        "name": "Ayyayo Ammaadi (From \"Sigma\") (Tamil)",
+        "url": "https://open.spotify.com/album/2ab2RcwUfgFcQB2bBxezII"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 210975,
+      "name": "Ayyayo Ammaadi (From \"Sigma\") (Tamil)",
+      "url": "https://open.spotify.com/track/2LYWdd1UKFfBWQI5zOd47v"
+    },
+    {
       "added_at": "2026-07-19 03:08:15",
       "album": {
         "name": "Bum Baa Diga Diga (From \"DC\")",
@@ -231,6 +259,62 @@
       "duration_ms": 140806,
       "name": "Thaalam Trip - Instrumental",
       "url": "https://open.spotify.com/track/0JSvcsAbGElf7TqcsATZwe"
+    },
+    {
+      "added_at": "2026-08-12 15:09:49",
+      "album": {
+        "name": "Anbil Avan - Title Theme (From \"Anbil Avan\")",
+        "url": "https://open.spotify.com/album/2CqP4iRmWrAtULffdze0sz"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Pragathi Guruprasad",
+          "url": "https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F"
+        },
+        {
+          "name": "R.Kaarthikeyan",
+          "url": "https://open.spotify.com/artist/67HdzSmunwuHtQeOYt3IsD"
+        }
+      ],
+      "duration_ms": 77500,
+      "name": "Anbil Avan - Title Theme - From \"Anbil Avan\"",
+      "url": "https://open.spotify.com/track/42GFLyQPfp5DJg0a4r3E9P"
+    },
+    {
+      "added_at": "2026-08-12 15:44:08",
+      "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Mathichiyam Bala",
+          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        },
+        {
+          "name": "VENGAYO",
+          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
+        }
+      ],
+      "duration_ms": 178530,
+      "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+      "url": "https://open.spotify.com/track/4YIPFxZUFxHPEbQr1pMo8o"
     },
     {
       "added_at": "2026-07-18 08:00:23",
@@ -437,6 +521,30 @@
       "url": "https://open.spotify.com/track/1DgQIai8yxUNhNeYVfaqT9"
     },
     {
+      "added_at": "2026-08-12 15:44:08",
+      "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "High On Kaadhal",
+      "url": "https://open.spotify.com/track/5mCbDAhxef5s1smT9Vi5ve"
+    },
+    {
       "added_at": "2026-08-07 10:36:26",
       "album": {
         "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
@@ -501,6 +609,34 @@
       "url": "https://open.spotify.com/track/2hExMHPo41sESrORZPXf65"
     },
     {
+      "added_at": "2026-08-12 15:44:08",
+      "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Snigdha Chandra",
+          "url": "https://open.spotify.com/artist/5lkP9r6eDJY1EBvu5jYgV7"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "duration_ms": 190048,
+      "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
+      "url": "https://open.spotify.com/track/6B9pHSfSutkI7kWvAhprPK"
+    },
+    {
       "added_at": "2026-08-07 10:45:48",
       "album": {
         "name": "Mannaru",
@@ -537,38 +673,6 @@
       "url": "https://open.spotify.com/track/40z4C1EQcBw4XeotvcaKRU"
     },
     {
-      "added_at": "2026-08-06 11:17:55",
-      "album": {
-        "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
-        "url": "https://open.spotify.com/album/5rexeAC6WM1rkFNnRQaHVs"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Mathichiyam Bala",
-          "url": "https://open.spotify.com/artist/4o0KXeyOSB2BftArHVnsyG"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        },
-        {
-          "name": "Elan",
-          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
-        },
-        {
-          "name": "VENGAYO",
-          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
-        }
-      ],
-      "duration_ms": 178530,
-      "name": "Atrocity (from the Netflix Film \"Pyaar Prema Kalyanam\")",
-      "url": "https://open.spotify.com/track/1cTduCpvpyg6XdDS9MwOUT"
-    },
-    {
       "added_at": "2026-07-06 12:23:12",
       "album": {
         "name": "Aane Wala Star",
@@ -587,6 +691,34 @@
       "duration_ms": 132712,
       "name": "Aane Wala Star",
       "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
+    },
+    {
+      "added_at": "2026-08-12 15:44:08",
+      "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        },
+        {
+          "name": "Chinna Ponnu",
+          "url": "https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "duration_ms": 154848,
+      "name": "Idiyappam Life",
+      "url": "https://open.spotify.com/track/09FTD6HvSNachAK4BT0d2Z"
     },
     {
       "added_at": "2026-08-07 10:36:26",
@@ -657,6 +789,34 @@
       "url": "https://open.spotify.com/track/4RiIy3pyaG1I40iW6GDLh4"
     },
     {
+      "added_at": "2026-08-12 15:44:08",
+      "album": {
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Velu",
+          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
+        },
+        {
+          "name": "Aravind Annest",
+          "url": "https://open.spotify.com/artist/4FU6FCB4yzViskDyXe4daW"
+        },
+        {
+          "name": "Elan",
+          "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
+        }
+      ],
+      "duration_ms": 169490,
+      "name": "Drama Queen",
+      "url": "https://open.spotify.com/track/3v5kqws8Ru9ntWXjydjzLu"
+    },
+    {
       "added_at": "2026-08-07 10:36:26",
       "album": {
         "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
@@ -721,10 +881,10 @@
       "url": "https://open.spotify.com/track/3vj0s7dBf0WmYQONf3iRs0"
     },
     {
-      "added_at": "2026-08-06 11:19:27",
+      "added_at": "2026-08-12 15:44:08",
       "album": {
-        "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
-        "url": "https://open.spotify.com/album/7CJ8bmm1QGuqwGbukD6ss3"
+        "name": "Pyaar Prema Kalyanam (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0AdWol9lj8HHZJuWewMNi7"
       },
       "artists": [
         {
@@ -732,21 +892,17 @@
           "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
         },
         {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-        },
-        {
-          "name": "Snigdha Chandra",
-          "url": "https://open.spotify.com/artist/5lkP9r6eDJY1EBvu5jYgV7"
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
         },
         {
           "name": "Elan",
           "url": "https://open.spotify.com/artist/4FflFWTm0RWUHiLiTWbyNT"
         }
       ],
-      "duration_ms": 190048,
-      "name": "Crazy Love (from the Netflix Film \"Pyaar Prema Kalyanam\")",
-      "url": "https://open.spotify.com/track/4mHI5yOT8i8ZkHT7hDth0q"
+      "duration_ms": 212000,
+      "name": "Love is Beautiful",
+      "url": "https://open.spotify.com/track/4ktbqeu6NROKFgolMh4vbe"
     },
     {
       "added_at": "2026-08-06 11:13:18",
@@ -787,6 +943,34 @@
       "duration_ms": 24576,
       "name": "The One",
       "url": "https://open.spotify.com/track/2tHejWZl3OYUvwESrEGTo7"
+    },
+    {
+      "added_at": "2026-08-12 15:09:49",
+      "album": {
+        "name": "Ennennavo (From \"All Pass\")",
+        "url": "https://open.spotify.com/album/1ENm1ioaiCKPIod4JBPewh"
+      },
+      "artists": [
+        {
+          "name": "James Vasanthan",
+          "url": "https://open.spotify.com/artist/0a4PNswQHfm1lfnOCTjVeh"
+        },
+        {
+          "name": "Vijayalakshmi Bhaskar",
+          "url": "https://open.spotify.com/artist/1Ua8jqoZW3L2zKfaqI1kXA"
+        },
+        {
+          "name": "Aajeedh Khalique",
+          "url": "https://open.spotify.com/artist/1NgHYGac9DP17P8NSDVv3x"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 194771,
+      "name": "Ennennavo - From \"All Pass\"",
+      "url": "https://open.spotify.com/track/7px7zUlGfGrakGLbn2edaG"
     },
     {
       "added_at": "2026-08-04 10:20:55",

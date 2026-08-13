@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Lilly Moss, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Phil Kane, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -11636,7 +11636,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 211162,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/1ULmDTMMgxE80xMfl9lYwg"
@@ -14907,6 +14907,24 @@
     },
     {
       "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2aGLFLSreDsb8iU7oVrm6O"
+      },
+      "artists": [
+        {
+          "name": "Phil Kane",
+          "url": "https://open.spotify.com/artist/3b4xdR11Lg8MqoAjhP9N1o"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159878,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/7FLDYb4yma6shTUs3s9MG5"
+    },
+    {
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/2gg3mzxv44VDf5r10QwVpC"
       },
@@ -16946,6 +16964,24 @@
       "duration_ms": 177453,
       "name": "Dust",
       "url": "https://open.spotify.com/track/0rlSeqKKb0S2Chu9hOylQM"
+    },
+    {
+      "album": {
+        "name": "Dust In My Glove Box",
+        "url": "https://open.spotify.com/album/4oFo64F3ppV2zeG3h6ough"
+      },
+      "artists": [
+        {
+          "name": "Evan Burrison",
+          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162273,
+      "name": "Dust In My Glove Box",
+      "url": "https://open.spotify.com/track/2aCmFHj0VkHEiwc0Bl14FU"
     },
     {
       "album": {
@@ -19122,6 +19158,24 @@
       "duration_ms": 166880,
       "name": "Fences",
       "url": "https://open.spotify.com/track/1m09N7oG6VPvKt64totSrx"
+    },
+    {
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1cPLDn9QslTRXUGzESeVHX"
+      },
+      "artists": [
+        {
+          "name": "Chloe Wilson",
+          "url": "https://open.spotify.com/artist/0RbbfFfJutsx6hxBgziiIH"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228039,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/5z1r39HsJBaRUxTnjFYQ2X"
     },
     {
       "album": {
@@ -26262,7 +26316,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 233663,
       "name": "Highway 80",
       "url": "https://open.spotify.com/track/0j6ALJukRB88Xu8RLuy3JU"
@@ -26392,6 +26446,24 @@
       "duration_ms": 190890,
       "name": "His Hands",
       "url": "https://open.spotify.com/track/5l9WgqNaLEAZai7g7iJYwv"
+    },
+    {
+      "album": {
+        "name": "His Name Was John",
+        "url": "https://open.spotify.com/album/5ijLuAMSj3QlpLcuEJxCwY"
+      },
+      "artists": [
+        {
+          "name": "Jenna LaMaster",
+          "url": "https://open.spotify.com/artist/1oaLEYuxR9MWqthwI6Qm0E"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168332,
+      "name": "His Name Was John",
+      "url": "https://open.spotify.com/track/1R117L3vHVFB243szqaVll"
     },
     {
       "album": {
@@ -30679,6 +30751,28 @@
     },
     {
       "album": {
+        "name": "Making Peace",
+        "url": "https://open.spotify.com/album/15Q6TLcPreZ1KAZHb20zBT"
+      },
+      "artists": [
+        {
+          "name": "Brandon Jane",
+          "url": "https://open.spotify.com/artist/5fNoqg6dLhthBhoEC9SMkZ"
+        },
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "If You Don't",
+      "url": "https://open.spotify.com/track/5S1yABkY9HCkFULSbdQgB5"
+    },
+    {
+      "album": {
         "name": "If You Don't Love Her",
         "url": "https://open.spotify.com/album/6KNSQMHLqV1WbMI6ukd4xU"
       },
@@ -33298,7 +33392,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 191440,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/3oCfYBgXXW88B6IfQ6y6qy"
@@ -33640,7 +33734,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 152365,
       "name": "Late Night Lover",
       "url": "https://open.spotify.com/track/7bZFD9iGsaPJUfSSXBM1rw"
@@ -39210,7 +39304,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 225294,
       "name": "Mind If I Smoke",
       "url": "https://open.spotify.com/track/25ptpOTfjUD1WKE59hmIRR"
@@ -47761,6 +47855,24 @@
     },
     {
       "album": {
+        "name": "Road Signs",
+        "url": "https://open.spotify.com/album/6XHt91ltppB1VsTBYqtsaN"
+      },
+      "artists": [
+        {
+          "name": "Scott Wolverton",
+          "url": "https://open.spotify.com/artist/6oClxjKHw0mac570Gx7Tw3"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398339,
+      "name": "Road Signs",
+      "url": "https://open.spotify.com/track/2ytm4ixV1Zph2OlYfZjS7L"
+    },
+    {
+      "album": {
         "name": "Rocket Science",
         "url": "https://open.spotify.com/album/48Al2xzWUYXSIUkyE9yu18"
       },
@@ -48874,7 +48986,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 252590,
       "name": "Same Old Song",
       "url": "https://open.spotify.com/track/2BppK8Nvb3GS3kMCJq567w"
@@ -52317,6 +52429,24 @@
     },
     {
       "album": {
+        "name": "Some Version of It",
+        "url": "https://open.spotify.com/album/3lghlHFcnFtyq6povbIGNA"
+      },
+      "artists": [
+        {
+          "name": "Erin Kirby",
+          "url": "https://open.spotify.com/artist/04VhqLBjrpeyOTrdH1ella"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163550,
+      "name": "Some Version of It",
+      "url": "https://open.spotify.com/track/6iCbLjtyNNw8FOtRInlk5w"
+    },
+    {
+      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/2Mm3lPj9raAwpBrcbKZGD6"
       },
@@ -54590,7 +54720,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 228207,
       "name": "Stormchaser",
       "url": "https://open.spotify.com/track/7EnmbHYRXTfPm3MQJGWPat"
@@ -56856,7 +56986,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 241686,
       "name": "Tethered",
       "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
@@ -56917,7 +57047,7 @@
     },
     {
       "album": {
-        "name": "Texas in July",
+        "name": "Texas In July",
         "url": "https://open.spotify.com/album/4Z4Ly96zX4nHpplFbDc0hj"
       },
       "artists": [
@@ -56930,7 +57060,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171387,
-      "name": "Texas in July",
+      "name": "Texas In July",
       "url": "https://open.spotify.com/track/6TBKvTA3eApHZmCE4seZ4N"
     },
     {
@@ -64355,6 +64485,24 @@
     },
     {
       "album": {
+        "name": "Where Does the Time Go?",
+        "url": "https://open.spotify.com/album/60eJlCclVMeXhiLg7weDJi"
+      },
+      "artists": [
+        {
+          "name": "Julie Eddy",
+          "url": "https://open.spotify.com/artist/3x7zsjJ0ooO3n1XVOVn1KQ"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206655,
+      "name": "Where Does the Time Go?",
+      "url": "https://open.spotify.com/track/1pQkb7fVaWqUKob0co9jVa"
+    },
+    {
+      "album": {
         "name": "Where I Come To Drink",
         "url": "https://open.spotify.com/album/7rvgeZoM0N7bcPJydCyYO3"
       },
@@ -65482,7 +65630,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 217835,
       "name": "Why On Earth",
       "url": "https://open.spotify.com/track/4hprLONLP4nq3K7U09XslR"
@@ -67846,6 +67994,24 @@
       "duration_ms": 218571,
       "name": "You Only",
       "url": "https://open.spotify.com/track/4IThCLqnjmxP835XHJjXIC"
+    },
+    {
+      "album": {
+        "name": "You Only Call When It's Raining",
+        "url": "https://open.spotify.com/album/22NDwyw6WvmhibstEFIqTK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Ball",
+          "url": "https://open.spotify.com/artist/1XiaAnuGK9mXdVLuJi1Jm3"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195488,
+      "name": "You Only Call When It's Raining",
+      "url": "https://open.spotify.com/track/1RuWVWq5Ty0YW9tcXobuQf"
     },
     {
       "album": {

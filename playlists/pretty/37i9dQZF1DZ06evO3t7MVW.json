@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 98057,
+  "num_followers": 98071,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACef3Se/KIMPt3H9m4sc1U1",
+  "snapshot_id": "anpmAAAAAACa5F9jGq4ImtpY8WXOIk4P",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set in Stone",
+        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "In This Love",
+      "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ways Of The World",
         "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 237756,
       "name": "Siren (with Stick Figure)",
       "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set in Stone",
-        "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "In This Love",
-      "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 304613,
+      "name": "Hawaii Song",
+      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Me Easy",
         "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoke Stack",
-        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 304613,
-      "name": "Hawaii Song",
-      "url": "https://open.spotify.com/track/7AAfOcrjDmW7zNhQpR8TTJ"
     },
     {
       "added_at": null,

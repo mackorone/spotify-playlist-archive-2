@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,862 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,871 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 49 | [Death Row](https://open.spotify.com/track/7dKaRbNb32MdumLtkuXGhp) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Penitentiary Blues](https://open.spotify.com/album/5JUypDy65MfWOtZTaVUQGE) | 2:43 |
 | 50 | [Hank Williams Junior\-Junior](https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Biggest Hits](https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1) | 2:41 |
 
-Snapshot ID: `ankUgAAAAADh9KteDP+S/pBoLPasDj/Z`
+Snapshot ID: `anpmAAAAAAB3oK96qMzQNx1g2+zo9Nts`

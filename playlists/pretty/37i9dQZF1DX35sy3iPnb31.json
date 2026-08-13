@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2304,
+  "num_followers": 2324,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGW8a5UkiN+Fw7F9AipUPKIRmDL",
+  "snapshot_id": "AAAAADOB2R/WM3lwRKXI5lsUirh/1Bp1",
   "tracks": [
     {
       "added_at": "2026-07-31 15:05:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "LiveFromTheBoonies.",
-        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
-      },
-      "artists": [
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
-        }
-      ],
-      "duration_ms": 105974,
-      "name": "LiveFromTheBoonies.",
-      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 158666,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "LiveFromTheBoonies.",
+        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "duration_ms": 105974,
+      "name": "LiveFromTheBoonies.",
+      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
     },
     {
       "added_at": "2026-07-31 15:05:53",

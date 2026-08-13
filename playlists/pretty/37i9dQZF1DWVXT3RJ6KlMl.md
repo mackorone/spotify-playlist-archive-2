@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,969 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,976 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 42 | [Voor Niets](https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp) | [Bob Bouber](https://open.spotify.com/artist/4v3HGAZZfMeK9ueNgZpxEW) | [Voor Niets](https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY) | 3:20 |
 | 43 | [Rozen Die Bloeien](https://open.spotify.com/track/7cl1cqs6tegOCA7UFvYWAV) | [Corry en de Rekels](https://open.spotify.com/artist/6edV7BdP4TyBahd2dNKjc8), [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Rozen Die Bloeien / Ik Hoor Nog Je Stem](https://open.spotify.com/album/293fKm52sXoMD4UP1jMiKW) | 4:05 |
 | 44 | [Vrede](https://open.spotify.com/track/0qBq2UVJI7sK0GUUWxFq5U) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Ben Cramer](https://open.spotify.com/album/3GwA2mE5gogR1bXJP9EVvf) | 2:56 |
-| 45 | [Veronica 538](https://open.spotify.com/track/4UpxV7NEhLLHWDnLZvIkXM) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq), [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [De Singles](https://open.spotify.com/album/3kTkS0et9ZhrwEmunEoQk2) | 4:55 |
-| 46 | [Wacht Op Mij, Mona Lisa](https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S) | [Het Radi Ensemble](https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd) | [Het Beste van Het Radi Ensemble](https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh) | 3:13 |
+| 45 | [Wacht Op Mij, Mona Lisa](https://open.spotify.com/track/5izSNO4bW1SU7FXcnsMp3S) | [Het Radi Ensemble](https://open.spotify.com/artist/1XZvpxU8Nw3JoySQ6ocjzd) | [Het Beste van Het Radi Ensemble](https://open.spotify.com/album/6d4uDH6iAXsXuNxNBhgLxh) | 3:13 |
+| 46 | [Veronica 538](https://open.spotify.com/track/4UpxV7NEhLLHWDnLZvIkXM) | [Vader Abraham](https://open.spotify.com/artist/5OWsH2lF65ygWcLYWic6rq), [Jacques Herb](https://open.spotify.com/artist/3say7qPpfTJlo8bxcpHQkc) | [De Singles](https://open.spotify.com/album/3kTkS0et9ZhrwEmunEoQk2) | 4:55 |
 | 47 | [Johanna](https://open.spotify.com/track/4oHur64TnY5PQF68POh7F0) | [Henk Elsink](https://open.spotify.com/artist/7peMTGosIMq2ZGgWLmAuQW), [Hugh Den Ouden](https://open.spotify.com/artist/5EfEtw0gEFfuiCQRbDFOr5) | [Toen Was Geluk Heel Gewoon](https://open.spotify.com/album/74pP2D0hYoq6rGQhH0akW3) | 5:58 |
 | 48 | ['T Is Weer Voorbij Die Mooie Zomer](https://open.spotify.com/track/1OkDLYSHraLYrClG4Q0AQX) | [Gerard Cox](https://open.spotify.com/artist/7fZiIcfYlK7sJbKpZLZSUh) | [Grootste Hits](https://open.spotify.com/album/6GQEqbcOvzzNMbh9VdhiOv) | 4:41 |
 | 49 | [Met De Vlam In De Pijp](https://open.spotify.com/track/0yPcH1rEI9aLYZxROxRlLm) | [Henk Wijngaard](https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb) | [Alle 40 Goed](https://open.spotify.com/album/0oXHOohTvlcBbGHY1hXYgE) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXT3RJ6KlMl.md) - [plain]
 | 59 | [Het Werd Zomer](https://open.spotify.com/track/2AOCPLs1pU7KpL1vsOkOzC) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:08 |
 | 60 | [Vino \(Waar Blijft De Wijn\)](https://open.spotify.com/track/3AWIhm2aCaB2Nj6w4SH61W) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Lytse Hille Presenteert de 'Ik Kwam Je Tegen' tour](https://open.spotify.com/album/0huX9PWQ3GRT5PfpZhF6CZ) | 3:16 |
 
-Snapshot ID: `AAAAAP+7Vi66SRhriCQqwrBH/Qr8eOiG`
+Snapshot ID: `AAAAAGRKX8paZ4i9B251gSY6GDQNpcff`

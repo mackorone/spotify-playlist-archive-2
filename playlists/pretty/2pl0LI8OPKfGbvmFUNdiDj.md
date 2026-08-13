@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,097 likes - 51 songs - 2 hr 52 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,104 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 49 | [Intenté Olvidarte](https://open.spotify.com/track/3ksN7lVHRGcQaulNC24Z1w) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Intenté Olvidarte](https://open.spotify.com/album/7nMf1VS5aC6F7jPMiUpCje) | 3:47 |
 | 50 | [Take My Love](https://open.spotify.com/track/0zuN03E9Htt59XaXxtJLZ5) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [Take my Love](https://open.spotify.com/album/0QzArOSouFTPACHH5cQd2z) | 3:32 |
 | 51 | [Everyday Grind](https://open.spotify.com/track/5PvQKRMTzW4k0gEBzzuRdH) | [Mr Boswell Thomas](https://open.spotify.com/artist/2SQtBpZsYVYPybYXQQ1xQo), [Declaime](https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw), [Dudley Perkins](https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW) | [Everyday Grind](https://open.spotify.com/album/4srqXN0EkNZEvnBkIDSlrK) | 2:46 |
+| 52 | [5 День](https://open.spotify.com/track/06mRNsQnoRr46AOj0CHBjb) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [5 День](https://open.spotify.com/album/0VJiRSvYM2RQORPHTO2UW6) | 1:54 |
 
-Snapshot ID: `AAAENhkC0LEGYm29GUE/XvbtSqN6hCKU`
+Snapshot ID: `AAAEN/Cnx5R8ggCmxO7WNW4ZsRIKuB5Y`

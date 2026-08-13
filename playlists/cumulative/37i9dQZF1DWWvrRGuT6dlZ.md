@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Amrita Soon.<br/>  Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: FIG\. Artwork: Isu Kim.
 
-1,503 songs - 3 day 10 hr 22 min
+1,506 songs - 3 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -678,6 +678,7 @@
 | [Lantak Kau Lah](https://open.spotify.com/track/7DsciZNFr4za9SnflPKGA1) | [Mohsein Kush](https://open.spotify.com/artist/43OqQzIV9TglsBOjhhesn8) | [Lantak Kau Lah](https://open.spotify.com/album/7umz4CdIgqrpktR9oT9rVE) | 3:20 | 2025-05-09 | 2026-01-15 |
 | [Lara](https://open.spotify.com/track/1LbH8dxZz7slwkCpVyHUfG) | [Lunar](https://open.spotify.com/artist/1LNISIYH01ppvQhrjyidYR) | [Lara](https://open.spotify.com/album/5oyF88NtR7not7FibDszBd) | 5:35 | 2025-07-31 | 2025-09-06 |
 | [Last Bus](https://open.spotify.com/track/46PIzwv3Ezp5WqcTfa3zUx) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [Last Bus](https://open.spotify.com/album/1OqSJqgCUyFTlkbJiBJ9Sj) | 2:30 | 2022-09-15 | 2023-05-12 |
+| [Last Goodbye](https://open.spotify.com/track/0TQGjBPwI3UUM3zvKRsnad) | [After Mdnight](https://open.spotify.com/artist/3ep3ws1EvwD6SKeVjjorqT) | [Last Goodbye](https://open.spotify.com/album/1GXnrfJVkKA3IJ1qDrx6j7) | 3:58 | 2026-08-12 |  |
 | [Laughing track](https://open.spotify.com/track/5S10QxTIO34rSid4NL8ZfL) | [Mila Bea](https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm) | [Laughing track](https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN) | 3:25 | 2025-09-19 | 2026-01-15 |
 | [LayLow](https://open.spotify.com/track/4I0YVvwwuIfIII1imhVxTq) | [Amir Mansor](https://open.spotify.com/artist/34edWeV1j0o2X50jJW5oEq), [Flique Mohamad](https://open.spotify.com/artist/1BoHsuLUJcJjJZoQ9fME9F), [Izzan Adlan](https://open.spotify.com/artist/6UmX6UbekgC40F9Ajuh2zZ) | [LayLow](https://open.spotify.com/album/66BZZiqOIMu3hbupmVVvkl) | 3:07 | 2025-07-31 | 2025-08-16 |
 | [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 2:23 | 2022-04-21 | 2023-06-16 |
@@ -1186,6 +1187,7 @@
 | [Take Two Steps](https://open.spotify.com/track/1g0lJOSP2aDJBc9pDNCgs1) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [Take Two Steps](https://open.spotify.com/album/1YEpyoSqjoVAl6ZEtZuq81) | 3:16 | 2024-11-21 | 2025-04-04 |
 | [Takeover](https://open.spotify.com/track/1EjWZgEaIHiDr6unE096fG) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Takeover](https://open.spotify.com/album/7BkB50tvfEMJubnt0svdi0) | 3:56 | 2026-01-14 | 2026-03-14 |
 | [Taking Off](https://open.spotify.com/track/11Eg9oYHdWRCv2KDKAjm8r) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [Taking Off](https://open.spotify.com/album/0ot0LVuuquxFXbpZEUokdz) | 2:49 | 2024-02-25 | 2024-08-16 |
+| [Takkan Menyerah](https://open.spotify.com/track/44wumjkitSkaorAWIiXjfu) | [Meer Nash](https://open.spotify.com/artist/5u7bSTNoq9AU1dh4sgurL8) | [Takkan Menyerah](https://open.spotify.com/album/5bQfcQaIirkXPX2XR0g6b3) | 3:57 | 2026-08-12 |  |
 | [Takkan Stop](https://open.spotify.com/track/71punBhC20AGQ58DEBQLPE) | [Syamz Khuzai](https://open.spotify.com/artist/2ZSwx14wMMMgwCepgRHJFv) | [Takkan Stop](https://open.spotify.com/album/77WhHJTVtRA2RB755f5YQv) | 2:27 | 2025-07-11 | 2025-09-06 |
 | [TAKNAK](https://open.spotify.com/track/4SCV6JOLANNBshRcQhjNTi) | [A\-Jin](https://open.spotify.com/artist/66cUbiHT6jTOYzxzaeBD2U) | [TAKNAK](https://open.spotify.com/album/1bxgUFjM143dMwqcPO8UAw) | 2:55 | 2025-06-26 | 2025-08-16 |
 | [Takut Jatuh Cinta](https://open.spotify.com/track/25mrbWA4oJ05sr78ZHidBt) | [NOiSE](https://open.spotify.com/artist/664dhAhxDSDr7LwBPKDJmS) | [Takut Jatuh Cinta](https://open.spotify.com/album/1bceFxLi2fl2IjX7YiqHVi) | 3:17 | 2025-09-05 | 2025-10-17 |
@@ -1392,6 +1394,7 @@
 | [wish i could've known](https://open.spotify.com/track/4SEGVsL6hsLbUlqPrbgQ8Z) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [PHASES](https://open.spotify.com/album/2s9qBVN2t52Fw3oXLNs3Qu) | 2:55 | 2025-03-13 | 2025-05-17 |
 | [Wishes for You](https://open.spotify.com/track/3re7ijVZIPpSZfWkECreHq) | [Nic Chen](https://open.spotify.com/artist/3eFoZdba7U7xbYlq780i8C) | [Wishes for You](https://open.spotify.com/album/2eOaumldPiNBLtH5WQGJYk) | 3:34 | 2022-06-30 | 2022-09-16 |
 | [Wistful](https://open.spotify.com/track/6tBrlSVkjXrzllNo7CFO0z) | [Isaac Kuah](https://open.spotify.com/artist/0TnMOHZATyRMoz4u2Mgucu) | [Wistful](https://open.spotify.com/album/6xOBJoFbxtweylyzKSRGNL) | 4:16 | 2022-01-13 | 2022-03-25 |
+| [Wit It](https://open.spotify.com/track/3FoZhqHeI2sKtRVbq9NoDD) | [raphungzel](https://open.spotify.com/artist/6Fd2on0E8oz3eb5FIt0MZI) | [Wit It](https://open.spotify.com/album/61b0DFFuEqScHNpM7mmeAN) | 2:44 | 2026-08-12 |  |
 | [WITCH\-HUNT](https://open.spotify.com/track/70GfdOlDyIvbc4BbYFlrB0) | [APRILLIA](https://open.spotify.com/artist/5ZdvniDojPGb05qSX4FCwF) | [WITCH\-HUNT](https://open.spotify.com/album/1RMwGUfSPopPmJ4VZYE95s) | 2:20 | 2026-01-30 | 2026-03-21 |
 | [With Nobody](https://open.spotify.com/track/1cVZpKDzB8kVGuzYMmxy2m) | [Noa Angell](https://open.spotify.com/artist/50WeqTlp8tT6OnQCbZW0q8) | [With Nobody](https://open.spotify.com/album/6hOqQhBF0InRyLBjGQEteS) | 2:35 | 2025-04-25 | 2025-05-17 |
 | [Without You](https://open.spotify.com/track/3lIO5alrxwoxc0VOqVu57f) | [Keith VVolf](https://open.spotify.com/artist/3TPbOzdrHElYaEhPxvg3e9) | [Without You](https://open.spotify.com/album/32c00YWobzmjAr3XYjBifM) | 6:11 | 2022-04-28 | 2022-09-23 |

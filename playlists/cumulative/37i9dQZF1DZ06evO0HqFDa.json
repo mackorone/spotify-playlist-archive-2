@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "House of the Dragon: Season 3 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/6seVyaHqO605uSpXoFpamn"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340544,
+      "name": "If This Be Victory",
+      "url": "https://open.spotify.com/track/0d2ndwByMDkQkfqqTql13x"
+    },
+    {
+      "album": {
         "name": "House of the Dragon: Season 2 (Soundtrack from the HBO\u00ae Series)",
         "url": "https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 344017,
       "name": "Paint It, Black",
       "url": "https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl"

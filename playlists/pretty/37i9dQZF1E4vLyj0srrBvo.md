@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Cults, Phantogram and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,233 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,255 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 |
 | 50 | [Twist The Knife](https://open.spotify.com/track/2KVStewnFKCp6gjREeHRDy) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Closer To Grey](https://open.spotify.com/album/6A6RTFXwJWesdPhSGnm0tF) | 3:27 |
 
-Snapshot ID: `AAAAAMUy+B89OeZHTbf/rbY8o1j+jlLp`
+Snapshot ID: `AAAAAGUzgTb7QdvaoCX6ArWvTDwZPHCv`

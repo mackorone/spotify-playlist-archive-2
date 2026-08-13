@@ -1,12 +1,12 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 138145,
+  "num_followers": 138170,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO21RdMdAOf0DcirD4ArsyRlYHr3",
+  "snapshot_id": "AAAAAN/mZizjnJagLRy73X0eEQou3UB0",
   "tracks": [
     {
       "added_at": "2024-06-02 21:23:10",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "Harleys In Hawaii",
-      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 217099,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Harleys In Hawaii",
+      "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Be the One",
         "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 202914,
       "name": "Be the One",
       "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1155,6 +1155,30 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "It\u2019s About Time",
+        "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
+      },
+      "artists": [
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 296240,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
         "url": "https://open.spotify.com/album/0TITR3yePyzJvlnQk61AWP"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 221153,
       "name": "Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",
       "url": "https://open.spotify.com/track/1YNQscOx6OqBQjxgJVhEeW"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "It\u2019s About Time",
-        "url": "https://open.spotify.com/album/49o8cBEcowlVsJBj8Kk17b"
-      },
-      "artists": [
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 296240,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/5hlN9YiUVFC7NGRiwyYFKi"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "I Don't Wanna Grow Up",
+        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 207775,
+      "name": "I'm Gonna Show You Crazy",
+      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 165600,
       "name": "Who's That Chick ? (feat. Rihanna) - Single Version",
       "url": "https://open.spotify.com/track/45PdLo6r1tME4Uhkg5h7ak"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "I Don't Wanna Grow Up",
-        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 207775,
-      "name": "I'm Gonna Show You Crazy",
-      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3"
     },
     {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
-        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
-      },
-      "artists": [
-        {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
-      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
-    },
-    {
       "added_at": "2025-09-05 02:01:30",
       "album": {
         "name": "Me, You & The Music",
@@ -1539,6 +1523,22 @@
       "duration_ms": 238284,
       "name": "Tonight (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
+        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
+      },
+      "artists": [
+        {
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
+      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
     },
     {
       "added_at": "2024-06-02 21:23:10",

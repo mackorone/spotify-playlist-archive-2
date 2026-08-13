@@ -4,7 +4,7 @@
 
 > mostly furry
 
-494 songs - 1 day 0 hr 2 min
+495 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Our World](https://open.spotify.com/track/71D9N3bmgUCx9lBHlOkBcu) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Verplex Originals](https://open.spotify.com/album/43xO23OT1dvjB3XtCXuZu9) | 3:35 | 2025-04-22 |  |
 | [Out For Love](https://open.spotify.com/track/7MeAsrKeb2yyOvYn9cdYcb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Daphne Rubin\-Vega](https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR) | [Hazbin Hotel Original Soundtrack \(Part 3\)](https://open.spotify.com/album/4Hh6784LclgtBfDb62ojn3) | 1:30 | 2024-05-14 |  |
 | [Out For Love \- Lute Version](https://open.spotify.com/track/1QTChBrG6Mn0tSNGFkHV0w) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Out For Love \(Lute Version\)](https://open.spotify.com/album/1YBUCRw6FKUQKM1RKyF030) | 2:08 | 2024-06-20 |  |
+| [OUTER SKIES](https://open.spotify.com/track/3BHfhVlYS7GflTsilu46ax) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [OUTER SKIES](https://open.spotify.com/album/5OYx8TJRV5OquwWei18w2g) | 3:47 | 2026-08-12 |  |
 | [Outside of the Tower](https://open.spotify.com/track/7l4yvxMDqbxzukX6HpJVmf) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 1:42 | 2024-12-24 |  |
 | [Over Amplified](https://open.spotify.com/track/2o8vGgRwmrqPtOtyis3ttx) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Over Amplified](https://open.spotify.com/album/0qg7MwIdbpHPyBrnV5miOq) | 3:02 | 2024-05-15 |  |
 | [Owo You're so Warm](https://open.spotify.com/track/2NpLgr5eL8E96X49kLQID0) | [Senzawa](https://open.spotify.com/artist/2iXAFUDVjc12Gea585uitg) | [Owo You're so Warm](https://open.spotify.com/album/2qzq5VtsEwpK1pQtFPlexG) | 1:03 | 2023-11-18 |  |

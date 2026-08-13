@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 47337,
+  "num_followers": 47338,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHq4igb99pfUJpWtbBaWKLkTq+6R",
+  "snapshot_id": "AAAAAIthn0G+UqIRrUgyroKgrhjlWB+G",
   "tracks": [
     {
       "added_at": "2026-07-31 00:01:51",
@@ -203,18 +203,22 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 273684,
-      "name": "back of the club",
-      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
+      "duration_ms": 222840,
+      "name": "Coming Home (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
     },
     {
       "added_at": "2026-08-07 00:01:24",
@@ -251,22 +255,18 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Coming Home (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
+      "duration_ms": 273684,
+      "name": "back of the club",
+      "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -303,18 +303,22 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "Icon (Director's Cut)",
-        "url": "https://open.spotify.com/album/1xlNNw1T0pxoTpm1ZGWRG7"
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 192030,
-      "name": "full moon. (fall in tokyo) [bonus track]",
-      "url": "https://open.spotify.com/track/6fACn9e0wdMIWZa9CZJym8"
+      "duration_ms": 216493,
+      "name": "Miami (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -355,22 +359,18 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+        "name": "Icon (Director's Cut)",
+        "url": "https://open.spotify.com/album/1xlNNw1T0pxoTpm1ZGWRG7"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 216493,
-      "name": "Miami (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+      "duration_ms": 192030,
+      "name": "full moon. (fall in tokyo) [bonus track]",
+      "url": "https://open.spotify.com/track/6fACn9e0wdMIWZa9CZJym8"
     },
     {
       "added_at": "2026-08-07 00:01:24",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 184822,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
         "name": "THE GENTLEMEN'S CLUB",
         "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 260629,
       "name": "SIMON SAYS feat isaiah falls, odeal & sasha keable",
       "url": "https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 184822,
-      "name": "Acres",
-      "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
+        "name": "A*POP",
+        "url": "https://open.spotify.com/album/4pX6vyJPKoMGnkRZYhRor6"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148575,
+      "name": "DOUBLE BLIND",
+      "url": "https://open.spotify.com/track/4VLekTV2mblX91gl1BHIJE"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
         "name": "Solace II",
         "url": "https://open.spotify.com/album/0csdTMdBLQseo4FFt1nRXa"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 154105,
       "name": "Solace II",
       "url": "https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
-        "name": "A*POP",
-        "url": "https://open.spotify.com/album/4pX6vyJPKoMGnkRZYhRor6"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148575,
-      "name": "DOUBLE BLIND",
-      "url": "https://open.spotify.com/track/4VLekTV2mblX91gl1BHIJE"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "Uche Jumbo",
-        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 148269,
-      "name": "Uche Jumbo",
-      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 164599,
       "name": "robbery",
       "url": "https://open.spotify.com/track/3ORQAVMG2AUIeHdmdrl08p"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
+    },
+    {
+      "added_at": "2026-07-31 00:01:51",
+      "album": {
         "name": "darkest secrets / CHAKAM",
         "url": "https://open.spotify.com/album/5bPOkxU0VV6Zs36F4xyKMk"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 201457,
       "name": "Darkest Secrets",
       "url": "https://open.spotify.com/track/1Mqcx741E3t5MRLGRfMKA8"
-    },
-    {
-      "added_at": "2026-07-31 00:01:51",
-      "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC"
     },
     {
       "added_at": "2026-07-31 00:01:51",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-07-31 00:01:51",
       "album": {
-        "name": "Don't Say the Words",
-        "url": "https://open.spotify.com/album/4iwWHgHZQ3yZUzOH6wVFBr"
+        "name": "WAHALA RIDDIM",
+        "url": "https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO"
       },
       "artists": [
         {
-          "name": "Manana",
-          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
         }
       ],
-      "duration_ms": 211533,
-      "name": "Don't Say the Words",
-      "url": "https://open.spotify.com/track/0N1QCR8ixCrfJq61xeNoot"
+      "duration_ms": 202010,
+      "name": "WAHALA RIDDIM",
+      "url": "https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8"
     }
   ],
   "unique_name": "Cocoa Butter ",

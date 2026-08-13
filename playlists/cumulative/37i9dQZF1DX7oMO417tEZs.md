@@ -2,9 +2,9 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> ⁺‧₊˚ A curated space for the avant\-garde⋆ ˚₊‧⁺ Cover: Arca
+> ⁺‧₊˚ A curated space for the avant\-garde⋆ ˚₊‧⁺ Cover: underscores
 
-1,999 songs - 4 day 12 hr 21 min
+2,000 songs - 4 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1770,6 +1770,7 @@
 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 | 2022-05-27 | 2022-07-16 |
 | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv) | 6:17 | 2023-01-27 | 2023-04-30 |
 | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/track/4o3MqrMKZnku8PZTVZEPeR) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [portrait of a dog](https://open.spotify.com/album/6SsOunBXV82rQ7xhiQlYi5) | 6:17 | 2023-04-28 | 2023-05-27 |
+| [The Peace](https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 2:49 | 2026-08-12 |  |
 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 | 2022-06-17 | 2022-07-30 |
 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 | 2025-07-11 | 2025-11-29 |
 | [The Thrill Is Gone.](https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 3:19 | 2023-01-13 | 2023-02-04 |

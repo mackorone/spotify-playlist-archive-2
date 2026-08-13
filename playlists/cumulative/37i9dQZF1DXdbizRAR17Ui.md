@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-450 songs - 1 day 6 hr 12 min
+451 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Sheltered](https://open.spotify.com/track/2CL8PXyzCpDV07SozN67Ay) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq) | [Year Of The Living Dead](https://open.spotify.com/album/0jwjHNhMdj3V6fOvx36ozD) | 4:58 | 2021-11-24 | 2022-05-18 |
 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-20 | 2024-07-12 |
 | [Should Have Seen It Coming](https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AETHO](https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG) | [Should Have Seen It Coming](https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa) | 3:58 | 2021-11-24 | 2024-06-07 |
+| [Should've Been](https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Should've Been](https://open.spotify.com/album/7e7NGbnRzdGFOp2t0qWhm0) | 2:23 | 2026-08-12 |  |
 | [Shut Up](https://open.spotify.com/track/56GVYeBS8bc9JINzlUKrTK) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [Shut Up](https://open.spotify.com/album/2yxEAGxyOJzEg4IMxGew8h) | 2:19 | 2024-01-05 | 2024-06-07 |
 | [Shy](https://open.spotify.com/track/2ZMlMWibWHnxB4qf5zlt3L) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Might Delete Later](https://open.spotify.com/artist/71j4PhDtWqw0LIG5MXBLxT) | [Shy](https://open.spotify.com/album/56lt0wA0GO8UguFRdXVBA4) | 3:25 | 2025-03-21 | 2025-07-26 |
 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 | 2024-06-14 | 2024-09-07 |
@@ -428,7 +429,7 @@
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-07-03 | 2025-10-04 |
 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 | 2024-10-25 |  |
 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 | 2022-06-20 | 2024-04-05 |
-| [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2025-01-30 |  |
+| [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2025-01-30 | 2026-08-13 |
 | [Unknowable](https://open.spotify.com/track/7qt7yOwx9c39I1Ti8iAgLa) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Unknowable](https://open.spotify.com/album/02KxfrGk4P5AesEeEDm343) | 3:03 | 2025-05-16 | 2026-01-23 |
 | [Up and Out](https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Oasis Nocturno](https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1) | 4:40 | 2021-11-24 | 2022-07-27 |
 | [Ur <3](https://open.spotify.com/track/0hx4xTylyRQFNFFnVUJydy) | [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [Rose, Vol\. 2](https://open.spotify.com/album/3WVQ7KA54YAxv7fQ5pfFE2) | 3:43 | 2021-11-24 | 2022-07-29 |

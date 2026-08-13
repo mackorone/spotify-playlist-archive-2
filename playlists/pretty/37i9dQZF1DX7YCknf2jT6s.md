@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,680 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,669 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Dusty But Digital pt.3 \- Dusty But Digital](https://open.spotify.com/track/15ccg03xENvbgTdtw2OBfs) | [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr), [Monica Mussungo](https://open.spotify.com/artist/1keDfNbTVduTl02p1NxfkU) | [In The Age Of Data](https://open.spotify.com/album/4M0EzsBZuTnzq7tcE9Ezty) | 2:43 |
 | 100 | [The Law of Diminishing Returns \- Radio](https://open.spotify.com/track/2Z1xYH4Y4uDnaMRk2kMM7t) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [San Michele \(Radio\)](https://open.spotify.com/album/0De82n8QaUod7sefVRbA3F) | 5:38 |
 
-Snapshot ID: `AAAAAHgCgFkf2b3SU0gMEb/qK1729gNR`
+Snapshot ID: `AAAAANGAsuQ9JYrShsXGrY7EZUNjLk3v`

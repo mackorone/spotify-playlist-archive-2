@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,628,194 likes - 150 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,628,188 likes - 150 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [MANGATA](https://open.spotify.com/track/4mRD1edvWuTaMMylCcsHGB) | [KIETH MONTANA](https://open.spotify.com/artist/1NNE8Lje4IbJY5MK0t4ys7) | [DEVILS PLAYGROUND](https://open.spotify.com/album/2vF7VckTpJS0uMkf0JN2GE) | 1:55 |
 | 150 | [ghost in the flesh](https://open.spotify.com/track/46eaJ7saGguB0WfBJS04D9) | [conscience](https://open.spotify.com/artist/4SDZGbRR9IjhHG5i3cZEQC) | [ghost in the flesh](https://open.spotify.com/album/0SMJ11BJlIFC7KBjwNaRqr) | 2:56 |
 
-Snapshot ID: `AAAAAB0fRXfJTQ7uDSDcTgq1obEMiJjh`
+Snapshot ID: `AAAAAH/JtsQf0rKyWe9alAvkH6ZC+esS`

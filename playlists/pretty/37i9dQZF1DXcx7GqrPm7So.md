@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx7GqrPm7So.md) - [plain]
 
 > Feel good classics to get you grinning!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,674 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,678 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx7GqrPm7So.md) - [plain]
 | 99 | [Am I the Same Girl](https://open.spotify.com/track/2KZ4EZcNUanFLpf8CykQeR) | [Barbara Acklin](https://open.spotify.com/artist/5cIS9VdHDj2fozLl19Gg2A) | [As & BS \(The Brunswick Singles\)](https://open.spotify.com/album/5fEhoUQBMKa1yx8dMR9Uvh) | 3:03 |
 | 100 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 |
 
-Snapshot ID: `AAAAAAicqLS/F03KGR8YtxBLgxiyHAGG`
+Snapshot ID: `AAAAAKsD6NcV3JcmiNyEn2ble0Dx7ncK`

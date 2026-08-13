@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADZP7o+0Kndb+AEtXnoFtsn",
+  "snapshot_id": "anpmAAAAAADHkoQ01qBwvsya5bd/CrGx",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishin",
-        "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        },
-        {
-          "name": "Indigowavv",
-          "url": "https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Wishin",
-      "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steve Aoki (feat. bludnymph)",
         "url": "https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 150857,
       "name": "Steve Aoki (feat. bludnymph)",
       "url": "https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishin",
+        "url": "https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        },
+        {
+          "name": "Indigowavv",
+          "url": "https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Wishin",
+      "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
     }
   ],
   "unique_name": "This Is bludnymph",

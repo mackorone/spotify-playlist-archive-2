@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 269767,
+  "num_followers": 269800,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3kAdEYTkFYE6PySTPA7catS6YX",
+  "snapshot_id": "AAAAAN+jv3HxgGB6ofmA1Hw6vluRjQ1X",
   "tracks": [
     {
       "added_at": "2026-05-15 06:00:04",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "Dile A \u00c9L (Remix)",
-        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 220189,
-      "name": "Dile A \u00c9L (Remix)",
-      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
         "name": "The Love & Sex Tape",
         "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 225365,
       "name": "Nos Comemos Vivos",
       "url": "https://open.spotify.com/track/0bI5WRiDfU5BY38ufOJtGu"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
+        "name": "Dile A \u00c9L (Remix)",
+        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Dile A \u00c9L (Remix)",
+      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "Bugatti",
-        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 170713,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
+        "name": "Bugatti",
+        "url": "https://open.spotify.com/album/5gDuTyNuNkHVZJtiC0Yn8j"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 170713,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/5T5Sh4los31YeizVXIcpWd"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "Rompelo",
-        "url": "https://open.spotify.com/album/6YvCx0TiIdGM84wjhAOz4t"
-      },
-      "artists": [
-        {
-          "name": "DJ Pedro Fuentes",
-          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
-        },
-        {
-          "name": "Mad Fuentes",
-          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
-        }
-      ],
-      "duration_ms": 164223,
-      "name": "Rompelo",
-      "url": "https://open.spotify.com/track/6k2evQXcf7n9Lbc7V5XkOX"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
         "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) [Remix]",
         "url": "https://open.spotify.com/album/7BA2zaBLTBByNwceB6klnO"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
+        "name": "Rompelo",
+        "url": "https://open.spotify.com/album/6YvCx0TiIdGM84wjhAOz4t"
+      },
+      "artists": [
+        {
+          "name": "DJ Pedro Fuentes",
+          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
+        },
+        {
+          "name": "Mad Fuentes",
+          "url": "https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW"
+        }
+      ],
+      "duration_ms": 164223,
+      "name": "Rompelo",
+      "url": "https://open.spotify.com/track/6k2evQXcf7n9Lbc7V5XkOX"
     },
     {
       "added_at": "2026-05-15 06:00:04",

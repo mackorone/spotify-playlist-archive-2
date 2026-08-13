@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > زبدة الراب الصافية\. ١٠٠٪ صناعة محليّة
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,864 likes - 46 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,868 likes - 46 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shift](https://open.spotify.com/track/7Il7dirZYENWLPUMvYxLTC) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Shift](https://open.spotify.com/album/7aY1uHmcbbKdNZe3vLmUf5) | 2:30 |
-| 2 | [R2](https://open.spotify.com/track/48lACJStcQmd2WO1qMnqOF) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [R2](https://open.spotify.com/album/4WLDfug8AMnPH1gh0QVwq2) | 2:32 |
+| 1 | [R2](https://open.spotify.com/track/48lACJStcQmd2WO1qMnqOF) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [R2](https://open.spotify.com/album/4WLDfug8AMnPH1gh0QVwq2) | 2:32 |
+| 2 | [Shift](https://open.spotify.com/track/7Il7dirZYENWLPUMvYxLTC) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45), [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Shift](https://open.spotify.com/album/7aY1uHmcbbKdNZe3vLmUf5) | 2:30 |
 | 3 | [CULTURE](https://open.spotify.com/track/5mdg0oP9YXVLd3D6s5Y3uJ) | [Tageel](https://open.spotify.com/artist/4LcBuE8S15eBSgSqKApro5), [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [CULTURE](https://open.spotify.com/album/2BL4uJw64vXfWTfAUNNR20) | 2:14 |
 | 4 | [اشناك](https://open.spotify.com/track/0ZehBprB7kEqrboKujaVVg) | [Júnior T](https://open.spotify.com/artist/1MYUszmFEtNVSEZ2UC92Sd), [INSEVEN](https://open.spotify.com/artist/5la1BXSjVSVTyF1E8Vj3EZ) | [اشناك](https://open.spotify.com/album/28eIWKEmIgz7Kcg4rZM6xu) | 2:50 |
 | 5 | [Jabaha Le Ahlo](https://open.spotify.com/track/5Wran1wG54f2w0tnV8BmBI) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Jabaha Le Ahlo](https://open.spotify.com/album/0sy0PPYClrTSRGz8CCFmTT) | 2:47 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 | 45 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
 | 46 | [Theeb](https://open.spotify.com/track/7e7XGcxSyirmCyxsGYvyQT) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:06 |
 
-Snapshot ID: `AAAAAI7PjNnTtjUVzZsWzFnSnfblugvW`
+Snapshot ID: `AAAAADJn9h9s4qfRZaSw7fY5HQu3AP2r`

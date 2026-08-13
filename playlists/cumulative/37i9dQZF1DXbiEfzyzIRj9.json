@@ -7085,6 +7085,24 @@
     },
     {
       "album": {
+        "name": "Cave Diving EP",
+        "url": "https://open.spotify.com/album/2g62kxy9bd899pv9dwE3MA"
+      },
+      "artists": [
+        {
+          "name": "DubGuy",
+          "url": "https://open.spotify.com/artist/4odFIosa3aec1eklV4CVJN"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223923,
+      "name": "Cave Diving",
+      "url": "https://open.spotify.com/track/2QSUq91dR6PotL1RU7cEr4"
+    },
+    {
+      "album": {
         "name": "SUPER DANCE TOOLS Vol.3",
         "url": "https://open.spotify.com/album/5fDkGCqwf24otf3P2fwzV9"
       },

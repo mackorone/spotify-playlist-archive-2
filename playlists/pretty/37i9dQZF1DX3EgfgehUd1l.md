@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,667 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,670 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 48 | [Tammy](https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc) | [Debbie Reynolds](https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn) | [Love Is A Simple Thing](https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47) | 3:04 |
 | 49 | [It's All In The Game](https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [The Hits and More](https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ) | 2:39 |
 | 50 | [It's Late \- Remastered 2001](https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits](https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg) | 1:58 |
-| 51 | [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 |
-| 52 | [If I Give My Heart to You \(with The Mellomen\)](https://open.spotify.com/track/3EuT9Db7LX4no2y4XTUc53) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:49 |
+| 51 | [If I Give My Heart to You \(with The Mellomen\)](https://open.spotify.com/track/3EuT9Db7LX4no2y4XTUc53) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:49 |
+| 52 | [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 |
 | 53 | [Rubber Ball](https://open.spotify.com/track/3Onckv4ELY5JiWgoqUFxvf) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Essential](https://open.spotify.com/album/2qvgU7ANFcPldErKcJkcnR) | 2:21 |
 | 54 | [Wanted \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Very Best Of](https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84) | 3:05 |
 | 55 | [Hold My Hand](https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Most of All](https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF) | 2:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 79 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
 | 80 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
 
-Snapshot ID: `AAAAAMf3f5kYHvhX4tlUV9l6WcbVfLB6`
+Snapshot ID: `AAAAALaX9UblwVgjCLbvqbu1X7HpC9qT`

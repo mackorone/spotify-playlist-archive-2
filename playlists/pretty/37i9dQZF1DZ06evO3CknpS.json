@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABvqW/14IWRVceWCNEvT50z",
+  "snapshot_id": "anpmAAAAAABeIAZJ9KKFGfRR+eR2h85c",
   "tracks": [
     {
       "added_at": null,
@@ -479,30 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ionisation (1927-1945)",
-        "url": "https://open.spotify.com/album/74Ef8hYM9W1XIuu3G1BU5F"
+        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
+        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
       },
       "artists": [
         {
-          "name": "Anis Fuleihan",
-          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
-        },
-        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "New York Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/2Ygb9yY45hoD9IZOFKAngE"
-        },
-        {
-          "name": "Leopold Stokowski",
-          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
         }
       ],
-      "duration_ms": 59733,
-      "name": "Theremin Concerto: Broadcast Commentary",
-      "url": "https://open.spotify.com/track/06UdNlrbPzDtAD7SGKqr9u"
+      "duration_ms": 62013,
+      "name": "Concluding Announcements",
+      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
     },
     {
       "added_at": null,
@@ -512,8 +500,8 @@
       },
       "artists": [
         {
-          "name": "Igor Stravinsky",
-          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
         },
         {
           "name": "Clara Rockmore",
@@ -524,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 190400,
-      "name": "The Firebird, K010: VI. Berceuse (Arr. for Theremin and Piano by Clara Rockmore)",
-      "url": "https://open.spotify.com/track/7sQjyKab8CannQMC9NivOH"
+      "duration_ms": 259560,
+      "name": "6 Romances, Op. 4: No. 4, Do Not Sing, My Beauty (Arr. for Theremin and Piano by Clara Rockmore)",
+      "url": "https://open.spotify.com/track/2gpimdfFYEztUxQUgdFjym"
     },
     {
       "added_at": null,
@@ -584,17 +572,25 @@
       },
       "artists": [
         {
-          "name": "Robert Sherman",
-          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Erick Friedman",
+          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 68560,
-      "name": "Commentary 2",
-      "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
+      "duration_ms": 514733,
+      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
+      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
     },
     {
       "added_at": null,
@@ -615,6 +611,34 @@
       "duration_ms": 256466,
       "name": "Song of Grusia, Op. 4, No. 4",
       "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ionisation (1927-1945)",
+        "url": "https://open.spotify.com/album/74Ef8hYM9W1XIuu3G1BU5F"
+      },
+      "artists": [
+        {
+          "name": "Anis Fuleihan",
+          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "New York Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2Ygb9yY45hoD9IZOFKAngE"
+        },
+        {
+          "name": "Leopold Stokowski",
+          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+        }
+      ],
+      "duration_ms": 59733,
+      "name": "Theremin Concerto: Broadcast Commentary",
+      "url": "https://open.spotify.com/track/06UdNlrbPzDtAD7SGKqr9u"
     },
     {
       "added_at": null,
@@ -648,25 +672,17 @@
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Erick Friedman",
-          "url": "https://open.spotify.com/artist/4xaVVQxKoP1ZhamR8rUFOT"
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
         },
         {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        },
-        {
-          "name": "Nadia Reisenberg",
-          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 514733,
-      "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
-      "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
+      "duration_ms": 68560,
+      "name": "Commentary 2",
+      "url": "https://open.spotify.com/track/5czANS42gv78Jcsd9BmE6j"
     },
     {
       "added_at": null,
@@ -676,13 +692,17 @@
       },
       "artists": [
         {
+          "name": "Anis Fuleihan",
+          "url": "https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E"
+        },
+        {
           "name": "Clara Rockmore",
           "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
         }
       ],
-      "duration_ms": 62013,
-      "name": "Concluding Announcements",
-      "url": "https://open.spotify.com/track/2v6RrCzcuUz2oUovrrWy4w"
+      "duration_ms": 264280,
+      "name": "Theremin Concerto: Pastorale",
+      "url": "https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E"
     },
     {
       "added_at": null,
@@ -692,8 +712,8 @@
       },
       "artists": [
         {
-          "name": "Mikhail Glinka",
-          "url": "https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh"
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
         },
         {
           "name": "Clara Rockmore",
@@ -704,29 +724,9 @@
           "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Elegy: Do not tempt me needlessly.",
-      "url": "https://open.spotify.com/track/1x1moJQ5Brxm4c19VI5DM5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music and Memories: Clara Rockmore (Bonus Album)",
-        "url": "https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Clara Rockmore",
-          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
-        }
-      ],
-      "duration_ms": 179106,
-      "name": "Habanera",
-      "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
+      "duration_ms": 537293,
+      "name": "Sonata for violin and piano: Allegro",
+      "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
     }
   ],
   "unique_name": "This Is Clara Rockmore",

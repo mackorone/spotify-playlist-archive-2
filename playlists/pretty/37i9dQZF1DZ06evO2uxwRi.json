@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43959,
+  "num_followers": 43962,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAY7JEGSkrZjCaDHFulanB9",
+  "snapshot_id": "anpmAAAAAAD5IFoVwMpq0EC2Co63YCf5",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 200906,
-      "name": "Crazy For You",
-      "url": "https://open.spotify.com/track/48WfbySqOU08wXUOqKpd5a"
+      "duration_ms": 195826,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 195826,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM"
+      "duration_ms": 200906,
+      "name": "Crazy For You",
+      "url": "https://open.spotify.com/track/48WfbySqOU08wXUOqKpd5a"
     },
     {
       "added_at": null,

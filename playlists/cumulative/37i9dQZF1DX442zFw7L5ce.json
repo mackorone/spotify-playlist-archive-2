@@ -838,7 +838,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 371517,
       "name": "Ekkada Ekkada",
       "url": "https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT"
@@ -1772,6 +1772,24 @@
       "duration_ms": 146819,
       "name": "Nee Neeli Kannullona (From \"Dear Comrade\")",
       "url": "https://open.spotify.com/track/0Vjckx1G9Nt1S4GVfVKEdo"
+    },
+    {
+      "album": {
+        "name": "Mahathma",
+        "url": "https://open.spotify.com/album/5Lcs851etHK2DXWPKAKncp"
+      },
+      "artists": [
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216842,
+      "name": "Neela Poori",
+      "url": "https://open.spotify.com/track/48COQEa9dLJBadH5EO9VwB"
     },
     {
       "album": {

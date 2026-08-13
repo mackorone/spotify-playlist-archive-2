@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 55423,
+  "num_followers": 55426,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADfSaGgJ7fHIQMywpnvcChU",
+  "snapshot_id": "anpmAAAAAAAKRwVa0XV11VMeibUqGWL4",
   "tracks": [
     {
       "added_at": null,
@@ -91,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+        "name": "\u9752\u6625\u6c38\u9060",
+        "url": "https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF"
       },
       "artists": [
+        {
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 253400,
-      "name": "koi geba",
-      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
+      "duration_ms": 265053,
+      "name": "\u9752\u6625\u6c38\u9060",
+      "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"
     },
     {
       "added_at": null,
@@ -155,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9752\u6625\u6c38\u9060",
-        "url": "https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF"
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
       "artists": [
-        {
-          "name": "Shonan No Kaze",
-          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 265053,
-      "name": "\u9752\u6625\u6c38\u9060",
-      "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"
+      "duration_ms": 253400,
+      "name": "koi geba",
+      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
     },
     {
       "added_at": null,
@@ -359,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEAVYWEIGHT",
-        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
       },
       "artists": [
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 212863,
-      "name": "ARMSTRONG",
-      "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
+      "duration_ms": 242250,
+      "name": "One Heart",
+      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
     },
     {
       "added_at": null,
@@ -395,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Heart",
-        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
+        "name": "HEAVYWEIGHT",
+        "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
       },
       "artists": [
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 242250,
-      "name": "One Heart",
-      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
+      "duration_ms": 212863,
+      "name": "ARMSTRONG",
+      "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "kimiwaina'17",
+      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 227000,
       "name": "okami no uta",
       "url": "https://open.spotify.com/track/58RpaRl4kdj9LAGA93ERcT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "kimiwaina'17",
-      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANINGEN",
         "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 171566,
       "name": "MANINGEN",
       "url": "https://open.spotify.com/track/7JwDRpLUuqVLeA5lEjnao6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 278266,
+      "name": "rakuen nite watashi jigoku",
+      "url": "https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Yourself feat. ATARASHII GAKKO!",
         "url": "https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 213500,
       "name": "Free Yourself feat. ATARASHII GAKKO!",
       "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 278266,
-      "name": "rakuen nite watashi jigoku",
-      "url": "https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG"
     },
     {
       "added_at": null,

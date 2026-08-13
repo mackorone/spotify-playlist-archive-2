@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Red Velvet\)
 
-420 songs - 22 hr 43 min
+421 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Butter](https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP) | 2:44 | 2023-07-20 | 2026-07-11 |
 | [BYE \(feat\. Whee In\)](https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [BYE \(feat\. Whee In\)](https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx) | 3:08 | 2022-08-26 | 2022-10-22 |
 | [California Dream](https://open.spotify.com/track/3ulIMvCtahvAmAQHcCbDFs) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 2:59 | 2022-07-11 | 2024-04-23 |
+| [Candy Pink Magic Hole Flip Phone](https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6) | 2:46 | 2026-08-12 |  |
 | [CANDYFLOSS](https://open.spotify.com/track/3r6v6awkmqrHLj9yKaYZmZ) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:01 | 2022-06-30 | 2022-08-11 |
 | [Celebrate](https://open.spotify.com/track/26UXZp8fgaGTrSbFhSuyYr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 2:46 | 2023-07-26 | 2023-09-17 |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2021-11-17 | 2026-05-26 |
@@ -303,7 +304,7 @@
 | [PLAY DUMB](https://open.spotify.com/track/3GJSLbB36rXHI2WmXxW91m) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [Story Written in Music](https://open.spotify.com/album/6ZpvLJfgF2S4NlUbrh0TIo) | 3:25 | 2022-06-18 | 2022-07-26 |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7qmvLmX9tyaTiBAVNI6YEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2Fna4Tb7fme5aHsNMJtVtp) | 3:17 | 2022-07-27 | 2024-04-19 |
 | [PLAYING WITH FIRE](https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE TWO](https://open.spotify.com/album/2s27rRgZswwbRJUQXSGTLf) | 3:17 | 2021-11-17 | 2026-05-26 |
-| [Please Summer!](https://open.spotify.com/track/2D5IrHXQhnltOsi0gE9YqV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Please Summer!](https://open.spotify.com/album/4PdIcl4swrv6gta9ZSzLZG) | 3:49 | 2026-07-28 |  |
+| [Please Summer!](https://open.spotify.com/track/2D5IrHXQhnltOsi0gE9YqV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Please Summer!](https://open.spotify.com/album/4PdIcl4swrv6gta9ZSzLZG) | 3:49 | 2026-07-28 | 2026-08-13 |
 | [Please Summer!](https://open.spotify.com/track/0MEjDaCkQ90NpegfbwBMZ1) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Please Summer!](https://open.spotify.com/album/2F0OiYvZqmcfCZ8lFm9v6B) | 3:59 | 2024-07-31 | 2024-09-07 |
 | [Pool Party \(Feat\. E\-CHAN of DKB\)](https://open.spotify.com/track/2avJo0RwtC1zWiOx4CaGWG) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [E\-CHAN](https://open.spotify.com/artist/4h44hjwoLSVhQynEnkrbt5) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:12 | 2021-11-17 | 2022-07-28 |
 | [Pool Party\(Rollin’ right now\)](https://open.spotify.com/track/4RsGFsrL1NeUlKv6Zourbp) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Part.2\-2](https://open.spotify.com/album/5ftR2nskDFsLbszHNIiYJp) | 4:00 | 2022-06-09 | 2023-01-15 |

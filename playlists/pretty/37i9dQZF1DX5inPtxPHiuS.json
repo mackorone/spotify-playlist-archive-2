@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Superlitio",
-  "num_followers": 87752,
+  "num_followers": 87749,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4be4ctBOKWSU9DiRwCu0szQIN0",
+  "snapshot_id": "AAAAAIHhUesCW5f91KJKnORVWbuGO2VP",
   "tracks": [
     {
       "added_at": "2026-04-24 04:59:15",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+      },
+      "artists": [
+        {
+          "name": "Oh'laville",
+          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+        }
+      ],
+      "duration_ms": 327296,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT"
+        "name": "Lockdownska",
+        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
       },
       "artists": [
         {
-          "name": "Oh'laville",
-          "url": "https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7"
+          "name": "Burning Caravan",
+          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
         }
       ],
-      "duration_ms": 327296,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu"
+      "duration_ms": 219506,
+      "name": "Lockdownska",
+      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Sed",
-        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
-      },
-      "artists": [
-        {
-          "name": "Lucio Feuillet",
-          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
-        }
-      ],
-      "duration_ms": 299116,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Estallados",
         "url": "https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Lockdownska",
-        "url": "https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P"
+        "name": "Sed",
+        "url": "https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn"
       },
       "artists": [
         {
-          "name": "Burning Caravan",
-          "url": "https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat"
+          "name": "Lucio Feuillet",
+          "url": "https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy"
         }
       ],
-      "duration_ms": 219506,
-      "name": "Lockdownska",
-      "url": "https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA"
+      "duration_ms": 299116,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Todo Se Olvida",
-        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
-      },
-      "artists": [
-        {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
-        }
-      ],
-      "duration_ms": 272999,
-      "name": "Todo Se Olvida",
-      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 212660,
       "name": "Madre Tierra",
       "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
+        "name": "Todo Se Olvida",
+        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
+      },
+      "artists": [
+        {
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+        }
+      ],
+      "duration_ms": 272999,
+      "name": "Todo Se Olvida",
+      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "INFECTOS",
-        "url": "https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr"
-      },
-      "artists": [
-        {
-          "name": "Perros de Reserva",
-          "url": "https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba"
-        },
-        {
-          "name": "Pornomotora",
-          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "INFECTOS",
-      "url": "https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk"
-    },
-    {
-      "added_at": "2026-04-24 04:59:15",
-      "album": {
         "name": "Corriente",
         "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 301863,
       "name": "Corriente",
       "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
+    },
+    {
+      "added_at": "2026-04-24 04:59:15",
+      "album": {
+        "name": "INFECTOS",
+        "url": "https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr"
+      },
+      "artists": [
+        {
+          "name": "Perros de Reserva",
+          "url": "https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba"
+        },
+        {
+          "name": "Pornomotora",
+          "url": "https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "INFECTOS",
+      "url": "https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk"
     },
     {
       "added_at": "2026-04-24 04:59:15",
@@ -995,18 +995,22 @@
     {
       "added_at": "2026-04-24 04:59:15",
       "album": {
-        "name": "Destapabocas",
-        "url": "https://open.spotify.com/album/0RnD4xRRZKJLjc0BBjaCw6"
+        "name": "Arrebato",
+        "url": "https://open.spotify.com/album/63IQQKH4HLbfLb873peXcR"
       },
       "artists": [
         {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+          "name": "La Sociedad de La Sombrilla",
+          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
+        },
+        {
+          "name": "Radio Paila",
+          "url": "https://open.spotify.com/artist/47HKESnnseYRf0JaHZR3E1"
         }
       ],
-      "duration_ms": 229423,
-      "name": "Destapabocas",
-      "url": "https://open.spotify.com/track/2aVKlAZFeYmVyclUgjwZ2w"
+      "duration_ms": 242000,
+      "name": "Arrebato",
+      "url": "https://open.spotify.com/track/5TyVM2yYYzCZDx2PATr216"
     }
   ],
   "unique_name": "Rock Colombia",

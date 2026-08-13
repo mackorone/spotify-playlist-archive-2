@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 366170,
+  "num_followers": 366221,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqxLqbUT7RWEXuguEuqraEqfmSG",
+  "snapshot_id": "AAAAAJmTTgzKytHhxRt6JOoP9P5c4dY5",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Very Best Of Dan Fogelberg",
-        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
+        "name": "Quinella",
+        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
       },
       "artists": [
         {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 245293,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
+      "duration_ms": 294400,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Quinella",
-        "url": "https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN"
+        "name": "The Very Best Of Dan Fogelberg",
+        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
         }
       ],
-      "duration_ms": 294400,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I"
+      "duration_ms": 245293,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
         }
       ],
-      "duration_ms": 261959,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
+      "duration_ms": 262693,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
         }
       ],
-      "duration_ms": 262693,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
+      "duration_ms": 261959,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn"
     },
     {
       "added_at": "2023-03-30 14:38:10",

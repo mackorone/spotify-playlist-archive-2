@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. J Noa en Portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,489 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,486 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRM5WD7taad.md) - [plain]
 | 99 | [LÁSER](https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [LÁSER](https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC) | 2:39 |
 | 100 | [Hija De P](https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Hija De P](https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9) | 2:05 |
 
-Snapshot ID: `AAAAABo0FQWIE+EJch8A+bw+rGKt2MHj`
+Snapshot ID: `AAAAAPurUosNozwbBZ5mtmZQ9I6Raukl`

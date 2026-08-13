@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADv8o6mFZKZAnVsTQHB7Zwn",
+  "snapshot_id": "anpmAAAAAADeXfbXV4VhchRc64Ou5MC0",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK MAMBO",
-        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 196125,
-      "name": "OK MAMBO",
-      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 218466,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/7CbrBSvy75RKDVHuCmc9M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OK MAMBO",
+        "url": "https://open.spotify.com/album/0oqxabsaDUKUFuFP3vPvBZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 196125,
+      "name": "OK MAMBO",
+      "url": "https://open.spotify.com/track/0xwX4Su3Q9wBjRFQqfxbXp"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Que Bonita Te Ves",
-      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
+      "duration_ms": 180493,
+      "name": "La Crisis",
+      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+        "name": "Puras de Lazo y Reata",
+        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 172106,
-      "name": "Subete A Mi Moto",
-      "url": "https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d"
+      "duration_ms": 147400,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
     },
     {
       "added_at": null,
@@ -784,15 +784,15 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 180493,
-      "name": "La Crisis",
-      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
+      "duration_ms": 200760,
+      "name": "Que Bonita Te Ves",
+      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Lazo y Reata",
-        "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 147400,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
+      "duration_ms": 172106,
+      "name": "Subete A Mi Moto",
+      "url": "https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d"
     },
     {
       "added_at": null,

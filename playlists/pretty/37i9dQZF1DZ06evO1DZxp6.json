@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 244476,
+  "num_followers": 244489,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACfA2qgpw+vSO8GXxYl9pzZ",
+  "snapshot_id": "anpmAAAAAABUADb0BF+aTvyz3RYoTaGw",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
-      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sentimiento Raro (Canci\u00f3n Original de la Serie de Amazon Prime)",
         "url": "https://open.spotify.com/album/0qtM1GTdjZxn727a9zeIRW"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 208094,
       "name": "Sentimiento Raro (Canci\u00f3n Original de la Serie de Amazon Prime)",
       "url": "https://open.spotify.com/track/1zhYnN5GiRKNsKyAlUcE1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Ilusion (Unplugged) (En Vivo) (with Marisa Monte)",
+      "url": "https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3"
     },
     {
       "added_at": null,

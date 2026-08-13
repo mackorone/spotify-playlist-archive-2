@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Initiate
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,839 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,847 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [Pilot Light](https://open.spotify.com/track/24HILc3OqEmHTzspI3k6pe) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Probable Claws](https://open.spotify.com/album/1TZBW8hazyoaxuFXI6tcU7) | 3:31 |
 | 125 | [Balloon Man Running](https://open.spotify.com/track/5caj13UPdFrwoLX54LmEm5) | [Public Opinion](https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF) | [Balloon Man Running](https://open.spotify.com/album/6bMfExA0QoaY7KgUaRc1i5) | 2:51 |
 
-Snapshot ID: `AAAAAMCGI3Smh0UfSfBj1HKY8uCU5Jh6`
+Snapshot ID: `AAAAAAgSaTLyEy3/sfNhCXb/9tA4Ap7r`

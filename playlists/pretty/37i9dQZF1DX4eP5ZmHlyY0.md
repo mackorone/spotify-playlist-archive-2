@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: ZEROBASEONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,918 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,990 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 |
 | 80 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 |
 
-Snapshot ID: `AAAAAByDLxSgDuiGAnlX7Mcj6KXuBXVa`
+Snapshot ID: `AAAAALwZShbbyjgsLSAPXcDgYgl0RnAD`

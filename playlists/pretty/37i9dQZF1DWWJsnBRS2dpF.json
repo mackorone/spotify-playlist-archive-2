@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 70144,
+  "num_followers": 70153,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHnOPOzVCuTfCv9u49EtGYRviQSB",
+  "snapshot_id": "AAAAAOGRC6/6+1dVxo+Rn+Y3TpoOyWco",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 200732,
-      "name": "nasty",
-      "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 262133,
       "name": "I'm Real (feat. Ja Rule) - Murder Remix",
       "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 200732,
+      "name": "nasty",
+      "url": "https://open.spotify.com/track/0sci7ppTZFm4mjcH3nu8yO"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156946,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 266000,
       "name": "If You Had My Love",
       "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156946,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "EVERYTHING IS LOVE",
-        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
-      },
-      "artists": [
-        {
-          "name": "The Carters",
-          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
-        }
-      ],
-      "duration_ms": 264853,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 155090,
       "name": "What\u2019s New",
       "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "EVERYTHING IS LOVE",
+        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
+      },
+      "artists": [
+        {
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+        }
+      ],
+      "duration_ms": 264853,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
     },
     {
       "added_at": "2022-10-01 16:21:24",

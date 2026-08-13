@@ -2,9 +2,9 @@
 
 ### [UK Rap 2026](https://open.spotify.com/playlist/6nuo9FYCAGV0WalhCluicG)
 
-> The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\.  Newest Hit: GEEKIN \- Nemzzz, Lil Yachty Cover: Nemzzz.
+> The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-194 songs - 8 hr 44 min
+195 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-10-03 | 2026-03-14 |
 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 | 2026-05-08 | 2026-07-18 |
 | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV) | 2:45 | 2025-10-03 | 2026-03-14 |
+| [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/0rGxIKdpNUy15kCLea8Woh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p3rk95jqISXQf26v9cz3u) | 2:32 | 2026-08-12 |  |
 | [Go Hard](https://open.spotify.com/track/0QOH6bHAImf5LAjhuphkEn) | [deed0t](https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N) | [Go Hard](https://open.spotify.com/album/6J2MGTEEZg033tXQiqSHVp) | 2:55 | 2025-10-03 | 2026-03-14 |
 | [Gorilla](https://open.spotify.com/track/31kE0Epw1WK2qZxAxJLzzh) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Gorilla](https://open.spotify.com/album/7EwikeoUfXNYmpvDQ5ccav) | 2:42 | 2025-10-03 | 2026-03-14 |
 | [Grandma's Kitchen](https://open.spotify.com/track/2BU9FTy2ctWdTjiPiXLZZr) | [KwolleM](https://open.spotify.com/artist/5SFnJjOMV4N33wEpGvDwik), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Melo](https://open.spotify.com/album/3m8xFZm5azXCXreTC3rJ0Q) | 2:27 | 2025-10-03 | 2026-03-14 |
@@ -115,7 +116,7 @@
 | [LEFT OUT \(feat\. M Huncho\)](https://open.spotify.com/track/6h9lDWwnNEZgKUZxPjSohA) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [IT'S NOT YOU IT'S ME](https://open.spotify.com/album/7yOrgeOtDX3XjPEzemjucQ) | 2:31 | 2026-03-13 |  |
 | [Let's Talk \(feat\. Jme\)](https://open.spotify.com/track/2w2FGqT7etJegkoesEzKsT) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Lets Talk \(feat\. Jme\)](https://open.spotify.com/album/4Y452bZyorfxW7bCIJJaIr) | 3:18 | 2025-10-03 |  |
 | [Light It Up](https://open.spotify.com/track/43mrbXwYPHFmj4Eg0PTDhA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Light It Up](https://open.spotify.com/album/1WHMFghZk8mX5gv8QyV4xo) | 3:15 | 2026-07-31 | 2026-08-08 |
-| [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 | 2026-05-28 |  |
+| [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 | 2026-05-28 | 2026-08-13 |
 | [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 | 2025-10-03 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-10-03 | 2026-03-14 |
 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 | 2026-05-01 |  |

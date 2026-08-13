@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [golden boy](https://open.spotify.com/track/0y2O1cQchKi6V76ABHSjuv) | [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9) | [golden boy](https://open.spotify.com/album/1iouT4L7K7DsrQ8KZN86S8) | 2:23 |
 | 50 | [2 min](https://open.spotify.com/track/7J8OTRdXb6noyWoKwlnjk6) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [2 min](https://open.spotify.com/album/54GJMDQ2ahSAxe3lmCq9qg) | 2:33 |
 
-Snapshot ID: `AAAAABovbAqeYwCPMQWRzP0dlVFGVd5b`
+Snapshot ID: `AAAAAIT5cUTjPCBcQ5Q00w4+tWpV1gA2`

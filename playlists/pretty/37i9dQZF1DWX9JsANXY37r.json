@@ -1,12 +1,12 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123632,
+  "num_followers": 123638,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAECatupR03Vj5sr5gI54VLgxOgGB",
+  "snapshot_id": "AAAAAIwTvWejuFvfmn4alan2FiVrcd9C",
   "tracks": [
     {
       "added_at": "2026-08-07 14:35:08",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "duration_ms": 150201,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
+    },
+    {
+      "added_at": "2026-08-07 14:35:08",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -775,18 +791,18 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
-        "name": "U, Me & My Ego",
-        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
       "artists": [
         {
-          "name": "Chxrry",
-          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 150201,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX"
+      "duration_ms": 189173,
+      "name": "Feel Your Weight",
+      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
     },
     {
       "added_at": "2026-08-07 14:35:08",
@@ -823,22 +839,6 @@
       "duration_ms": 159400,
       "name": "i want war (BUT I NEED PEACE)",
       "url": "https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe"
-    },
-    {
-      "added_at": "2026-08-07 14:35:08",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "Feel Your Weight",
-      "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
     },
     {
       "added_at": "2026-08-07 14:35:08",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
+    },
+    {
+      "added_at": "2026-08-07 14:35:08",
+      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 162379,
       "name": "BITCH",
       "url": "https://open.spotify.com/track/53OEjS6e0dH9PGgrkr0sH4"
-    },
-    {
-      "added_at": "2026-08-07 14:35:08",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 201450,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
     },
     {
       "added_at": "2026-08-07 14:35:08",

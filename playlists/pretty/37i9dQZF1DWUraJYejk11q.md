@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,741 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,743 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 9 | [Mother Cell](https://open.spotify.com/track/2efRcCOXZyTnKjO4HcRCaG) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Sabotage](https://open.spotify.com/album/6hpFDifaaNQppkdWXBQ9dz) | 5:38 |
 | 10 | [Butch's Guns](https://open.spotify.com/track/7BExxkLUBUDD6h2Je2FpTJ) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [sunn O\)\)\)](https://open.spotify.com/album/1grbT4stwprQnmPMxshbbI) | 14:12 |
 | 11 | [CHROMA 004 ROLA](https://open.spotify.com/track/3YTLL48dJGvXU7NrtiXDFQ) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 004](https://open.spotify.com/album/7cUJWzpsqr0derOqCfJxol) | 4:49 |
-| 12 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
+| 12 | [VOLVER \(instrumental\)](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 |
 | 13 | [Self Medicated](https://open.spotify.com/track/4KeHz1kFdahs91WQaNpu3t) | [Adularia](https://open.spotify.com/artist/0g3AwhSI205IhNKuF2JNqd) | [Self Medicated](https://open.spotify.com/album/2M3HBA9jd38ObUgbTnXekS) | 4:20 |
-| 14 | [VOLVER \(instrumental\)](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 |
+| 14 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
 | 15 | [H0N3Y](https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [3FOR82](https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE) | 3:05 |
 | 16 | [Even Colder Spring \- Part 1](https://open.spotify.com/track/4AEmW7EX7ixgxZvoWs6VqD) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [EVEN COLDER SPRING](https://open.spotify.com/album/4zqz0CmtPzxWriY0bTdvxg) | 4:30 |
 | 17 | [Weird Moments](https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [La barna leve](https://open.spotify.com/track/2DQQe15WZLelM2exoYLC1n) | [ROSA FAENSKAP](https://open.spotify.com/artist/0VwAXdA6SAH89PAF4ZSFTX) | [Ingenting Forblir](https://open.spotify.com/album/1898t6IRJVcR5mxx3mfDuJ) | 4:37 |
 | 50 | [sueño Humedo](https://open.spotify.com/track/0UfMjiWGkD4Dbrk8mOUi2v) | [PATRAÑA](https://open.spotify.com/artist/5AmqzBw2eQ710pZBiDuFdS) | [sueño Humedo](https://open.spotify.com/album/7IZcgTz8D97bcpm18XyNmo) | 3:46 |
 
-Snapshot ID: `AAAAACNWyZtHveN1KvzkXmTQ6wVN0x7z`
+Snapshot ID: `AAAAAPjWQZBFzfJOZ0o0ANdJ+/EleD3e`

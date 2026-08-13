@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,156 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,161 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 13 | [I'll Be Home for Christmas](https://open.spotify.com/track/4jbe59AoOM81GJQ8tT8IZy) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [I'll Be Home for Christmas](https://open.spotify.com/album/5bniqKvnu2j876NboUuw0Y) | 2:01 |
 | 14 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ) | 3:26 |
 | 15 | [Simple Gifts](https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Sings Simple Gifts](https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg) | 1:12 |
-| 16 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 |
-| 17 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 |
+| 16 | [Old Fashioned Holiday](https://open.spotify.com/track/1C2K4D4zaLK4luIaIc6r6t) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Old Fashioned Holiday](https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9) | 3:06 |
+| 17 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 |
 | 18 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
 | 19 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
 | 20 | [Merry Christmas Mary Jane](https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Merry Christmas Mary Jane](https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j) | 4:12 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 22 | [Happy New Year](https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP) | [Todd Snider](https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5) | [The Devil You Know](https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk) | 3:52 |
 | 23 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
 | 24 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
-| 25 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
-| 26 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
+| 25 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
+| 26 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
 | 27 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
 | 28 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 |
 | 29 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 49 | [Is It Far To Bethlehem?](https://open.spotify.com/track/4ZnEbEj9GONWSV1WSRcvcD) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Is It Far To Bethlehem?](https://open.spotify.com/album/4X7AnDouIRYOU1vclZ7Nn5) | 3:22 |
 | 50 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
 
-Snapshot ID: `AAAAACE1YNBU0dSntWGWhqMbfKekubZu`
+Snapshot ID: `AAAAAFRa7zGJtsHDxi8sPsix0r3xxwJD`

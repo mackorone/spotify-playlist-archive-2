@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ammar Haikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,655 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,650 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Mungkir](https://open.spotify.com/track/4arSKKe4pnyNthzT0tjS75) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Mungkir](https://open.spotify.com/album/3zM3nb8NzCDjmmPDJslVkr) | 3:51 |
 | 50 | [Jangan Lupa Jaga Dirimu](https://open.spotify.com/track/2OEs5AyI7Dsqbnh7OLbiZh) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta), [mimpi.](https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE) | [Jangan Lupa Jaga Dirimu](https://open.spotify.com/album/5MYbFyu78A7mK9XtloqDij) | 3:36 |
 
-Snapshot ID: `AAAAAAioY0T0txbLPE4jtgcIFsdBud8P`
+Snapshot ID: `AAAAAJbyzcc6twSVZDhrRTr4JlW7h//o`

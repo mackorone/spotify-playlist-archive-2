@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,951 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,012 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Ama hem hem](https://open.spotify.com/track/1ydfIuriiat9o4ItjhaFs5) | [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85) | [Ama hem hem](https://open.spotify.com/album/3N5Chlwt8bjI7GI26pHpb3) | 7:30 |
 | 50 | [Aura Salad](https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Breaking](https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK) | 2:52 |
 
-Snapshot ID: `AAAAAD6sFPma4OPO7XFPz+zrotE6ww3S`
+Snapshot ID: `AAAAAMEN40gzf7Uyy6P9TmfQW0WMS6iZ`

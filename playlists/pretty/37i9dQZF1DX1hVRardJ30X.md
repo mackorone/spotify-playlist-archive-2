@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by RØZ, KAROL G, Ozuna & Omar Courtz, De La Rose & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,648 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,656 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 40 | [Bendecida](https://open.spotify.com/track/3Ls9XiHTGnfvqqprSYYfoU) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Bendecida](https://open.spotify.com/album/5OK16vusVUgFjpaN5cKQsH) | 2:22 |
 | 41 | [Un Veneno](https://open.spotify.com/track/095nh3pKnpBCoA5GV1gASs) | [TRÍADA](https://open.spotify.com/artist/25sGauAghntKxR2zrlsXAl) | [Un Veneno](https://open.spotify.com/album/68ZDOGEyjegAwzxuPUl4Lz) | 3:52 |
 
-Snapshot ID: `AAAAAO732wq2VFnVUr6bWspfxtvL6pJ0`
+Snapshot ID: `AAAAANHPR/4IHk25LdhKsUxUuMWd+kHE`

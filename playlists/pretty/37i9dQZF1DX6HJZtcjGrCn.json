@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Jasmim",
-  "num_followers": 40127,
+  "num_followers": 40165,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHjIf2HQ9P1bIoXYPJ1L89TaoknM",
+  "snapshot_id": "AAAAAF30RCyDHaafhC3IbzPvij2Y8WNM",
   "tracks": [
     {
       "added_at": "2026-08-06 23:00:26",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-08-06 23:00:26",
       "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
+    },
+    {
+      "added_at": "2026-08-06 23:00:26",
+      "album": {
         "name": "Reputation (feat. Dominic Fike)",
         "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
-    },
-    {
-      "added_at": "2026-08-06 23:00:26",
-      "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "added_at": "2026-08-06 23:00:26",

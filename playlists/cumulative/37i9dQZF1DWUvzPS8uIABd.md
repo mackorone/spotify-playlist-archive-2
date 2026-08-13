@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-1,025 songs - 2 day 3 hr 8 min
+1,026 songs - 2 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Kaikki tahtoo taivaaseen](https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Kaikki tahtoo taivaaseen](https://open.spotify.com/album/5CDCkbQ0i3ZLMwEx00ahfk) | 2:34 | 2026-03-26 |  |
 | [Kaikki viel edessä](https://open.spotify.com/track/2E1Mh0I5MrZy3AHidKr63j) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kaikki viel edessä](https://open.spotify.com/album/0jvTvhcz36GobILqRNO1zD) | 3:04 | 2026-03-26 |  |
 | [Kaistaa](https://open.spotify.com/track/4vO0IpbBr424kXNHZvBfQ6) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 3:10 | 2025-03-20 | 2025-10-24 |
+| [Kaksi lensi yli käenpesän](https://open.spotify.com/track/3ZHJj8COm4waKlogKExd3H) | [Marcus Maison](https://open.spotify.com/artist/7I4Qxt1m4cNYYqlryDrfw7), [Ella Nova](https://open.spotify.com/artist/4kVUMKEKjYpiSlzQLSOltZ) | [Kaksi lensi yli käenpesän](https://open.spotify.com/album/63NrrYAALeBh1JATf2CxzW) | 4:20 | 2026-06-25 |  |
 | [Kakskytä milliä \(Vain elämää kausi 15\)](https://open.spotify.com/track/6RTn3JCwDjxaRJCMNpWEdE) | [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC) | [Kakskytä milliä \(Vain elämää kausi 15\)](https://open.spotify.com/album/3p8czdUrT2iCGLxEw8AE2J) | 2:46 | 2024-09-13 | 2024-09-20 |
 | [KALJAAAA](https://open.spotify.com/track/22CfZsu8V6Z2BYQmjmriXI) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto) | [KALJAAAA](https://open.spotify.com/album/4HgASZk6h10Jg11jPDwRRJ) | 3:08 | 2024-09-19 | 2024-10-04 |
 | [Kalliit kyyneleet](https://open.spotify.com/track/0DJD5QNvxI8mCsn6kz3kHO) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Kalliit kyyneleet](https://open.spotify.com/album/0KUHgqvicn7MR6Mny73U8x) | 3:15 | 2025-08-28 | 2025-10-10 |
@@ -740,7 +741,7 @@
 | [Satasen laina 2025](https://open.spotify.com/track/0xk8CcVPsvMhzNps6ZI9LP) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp), [Nylon Beat](https://open.spotify.com/artist/3NI6ZOWTladyQrPqx5I02g) | [Satasen laina 2025](https://open.spotify.com/album/17Y44gf7X0JT6TJwE3FcP0) | 2:16 | 2025-08-21 | 2025-10-10 |
 | [Sateenkaaret on pyöreitä](https://open.spotify.com/track/3muAyFD0nIA5Y3APoSzfCB) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Sateenkaaret on pyöreitä](https://open.spotify.com/album/2DyBHjFwYR2vkUsLltXZpA) | 2:57 | 2025-02-27 | 2025-05-02 |
 | [Sattuu jos sattuu](https://open.spotify.com/track/7HmxW2TPFTLQGG0dUyVOGQ) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Sattuu jos sattuu](https://open.spotify.com/album/1yOxVBtoABmOIuGDQ0uUlr) | 2:25 | 2024-10-10 | 2025-01-03 |
-| [Satumaa](https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV), [Silja Kielo](https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i) | [Satumaa](https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l) | 2:56 | 2026-05-28 |  |
+| [Satumaa](https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV), [Silja Kielo](https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i) | [Satumaa](https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l) | 2:56 | 2026-05-28 | 2026-08-13 |
 | [SATUMAA](https://open.spotify.com/track/7mE8yO4bUH2IEs4ouymhJo) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [SATUMAA](https://open.spotify.com/album/1gT3QlpGc5WGm9DyshekAS) | 2:52 | 2025-06-05 | 2025-06-27 |
 | [Savurenkaat \(feat\. ibe\)](https://open.spotify.com/track/6jjGaiUbig7I9mkzcXrgl7) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Comeback](https://open.spotify.com/album/7fXIlpj2gXIZQyAQwEO6TT) | 3:26 | 2026-04-02 | 2026-04-10 |
 | [Scatman](https://open.spotify.com/track/5hAIsbKA5haCaSo1VkjuQT) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1) | [Scatman](https://open.spotify.com/album/2RWs5Fn0ZTGRaZdsdhhIIp) | 2:20 | 2024-08-01 | 2024-08-16 |

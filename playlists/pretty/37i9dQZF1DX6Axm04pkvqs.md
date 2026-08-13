@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,306 likes - 80 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,379 likes - 80 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 14 | [The Call \(Chants\)](https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:48 |
 | 15 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
 | 16 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
-| 17 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
-| 18 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
+| 17 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
+| 18 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
 | 19 | [Sound of Revival](https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:24 |
 | 20 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 |
 | 21 | [Draw](https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 6:31 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 42 | [House of Prayer \(feat\. Jayna Cullens\)](https://open.spotify.com/track/386uNqsMRVtiKDulq2P16T) | [Eddie James](https://open.spotify.com/artist/69LsPQEcmyMBXbdMKWT6Yq), [Jayna Cullens](https://open.spotify.com/artist/49UDs5Mtq1PYQeL5n9bqL0) | [Shift \(Awakening\)](https://open.spotify.com/album/4eBjA7nICogcfibf6xuGAz) | 7:59 |
 | 43 | [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 |
 | 44 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
-| 45 | [Worship Chant](https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Worship Chant](https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA) | 1:44 |
-| 46 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
+| 45 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
+| 46 | [Worship Chant](https://open.spotify.com/track/3gdA2i1dq7rGy0j6dwoEhE) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Worship Chant](https://open.spotify.com/album/5k5WUShHTOc9d49d73cNYA) | 1:44 |
 | 47 | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd) | 7:10 |
 | 48 | [Revival Revival](https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:38 |
 | 49 | [Joy Chant](https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Joy Chant](https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN) | 8:51 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 57 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 |
 | 58 | [Ruach Hakodesh](https://open.spotify.com/track/62QpDTmSK8QctvbxEdBPrG) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Ruach Hakodesh](https://open.spotify.com/album/60kUZ9PqK6MlCKpN4tL44d) | 11:31 |
 | 59 | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/album/6iLpI8vsGEnpCyEzTYRAuV) | 11:08 |
-| 60 | [Holyghost](https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Holyghost](https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ) | 5:42 |
-| 61 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 |
+| 60 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 |
+| 61 | [Holyghost](https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Holyghost](https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ) | 5:42 |
 | 62 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
 | 63 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |
 | 64 | [Eze Mmuo](https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Eze Mmuo](https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn) | 5:33 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 74 | [Igbo Worship Medley \- Live](https://open.spotify.com/track/6nBROUuH2rBpWonW2VTQ8G) | [Israel Dammy](https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a) | [Igbo Worship Medley \(Live\)](https://open.spotify.com/album/1PS09Vap6LJdZ6eAFPxGrs) | 7:54 |
 | 75 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
 | 76 | [Son Of David \(Church Arise\) \- Live](https://open.spotify.com/track/02AYZ4WxfGl42vf7E05LbG) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Son Of David \(Church Arise\) \[Live\]](https://open.spotify.com/album/3PZb44kLHxQch71daNPWLL) | 15:24 |
-| 77 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 |
+| 77 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 | 78 | [Benediction](https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:29 |
-| 79 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
-| 80 | [Exchange \(The Journey\)](https://open.spotify.com/track/5FaH0x6zWnRkcZiSYUrWq6) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Exchange \(The Journey\)](https://open.spotify.com/album/4KdmlH7Nwi4axtcgeKeV1z) | 15:57 |
+| 79 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 |
+| 80 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
 
-Snapshot ID: `AAAAAG8Go4Owz2z+AgMZtv7IqwPicHzb`
+Snapshot ID: `AAAAAFCk/GOar6G7Lr3V/fbRkFXJD8uU`

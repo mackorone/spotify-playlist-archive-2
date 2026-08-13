@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAB8+04fY9eFIK4/i1uaAvl",
+  "snapshot_id": "anpmAAAAAADg7F7eRob6IiVBL+bCcpgZ",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Tokyo 1",
-      "url": "https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2"
+      "duration_ms": 292000,
+      "name": "Tokyo 2",
+      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
         }
       ],
-      "duration_ms": 292000,
-      "name": "Tokyo 2",
-      "url": "https://open.spotify.com/track/5HwlciZrrOMhyAP0Fzdxlr"
+      "duration_ms": 282000,
+      "name": "Tokyo 1",
+      "url": "https://open.spotify.com/track/4fwNo9lp1v02Bhzu6CejN2"
     },
     {
       "added_at": null,

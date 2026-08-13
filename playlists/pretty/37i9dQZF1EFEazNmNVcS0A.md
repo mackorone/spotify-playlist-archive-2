@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,674 likes - 168 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,675 likes - 168 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 31 | [Desire](https://open.spotify.com/track/4ZH03VC3uJk7uKk7CwsBqH) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:23 |
 | 32 | [Ese Vato No Te Queda](https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ese Vato No Te Queda](https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9) | 3:18 |
 | 33 | [Canyon Moon](https://open.spotify.com/track/5IhzJOXNE7ki0IIJbZbnGq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:09 |
-| 34 | [Carolina](https://open.spotify.com/track/3Dwq1oiOFys6Sxr5SslmXw) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:09 |
-| 35 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 |
+| 34 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 |
+| 35 | [Carolina](https://open.spotify.com/track/3Dwq1oiOFys6Sxr5SslmXw) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 3:09 |
 | 36 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
 | 37 | [Ship To Wreck](https://open.spotify.com/track/3dEFa9KjOLEZl980ctEEv1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 3:54 |
 | 38 | [Roses](https://open.spotify.com/track/4uzUuDjoufcBXYZ27CsLIF) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:52 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 167 | [Absent](https://open.spotify.com/track/7KqyvSXcastVzKIcqMCwF3) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Elsewhere](https://open.spotify.com/album/4hjsM5a2HmoIFILWbfSmgE) | 3:38 |
 | 168 | [Back from Beyond](https://open.spotify.com/track/4S9hqUcn1R1WFtIAiPy6ID) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:17 |
 
-Snapshot ID: `AcZU/AAAAACGsuux0WzeyQKn86rptu+r`
+Snapshot ID: `AcZaYAAAAADzsQdMsAuAGyn+ajsa8GVt`

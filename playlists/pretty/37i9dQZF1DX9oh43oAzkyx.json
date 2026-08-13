@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2871628,
+  "num_followers": 2871744,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJoYDoxFTGPXVYu7lvWUMMG1jUwo",
+  "snapshot_id": "AAAAAJR6Ms+7hEyFxSFhHNGZITJleZrA",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:20",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-07-31 04:02:20",
       "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2026-07-31 04:02:20",
-      "album": {
         "name": "FWU",
         "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 171000,
       "name": "FWU",
       "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
+    },
+    {
+      "added_at": "2026-07-31 04:02:20",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
       "added_at": "2026-07-31 04:02:20",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-07-31 04:02:20",
       "album": {
+        "name": "No Effort 2",
+        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 144020,
+      "name": "No Effort 2",
+      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
+    },
+    {
+      "added_at": "2026-07-31 04:02:20",
+      "album": {
         "name": "Magna Carta... Holy Grail",
         "url": "https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 243413,
       "name": "F*ckwithmeyouknowigotit",
       "url": "https://open.spotify.com/track/3PBC860LAeS4utDAqlqIe2"
-    },
-    {
-      "added_at": "2026-07-31 04:02:20",
-      "album": {
-        "name": "No Effort 2",
-        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        }
-      ],
-      "duration_ms": 144020,
-      "name": "No Effort 2",
-      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
     },
     {
       "added_at": "2026-07-31 04:02:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-07-31 04:02:20",
       "album": {
-        "name": "MR HIM",
-        "url": "https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 149276,
-      "name": "MR HIM",
-      "url": "https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx"
-    },
-    {
-      "added_at": "2026-07-31 04:02:20",
-      "album": {
         "name": "Lil Durk Presents: Loyal Bros 2",
         "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
       },
@@ -1335,22 +1319,6 @@
       "duration_ms": 153600,
       "name": "Mad Max",
       "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
-      "added_at": "2026-07-31 04:02:20",
-      "album": {
-        "name": "GTA 6",
-        "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 168181,
-      "name": "GTA 6",
-      "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
     },
     {
       "added_at": "2026-07-31 04:02:20",
@@ -1375,6 +1343,38 @@
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
+    },
+    {
+      "added_at": "2026-07-31 04:02:20",
+      "album": {
+        "name": "GTA 6",
+        "url": "https://open.spotify.com/album/1YQtaGamRAouYAW7rSu2us"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 168181,
+      "name": "GTA 6",
+      "url": "https://open.spotify.com/track/1HFzBE8VY5zyNowBre0zRo"
+    },
+    {
+      "added_at": "2026-07-31 04:02:20",
+      "album": {
+        "name": "MR HIM",
+        "url": "https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 149276,
+      "name": "MR HIM",
+      "url": "https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx"
     },
     {
       "added_at": "2026-07-31 04:02:20",

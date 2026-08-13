@@ -1,12 +1,12 @@
 {
   "description": "canciones para chillear con Mar Marzo",
-  "num_followers": 29026,
+  "num_followers": 29027,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWW69xPYzwKiIIth0ZwQmLewRe8",
+  "snapshot_id": "AAAAAHeqf6OqwHrVUIUxg+IFh6ssEi+3",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:08",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "Salvando las Distancias",
+        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Te So\u00f1aba",
+      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Toda la vida",
         "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 274908,
       "name": "Toda la vida",
       "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "Salvando las Distancias",
-        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Te So\u00f1aba",
-      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Un Mont\u00f3n de Estrellas",
-        "url": "https://open.spotify.com/album/6GktQHOWaYrgv2ksUaeUx7"
+        "name": "Cristal",
+        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
       },
       "artists": [
         {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Un Mont\u00f3n de Estrellas",
-      "url": "https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj"
+      "duration_ms": 202913,
+      "name": "Cristal",
+      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Cristal",
-        "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
+        "name": "Un Mont\u00f3n de Estrellas",
+        "url": "https://open.spotify.com/album/6GktQHOWaYrgv2ksUaeUx7"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
         }
       ],
-      "duration_ms": 202913,
-      "name": "Cristal",
-      "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
+      "duration_ms": 212333,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/654WSeeGc6ktF9iNcepapj"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
+      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 238508,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-        "url": "https://open.spotify.com/album/0KO6SBo6WRpil0wIlW4rA1"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "\u00bfQu\u00e9 Vas a Hacer Hoy?",
-      "url": "https://open.spotify.com/track/73plJhWqEmSyN0CmmLy7Wb"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "MUCHO CON DEMASIAO'",
-        "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Jossman",
-          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
-        }
-      ],
-      "duration_ms": 139049,
-      "name": "MUCHO CON DEMASIAO'",
-      "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Vamos Viendo",
         "url": "https://open.spotify.com/album/7pRdY4sR1NNte99L7qWp8S"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 253243,
       "name": "Vamos Viendo",
       "url": "https://open.spotify.com/track/65Iaqqf1cr5GlUxtUnfWAt"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "MUCHO CON DEMASIAO'",
+        "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "duration_ms": 139049,
+      "name": "MUCHO CON DEMASIAO'",
+      "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
     },
     {
       "added_at": "2026-07-31 03:00:08",

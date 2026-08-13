@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAXtZsxrvHITS5181cTOPge",
+  "snapshot_id": "anpmAAAAAACQ11QfhzoOYc3BB6zO+gmQ",
   "tracks": [
     {
       "added_at": null,
@@ -185,8 +185,8 @@
         }
       ],
       "duration_ms": 60000,
-      "name": "Walking Home, Chicago",
-      "url": "https://open.spotify.com/track/0MU8drky1sdwT0JvoFzcB2"
+      "name": "Amtrak, Hudson Valley",
+      "url": "https://open.spotify.com/track/0exqCWPLUuUrPM8zVpcJNM"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 168120,
-      "name": "snow | touch",
-      "url": "https://open.spotify.com/track/45IvjU3cSolzZqlQP63566"
+      "duration_ms": 250133,
+      "name": "shadow | mess",
+      "url": "https://open.spotify.com/track/1sBLGyY3OyIrvq7RJRzzCb"
     },
     {
       "added_at": null,
@@ -255,18 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Various Small Whistles and a Song",
-        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+        "name": "73|74 (Excerpt)",
+        "url": "https://open.spotify.com/album/6jyJo9jpH9KNZOu9hOXO3l"
       },
       "artists": [
+        {
+          "name": "Whitney Johnson",
+          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+        },
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 60000,
-      "name": "Amtrak, Hudson Valley",
-      "url": "https://open.spotify.com/track/0exqCWPLUuUrPM8zVpcJNM"
+      "duration_ms": 242000,
+      "name": "73|74",
+      "url": "https://open.spotify.com/track/4wQVGaMlT58dpkymuWcB16"
     },
     {
       "added_at": null,
@@ -308,9 +312,25 @@
           "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
         }
       ],
-      "duration_ms": 250133,
-      "name": "shadow | mess",
-      "url": "https://open.spotify.com/track/1sBLGyY3OyIrvq7RJRzzCb"
+      "duration_ms": 168120,
+      "name": "snow | touch",
+      "url": "https://open.spotify.com/track/45IvjU3cSolzZqlQP63566"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 289870,
+      "name": "Ignition, Sneakers",
+      "url": "https://open.spotify.com/track/5fq1yRS0J3pZp2mNfY0Pq0"
     },
     {
       "added_at": null,
@@ -335,38 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "73|74 (Excerpt)",
-        "url": "https://open.spotify.com/album/6jyJo9jpH9KNZOu9hOXO3l"
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
       },
       "artists": [
         {
-          "name": "Whitney Johnson",
-          "url": "https://open.spotify.com/artist/5o4xowY2yzeLhL1WJAvWIt"
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         },
         {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 242000,
-      "name": "73|74",
-      "url": "https://open.spotify.com/track/4wQVGaMlT58dpkymuWcB16"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal Sounds",
-        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 289870,
-      "name": "Ignition, Sneakers",
-      "url": "https://open.spotify.com/track/5fq1yRS0J3pZp2mNfY0Pq0"
+      "duration_ms": 203036,
+      "name": "A duck with green feet",
+      "url": "https://open.spotify.com/track/2L6IrYqvbVp1VMdF7EREgX"
     },
     {
       "added_at": null,
@@ -395,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Various Small Whistles and a Song",
-        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
       },
       "artists": [
         {
@@ -404,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 60000,
-      "name": "Antwerp Central Train Station, Antwerp",
-      "url": "https://open.spotify.com/track/1vNJjGJtu6JAVuzFI9UCgc"
+      "duration_ms": 393819,
+      "name": "Airport Fridge, Self Checkout",
+      "url": "https://open.spotify.com/track/6YGq2bo4e1rOEnzoYbzbG9"
     },
     {
       "added_at": null,
@@ -427,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal Sounds",
-        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
+        "name": "In Transit",
+        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
       },
       "artists": [
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 393819,
-      "name": "Airport Fridge, Self Checkout",
-      "url": "https://open.spotify.com/track/6YGq2bo4e1rOEnzoYbzbG9"
+      "duration_ms": 303011,
+      "name": "In the taxi",
+      "url": "https://open.spotify.com/track/2dysrnibnUEr7RFakBeFm9"
     },
     {
       "added_at": null,
@@ -467,6 +475,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Normal Sounds",
+        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Patrick Shiroishi",
+          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
+        }
+      ],
+      "duration_ms": 265919,
+      "name": "Car Horns",
+      "url": "https://open.spotify.com/track/0XJt8Gk8Z0pEDLDDi8DngI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Walking Home, Chicago",
+      "url": "https://open.spotify.com/track/0MU8drky1sdwT0JvoFzcB2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Transit",
         "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
       },
@@ -480,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 203036,
-      "name": "A duck with green feet",
-      "url": "https://open.spotify.com/track/2L6IrYqvbVp1VMdF7EREgX"
+      "duration_ms": 185018,
+      "name": "Woven things rest",
+      "url": "https://open.spotify.com/track/7cmiWc7OaUwRJithn8BS7G"
     },
     {
       "added_at": null,
@@ -516,13 +560,13 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         },
         {
-          "name": "Patrick Shiroishi",
-          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
         }
       ],
-      "duration_ms": 265919,
-      "name": "Car Horns",
-      "url": "https://open.spotify.com/track/0XJt8Gk8Z0pEDLDDi8DngI"
+      "duration_ms": 287030,
+      "name": "Car Alarm, Turn Signal",
+      "url": "https://open.spotify.com/track/771vsM7g5JRJp5FzOAy9SK"
     },
     {
       "added_at": null,
@@ -560,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
         }
       ],
-      "duration_ms": 303011,
-      "name": "In the taxi",
-      "url": "https://open.spotify.com/track/2dysrnibnUEr7RFakBeFm9"
+      "duration_ms": 238696,
+      "name": "What they said about",
+      "url": "https://open.spotify.com/track/1NyDSSiqCy4FA91KfMmEKI"
     },
     {
       "added_at": null,
@@ -587,78 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Normal Sounds",
-        "url": "https://open.spotify.com/album/5ppFu62P59Zd5ELs3YNzLP"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
-        }
-      ],
-      "duration_ms": 287030,
-      "name": "Car Alarm, Turn Signal",
-      "url": "https://open.spotify.com/track/771vsM7g5JRJp5FzOAy9SK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Various Small Whistles and a Song",
-        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Voting Line, Downtown Chicago",
-      "url": "https://open.spotify.com/track/1TSnz2seGejhS9i7Majbq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Transit",
-        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Zander Raymond",
-          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
-        }
-      ],
-      "duration_ms": 185018,
-      "name": "Woven things rest",
-      "url": "https://open.spotify.com/track/7cmiWc7OaUwRJithn8BS7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Small to be a Plain",
-        "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 223842,
-      "name": "First Picture of the Weather Pattern",
-      "url": "https://open.spotify.com/track/0TPFUD1Ruw34xxNyU5ilP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ceiling Reposes",
         "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
       },
@@ -675,78 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Various Small Whistles and a Song",
-        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Penny Whistle Seller, Guangzhou",
-      "url": "https://open.spotify.com/track/1eqmkXVJNeb14gp3pcW9GG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Transit",
-        "url": "https://open.spotify.com/album/3qERs0aNa6vKhdXBmzofvj"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Zander Raymond",
-          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
-        }
-      ],
-      "duration_ms": 238696,
-      "name": "What they said about",
-      "url": "https://open.spotify.com/track/1NyDSSiqCy4FA91KfMmEKI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Penny Whistle Seller, Guangzhou",
-        "url": "https://open.spotify.com/album/3D8fHmmuT8ZQxiEzJacM8x"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Home, Los Angeles",
-      "url": "https://open.spotify.com/track/59ClztjwU9ic9p24oyTGJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ceiling Reposes",
-        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 275068,
-      "name": "became daily today",
-      "url": "https://open.spotify.com/track/6lMpeGCEAbyaODknLJc9uf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Small to be a Plain",
         "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
       },
@@ -756,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 366057,
-      "name": "Too Small to be a Plain",
-      "url": "https://open.spotify.com/track/7oiybnPVkbQGJLiUunjmOY"
+      "duration_ms": 223842,
+      "name": "First Picture of the Weather Pattern",
+      "url": "https://open.spotify.com/track/0TPFUD1Ruw34xxNyU5ilP5"
     },
     {
       "added_at": null,
@@ -783,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
-        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
       },
       "artists": [
         {
@@ -792,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 260387,
-      "name": "As Sweet As",
-      "url": "https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi"
+      "duration_ms": 60000,
+      "name": "Voting Line, Downtown Chicago",
+      "url": "https://open.spotify.com/track/1TSnz2seGejhS9i7Majbq4"
     },
     {
       "added_at": null,
@@ -811,6 +711,142 @@
       "duration_ms": 472226,
       "name": "when glass is there, and water,",
       "url": "https://open.spotify.com/track/1F0Rj56hbmFWbugq15Dem1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Deep Drift You Will Find the Most Serene of Lullabies",
+        "url": "https://open.spotify.com/album/7ncHkb6qfuk0ZtY9sPSIt9"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 260387,
+      "name": "As Sweet As",
+      "url": "https://open.spotify.com/track/6NZF11LlZ3BlTakjNkrpFi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Small to be a Plain",
+        "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 366057,
+      "name": "Too Small to be a Plain",
+      "url": "https://open.spotify.com/track/7oiybnPVkbQGJLiUunjmOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Penny Whistle Seller, Guangzhou",
+      "url": "https://open.spotify.com/track/1eqmkXVJNeb14gp3pcW9GG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ceiling Reposes",
+        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 275068,
+      "name": "became daily today",
+      "url": "https://open.spotify.com/track/6lMpeGCEAbyaODknLJc9uf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Whistle Seller, Guangzhou",
+        "url": "https://open.spotify.com/album/3D8fHmmuT8ZQxiEzJacM8x"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Home, Los Angeles",
+      "url": "https://open.spotify.com/track/59ClztjwU9ic9p24oyTGJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Small to be a Plain",
+        "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 211606,
+      "name": "Second Picture of the Same Weather Pattern",
+      "url": "https://open.spotify.com/track/6F9q6f0K3L0fFfemzWenXC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Various Small Whistles and a Song",
+        "url": "https://open.spotify.com/album/32giMSlU2jssM3GKwInlQk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Colin Held",
+          "url": "https://open.spotify.com/artist/5ysT1fo4ccE4WSSvDP4tNY"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Outside, Arrington",
+      "url": "https://open.spotify.com/track/0xRvIQV2KDHvMGwcoJfNNf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ceiling Reposes",
+        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 325829,
+      "name": "or things maybe dropping",
+      "url": "https://open.spotify.com/track/4mluhAL9TDVZ8oYbn9z84o"
     },
     {
       "added_at": null,
@@ -839,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No One Notices the Fly",
-        "url": "https://open.spotify.com/album/794bh1FbfMmqSj0kUXKg0i"
+        "name": "Too Small to be a Plain",
+        "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
       },
       "artists": [
-        {
-          "name": "Zander Raymond",
-          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
-        },
         {
           "name": "Lia Kohl",
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 186000,
-      "name": "It's Impossible Not to Wonder Why",
-      "url": "https://open.spotify.com/track/7HB3LBNipi4w9NFP3q4HKs"
+      "duration_ms": 373560,
+      "name": "Join Me, Everybody",
+      "url": "https://open.spotify.com/track/0XR9ygnw0WFLPVzwSiejsx"
     },
     {
       "added_at": null,
@@ -888,38 +920,6 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 325829,
-      "name": "or things maybe dropping",
-      "url": "https://open.spotify.com/track/4mluhAL9TDVZ8oYbn9z84o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Small to be a Plain",
-        "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
-      "duration_ms": 211606,
-      "name": "Second Picture of the Same Weather Pattern",
-      "url": "https://open.spotify.com/track/6F9q6f0K3L0fFfemzWenXC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ceiling Reposes",
-        "url": "https://open.spotify.com/album/6s867Dmt7DGoY6N5YRQSPz"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        }
-      ],
       "duration_ms": 268509,
       "name": "in a specific room",
       "url": "https://open.spotify.com/track/0FkRqHKhrfvpj7miTVQVRs"
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No One Notices the Fly",
+        "url": "https://open.spotify.com/album/794bh1FbfMmqSj0kUXKg0i"
+      },
+      "artists": [
+        {
+          "name": "Zander Raymond",
+          "url": "https://open.spotify.com/artist/5sR4c4y0XegnM0FjJi0Tsw"
+        },
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "It's Impossible Not to Wonder Why",
+      "url": "https://open.spotify.com/track/7HB3LBNipi4w9NFP3q4HKs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Too Small to be a Plain",
         "url": "https://open.spotify.com/album/2OVqLLrLSia0G7qRZBFC14"
       },
@@ -936,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
         }
       ],
-      "duration_ms": 373560,
-      "name": "Join Me, Everybody",
-      "url": "https://open.spotify.com/track/0XR9ygnw0WFLPVzwSiejsx"
+      "duration_ms": 322544,
+      "name": "Delivered Back to You, Over and Over Again",
+      "url": "https://open.spotify.com/track/3ZPfh0eZuVB7VENVfbsUC0"
     }
   ],
   "unique_name": "This Is Lia Kohl",

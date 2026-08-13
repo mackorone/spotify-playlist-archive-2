@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Faheem uddin Hunzai
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,468 likes - 89 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,470 likes - 89 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 88 | [Safar](https://open.spotify.com/track/3EhE2uM79wnepaO3VuIlyZ) | [Areeb Ali Khan](https://open.spotify.com/artist/1cnxNN0MLSt6iZpf6EXg8C) | [Safar](https://open.spotify.com/album/59FxsZwe2PYwuMIbyXFUM2) | 3:38 |
 | 89 | [Raahen](https://open.spotify.com/track/7tQ3kIoitI8qlUqkBOtokE) | [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH) | [Raahen](https://open.spotify.com/album/7c9Os5ycjCheniZRXDjLtl) | 2:51 |
 
-Snapshot ID: `AAAAAO4pkz9rSe9dL3KybEr3IO319CLL`
+Snapshot ID: `AAAAACh4tBxz652KcE9cG8X07ywH9/GL`

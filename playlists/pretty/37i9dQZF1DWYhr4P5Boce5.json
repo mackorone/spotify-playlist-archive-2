@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209979,
+  "num_followers": 209986,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXKePFLjoJL9ma4CrNVD66/CTsA",
+  "snapshot_id": "AAAAAOAT6zRq+0waavZxHTVzSQlq0kCl",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Pray With",
         "url": "https://open.spotify.com/album/1pp4P84ZfhAvcjnu34khk7"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Down To Earth",
-      "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Just Too Good",
         "url": "https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Tuff Luv",
-        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
-      },
-      "artists": [
-        {
-          "name": "Chris Caro",
-          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
-        },
-        {
-          "name": "Cristine Toca",
-          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Tuff Luv",
-      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -995,22 +975,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 134124,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "My Tribe",
         "url": "https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD"
       },
@@ -1039,6 +1003,42 @@
       "duration_ms": 256012,
       "name": "Somewhere In Her Dreams",
       "url": "https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 134124,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Tuff Luv",
+        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
+      },
+      "artists": [
+        {
+          "name": "Chris Caro",
+          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+        },
+        {
+          "name": "Cristine Toca",
+          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Tuff Luv",
+      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 191476,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Dear Future Husband",
+        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Dear Future Husband",
+      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 137142,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/48P3GSwuXU4oMjXq2kYC8W"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Dear Future Husband",
-        "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Dear Future Husband",
-      "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1375,38 +1375,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
-      },
-      "artists": [
-        {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
-        }
-      ],
-      "duration_ms": 199846,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Forever the Love of My Life",
-        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Forever the Love of My Life",
-      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -1431,6 +1399,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Forever the Love of My Life",
+        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Forever the Love of My Life",
+      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Here for You",
         "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 152600,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 199846,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 287662,
       "name": "What Matters (feat. Mali Music)",
       "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "Without The Risk",
+        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 223518,
+      "name": "Without The Risk",
+      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "Without The Risk",
-        "url": "https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 223518,
-      "name": "Without The Risk",
-      "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "If It Wasn't You",
-        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
-      },
-      "artists": [
-        {
-          "name": "Airr",
-          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
-        }
-      ],
-      "duration_ms": 186473,
-      "name": "If It Wasn't You",
-      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Giving In",
         "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 207620,
       "name": "Giving In",
       "url": "https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "If It Wasn't You",
+        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
+      },
+      "artists": [
+        {
+          "name": "Airr",
+          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
+        }
+      ],
+      "duration_ms": 186473,
+      "name": "If It Wasn't You",
+      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
     },
     {
       "added_at": "2026-07-29 15:15:10",

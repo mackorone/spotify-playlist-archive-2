@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover: bodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,685 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,725 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [All My Life \- Live](https://open.spotify.com/track/0tcmwOE7PVCazVolFTDHcj) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [All My Life \(Supreme Edition\)](https://open.spotify.com/album/6fcIbyws49izIdyYFCDRPx) | 5:23 |
 | 75 | [No One](https://open.spotify.com/track/4hmT4Dmrj45kUTcPdeqvfm) | [Late Night Savior](https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid) | [No One](https://open.spotify.com/album/2PySo2wK6JkC2qWAJZN2d7) | 3:25 |
 
-Snapshot ID: `AAAAAPoJIo13LzFo1L+Z31EDjPQB+shP`
+Snapshot ID: `AAAAABrQapmGpvEUOnMSOlyRTgzXo1FR`

@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20288,
+  "num_followers": 20287,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAJI4B5j4Y3GO5mWNTFMZ3+",
+  "snapshot_id": "anpmAAAAAACIvwl5C/ezkQYaRP8riBL3",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Jungle - Rico Nasty Remix",
-      "url": "https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 141954,
       "name": "\u00a1aqu\u00ed yo mando!",
       "url": "https://open.spotify.com/track/05ufCucv6Z1oLMWeS8XapR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Jungle - Rico Nasty Remix",
+      "url": "https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fate of the Furious: The Album",
+        "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 202093,
+      "name": "Mamacita (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 172240,
       "name": "Big Titties (feat. Baauer and EarthGang)",
       "url": "https://open.spotify.com/track/77lHSh6eoMiKWRxczAPQ1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fate of the Furious: The Album",
-        "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "Mamacita (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HOT WHEELS (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/39vJGX31o5xywlSVV5HPj3"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 189900,
       "name": "HOT WHEELS (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/5CkNM9mYFcVXy8gUmNgN2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
     }
   ],
   "unique_name": "This Is Rico Nasty",

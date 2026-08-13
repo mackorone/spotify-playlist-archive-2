@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Dj Travella Filimbi",
+        "url": "https://open.spotify.com/album/2Jr5ecyEHpYcqfDrZpToUT"
+      },
+      "artists": [
+        {
+          "name": "DJ Travella",
+          "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141724,
+      "name": "Dj Travella Filimbi",
+      "url": "https://open.spotify.com/track/7fdKNlSFk54tp7fDSnLVqF"
+    },
+    {
+      "album": {
         "name": "Dua",
         "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
       },
@@ -2850,7 +2868,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 186193,
       "name": "Shobo",
       "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"

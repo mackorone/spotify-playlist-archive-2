@@ -2,7 +2,7 @@
 
 ### [SPOTIFY HOUSE 서울](https://open.spotify.com/playlist/37i9dQZF1DX89gE5WsUQqU)
 
-> 9월 10\-13, SPOTIFY HOUSE 서울 라인업의 셋리스트를 만나보세요!
+> 9월 10\-13, SPOTIFY HOUSE 서울 라인업 아티스트들의 베스트곡 리스트를 만나보세요!
 
 192 songs - 10 hr 45 min
 

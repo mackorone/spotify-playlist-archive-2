@@ -1,12 +1,12 @@
 {
   "description": "El sonido siniestro de los noventa. Foto: Smashing Pumpkins",
-  "num_followers": 168549,
+  "num_followers": 168593,
   "original_name": "Oscuros 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6JTu2VVvDqs5rzv7iLJFkHyVXx",
+  "snapshot_id": "AAAAAKE1yklUrlLP0gMTc12neqymM+F/",
   "tracks": [
     {
       "added_at": "2024-07-12 23:56:42",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 303973,
-      "name": "Roads",
-      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 303973,
+      "name": "Roads",
+      "url": "https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Dummy",
-        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 252266,
-      "name": "Sour Times",
-      "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Sehnsucht",
         "url": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 264266,
       "name": "Engel",
       "url": "https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Sour Times",
+      "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 233733,
-      "name": "Sunburn",
-      "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 236400,
       "name": "Unsung",
       "url": "https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Unintended",
-      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Portishead",
         "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 240640,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Siamese Dream (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Disarm - 2011 Remaster",
-      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "Lost Highway",
         "url": "https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 315440,
       "name": "The Perfect Drug",
       "url": "https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Siamese Dream (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Disarm - 2011 Remaster",
+      "url": "https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "The Burdens Of Being Upright",
         "url": "https://open.spotify.com/album/1tKKCue9Yi0oYnzP68fLvz"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 180733,
       "name": "Mother Mother",
       "url": "https://open.spotify.com/track/6WGaVdhY8uMWMgxiKpdLVy"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf"
     },
     {
       "added_at": "2024-07-12 23:56:42",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 23:56:42",
       "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
-      },
-      "artists": [
-        {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
-        }
-      ],
-      "duration_ms": 459333,
-      "name": "Good Morning, Captain",
-      "url": "https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S"
-    },
-    {
-      "added_at": "2024-07-12 23:56:42",
-      "album": {
         "name": "The Mind Is a Terrible Thing to Taste",
         "url": "https://open.spotify.com/album/2Z73HeYQNCf5T8dzzHaoz5"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 301426,
       "name": "Thieves",
       "url": "https://open.spotify.com/track/6KCthSzW230fnf6IygPaI0"
+    },
+    {
+      "added_at": "2024-07-12 23:56:42",
+      "album": {
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8"
+      },
+      "artists": [
+        {
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+        }
+      ],
+      "duration_ms": 459333,
+      "name": "Good Morning, Captain",
+      "url": "https://open.spotify.com/track/1BNZMXjqqULiV0DmFU1B8S"
     },
     {
       "added_at": "2024-07-12 23:56:42",

@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: 細野晴臣 Haruomi Hosono
 
-1,634 songs - 4 day 6 hr 26 min
+1,635 songs - 4 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1429,6 +1429,7 @@
 | [東京の西風](https://open.spotify.com/track/5FunXXbPKKpucRr1jefWqY) | [Taku Tomizawa](https://open.spotify.com/artist/6jyRbouIq2wuUg7moXjYsL) | [東京の西風](https://open.spotify.com/album/0sOiB7rcnaYWgjb8UHZuIv) | 5:01 | 2025-03-04 | 2025-03-12 |
 | [枕にキスした](https://open.spotify.com/track/4OUwRFuwmLa8qSq8iN0lJE) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [枕にキスした](https://open.spotify.com/album/1LeXSDvnpFwa4jOLSGiXl7) | 3:53 | 2025-06-11 | 2025-06-18 |
 | [枯葉のステーション](https://open.spotify.com/track/2gP0cM1zYaAEDE7rgrnnT6) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [枯葉のステーション](https://open.spotify.com/album/0GsC8TyaIzu6a64UxTxFbU) | 5:51 | 2025-02-04 | 2025-02-19 |
+| [栄養](https://open.spotify.com/track/38tZWlrkJuNrjwCeLULR9M) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [栄養](https://open.spotify.com/album/5zz8XFh79B4JXzlozWeeOB) | 3:10 | 2026-08-11 |  |
 | [案の定アイラブユー](https://open.spotify.com/track/1iX3eiTPtXhGwFd1KLQpzq) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [案の定アイラブユー](https://open.spotify.com/album/6OsOr0IIHM1VobBeAO5zsu) | 3:49 | 2025-04-01 | 2025-04-30 |
 | [横顔](https://open.spotify.com/track/0KOgyCjDRHJeBuRGkStf9R) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [横顔](https://open.spotify.com/album/5cJDxgC2ODwS1RS7vtNLuF) | 4:14 | 2026-01-27 | 2026-04-10 |
 | [欠片](https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [欠片](https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt) | 2:40 | 2025-10-21 | 2026-01-15 |

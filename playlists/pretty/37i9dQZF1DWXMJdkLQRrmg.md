@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,755 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,784 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 46 | [Supernatural \- Acoustic](https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM) | 3:06 |
 | 47 | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/track/6bHO3zGU6RarIsp62su2DI) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Flames \(feat\. Avril Lavigne\) \[Acoustic\]](https://open.spotify.com/album/4XypbOeFq7qfgR6EugsrwH) | 2:27 |
 | 48 | [The Funeral \- Acoustic](https://open.spotify.com/track/7jfP3nGBIYW4EFqubo6OUs) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/7pxmCQcwGsVa2IhPFRiRer) | 3:33 |
-| 49 | [Come As You Are](https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 4:18 |
-| 50 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
+| 49 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
+| 50 | [Come As You Are](https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 4:18 |
 | 51 | [Hard To Be Alone](https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Hard To Be Alone](https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14) | 3:02 |
 | 52 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
 | 53 | [abcdefu \(chill\)](https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(chill\)](https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 74 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
 | 75 | [sail away \(acoustic\)](https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm) | 2:51 |
 
-Snapshot ID: `AAAAACwifWsZUEHbSUhJDUZBVSg/YUrP`
+Snapshot ID: `AAAAAHSQKVeXk0SO02+Oh5qhtt5/Gy28`

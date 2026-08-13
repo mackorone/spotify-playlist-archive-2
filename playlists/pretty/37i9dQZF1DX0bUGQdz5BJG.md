@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Erin Kinsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,587 likes - 199 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,639 likes - 199 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 198 | [Ten to Midnight](https://open.spotify.com/track/4hSqdt68bXz9c5xubGyJIl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Wild](https://open.spotify.com/album/1K8Fb2kSg4efx4fNZ8CTXL) | 3:12 |
 | 199 | [Whiskey Won't](https://open.spotify.com/track/6B4oRzHp0s5q56g0BOaZFT) | [Kanaan Brock](https://open.spotify.com/artist/3mT9Fqi9eYdgSqKIqLvcr6) | [Whiskey Won't](https://open.spotify.com/album/1HyCv71s76yHToKmlgFVJE) | 3:08 |
 
-Snapshot ID: `AAAAAABCHEHH24eU/u4YUiP1RBdUoe0J`
+Snapshot ID: `AAAAAICWlWxLR2o+ds3/mS3JbyJ40tLa`

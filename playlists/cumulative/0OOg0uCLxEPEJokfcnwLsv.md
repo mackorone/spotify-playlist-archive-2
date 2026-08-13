@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-611 songs - 1 day 13 hr 47 min
+612 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Breathe In Breathe Out](https://open.spotify.com/track/3du8pgzoJLZk7KYFNrNpFI) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [Breathe In Breathe Out](https://open.spotify.com/album/005wg2iv5EcGFSpZVw9mhB) | 2:01 | 2026-02-19 |  |
 | [Bring Me Down](https://open.spotify.com/track/6DDJXTCoB99753Q6Pt3YDz) | [Aaetheria](https://open.spotify.com/artist/5XvLB3DxqgreEsNDrtAdfu) | [Bring Me Down](https://open.spotify.com/album/3S7MDIVQgVNIq9Q9KfCVtZ) | 2:57 | 2025-11-19 | 2025-12-12 |
 | [Broken \(Goodbye\)](https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Broken \(Goodbye\)](https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B) | 3:45 | 2026-05-14 | 2026-06-13 |
+| [Broken Mirrors](https://open.spotify.com/track/2Q937SaVxiS2frvTSFyhoz) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Soul Out](https://open.spotify.com/album/1TzuQv0ac32UOqa8HNUvmb) | 4:25 | 2026-08-12 |  |
 | [Broken Mirrors](https://open.spotify.com/track/7EutEoJcHg6Rapoc9BIPde) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Broken Mirrors](https://open.spotify.com/album/3MgB1ndfRsXWlBtLt3j3Rs) | 4:25 | 2026-01-17 | 2026-02-18 |
 | [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 | 2025-12-18 | 2026-01-21 |
 | [Bruise](https://open.spotify.com/track/322NfWs2Q26OwW1f0MOTBZ) | [Shel Khan](https://open.spotify.com/artist/1X1u908i2gZpYXV0E7yr7j) | [Garden](https://open.spotify.com/album/4c4SBqmV6J0gbOm6mIM4Oz) | 3:42 | 2026-06-09 | 2026-08-08 |

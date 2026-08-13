@@ -1,12 +1,12 @@
 {
   "description": "Best of the modern folk artists! Cover- Kabir Cafe",
-  "num_followers": 95247,
+  "num_followers": 95249,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYsDd49dMlR9CAmNU+nXTZ0j+QJ",
+  "snapshot_id": "AAAAAKf+n1Zl4nPGQDbjKb5V1M48PKBn",
   "tracks": [
     {
       "added_at": "2026-07-13 07:39:39",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-07-13 07:39:39",
       "album": {
-        "name": "SUWA TERI YAADON MA",
-        "url": "https://open.spotify.com/album/3mmRUd5H441cSYu8biuVp0"
-      },
-      "artists": [
-        {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
-        },
-        {
-          "name": "Amit Saagar",
-          "url": "https://open.spotify.com/artist/3ypGCTyMQVDPL5hAkjctCE"
-        }
-      ],
-      "duration_ms": 165001,
-      "name": "SUWA TERI YAADON MA",
-      "url": "https://open.spotify.com/track/4jxf2xH4KEoIvFrPXhnbIS"
-    },
-    {
-      "added_at": "2026-07-13 07:39:39",
-      "album": {
         "name": "Maarag",
         "url": "https://open.spotify.com/album/6bpKLi5PrbmhDOEcPHaQOw"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 462400,
       "name": "Maarag",
       "url": "https://open.spotify.com/track/5BhpZtAbNFDUf2AHLQZoDj"
+    },
+    {
+      "added_at": "2026-07-13 07:39:39",
+      "album": {
+        "name": "SUWA TERI YAADON MA",
+        "url": "https://open.spotify.com/album/3mmRUd5H441cSYu8biuVp0"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Amit Saagar",
+          "url": "https://open.spotify.com/artist/3ypGCTyMQVDPL5hAkjctCE"
+        }
+      ],
+      "duration_ms": 165001,
+      "name": "SUWA TERI YAADON MA",
+      "url": "https://open.spotify.com/track/4jxf2xH4KEoIvFrPXhnbIS"
     },
     {
       "added_at": "2026-07-13 07:39:39",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2026-07-13 07:39:39",
       "album": {
-        "name": "Maniyara",
-        "url": "https://open.spotify.com/album/2cXwQQsZFpgbNJQ90hv3VU"
+        "name": "Bhammariyo",
+        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
       },
       "artists": [
         {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
         }
       ],
-      "duration_ms": 199115,
-      "name": "Maniyara",
-      "url": "https://open.spotify.com/track/6P4iBQHUdjUIq0LmIakVb1"
+      "duration_ms": 233644,
+      "name": "Bhammariyo",
+      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
     }
   ],
   "unique_name": "Folk in India",

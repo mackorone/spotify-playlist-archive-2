@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308469,
+  "num_followers": 1308521,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAACi1V/WFTfxdXFU38dsBH5",
+  "snapshot_id": "anpmAAAAAAAPRL14Wy4isIPVyp6HFaZh",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,82 @@
     {
       "added_at": null,
       "album": {
+        "name": "Noche Complicada",
+        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Noche Complicada",
+      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flashbacks | CROSSOVER #9",
+        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 182871,
+      "name": "Flashbacks | CROSSOVER #9",
+      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Posdata:",
+        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 169162,
+      "name": "Posdata:",
+      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 158497,
+      "name": "MI VERSI\u00d3N",
+      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sentimiento M\u00e1gico (feat. FLOUSES) [Remix]",
         "url": "https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X"
       },
@@ -719,82 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashbacks | CROSSOVER #9",
-        "url": "https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy"
-      },
-      "artists": [
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 182871,
-      "name": "Flashbacks | CROSSOVER #9",
-      "url": "https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noche Complicada",
-        "url": "https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q"
-      },
-      "artists": [
-        {
-          "name": "Frijo",
-          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "Noche Complicada",
-      "url": "https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 158497,
-      "name": "MI VERSI\u00d3N",
-      "url": "https://open.spotify.com/track/7Hn8GrXOuEwNRdgduGbN6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Posdata:",
-        "url": "https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 169162,
-      "name": "Posdata:",
-      "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No la Puedo Olvidar",
         "url": "https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ"
       },
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Party en el Barrio (feat. Duki)",
-        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 236143,
-      "name": "Party en el Barrio (feat. Duki)",
-      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
+      "duration_ms": 172561,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
     },
     {
       "added_at": null,
@@ -859,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ"
+        "name": "Party en el Barrio (feat. Duki)",
+        "url": "https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 172561,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m"
+      "duration_ms": 236143,
+      "name": "Party en el Barrio (feat. Duki)",
+      "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
     },
     {
       "added_at": null,

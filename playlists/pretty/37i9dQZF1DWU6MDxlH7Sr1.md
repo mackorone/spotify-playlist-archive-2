@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft Jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,320 likes - 110 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,373 likes - 110 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 109 | [Strolling With My Poodle](https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC) | [Billy Hicks Quartet](https://open.spotify.com/artist/5Ygo7dMjlqex2mD2Ah7h1J) | [Strolling With My Poodle](https://open.spotify.com/album/06P4zROTzjwZ06mHs30mKQ) | 3:58 |
 | 110 | [Endless Winter](https://open.spotify.com/track/3EkZ1haTIg5HuKPD3oTBsJ) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Longing](https://open.spotify.com/album/5rsGpNrx2eRG3Q4f6smqcC) | 3:56 |
 
-Snapshot ID: `AAAAANONciMHJa4Lbe5Th9T23w1heYhn`
+Snapshot ID: `AAAAAL94W24yCnx+3W6z2h/Cx97dyGQN`

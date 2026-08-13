@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,256 likes - 38 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,255 likes - 38 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 37 | [PARANOIA](https://open.spotify.com/track/1QHurP8fLcwXDi4IkE6sBv) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94) | [PARANOIA](https://open.spotify.com/album/7rTfKkqiMRMr9PGNZQAqqb) | 1:44 |
 | 38 | [Colchón](https://open.spotify.com/track/7EpTQc1MrZxtfZw0rSjbVx) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [Colchón](https://open.spotify.com/album/27MMFWTcfIZXz1VuCker37) | 2:18 |
 
-Snapshot ID: `AAAAAL+yMZc3JbKFmK1UAO+n4Cl0FPpT`
+Snapshot ID: `AAAAAEjtkJg/F/SrS8okEQy+rNRqJd52`

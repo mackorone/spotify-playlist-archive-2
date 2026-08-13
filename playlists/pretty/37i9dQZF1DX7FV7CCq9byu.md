@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,522 likes - 122 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,516 likes - 122 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 121 | [C'est La Vie](https://open.spotify.com/track/6PH8uO0RpimMOU5pMmgi7D) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/7aQhFdYGBss6RCYMa7fwyp) | 3:30 |
 | 122 | [Animal](https://open.spotify.com/track/04hCF2m0TsrSL0OwgYJHHx) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Animal](https://open.spotify.com/album/2rU0hPF2YxpLbCx0dcgHlz) | 3:34 |
 
-Snapshot ID: `AAAAAEq8hD5RVJ5tb0WMvUwxJFUEQcMp`
+Snapshot ID: `AAAAAK5S+KDaMKTvCQ5JkIwUpL4SATWi`

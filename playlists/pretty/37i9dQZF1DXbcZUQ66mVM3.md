@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcZUQ66mVM3.md) - [plain]
 
 > Zing mee met al je favoriete Disney hits uit films als Vaiana 2, Encanto, Frozen en nog veel meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,867 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,893 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcZUQ66mVM3.md) - [plain]
 | 67 | [Vergeet me niet \(Ernesto de la Cruz\)](https://open.spotify.com/track/4exyZcVmcTcD8cvtLLQcYt) | [Wiebe\-Pier Cnossen](https://open.spotify.com/artist/4XLu4NohpI74Mdx2c8dynE) | [Coco \(Originele Nederlandstalige Soundtrack\)](https://open.spotify.com/album/1FZNYAgIL2ykW8TBx3Z5iB) | 1:49 |
 | 68 | [Je bent een vriend van mij](https://open.spotify.com/track/6mUXiu9hUXGfXQoCQcLrff) | [Arno Hintjens](https://open.spotify.com/artist/3zZeLalxpB4ddLfwUjBTxp) | [Toy Story Original Soundtrack \(Dutch Version\)](https://open.spotify.com/album/3x2vyWzRURuWxQH7gJcfq0) | 2:05 |
 
-Snapshot ID: `AAAAAHbo2097XM93FOF2YjXgzAGeIsCT`
+Snapshot ID: `AAAAAHoYB1p8lXoGbx6yXQn3bK2PUCu+`

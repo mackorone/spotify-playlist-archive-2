@@ -4,7 +4,7 @@
 
 > Music that means it\. Cover: Yard Act
 
-483 songs - 1 day 3 hr 21 min
+484 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Talk of the Town \- Radio Edit](https://open.spotify.com/track/0OQAreS9Acr21Py2yr0hNb) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Talk of the Town](https://open.spotify.com/album/3wEckVQAgY7X74TqBlvvpg) | 3:11 | 2024-03-11 | 2024-06-03 |
 | [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-05-31 | 2024-08-22 |
 | [Technofear](https://open.spotify.com/track/6CIrj2Av1omuZonMOxhQX2) | [The Slow Readers Club](https://open.spotify.com/artist/1DYrH6sucKrK0dskzU4Gsk) | [Technofear](https://open.spotify.com/album/74S1PUTNT3ytS3tWQlmkCE) | 3:20 | 2024-10-17 | 2024-12-05 |
+| [Terror TV](https://open.spotify.com/track/7yug9Rrhhz76Nl2dAijt9X) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Terror TV](https://open.spotify.com/album/6GutoOofpiccz3CnPb0WER) | 3:15 | 2026-08-06 |  |
 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 | 2023-01-10 | 2023-08-04 |
 | [That's Me](https://open.spotify.com/track/3KEovEZXkLJf8dtguk9eO8) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [That's Me](https://open.spotify.com/album/23Ny7HGfmfimPjnjbHkTR7) | 2:11 | 2026-06-18 | 2026-07-17 |
 | [The Age of Innocence](https://open.spotify.com/track/5CpvAXYX4QYrmp8Z4jDaUV) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [The Age of Innocence](https://open.spotify.com/album/0RNPeJkIcoPbHfUtY2BS9b) | 2:33 | 2026-02-20 | 2026-07-18 |
@@ -458,7 +459,7 @@
 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 | 2024-04-15 | 2025-08-20 |
 | [Up in the Air](https://open.spotify.com/track/1sBIJ6xCgg0uDzTd9M9u5u) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Up in the Air](https://open.spotify.com/album/30JsqeAvmGjYsrzVOr6s1a) | 2:40 | 2023-10-27 | 2024-08-25 |
 | [Us](https://open.spotify.com/track/0MHk5hdrpXn8FheU5s8slm) | [Ryan McMullan](https://open.spotify.com/artist/4tqPTKknmeQK1uDEFVfX4G) | [Us](https://open.spotify.com/album/1xzrwQQTf3sELgamREi9j0) | 2:24 | 2024-10-06 | 2024-10-12 |
-| [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 | 2025-06-06 |  |
+| [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 | 2025-06-06 | 2026-08-13 |
 | [Vice Versa](https://open.spotify.com/track/0pOh1U2tIdIHvMDFZXNNp1) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Vice Versa](https://open.spotify.com/album/5KbsOhirBRc37NY9v3NATC) | 2:43 | 2026-07-16 |  |
 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 | 2023-07-28 |  |
 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 | 2023-01-10 | 2024-01-08 |

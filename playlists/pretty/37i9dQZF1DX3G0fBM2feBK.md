@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3G0fBM2feBK.md) - [plain]
 
 > 임재범의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요! \(Enjoy the Lim Jae Beum Seoul concert LIVE SET including the voices of them on stage!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 678 likes - 25 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 679 likes - 25 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3G0fBM2feBK.md) - [plain]
 | 24 | [Ment 6](https://open.spotify.com/track/7stEJS7VaE88kp8FzWhVDW) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Lim Jae Beum \- 40th Live Set](https://open.spotify.com/album/4cvNo3lQWhMB8vcd7yrzHL) | 3:05 |
 | 25 | [크게 라디오를 켜고](https://open.spotify.com/track/1CsceHCnBkTvfwCrZG9e0a) | [Sinawe](https://open.spotify.com/artist/3ihcza50ukOh0F8DDBNs85) | [시나위 베스트 콜렉션](https://open.spotify.com/album/1IhGYjh6faFp9WqR4tZzOf) | 4:35 |
 
-Snapshot ID: `AAAAAMcD0G71H7kmU12noF082pun+GgB`
+Snapshot ID: `AAAAACFVNZGFZr70U0xbWHWufEGmuT14`

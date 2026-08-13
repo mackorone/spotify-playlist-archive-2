@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: MUCH MORE",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Jeremiah Paltan",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -787,6 +787,28 @@
     },
     {
       "album": {
+        "name": "All Night!",
+        "url": "https://open.spotify.com/album/36Z3i7sXy6540WFQQNiHIo"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        },
+        {
+          "name": "Lady Audri",
+          "url": "https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155196,
+      "name": "All Night!",
+      "url": "https://open.spotify.com/track/1ZxPgRT70IBQr3lw807Uk2"
+    },
+    {
+      "album": {
         "name": "2 pack",
         "url": "https://open.spotify.com/album/2UUPuGl71vicFykzZ75r3h"
       },
@@ -1060,6 +1082,24 @@
       "duration_ms": 170515,
       "name": "amazing grace",
       "url": "https://open.spotify.com/track/6VK0EV6bIgaGbKMYrSQixw"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/13CxN71fEQu4CjWQymtlsL"
+      },
+      "artists": [
+        {
+          "name": "Briana Shanae",
+          "url": "https://open.spotify.com/artist/33yyOuUsS9pOikszYpZiwN"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125280,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/5NisISY5N8H32buAIZKUeD"
     },
     {
       "album": {
@@ -2638,6 +2678,24 @@
       "duration_ms": 244106,
       "name": "breath by breath",
       "url": "https://open.spotify.com/track/19msKNwB1SjJ4uGAwkDYxT"
+    },
+    {
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1S9MRjerTfmBCwwqQiBaRx"
+      },
+      "artists": [
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194686,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/4yohajjrNUPdK9WB5ugoiK"
     },
     {
       "album": {
@@ -5428,6 +5486,24 @@
       "duration_ms": 146821,
       "name": "Estaciones",
       "url": "https://open.spotify.com/track/6l2ZHwhbJ8Hqvi7rfFhu9T"
+    },
+    {
+      "album": {
+        "name": "Estar As\u00ed",
+        "url": "https://open.spotify.com/album/7rCrv2v5sfpiDtRUMM6trY"
+      },
+      "artists": [
+        {
+          "name": "Chloe Edgecombe",
+          "url": "https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166874,
+      "name": "Estar As\u00ed",
+      "url": "https://open.spotify.com/track/5TxbXPfh7dioI30mMUQBJK"
     },
     {
       "album": {
@@ -9380,7 +9456,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 239750,
       "name": "human",
       "url": "https://open.spotify.com/track/7IsRX80drqVO7TPdNHTUnI"
@@ -9851,6 +9927,24 @@
     },
     {
       "album": {
+        "name": "I Talked to God",
+        "url": "https://open.spotify.com/album/2c2h6mIcCz5q8dCd8oUD6F"
+      },
+      "artists": [
+        {
+          "name": "Ava Dallas",
+          "url": "https://open.spotify.com/artist/6xFIVfJLRbHvyEW2AyezJg"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243195,
+      "name": "I Talked to God",
+      "url": "https://open.spotify.com/track/6AYJDBR5dsYussX3rkyYNW"
+    },
+    {
+      "album": {
         "name": "I Wanna Dance!",
         "url": "https://open.spotify.com/album/7zyaSBpYNCj8wqYbTEXmhA"
       },
@@ -10210,6 +10304,24 @@
       "duration_ms": 218045,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/1xfqHOTSdVSwzlty8qcdgc"
+    },
+    {
+      "album": {
+        "name": "If you tell God, I won't tell mom",
+        "url": "https://open.spotify.com/album/4JA3tcqwDuakj14BZh6b66"
+      },
+      "artists": [
+        {
+          "name": "Harrison Boe",
+          "url": "https://open.spotify.com/artist/4dzmMuL91FOToLfF2CgG1E"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195833,
+      "name": "If you tell God, I won't tell mom",
+      "url": "https://open.spotify.com/track/2aPJOFUDlDCHIa8fjWFebC"
     },
     {
       "album": {
@@ -11224,7 +11336,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 192560,
       "name": "Kindly",
       "url": "https://open.spotify.com/track/4kpVJTFv3jixNVmeWecXJ9"
@@ -11802,7 +11914,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 184712,
       "name": "Like I Am Yours",
       "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
@@ -14336,7 +14448,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 178285,
       "name": "NO RUSH",
       "url": "https://open.spotify.com/track/1Hm8RRo98f7ykr9JeroWBK"
@@ -14916,7 +15028,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 199939,
       "name": "Old & Grey",
       "url": "https://open.spotify.com/track/7qdpP7QoPXSr8b2mWvGNMP"
@@ -18129,6 +18241,24 @@
     },
     {
       "album": {
+        "name": "Sin Reflectores",
+        "url": "https://open.spotify.com/album/7KNND33R7oWRhCr9fRHDpT"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Deliser",
+          "url": "https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285915,
+      "name": "Sin Reflectores",
+      "url": "https://open.spotify.com/track/2MEep18MblsiDHN2Gjad4c"
+    },
+    {
+      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/78zPnIFhrR6WKKrkPWA0WE"
       },
@@ -19465,6 +19595,24 @@
     },
     {
       "album": {
+        "name": "I\u2019M OKAY NOW, BUT I WASN\u2019T FOR A WHILE",
+        "url": "https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "TALK ABOUT IT",
+      "url": "https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM"
+    },
+    {
+      "album": {
         "name": "TALK SPICY",
         "url": "https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd"
       },
@@ -20118,7 +20266,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 239373,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/3vstsYzg3ob3WiJ89pK3Cd"
@@ -20546,7 +20694,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 254500,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/6XUJFuejnO8eUFGSIRnmzW"
@@ -23348,7 +23496,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 234000,
       "name": "Yoke",
       "url": "https://open.spotify.com/track/4px6eaKU9on5n7VSJpemg9"

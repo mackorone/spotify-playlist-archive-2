@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: THAMI, Luedji Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,749 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,802 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 22 | [Rosa Maria](https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Rosa Maria](https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT) | 3:52 |
 | 23 | [só \(mais\) uma vez](https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [só \(mais\) uma vez](https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp) | 3:41 |
 | 24 | [Dona Do Mundo \(Púrpura Session\)](https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Púrpura Session](https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy) | 3:20 |
-| 25 | [Papinho Ambicioso](https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Papinho Ambicioso](https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4) | 2:34 |
-| 26 | [Sunset](https://open.spotify.com/track/7DQ6QsjW0oYu2x5xWm78W4) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Muito Romântico](https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv) | 3:22 |
+| 25 | [Sunset](https://open.spotify.com/track/7DQ6QsjW0oYu2x5xWm78W4) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Nina](https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5), [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Muito Romântico](https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv) | 3:22 |
+| 26 | [Papinho Ambicioso](https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Papinho Ambicioso](https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4) | 2:34 |
 | 27 | [De Lua](https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [De Lua](https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY) | 3:12 |
 | 28 | [Despacha](https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Despacha](https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi) | 2:58 |
 | 29 | [off](https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [off](https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5) | 3:22 |
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 41 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 |
 | 42 | [Ouvir Você \(Remix\)](https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Ouvir Você \(Remix\)](https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0) | 4:33 |
 | 43 | [Poema Sujo](https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Poema Sujo](https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy) | 3:02 |
-| 44 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |
-| 45 | [Te Faria](https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Te Faria](https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW) | 3:04 |
-| 46 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
-| 47 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 |
+| 44 | [Te Faria](https://open.spotify.com/track/2fp1et9og5rgwuT7osCkxo) | [Ellen Oléria](https://open.spotify.com/artist/2Lw4xNNXMrVhYWLNTmBo7B), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Te Faria](https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW) | 3:04 |
+| 45 | [a1](https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [a1](https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca) | 3:03 |
+| 46 | [Prisma](https://open.spotify.com/track/4aaUd2tIKJqc2o0AOcMhKQ) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Prisma](https://open.spotify.com/album/58KbOsM3SBsvr8Nxinqy8W) | 4:14 |
+| 47 | [Castigo](https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Castigo](https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO) | 2:25 |
 | 48 | [Desalinho](https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Desalinho](https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR) | 3:25 |
 | 49 | [FORA DA LEI](https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF) | [FORA DA LEI](https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E) | 3:06 |
 | 50 | [Anjo](https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Meu Iô Iô](https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 4:05 |
 | 75 | [Sobrenatural](https://open.spotify.com/track/5E60i7KlJHPaTHOLkqprMM) | [Ryan Fidelis](https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm) | [Sobrenatural](https://open.spotify.com/album/0F3j9jMNLDWaN2y6OB8L2a) | 2:47 |
 
-Snapshot ID: `AAAAAD2S7IzO3zTnbauG4B72XxNXVVhZ`
+Snapshot ID: `AAAAALuy8jD73EQLJWqsfBEgw+uLgDEj`

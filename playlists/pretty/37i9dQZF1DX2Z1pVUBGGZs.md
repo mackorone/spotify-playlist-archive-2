@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 💐 cover: Arlo Parks and John Glacier
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,851 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,835 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 99 | [Earthworm](https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL) | [Laizer](https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22) | [Earthworm](https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v) | 2:56 |
 | 100 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
 
-Snapshot ID: `AAAAAGVufSsTyBi+4R/59PJDLnEtih4K`
+Snapshot ID: `AAAAADPewAjmqznAaTR+1bMqr/KwJsmW`

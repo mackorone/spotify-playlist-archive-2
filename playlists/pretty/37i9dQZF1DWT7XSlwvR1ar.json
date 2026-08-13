@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2116307,
+  "num_followers": 2116338,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJjeccFh9AJRyP2Z7ltzfDITWsPs",
+  "snapshot_id": "AAAAAGELl+ccU9ghRdd8S77Qwqyumxr7",
   "tracks": [
     {
       "added_at": "2026-07-31 00:00:14",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "All I Ever Wanted Was You",
+        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
+      },
+      "artists": [
+        {
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "All I Ever Wanted Was You",
+      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "I'm Not Bothered By The Rain",
         "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 276333,
       "name": "Blood Red Sentimental Blues",
       "url": "https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "All I Ever Wanted Was You",
-        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
-      },
-      "artists": [
-        {
-          "name": "The Sways",
-          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "All I Ever Wanted Was You",
-      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "OptiMYSTIC",
-        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
-      },
-      "artists": [
-        {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
-        }
-      ],
-      "duration_ms": 232754,
-      "name": "OptiMYSTIC",
-      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "River Fools & Mountain Saints",
         "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 193080,
       "name": "Tom Barrett",
       "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "OptiMYSTIC",
+        "url": "https://open.spotify.com/album/5CjXy4fh9T8OV5v8Lr9KLf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 232754,
+      "name": "OptiMYSTIC",
+      "url": "https://open.spotify.com/track/3I5FzqalyD3b3mfcbqrXQz"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "A Million Lives",
-        "url": "https://open.spotify.com/album/644mTTjWRde8EO5vw3Nfz6"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 195736,
-      "name": "A Million Lives",
-      "url": "https://open.spotify.com/track/2mlbJn0yefGc15LVcbjtW1"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/16F30mi5701yHEy2RyTkDX"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 321431,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6GW06Om130LSYa5YbLKrjx"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "A Million Lives",
+        "url": "https://open.spotify.com/album/644mTTjWRde8EO5vw3Nfz6"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 195736,
+      "name": "A Million Lives",
+      "url": "https://open.spotify.com/track/2mlbJn0yefGc15LVcbjtW1"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Regret Me",
-        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
-      },
-      "artists": [
-        {
-          "name": "Daisy Jones & The Six",
-          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
-        }
-      ],
-      "duration_ms": 196085,
-      "name": "Regret Me",
-      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "It Will Never Be The Same",
         "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 250362,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Regret Me",
+        "url": "https://open.spotify.com/album/7ao3hnHPO2oTu3TpAuoTrA"
+      },
+      "artists": [
+        {
+          "name": "Daisy Jones & The Six",
+          "url": "https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo"
+        }
+      ],
+      "duration_ms": 196085,
+      "name": "Regret Me",
+      "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Before You Leave",
-        "url": "https://open.spotify.com/album/6MUn43ab6dxVbO0NOHyuvO"
-      },
-      "artists": [
-        {
-          "name": "Hazel Veil",
-          "url": "https://open.spotify.com/artist/33hsYQo8f0jrMgaANiuoTA"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Before You Leave",
-      "url": "https://open.spotify.com/track/3stV79QocpHNtBUhx3fbj1"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "If It Ain't You",
         "url": "https://open.spotify.com/album/4hGeEwj44b63cQHRmRfDPx"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 210133,
       "name": "If It Ain't You",
       "url": "https://open.spotify.com/track/3yx9pgiep8UZ9RADXUIBsp"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Before You Leave",
+        "url": "https://open.spotify.com/album/6MUn43ab6dxVbO0NOHyuvO"
+      },
+      "artists": [
+        {
+          "name": "Hazel Veil",
+          "url": "https://open.spotify.com/artist/33hsYQo8f0jrMgaANiuoTA"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Before You Leave",
+      "url": "https://open.spotify.com/track/3stV79QocpHNtBUhx3fbj1"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "In the Clouds",
-        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 212047,
-      "name": "In the Clouds",
-      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Soul Sweet Song",
         "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 235626,
       "name": "Soul Sweet Song",
       "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "In the Clouds",
+        "url": "https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 212047,
+      "name": "In the Clouds",
+      "url": "https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 217966,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 248210,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 217966,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 213169,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Adeline",
         "url": "https://open.spotify.com/album/5vhWPJmfv17WuWHpmMtbUb"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 229000,
       "name": "Adeline (feat. Kathleen)",
       "url": "https://open.spotify.com/track/4upefrum9ayh1aAgo52f4k"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/4PblnXRvVvRa8IsHmmLjUh"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 213169,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/4VXrKn9SikNycIZdmmLaUF"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Go In Light",
+      "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Ocean Bed",
         "url": "https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 197372,
       "name": "Venus in the Zinnia",
       "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Go In Light",
-      "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Black Jeans",
-        "url": "https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 306600,
-      "name": "Black Jeans",
-      "url": "https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Gold in California",
         "url": "https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm"
       },
@@ -1983,18 +1967,18 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+        "name": "Black Jeans",
+        "url": "https://open.spotify.com/album/1CVxayI7MG3L73PgA1DCz6"
       },
       "artists": [
         {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
         }
       ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
+      "duration_ms": 306600,
+      "name": "Black Jeans",
+      "url": "https://open.spotify.com/track/2vBnxZkr6K0Py6iTxHXUKS"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2035,6 +2019,22 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
+        "name": "Talk is Cheap",
+        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 270937,
+      "name": "Talk is Cheap",
+      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
         "name": "Ponte Vedra Sunrise",
         "url": "https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN"
       },
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Talk is Cheap",
-        "url": "https://open.spotify.com/album/3d4sgxBiKhNW1CHd7YdALH"
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
       },
       "artists": [
         {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
         }
       ],
-      "duration_ms": 270937,
-      "name": "Talk is Cheap",
-      "url": "https://open.spotify.com/track/2dmsUyyoTUpAzTb0tsbAIZ"
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "K\u00f6ln (Lost in Time)",
-        "url": "https://open.spotify.com/album/5thzR3kjTYHH5M2yovUg8u"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 218046,
-      "name": "K\u00f6ln (Lost in Time)",
-      "url": "https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 212502,
       "name": "Weather Balloons [Feat. Frances Cone]",
       "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "K\u00f6ln (Lost in Time)",
+        "url": "https://open.spotify.com/album/5thzR3kjTYHH5M2yovUg8u"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 218046,
+      "name": "K\u00f6ln (Lost in Time)",
+      "url": "https://open.spotify.com/track/2CwkTHMPLad36ZRr31OINb"
     },
     {
       "added_at": "2026-07-31 00:00:14",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-07-31 00:00:14",
       "album": {
-        "name": "Keep On Dreamin'",
-        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Keep On Dreamin'",
-      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
-    },
-    {
-      "added_at": "2026-07-31 00:00:14",
-      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 169186,
       "name": "Radio [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
+    },
+    {
+      "added_at": "2026-07-31 00:00:14",
+      "album": {
+        "name": "Keep On Dreamin'",
+        "url": "https://open.spotify.com/album/26htWkoWquHLEiQUOqdPl5"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Keep On Dreamin'",
+      "url": "https://open.spotify.com/track/7oeLY4eOWi6weLBqTWH0Rc"
     },
     {
       "added_at": "2026-07-31 00:00:14",

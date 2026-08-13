@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With The Charlie Marshall Effect, Whispergun, Dan Fearon and more
+> With MIK's Reaction, David Von Beahm, Whispergun and more
 
 911 songs - 2 day 14 hr 23 min
 

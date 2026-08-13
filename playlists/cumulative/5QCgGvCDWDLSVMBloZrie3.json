@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "The Essentials: Tommy James & The Shondells",
+        "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208666,
+      "name": "Crimson & Clover - Single Version",
+      "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },

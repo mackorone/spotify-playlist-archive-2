@@ -1,12 +1,12 @@
 {
   "description": "Is it your bias K-Pop boy group? (Cover: idntt) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
-  "num_followers": 844170,
+  "num_followers": 844139,
   "original_name": "BIASBOYS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFS0rO0nw3JAMlBP6kPlo+1onaV",
+  "snapshot_id": "AAAAABoR9Dyu+InrFRhNtOHbHn8xkEzU",
   "tracks": [
     {
       "added_at": "2026-07-29 02:21:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-29 02:21:00",
       "album": {
-        "name": "Ascend-",
-        "url": "https://open.spotify.com/album/5E3pgifLkYtunLqxG2LVbe"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl"
-    },
-    {
-      "added_at": "2026-07-29 02:21:00",
-      "album": {
         "name": "HOW?",
         "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
       },
@@ -735,18 +719,34 @@
     {
       "added_at": "2026-07-29 02:21:00",
       "album": {
-        "name": "NO TRAGEDY",
-        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
+        "name": "Ascend-",
+        "url": "https://open.spotify.com/album/5E3pgifLkYtunLqxG2LVbe"
       },
       "artists": [
         {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
         }
       ],
-      "duration_ms": 165000,
-      "name": "You, You",
-      "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
+      "duration_ms": 147373,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl"
+    },
+    {
+      "added_at": "2026-07-29 02:21:00",
+      "album": {
+        "name": "THE WORLD EP.FIN : WILL",
+        "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 198365,
+      "name": "Crazy Form",
+      "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
     },
     {
       "added_at": "2026-07-29 02:21:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-07-29 02:21:00",
       "album": {
-        "name": "THE WORLD EP.FIN : WILL",
-        "url": "https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH"
+        "name": "NO TRAGEDY",
+        "url": "https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 198365,
-      "name": "Crazy Form",
-      "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
+      "duration_ms": 165000,
+      "name": "You, You",
+      "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"
     },
     {
       "added_at": "2026-07-29 02:21:00",

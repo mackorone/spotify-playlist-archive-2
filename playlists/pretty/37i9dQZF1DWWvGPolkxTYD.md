@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,126 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,124 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 24 | [Aman Avcı Vurma Beni \- Turkey](https://open.spotify.com/track/3seIC3w5tl74L5CwUMtzU2) | [Ismail Ounal](https://open.spotify.com/artist/3n3Whufi84YqBH5BA6YnP9) | [Oriental Guitar \- Turkish & Arabic Instrumental Music](https://open.spotify.com/album/3YShnla4X4oKouDTJH9JKl) | 1:45 |
 | 25 | [Misage](https://open.spotify.com/track/2ed8ct9ysWH6Cp7DquMSiQ) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Randana](https://open.spotify.com/album/0RB1X637etjmDDy5bzkfVw) | 4:56 |
 | 26 | [Oriental Dreams](https://open.spotify.com/track/5UgcKwDo470y2ghbPWKIfp) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Arabian Lounge Club, Volume 1](https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN) | 4:06 |
-| 27 | [Reve](https://open.spotify.com/track/0GPJZn4NGP4I06LK9Pfqvd) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 6:05 |
-| 28 | [Hilal As Sabá](https://open.spotify.com/track/7GqdEUaekycg98zQWpBONf) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ) | [Maquamat Zíryáb \- Desde El Eúfrates Al Guadalquivir](https://open.spotify.com/album/1mLFGodMEuv4TqazLXlZaq) | 8:11 |
+| 27 | [Hilal As Sabá](https://open.spotify.com/track/7GqdEUaekycg98zQWpBONf) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ) | [Maquamat Zíryáb \- Desde El Eúfrates Al Guadalquivir](https://open.spotify.com/album/1mLFGodMEuv4TqazLXlZaq) | 8:11 |
+| 28 | [Reve](https://open.spotify.com/track/0GPJZn4NGP4I06LK9Pfqvd) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Reve](https://open.spotify.com/album/3UVWsuGDZHBzN7y958NXl4) | 6:05 |
 | 29 | [The Road to Sahara](https://open.spotify.com/track/3374nqNtSOSDlM9nQUCMyI) | [Kader Fahem](https://open.spotify.com/artist/6lnsLih5OIO8EALCg5vqoS), [Adnan Joubran](https://open.spotify.com/artist/4KFaYjtHWI85JjkeHWyaih) | [The Road to Sahara](https://open.spotify.com/album/0zf0KF6c7igAW53uEuUT5n) | 4:29 |
 | 30 | [Laytaka](https://open.spotify.com/track/2H4qZ7sfSWZBbEVzlyGTCL) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [À l'ombre des mots \(Avec la voix de Mahmoud Darwich\)](https://open.spotify.com/album/4gyFm0eNM9D9vi6A1gFgZR) | 6:07 |
 | 31 | [Oriental Pearls](https://open.spotify.com/track/4rj7twM1JiFJAHmAUPVB2N) | [Abdul Al Kahabir](https://open.spotify.com/artist/6jQNoAYC0mpgCRpIIU89Pi) | [Arabian Lounge Club, Volume 1](https://open.spotify.com/album/1BlKY7n0H4GODaNqcm6jJN) | 4:19 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 36 | [Tents \(feat\. Rami Khalife, Peter Herbert & Bachar Khalife\)](https://open.spotify.com/track/0XUoW4Vbq6YXUVlP3jDHZr) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ), [Rami Khalife](https://open.spotify.com/artist/6EnXmpJo9WetzndYpNAm9k), [Peter Herbert](https://open.spotify.com/artist/3HLr5HkSrGDJ2nyZF7wtHE), [Bachar Khalifé](https://open.spotify.com/artist/3lC4htJrE2CcNRIspeUwyp) | [Caress](https://open.spotify.com/album/5Xs9817ihv263FH34HgRtX) | 3:50 |
 | 37 | [Lamentations bipolaires](https://open.spotify.com/track/3j0obpF6E4yxU6fUXoQ0xu) | [Abderraouf Ouertani](https://open.spotify.com/artist/7fLHLIzQkhIOqrotQlR1rA), [Patrick Villanueva](https://open.spotify.com/artist/3NluZeUS7m52HzFmA4uojj) | [Duo Deux Rives](https://open.spotify.com/album/2VIiaWaN6unj1ORZ630O7N) | 5:35 |
 | 38 | [Hijaz](https://open.spotify.com/track/3oINCsaTDaEaKVpgr344vM) | [Mohai Eddine](https://open.spotify.com/artist/7xAZRH3XRgD0S4ku0X9Ng3) | [Authentic Instrumental Music By the Most Famous Arab Artists](https://open.spotify.com/album/7jtHS5TeiUrjJ6NpOkuP3w) | 5:06 |
-| 39 | [Long Wait](https://open.spotify.com/track/2kkAw4ryowf5wBv2lUI0Lr) | [Omar Faruk Tekbilek](https://open.spotify.com/artist/0PLhi5tAE8QcXnuEMui2Oe) | [Longing \(Best of Omar Faruk Tekbilek\)](https://open.spotify.com/album/3aKIaTCMukq8X8JsUteUqc) | 6:01 |
-| 40 | [Improvisation / Oum El Rouba](https://open.spotify.com/track/1vvSYFSKMRUQTv9jaM6IyO) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/1iLYA1Er67QwAYFjs5SPkL) | 12:03 |
+| 39 | [Improvisation / Oum El Rouba](https://open.spotify.com/track/1vvSYFSKMRUQTv9jaM6IyO) | [Omar Bashir](https://open.spotify.com/artist/4IRXGwXby9WAyL7hrgLOQH) | [To My Father](https://open.spotify.com/album/1iLYA1Er67QwAYFjs5SPkL) | 12:03 |
+| 40 | [Helvetica](https://open.spotify.com/track/48ZnykZzekPgVoh5VgNMIP) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [The Queen of Turquoise](https://open.spotify.com/album/0grbcgG8W8C8yqHvIzn0dB) | 5:40 |
 
-Snapshot ID: `AAAAAFycQGomBV6DOT7iMJmOAbPd4WP5`
+Snapshot ID: `AAAAAGtsQkAn4QoeyogdIEraEBYXzHbh`

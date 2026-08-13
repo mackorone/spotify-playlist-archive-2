@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto:  El Bobo de las 3000.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,986 likes - 38 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,990 likes - 38 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 4 | [Una casa en el Teide](https://open.spotify.com/track/72aG1rLcFRT8IPpkp2Hxpd) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Una casa en el Teide](https://open.spotify.com/album/604M2cC6V6Idy4Lnt4b63I) | 2:54 |
 | 5 | [Los Llamados Pitagóricos](https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Los Llamados Pitagóricos](https://open.spotify.com/album/6FsxcuAF5nouopLZ5ZE6Kz) | 4:02 |
 | 6 | [El lago de mi pena](https://open.spotify.com/track/2O9Dv1K2zHwF4j6jSApQLr) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 3:56 |
-| 7 | [DEMONIAS MUÑECAS](https://open.spotify.com/track/1F22SGMpR8KQMijk1ihj4r) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [DEMONIAS MUÑECAS](https://open.spotify.com/album/6hTlEVdpr7QRWBICFZR88z) | 2:48 |
+| 7 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 |
 | 8 | [Que no seas de nadie](https://open.spotify.com/track/07Gs0ryBZ4iU0pkzGbmuYN) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Que no seas de nadie](https://open.spotify.com/album/3aReeY5pwXOg0cb533n6NU) | 2:25 |
 | 9 | [Mi loco cowboy](https://open.spotify.com/track/5XiFK0lqhOUlGPXFyfrIbc) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Mi loco cowboy](https://open.spotify.com/album/55FFc3Qs71UsBrKSaA5PQj) | 3:08 |
 | 10 | [La Vida Cañón](https://open.spotify.com/track/3ktWmFzt95zM8b4kLjvM4V) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 2:32 |
-| 11 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
-| 12 | [Lip Combo](https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [l0rna](https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS) | [Lip Combo](https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT) | 2:51 |
+| 11 | [TROYA](https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [TROYA](https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI) | 3:13 |
+| 12 | [DEMONIAS MUÑECAS](https://open.spotify.com/track/1F22SGMpR8KQMijk1ihj4r) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [DEMONIAS MUÑECAS](https://open.spotify.com/album/6hTlEVdpr7QRWBICFZR88z) | 2:48 |
 | 13 | [Haciéndome ilusiones](https://open.spotify.com/track/2iJwU9xQ3zYUCTfTYa2pcB) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Haciéndome ilusiones](https://open.spotify.com/album/4N653iEm1amXAAtPL3QFuc) | 3:26 |
 | 14 | [Placer de vivir](https://open.spotify.com/track/148LN4dJOFg4Y6G2Ezqnpu) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Placer de vivir](https://open.spotify.com/album/2GjY9NfZdA8glT6Mzd26C3) | 3:09 |
 | 15 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
-| 16 | [TROYA](https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [TROYA](https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI) | 3:13 |
+| 16 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
 | 17 | [TOTO DE LOCA](https://open.spotify.com/track/1BHscyZF6ZHx534gxTsjPe) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [Neofita](https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp) | 3:00 |
 | 18 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 |
 | 19 | [Sin pena ni gloria](https://open.spotify.com/track/5vPJFif5AA5whBJvhPvHGM) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 3:16 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 37 | [CONEJITA PLAYBOY](https://open.spotify.com/track/7i1FtYA6fHykC4CiHY1Ift) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:18 |
 | 38 | [Sea como Sea](https://open.spotify.com/track/0P4VuDVzqrZMXGpgl8T20C) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Sea como Sea](https://open.spotify.com/album/4XxPjsotbbdjY4T4iDG5pP) | 2:43 |
 
-Snapshot ID: `AAAAAAfNKKF1AQwl311TEwSlsHXlhvrS`
+Snapshot ID: `AAAAABoAWzRvCKH1LnGoQvnkzBzbwDyJ`

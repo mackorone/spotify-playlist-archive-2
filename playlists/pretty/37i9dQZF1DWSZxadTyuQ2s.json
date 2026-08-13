@@ -1,12 +1,12 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Darkoo & Asake",
-  "num_followers": 41087,
+  "num_followers": 41182,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMHobRdaPQK0Y99wnxeta0IG8pAF",
+  "snapshot_id": "AAAAALUnUHcqF4gPXEiNRX4ExEc53cW2",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:18",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 136036,
       "name": "With You (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "Baby (Is it a Crime)",
+        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 164151,
+      "name": "Baby (Is it a Crime)",
+      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "Baby (Is it a Crime)",
-        "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 164151,
-      "name": "Baby (Is it a Crime)",
-      "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Alaye",
+      "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "What I Like (with Moliy, Ayetian, & Tyga)",
         "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 156140,
       "name": "What I Like (with Moliy, Ayetian, & Tyga)",
       "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Alaye",
-      "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 146165,
+      "name": "SHEGE",
+      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "My Eyes Only - Flashback",
         "url": "https://open.spotify.com/album/2uKZ3Ugh07XRffTInfNcjr"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 131439,
       "name": "J'PENSE \u00c0 TOI",
       "url": "https://open.spotify.com/track/6jDCqvmPaMw8006fpbfmZx"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "SHEGE",
-      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "R.U. (Raw & Unfiltered) Vol.1",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Private Chef (feat. MC Morena)",
+      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 170915,
       "name": "JETSKI (FRIKI)",
       "url": "https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "R.U. (Raw & Unfiltered) Vol.1",
-        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Private Chef (feat. MC Morena)",
-      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -1523,42 +1523,6 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
-        "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
-        "url": "https://open.spotify.com/album/2WSgLz7JWbOApkctPaXOHW"
-      },
-      "artists": [
-        {
-          "name": "Golden",
-          "url": "https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
-        }
-      ],
-      "duration_ms": 173185,
-      "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
-      "url": "https://open.spotify.com/track/6jXEcOaoKY3fofq7P1rtCc"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
         "name": "NWANGOLO",
         "url": "https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9"
       },
@@ -1591,6 +1555,42 @@
       "duration_ms": 184821,
       "name": "INDUSTRY MACHINE",
       "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
+        "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
+        "url": "https://open.spotify.com/album/2WSgLz7JWbOApkctPaXOHW"
+      },
+      "artists": [
+        {
+          "name": "Golden",
+          "url": "https://open.spotify.com/artist/7h68rZ3f0OuuPdAYpejW3d"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
+        }
+      ],
+      "duration_ms": 173185,
+      "name": "Champion (feat. Ronaldinho Ga\u00facho & Tu Musica)",
+      "url": "https://open.spotify.com/track/6jXEcOaoKY3fofq7P1rtCc"
     },
     {
       "added_at": "2026-08-07 00:01:18",

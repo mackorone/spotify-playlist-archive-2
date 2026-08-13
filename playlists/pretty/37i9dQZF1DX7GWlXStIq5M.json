@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Vit\u00e3o",
-  "num_followers": 357963,
+  "num_followers": 357932,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB5rh9Z7Mqqnvkod0tMUE2gUTHPE",
+  "snapshot_id": "AAAAAOgiROl9E9jyD8HtMKqa32zhoGu0",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:10",
@@ -139,26 +139,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "DUP\u00ca",
-          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
-        }
-      ],
-      "duration_ms": 177130,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
         "url": "https://open.spotify.com/album/6RhKtIVwurttohFmrZHRfO"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 146250,
       "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
       "url": "https://open.spotify.com/track/5Q7BYad7ILgnS7OeU9Wp5N"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "BABY",
+        "url": "https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "DUP\u00ca",
+          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
+        }
+      ],
+      "duration_ms": 177130,
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Volto Logo",
-        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 152978,
-      "name": "Volto Logo",
-      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Del\u00edrio Favorito",
         "url": "https://open.spotify.com/album/2yj64rYACA151NjzLpZo2a"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 195692,
       "name": "Del\u00edrio Favorito",
       "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Volto Logo",
+        "url": "https://open.spotify.com/album/0eAjuFRbXWfz4g5gVerck2"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 152978,
+      "name": "Volto Logo",
+      "url": "https://open.spotify.com/track/1HIzY5ZVbN7juHAe7tGsDn"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Curvas",
-        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
-      },
-      "artists": [
-        {
-          "name": "CHAMELEO",
-          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "Curvas",
-      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Desassossego",
         "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Curvas",
+        "url": "https://open.spotify.com/album/6AykDP4V0JBUrnn2LCpxcY"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "Curvas",
+      "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -367,6 +367,22 @@
       "duration_ms": 183374,
       "name": "paix\u00e3o ou vaidade?",
       "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 169806,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -407,22 +423,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 169806,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Quando me ver passar",
         "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 134753,
       "name": "Quando me ver passar",
       "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "acho que sou rom\u00e2ntica",
-        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 152042,
-      "name": "eu me entendo mal",
-      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -471,6 +455,22 @@
       "duration_ms": 178645,
       "name": "Te Amar",
       "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "acho que sou rom\u00e2ntica",
+        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 152042,
+      "name": "eu me entendo mal",
+      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "como foi pra vc?",
-        "url": "https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "como foi pra vc?",
-      "url": "https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "como foi pra vc?",
+        "url": "https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "como foi pra vc?",
+      "url": "https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -691,26 +691,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "Inimagin\u00e1vel",
-        "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
       },
       "artists": [
         {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+          "name": "Laura Schadeck",
+          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
         },
         {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "MOLLA Sounds",
-          "url": "https://open.spotify.com/artist/2WAaxn213Qpg2zaxUlFYZD"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 163110,
-      "name": "Mar\u00e9 De Sorte - Remix",
-      "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
+      "duration_ms": 122628,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -731,22 +727,26 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/49MCYvyMPIhbV2UAMMfCXw"
+        "name": "Inimagin\u00e1vel",
+        "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
       },
       "artists": [
         {
-          "name": "Laura Schadeck",
-          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
         },
         {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "MOLLA Sounds",
+          "url": "https://open.spotify.com/artist/2WAaxn213Qpg2zaxUlFYZD"
         }
       ],
-      "duration_ms": 122628,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/3XYGPewnZIG4dc3LkCLXNp"
+      "duration_ms": 163110,
+      "name": "Mar\u00e9 De Sorte - Remix",
+      "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
-        "name": "carne fraca",
-        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "carne fraca",
-      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
@@ -919,6 +903,38 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "carne fraca",
+        "url": "https://open.spotify.com/album/457EGT4rwHYhpZxemlJqDo"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "carne fraca",
+      "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
+        "name": "PASSARINHO",
+        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 201783,
+      "name": "PASSARINHO",
+      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -955,22 +971,6 @@
       "duration_ms": 192857,
       "name": "Eu N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "PASSARINHO",
-        "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 201783,
-      "name": "PASSARINHO",
-      "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
     },
     {
       "added_at": "2026-08-07 03:00:10",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-08-07 03:00:10",
       "album": {
+        "name": "Tempo Bom",
+        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gamou",
+      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+    },
+    {
+      "added_at": "2026-08-07 03:00:10",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 142926,
       "name": "AMOR PROIBIDO",
       "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
-    },
-    {
-      "added_at": "2026-08-07 03:00:10",
-      "album": {
-        "name": "Tempo Bom",
-        "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Gamou",
-      "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
     },
     {
       "added_at": "2026-08-07 03:00:10",

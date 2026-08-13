@@ -2,7 +2,7 @@
 
 ### [Hoofd Heet](https://open.spotify.com/playlist/37i9dQZF1DX8E3bYEzXAcD)
 
-> OYSTER kiest 20 tunes!  zomer ID: 🚗 dakje open\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> OYSTER kiest 20 tunes voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
 76 songs - 3 hr 31 min
 

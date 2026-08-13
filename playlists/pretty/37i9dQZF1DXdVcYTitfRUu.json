@@ -1,12 +1,12 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 16570,
+  "num_followers": 16575,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGm+gH9E82sk/3CCdpEX+FBLuEtZ",
+  "snapshot_id": "AAAAAAiWUaT6iwEqdAt/GAtwY5mDlnlb",
   "tracks": [
     {
       "added_at": "2026-07-29 04:31:51",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "FLOWERING",
-        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Joy, Sorrow, A Beautiful Heart",
-      "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
         "name": "Heavenly Ever After",
         "url": "https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 295413,
       "name": "Heavenly Ever After",
       "url": "https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "FLOWERING",
+        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Joy, Sorrow, A Beautiful Heart",
+      "url": "https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
-        "name": "Never Loved This Way Before (Odd Girl Out X BOYNEXTDOOR) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH"
-      },
-      "artists": [
-        {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Never Loved This Way Before",
-      "url": "https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
         "name": "Stroll",
         "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 228266,
       "name": "Forest",
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
+        "name": "Never Loved This Way Before (Odd Girl Out X BOYNEXTDOOR) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0k95tVxkzquZHZpCPNu9lH"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "Never Loved This Way Before",
+      "url": "https://open.spotify.com/track/1cgtNgk0bkBjKaHmhes7f0"
     },
     {
       "added_at": "2026-07-29 04:31:51",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-07-29 04:31:51",
       "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2026-07-29 04:31:51",
+      "album": {
         "name": "Dear.J",
         "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 201000,
       "name": "Dear.J (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
-    },
-    {
-      "added_at": "2026-07-29 04:31:51",
-      "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
     },
     {
       "added_at": "2026-07-29 04:31:51",

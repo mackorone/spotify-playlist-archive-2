@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 550484,
+  "num_followers": 550499,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOJHyjP2zcxtJoUySGBv4xVUeLOD",
+  "snapshot_id": "AAAAALc7zhk0F5SKvmRw6M1wmuIXWS7q",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -131,22 +131,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "I Love To Love - The Best Of",
-        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
-      },
-      "artists": [
-        {
-          "name": "Tina Charles",
-          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "I Love to Love",
-      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Everlasting: The Best Of Carl Carlton",
         "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "I Love To Love - The Best Of",
+        "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
+      },
+      "artists": [
+        {
+          "name": "Tina Charles",
+          "url": "https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "I Love to Love",
+      "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
     },
     {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Best of Disco",
-        "url": "https://open.spotify.com/album/0Um71BYb1Zl8Oa6vSvn2ox"
-      },
-      "artists": [
-        {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/2I6Jfs4VsWwpo3SI0yMEVz"
-    },
-    {
       "added_at": "2021-07-04 17:34:32",
       "album": {
         "name": "Time Is Slipping Away",
@@ -519,18 +503,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Definitive Groove: Sister Sledge",
-        "url": "https://open.spotify.com/album/6Wx25BBKR9mTNnndloRRWs"
+        "name": "The Best of Disco",
+        "url": "https://open.spotify.com/album/0Um71BYb1Zl8Oa6vSvn2ox"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
         }
       ],
-      "duration_ms": 269173,
-      "name": "Thinking of You - 2006 Remaster",
-      "url": "https://open.spotify.com/track/4vRRBejkkDF6bKpupomK7S"
+      "duration_ms": 180906,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/2I6Jfs4VsWwpo3SI0yMEVz"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -547,6 +531,22 @@
       "duration_ms": 204200,
       "name": "Turn the Beat Around",
       "url": "https://open.spotify.com/track/1kR8zUFIRLXpk1v9aC2VcA"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Definitive Groove: Sister Sledge",
+        "url": "https://open.spotify.com/album/6Wx25BBKR9mTNnndloRRWs"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Thinking of You - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4vRRBejkkDF6bKpupomK7S"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -947,22 +947,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Skyy Line",
-        "url": "https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ"
-      },
-      "artists": [
-        {
-          "name": "Skyy",
-          "url": "https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX"
-        }
-      ],
-      "duration_ms": 382333,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 256453,
       "name": "You Should Be Dancing - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Skyy Line",
+        "url": "https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ"
+      },
+      "artists": [
+        {
+          "name": "Skyy",
+          "url": "https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX"
+        }
+      ],
+      "duration_ms": 382333,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0"
     },
     {
       "added_at": "2020-04-14 18:41:41",

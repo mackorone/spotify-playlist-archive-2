@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: sunwoojunga(\uc120\uc6b0\uc815\uc544) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: JEONG EUN JI (\uc815\uc740\uc9c0)) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -1236,6 +1236,24 @@
       "duration_ms": 258600,
       "name": "Because You're Not Here",
       "url": "https://open.spotify.com/track/1qCp5eczpNpcGnRkia5tCo"
+    },
+    {
+      "album": {
+        "name": "Become More Beautiful",
+        "url": "https://open.spotify.com/album/5N5J8Ssg92eEhlm2j6BqVt"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Become More Beautiful",
+      "url": "https://open.spotify.com/track/7FJ3haDCi8Y6wA27PeKPC9"
     },
     {
       "album": {
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 241386,
       "name": "Everyday waiting you",
       "url": "https://open.spotify.com/track/3BOj8lJSNijZBv1idYQz0M"
@@ -4455,6 +4473,24 @@
     },
     {
       "album": {
+        "name": "Summer, I",
+        "url": "https://open.spotify.com/album/5l7WQaKkWSyj9kR6NnqtEU"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "i love LOVE",
+      "url": "https://open.spotify.com/track/5rkbfBD7Na0dYrcxZGqRO3"
+    },
+    {
+      "album": {
         "name": "I loved her a lot",
         "url": "https://open.spotify.com/album/0mKg95b4sy79j7iEhUAFps"
       },
@@ -4910,7 +4946,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 210000,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
@@ -9272,7 +9308,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 233000,
       "name": "SUZUME",
       "url": "https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we"
@@ -10532,6 +10568,24 @@
       "duration_ms": 221000,
       "name": "Waiting For You (feat. Danny Koo)",
       "url": "https://open.spotify.com/track/2upF0nACk3Afl8njq0zunH"
+    },
+    {
+      "album": {
+        "name": "Walk through the rain",
+        "url": "https://open.spotify.com/album/4Bf0fX2sBnNtN8GeQx6p23"
+      },
+      "artists": [
+        {
+          "name": "Lee Ye Joon",
+          "url": "https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Walk through the rain",
+      "url": "https://open.spotify.com/track/668TPlB2MKEFE4r3BrdKPA"
     },
     {
       "album": {

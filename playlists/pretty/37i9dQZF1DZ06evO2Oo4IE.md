@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,350 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,363 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 30 | [Blindman](https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:05 |
 | 31 | [Ball and Chain \- Live at McMahon Stadium, Calgary, Canada \- July 1970](https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin's Greatest Hits](https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN) | 7:59 |
 | 32 | ["Are We Taping Now?"](https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 0:46 |
-| 33 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
-| 34 | [Dear Landlord](https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Box Of Pearls](https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR) | 2:31 |
+| 33 | [Dear Landlord](https://open.spotify.com/track/1rH1PF17P6p7frsbkd0kIq) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Box Of Pearls](https://open.spotify.com/album/2uEM5GPliifxJ0llkQ59oR) | 2:31 |
+| 34 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
 | 35 | [Easy Rider](https://open.spotify.com/track/6uwJgwm1ipdr7JKNfEjjV1) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:25 |
 | 36 | [Trouble in Mind](https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 2:53 |
-| 37 | [Overheard In The Studio...](https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Pearl Sessions](https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7) | 1:39 |
+| 37 | [Me \- Live 1969](https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Livin' Is Easy \(Live 1969\)](https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi) | 1:50 |
 | 38 | [Tuning & Talk, Pt.2 \- Live](https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:17 |
-| 39 | [Me \- Live 1969](https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Livin' Is Easy \(Live 1969\)](https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi) | 1:50 |
+| 39 | [Overheard In The Studio...](https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Pearl Sessions](https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7) | 1:39 |
 | 40 | [Farewell Song \- Live at the Winterland Ballroom, San Francisco, CA \- April 1968](https://open.spotify.com/track/6Xz7vJYqEjINFozPaJNDHk) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X) | 4:56 |
 | 41 | [Flower In the Sun \- Live at the Winterland Ballroom, San Francisco, CA \- April 1968](https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin Live At Winterland '68](https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT) | 3:12 |
 | 42 | [Talk, Pt.1 \- Live](https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [Trouble In Mind](https://open.spotify.com/track/0c3YbzSctWakEYtmjVzlWB) | [Steve Mann](https://open.spotify.com/artist/2hcBQcl1OhkGXtcsuy2Mc1), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Steve Mann: Alive And Pickin'](https://open.spotify.com/album/2e82i0uQxkMwdJr8ASIvFe) | 3:07 |
 | 50 | [Nobody Knows You When You're Down and Out](https://open.spotify.com/track/4xtxGynUKSGzHdW5iZ2uQE) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:20 |
 
-Snapshot ID: `ankUgAAAAADqXFeQME5Q+dYny8fsK9VN`
+Snapshot ID: `anpmAAAAAABPiTrPc+TDys8B8mY78rwT`

@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2637894,
+  "num_followers": 2637844,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPHKw6x9zGbcgDQgsDwx9ZkbO4lf",
+  "snapshot_id": "AAAAAB0S2PsGYXG5q85GTDt6dusvOQRK",
   "tracks": [
     {
       "added_at": "2026-01-26 17:08:09",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 157893,
-      "name": "Helplessly Hoping - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Rubber Soul (Remastered 2009)",
         "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 162373,
       "name": "Michelle - Remastered 2009",
       "url": "https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 157893,
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
       "added_at": "2026-01-26 17:08:09",

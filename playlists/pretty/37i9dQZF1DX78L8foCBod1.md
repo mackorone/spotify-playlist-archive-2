@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 129 | [Cage <NTv>](https://open.spotify.com/track/4aHRYUcSDr58mGep14Y6MI) | [SawanoHiroyuki\[nZk\]:Tielle](https://open.spotify.com/artist/4smWxSH6ikie95jXI9S0Br) | [narrative / NOISEofRAIN](https://open.spotify.com/album/1FCMC2u03xrev6UsofDv7X) | 4:39 |
 | 130 | [Wild War Dance](https://open.spotify.com/track/3tRN3UhMG13l0FGUlEgLwW) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「戦国BASARA弐」音楽絵巻 弐 ～乱世、再び！～](https://open.spotify.com/album/5uiEMPybqprqh2TMaOR677) | 3:25 |
 
-Snapshot ID: `AAAAALiUgGpd1FRRNnK4qYKLNJZFQqQ+`
+Snapshot ID: `AAAAAOp+FS2VINT15Up62+1ytXalaS47`

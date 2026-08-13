@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Marlon Hoffstadt, Rose Gray, Juju, Alex Warren, Kauta, Sam Smith & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,841 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,838 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
 | 99 | [Completa](https://open.spotify.com/track/6hzI29uwcQ94Dd8AZTkBlx) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Completa](https://open.spotify.com/album/0AVa6arfnKUwuyLbUG4LJH) | 3:28 |
 
-Snapshot ID: `AAAAAHKDLiBgBWnjv/WQO21zRr4mPZan`
+Snapshot ID: `AAAAALgMFRmttmEYaNh6B4+/DaKcx8uC`

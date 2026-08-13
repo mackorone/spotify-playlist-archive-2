@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 564645,
+  "num_followers": 564685,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIokRCLL1lUAuy8qbymLZ9UEsrAZ",
+  "snapshot_id": "AAAAAASjh/Gfu9i7Nc9uH/0T0Ftf6sf0",
   "tracks": [
     {
       "added_at": "2026-06-11 06:56:41",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        },
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 266730,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "All Equal",
         "url": "https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 222992,
       "name": "All Equal",
       "url": "https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        },
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        }
+      ],
+      "duration_ms": 266730,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Petroleum (Fabio Vanore Remix)",
         "url": "https://open.spotify.com/album/0RzfoJA1VVeYENvFuXLsUq"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 544957,
       "name": "Petroleum - Fabio Vanore Remix",
       "url": "https://open.spotify.com/track/1tdQXdkWEp1OreYbLqciFi"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Sense of Wonder",
-        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
-      },
-      "artists": [
-        {
-          "name": "Paradoks",
-          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
-        }
-      ],
-      "duration_ms": 241282,
-      "name": "Sense of Wonder",
-      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Sora",
         "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 212849,
       "name": "Sora",
       "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Sense of Wonder",
+        "url": "https://open.spotify.com/album/7IHA14MqqNRlmEeELXtwz3"
+      },
+      "artists": [
+        {
+          "name": "Paradoks",
+          "url": "https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf"
+        }
+      ],
+      "duration_ms": 241282,
+      "name": "Sense of Wonder",
+      "url": "https://open.spotify.com/track/0iP4oGGuZMSXdRPhxL8iQ4"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -515,8 +515,8 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
+        "name": "Lyra",
+        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
         }
       ],
-      "duration_ms": 424979,
-      "name": "Unlocked",
-      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
+      "duration_ms": 437891,
+      "name": "Lyra",
+      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -579,24 +579,28 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Dea Dia",
-        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
+        "name": "Purple Days & Purple Nights",
+        "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
       },
       "artists": [
         {
-          "name": "Ron Flatter",
-          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+          "name": "KlangTherapeuten",
+          "url": "https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW"
+        },
+        {
+          "name": "Max Manie",
+          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
         }
       ],
-      "duration_ms": 530979,
-      "name": "Dea Dia",
-      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
+      "duration_ms": 269531,
+      "name": "Purple Days",
+      "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
     },
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Lyra",
-        "url": "https://open.spotify.com/album/10EVZVgK0jaOVuIW1A8GSy"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
       "artists": [
         {
@@ -604,9 +608,9 @@
           "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
         }
       ],
-      "duration_ms": 437891,
-      "name": "Lyra",
-      "url": "https://open.spotify.com/track/1Y4nxwSQr5jTMXKaQwiLOA"
+      "duration_ms": 424979,
+      "name": "Unlocked",
+      "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -627,22 +631,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Purple Days & Purple Nights",
-        "url": "https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm"
+        "name": "Dea Dia",
+        "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
       "artists": [
         {
-          "name": "KlangTherapeuten",
-          "url": "https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW"
-        },
-        {
-          "name": "Max Manie",
-          "url": "https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU"
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
         }
       ],
-      "duration_ms": 269531,
-      "name": "Purple Days",
-      "url": "https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM"
+      "duration_ms": 530979,
+      "name": "Dea Dia",
+      "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
-      },
-      "artists": [
-        {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
-        }
-      ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 192476,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+      },
+      "artists": [
+        {
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+        }
+      ],
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+      },
+      "artists": [
+        {
+          "name": "Theydream",
+          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        }
+      ],
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Exoplanet",
         "url": "https://open.spotify.com/album/7ckMabg0DVyOkUftUiYSkQ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 501290,
       "name": "Exoplanet",
       "url": "https://open.spotify.com/track/1J0zBWJBcBbqSqoiZ8e9Re"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
-      },
-      "artists": [
-        {
-          "name": "Theydream",
-          "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        }
-      ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "End of Line",
-        "url": "https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3"
-      },
-      "artists": [
-        {
-          "name": "oddchapters",
-          "url": "https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "End of Line",
-      "url": "https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Hailstorm (Ann Clue Remix)",
         "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "End of Line",
+        "url": "https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3"
+      },
+      "artists": [
+        {
+          "name": "oddchapters",
+          "url": "https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "End of Line",
+      "url": "https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "K\u00fcnstlerische Freiheit II",
         "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Shaded",
-        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
-      },
-      "artists": [
-        {
-          "name": "biskuwi",
-          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
-        }
-      ],
-      "duration_ms": 290731,
-      "name": "Shaded",
-      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 358144,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Shaded",
+        "url": "https://open.spotify.com/album/32D1Ze3FehOmqkN7HYbWfp"
+      },
+      "artists": [
+        {
+          "name": "biskuwi",
+          "url": "https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT"
+        }
+      ],
+      "duration_ms": 290731,
+      "name": "Shaded",
+      "url": "https://open.spotify.com/track/2hVx5n2Lb2DFkJyrE6Syu1"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
-      },
-      "artists": [
-        {
-          "name": "Horisone",
-          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
-        }
-      ],
-      "duration_ms": 435238,
-      "name": "Housefly",
-      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Sonderling Berlin 50",
         "url": "https://open.spotify.com/album/08gDkNObzQIlfqT2MJA2pk"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 488048,
       "name": "Klunkerkranich",
       "url": "https://open.spotify.com/track/5yxgv9875TDH0x0WLEia9B"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
+      },
+      "artists": [
+        {
+          "name": "Horisone",
+          "url": "https://open.spotify.com/artist/4QK6kc57qNZNCb8DZ68tOr"
+        }
+      ],
+      "duration_ms": 435238,
+      "name": "Housefly",
+      "url": "https://open.spotify.com/track/1GarEhuWQWBEhS5qnFiHG7"
     },
     {
       "added_at": "2026-06-11 06:56:41",

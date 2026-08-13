@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những giai điệu quê hương quen thuộc đậm đà.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,795 likes - 72 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,796 likes - 72 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 39 | [Về Chưa Con](https://open.spotify.com/track/5Ov5yZidHUGNh3ScEn9nop) | [Bùi Công Nam](https://open.spotify.com/artist/6oqtpFuvCTISMPeGv6P2sj) | [Về Chưa Con](https://open.spotify.com/album/3j8zKAduVpDp4v1oVAfrxZ) | 3:21 |
 | 40 | [Ba Khía Giao Duyên](https://open.spotify.com/track/2qWTWy3lECQbh2YtOn8RQj) | [Đình Văn](https://open.spotify.com/artist/1gmlQgEQyq1beDMA8I4uNJ), [Mai Yen Chi](https://open.spotify.com/artist/6lpRi8Gi9xLSI9YpeMbe6V) | [Ba Khía Giao Duyên](https://open.spotify.com/album/34t52YJOVInSRYRLmDLfCb) | 3:10 |
 | 41 | [Về Thăm Vựa Lúa Miền Tây](https://open.spotify.com/track/2UGPKCkjHO4jnbQRnahUT4) | [Hồng Loan](https://open.spotify.com/artist/05Tm8OwN7IdDg32zO31T7F), [Linh Tý](https://open.spotify.com/artist/0shjQjm3aGMmxJB5n3TQHb) | [Về Thăm Vựa Lúa Miền Tây](https://open.spotify.com/album/2YMY9SW5vCoIwqb8PmfdPA) | 5:46 |
-| 42 | [Hương Sắc Miền Nam](https://open.spotify.com/track/7BsTXxRkOXPqy6cnwKgJmn) | [Ngọc Thái](https://open.spotify.com/artist/28ohuhaipwHIRHIPIeCWg2), [Thúy Hằng](https://open.spotify.com/artist/77wD1C0j2j85Uk9g0cbDxy) | [Hương Sắc Miền Nam](https://open.spotify.com/album/4Wm5iJpHCNyZNKYeVQVQhV) | 4:02 |
+| 42 | [Hương Sắc Miền Nam](https://open.spotify.com/track/7BsTXxRkOXPqy6cnwKgJmn) | [Ngọc Thái](https://open.spotify.com/artist/3Pna7WuBxardcSd9nQLpjB), [Thúy Hằng](https://open.spotify.com/artist/77wD1C0j2j85Uk9g0cbDxy) | [Hương Sắc Miền Nam](https://open.spotify.com/album/4Wm5iJpHCNyZNKYeVQVQhV) | 4:02 |
 | 43 | [Sông Quê](https://open.spotify.com/track/4O6wAhFdvIlRziI0MU0bXQ) | [Kim](https://open.spotify.com/artist/18oNFXinaI1EiGnhYO5BZd), [Huỳnh Thật](https://open.spotify.com/artist/2E7mwvUFOVcLekLQ5pcCtH) | [Sông Quê](https://open.spotify.com/album/0aAmm2AzGxpE0U7g4FrisL) | 6:15 |
 | 44 | [Duyên Quê](https://open.spotify.com/track/2m6riy7oEECCFeJaOak972) | [Hà Vân](https://open.spotify.com/artist/7fd70imdv1SLkPRVFMLo5x) | [Tiếng Hát Hà Vân 3](https://open.spotify.com/album/4Y5L9iYIBHESSO3BgYYCS0) | 4:24 |
 | 45 | [Xin Đừng Trách Đa Đa](https://open.spotify.com/track/59dA5AuLlFUfKlcq2Bh7Yf) | [Trang Hạ](https://open.spotify.com/artist/05PlxNLGMoexJ15xuen24H) | [Xin Đừng Trách Đa Đa](https://open.spotify.com/album/3Etfj8Vz7QhBzHJNzHcEq7) | 5:28 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 71 | [Chờ Em Hát Lý Duyên Tình](https://open.spotify.com/track/2tGnkY0nX4pi4isOvA9on1) | [Hồng Quyên](https://open.spotify.com/artist/0c9NixQCAgTUuDUdz845KU), [Long Hồ](https://open.spotify.com/artist/6gp7sKbUq9NOVRgpuwm9Tu) | [Bông Ô Môi](https://open.spotify.com/album/6awipOL8UJeNEQyvyggGqg) | 5:09 |
 | 72 | [Em Về Miền Tây](https://open.spotify.com/track/1sKAvFRpL9N0qe06Txdk2v) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tình Khúc Bolero](https://open.spotify.com/album/5mc7UjXRoSMV1uAeLz0pnk) | 5:22 |
 
-Snapshot ID: `AAAAAH/oHgEuYPbEoRJCM0BAXClpId7I`
+Snapshot ID: `AAAAAGRuyS3586UQB660p3jjeIEORHih`

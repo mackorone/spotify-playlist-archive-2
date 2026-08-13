@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Peking Duk
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,157 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,132 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 84 | [I Want Ya](https://open.spotify.com/track/46YPT8AJc1OTx8RxD0jJyQ) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz) | [EIGHT](https://open.spotify.com/album/0RPquFmrpgt3KYLpQt1bYt) | 4:23 |
 | 85 | [On Your Mind](https://open.spotify.com/track/7IytoKzQql1GldRX9vgLE1) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR) | [On Your Mind](https://open.spotify.com/album/4MPhN02Pi6NpO9qcDdsGHf) | 3:00 |
 
-Snapshot ID: `AAAAAIMGn17UKlnPWf8RdNbhVe76cEnH`
+Snapshot ID: `AAAAABaxJFzeY97jyvtvkZWBAEOIPX8s`

@@ -1825,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "Dear Friend, Queer Friend",
+        "url": "https://open.spotify.com/album/3qCUk0kqHsXXZies60tO8C"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        },
+        {
+          "name": "Beverly Glenn-Copeland",
+          "url": "https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316826,
+      "name": "Dear Friend, Queer Friend",
+      "url": "https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1"
+    },
+    {
+      "album": {
         "name": "Defunct Baseball Team",
         "url": "https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG"
       },
@@ -5794,7 +5816,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 244083,
       "name": "Les oiseaux",
       "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"

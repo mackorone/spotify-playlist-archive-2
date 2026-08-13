@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,671 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,681 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 43 | [I've Got So Much To Give](https://open.spotify.com/track/1p5jtupWpNUuHB9iUenTrx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 8:17 |
 | 44 | [Dark And Lovely \(You Over There\)](https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [The Ultimate Collection](https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL) | 4:54 |
 | 45 | [Sho' You Right](https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:33 |
-| 46 | [I Love You More Than Anything \(In This World Girl\)](https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:59 |
-| 47 | [Let Me Live My Life Lovin' You Babe](https://open.spotify.com/track/3s3iVUIrJHHiHlRXEw4cxb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 10:20 |
+| 46 | [Let Me Live My Life Lovin' You Babe](https://open.spotify.com/track/3s3iVUIrJHHiHlRXEw4cxb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Just Another Way To Say I Love You](https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U) | 10:20 |
+| 47 | [I Love You More Than Anything \(In This World Girl\)](https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:59 |
 | 48 | [Staying Power](https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 6:10 |
 | 49 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
 | 50 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
 
-Snapshot ID: `ankUgAAAAACH6DwzmnRc5TFGUsBTilnz`
+Snapshot ID: `anpmAAAAAADgjAtRJhVrfB/GWOpZjl6c`

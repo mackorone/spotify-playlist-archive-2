@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,324 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 26 | [Sunbleach](https://open.spotify.com/track/0YSI9sXGcmI67ztBV5UVYh) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Sunbleach](https://open.spotify.com/album/3hmDhEeakbYvMhKlPumg89) | 3:04 |
 | 27 | [Sun Up](https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Sun Up / Hilly Fields](https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc) | 2:36 |
 | 28 | [Bad Timing](https://open.spotify.com/track/2RCATsDsg3vBL3x561PJ1w) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Bad Timing](https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA) | 4:16 |
-| 29 | [LiveFromTheBoonies.](https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [LiveFromTheBoonies.](https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6) | 1:45 |
-| 30 | [Easy](https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Easy](https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa) | 2:38 |
+| 29 | [Easy](https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Easy](https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa) | 2:38 |
+| 30 | [LiveFromTheBoonies.](https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [LiveFromTheBoonies.](https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6) | 1:45 |
 | 31 | [RaGDOLL](https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [RaGDOLL](https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA) | 3:24 |
 | 32 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |
 | 33 | [Billo](https://open.spotify.com/track/2PrWSD6ZQcygasN8Bk7384) | [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Billo](https://open.spotify.com/album/3E93c87HK1qNpthSVaJ2UV) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Adam West](https://open.spotify.com/track/2F5b6igudY64NBG42TCDjR) | [Koyo Sur La Prod](https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [Adam West](https://open.spotify.com/album/0MgV3Mr6t1dCpgHX9REqSY) | 3:45 |
 | 50 | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/track/6TRatGrWsZtghDFaqgT56b) | [K!RA OJI](https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm) | [BADBIHFORTEKOMMIKASA](https://open.spotify.com/album/45n9mUWjqb9XIINadv7w7Z) | 1:56 |
 
-Snapshot ID: `AAAAAFGW8a5UkiN+Fw7F9AipUPKIRmDL`
+Snapshot ID: `AAAAADOB2R/WM3lwRKXI5lsUirh/1Bp1`

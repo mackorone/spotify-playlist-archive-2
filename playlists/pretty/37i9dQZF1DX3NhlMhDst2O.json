@@ -1,12 +1,12 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 173596,
+  "num_followers": 173659,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACH1knktQVAx/nP0ARaMdP2mYzVt",
+  "snapshot_id": "AAAAAHIpZRXAPKH1HnUrL8bMeyHC0Zeb",
   "tracks": [
     {
       "added_at": "2025-01-28 15:41:46",
@@ -59,8 +59,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
     },
     {
       "added_at": "2025-07-29 02:49:20",
@@ -139,8 +139,8 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+      "duration_ms": 248560,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -271,22 +271,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140133,
-      "name": "Nunca Voy a Olvidarte",
-      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 140133,
+      "name": "Nunca Voy a Olvidarte",
+      "url": "https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Salvaje y Tierno",
-        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Total Que M\u00e1s Da",
-      "url": "https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 177853,
       "name": "Supe Perder",
       "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Salvaje y Tierno",
+        "url": "https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Total Que M\u00e1s Da",
+      "url": "https://open.spotify.com/track/11MzWUaZDnx9byUjJQraAy"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 168306,
-      "name": "D\u00e9jenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "\u00daltimas Noticias",
         "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 168306,
+      "name": "D\u00e9jenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 159213,
+      "name": "Qu\u00e9 Tiene la Ni\u00f1a",
+      "url": "https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
         "name": "En Su Punto",
         "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 206386,
       "name": "A Tu Recuerdo",
       "url": "https://open.spotify.com/track/3SZ5Q0KLVIIFKcXIKXb295"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c"
-      },
-      "artists": [
-        {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
-        }
-      ],
-      "duration_ms": 159213,
-      "name": "Qu\u00e9 Tiene la Ni\u00f1a",
-      "url": "https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Diego En Los 70",
-        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 194426,
       "name": "Par De Anillos",
       "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Diego En Los 70",
+        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "15 Exitos, Vol. I",
         "url": "https://open.spotify.com/album/7uZRZ7Y3QgnLe0hrfAHgFr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 190840,
       "name": "Tri\u00e1ngulo",
       "url": "https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Coleccion Suprema Plus- Los Polifaceticos",
-        "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
-      },
-      "artists": [
-        {
-          "name": "Los Polifaceticos",
-          "url": "https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Cuatro Lagrimas",
-      "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "16 \u00c9xitos: Baladas",
         "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 200045,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Coleccion Suprema Plus- Los Polifaceticos",
+        "url": "https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i"
+      },
+      "artists": [
+        {
+          "name": "Los Polifaceticos",
+          "url": "https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Cuatro Lagrimas",
+      "url": "https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Emonciones Sin Limite (Volumen 5)",
-        "url": "https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42"
-      },
-      "artists": [
-        {
-          "name": "Los Fresno",
-          "url": "https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU"
-        }
-      ],
-      "duration_ms": 195800,
-      "name": "Coraz\u00f3n De Roca",
-      "url": "https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "\u00c9xitos De \u00c9poca (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/1G7SdOH7XOFgNnzB9bgSAw"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 168960,
       "name": "Eres Mi Mundo",
       "url": "https://open.spotify.com/track/5hkA0x4asdvj5V3cR8V1Si"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Emonciones Sin Limite (Volumen 5)",
+        "url": "https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42"
+      },
+      "artists": [
+        {
+          "name": "Los Fresno",
+          "url": "https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU"
+        }
+      ],
+      "duration_ms": 195800,
+      "name": "Coraz\u00f3n De Roca",
+      "url": "https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Como No Voy a Quererte",
-        "url": "https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb"
-      },
-      "artists": [
-        {
-          "name": "Los Prados",
-          "url": "https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Como No Voy a Quererte",
-      "url": "https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Mano A Mano Volumen 2",
         "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 169440,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Como No Voy a Quererte",
+        "url": "https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb"
+      },
+      "artists": [
+        {
+          "name": "Los Prados",
+          "url": "https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Como No Voy a Quererte",
+      "url": "https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "D\u00e9jenme llorar",
-      "url": "https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Mano A Mano Volumen 1",
         "url": "https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 190773,
       "name": "Por Que Nos Dijimos Adios",
       "url": "https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "D\u00e9jenme llorar",
+      "url": "https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 168320,
-      "name": "Tu inolvidable sonrisa",
-      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Antolog\u00eda...Los Baby's",
         "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 163906,
       "name": "Mi loca pasi\u00f3n",
       "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Tu inolvidable sonrisa",
+      "url": "https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ"
     },
     {
       "added_at": "2025-01-28 15:41:46",

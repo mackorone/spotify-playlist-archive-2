@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship fifa
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,367 likes - 133 songs - 8 hr 27 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 372,354 likes - 133 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Left It In The River](https://open.spotify.com/track/7pE8ZqTCkioWUkdjh7W27u) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:58 |
-| 2 | [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 |
+| 1 | [demons](https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [demons](https://open.spotify.com/album/6KAkZgA0rnazv1gQKLcOyW) | 3:10 |
+| 2 | [Left It In The River](https://open.spotify.com/track/7pE8ZqTCkioWUkdjh7W27u) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:58 |
 | 3 | [Heaven On My Mind](https://open.spotify.com/track/5b7IxnWT2Zy4XtGFenLqGs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Heaven On My Mind](https://open.spotify.com/album/4wWhd8j1TtcaXmdD2EgkFm) | 3:01 |
 | 4 | [Breathe On It](https://open.spotify.com/track/3sd2kvWWh7T2M6N64LOGSV) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/38CH2161JgsV17KaROhaDe) | 4:00 |
 | 5 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
 | 6 | [God Story](https://open.spotify.com/track/18ofIiWpkc7UvlJvoaiOh5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4) | 3:07 |
-| 7 | [Ain't No Way](https://open.spotify.com/track/0BvMGPPosePCCUZuTeJ53T) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Ain't No Way](https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd) | 2:48 |
-| 8 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 |
+| 7 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 |
+| 8 | [Ain't No Way](https://open.spotify.com/track/0BvMGPPosePCCUZuTeJ53T) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Ain't No Way](https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd) | 2:48 |
 | 9 | [No Survivors](https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo) | 2:20 |
 | 10 | [I've Got A Fire](https://open.spotify.com/track/6yj2intfyAz3JhxaZvEjim) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [I've Got A Fire](https://open.spotify.com/album/2oGldW4w8iBH7mRAvNIWwk) | 3:17 |
 | 11 | [Lift Me Up](https://open.spotify.com/track/6QBESGYjXGRl8Kml65tWNQ) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 3:21 |
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 14 | [What A Miracle Feels Like](https://open.spotify.com/track/1oEl1JTGnCzu9pFtXtQhCK) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 6:19 |
 | 15 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 |
 | 16 | [make heaven crowded](https://open.spotify.com/track/7irVYcFSqep5NLZpDbaTdF) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [make heaven crowded](https://open.spotify.com/album/5KPA7IRga1XPU0xiuUOxns) | 2:59 |
-| 17 | [Lean In](https://open.spotify.com/track/6FEoJFSGPLBw03T0SJ7sF0) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Lean In](https://open.spotify.com/album/1FMrGozlbBfIZwUtf8pqQW) | 2:46 |
-| 18 | [Suddenly](https://open.spotify.com/track/03g8sbVKjDg2o4GBVfI3xc) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Suddenly](https://open.spotify.com/album/1qeOCgKRH1TzpFwFf9ZXMX) | 2:57 |
-| 19 | [Jesus All Along](https://open.spotify.com/track/6ygb4K6OsLNgLcTea6yeql) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Jesus All Along](https://open.spotify.com/album/50KuvmjM6p8f7KpCZaKIQt) | 3:37 |
-| 20 | [Full 180](https://open.spotify.com/track/0E3wOAQr8WfP3zSbTjuKpG) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Full 180](https://open.spotify.com/album/1sU8oLWvSLNfkxCfBYfiRh) | 2:55 |
-| 21 | [Lord It Feels Good \(with gio.\)](https://open.spotify.com/track/361XvZ74ZV7iS1L7M12Ehs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [Heaven On My Mind \(Guest List Edition\)](https://open.spotify.com/album/0rRNnqI6YHTdLW4htwJz6U) | 2:51 |
+| 17 | [Lord It Feels Good \(with gio.\)](https://open.spotify.com/track/361XvZ74ZV7iS1L7M12Ehs) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [Heaven On My Mind \(Guest List Edition\)](https://open.spotify.com/album/0rRNnqI6YHTdLW4htwJz6U) | 2:51 |
+| 18 | [Lean In](https://open.spotify.com/track/6FEoJFSGPLBw03T0SJ7sF0) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Lean In](https://open.spotify.com/album/1FMrGozlbBfIZwUtf8pqQW) | 2:46 |
+| 19 | [Suddenly](https://open.spotify.com/track/03g8sbVKjDg2o4GBVfI3xc) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Suddenly](https://open.spotify.com/album/1qeOCgKRH1TzpFwFf9ZXMX) | 2:57 |
+| 20 | [Jesus All Along](https://open.spotify.com/track/6ygb4K6OsLNgLcTea6yeql) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Jesus All Along](https://open.spotify.com/album/50KuvmjM6p8f7KpCZaKIQt) | 3:37 |
+| 21 | [Full 180](https://open.spotify.com/track/0E3wOAQr8WfP3zSbTjuKpG) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Full 180](https://open.spotify.com/album/1sU8oLWvSLNfkxCfBYfiRh) | 2:55 |
 | 22 | [Desperate \(with Lauren Daigle\)](https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Desperate](https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87) | 3:30 |
 | 23 | [Do It All Alone](https://open.spotify.com/track/4r52cNLmKqWVMMyaHYXikF) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Do It All Alone](https://open.spotify.com/album/3uvW02kB4reiUy84wBmqpK) | 2:52 |
 | 24 | [It Really Is Amazing Grace](https://open.spotify.com/track/1HO3ZnqGmyShPCOZSfH05b) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [It Really Is Amazing Grace](https://open.spotify.com/album/41fqcLmuhTElVN511yJC4Z) | 4:14 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 132 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
 | 133 | [Come Into The Light](https://open.spotify.com/track/7rIKOEctlLMxtRgGheUeXb) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Come Into The Light](https://open.spotify.com/album/1tQdKADUZhcP6yl3o0J5TH) | 4:30 |
 
-Snapshot ID: `AAAndgBBBN30h6MTnLPG1D3BmZaGdeOQ`
+Snapshot ID: `AAAneY/WKzAJe/QZMHqMgsDe7M7ZjHwJ`

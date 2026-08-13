@@ -1,12 +1,12 @@
 {
   "description": "Let these country songs get your tailgate going!",
-  "num_followers": 196706,
+  "num_followers": 196719,
   "original_name": "Country Tailgate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ9mLNzf0pmvnnBcjIqfpFKTT7lS",
+  "snapshot_id": "AAAAAGG2dmlw9oBKCmvZ+lNWurpi0rIg",
   "tracks": [
     {
       "added_at": "2026-06-02 19:09:31",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2026-06-02 19:09:31",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+      "duration_ms": 209733,
+      "name": "Beer Can\u2019t Fix",
+      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
     },
     {
       "added_at": "2026-06-02 19:09:31",

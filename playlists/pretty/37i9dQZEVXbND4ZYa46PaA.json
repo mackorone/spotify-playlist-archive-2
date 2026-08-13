@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Belgium.",
-  "num_followers": 21790,
+  "num_followers": 21794,
   "original_name": "Top Songs - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mg6JGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mg/YQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-08-07 15:54:38",
@@ -796,7 +796,7 @@
       "added_at": "2026-08-07 15:54:38",
       "album": {
         "name": "Makina Time",
-        "url": "https://open.spotify.com/album/4E47K2cvE4bHOGqE0FLDN5"
+        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
       },
       "artists": [
         {
@@ -810,11 +810,19 @@
         {
           "name": "Dj Konik",
           "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         }
       ],
       "duration_ms": 130090,
       "name": "Makina Time",
-      "url": "https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX"
+      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
     },
     {
       "added_at": "2026-08-07 15:54:38",

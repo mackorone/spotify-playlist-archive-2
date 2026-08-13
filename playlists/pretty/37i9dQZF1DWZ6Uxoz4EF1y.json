@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 244565,
+  "num_followers": 244556,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPnhjYoHzlBF9Up0XUMyS3kcJZDJ",
+  "snapshot_id": "AAAAAMzxh4EGwoFYjRKycXY8YXVzZ+Yo",
   "tracks": [
     {
       "added_at": "2026-04-04 05:56:44",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Triduo",
+        "url": "https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv"
+      },
+      "artists": [
+        {
+          "name": "Pablo Martinez",
+          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
+        }
+      ],
+      "duration_ms": 159860,
+      "name": "Santa Cruz",
+      "url": "https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Su Sangre",
         "url": "https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 349901,
       "name": "Su Sangre - Radio Edit",
       "url": "https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Triduo",
-        "url": "https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv"
-      },
-      "artists": [
-        {
-          "name": "Pablo Martinez",
-          "url": "https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz"
-        }
-      ],
-      "duration_ms": 159860,
-      "name": "Santa Cruz",
-      "url": "https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "People - En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 360229,
-      "name": "Por Su Gracia",
-      "url": "https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 447491,
       "name": "Lo Unico Que Quiero",
       "url": "https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "People - En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 360229,
+      "name": "Por Su Gracia",
+      "url": "https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Mirar\u00e9 al Rey",
-        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
-      },
-      "artists": [
-        {
-          "name": "Adoraci\u00f3n La IBI",
-          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
-        }
-      ],
-      "duration_ms": 287970,
-      "name": "Solo en Cristo",
-      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Rojo 10 A\u00f1os",
         "url": "https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 475026,
       "name": "Hasta Que Ya No Respire M\u00e1s",
       "url": "https://open.spotify.com/track/5sWDrLTpvTDZpg8xb0XlWk"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Mirar\u00e9 al Rey",
+        "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
+      },
+      "artists": [
+        {
+          "name": "Adoraci\u00f3n La IBI",
+          "url": "https://open.spotify.com/artist/6qValgleME8pv861DLzupQ"
+        }
+      ],
+      "duration_ms": 287970,
+      "name": "Solo en Cristo",
+      "url": "https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd"
     },
     {
       "added_at": "2026-04-04 05:56:44",

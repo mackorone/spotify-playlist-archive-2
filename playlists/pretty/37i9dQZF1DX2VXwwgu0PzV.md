@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Nolly
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,101 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,108 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
 | 100 | [Oyel](https://open.spotify.com/track/4b9vFe5adHevEnOUo0F91O) | [Bodilezz](https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb), [Miklez](https://open.spotify.com/artist/0IAZuHKHTymDWiemfWMPwW) | [Oyel](https://open.spotify.com/album/46iEosVS7TwsIywW7JWS8E) | 3:00 |
 
-Snapshot ID: `AAAAAMTFp/W8ZsJF4InSyEr1YiD4JvFo`
+Snapshot ID: `AAAAAJO6IXeh4oXFinz/CKxVxVn7pm5b`

@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaOWYud3Cg4V.md) - [plain]
 | 43 | [Booted](https://open.spotify.com/track/78GAfIYfFDN22ezrrRWiAE) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [A Complete Introduction To Chess \(International Version\)](https://open.spotify.com/album/7hPlKsSeUcWkEIeFgEaPdH) | 3:02 |
 | 44 | [I Want You](https://open.spotify.com/track/3XCacqicxcELH6GQBg02vR) | [The Cadets](https://open.spotify.com/artist/6kGIQDvdaEyZBA3aUyRHIO) | [Keb Darge & Paul Weller present: Real R'n'B and Soul \(Lost and Found 2\)](https://open.spotify.com/album/6nW8cuCNiU2ZwpHe0u6Wuv) | 2:47 |
 
-Snapshot ID: `AAAAAIq724Ke521H4JP4fGrlSViGrrrB`
+Snapshot ID: `AAAAAE7w1Rr0N25TOC1D5uYFBhF+UV5B`

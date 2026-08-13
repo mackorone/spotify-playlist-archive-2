@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,017 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,043 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 25 | [All My Life](https://open.spotify.com/track/76AYXcnSdgIK4l3cEzuXFw) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [All My Life](https://open.spotify.com/album/3k9rPnqzQ5NGvu8CtiA0Sz) | 3:07 |
 | 26 | [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 |
 | 27 | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/track/1ysnEi1bFBkn0aCQFPh8gY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Hate \(feat\. Thomas Day\)](https://open.spotify.com/album/0tLM5uck8tjqqvgagX4I1p) | 3:12 |
-| 28 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
-| 29 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
+| 28 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
+| 29 | [Rocky](https://open.spotify.com/track/3vtnL1iTgAL0ZBxgVkKFrs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Rocky](https://open.spotify.com/album/4OpT4b3qqq8pxu5urbFCPB) | 2:23 |
 | 30 | [My Girl](https://open.spotify.com/track/3plqhYuTPtqtdYNkW419pp) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [My Girl](https://open.spotify.com/album/7twy0Kqh0tnxrZKMUORn09) | 2:58 |
-| 31 | [play \(feat\. kamasi washington\)](https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 2:10 |
-| 32 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
+| 31 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 |
+| 32 | [play \(feat\. kamasi washington\)](https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 2:10 |
 | 33 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 |
 | 34 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
 | 35 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 43 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 |
 | 44 | [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 |
 | 45 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
-| 46 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 |
-| 47 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
+| 46 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
+| 47 | [Give Us Some Time](https://open.spotify.com/track/1rVAuA1iGNTOUOLbLg0HtS) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [AMANZI](https://open.spotify.com/album/1KCg6ZTO1YMCRqjJecxXPS) | 3:12 |
 | 48 | [Figures On The Wall](https://open.spotify.com/track/5gtVkK1PFQ7kMDfddHxMuH) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figures On The Wall](https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi) | 3:02 |
 | 49 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 |
 | 50 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 59 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 |
 | 60 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 |
 
-Snapshot ID: `AAAAAG7d4DDhRSGIUnb/ls2VoQ91Jkke`
+Snapshot ID: `AAAAAJyeprE8f8Phis3twk+5tiVo95bX`

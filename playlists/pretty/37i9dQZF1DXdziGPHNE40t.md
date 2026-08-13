@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > start your day right ☕️ wake up with some warm and slow Jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,649 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,637 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 75 | [Time Forgotten](https://open.spotify.com/track/6aAVup2sW3A7o7UpPmyjyr) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Time Forgotten](https://open.spotify.com/album/5wCsFVmtBnTKWGUHoOnVUd) | 3:05 |
 | 76 | [Mirabelle](https://open.spotify.com/track/5ZZUajubKFkpNW9eI8pedD) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Mirabelle](https://open.spotify.com/album/6svrhdbZqSWr6lUuoF16nV) | 3:42 |
 
-Snapshot ID: `AAAAAIqcmXAgKTggjW2scnzn2+hIpudP`
+Snapshot ID: `AAAAABYbfWDF2Idcxk7rq4Ky2oXNFEOL`

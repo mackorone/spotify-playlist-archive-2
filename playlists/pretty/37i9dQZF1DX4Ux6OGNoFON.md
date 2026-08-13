@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Juan Pablo Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,502 likes - 57 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,529 likes - 57 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 56 | [Despertar](https://open.spotify.com/track/7wf3C5qwgiBiXY3YCaKDgV) | [Luis Alcivar](https://open.spotify.com/artist/69SJJJMUR2h236UcoC6fyF), [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Despertar](https://open.spotify.com/album/6TUe35D9POeGY30j0gv6Uo) | 4:10 |
 | 57 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 
-Snapshot ID: `AAAAAO5KkFI5KTwcMKxB/2f8zKOb8oTq`
+Snapshot ID: `AAAAACqePNMI/WtrDmHxx4NMnESxT6i6`

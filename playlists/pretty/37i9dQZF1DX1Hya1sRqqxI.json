@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 806964,
+  "num_followers": 807140,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH16u4iWjqdTArTp5qQ85Nv5JFpH",
+  "snapshot_id": "AAAAAFxwMsz81EmPTS4WIjWHkc0eFdLE",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Sticky Fingers (Remastered)",
-        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Brown Sugar - Remastered 2009",
-      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "30 Years Of Funk: 1969-1999 The Anthology",
         "url": "https://open.spotify.com/album/0ib2UtSmLGssyqyoY6X8cm"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 202733,
       "name": "Some Kind Of Wonderful - Remastered 1999",
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Sticky Fingers (Remastered)",
+        "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Brown Sugar - Remastered 2009",
+      "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
-      },
-      "artists": [
-        {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "Shake Your Groove Thing",
-      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Rose Garden",
@@ -1543,6 +1527,22 @@
       "duration_ms": 175866,
       "name": "Rose Garden",
       "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+      },
+      "artists": [
+        {
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+        }
+      ],
+      "duration_ms": 346133,
+      "name": "Shake Your Groove Thing",
+      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "It Only Takes a Minute: A Lifetime with Tavares",
-        "url": "https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh"
-      },
-      "artists": [
-        {
-          "name": "Tavares",
-          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
-        }
-      ],
-      "duration_ms": 389760,
-      "name": "Heaven Must Be Missing An Angel - Pt. 1",
-      "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "A Taste Of Honey",
         "url": "https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo"
       },
@@ -2061,20 +2045,20 @@
       "url": "https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
+      "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Vehicle",
-        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+        "name": "It Only Takes a Minute: A Lifetime with Tavares",
+        "url": "https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh"
       },
       "artists": [
         {
-          "name": "The Ides Of March",
-          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+          "name": "Tavares",
+          "url": "https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Vehicle",
-      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
+      "duration_ms": 389760,
+      "name": "Heaven Must Be Missing An Angel - Pt. 1",
+      "url": "https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2091,6 +2075,22 @@
       "duration_ms": 209906,
       "name": "You See The Trouble With Me",
       "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Vehicle",
+        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+      },
+      "artists": [
+        {
+          "name": "The Ides Of March",
+          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Vehicle",
+      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Ship Ahoy (Expanded Edition)",
         "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 439866,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Venus And Mars (Archive Collection)",
-        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Listen To What The Man Said - 2014 Remaster",
-      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 127493,
       "name": "Travelin' Band",
       "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Venus And Mars (Archive Collection)",
+        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Listen To What The Man Said - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
     }
   ],
   "unique_name": "70s Party",

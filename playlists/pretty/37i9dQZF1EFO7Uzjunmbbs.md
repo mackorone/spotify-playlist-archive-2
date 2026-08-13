@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 51 | [Wonder](https://open.spotify.com/track/0787vxvgRFKjMj5blL4qS3) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Before We Begin](https://open.spotify.com/album/2spNE5MhZn92sIJvBszJ4B) | 2:42 |
 | 52 | [The Hill](https://open.spotify.com/track/4xr1UV4rbOwXuAAlS0vdpQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 2:45 |
 | 53 | [Still Alive](https://open.spotify.com/track/48FNLOPGDxC0KM51hG5yU9) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:05 |
-| 54 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
-| 55 | [Drink With You](https://open.spotify.com/track/4RjlDrPdAgvvPAgsKxjlln) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 2:51 |
+| 54 | [Drink With You](https://open.spotify.com/track/4RjlDrPdAgvvPAgsKxjlln) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 2:51 |
+| 55 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
 | 56 | [Good Time To Be Alive](https://open.spotify.com/track/6ubbUDxSrnA8wKQg5rOdcM) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Heart Break](https://open.spotify.com/album/3kMcbLaMtiRcQdMSvLyr1h) | 3:11 |
 | 57 | [Same Heart](https://open.spotify.com/track/4m21Y1hcRYAmuYYUuohbWM) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:36 |
 | 58 | [Be One](https://open.spotify.com/track/1UMKRcqs7kFf6wDVo0HaSI) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Be One \(Deluxe Version\)](https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt) | 3:11 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 123 | [Slow Down](https://open.spotify.com/track/3CqiTpYR4cRPr0zfZhjJQb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:50 |
 | 124 | [Let Me In \- Remix](https://open.spotify.com/track/0pWkxyEMK3I9r8Jc8dqebk) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Let Me In \(Remix\)](https://open.spotify.com/album/3klg5Tg0xDUywQ65oYEtTK) | 2:55 |
 | 125 | [Homewrecker](https://open.spotify.com/track/6k4h7BosIRky5rMH5bv0nA) | [Rachael Fahim](https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT) | [Iconic](https://open.spotify.com/album/1IZ1XLQY0PfS7ZaxC1XSsT) | 2:55 |
-| 126 | [Strangers](https://open.spotify.com/track/0R6ns8kYNuiQPCTWs0mmva) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Accidentally On Purpose](https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti) | 3:29 |
-| 127 | [tastes like](https://open.spotify.com/track/43djL0DI9EEJOMYEbtekgS) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:05 |
+| 126 | [tastes like](https://open.spotify.com/track/43djL0DI9EEJOMYEbtekgS) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 3:05 |
+| 127 | [Strangers](https://open.spotify.com/track/0R6ns8kYNuiQPCTWs0mmva) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Accidentally On Purpose](https://open.spotify.com/album/5Oa2ntjwl4Ao49v9ArJCti) | 3:29 |
 | 128 | [Broken Boy](https://open.spotify.com/track/0dx9ShyVbKmWuLUJk0bktG) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 3:11 |
 | 129 | [All In](https://open.spotify.com/track/0puB7X6IECpzGZeTGM8VAq) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:14 |
 | 130 | [The Day That I'm Over You](https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [The Day That I'm Over You](https://open.spotify.com/album/1sfqqJAPXEg6jMkpavqHDD) | 3:18 |
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 215 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 216 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcZU/AAAAAA7pk1Huywpv6/pMgVfpfs0`
+Snapshot ID: `AcZaYAAAAABqFxNQrOsx7w9TsPlja6XN`

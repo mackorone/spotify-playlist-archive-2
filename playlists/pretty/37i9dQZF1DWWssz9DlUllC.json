@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Zhus Djo",
-  "num_followers": 95219,
+  "num_followers": 95243,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKc2mcOibKt2HJhibiUh218gDV2B",
+  "snapshot_id": "AAAAAOqtEaJCAsPxXB+FfsvcPzPYnh3b",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:25",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 172160,
       "name": "Aura Salad",
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -683,18 +683,34 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "E Never Choke",
-        "url": "https://open.spotify.com/album/1NhNVy89Zv2YhFcvCTX3Oe"
+        "name": "HOW FAR (Remix)",
+        "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
         }
       ],
-      "duration_ms": 135887,
-      "name": "E Never Choke",
-      "url": "https://open.spotify.com/track/1rzmTqzQpe0gTh1w72pT0x"
+      "duration_ms": 200617,
+      "name": "HOW FAR - Remix",
+      "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -731,34 +747,18 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "HOW FAR (Remix)",
-        "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
+        "name": "E Never Choke",
+        "url": "https://open.spotify.com/album/1NhNVy89Zv2YhFcvCTX3Oe"
       },
       "artists": [
         {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "CIZA",
-          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Ayjay bobo",
-          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
         }
       ],
-      "duration_ms": 200617,
-      "name": "HOW FAR - Remix",
-      "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
+      "duration_ms": 135887,
+      "name": "E Never Choke",
+      "url": "https://open.spotify.com/track/1rzmTqzQpe0gTh1w72pT0x"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "Children of Africa",
+        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 119954,
+      "name": "HAPPY SONG",
+      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "EVERLASTING",
         "url": "https://open.spotify.com/album/5Njh7ar58d0Ola8L7Shp0q"
       },
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "Children of Africa",
-        "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 119954,
-      "name": "HAPPY SONG",
-      "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -935,38 +951,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "Na So",
-        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 214441,
-      "name": "Na So",
-      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "SWAGGA",
-        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
-      },
-      "artists": [
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "SWAGGA",
-      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "Dangbana Riddim",
         "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 160587,
       "name": "Dangbana Riddim",
       "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
+      },
+      "artists": [
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
     },
     {
       "added_at": "2026-08-07 00:01:25",

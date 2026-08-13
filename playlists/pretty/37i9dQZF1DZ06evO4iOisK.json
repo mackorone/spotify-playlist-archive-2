@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 28436,
+  "num_followers": 28441,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACmmkEs4U+81Ldpwf2U8Jde",
+  "snapshot_id": "anpmAAAAAAAqYJx23pHA8KHC1kfXisua",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy",
-        "url": "https://open.spotify.com/album/0GVbdxlqXpgq9fLFZ6CRIm"
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 205681,
-      "name": "Buddy",
-      "url": "https://open.spotify.com/track/4REC1ugNoqID6npg121UVv"
+      "duration_ms": 238640,
+      "name": "JUST ONE LIFE",
+      "url": "https://open.spotify.com/track/2vCumCEw0EKMj88IZ659cP"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+        "name": "Buddy",
+        "url": "https://open.spotify.com/album/0GVbdxlqXpgq9fLFZ6CRIm"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 238640,
-      "name": "JUST ONE LIFE",
-      "url": "https://open.spotify.com/track/2vCumCEw0EKMj88IZ659cP"
+      "duration_ms": 205681,
+      "name": "Buddy",
+      "url": "https://open.spotify.com/track/4REC1ugNoqID6npg121UVv"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 223253,
-      "name": "\u96e8\u4e0a\u304c\u308a\u306b\u54b2\u304f\u82b1",
-      "url": "https://open.spotify.com/track/2riW4PnBZZgy4lNvq5UV76"
+      "duration_ms": 189360,
+      "name": "WENDY \uff5eIt's You\uff5e",
+      "url": "https://open.spotify.com/track/5oxpHI7qENIVkUhCDxak9j"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 189360,
-      "name": "WENDY \uff5eIt's You\uff5e",
-      "url": "https://open.spotify.com/track/5oxpHI7qENIVkUhCDxak9j"
+      "duration_ms": 223253,
+      "name": "\u96e8\u4e0a\u304c\u308a\u306b\u54b2\u304f\u82b1",
+      "url": "https://open.spotify.com/track/2riW4PnBZZgy4lNvq5UV76"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILLION",
-        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 298813,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 179973,
       "name": "MOVIN' ON",
       "url": "https://open.spotify.com/track/0PQJTbwPTgwqbCrREYxZnQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MILLION",
+        "url": "https://open.spotify.com/album/1gijAmde8RoTtzFIy4pa58"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 298813,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/4025tnZPnd3kpYuGytu3Mo"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RE-BIRTH",
-        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Bring the Beat Back",
-      "url": "https://open.spotify.com/track/5Sw1HLZCZ1iIBX4ekr45YH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 232426,
       "name": "Stand by me",
       "url": "https://open.spotify.com/track/1qXYlZxHMMoLyIG7nTHatU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RE-BIRTH",
+        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Bring the Beat Back",
+      "url": "https://open.spotify.com/track/5Sw1HLZCZ1iIBX4ekr45YH"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RE-BIRTH",
-        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 169853,
-      "name": "FEEL SO GOOD",
-      "url": "https://open.spotify.com/track/56J7CY5CjFe0LE2CF3noA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 210746,
       "name": "ROCKIN' OUT",
       "url": "https://open.spotify.com/track/2gIJD9tlR11NQhgrhQPC30"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RE-BIRTH",
+        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 169853,
+      "name": "FEEL SO GOOD",
+      "url": "https://open.spotify.com/track/56J7CY5CjFe0LE2CF3noA4"
     },
     {
       "added_at": null,

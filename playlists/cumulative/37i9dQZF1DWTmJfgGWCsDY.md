@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-187 songs - 12 hr 12 min
+188 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Dakika Mbili](https://open.spotify.com/track/6iO8u0nErVcarnZrPHoYji) | [Tiffah Devoice](https://open.spotify.com/artist/4llRmRImGPBPjayxu2mEAD) | [Dakika Mbili](https://open.spotify.com/album/3u6gf9HOgyaYT72o3e3QQw) | 3:18 | 2026-04-16 |  |
 | [Dar Es Salaam](https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dar Es Salaam](https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ) | 2:33 | 2024-11-01 |  |
 | [Demu Wangu](https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Demu Wangu \(Remix\)](https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ) | 4:07 | 2023-04-07 | 2026-03-28 |
+| [Dj Travella Filimbi](https://open.spotify.com/track/7fdKNlSFk54tp7fDSnLVqF) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Dj Travella Filimbi](https://open.spotify.com/album/2Jr5ecyEHpYcqfDrZpToUT) | 2:21 | 2026-08-06 |  |
 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 | 2024-10-04 |  |
 | [Ex Arudiwi](https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh) | [AbduKiba](https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Ex Arudiwi](https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m) | 3:19 | 2025-08-21 |  |
 | [EX WA NANI](https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [A DAY TO REMEMBER](https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ) | 4:04 | 2025-05-22 |  |
@@ -145,7 +146,7 @@
 | [Shemeji](https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Shemeji](https://open.spotify.com/album/47v6siumRINvjj2CzonVxx) | 3:15 | 2024-10-04 | 2025-11-20 |
 | [Shemeji](https://open.spotify.com/track/7iipqXuExfDhxf9DCxASFx) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Shemeji](https://open.spotify.com/album/7dJUtISG7x3p4L7fdisu87) | 4:49 | 2022-09-01 | 2023-10-09 |
 | [Shemeji Yako](https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Shemeji Yako](https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs) | 4:16 | 2023-12-15 |  |
-| [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 | 2023-09-01 |  |
+| [Shobo](https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Shobo](https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ) | 3:06 | 2023-09-01 | 2026-08-13 |
 | [Si Unajua? \- Remix](https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Si Unajua? Remix](https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW) | 3:18 | 2025-11-06 |  |
 | [Sijafunzwa \(feat\. Mdogo Sajent\)](https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mdogo sajent](https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 2:32 | 2025-08-21 |  |
 | [Sikia](https://open.spotify.com/track/0DXvVx1D5XgvXKA2BQxSin) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [KIDOCHU MC](https://open.spotify.com/artist/6rNwm38gcVvt435d6GH0Yu) | [Sikia](https://open.spotify.com/album/4NfOHAHcx4K8PFGlsK4PjJ) | 2:56 | 2024-05-02 | 2024-06-20 |

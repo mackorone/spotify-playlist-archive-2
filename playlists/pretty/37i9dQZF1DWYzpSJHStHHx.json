@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484349,
+  "num_followers": 484355,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBC25PNA0n/GsHuEFdf50bwMEWA",
+  "snapshot_id": "AAAAAG82xVCuP4rijkiCDTyvtfaxXsU4",
   "tracks": [
     {
       "added_at": "2026-04-09 14:00:34",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 231950,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Mushroom",
         "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 205974,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 231950,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Reef Prince / Better",
         "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 187527,
       "name": "Reef Prince",
       "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "MOVING ON",
-        "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
       },
       "artists": [
         {
-          "name": "Velvet Trip",
-          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
         }
       ],
-      "duration_ms": 248000,
-      "name": "MOVING ON",
-      "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+      "duration_ms": 215000,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+        "name": "MOVING ON",
+        "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
       "artists": [
         {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+          "name": "Velvet Trip",
+          "url": "https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+      "duration_ms": 248000,
+      "name": "MOVING ON",
+      "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl"
+      },
+      "artists": [
+        {
+          "name": "Bones and Jones",
+          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
+        }
+      ],
+      "duration_ms": 275962,
+      "name": "Peace In Me",
+      "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
         "name": "The Beach",
         "url": "https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Malibu Sunset b/w Hang On",
-        "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
       },
       "artists": [
         {
-          "name": "The Travelers",
-          "url": "https://open.spotify.com/artist/6vayW66astvaRgv4llGBff"
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
         }
       ],
-      "duration_ms": 128194,
-      "name": "Malibu Sunset",
-      "url": "https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi"
+      "duration_ms": 187345,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1191,22 +1207,6 @@
       "duration_ms": 165589,
       "name": "Postcode Lover",
       "url": "https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
-        "name": "Stargazer",
-        "url": "https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID"
-      },
-      "artists": [
-        {
-          "name": "Yellow The Sun",
-          "url": "https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag"
-        }
-      ],
-      "duration_ms": 182186,
-      "name": "Stargazer",
-      "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

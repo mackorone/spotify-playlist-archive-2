@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115603,
+  "num_followers": 115611,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI3JbIvY/Fy2aoeH8yhmapMiTmsa",
+  "snapshot_id": "AAAAAF6yVKNhKqCPI++tNwK966Ndwx1x",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:50",
@@ -319,22 +319,18 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Cantando o Amor Vol. 2",
-        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
+        "name": "Somos Iguais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Rebeca Nemer",
-          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
+          "name": "Thiago Grulha",
+          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
         }
       ],
-      "duration_ms": 232710,
-      "name": "Isso \u00e9 Amor",
-      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
+      "duration_ms": 155106,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -355,18 +351,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Somos Iguais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
+        "name": "Cantando o Amor Vol. 2",
+        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
       "artists": [
         {
-          "name": "Thiago Grulha",
-          "url": "https://open.spotify.com/artist/41gACtL0EdNfVnvT71cLRu"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
         }
       ],
-      "duration_ms": 155106,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/7iKNtzU0VMgqzJRX742e0j"
+      "duration_ms": 232710,
+      "name": "Isso \u00e9 Amor",
+      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -527,26 +527,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
-      },
-      "artists": [
-        {
-          "name": "Cassiane e Jairinho",
-          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 223886,
-      "name": "Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "Encontrar Voc\u00ea",
         "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 235373,
       "name": "Encontrar Voc\u00ea",
       "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
+      },
+      "artists": [
+        {
+          "name": "Cassiane e Jairinho",
+          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 223886,
+      "name": "Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
     },
     {
       "added_at": "2026-06-12 03:01:50",

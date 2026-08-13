@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-238 songs - 7 hr 15 min
+239 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Amar & Gayathri \- Background Score](https://open.spotify.com/track/6YtHohwPmsWkr3hSCzX7uA) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:22 | 2022-07-08 | 2022-11-08 |
 | [Amar Theme \- Background Score](https://open.spotify.com/track/2zVOFcdPAurQMbP1D6czwo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 2:28 | 2022-07-08 |  |
 | [Ammaavin Thaalaattu](https://open.spotify.com/track/34enYtEDqko0v74UlfRhcg) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 4:25 | 2023-08-18 | 2023-09-09 |
+| [Anbil Avan \- Title Theme \- From "Anbil Avan"](https://open.spotify.com/track/42GFLyQPfp5DJg0a4r3E9P) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F), [R.Kaarthikeyan](https://open.spotify.com/artist/67HdzSmunwuHtQeOYt3IsD) | [Anbil Avan \- Title Theme \(From "Anbil Avan"\)](https://open.spotify.com/album/2CqP4iRmWrAtULffdze0sz) | 1:17 | 2026-08-12 |  |
 | [Animal Instinct](https://open.spotify.com/track/5Lf5SOcqZFePjtjK1QbLYY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 0:37 | 2025-09-10 |  |
 | [Announcement Theme \(From "Captain Miller"\)](https://open.spotify.com/track/5p1pZim92MwJcNwJJDeJHV) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Announcement Theme \(From "Captain Miller"\)](https://open.spotify.com/album/1LvcMAe2Ob4r8evADGZC0V) | 2:05 | 2023-07-04 | 2023-07-29 |
 | [Arasan Theme \(From "Arasan"\)](https://open.spotify.com/track/2adSlLAfZrcgkkphMVjTKk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Arasan Theme \(From "Arasan"\)](https://open.spotify.com/album/4i8vipMWDGOBV42a0pjmvb) | 1:34 | 2025-10-23 | 2026-08-11 |
@@ -171,7 +172,7 @@
 | [Rage \- Background Score](https://open.spotify.com/track/7qPxOwZn2x7wTADnISudyx) | [Jerry Silvester Vincent](https://open.spotify.com/artist/0ZLNQhaRJbi6lottdmo1k1) | [The Great Indian Kitchen \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5SPVKiiP9sUIxP6rw0wdlZ) | 1:01 | 2023-01-25 | 2023-02-07 |
 | [Rage for Vengeance](https://open.spotify.com/track/5nczEGOXX9j0BIkAaYxrTm) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Chithha \(Original Background Score\)](https://open.spotify.com/album/5i30TbSl1ruTJxLDeHKDts) | 1:13 | 2024-03-17 | 2024-06-08 |
 | [Return of The Dragon](https://open.spotify.com/track/6EjOIgJEDGhkJIH0RnGG59) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy) | [Dragon \(Original Score\)](https://open.spotify.com/album/4J53sSdhRl5wA2qfw5AWy2) | 3:12 | 2025-03-24 |  |
-| [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 | 2021-11-01 |  |
+| [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 | 2021-11-01 | 2026-08-13 |
 | [Rise of The Hero](https://open.spotify.com/track/4V0BZRitHOdT5ES5UhDjJU) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Custody Original Soundtrack](https://open.spotify.com/album/5bcSiwJXni9EBjRDf31cm9) | 2:27 | 2024-01-09 | 2024-06-08 |
 | [Rise of The Hero](https://open.spotify.com/track/7iDJEQsRpwSZ02jIvHPz5I) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Custody \(Original Background Score\)](https://open.spotify.com/album/5e9eBInfxA0pbT6A78rJv0) | 2:27 | 2024-01-09 | 2024-04-19 |
 | [Roar Of RRR](https://open.spotify.com/track/3W5mUOutRiMnsvFcsteX67) | [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Roar Of RRR](https://open.spotify.com/album/7fBbSSbGPnyFGh3NCwNVhe) | 1:51 | 2021-11-01 | 2023-12-12 |

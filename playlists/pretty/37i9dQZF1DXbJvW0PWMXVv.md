@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,289 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,285 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 31 | [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 |
 | 32 | [pesimista](https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:54 |
 | 33 | [Bogotá](https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [BOGOTÁ](https://open.spotify.com/album/74imuWw1wN5lI4hiX57410) | 3:15 |
-| 34 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
-| 35 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
+| 34 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
+| 35 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
 | 36 | [CONJUNTÃO DE TIME](https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 2:34 |
 | 37 | [A natureza das coisas](https://open.spotify.com/track/4zvqkPu8ajJc0Qglca07ZG) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Casa Coração](https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv) | 4:01 |
 | 38 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 74 | [LEGO](https://open.spotify.com/track/7q2LnH7uqOYJQk4m4LBSAV) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0), [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct) | [FUGACIDADE](https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3) | 2:42 |
 | 75 | [Matagal](https://open.spotify.com/track/4dw8ZkzEQa5PY7gLL3D0C9) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Colinho](https://open.spotify.com/album/2DphG5HgqpHRRsx1Ec1Wgy) | 4:08 |
 
-Snapshot ID: `AAAAAHu0XExtHJMAfZ7jsxbmjbGpmVRL`
+Snapshot ID: `AAAAAKtHYRd0s7dvGMiydQN4GQBe+5xh`

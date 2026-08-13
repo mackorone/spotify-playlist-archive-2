@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Joseph O'Brien
 
-1,474 songs - 3 day 18 hr 4 min
+1,475 songs - 3 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Keep Holding On](https://open.spotify.com/track/18LAMqd3ViKlFfD4KfpwMS) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Keep Holding On](https://open.spotify.com/album/5RRdPaijeJtKuOyhhnHTOP) | 3:21 | 2025-06-21 | 2025-07-20 |
 | [Keep On](https://open.spotify.com/track/0v5XspMqeBP4KsEiTvwD7W) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [Keep On](https://open.spotify.com/album/5vl2MeoHM1Ei6aUsBtxbPQ) | 3:13 | 2025-10-06 | 2025-11-16 |
 | [Keep On Keepin' On](https://open.spotify.com/track/4UZeGVD73nEFEJUBdT0PS1) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Keep On Keepin' On](https://open.spotify.com/album/2EDTFqQ0A6vxjcwikETQmp) | 2:53 | 2024-10-11 | 2024-11-30 |
+| [Keep Praying](https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Keep Praying](https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD) | 4:10 | 2026-08-07 |  |
 | [KEEP YOUR WORD](https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [KEEP YOUR WORD / GOODBYES](https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n) | 3:10 | 2022-10-29 | 2024-06-08 |
 | [kerosene](https://open.spotify.com/track/7mRthTJf3n6Ee35g2qTl95) | [Strings And Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [Plastic Wine](https://open.spotify.com/album/40TqlefUvFjqQqRNuqB56l) | 2:51 | 2025-10-06 | 2025-11-16 |
 | [Killed A Man](https://open.spotify.com/track/14J76SoPwOr0LipzczmVCW) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Killed A Man](https://open.spotify.com/album/5vSdpGfnDexn8OsxLuZEFf) | 4:03 | 2025-08-04 | 2025-09-15 |
@@ -875,7 +876,7 @@
 | [My Greatest Friends \(Least of These\)](https://open.spotify.com/track/3pwCSskVfAuEX4V8IFStcM) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [My Greatest Friends \(Least of These\)](https://open.spotify.com/album/49W7j2Ne0uC0SlXWxKuP5Y) | 3:00 | 2024-07-26 | 2024-08-10 |
 | [My Honor To Need You \- Live](https://open.spotify.com/track/6jF2mKT2Z9IZvPAfvtTp05) | [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4) | [My Honor To Need You \(Live\)](https://open.spotify.com/album/1kSQTaMJbl2Fc40uhnM9b8) | 4:11 | 2026-07-03 | 2026-07-18 |
 | [My Hope](https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp) | [Caleb & John](https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0) | [My Hope](https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik) | 3:05 | 2026-08-07 |  |
-| [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 | 2026-08-07 |  |
+| [My Hope \- Live](https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop) | [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [My Hope \(Live\)](https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY) | 4:26 | 2026-08-07 | 2026-08-13 |
 | [My Hope Is Jesus](https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [My Hope Is Jesus](https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS) | 4:02 | 2024-10-11 | 2025-03-22 |
 | [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 | 2022-05-27 | 2024-06-08 |
 | [My Life Is What You Make It](https://open.spotify.com/track/6EO5hozAVGH4jzzHKoywfz) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [My Life Is What You Make It](https://open.spotify.com/album/0WLVEFPAIT3Gu4p7vLcrlF) | 4:53 | 2025-02-22 | 2025-03-22 |

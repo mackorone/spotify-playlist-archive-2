@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Pritesh Walia. Artwork: Joy Yamusangie.",
-  "num_followers": 244176,
+  "num_followers": 244191,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOyI1KVxNpFpX+8TlRYEczjTeTIm",
+  "snapshot_id": "AAAAANH+iDDKPyVHTSFbOAYtH1S2Bq5n",
   "tracks": [
+    {
+      "added_at": "2026-08-12 17:47:49",
+      "album": {
+        "name": "Limiter",
+        "url": "https://open.spotify.com/album/4X51vZHDtk5ucg0hFLWQ39"
+      },
+      "artists": [
+        {
+          "name": "Blue Earth Sound",
+          "url": "https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE"
+        }
+      ],
+      "duration_ms": 294213,
+      "name": "Limiter",
+      "url": "https://open.spotify.com/track/54mvall1hzZ5UsEl59LIcR"
+    },
     {
       "added_at": "2026-08-05 15:06:49",
       "album": {
@@ -891,22 +907,6 @@
       "duration_ms": 83333,
       "name": "Doe",
       "url": "https://open.spotify.com/track/3D0joMWtdQqhy3h15cLFkQ"
-    },
-    {
-      "added_at": "2026-02-11 19:41:30",
-      "album": {
-        "name": "SHI \u5339 \u6b7b",
-        "url": "https://open.spotify.com/album/2BfUaQywfT64aabM2B7wTH"
-      },
-      "artists": [
-        {
-          "name": "AKU!",
-          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
-        }
-      ],
-      "duration_ms": 296928,
-      "name": "Arrakis",
-      "url": "https://open.spotify.com/track/1Jy7Z4rnkbkzminfmHQYz1"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

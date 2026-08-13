@@ -29392,7 +29392,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 169458,
       "name": "DREAMS OF 392",
       "url": "https://open.spotify.com/track/0eqJx1xD1Fg2fabOK7ACpn"
@@ -32064,7 +32064,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 156144,
       "name": "Ernesto",
       "url": "https://open.spotify.com/track/16M52KAjkJy9rxJybDAzK8"
@@ -33390,6 +33390,24 @@
       "duration_ms": 152436,
       "name": "Fairy Tales",
       "url": "https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu"
+    },
+    {
+      "album": {
+        "name": "Fairytales",
+        "url": "https://open.spotify.com/album/1LRjG3vcjcyrLjnSH149Za"
+      },
+      "artists": [
+        {
+          "name": "Kino Caliwag",
+          "url": "https://open.spotify.com/artist/1dzAJ6ihxZIhNYpcKpQxBw"
+        }
+      ],
+      "date_added": "2026-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213354,
+      "name": "Fairytales",
+      "url": "https://open.spotify.com/track/6JU1wxWDrPU9p6oTJMzWn0"
     },
     {
       "album": {
@@ -39438,7 +39456,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 247652,
       "name": "GALAXY",
       "url": "https://open.spotify.com/track/4McDbvfHPNoV538OQGr5P9"
@@ -47912,7 +47930,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 185733,
       "name": "Hurry!",
       "url": "https://open.spotify.com/track/18Fbw1rq6OyCMPOvaGGgyF"
@@ -50824,7 +50842,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 162474,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/2S8PKp24YdntEKWOqJUYsM"
@@ -78487,6 +78505,24 @@
     },
     {
       "album": {
+        "name": "Over My Hometown",
+        "url": "https://open.spotify.com/album/2AJkCkcHkoM0kfQlx32LOy"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Sanders",
+          "url": "https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193965,
+      "name": "Over My Hometown",
+      "url": "https://open.spotify.com/track/7KNXvmFttsw4TWKE16o7Dt"
+    },
+    {
+      "album": {
         "name": "Zahava",
         "url": "https://open.spotify.com/album/5Z4776irHlvg0n8aLGhTYU"
       },
@@ -79986,7 +80022,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 180286,
       "name": "Paying It Forward",
       "url": "https://open.spotify.com/track/4MFOVDBBmO8n26BkYyMQwS"
@@ -93892,7 +93928,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 147500,
       "name": "Smiling Faces",
       "url": "https://open.spotify.com/track/7475metaU6K7mmgdCCbzXP"

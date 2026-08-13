@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Legion RG 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,568 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,602 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 69 | [niña de CASA](https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [niña de CASA](https://open.spotify.com/album/1JHFum8A3Frqnu42fs5caP) | 3:33 |
 | 70 | [Mi Todo Que Dar](https://open.spotify.com/track/10S72dKdPOOn7tWWUo4Mte) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Mi Todo Que Dar](https://open.spotify.com/album/62J67rBV8L9rVZSLppm6aH) | 3:00 |
 
-Snapshot ID: `AAAAAJsbvJF3PChbjVPLfFA0FPZWnBf8`
+Snapshot ID: `AAAAAAhP6GuDfhlxogv1SKAbSvvBItAQ`

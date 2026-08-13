@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 116282,
+  "num_followers": 116311,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABhMEeWwPcriNbJwQowN51d",
+  "snapshot_id": "anpmAAAAAAAXLhYFJeBWYXvs3cyERCO8",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Middle Of It",
-      "url": "https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind (Deluxe)",
         "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 226000,
       "name": "Somewhere Over Laredo",
       "url": "https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Middle Of It",
+      "url": "https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Devil Don\u2019t Go There",
-      "url": "https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 196306,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Devil Don\u2019t Go There",
+      "url": "https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 237773,
-      "name": "Good Horses - feat. Miranda Lambert",
-      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/0fbS7loVI8hh7T06iymFU8"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 202434,
       "name": "Would If I Could (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/26o6A0vDrmjiaM0bgP5BH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Good Horses - feat. Miranda Lambert",
+      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Call A Cowboy",
-      "url": "https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hang Tight Honey",
         "url": "https://open.spotify.com/album/5WyXnepLcbyDzp4qhBZ5f2"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 189786,
       "name": "Hang Tight Honey",
       "url": "https://open.spotify.com/track/6w7OpHp3Y3ByHzmfQXYCRN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Call A Cowboy",
+      "url": "https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg"
     },
     {
       "added_at": null,
@@ -523,22 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIGH",
-        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 227400,
-      "name": "GO HOME W U",
-      "url": "https://open.spotify.com/track/4NqRL2Xu4IkpE4D7zWC2M1"
+      "duration_ms": 231866,
+      "name": "Praying Woman",
+      "url": "https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10"
     },
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+        "name": "HIGH",
+        "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
       },
       "artists": [
         {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 231866,
-      "name": "Praying Woman",
-      "url": "https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10"
+      "duration_ms": 227400,
+      "name": "GO HOME W U",
+      "url": "https://open.spotify.com/track/4NqRL2Xu4IkpE4D7zWC2M1"
     },
     {
       "added_at": null,

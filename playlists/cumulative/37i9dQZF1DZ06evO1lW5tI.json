@@ -32,9 +32,27 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "date_added": "2024-12-14",
+      "date_added": "2026-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255100,
+      "name": "A Love International",
+      "url": "https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3"
+    },
+    {
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "date_added": "2024-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-13",
       "duration_ms": 199032,
       "name": "Ada Jean",
       "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"

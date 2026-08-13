@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,994 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,999 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 21 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
 | 22 | [NOVIOS IMAGINARIOS](https://open.spotify.com/track/3cJZrt65UKu0QUK0k6P0mb) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [NOVIOS IMAGINARIOS](https://open.spotify.com/album/5wODKDJLbCcI79XTka4k00) | 4:44 |
 | 23 | [Vivimos Lejos](https://open.spotify.com/track/4CJ1M3DIfnZwUoO5VwynLP) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 4:35 |
-| 24 | [Arido Espejismo](https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Ibiza Pareo](https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla) | 4:10 |
-| 25 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
+| 24 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
+| 25 | [Arido Espejismo](https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Ibiza Pareo](https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla) | 4:10 |
 | 26 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 |
 | 27 | [Tuya](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 |
 | 28 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 |
@@ -71,19 +71,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 61 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 |
 | 62 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 |
 | 63 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
-| 64 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
-| 65 | [Girando](https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Girando](https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM) | 3:31 |
+| 64 | [Girando](https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Girando](https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM) | 3:31 |
+| 65 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
 | 66 | [Tu Caminar](https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:40 |
 | 67 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 |
 | 68 | [Las Señales](https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ) | [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [Hasta Abajo \- Ep](https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg) | 5:45 |
-| 69 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
-| 70 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 |
+| 69 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 |
+| 70 | [Todo el mundo miente](https://open.spotify.com/track/6ZMgbNbxY8galJWreQd2ZV) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Todo el mundo miente](https://open.spotify.com/album/0sBB4s7wiQkFzsq9JPYE1T) | 3:27 |
 | 71 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
 | 72 | [Autodefensa](https://open.spotify.com/track/49Xu8sxYWoiflkkU3wxssj) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Autodefensa](https://open.spotify.com/album/1j4Lvf7ZzbXnyknCKG5WWu) | 3:00 |
 | 73 | [Fuego Sobre Fuego](https://open.spotify.com/track/4ADs3Ll9cdUmwKwrrFhaNv) | [Las Blacanblus](https://open.spotify.com/artist/1UuFRYPMp8wxqiEbYhFc1I) | [Suena En Mí](https://open.spotify.com/album/3mMP2TeePypmXn6MSgOftr) | 4:10 |
-| 74 | [Veneno](https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa) | [Cler Canifrú](https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Veneno](https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7) | 3:39 |
-| 75 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
-| 76 | [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 |
+| 74 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
+| 75 | [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 |
+| 76 | [Veneno](https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa) | [Cler Canifrú](https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Veneno](https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7) | 3:39 |
 | 77 | [Libido](https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm) | [María Tyrana](https://open.spotify.com/artist/4bigYnJG2Ifdeuc6DRSPMu) | [Libido](https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr) | 2:55 |
 | 78 | [Mi Voz](https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG) | 3:12 |
 | 79 | [Shangri\-La](https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:43 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 87 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
 | 88 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 |
 | 89 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
-| 90 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 |
-| 91 | [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 |
+| 90 | [Se Trata de Ti](https://open.spotify.com/track/5MHwWwRvXkIG9lpGZxlqLb) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Se Trata de Ti](https://open.spotify.com/album/6Gy7IKAAksUzkBcN6WrPTc) | 4:25 |
+| 91 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 |
 | 92 | [Tanta Data](https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Tanta Data](https://open.spotify.com/album/2yZn2CNQjT154b0gSvbFUo) | 4:26 |
 | 93 | [Drowned](https://open.spotify.com/track/64Rh9igTKGRUMuCspuDvbi) | [Stallone](https://open.spotify.com/artist/5dyXLmBp985ILm6bRqxQ68) | [Stallone](https://open.spotify.com/album/3HNJ94Cs1K4K1FgPlGWduZ) | 5:40 |
 | 94 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 |
 | 95 | [Mama, Deja Que Entren por la Ventana los Siete Mares \- Remasterizado](https://open.spotify.com/track/3i3DPWZVCywz2gy8ZwDGAQ) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF) | [Mama, Deja Que Entren por la Ventana los Siete Mares \(Remasterizado\)](https://open.spotify.com/album/3El1SCHwY7SExY3q5LdmT7) | 4:02 |
 | 96 | [El Oscuro](https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Comprensión1](https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut) | 2:56 |
-| 97 | [Perro](https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 3:02 |
-| 98 | [Un suspiro](https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl) | [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [El arte de lo eterno](https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU) | 4:46 |
-| 99 | [Camping](https://open.spotify.com/track/6gWPba7W9RrpZn6r6Y90Yg) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Camping](https://open.spotify.com/album/1vXA2w1smHlu6TRNzQfNUu) | 3:07 |
-| 100 | [Quizás Hoy](https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg) | [Erica García](https://open.spotify.com/artist/2VsWaJ9h1dDiy7OM1zF5DL) | [El Cerebro](https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i) | 3:00 |
+| 97 | [Un suspiro](https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl) | [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [El arte de lo eterno](https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU) | 4:46 |
+| 98 | [Perro](https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 3:02 |
+| 99 | [Infierno](https://open.spotify.com/track/0Udd3k3sSgDtldeGzYt9YN) | [Afterlife](https://open.spotify.com/artist/6AMwoQMEIgEiMDB006ERCm) | [Mil Gritos Tiene la Noche, Vol\. 1](https://open.spotify.com/album/6JkIhyOobANHUF235OWntk) | 4:29 |
+| 100 | [Camping](https://open.spotify.com/track/6gWPba7W9RrpZn6r6Y90Yg) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Camping](https://open.spotify.com/album/1vXA2w1smHlu6TRNzQfNUu) | 3:07 |
 
-Snapshot ID: `AAAAAOHbuwedQ4Myre5WxtBO5IxMfIdp`
+Snapshot ID: `AAAAAKK0k+F5iAGfGPsyk+4Iz8brtmyr`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBW04ZxzxWAGEscCBBoj9jfJGi1",
+  "snapshot_id": "AAAAAP2D5aSGQCwzCKFP5QqZ9yZ93XzO",
   "tracks": [
     {
       "added_at": "2024-09-01 15:34:53",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Let It Ride",
+        "url": "https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Give Out But Don't Give Up",
         "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 215986,
       "name": "Rocks",
       "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Let It Ride",
-        "url": "https://open.spotify.com/album/7wTnoelmadLnvEXH8Je1nA"
-      },
-      "artists": [
-        {
-          "name": "Shed Seven",
-          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "Chasing Rainbows",
-      "url": "https://open.spotify.com/track/5l6ab2amq8jjuNqaxFsVrl"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Ace A's + Killer B's",
-        "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
+        "name": "Gold Mother",
+        "url": "https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6"
       },
       "artists": [
         {
-          "name": "Dodgy",
-          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 239840,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
+      "duration_ms": 244866,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
     }
   ],
   "unique_name": "Britpop, Etc.",

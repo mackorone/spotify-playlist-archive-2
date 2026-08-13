@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Crescendo",
+        "url": "https://open.spotify.com/album/4XVNXfDjUje2381A3bZysT"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255711,
+      "name": "Crescendo",
+      "url": "https://open.spotify.com/track/3FPSa57fnk6nIGt2JiUSjo"
+    },
+    {
+      "album": {
         "name": "Inbred",
         "url": "https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 97826,
       "name": "EXCITED!",
       "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"

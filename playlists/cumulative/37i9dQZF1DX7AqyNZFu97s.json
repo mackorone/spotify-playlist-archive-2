@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Alice Barlow",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Rafa and Meelo",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -8342,6 +8342,24 @@
       "duration_ms": 205368,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/5y8rL9fRBAhTGu5AlIhNH7"
+    },
+    {
+      "album": {
+        "name": "brainfreeze",
+        "url": "https://open.spotify.com/album/7vNXBNVVqlJnrWlNi9pbBl"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8ftbleach",
+          "url": "https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158847,
+      "name": "brainfreeze",
+      "url": "https://open.spotify.com/track/3AqZDPwlZmcr3UWbhya2yT"
     },
     {
       "album": {
@@ -30330,7 +30348,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 147374,
       "name": "if i had one wish.",
       "url": "https://open.spotify.com/track/2P58L8iRKiwZ0UcDkqJVpz"
@@ -31146,7 +31164,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 281941,
       "name": "In Yr Right Hand Reveal Heaven",
       "url": "https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a"
@@ -44439,6 +44457,28 @@
     },
     {
       "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/25GfGH2wwFJoTMeZ2fnsjJ"
+      },
+      "artists": [
+        {
+          "name": "Eerf Evil",
+          "url": "https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265909,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1fX4HV87bhIAcmgX4aZGN2"
+    },
+    {
+      "album": {
         "name": "One Flow",
         "url": "https://open.spotify.com/album/4xe15MGc9PCHKqHfpLkZE4"
       },
@@ -47240,7 +47280,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 262451,
       "name": "polaroids",
       "url": "https://open.spotify.com/track/2YuxwmOKSzhdmWb2KHXUUa"
@@ -48194,7 +48234,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 195357,
       "name": "punch",
       "url": "https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA"
@@ -49698,6 +49738,28 @@
       "duration_ms": 137241,
       "name": "RIGHT (DAYNIGHT)",
       "url": "https://open.spotify.com/track/3bPboYoJMCVsD5LGwZ9eog"
+    },
+    {
+      "album": {
+        "name": "Right Before My Eyes",
+        "url": "https://open.spotify.com/album/7ghm0OQTwAhl8aPgkBkZAK"
+      },
+      "artists": [
+        {
+          "name": "34yulo",
+          "url": "https://open.spotify.com/artist/0e9vjwUtVO6JKNe42XcXMy"
+        },
+        {
+          "name": "Nikki Ambers",
+          "url": "https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205043,
+      "name": "Right Before My Eyes",
+      "url": "https://open.spotify.com/track/6TMextiR2B8cX5yp8Vbvsj"
     },
     {
       "album": {
@@ -53400,7 +53462,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 135692,
       "name": "SIMP 4 U",
       "url": "https://open.spotify.com/track/1VrREfQ1MXoiRULw3eYl3N"
@@ -54638,6 +54700,24 @@
       "duration_ms": 143980,
       "name": "SOLACE",
       "url": "https://open.spotify.com/track/4qi0cohHjsjKiTNDCjo9Z5"
+    },
+    {
+      "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/1qCgnaeMFbXw1etNhmaNsP"
+      },
+      "artists": [
+        {
+          "name": "NAOMI JEREMIAH",
+          "url": "https://open.spotify.com/artist/4mhXKME7vxoBUyjO7uIU5h"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/3VriOUGTvNXr836JTfLlVK"
     },
     {
       "album": {
@@ -58372,6 +58452,24 @@
       "duration_ms": 142568,
       "name": "Teenage Fever",
       "url": "https://open.spotify.com/track/2fYogvBNK0BKkiE3O6HAT9"
+    },
+    {
+      "album": {
+        "name": "teeth",
+        "url": "https://open.spotify.com/album/5elEt3QFQIfSZUEhIgd5aj"
+      },
+      "artists": [
+        {
+          "name": "green star",
+          "url": "https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253990,
+      "name": "teeth",
+      "url": "https://open.spotify.com/track/3M0znkPqbu7s2h4V89FzD7"
     },
     {
       "album": {

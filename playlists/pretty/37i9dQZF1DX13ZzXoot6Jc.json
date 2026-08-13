@@ -1,12 +1,12 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 450005,
+  "num_followers": 449997,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnWCye13d/d2tOHBfs7/o4AKO0i",
+  "snapshot_id": "AAAAAAXy4FAFvX+i+rk0LsqW/7K6dzcW",
   "tracks": [
     {
       "added_at": "2025-12-12 19:32:52",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Fathers & Sons",
-        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 236055,
-      "name": "Remember Him That Way",
-      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Fathers & Sons",
+        "url": "https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 236055,
+      "name": "Remember Him That Way",
+      "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "A Lot More Free",
         "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 198920,
       "name": "A Lot More Free",
       "url": "https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Ain't Doin' Jack",
-        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Ain't Doin' Jack",
-      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
       "added_at": "2025-12-12 19:32:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Hate How You Look",
-        "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 194364,
-      "name": "Hate How You Look",
-      "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Beautiful As You",
         "url": "https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 163894,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Hate How You Look",
+        "url": "https://open.spotify.com/album/1t3ggBU7tZh8cn5b3PDLzX"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 194364,
+      "name": "Hate How You Look",
+      "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
     },
     {
       "added_at": "2025-07-04 04:00:22",

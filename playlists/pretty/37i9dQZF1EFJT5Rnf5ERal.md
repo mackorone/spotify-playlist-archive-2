@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,225 likes - 279 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,227 likes - 279 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 50 | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 |
 | 51 | [Before I Let Go](https://open.spotify.com/track/6e9xnBJPs0y9omrSU3C3N4) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Great R&B](https://open.spotify.com/album/0ToSKqQnHTBeIVybrONR8V) | 3:56 |
 | 52 | [Shotta Flow 7](https://open.spotify.com/track/4O6klCRi5E7s5X0jA9u7VR) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow Series](https://open.spotify.com/album/6R8l6AT10mY3uuRugnQaLi) | 2:45 |
-| 53 | [Exotic](https://open.spotify.com/track/1zIb1bYJAo1UdR2Xf4oESb) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Starlito](https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:42 |
-| 54 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 |
+| 53 | [From Now On \(feat\. Future\)](https://open.spotify.com/track/2wdgjxZPgtrPd8OUqMSuYh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:59 |
+| 54 | [Exotic](https://open.spotify.com/track/1zIb1bYJAo1UdR2Xf4oESb) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Starlito](https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:42 |
 | 55 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
 | 56 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 |
 | 57 | [c!ao \(feat\. Rondodasosa\)](https://open.spotify.com/track/63HrhoJeSnrEYjPMDQHCOv) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 3:32 |
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 147 | [Blow the Pickle \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/3e6FIuzEBiseLJIK0mB1T8) | [Ambjaay](https://open.spotify.com/artist/3BbPRvYQ0M9SFmhkHXozLm), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [It Cost To Live Like This Pt\. 2](https://open.spotify.com/album/6veRHR6PSNEVog2EBrmK4H) | 2:15 |
 | 148 | [Red Flag](https://open.spotify.com/track/4Ht6ZSdTuOS5wE1DCTq0rp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [So Icy Boyz: The Finale](https://open.spotify.com/album/5Rb7JdsT1IEITEMgUqcWq2) | 3:27 |
 | 149 | [Came From Scratch \(feat\. Quavo\)](https://open.spotify.com/track/2Cpym45ciZzoiWpt6IvjCK) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Woptober II](https://open.spotify.com/album/6hopdoEE79EsQ6mjjBUbFU) | 2:32 |
-| 150 | [Super Fake](https://open.spotify.com/track/364XsAmsQMhorJeuk4NulV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 2:12 |
-| 151 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 150 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 151 | [Super Fake](https://open.spotify.com/track/364XsAmsQMhorJeuk4NulV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 2:12 |
 | 152 | [No Filter](https://open.spotify.com/track/4kGKvPLGQXn4X8gWm35cSn) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:50 |
 | 153 | [They Madd](https://open.spotify.com/track/4q3q8GiRSa1rKBCdwwsSHc) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:09 |
 | 154 | [Rush Hour](https://open.spotify.com/track/1Gs1Jd3UXixFgZ3NncoiYQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:01 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 278 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 279 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `AcZU6AAAAABqKl8HGnH05V+yAaJ3+h0k`
+Snapshot ID: `AcZadAAAAAAOlim/qrkyJF3vbZTcgMG+`

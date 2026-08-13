@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Matheus Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,054,434 likes - 38 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,082,099 likes - 38 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 37 | [Baqueado \- Ao Vivo](https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação \(Ao Vivo\)](https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC) | 2:26 |
 | 38 | [Caos De Alguém \- Ao Vivo](https://open.spotify.com/track/2zxgWjSwtiMOz5xx3m2rr4) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Caos De Alguém \(Ao Vivo\)](https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf) | 2:34 |
 
-Snapshot ID: `AAAAAOqsuj/DwfbtfL1FCAMypLwAgZMy`
+Snapshot ID: `AAAAAN1+Hf8Bg1I8iW7mFlhee7dMCOSw`

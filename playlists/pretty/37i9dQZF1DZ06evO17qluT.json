@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 110470,
+  "num_followers": 110534,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAA6NfxU6VCe5It+G4STgvSf",
+  "snapshot_id": "anpmAAAAAADNM03qEKCAYp9QrK1SoisT",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        }
+      ],
+      "duration_ms": 305002,
+      "name": "Antes dos Gigantes Chegarem",
+      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -607,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp"
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
       "artists": [
         {
@@ -616,21 +644,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 305002,
-      "name": "Antes dos Gigantes Chegarem",
-      "url": "https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX"
+      "duration_ms": 167999,
+      "name": "Caminhos",
+      "url": "https://open.spotify.com/track/1cLYvKsm34lAPyhNKY7HZ0"
     },
     {
       "added_at": null,
@@ -683,26 +703,6 @@
       "duration_ms": 230400,
       "name": "N\u00e3o Adianta Chorar",
       "url": "https://open.spotify.com/track/5gxljBy1tymSkb9hJZJaEl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 167999,
-      "name": "Caminhos",
-      "url": "https://open.spotify.com/track/1cLYvKsm34lAPyhNKY7HZ0"
     },
     {
       "added_at": null,
@@ -1083,26 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trapzeiro (Meu Piseiro Brasileiro) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p"
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
       "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
         }
       ],
-      "duration_ms": 225803,
-      "name": "Vinho, Voz e Viol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B"
+      "duration_ms": 143477,
+      "name": "Bonde Passando",
+      "url": "https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ"
     },
     {
       "added_at": null,
@@ -1127,26 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 143477,
-      "name": "Bonde Passando",
-      "url": "https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 148738,
       "name": "Deus do Furdun\u00e7o",
       "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trapzeiro (Meu Piseiro Brasileiro) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3S4xoyB55MVXwT1ukuOL4p"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 225803,
+      "name": "Vinho, Voz e Viol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B"
     },
     {
       "added_at": null,

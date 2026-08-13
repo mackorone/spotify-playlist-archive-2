@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,106 likes - 659 songs - 1 day 15 hr 2 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 18,105 likes - 659 songs - 1 day 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,7 +235,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 225 | [How It Started](https://open.spotify.com/track/5RZLyrwguH60Ieqe98rg8E) | [Sky Days](https://open.spotify.com/artist/7oWHZ2Uh7Gaf4UL8CRHjX2) | [How It Started](https://open.spotify.com/album/15QpBS7iv70KNOgXcJSjOC) | 3:56 |
 | 226 | [Let's Pretend](https://open.spotify.com/track/5Lwh5vPwydKnTMbddgO1xM) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Clay](https://open.spotify.com/album/4QkkOZZbnzdxAWjEuLMxeT) | 2:44 |
 | 227 | [Clay](https://open.spotify.com/track/0Veyw4uQ7JN2QdWK0Mm3wt) | [Sinqa](https://open.spotify.com/artist/4lnUBIuxttzqphQpXzDDnd) | [Clay](https://open.spotify.com/album/4QkkOZZbnzdxAWjEuLMxeT) | 2:56 |
-| 228 | [Omo](https://open.spotify.com/track/6ipZjsITcuF5G2XCoU3Iun) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Omo](https://open.spotify.com/album/49391SaxdocYEJAexM3fcY) | 3:35 |
+| 228 | [Omo](https://open.spotify.com/track/6ipZjsITcuF5G2XCoU3Iun) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Omo](https://open.spotify.com/album/49391SaxdocYEJAexM3fcY) | 3:35 |
 | 229 | [Still There](https://open.spotify.com/track/4PX1l25gDqLjaJTShFSZkL) | [Caraml](https://open.spotify.com/artist/60Mmm8LfNaNPjTbn20b1cg) | [Still There](https://open.spotify.com/album/0Vwbdn1CSBCpDz2magEHwy) | 4:05 |
 | 230 | [So](https://open.spotify.com/track/4dpxqHfYMyiUsK4DaRahyB) | [Sebastian Roca](https://open.spotify.com/artist/4axhTQXDTfbRk7FZe2tsTF) | [So](https://open.spotify.com/album/6AOo2VUfDIWZkS6UurB6Pz) | 4:08 |
 | 231 | [E, Otkad Mi Se Nisi Javila](https://open.spotify.com/track/6UHmrBwUol13c4BAxKSMua) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Nice Guys Love You \(Vol\. 2\)](https://open.spotify.com/album/7cDmYKgKIhmhxBdG9LmPkg) | 3:29 |
@@ -312,11 +312,11 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 302 | [You're Right](https://open.spotify.com/track/14ADhB93rwSTiLxXbPSWXi) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [You're Right](https://open.spotify.com/album/7hNMng5xJjgifqPSCfKSAI) | 4:11 |
 | 303 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 |
 | 304 | [Equal Trouble](https://open.spotify.com/track/7Jb5HMSHWwAVAqfApS54Iq) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Equal Trouble](https://open.spotify.com/album/4q7YKgej4p7syDMAPpTedg) | 4:02 |
-| 305 | [Raindrop Lullaby](https://open.spotify.com/track/37r0a1ExiP6yECadOY3i7v) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:23 |
-| 306 | [Baby Interlude](https://open.spotify.com/track/1wnGCXzSGVqAckAn4WN4SM) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 1:33 |
-| 307 | [Who Woulda Thought, Pt\. II](https://open.spotify.com/track/5UqVfjbQyKdgco2YA9LjfK) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 3:31 |
-| 308 | [Capsicumism \- Bonus Track](https://open.spotify.com/track/0B6onG6OQ2Sx6QTbHxGv3i) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:15 |
-| 309 | [Money Dream](https://open.spotify.com/track/06WY1X33z9lEv5ZgRkgLBN) | [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n), [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:52 |
+| 305 | [Raindrop Lullaby](https://open.spotify.com/track/37r0a1ExiP6yECadOY3i7v) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:23 |
+| 306 | [Baby Interlude](https://open.spotify.com/track/1wnGCXzSGVqAckAn4WN4SM) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 1:33 |
+| 307 | [Who Woulda Thought, Pt\. II](https://open.spotify.com/track/5UqVfjbQyKdgco2YA9LjfK) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 3:31 |
+| 308 | [Capsicumism \- Bonus Track](https://open.spotify.com/track/0B6onG6OQ2Sx6QTbHxGv3i) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:15 |
+| 309 | [Money Dream](https://open.spotify.com/track/06WY1X33z9lEv5ZgRkgLBN) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Ħolma Flus](https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL) | 2:52 |
 | 310 | [Halcyon Days](https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Halcyon Days](https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k) | 3:08 |
 | 311 | [Havana Burning](https://open.spotify.com/track/54SoJJzbZoXIZ50AG8EJhS) | [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Havana Burning](https://open.spotify.com/album/4hqcU2XHOjkbbwvJx61C68) | 1:58 |
 | 312 | [Hole](https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Hole](https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8) | 2:54 |
@@ -566,7 +566,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 556 | [Marmalade](https://open.spotify.com/track/1qpY6I9WbAQM2F54oSAr9Z) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Surfari](https://open.spotify.com/album/4j8qUNikq3gvHexQXfx3xq) | 2:04 |
 | 557 | [Martyn's Place](https://open.spotify.com/track/7bms8WdtZF8EVYfT1iCUXU) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Surfari](https://open.spotify.com/album/4j8qUNikq3gvHexQXfx3xq) | 3:20 |
 | 558 | [Bower](https://open.spotify.com/track/2eEIkMa5HTRCBG1YE4I4jL) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bower](https://open.spotify.com/album/7JNHlZOeBqXNAGTMbi8UPt) | 2:54 |
-| 559 | [Grubz](https://open.spotify.com/track/1Fx6qPkZy3Ks5gqBsp49V0) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Grubz](https://open.spotify.com/album/4IpiBhmhkxPf7xgHYAgBys) | 3:11 |
+| 559 | [Grubz](https://open.spotify.com/track/1Fx6qPkZy3Ks5gqBsp49V0) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7) | [Grubz](https://open.spotify.com/album/4IpiBhmhkxPf7xgHYAgBys) | 3:11 |
 | 560 | [Chega De Saudade](https://open.spotify.com/track/3RjK5S2XtI340rKqj3wrgl) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Aperana](https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ) | 2:13 |
 | 561 | [Nublado](https://open.spotify.com/track/4H6Nq1nMoqPpjoH2eKEJfo) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Aperana](https://open.spotify.com/album/13jmABcP5MQyMDd9TIGjfZ) | 2:23 |
 | 562 | [Celle\-là](https://open.spotify.com/track/3hm9gts2ixxMsPEn0MiH9G) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Grand Eugène](https://open.spotify.com/album/60doKMH86BYnApXvT5jeic) | 3:19 |

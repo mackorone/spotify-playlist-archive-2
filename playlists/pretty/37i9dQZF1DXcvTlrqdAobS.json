@@ -1,12 +1,12 @@
 {
   "description": "Every summer needs a soundtrack. \ud83d\udc0a\ud83c\udf1e",
-  "num_followers": 95270,
+  "num_followers": 95329,
   "original_name": "Summer Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYWguy7uOJJnntfa3VZPpwlZChj",
+  "snapshot_id": "AAAAACg70HdzR8QY+lya8bvnGDPVdEnK",
   "tracks": [
     {
       "added_at": "2026-06-08 14:18:22",
@@ -241,6 +241,22 @@
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
+      "added_at": "2026-05-21 21:10:44",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
       "added_at": "2026-06-08 14:19:46",
       "album": {
         "name": "Dracula (Remix)",
@@ -259,22 +275,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-05-21 21:10:44",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2026-07-27 12:10:22",
@@ -573,6 +573,22 @@
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
     },
     {
+      "added_at": "2026-07-27 12:10:22",
+      "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
+    },
+    {
       "added_at": "2026-06-08 14:18:22",
       "album": {
         "name": "Free Your Mind",
@@ -595,22 +611,6 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-07-27 12:10:22",
-      "album": {
-        "name": "Rise Against My Broken Odds",
-        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
-      },
-      "artists": [
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Ghetto Love Story",
-      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
     },
     {
       "added_at": "2026-05-21 21:10:44",

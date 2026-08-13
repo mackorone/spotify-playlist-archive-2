@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-976 songs - 2 day 16 hr 15 min
+976 songs - 2 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,6 @@
 | [Tonight is the night](https://open.spotify.com/track/4azggBeTxDaQ5zPU6ihP0V) | [はらかなこ](https://open.spotify.com/artist/5GLpM2YT3pJFvS8Qguzhvj), [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [Tonight is the night](https://open.spotify.com/album/17uuzHoS8GBOT8JTd3ojUA) | 4:20 | 2023-03-28 | 2023-04-05 |
 | [Too good to be true](https://open.spotify.com/track/7AHjkU1cjgUIV2bxP6Aitm) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC) | [Too good to be true/Nightmare](https://open.spotify.com/album/1pck3jumTdRmyaoZnvgsKR) | 5:12 | 2023-04-25 | 2023-06-12 |
 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 | 2025-05-13 | 2026-05-05 |
-| [Track 8](https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [黄昏なブルー \-Twilight Blue\-](https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098) | 0:00 | 2026-08-11 |  |
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/71rNG9Gx5bo66KCDjpkBUQ) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [TRANSIT IN SUMMER](https://open.spotify.com/album/7fr2UWTOYGTMx3cck8GOY1) | 4:25 | 2023-05-23 | 2023-08-11 |
 | [TRANSIT IN SUMMER](https://open.spotify.com/track/32vDtAPTKgkLDzeRmwnJNQ) | [Kiyotaka Sugiyama](https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC), [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [OMEGA TRIBE GROOVE](https://open.spotify.com/album/7o5mbjGsvO2PrDkL1IRPch) | 4:30 | 2022-08-16 | 2022-08-24 |
 | [Treasure](https://open.spotify.com/track/5run1AkGCGYegjLSlsmvZn) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [SEASONS](https://open.spotify.com/album/3Gf0rgu4VC50g4ItRiEtao) | 4:01 | 2022-10-25 | 2023-07-12 |
@@ -912,6 +911,7 @@
 | [泡沫ジレンマ \- feat.SUKISHA](https://open.spotify.com/track/3IbvgHm2hpwr2Ap5OqwcHC) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [泡沫ジレンマ \(feat.SUKISHA\)](https://open.spotify.com/album/5V1jfuUVCFiit2qDxDhXdG) | 3:35 | 2023-09-05 | 2023-10-01 |
 | [流星都市](https://open.spotify.com/track/4YWyKUpBKyLwW2D6H0VmcC) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [憧憬都市 City Pop Covers](https://open.spotify.com/album/0qEawMSvAYztSrj61prmaH) | 4:38 | 2024-03-05 | 2024-05-15 |
 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 | 2023-02-14 | 2023-03-16 |
+| [涙のカラット \-Rumor Girl\- \(feat\. 財津マイ\)](https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [黄昏なブルー \-Twilight Blue\-](https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098) | 3:03 | 2026-08-11 |  |
 | [渚とサイダー](https://open.spotify.com/track/0fB9qqzExwkYpfK5j1WAPr) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [渚とサイダー](https://open.spotify.com/album/2jh2LBslIWnT1nOOrv34Qc) | 4:56 | 2023-08-08 | 2023-09-20 |
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-24 | 2022-06-01 |
 | [渚のバニーガール](https://open.spotify.com/track/3AV2WIFov6tLhaMkXmMso4) | [GET BILL MONKEYS](https://open.spotify.com/artist/1KneYlgLeiDl3ql3ThK1Fl) | [渚のバニーガール](https://open.spotify.com/album/3aLmyrDILTuLvOkxVC9ZVk) | 3:39 | 2023-07-25 | 2023-08-02 |

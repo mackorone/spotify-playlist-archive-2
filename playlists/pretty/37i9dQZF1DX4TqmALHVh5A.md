@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : BLOWSOM
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,137 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,166 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Internet Crush](https://open.spotify.com/track/2LZy5MyrpU6u2XkQQQPS3c) | [Tetsuro](https://open.spotify.com/artist/3IwBr3YlABBLg3ZGDSwMVA), [Eden Elf](https://open.spotify.com/artist/0S9wI9ZGeEwgNmVC61utdR) | [Internet Crush](https://open.spotify.com/album/2czSxkWHK4ICyan5QIhuah) | 2:41 |
 | 50 | [elle sourit](https://open.spotify.com/track/4PaWXATNheu2TRXHBpBO7s) | [mëa](https://open.spotify.com/artist/0uW2PbEqTWGnVQaDD7Wi5c) | [elle sourit](https://open.spotify.com/album/465aNlcKqTUPuAlpTEcqDY) | 3:13 |
 
-Snapshot ID: `AAAAABGUPHDFWmcdzn3sPhuQQySfLQtY`
+Snapshot ID: `AAAAAFSHigLZwkdZtvbP4H/ldBc87t6P`

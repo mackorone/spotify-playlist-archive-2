@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: ÁTOA, D.A.M.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,672 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,686 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Primavera](https://open.spotify.com/track/7qmXxfDw3MUL0GJIkSi822) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC), [António Zambujo](https://open.spotify.com/artist/72G65J87dqMi39O00Du2Je) | [Primavera](https://open.spotify.com/album/0tQ10DnJbxb5O1rLULpc15) | 3:49 |
 | 70 | [Amanhã](https://open.spotify.com/track/2qTobLBXa6mIEyI6dJn9Nz) | [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Amanhã](https://open.spotify.com/album/6jMn2zVOv567fWC8uW8esr) | 2:40 |
 
-Snapshot ID: `AAAAADGrjQTQ56MNsGDOPF0WYpkl9jC5`
+Snapshot ID: `AAAAAOIbShaWo5vll0Dueo5CjAG9QrP+`

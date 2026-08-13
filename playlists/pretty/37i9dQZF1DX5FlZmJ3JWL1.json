@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 772355,
+  "num_followers": 772334,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLCRLzEqqoWcQV2TiVNACh48JQy",
+  "snapshot_id": "AAAAAITH6V77cPIt06nUZL+1t00fd2O+",
   "tracks": [
     {
       "added_at": "2026-07-27 14:54:52",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "A New Day (feat. Celine Dion)",
-        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        },
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 207223,
-      "name": "A New Day (feat. Celine Dion)",
-      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
-    },
-    {
-      "added_at": "2026-07-27 14:54:52",
-      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2026-07-27 14:54:52",
+      "album": {
+        "name": "A New Day (feat. Celine Dion)",
+        "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "A New Day (feat. Celine Dion)",
+      "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
     },
     {
       "added_at": "2026-07-27 14:54:52",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "Blah Blah Blah",
-        "url": "https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU"
-      },
-      "artists": [
-        {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa"
-        }
-      ],
-      "duration_ms": 100851,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1"
-    },
-    {
-      "added_at": "2026-07-27 14:54:52",
-      "album": {
         "name": "Mask Off",
         "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 155070,
       "name": "Mask Off",
       "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
+    },
+    {
+      "added_at": "2026-07-27 14:54:52",
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa"
+        }
+      ],
+      "duration_ms": 100851,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1"
     },
     {
       "added_at": "2026-07-27 14:54:52",
@@ -1027,18 +1027,30 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "call me back",
-        "url": "https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1"
+        "name": "2 Times",
+        "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
       "artists": [
         {
-          "name": "Ordinary Kid",
-          "url": "https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9"
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        },
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
         }
       ],
-      "duration_ms": 114906,
-      "name": "call me back",
-      "url": "https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f"
+      "duration_ms": 131200,
+      "name": "2 Times",
+      "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
     }
   ],
   "unique_name": "Fit Beats ",

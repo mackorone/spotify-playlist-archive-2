@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: أبيوسف
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: عفروتو
 
-486 songs - 23 hr 42 min
+488 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [7abba Fo2](https://open.spotify.com/track/7H4mKyHWHkZF5pDpAtzLES) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [7abba Fo2 // 7abba Ta7t](https://open.spotify.com/album/1o6axxoJca4D2hO5l288gi) | 3:20 | 2024-01-25 | 2024-02-29 |
 | [7adana](https://open.spotify.com/track/1KPz54jwOt4TVWzvAGrjbN) | [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [7adana](https://open.spotify.com/album/5qZ56wDr3oWLmI1Ka0c32m) | 2:00 | 2026-07-06 |  |
 | [7aleyan Dawal Mota7](https://open.spotify.com/track/4j8VgIrBRugvTSyZIevnrj) | [Omar Taa'i](https://open.spotify.com/artist/4qCH9MNMlv47zWDC51u9k8), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Barakat](https://open.spotify.com/artist/6VJ4YzOWef7k84FYAYoIdm) | [Monologue](https://open.spotify.com/album/3GLaPHbqFaHgck2CaqDPBY) | 3:26 | 2026-05-18 | 2026-06-10 |
+| [7AQIBA](https://open.spotify.com/track/6ctaPVnYjdO4mm3QPBsrmX) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [7AQIBA](https://open.spotify.com/album/3fbiInrJN3oDkFHqOqrBQV) | 2:30 | 2026-08-12 |  |
 | [7een Maysara](https://open.spotify.com/track/7B5bU1o9ReQz0J8R7y8FYh) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM) | [7een Maysara](https://open.spotify.com/album/6xloo6KQt8sMmC723Hds7N) | 3:12 | 2023-02-23 | 2023-06-16 |
 | [7een Maysara \(Molowave\)](https://open.spotify.com/track/3lp7tZy3eHmm7GVAzVY82W) | [Molotof](https://open.spotify.com/artist/57UiSuUcw9m0MV4bC2DukM), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [7een Maysara \(Molowave\)](https://open.spotify.com/album/3Gy9HYNnuX51dSjLYHH6xN) | 3:12 | 2022-05-25 | 2022-12-30 |
 | [7OB BAS EH](https://open.spotify.com/track/14DGhLzPgz7XcN49AoNdP5) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MAGNÜN](https://open.spotify.com/album/5ojlIYbzFFXaiNmBzxeiz9) | 2:55 | 2025-06-04 | 2025-10-17 |
@@ -226,6 +227,7 @@
 | [kawabes](https://open.spotify.com/track/1cJ8RNwEcWs2XgN9RNgHgg) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [uncl](https://open.spotify.com/artist/1MXxWX8lps82eJc3w1L7Q6) | [Kawabes](https://open.spotify.com/album/4vZdWRsfMefNuI1YPGsyEW) | 2:43 | 2023-09-30 | 2023-10-06 |
 | [Kaza Haga](https://open.spotify.com/track/1O5LEAhDtlAXzamXEyuTP9) | [Slyver PV](https://open.spotify.com/artist/6WCzZyJR1Kt9X1oare81V8) | [Kaza Haga](https://open.spotify.com/album/1ZLQ1HRSdS9SpjUuQLxagw) | 2:54 | 2024-05-01 | 2024-06-10 |
 | [KEBDA](https://open.spotify.com/track/2Cs1t49qL52fPt6ikx15wp) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:50 | 2025-08-12 | 2026-02-26 |
+| [Keep Calm](https://open.spotify.com/track/7oPgeGYq72XAqA0q1Rdl4H) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Young Giza](https://open.spotify.com/artist/2lqKRL9LRTz8SLYssfS8G1), [Keen](https://open.spotify.com/artist/42yBlp8kHfIyvOgx5o4ufy) | [ElDalma x ElNoor](https://open.spotify.com/album/0VMEerHoHLRrtwVqf1HkBH) | 3:22 | 2026-08-12 |  |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-05-10 | 2022-12-27 |
 | [Khalsana 2 \(Intro\)](https://open.spotify.com/track/7thLS840COKt4I1eY2kvkO) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Sa7eb El Sa3ada](https://open.spotify.com/album/4GGCilgZeNnCNeUWg5jqDy) | 2:07 | 2024-12-19 | 2025-06-11 |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-21 | 2023-08-25 |

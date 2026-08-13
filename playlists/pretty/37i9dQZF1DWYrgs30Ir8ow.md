@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: The Opposites
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,556 likes - 45 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,549 likes - 45 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 44 | [Multimiljonair](https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Multimiljonair](https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd) | 2:13 |
 | 45 | [Vergeten](https://open.spotify.com/track/6Yj1i2nGfRgGQTslGK5But) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vergeten](https://open.spotify.com/album/4eqi0DD0szFvErxaNCwX9R) | 2:48 |
 
-Snapshot ID: `AAAAAA3PRPAtq2951YcZeCxOa/waM6Fs`
+Snapshot ID: `AAAAANYZSFDPCKqJxlOijccBGbnGxJcr`

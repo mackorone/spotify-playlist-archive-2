@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 39081,
+  "num_followers": 39085,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABHvbfBFU/M5wPxT6/P4b36",
+  "snapshot_id": "anpmAAAAAAB0JbXZcFDZ54rqtRbiebyg",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boycott",
-        "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 339733,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 263973,
       "name": "Before I Die",
       "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boycott",
+        "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 339733,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 388586,
+      "name": "Give Me (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 423106,
       "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
       "url": "https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 388586,
-      "name": "Give Me (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kirk Franklin Presents: Songs For The Storm, Volume 1",
-        "url": "https://open.spotify.com/album/6ZU8KFm0WRJw1vfwepNRdO"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "Melodies From Heaven - With Kirk Franklin Outro",
-      "url": "https://open.spotify.com/track/0lidygcxcvRwlgMslWMCVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Fear",
         "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
@@ -783,26 +767,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+        "name": "Kirk Franklin Presents: Songs For The Storm, Volume 1",
+        "url": "https://open.spotify.com/album/6ZU8KFm0WRJw1vfwepNRdO"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 202117,
-      "name": "Melodies From Heaven (feat. Maryanne J. George, Chandler Moore)",
-      "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
+      "duration_ms": 286960,
+      "name": "Melodies From Heaven - With Kirk Franklin Outro",
+      "url": "https://open.spotify.com/track/0lidygcxcvRwlgMslWMCVs"
     },
     {
       "added_at": null,
@@ -839,18 +815,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
       },
       "artists": [
         {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
         }
       ],
-      "duration_ms": 391695,
-      "name": "Father Knows Best",
-      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
+      "duration_ms": 202117,
+      "name": "Melodies From Heaven (feat. Maryanne J. George, Chandler Moore)",
+      "url": "https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 241988,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 391695,
+      "name": "Father Knows Best",
+      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 265693,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 245901,
+      "name": "Strong God",
+      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,159 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,174 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 57 | [California Zephyr](https://open.spotify.com/track/4eBvIlQ3EhaP2b8At53Woo) | [Jay Farrar](https://open.spotify.com/artist/4tPRMBm25eaPJaceUBPqTK), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [One Fast Move Or I'm Gone Music From Kerouac's Big Sur](https://open.spotify.com/album/3Lki97wGb11VOTrjCEAgCj) | 2:23 |
 | 58 | [Does My Ring Burn Your Finger](https://open.spotify.com/track/5gABUTybqevRxpFA9Bl2AT) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp) | [Cruel Moon](https://open.spotify.com/album/6BCNak8WCST4LLYSGborQk) | 3:15 |
 | 59 | [Chickamauga](https://open.spotify.com/track/3pnfc7f0fix6C6HcOLYxzH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:42 |
-| 60 | [Back Against the Wall](https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Notes of Blue](https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs) | 3:27 |
-| 61 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
+| 60 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 |
+| 61 | [Back Against the Wall](https://open.spotify.com/track/1JWqYAwi12yzh2UmoS4BcM) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Notes of Blue](https://open.spotify.com/album/1KH2KuYqXDkFfUhfCLrEbs) | 3:27 |
 | 62 | [Tecumseh Valley](https://open.spotify.com/track/7eby7k1AaLr3YT8z9wE996) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Tecumseh Valley / Pancho & Lefty](https://open.spotify.com/album/79qPXm841M359NMu11XLEH) | 4:40 |
 | 63 | [Brimstone Rock](https://open.spotify.com/track/1nzQhAyJBeWmR75nGcrbKG) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Low Estate](https://open.spotify.com/album/5uoiYvMMws1vvpUUXXF2RM) | 4:28 |
 | 64 | [Moonshiner](https://open.spotify.com/track/7KJ2nuhkrBXudfs0fmyw04) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Uncle Tupelo 89/93: An Anthology](https://open.spotify.com/album/3QTZMpN4IHejzml5kxVGEG) | 4:23 |
-| 65 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |
-| 66 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
+| 65 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
+| 66 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |
 | 67 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
 | 68 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
 | 69 | [The Beauty Way](https://open.spotify.com/track/5plZsXyfMyDP5bvDIGrqOz) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Delirium Tremolos](https://open.spotify.com/album/3CQA3UGZ7hj4HbTnGpEGf9) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |
 | 75 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
 
-Snapshot ID: `AAAAAN8Ocds+wYgnHu4HtfQ4cNbpsyMd`
+Snapshot ID: `AAAAALn3WkVVwKFEYCV1rdTyxFnrZNdw`

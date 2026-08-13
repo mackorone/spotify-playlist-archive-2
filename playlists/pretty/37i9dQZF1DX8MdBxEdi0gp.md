@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,165 likes - 150 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,189 likes - 150 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 13 | [La Ladrona \- Remasterizado 2009](https://open.spotify.com/track/2OY00BdjZx4wVLoAsFaked) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Estoy Vivo \(Remasterizado 2009\)](https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm) | 3:04 |
 | 14 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 15 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
-| 16 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
+| 16 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
 | 17 | [Porque te vas](https://open.spotify.com/track/7vQZSwm9WRCHoPwUUuwkvv) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [iCollection](https://open.spotify.com/album/0vFB9bkeOurUUvOvIwUbnW) | 3:21 |
-| 18 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
+| 18 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
 | 19 | [Un Velero Llamado Libertad](https://open.spotify.com/track/2eKBLX1uF9PgvJ6qqGwmRZ) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 3:42 |
 | 20 | [Muchachita](https://open.spotify.com/track/3PyTaC8BN0de4KfYaQDtBs) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [Coleccion Original](https://open.spotify.com/album/3w9P0pRKVkFgoa8KfI4Kfh) | 3:29 |
 | 21 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 56 | [Cierro mis ojos](https://open.spotify.com/track/1lIoDQMqHnqrztP5rnk296) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:33 |
 | 57 | [Recuerdos de una Noche](https://open.spotify.com/track/1HvnEWOy2ykY8sJa2K6y7s) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 3:02 |
 | 58 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 |
-| 59 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
-| 60 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
+| 59 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
+| 60 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
 | 61 | [Te Quiero Tanto](https://open.spotify.com/track/69GXCPQD5UpeW0oX1M91J4) | [Ivan](https://open.spotify.com/artist/46pR6XQFnDyuprcvxrrHvq) | [Lo Mejor de Ivan](https://open.spotify.com/album/00jEmmiHzvsIWK1Uepkoga) | 3:53 |
 | 62 | [El Reloj](https://open.spotify.com/track/27u17peWruKyUe7RfBglZC) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:02 |
 | 63 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 80 | [Castillos en el aire](https://open.spotify.com/track/39tN3TRbpPvm4rqdMn7hZ9) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [Castillos en el aire](https://open.spotify.com/album/3gQtNYk66VQ8DEMG0mGRxw) | 3:18 |
 | 81 | [¡Oh! Carol](https://open.spotify.com/track/0kdio5dhabYhLtzK1H5srr) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Las 5 mejores](https://open.spotify.com/album/2EJAzMWleSFIeRfi6CuPlf) | 2:19 |
 | 82 | [Rosas en el Mar](https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 3:47 |
-| 83 | [Si Quieres Verme Llorar](https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7) | [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Si Quieres Verme Llorar](https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD) | 3:10 |
-| 84 | [Este Terco Corazón](https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:39 |
-| 85 | [Te regalo mis ojos](https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu) | [María del Rayo y Los Gatos Salvajes](https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:55 |
-| 86 | [Lo Que Te Queda](https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ) | [Los Pulpos](https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:01 |
+| 83 | [Este Terco Corazón](https://open.spotify.com/track/3hTws9UVZRfM3xBx088KKe) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 3:39 |
+| 84 | [Lo Que Te Queda](https://open.spotify.com/track/4SrOqEKxfldAFrV37aF1pQ) | [Los Pulpos](https://open.spotify.com/artist/3cfF0Dzyws8BcRvDRsNd5N) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:01 |
+| 85 | [Si Quieres Verme Llorar](https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7) | [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Si Quieres Verme Llorar](https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD) | 3:10 |
+| 86 | [Te regalo mis ojos](https://open.spotify.com/track/1ytZAKRIBtkSIre6FbBGnu) | [María del Rayo y Los Gatos Salvajes](https://open.spotify.com/artist/17RZFRN9B0UKJ2P18muMF7) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:55 |
 | 87 | [Cuando Estemos Juntos](https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1) | [Tatiana y Johnny](https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm) | [Tatiana y Johnny](https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi) | 3:43 |
 | 88 | [Verónica](https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [Serie 32](https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo) | 3:50 |
 | 89 | [Estoy Perdido](https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 3:13 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 99 | [Flor de Azalea](https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Coleccion Original](https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK) | 3:06 |
 | 100 | [Estoy Soñando \- Spanish Version](https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 4:38 |
 | 101 | [Amor En El Aire](https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Vida De Cine](https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r) | 2:15 |
-| 102 | [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 |
-| 103 | [Fresa Salvaje](https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Solo un Hombre](https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1) | 2:38 |
+| 102 | [Fresa Salvaje](https://open.spotify.com/track/4os2bpWIC7YU2FOFdsSSpN) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Solo un Hombre](https://open.spotify.com/album/0MtOky1pPfQFcLkPwuRzz1) | 2:38 |
+| 103 | [Alguien Como Tú](https://open.spotify.com/track/3MSANqjlRzOAqLT02CPWBM) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 3:54 |
 | 104 | [La Llamada](https://open.spotify.com/track/6PzPUgspUxbCoH5z7a9VVl) | [Sergio Y Estibaliz](https://open.spotify.com/artist/3MWGlOeCsA70Lu9eURTzlV) | [Tal Como Eramos](https://open.spotify.com/album/1iEZf9Ha37Hy1egI5kuT8A) | 3:30 |
 | 105 | [Yo Que No Vivo Sin Ti](https://open.spotify.com/track/6B7ohoEc96VRnmgzopDPG0) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 3:02 |
 | 106 | [Cinco Canas Mas](https://open.spotify.com/track/5riZDaCsIM7ylEIUTMOQo7) | [Trigo Limpio](https://open.spotify.com/artist/2D5GkhykibubYsgi1CpVAO) | [Mi Historia](https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa) | 3:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 149 | [Antes De Que Te Vayas](https://open.spotify.com/track/7DewwHhdPazof5cOYwrLQw) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:56 |
 | 150 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
 
-Snapshot ID: `AAAAALtIeK30MlNBmGP1h1u4+ELUV/Eb`
+Snapshot ID: `AAAAADqYfMo1BW2B0ZP+xHiLocXWzYcH`

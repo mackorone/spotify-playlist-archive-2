@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "Soul Out",
+        "url": "https://open.spotify.com/album/1TzuQv0ac32UOqa8HNUvmb"
+      },
+      "artists": [
+        {
+          "name": "Hazy Lane",
+          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265080,
+      "name": "Broken Mirrors",
+      "url": "https://open.spotify.com/track/2Q937SaVxiS2frvTSFyhoz"
+    },
+    {
+      "album": {
         "name": "Broken Mirrors",
         "url": "https://open.spotify.com/album/3MgB1ndfRsXWlBtLt3j3Rs"
       },

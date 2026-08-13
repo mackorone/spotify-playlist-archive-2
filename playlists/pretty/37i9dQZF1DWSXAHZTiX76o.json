@@ -1,12 +1,12 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 344746,
+  "num_followers": 344727,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABQazIpWFbD4RwA8J/dIeDX4djzy",
+  "snapshot_id": "AAAAABJ+M+T8jQPAe5WiqNN1S3NrbNIv",
   "tracks": [
     {
       "added_at": "2025-12-03 13:14:43",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
+        "name": "CUERPO",
+        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/45VLxFP4Gk1eH5FMHf4Oy0"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 341376,
       "name": "Har\u00e9m",
       "url": "https://open.spotify.com/track/2erhUFGpL85eP1NuTSuuig"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
-        "name": "CUERPO",
-        "url": "https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "en la cara",
-      "url": "https://open.spotify.com/track/45VLxFP4Gk1eH5FMHf4Oy0"
     },
     {
       "added_at": "2025-12-03 13:14:43",

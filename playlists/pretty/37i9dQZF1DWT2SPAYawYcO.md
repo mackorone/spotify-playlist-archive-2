@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from ROLE MODEL, The Avalanches, Portraits of Tracy, STELLA LEFTY, Alex Warren + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,346 likes - 87 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,302 likes - 87 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 86 | [FINE SHYT](https://open.spotify.com/track/3rsEkyGaNFu1hKNEmO0HuQ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Yashvi Desai](https://open.spotify.com/artist/5ntCO5HPyG4Txr6CdHz3az), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [FINE SHYT](https://open.spotify.com/album/0wvNIvURjXYBazdw9ZReFV) | 2:18 |
 | 87 | [Stronger](https://open.spotify.com/track/0yX4mG2zxUbQuLpvn8GRKr) | [Tim Light](https://open.spotify.com/artist/3B7gh63KbpVYSWUHRH3f1W), [Albert Salt](https://open.spotify.com/artist/2SfMLBjviVWs0UTG8aBvzp) | [Stronger](https://open.spotify.com/album/4adEIP0C3nttWXvqM0cFii) | 3:01 |
 
-Snapshot ID: `AAAAAJIEmjXWmqe3I4Lnu3Ffj3nxSDWB`
+Snapshot ID: `AAAAAEhnn+s2mxSViRUn/Yxqr/gh/QWd`

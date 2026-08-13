@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Derin Falana
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,462 likes - 53 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,473 likes - 53 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 52 | [New Motor](https://open.spotify.com/track/2OAxKC7VXapgK47dkdXuqb) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [New Motor](https://open.spotify.com/album/16p2kU3BHNQ6917SIqh5Fd) | 1:54 |
 | 53 | [Que Sera](https://open.spotify.com/track/5ITL4jQQFHcnlkClBcVLJa) | [Stoney Jackson](https://open.spotify.com/artist/4pJSL3Q8yWIS78DpblIaOZ) | [Que Sera](https://open.spotify.com/album/4Y8GeXC8S1WVwCOZwm24H2) | 3:40 |
 
-Snapshot ID: `AAAAAAJCc13aI1Fs3Sxf+uUTOrppiIoO`
+Snapshot ID: `AAAAAAVygE+W/xx//mACoqVssIos2qXB`

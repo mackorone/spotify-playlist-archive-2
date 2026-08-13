@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,618 songs - 10 day 8 hr 26 min
+4,619 songs - 10 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1205,6 +1205,7 @@
 | [Echoes in the Night \(another\)](https://open.spotify.com/track/4prx5TEmNsmKugFGL6r9uz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Powerful Pop Blues](https://open.spotify.com/album/4Vv9uahkEqarWm0ENeG2KM) | 4:00 | 2025-09-17 |  |
 | [Echoes in the Pines](https://open.spotify.com/track/509GZSK6gNiAXry6e5CtJ1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 4:00 | 2025-09-19 |  |
 | [Echoes in the Pines \(another\)](https://open.spotify.com/track/6wA2gwmJknY3RYGvnmpML7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:13 | 2025-09-19 |  |
+| [Echoes Of Aether](https://open.spotify.com/track/2EOgtXubkshm9MiCFizYHI) | [Sanguira](https://open.spotify.com/artist/6V7rI2im6CabcUrznsNmdv) | [Echoes Of Aether](https://open.spotify.com/album/72o1LWmCp60Irn8pygPCmD) | 3:09 | 2026-08-12 |  |
 | [Echoes of Eternity](https://open.spotify.com/track/5IE93qevBgBhkEGd2Y0oks) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New age pop enjoy and relax](https://open.spotify.com/album/58FDba6X3tB92863zyLw1t) | 5:13 | 2025-09-13 |  |
 | [Echoes of Eternity \(another\)](https://open.spotify.com/track/4dHUztepCDFYBecyon0SBO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New age pop enjoy and relax](https://open.spotify.com/album/58FDba6X3tB92863zyLw1t) | 5:01 | 2025-09-13 |  |
 | [Echoes of Eternity 2](https://open.spotify.com/track/3zwyo3qlX1aRT9cZE5GJE5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New age pop enjoy and relax](https://open.spotify.com/album/58FDba6X3tB92863zyLw1t) | 5:12 | 2025-09-13 |  |
@@ -3436,7 +3437,7 @@
 | [Sesso & Vino](https://open.spotify.com/track/3jxMw9TxM04BgM6HF7Ve0t) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Sesso & Vino](https://open.spotify.com/album/0Cx1yXdH8B6tVxLO5jdVVW) | 3:09 | 2025-06-06 |  |
 | [Set Him Free](https://open.spotify.com/track/3WQUHix74Pp8RflJBNSNoX) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [Set Him Free](https://open.spotify.com/album/3aMryRUbkqhEUPUIc1PIL3) | 3:38 | 2025-11-02 |  |
 | [seven](https://open.spotify.com/track/3YzRYT7EtyE25xLljYqjoM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:04 | 2025-08-20 |  |
-| [Seven days a week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven days a week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 | 2025-09-17 |  |
+| [Seven Days a Week \- Demo](https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Seven Days a Week \(Demo\)](https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd) | 3:47 | 2025-09-17 |  |
 | [seventeen](https://open.spotify.com/track/1ikx8mBXjEk45nbF6ZP7e5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:58 | 2025-08-20 |  |
 | [Sex Appeal](https://open.spotify.com/track/7um15LqVMfsUNaqtpv0cBG) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Sex Appeal](https://open.spotify.com/album/1xrXkVdiu7BlPV1z0KYapO) | 2:24 | 2024-10-06 |  |
 | [Sex Pest](https://open.spotify.com/track/0T32fh13xMmLivoaJNaerj) | [\[SCRAP\]](https://open.spotify.com/artist/5Nlu9OoO4dMMcxxV92sJb7) | [Sex Pest](https://open.spotify.com/album/1AMlkVRUDTup9D9NVm5F2F) | 2:25 | 2025-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Will Linley
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,115 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,103 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 |
 | 50 | [Lighter](https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Lighter](https://open.spotify.com/album/7noeJvJA9P86ZUThp2bTRh) | 4:52 |
 
-Snapshot ID: `AAAAAERLOqzRL+G865y2klj5K0GIq0t+`
+Snapshot ID: `AAAAAAJevtBNRfpqlrQWD3xm4gOOsjEv`

@@ -1,12 +1,12 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 589925,
+  "num_followers": 590004,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0OoGL0yXaBvscvzKN+JorWkYHx",
+  "snapshot_id": "AAAAADvx4vjreCGIIGZ8aaExgPp/540v",
   "tracks": [
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 139146,
-      "name": "im so happy",
-      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "KILL THE GHOST",
         "url": "https://open.spotify.com/album/3BMM3Kv5iUtKkvjxLDkMzN"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 218121,
       "name": "Shadow (I'm Breaking Down)",
       "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "misery",
+        "url": "https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "im so happy",
+      "url": "https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "in your head",
-        "url": "https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm"
-      },
-      "artists": [
-        {
-          "name": "cloudyfield",
-          "url": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "in your head",
-      "url": "https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 238880,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "in your head",
+        "url": "https://open.spotify.com/album/6FeKgvDfFFEqEbEksoTdIm"
+      },
+      "artists": [
+        {
+          "name": "cloudyfield",
+          "url": "https://open.spotify.com/artist/1QXwIgp7aA3JT7WIyaAcur"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "in your head",
+      "url": "https://open.spotify.com/track/4o6xvp0vmdHMeS4Z5qeRQw"
     },
     {
       "added_at": "2026-04-07 21:11:18",

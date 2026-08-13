@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxOR9LGlUTr.md) - [plain]
 
 > These are the songs that have shaped "Yellowjackets" composers Anna Waronker & Craig Wedren's alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,864 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,869 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxOR9LGlUTr.md) - [plain]
 | 18 | [The Orchids](https://open.spotify.com/track/00c2vsoZuubtGkLFQCdT1p) | [Psychic TV](https://open.spotify.com/artist/3oi0s3WIuxBU5oh87n7za2) | [Dreams Less Sweet](https://open.spotify.com/album/1XqqvDgFYxFu0bX9CjuW6S) | 2:57 |
 | 19 | [The Electrician](https://open.spotify.com/track/1xD44zf2m2Ww06kZFRmeEc) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Nite Flights](https://open.spotify.com/album/4lGpTlVO3AntE6meVeRDt8) | 6:04 |
 | 20 | [Miste](https://open.spotify.com/track/4rpfEr3f82eesktZEu5gUC) | [The Haxan Cloak](https://open.spotify.com/artist/543jOiqi5zLNZIOv7rA6rg) | [Excavation](https://open.spotify.com/album/2iMuDUx0AkuUemuFtmhUG1) | 5:37 |
-| 21 | [Winter Kills](https://open.spotify.com/track/3JySPH4q2kIney2XFqTWxG) | [Yaz](https://open.spotify.com/artist/3xZ88swJsZ6RR5eKZ83jfH) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 4:04 |
+| 21 | [Winter Kills](https://open.spotify.com/track/3JySPH4q2kIney2XFqTWxG) | [YAZ](https://open.spotify.com/artist/3KxxFYwbmiRf1i4Wm6Jaip) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 4:04 |
 | 22 | [Opening](https://open.spotify.com/track/6W8a4Jn48HjgDOWHyAa0Em) | [Shudder To Think](https://open.spotify.com/artist/3PP5Hnii2zI9Ufm7jFkers) | [High Art](https://open.spotify.com/album/0a7yzLZX8ZfZaipjeKyj8J) | 2:07 |
 | 23 | [3\. Courante](https://open.spotify.com/track/0WyrOGJPJcJcJdTcunzzxe) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH), [Brad Wells](https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6) | [Caroline Shaw: Partita for 8 Voices](https://open.spotify.com/album/4Py5CloXVddDHFphlwAY1s) | 8:59 |
 | 24 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxOR9LGlUTr.md) - [plain]
 | 29 | [LAX](https://open.spotify.com/track/7buq0625ImumwYrQutzo2s) | [Theodore Shapiro](https://open.spotify.com/artist/6N1Kaz3CvRa9VLll5ahk9T) | [Destroyer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71VeS3G00zXhORszYbMVye) | 2:45 |
 | 30 | [Needed Me](https://open.spotify.com/track/2252EIwkFG7Jobs6bW6SVd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI](https://open.spotify.com/album/2uN9icB3V4A5Tp7MiIvW2l) | 3:11 |
 
-Snapshot ID: `AAAAAMtA928yFVWwqew1RnKWue0M5wZh`
+Snapshot ID: `AAAAAFno5l5CVKRg1L+QSTNiyRsPnYHI`

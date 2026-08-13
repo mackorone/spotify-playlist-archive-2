@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,117 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,123 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 89 | [Walk On By](https://open.spotify.com/track/3L5gEVVFs7aJD6gP7NGKoB) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Classic Country Gold](https://open.spotify.com/album/7fpp1Q64fGPj0XXXh92ovu) | 2:20 |
 | 90 | [She Thinks I Still Care \- Single Version](https://open.spotify.com/track/5pwqtpAazoPh1G3txEIPAB) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Best Of](https://open.spotify.com/album/4HucnJEyRrftVJCYfMzWDp) | 2:33 |
 | 91 | [Jackson \(with June Carter Cash\)](https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Keep On the Sunny Side \- June Carter Cash: Her Life In Music](https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN) | 2:46 |
-| 92 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
+| 92 | [Love's Gonna Live Here](https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:04 |
 | 93 | [Honey \- 1991 \- Remaster](https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey \- The Best of Bobby Goldsboro](https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp) | 3:59 |
 | 94 | [Green Green Grass Of Home](https://open.spotify.com/track/5TLkHWQBlL3sMDteMbskzi) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [20 All\-Time Greatest Hits](https://open.spotify.com/album/7rM3UENeHolGt23rGMhRLv) | 2:58 |
 | 95 | [Lonesome 7\-7203](https://open.spotify.com/track/6ZW6ND4N7oKkUhKqWZhjyk) | [Hawkshaw Hawkins](https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV) | [20 Greatest Hits](https://open.spotify.com/album/3xyu25a0dgVUf3JeDXql9i) | 2:46 |
 | 96 | [A Boy Named Sue \- Live Version](https://open.spotify.com/track/6bMvOAtKZ55b00lrGQZPfA) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Greatest: The Number Ones](https://open.spotify.com/album/3uQReDOmST2pucGDXd8AvO) | 3:45 |
-| 97 | [Love's Gonna Live Here](https://open.spotify.com/track/0svhKL5JfIxASjbmEkxXKV) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:04 |
+| 97 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
 | 98 | [Poetry In Motion \- 1960 \#2 Billboard chart hit](https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:34 |
 | 99 | [Leavin' On Your Mind \- Single Version](https://open.spotify.com/track/1UX3YnunUhblOJbdnX64F2) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sweet Dreams: Her Complete Decca Masters \(1960\-1963\)](https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC) | 2:24 |
 | 100 | [Yesterday When I Was Young](https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [The Best Of Roy Clark](https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q) | 3:20 |
 
-Snapshot ID: `AAAAAAiDbgm8rNo/xGxIT7i/ds0w9Ha4`
+Snapshot ID: `AAAAAKOYvyqz4eGTnI2PUkarmxbCbTcY`

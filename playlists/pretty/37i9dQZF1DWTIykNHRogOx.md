@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Lisa Pariente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,941 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,933 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Le oui de trop](https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D) | [Hermance](https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS) | [Le oui de trop](https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ) | 2:40 |
 | 50 | [Encore un peu](https://open.spotify.com/track/5XftKlBfuqCdDQawQ2irNP) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [Encore un peu](https://open.spotify.com/album/3PcCcn7Ux7l9xAT2v0XxKc) | 2:41 |
 
-Snapshot ID: `AAAAACnFlDVcmEzWa7D7aPUMeVDTwkrv`
+Snapshot ID: `AAAAAKuQlD/rJbFGiPGarYN76mxgIe4E`

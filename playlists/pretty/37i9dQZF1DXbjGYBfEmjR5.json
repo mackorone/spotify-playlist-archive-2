@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 366597,
+  "num_followers": 366609,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFrV7NGobREY84rlUabcNIWpQlPv",
+  "snapshot_id": "AAAAAMj+AEFqqNsA5OF6Q1FfEodJxHsE",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
         "url": "https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -883,6 +883,22 @@
       "duration_ms": 173374,
       "name": "Why Future Funk ROCKED in '17",
       "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        }
+      ],
+      "duration_ms": 269752,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -935,22 +951,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        }
-      ],
-      "duration_ms": 269752,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Goodbye Future Funk",
         "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
       },
@@ -979,6 +979,26 @@
       "duration_ms": 161959,
       "name": "Like My Love",
       "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "PopSlinger (Original Videogame Soundtrack)",
+        "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
+      },
+      "artists": [
+        {
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+        },
+        {
+          "name": "FunKing",
+          "url": "https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Static Startup",
+      "url": "https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1015,26 +1035,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "PopSlinger (Original Videogame Soundtrack)",
-        "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
-      },
-      "artists": [
-        {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
-        },
-        {
-          "name": "FunKing",
-          "url": "https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Static Startup",
-      "url": "https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Your Secrets",
         "url": "https://open.spotify.com/album/6cH9tOo2WeiFrZhDMPqM5T"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 124363,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/0Hm9H8k6UVsCUU7z4nUzB9"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
+      },
+      "artists": [
+        {
+          "name": "Pure Gem",
+          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
+        }
+      ],
+      "duration_ms": 141145,
+      "name": "Shiny Shiny",
+      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "MOTORWAY",
         "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 292939,
       "name": "Tropical Feeling",
       "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
-      },
-      "artists": [
-        {
-          "name": "Pure Gem",
-          "url": "https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA"
-        }
-      ],
-      "duration_ms": 141145,
-      "name": "Shiny Shiny",
-      "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "VTEC",
-        "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
       },
       "artists": [
         {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        },
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
         }
       ],
-      "duration_ms": 243167,
-      "name": "VTEC",
-      "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "First Season",
-        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
+        "name": "VTEC",
+        "url": "https://open.spotify.com/album/0FB0c7iGjHB6mDUZBFx7FM"
       },
       "artists": [
         {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        },
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
         }
       ],
-      "duration_ms": 295894,
-      "name": "First Season",
-      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
+      "duration_ms": 243167,
+      "name": "VTEC",
+      "url": "https://open.spotify.com/track/6oCqimPPtCdcCtIettP6v9"
     },
     {
       "added_at": "2023-07-18 02:21:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,694 likes - 200 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,700 likes - 200 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 199 | [Move Ya](https://open.spotify.com/track/0ef2lnYxjH5R1gIiEb4R6r) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf) | [Move Ya](https://open.spotify.com/album/6m2olDAhuhtbhmSq3H6n1h) | 2:39 |
 | 200 | [All For You](https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All For You](https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60) | 3:33 |
 
-Snapshot ID: `AAAAAOP21JkWuXerj0jKOAfab8WV32Au`
+Snapshot ID: `AAAAAICg+ZROBt9RiaEBa+CGwSAZJOUs`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3813302,
+  "num_followers": 3812848,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGL+26Cx6K9zouGvCnZ/1oe0oQ3",
+  "snapshot_id": "AAAAAFy1D6TIuSiweqPRNl0EIQ7c0N8F",
   "tracks": [
     {
       "added_at": "2025-12-05 05:00:17",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Manuel Medrano",
-        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 190605,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Camilo",
         "url": "https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 249666,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Manuel Medrano",
+        "url": "https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -695,18 +695,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+      "duration_ms": 267272,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Secuencia",
         "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 221200,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "La Nave del Olvido",
-        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "La Nave del Olvido",
-      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 163333,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "La Nave del Olvido",
+        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Las Mejores Baladas del Pop",
-        "url": "https://open.spotify.com/album/1lit3xZhA3MycWXFCqnWFR"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5qRwSoEIzmNOo8XlSscM8y"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 288600,
       "name": "Como Yo Te Amo",
       "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Las Mejores Baladas del Pop",
+        "url": "https://open.spotify.com/album/1lit3xZhA3MycWXFCqnWFR"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5qRwSoEIzmNOo8XlSscM8y"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Dicen",
-        "url": "https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 227422,
-      "name": "Simplemente T\u00fa",
-      "url": "https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Yo S\u00e9 Que Te Acordar\u00e1s Pop Latino (Vol. 2)",
         "url": "https://open.spotify.com/album/7wdGqytcLvhJCFkE2t5pNZ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 224373,
       "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/41MbmJ4NShxvMc8KrsmiiE"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 227422,
+      "name": "Simplemente T\u00fa",
+      "url": "https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA"
     },
     {
       "added_at": "2025-12-05 05:00:17",

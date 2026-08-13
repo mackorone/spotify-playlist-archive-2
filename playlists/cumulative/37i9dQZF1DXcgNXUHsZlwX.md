@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-633 songs - 1 day 13 hr 36 min
+634 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Dans tes bras](https://open.spotify.com/track/6MqZU9IaaFM7LPNuRnFlUf) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Dans tes bras](https://open.spotify.com/album/5SbmPKpoZHhRMMeh2KTM76) | 4:01 | 2021-01-03\* | 2021-05-08 |
 | [Dans une autre cour](https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Dans une autre cour](https://open.spotify.com/album/2pbm1dBkHpVlIn6jxKU0iN) | 2:24 | 2026-03-27 |  |
 | [Dead Shopping Mall](https://open.spotify.com/track/53YJFdzWn606fbJc9ngrm8) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mitshuap \(Deluxe\)](https://open.spotify.com/album/7afIEP4llzhNpu5xo43jOj) | 4:13 | 2023-06-02 | 2023-07-09 |
+| [Dear Friend, Queer Friend](https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC), [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Dear Friend, Queer Friend](https://open.spotify.com/album/3qCUk0kqHsXXZies60tO8C) | 5:16 | 2026-08-07 |  |
 | [Defunct Baseball Team](https://open.spotify.com/track/528146UttVCudD2otAEkEI) | [Drucker](https://open.spotify.com/artist/5Zl9VaZUCcLF64614o1Zks) | [Defunct Baseball Team](https://open.spotify.com/album/4BisJkUD3Bu6k8rnbhB1JG) | 2:28 | 2022-12-16 | 2024-06-17 |
 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 | 2026-01-30 |  |
 | [Demain nous nous verrons](https://open.spotify.com/track/1dRgHx8QuWoz2ApVgxOR46) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Entre deux éboulements](https://open.spotify.com/album/07l0yqSuVBOALvcDpx2WVN) | 2:34 | 2021-01-03\* | 2021-01-18 |
@@ -321,7 +322,7 @@
 | [Les mots que tu chantes](https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow), [John Nathaniel](https://open.spotify.com/artist/2Nb5cgwPtDPPL6Whe9zjfQ) | [Les mots que tu chantes](https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm) | 2:58 | 2026-05-15 |  |
 | [Les mots qui nous manquent](https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Les mots qui nous manquent](https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg) | 4:14 | 2024-05-03 | 2024-06-08 |
 | [Les nuits incandescentes](https://open.spotify.com/track/3Ahqt9mwrDj9hTvDQkz4AB) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Nos royaumes interdits](https://open.spotify.com/album/2OaemYlWbshatH7gXnNxyz) | 4:08 | 2021-02-22 | 2022-07-19 |
-| [Les oiseaux](https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Les oiseaux](https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu) | 4:04 | 2025-11-28 |  |
+| [Les oiseaux](https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Les oiseaux](https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu) | 4:04 | 2025-11-28 | 2026-08-13 |
 | [Les pieds dans le vide \- Radio Edit](https://open.spotify.com/track/3PVkLL0TmL2jbsBPgMtWiV) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Les pieds dans le vide \(Radio Edit\) \- Single](https://open.spotify.com/album/3Rb2F9S6VoRGDzl8H5J4yN) | 2:47 | 2021-01-03\* | 2021-10-13 |
 | [Les pommiers envahis](https://open.spotify.com/track/0iYZ8hkEx9POpr0TlS87pl) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Pays](https://open.spotify.com/album/6qNk4o8WSwbaT95aJuoW1n) | 4:59 | 2022-07-08 | 2023-06-17 |
 | [Les pommiers envahis](https://open.spotify.com/track/2NKZj5P2qpPZAH98ERdWc8) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Les pommiers envahis](https://open.spotify.com/album/6lJg8jJu2VKZOqAFTzQ4Ux) | 4:59 | 2021-01-15 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 1011498,
+  "num_followers": 1011589,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF199AQ7juhHYBPAxHk1+DnpwA0k",
+  "snapshot_id": "AAAAAGsGNJT6SSexnDjd677unE5LOjYS",
   "tracks": [
     {
       "added_at": "2024-07-05 23:26:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "My Generation (Stereo Version)",
-        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "My Generation - Stereo Version",
-      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 211787,
       "name": "The Night They Drove Old Dixie Down",
       "url": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "My Generation (Stereo Version)",
+        "url": "https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "My Generation - Stereo Version",
+      "url": "https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 133826,
-      "name": "Hello, I Love You",
-      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/4vXFiaDS8zuEl5bOUbW53x"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 270293,
       "name": "Up On Cripple Creek",
       "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 133826,
+      "name": "Hello, I Love You",
+      "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
     },
     {
       "added_at": "2024-07-05 23:26:53",

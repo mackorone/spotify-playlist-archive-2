@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 52094,
+  "num_followers": 52113,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWROGLjj1JXYlrLmO+dsIYyJESJ",
+  "snapshot_id": "AAAAAI76BerXqMDJuEbuFbr1J2OtxArr",
   "tracks": [
     {
       "added_at": "2020-02-10 14:27:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
-        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 209840,
-      "name": "Alles Is Liefde",
-      "url": "https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Blijf Bij Mij",
         "url": "https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5"
       },
@@ -599,6 +583,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "Alles Is Liefde",
+      "url": "https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Het Beste Van Guus Meeuwis",
         "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
       },
@@ -611,6 +611,26 @@
       "duration_ms": 232413,
       "name": "Proosten",
       "url": "https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Het Land Van",
+        "url": "https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF"
+      },
+      "artists": [
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        },
+        {
+          "name": "Baas B",
+          "url": "https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14"
+        }
+      ],
+      "duration_ms": 262728,
+      "name": "Het Land Van - Live",
+      "url": "https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -663,22 +683,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Verschil Moet Er Zijn",
-        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
-      },
-      "artists": [
-        {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Dansplaat",
-      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Het Beste Van Guus Meeuwis",
         "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
       },
@@ -691,6 +695,22 @@
       "duration_ms": 205653,
       "name": "Tranen Gelachen",
       "url": "https://open.spotify.com/track/31TZG9ivW7nWl14OWVoCak"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -711,22 +731,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Het Land Van",
-        "url": "https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF"
+        "name": "Vandaag",
+        "url": "https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt"
       },
       "artists": [
         {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        },
-        {
-          "name": "Baas B",
-          "url": "https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14"
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
         }
       ],
-      "duration_ms": 262728,
-      "name": "Het Land Van - Live",
-      "url": "https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT"
+      "duration_ms": 159866,
+      "name": "Rosanne",
+      "url": "https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -743,22 +759,6 @@
       "duration_ms": 246626,
       "name": "Hier",
       "url": "https://open.spotify.com/track/3haBN4UKYahsxHfsRotKvU"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt"
-      },
-      "artists": [
-        {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "Rosanne",
-      "url": "https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Allennig II",
-        "url": "https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS"
-      },
-      "artists": [
-        {
-          "name": "Dani\u00ebl Lohues",
-          "url": "https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "Hier Kom Ik Weg",
-      "url": "https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Herinneringen Het Beste van Nick & Simon Top 100",
         "url": "https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 176306,
       "name": "Kijk Omhoog",
       "url": "https://open.spotify.com/track/3Ka2Ti5ZreEHlp9R7BXyOj"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Allennig II",
+        "url": "https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS"
+      },
+      "artists": [
+        {
+          "name": "Dani\u00ebl Lohues",
+          "url": "https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6"
+        }
+      ],
+      "duration_ms": 208160,
+      "name": "Hier Kom Ik Weg",
+      "url": "https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f"
     }
   ],
   "unique_name": "00's Nederlandstalig",

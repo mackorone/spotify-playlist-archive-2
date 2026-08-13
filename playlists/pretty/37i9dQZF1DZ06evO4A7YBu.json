@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 43424,
+  "num_followers": 43425,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADxn8eLInWXSrzZkmRIbxDG",
+  "snapshot_id": "anpmAAAAAADNt/h+uKUcgD4Ahs0YaJU7",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 185160,
-      "name": "Shadow Zone",
-      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
+      "duration_ms": 138400,
+      "name": "Destroy All",
+      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 138400,
-      "name": "Destroy All",
-      "url": "https://open.spotify.com/track/2VYashoUmAFOKVEq5YUQjG"
+      "duration_ms": 185160,
+      "name": "Shadow Zone",
+      "url": "https://open.spotify.com/track/3HcUKdqS6M8dEticD9RC4G"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 243693,
-      "name": "Anything but This",
-      "url": "https://open.spotify.com/track/67hDFNvGg6NzkEfywf3gIS"
+      "duration_ms": 166133,
+      "name": "Head",
+      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Head",
-      "url": "https://open.spotify.com/track/1zLhzxd2qAs9fcWElOLOI2"
+      "duration_ms": 243693,
+      "name": "Anything but This",
+      "url": "https://open.spotify.com/track/67hDFNvGg6NzkEfywf3gIS"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 226734,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
+      "duration_ms": 178000,
+      "name": "Jic Boi",
+      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Jic Boi",
-      "url": "https://open.spotify.com/track/3nHUUCHlIX84DXbNwdltrZ"
+      "duration_ms": 226734,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/044X4VAFlD4p87OKU1VdGd"
     }
   ],
   "unique_name": "This Is Static-X",

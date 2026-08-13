@@ -1,12 +1,12 @@
 {
   "description": "English songs from Indian artists.\nCover: Tsumyoki",
-  "num_followers": 40092,
+  "num_followers": 40088,
   "original_name": "Indian Indie English",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHzTa8gn6syaXkXux+QYwV086zTi",
+  "snapshot_id": "AAAAAGLRiRKimbGWb9qYpnL9CO77fIPQ",
   "tracks": [
     {
       "added_at": "2026-08-07 05:50:11",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "pocket friendly: volume i",
-        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
-      },
-      "artists": [
-        {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
-        },
-        {
-          "name": "Anoushka Maskey",
-          "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "lighthouse",
-      "url": "https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "Glimpses",
         "url": "https://open.spotify.com/album/1sPxlbBKXOEEpaf6tCYuY1"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 213675,
       "name": "Glimpses",
       "url": "https://open.spotify.com/track/45mn7PSl1pgVo23ufjcGjT"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Anoushka Maskey",
+          "url": "https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/0ugCLPltxIsEaaPOnqyXRO"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "omg (Stripped Version)",
-        "url": "https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN"
-      },
-      "artists": [
-        {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
-        },
-        {
-          "name": "Anika",
-          "url": "https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7"
-        }
-      ],
-      "duration_ms": 206956,
-      "name": "omg - Stripped Version",
-      "url": "https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "Talk to me",
         "url": "https://open.spotify.com/album/3GEioo5CH4UFRa3zFPrx4r"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 161424,
       "name": "Talk to me",
       "url": "https://open.spotify.com/track/11nNuyjaqweghwyUySOjzv"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
+        "name": "omg (Stripped Version)",
+        "url": "https://open.spotify.com/album/5AfeQ52MnzIkoMGXCrvKkN"
+      },
+      "artists": [
+        {
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+        },
+        {
+          "name": "Anika",
+          "url": "https://open.spotify.com/artist/3eQjsu8rKDi7e62oFpnip7"
+        }
+      ],
+      "duration_ms": 206956,
+      "name": "omg - Stripped Version",
+      "url": "https://open.spotify.com/track/4HIr0vK4N4YQgLUZE3aQ80"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -947,6 +947,22 @@
       "duration_ms": 192000,
       "name": "Wait a sec",
       "url": "https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
+        "name": "Cortado",
+        "url": "https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr"
+      },
+      "artists": [
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        }
+      ],
+      "duration_ms": 172960,
+      "name": "Cortado",
+      "url": "https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "Cortado",
-        "url": "https://open.spotify.com/album/0xfjcySoQGecNzOjnzunzr"
-      },
-      "artists": [
-        {
-          "name": "Zeba Tommy",
-          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
-        }
-      ],
-      "duration_ms": 172960,
-      "name": "Cortado",
-      "url": "https://open.spotify.com/track/57d6mIQ1oZ6t0ftyT4wtcL"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1027,6 +1027,30 @@
       "duration_ms": 184320,
       "name": "Come Sit By My Bed",
       "url": "https://open.spotify.com/track/15TTMLZbrk30lUdGpFFCjz"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
+        "name": "Painted Faces",
+        "url": "https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL"
+      },
+      "artists": [
+        {
+          "name": "MR ISHAN JACK",
+          "url": "https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF"
+        },
+        {
+          "name": "Insha Gill",
+          "url": "https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj"
+        },
+        {
+          "name": "Sonic Wav",
+          "url": "https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh"
+        }
+      ],
+      "duration_ms": 179806,
+      "name": "Painted Faces",
+      "url": "https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa"
     },
     {
       "added_at": "2026-08-07 05:50:11",
@@ -1079,30 +1103,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "Painted Faces",
-        "url": "https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL"
-      },
-      "artists": [
-        {
-          "name": "MR ISHAN JACK",
-          "url": "https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF"
-        },
-        {
-          "name": "Insha Gill",
-          "url": "https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj"
-        },
-        {
-          "name": "Sonic Wav",
-          "url": "https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh"
-        }
-      ],
-      "duration_ms": 179806,
-      "name": "Painted Faces",
-      "url": "https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-07 05:50:11",
       "album": {
-        "name": "Baby Breath",
-        "url": "https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV"
-      },
-      "artists": [
-        {
-          "name": "Judah Sandhy",
-          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "Baby Breath",
-      "url": "https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd"
-    },
-    {
-      "added_at": "2026-08-07 05:50:11",
-      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 230522,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn"
+    },
+    {
+      "added_at": "2026-08-07 05:50:11",
+      "album": {
+        "name": "Baby Breath",
+        "url": "https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV"
+      },
+      "artists": [
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "Baby Breath",
+      "url": "https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd"
     },
     {
       "added_at": "2026-08-07 05:50:11",

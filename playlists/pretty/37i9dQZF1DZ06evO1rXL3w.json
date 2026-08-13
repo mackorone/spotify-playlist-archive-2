@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAQTJzXxtK2B1WDHxSRGjcv",
+  "snapshot_id": "anpmAAAAAABNeTmg+MGJmjKGk91USWlT",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 187206,
-      "name": "I Could Use a Boost",
-      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
+      "duration_ms": 129468,
+      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
     },
     {
       "added_at": null,
@@ -143,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
       },
       "artists": [
         {
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 129468,
-      "name": "I Love You Charlotte - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6f9hbu4xkABN8DSwyuNsIt"
+      "duration_ms": 187206,
+      "name": "I Could Use a Boost",
+      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 82002,
-      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV"
+      "duration_ms": 47072,
+      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 61321,
-      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
+      "duration_ms": 82002,
+      "name": "Hearts and Flowers Ball - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/60tThvmnpVzWnYkPNYMJzV"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 47072,
-      "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
-      "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
+      "duration_ms": 61321,
+      "name": "A Gift For Edwina - From the Netflix Series \u201cBridgerton Season Two\u201d",
+      "url": "https://open.spotify.com/track/6Lm25vtg4Z9RPyjzWwv5fz"
     },
     {
       "added_at": null,

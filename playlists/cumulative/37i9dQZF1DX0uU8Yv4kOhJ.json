@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 254815,
       "name": "Corazon de Rubi",
       "url": "https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 240000,
       "name": "Manana Tepotzlan",
       "url": "https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5"
@@ -1395,7 +1395,7 @@
       "artists": [
         {
           "name": "Los Incas",
-          "url": "https://open.spotify.com/artist/0XgSqpsOieBTVS8WooknPG"
+          "url": "https://open.spotify.com/artist/0FuVBvRYAU8R2GEyErL64H"
         }
       ],
       "date_added": "2022-05-03",

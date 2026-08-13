@@ -1,13 +1,113 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Ian Penn]. Artwork: Isu Kim.\n",
-  "num_followers": 70683,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [AEUNA]. Artwork: Isu Kim.\n",
+  "num_followers": 70684,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFda/3m3Zp7WUIQohTxB77kq0hQe",
+  "snapshot_id": "AAAAAOXZrSQeZkk8DIBcG5bmVAmFosBo",
   "tracks": [
+    {
+      "added_at": "2026-08-12 05:00:33",
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/6tJLNtMiKLl8tSBTrNRudw"
+      },
+      "artists": [
+        {
+          "name": "Monty Gi",
+          "url": "https://open.spotify.com/artist/2TBFowoG8SRg9opiTfO5r9"
+        }
+      ],
+      "duration_ms": 190837,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/4eyEuejVygsDJbOlDVIiwF"
+    },
+    {
+      "added_at": "2026-08-12 05:00:33",
+      "album": {
+        "name": "PWEDE PA BA?",
+        "url": "https://open.spotify.com/album/3vWoEer55gRSwALl3OP6vB"
+      },
+      "artists": [
+        {
+          "name": "Jemay Santiago",
+          "url": "https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "PWEDE PA BA?",
+      "url": "https://open.spotify.com/track/6vwucCuEg3nAEh4Y842B9h"
+    },
+    {
+      "added_at": "2026-08-12 05:00:33",
+      "album": {
+        "name": "PRETTY LITTLE LIARS",
+        "url": "https://open.spotify.com/album/5rsTESLWr1k0UleE7C21AA"
+      },
+      "artists": [
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "PRETTY LITTLE LIARS",
+      "url": "https://open.spotify.com/track/0E2DkvSSuhwlJC9ULLBVoj"
+    },
+    {
+      "added_at": "2026-08-12 05:00:33",
+      "album": {
+        "name": "Hoping",
+        "url": "https://open.spotify.com/album/5E048utnRTEf4Vvfqqv4h5"
+      },
+      "artists": [
+        {
+          "name": "AEUNA",
+          "url": "https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y"
+        }
+      ],
+      "duration_ms": 231692,
+      "name": "Hoping",
+      "url": "https://open.spotify.com/track/2qO7n9wGJP7eZDS0kUurVM"
+    },
+    {
+      "added_at": "2026-08-12 05:00:33",
+      "album": {
+        "name": "SOBRANG FLY",
+        "url": "https://open.spotify.com/album/4LAjpEDosO1DtE8RoFgi3V"
+      },
+      "artists": [
+        {
+          "name": "cole",
+          "url": "https://open.spotify.com/artist/5JoLnpAiiuQQwFD6n3qUmw"
+        },
+        {
+          "name": "sko",
+          "url": "https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "SOBRANG FLY",
+      "url": "https://open.spotify.com/track/6b3yX6hVglGGOBPSmrzRVv"
+    },
+    {
+      "added_at": "2026-08-12 05:00:33",
+      "album": {
+        "name": "Stay or Go",
+        "url": "https://open.spotify.com/album/1QVQ1y9asdzFgoP0dRDVCj"
+      },
+      "artists": [
+        {
+          "name": "Leona",
+          "url": "https://open.spotify.com/artist/6p0AoaFFGvSBo6ah5wjS2q"
+        }
+      ],
+      "duration_ms": 164490,
+      "name": "Stay or Go",
+      "url": "https://open.spotify.com/track/37Flpbbfq8YgZzDvFdw5jt"
+    },
     {
       "added_at": "2026-08-05 05:00:09",
       "album": {

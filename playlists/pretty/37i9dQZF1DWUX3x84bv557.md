@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Rolf Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,409 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,394 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Zwak Voor Jou](https://open.spotify.com/track/5NXI70KQBGnHq8vt1CWESC) | [Denise Kroes](https://open.spotify.com/artist/4tHksjDEYAhsV4qECw4gG6) | [Zwak Voor Jou](https://open.spotify.com/album/5smyylzp4G8pAPK1AppKNP) | 2:14 |
 | 80 | [Bewaren](https://open.spotify.com/track/2FgCaGJ6rES2dyK5HajLmw) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Eindelijk Eerlijk](https://open.spotify.com/album/5LgZAUOTk6N6fWaOqSNYxp) | 2:40 |
 
-Snapshot ID: `AAAAAGPd23hYb/jwclvLU/hFVUyAZasA`
+Snapshot ID: `AAAAAADFDYRGxStdoF8Meu49NG10AZjj`

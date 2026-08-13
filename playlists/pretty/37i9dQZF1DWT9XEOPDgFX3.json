@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Genevieve Stokes",
-  "num_followers": 112071,
+  "num_followers": 112077,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKZqPTQfByG2OpEDfDgDDAalY5Qb",
+  "snapshot_id": "AAAAAN7kkSHR4ySFh+/CBWgM5koXjAMM",
   "tracks": [
     {
       "added_at": "2024-11-08 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 177104,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "whore",
+        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "whore",
+      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "whore",
-        "url": "https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "whore",
-      "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Hovvdy",
-        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 197653,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
     },
     {
       "added_at": "2024-11-08 05:00:00",

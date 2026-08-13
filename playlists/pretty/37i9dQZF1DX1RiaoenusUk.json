@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35270,
+  "num_followers": 35275,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADTsfoHfTRWRCTWsrWb4wLtcZLh7",
+  "snapshot_id": "AAAAAKJUnXYMSYEjII2yYJkehvz+hJlN",
   "tracks": [
     {
       "added_at": "2026-08-11 14:09:20",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Prescription For Soul",
-        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
-      },
-      "artists": [
-        {
-          "name": "Doctorfunk",
-          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Gotta Get Funky",
-      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Los piratas (Portal Sessions)",
         "url": "https://open.spotify.com/album/5DxUdYRUYcRW5ZH7qRjF0o"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 199311,
       "name": "Los piratas (Portal Sessions)",
       "url": "https://open.spotify.com/track/4OATyXnNPGBcMn3OHzxqMu"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Prescription For Soul",
+        "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
+      },
+      "artists": [
+        {
+          "name": "Doctorfunk",
+          "url": "https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Gotta Get Funky",
+      "url": "https://open.spotify.com/track/7aFBO4VuZsGqyTrWBAAp7j"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "La Fundaci\u00f3n",
+        "url": "https://open.spotify.com/album/2D6zAs92V0BImoH66xkznU"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3",
+          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
+        }
+      ],
+      "duration_ms": 269644,
+      "name": "La Moto del Benja",
+      "url": "https://open.spotify.com/track/1GxsPPqwGdhvLJhqI1Vr2P"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "La Iguana en el Jard\u00edn",
         "url": "https://open.spotify.com/album/2UVA2n1nfEu6Xemet5VwjH"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 184111,
       "name": "Estoy Contento, Nena",
       "url": "https://open.spotify.com/track/3nN9r5nOaA16ev82clDomt"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
-        "name": "La Fundaci\u00f3n",
-        "url": "https://open.spotify.com/album/2D6zAs92V0BImoH66xkznU"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3",
-          "url": "https://open.spotify.com/artist/3si8Eu6UFP2Gi0NNtUND38"
-        }
-      ],
-      "duration_ms": 269644,
-      "name": "La Moto del Benja",
-      "url": "https://open.spotify.com/track/1GxsPPqwGdhvLJhqI1Vr2P"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        }
-      ],
-      "duration_ms": 212867,
-      "name": "Negra Monamour",
-      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "AH\u00cd VIENE LA MIEL",
         "url": "https://open.spotify.com/album/5SREVdMCXgDFk0aDIW1Ld8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 230370,
       "name": "AH\u00cd VIENE LA MIEL",
       "url": "https://open.spotify.com/track/3KDa3dYhVsQY7NRd0fOpKD"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "duration_ms": 212867,
+      "name": "Negra Monamour",
+      "url": "https://open.spotify.com/track/46cUT5yAe0DpGgFWgNhOjs"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Tony 70",
-        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
-      },
-      "artists": [
-        {
-          "name": "Tony 70",
-          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Simon Freak",
-      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Bienvenidos al Presente",
         "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 259880,
       "name": "Bienvenidos al Presente",
       "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Tony 70",
+        "url": "https://open.spotify.com/album/6BKVskjcx78fG8bPWQ3Ypx"
+      },
+      "artists": [
+        {
+          "name": "Tony 70",
+          "url": "https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Simon Freak",
+      "url": "https://open.spotify.com/track/6mYRXQDxEpeVLMcDBi7zlr"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Puerta Abierta",
-        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Puerta Abierta",
-      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Env\u00e9s",
         "url": "https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 378213,
       "name": "Maybe I'm Leo",
       "url": "https://open.spotify.com/track/7gqKNXv1P6oN0KAXnjxsLW"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
+        "name": "Puerta Abierta",
+        "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 171788,
+      "name": "Puerta Abierta",
+      "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
     },
     {
       "added_at": "2026-08-11 14:09:20",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
+    },
+    {
+      "added_at": "2026-08-11 14:09:20",
+      "album": {
         "name": "Miro donde miro",
         "url": "https://open.spotify.com/album/1hmxgsxgH0yXncwFUGCEps"
       },
@@ -1519,22 +1535,6 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2026-08-11 14:09:20",
-      "album": {
         "name": "Crisis",
         "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2026-08-11 14:09:20",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
       },
       "artists": [
         {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
         }
       ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2026-08-11 14:09:20",

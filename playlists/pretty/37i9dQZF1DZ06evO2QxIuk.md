@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 
 > This is Earth, Wind & Fire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,558 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,574 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 35 | [Fall in Love with Me](https://open.spotify.com/track/5qugKP8gPqN91O7KBMkW6P) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Powerlight](https://open.spotify.com/album/3hZjcwZDDQOYB9PiGzEKSa) | 5:52 |
 | 36 | [Saturday Nite](https://open.spotify.com/track/1XCt27nKEY66dBkvBWBmnV) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 4:02 |
 | 37 | [I'll Write a Song for You](https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [All 'N All](https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh) | 5:24 |
-| 38 | [Sun Goddess \(feat\. Ramsey Lewis\)](https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Sun Goddess](https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5) | 8:29 |
-| 39 | [Mighty Mighty](https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 3:03 |
+| 38 | [Mighty Mighty](https://open.spotify.com/track/3HFGDi2zGIgdXTocV5k2cs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 3:03 |
+| 39 | [Sun Goddess \(feat\. Ramsey Lewis\)](https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Ramsey Lewis](https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc) | [Sun Goddess](https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5) | 8:29 |
 | 40 | [Imagination](https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Spirit](https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM) | 5:16 |
 | 41 | [Happy Feelin'](https://open.spotify.com/track/4X7hACjMfokfcgfNWPasdZ) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 3:35 |
 | 42 | [Evil](https://open.spotify.com/track/0IFbyuvJUXroM8UkZ2Pnsk) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Head To The Sky](https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QxIuk.md) - [plain]
 | 49 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 |
 | 50 | [September/The Joker](https://open.spotify.com/track/1yW6zNGmBCP95LLy2w1p1O) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 6:29 |
 
-Snapshot ID: `ankUgAAAAABMl8RUx2zOONtuRrV+9LWw`
+Snapshot ID: `anpmAAAAAAB/ySGUapBfTG1JJmnPoPJV`

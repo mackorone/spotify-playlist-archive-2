@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8 Super Climbing Club",
-  "num_followers": 70880,
+  "num_followers": 70888,
   "original_name": "Indie Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACHvsH9SCDWV/loDtFrI8lT6ibq7",
+  "snapshot_id": "AAAAAANAhdSX4RlunrQXbxIq9UjtNiaL",
   "tracks": [
     {
       "added_at": "2026-08-11 16:42:09",
@@ -71,6 +71,22 @@
       "duration_ms": 374250,
       "name": "Synthetic\u6d77\u5cb8",
       "url": "https://open.spotify.com/track/25CDM5xcxU25roRWz7xu0Z"
+    },
+    {
+      "added_at": "2026-08-11 16:42:09",
+      "album": {
+        "name": "\u6804\u990a",
+        "url": "https://open.spotify.com/album/5zz8XFh79B4JXzlozWeeOB"
+      },
+      "artists": [
+        {
+          "name": "Summer Eye",
+          "url": "https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy"
+        }
+      ],
+      "duration_ms": 190025,
+      "name": "\u6804\u990a",
+      "url": "https://open.spotify.com/track/38tZWlrkJuNrjwCeLULR9M"
     },
     {
       "added_at": "2026-08-11 16:42:09",

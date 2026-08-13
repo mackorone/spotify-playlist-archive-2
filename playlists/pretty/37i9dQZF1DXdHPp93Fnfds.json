@@ -1,12 +1,12 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 135891,
+  "num_followers": 135883,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPjb0x+LvQoOPk5Vx1UdTT57TvCX",
+  "snapshot_id": "AAAAAP98Qj54wBsC4NzQzIM9NbkvatDf",
   "tracks": [
     {
       "added_at": "2025-07-17 22:42:38",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Blue Planet",
+        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "Blue Planet",
+      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "nada mejor",
         "url": "https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 205281,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Blue Planet",
-        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "Blue Planet",
-      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "AMORA",
         "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Limbo Habitual, Vol. I",
-        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 215013,
-      "name": "Musa introvertida",
-      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1011,6 +995,22 @@
       "duration_ms": 142871,
       "name": "El Gobierno de China",
       "url": "https://open.spotify.com/track/2ZTvWgdCPbxn2G5E0Myrog"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Limbo Habitual, Vol. I",
+        "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "Musa introvertida",
+      "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1115,6 +1115,46 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Tu Vereda",
+        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        },
+        {
+          "name": "Ivan C. Bakmas",
+          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
+        },
+        {
+          "name": "Fer Moreno",
+          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
+        }
+      ],
+      "duration_ms": 147198,
+      "name": "Tu Vereda",
+      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Volver a Llorar",
         "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
       },
@@ -1143,46 +1183,6 @@
       "duration_ms": 177265,
       "name": "llorando en la luna",
       "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Tu Vereda",
-        "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        },
-        {
-          "name": "Ivan C. Bakmas",
-          "url": "https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R"
-        },
-        {
-          "name": "Fer Moreno",
-          "url": "https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob"
-        }
-      ],
-      "duration_ms": 147198,
-      "name": "Tu Vereda",
-      "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
     },
     {
       "added_at": "2025-07-17 22:42:38",

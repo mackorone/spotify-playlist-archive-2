@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1027631,
+  "num_followers": 1027561,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJT/NhGoMYrzt9hiEK52elaUG635",
+  "snapshot_id": "AAAAANLtUXDK9r4FsmSsYR+UKjWSBg9b",
   "tracks": [
     {
       "added_at": "2026-07-24 15:13:10",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
-        "name": "Desah\u00f3gate",
-        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Desah\u00f3gate",
-      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
         "name": "TOTOTO (+4)",
         "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
+        "name": "Desah\u00f3gate",
+        "url": "https://open.spotify.com/album/2lRg660je3IBftd8DnTgNK"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Desah\u00f3gate",
+      "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "ALMA",
+      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 140625,
       "name": "La_Original.mp3",
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "ALMA",
-      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
         "name": "blackout \ud83e\uddca",
         "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
-        "name": "NO SUPISTE CUIDARNOS (Respuesta #2)",
-        "url": "https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 175589,
-      "name": "NO SUPISTE CUIDARNOS - Respuesta #2",
-      "url": "https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
         "name": "Encubiertos",
         "url": "https://open.spotify.com/album/4Ykjfr35jOU2EQnFwYz9ui"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 155226,
       "name": "Encubiertos",
       "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
+        "name": "NO SUPISTE CUIDARNOS (Respuesta #2)",
+        "url": "https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 175589,
+      "name": "NO SUPISTE CUIDARNOS - Respuesta #2",
+      "url": "https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
-        "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
-      "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1671,6 +1651,26 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
+        "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
+      "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
         "name": "Besito en la Frente",
         "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
       },
@@ -1683,6 +1683,22 @@
       "duration_ms": 161622,
       "name": "Besito en la Frente",
       "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
+    },
+    {
+      "added_at": "2026-07-24 15:13:10",
+      "album": {
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "san blaS",
+      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2026-07-24 15:13:10",
       "album": {
-        "name": "SAN BLAS",
-        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
         }
       ],
-      "duration_ms": 148906,
-      "name": "san blaS",
-      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-07-24 15:13:10",
@@ -1735,22 +1751,6 @@
       "duration_ms": 180949,
       "name": "\u00bfTrato Hecho?",
       "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
-    },
-    {
-      "added_at": "2026-07-24 15:13:10",
-      "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-07-24 15:13:10",

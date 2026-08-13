@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain](/playlists/plain/37i9dQZF1DWVCk2se27jFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVCk2se27jFX)
 
-### [Donde la música se encuentra](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
+### [Punto de encuentro: Spotify x BOmm 2026](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 
 > Los sonidos, artistas y escenas que convergen en el BOmm 2026\. Foto: Jossman
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,600 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,596 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCk2se27jFX.md) - [plain]
 | 39 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 |
 | 40 | [Cumbia Sin Fronteras](https://open.spotify.com/track/4ZIwKECVZFT7yWkcULb0m5) | [YEISON LANDERO](https://open.spotify.com/artist/1WIGahdkQiPn67Xf3JrZVC) | [Santa Lucia](https://open.spotify.com/album/6ylk6McAdC3SAPlwPWycaY) | 3:28 |
 
-Snapshot ID: `AAAAAO12U4DzUxlSENIW8aTjjHHpQHBA`
+Snapshot ID: `AAAAAE/NepccEpWy1JG4Guev2dOFzg1K`

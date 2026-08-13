@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAALRZPcRgvjN/9p8hi0ivHX",
+  "snapshot_id": "anpmAAAAAADvWXwu/gxkTzwKAJ+yFyhQ",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALGO LEVE EN VIVO",
-        "url": "https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh"
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },
       "artists": [
-        {
-          "name": "Omar Ruiz",
-          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
-        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 197929,
-      "name": "Vida Peligrosa (En Vivo)",
-      "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
+      "duration_ms": 146499,
+      "name": "Playas",
+      "url": "https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+        "name": "ALGO LEVE EN VIVO",
+        "url": "https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh"
       },
       "artists": [
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        },
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 146499,
-      "name": "Playas",
-      "url": "https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL"
+      "duration_ms": 197929,
+      "name": "Vida Peligrosa (En Vivo)",
+      "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BELLAGIO",
-        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 158066,
-      "name": "BELLAGIO",
-      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
+      "duration_ms": 146249,
+      "name": "Gente De Negocio",
+      "url": "https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+        "name": "BELLAGIO",
+        "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 146249,
-      "name": "Gente De Negocio",
-      "url": "https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk"
+      "duration_ms": 158066,
+      "name": "BELLAGIO",
+      "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
       "duration_ms": 177219,
       "name": "Soy Ayon",
       "url": "https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 154499,
+      "name": "Solamente Para Mi",
+      "url": "https://open.spotify.com/track/1XrhdsA3M7JV9VgxHrbzMG"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 154499,
-      "name": "Solamente Para Mi",
-      "url": "https://open.spotify.com/track/1XrhdsA3M7JV9VgxHrbzMG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gente Chaka",
         "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
       },
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 238116,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya Coron\u00f3 La Vuelta",
         "url": "https://open.spotify.com/album/7uqKY4vZdt0N6K0bUP9Qbg"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 151536,
       "name": "Ya Coron\u00f3 La Vuelta",
       "url": "https://open.spotify.com/track/30ts9jAs2faKSvxAOb5FWg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 238116,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover:  Stray Kids\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,125,708 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,125,488 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
 | 50 | [Shut The Door](https://open.spotify.com/track/0EbfMfuMAPyFtv07DrRauE) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [YOUNGEST](https://open.spotify.com/album/6CEAKGPPKCVDnpSZ0VEhi1) | 2:51 |
 
-Snapshot ID: `AAAAAEfKo8p1vezf5qM0YuxyFhOHQaIa`
+Snapshot ID: `AAAAAOdCUmh+hJfylvDzZF6ATMvPUSB/`

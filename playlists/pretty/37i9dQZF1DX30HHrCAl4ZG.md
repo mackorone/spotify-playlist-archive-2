@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,554 likes - 130 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,535 likes - 130 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 129 | [Not Sacred](https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky \(Deluxe\)](https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5) | 3:46 |
 | 130 | [Phoebe's Song](https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Phoebe's Song](https://open.spotify.com/album/40wmLOiUiOIz1lRqKqC4KV) | 3:59 |
 
-Snapshot ID: `AAAAAK1sbRtM7blxSMKgo/xNFUAMtU/g`
+Snapshot ID: `AAAAAB2QCibKt/UGjiBzxQdBhFYazICS`

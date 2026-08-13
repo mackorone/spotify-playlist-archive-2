@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With The Charlie Marshall Effect, Whispergun, Dan Fearon and more
+> With MIK's Reaction, David Von Beahm, Whispergun and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 23 likes - 50 songs - 3 hr 8 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 | 49 | [Shadows of Tomorrow](https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy) | [Dystopian X Vision](https://open.spotify.com/artist/4dzYz9IgWJQApnTmbBiGQM) | [Shadows of Tomorrow](https://open.spotify.com/album/1wRbeibLg7gh4nJa2e2jUr) | 2:44 |
 | 50 | [Rest Your Halo](https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ) | [Lockjaw](https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF) | [Un\-hinged ep](https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8) | 3:22 |
 
-Snapshot ID: `AAAAAHzH2ijnilIfD83aeTVWv8Q8S6Qr`
+Snapshot ID: `AAAAAGYKFoNml8HhsnbKFCRm4GC0QwQm`

@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 326555,
+  "num_followers": 326582,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABhcsaorQZkQSTZH8vHYylj",
+  "snapshot_id": "anpmAAAAAADW0X1Hldq1WiWujNMIP5of",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Over (Remix)",
-        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
+        "name": "Not Waving, But Drowning",
+        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
         },
         {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 145652,
-      "name": "Come Over (Remix)",
-      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
+      "duration_ms": 256198,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
     },
     {
       "added_at": null,
@@ -271,22 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Waving, But Drowning",
-        "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
+        "name": "Come Over (Remix)",
+        "url": "https://open.spotify.com/album/4RhemXpQlqhaNdz2WTkzBt"
       },
       "artists": [
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 256198,
-      "name": "Loose Ends",
-      "url": "https://open.spotify.com/track/6dEe0H4vjEyy2ukczkB25o"
+      "duration_ms": 145652,
+      "name": "Come Over (Remix)",
+      "url": "https://open.spotify.com/track/5RBc2SUllAJG4gUZdXTBIj"
     },
     {
       "added_at": null,

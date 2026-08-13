@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Lenin
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,431 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,820 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Varsham Munduga](https://open.spotify.com/track/0LZVBuMjBypnzwHLNQVSnv) | [Joshua Sridhar](https://open.spotify.com/artist/43IDw3YzwADpAkdEzP81SZ), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80), [Suzanne](https://open.spotify.com/artist/0uWl5BUPnXzE2RWQEprHyF) | [Sega](https://open.spotify.com/album/39pfWQJrvXW7AdtQDi8BbG) | 4:27 |
 | 50 | [Arerey Manasa \(From "Falaknuma Das"\)](https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Arerey Manasa \(From "Falaknuma Das"\)](https://open.spotify.com/album/4cAqcskezsUVZjD01vl4Po) | 5:01 |
 
-Snapshot ID: `AAAAAJjm1fHq9Dgc5TbNq2wiEPy1d6nV`
+Snapshot ID: `AAAAAIhXJP9lSgjvzmuU84z6NwHZuv1D`

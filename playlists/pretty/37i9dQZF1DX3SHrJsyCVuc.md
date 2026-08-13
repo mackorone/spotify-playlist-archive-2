@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Ambulance!](https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Ambulance!](https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt) | 3:39 |
 | 75 | [Lucinda \(EM\)](https://open.spotify.com/track/0oocoADIlPjnJtdYbY1AkS) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Lucinda \(EM\)](https://open.spotify.com/album/6VlcwTjhb5fKroAM9309fR) | 4:31 |
 
-Snapshot ID: `AAAAAIWDLlAf+EQOWtGAernfh+IwYjNM`
+Snapshot ID: `AAAAAJU1E+4PXz32UdFGJ6imx+eHU2nu`

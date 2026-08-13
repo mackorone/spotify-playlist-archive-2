@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > somos una fusión que no termina✨💚 Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,255 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,306 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [Bolsita Cara](https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC) | [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3), [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Bolsita Cara](https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg) | 2:56 |
 | 75 | [INTOCABLE](https://open.spotify.com/track/54brOymWBGRCDOWhBWzA5m) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [STAR](https://open.spotify.com/album/5YH266XRF5JlrgqzvwIiGX) | 2:33 |
 
-Snapshot ID: `AAAAAJmyhJDmblNrJMGjR93P5C7KtRYJ`
+Snapshot ID: `AAAAAPGtx7xvueMWNT01T9TADkYjRrKK`

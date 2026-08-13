@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Ian Penn]. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [AEUNA]. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -1440,6 +1440,24 @@
       "duration_ms": 194665,
       "name": "5050",
       "url": "https://open.spotify.com/track/50iElIXT7KIJDDCE5SK0TJ"
+    },
+    {
+      "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/6tJLNtMiKLl8tSBTrNRudw"
+      },
+      "artists": [
+        {
+          "name": "Monty Gi",
+          "url": "https://open.spotify.com/artist/2TBFowoG8SRg9opiTfO5r9"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190837,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/4eyEuejVygsDJbOlDVIiwF"
     },
     {
       "album": {
@@ -28982,6 +29000,24 @@
       "duration_ms": 338000,
       "name": "Hopia",
       "url": "https://open.spotify.com/track/2dGWAXuxULnH0sFkfnntBB"
+    },
+    {
+      "album": {
+        "name": "Hoping",
+        "url": "https://open.spotify.com/album/5E048utnRTEf4Vvfqqv4h5"
+      },
+      "artists": [
+        {
+          "name": "AEUNA",
+          "url": "https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231692,
+      "name": "Hoping",
+      "url": "https://open.spotify.com/track/2qO7n9wGJP7eZDS0kUurVM"
     },
     {
       "album": {
@@ -56905,6 +56941,24 @@
     },
     {
       "album": {
+        "name": "PRETTY LITTLE LIARS",
+        "url": "https://open.spotify.com/album/5rsTESLWr1k0UleE7C21AA"
+      },
+      "artists": [
+        {
+          "name": "gabby parafina",
+          "url": "https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "PRETTY LITTLE LIARS",
+      "url": "https://open.spotify.com/track/0E2DkvSSuhwlJC9ULLBVoj"
+    },
+    {
+      "album": {
         "name": "Pretty Morena",
         "url": "https://open.spotify.com/album/3ZLxsmPLnvPC5QrIDKlWuV"
       },
@@ -57458,6 +57512,24 @@
       "duration_ms": 167432,
       "name": "pwede pa ba",
       "url": "https://open.spotify.com/track/4auLi87KJ6J1eeIhkfCxOu"
+    },
+    {
+      "album": {
+        "name": "PWEDE PA BA?",
+        "url": "https://open.spotify.com/album/3vWoEer55gRSwALl3OP6vB"
+      },
+      "artists": [
+        {
+          "name": "Jemay Santiago",
+          "url": "https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170895,
+      "name": "PWEDE PA BA?",
+      "url": "https://open.spotify.com/track/6vwucCuEg3nAEh4Y842B9h"
     },
     {
       "album": {
@@ -65005,6 +65077,28 @@
     },
     {
       "album": {
+        "name": "SOBRANG FLY",
+        "url": "https://open.spotify.com/album/4LAjpEDosO1DtE8RoFgi3V"
+      },
+      "artists": [
+        {
+          "name": "cole",
+          "url": "https://open.spotify.com/artist/5JoLnpAiiuQQwFD6n3qUmw"
+        },
+        {
+          "name": "sko",
+          "url": "https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160733,
+      "name": "SOBRANG FLY",
+      "url": "https://open.spotify.com/track/6b3yX6hVglGGOBPSmrzRVv"
+    },
+    {
+      "album": {
         "name": "Sobrang kalma",
         "url": "https://open.spotify.com/album/0W4VLcqkP3GDw9G8paVfmR"
       },
@@ -65962,6 +66056,24 @@
       "duration_ms": 150436,
       "name": "stay in",
       "url": "https://open.spotify.com/track/70czFufZqR6PjtgV1DWoFL"
+    },
+    {
+      "album": {
+        "name": "Stay or Go",
+        "url": "https://open.spotify.com/album/1QVQ1y9asdzFgoP0dRDVCj"
+      },
+      "artists": [
+        {
+          "name": "Leona",
+          "url": "https://open.spotify.com/artist/6p0AoaFFGvSBo6ah5wjS2q"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164490,
+      "name": "Stay or Go",
+      "url": "https://open.spotify.com/track/37Flpbbfq8YgZzDvFdw5jt"
     },
     {
       "album": {

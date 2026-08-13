@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,228 likes - 260 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,316 likes - 260 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 259 | [Limitless Vision](https://open.spotify.com/track/6Jzgt4DSw4sRjpUDIIMVX9) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Limitless Vision](https://open.spotify.com/album/2wiMxLcSe3j7zk9uaXIl2F) | 3:02 |
 | 260 | [The Code of Love](https://open.spotify.com/track/2XMh8glKFSaJoc1OYO6ndu) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [The Code of Love](https://open.spotify.com/album/6lhk0uX5IjPWIPh4KiEKhh) | 2:22 |
 
-Snapshot ID: `AAAAALvhAZbzZPe+BIR0MmW6tzX8Ojy1`
+Snapshot ID: `AAAAAC7fpnnGUYxCM5W4FX2y869UHZ4z`

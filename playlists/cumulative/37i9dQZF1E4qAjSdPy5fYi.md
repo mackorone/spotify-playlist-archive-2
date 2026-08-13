@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With UrvTek, Learke, sixwing and more
+> With Learke, sixwing, UrvTek and more
 
 348 songs - 15 hr 49 min
 
@@ -202,7 +202,7 @@
 | [LIES](https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LIES](https://open.spotify.com/album/6H2AwWRJKRixHw7wcUliAx) | 1:05 | 2024-12-14 | 2025-05-30 |
 | [life is short \(but i am long\)](https://open.spotify.com/track/7GiR66FUSVU8UUTIH173Yp) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [life is short \(but i am long\)](https://open.spotify.com/album/6Lg4zhXvM4lSWJosoxGWWh) | 2:15 | 2025-02-24 | 2025-07-01 |
 | [LOSE LOSE LOSE](https://open.spotify.com/track/5pgw9c91m8MrdU2R7t0DAX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LOSE LOSE LOSE](https://open.spotify.com/album/4nT5Eq450S1xfQ37dpAGjP) | 1:28 | 2024-12-14 |  |
-| [losercore](https://open.spotify.com/track/4iVCldDNBMNKF9qwgVVh7n) | [awerewa](https://open.spotify.com/artist/7c6aZP4Zi0c7CK5M2H6FwB), [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [losercore](https://open.spotify.com/album/24w81Km5rX1peA9ImkcWIX) | 2:49 | 2025-07-02 |  |
+| [losercore](https://open.spotify.com/track/4iVCldDNBMNKF9qwgVVh7n) | [awerewa](https://open.spotify.com/artist/7c6aZP4Zi0c7CK5M2H6FwB), [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [losercore](https://open.spotify.com/album/24w81Km5rX1peA9ImkcWIX) | 2:49 | 2025-07-02 | 2026-08-13 |
 | [luv u FUREVR!!!](https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0), [Kittydog](https://open.spotify.com/artist/2dWMzprBJEneePM7aWGsDv) | [luv u FUREVR!!!](https://open.spotify.com/album/3wanIvSKYzsw6Pf2fbQMo1) | 2:30 | 2024-12-14 | 2026-08-05 |
 | [LUV3 SICK!!](https://open.spotify.com/track/2MJasRtiBZPIlQ6qzmsRPN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [LUV3 SICK!!](https://open.spotify.com/album/4oyYg9nbAUKndr8gsfqYj7) | 3:20 | 2025-04-12 |  |
 | [mango girl](https://open.spotify.com/track/5ep9A7M2LHIQxMCngAO83H) | [Draffish](https://open.spotify.com/artist/0q2jrVdnsi8XIYgr532dSP), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [wish](https://open.spotify.com/album/1S9ik9FsIIsR0Ayt8lSAWg) | 1:27 | 2024-12-14 | 2026-05-19 |
@@ -270,7 +270,7 @@
 | [ppl go blush](https://open.spotify.com/track/1ch58lPqUtYxKgoehzJ0WY) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ppl go blush](https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd) | 1:13 | 2024-12-16 | 2025-05-30 |
 | [pretty boys in pretty skirts](https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [adhd & attachment issues](https://open.spotify.com/album/5CLtHc5xDGdSU1dblmA4Iu) | 2:53 | 2024-12-14 | 2025-10-06 |
 | [PROTECC ATTACC SEXYBACC](https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [MAILPUP](https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o) | 2:27 | 2025-04-01 |  |
-| [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 | 2024-12-14 | 2026-08-11 |
+| [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 | 2024-12-14 |  |
 | [Puppy\-Eyed](https://open.spotify.com/track/1dpbhCJA92PlPEM1mgWKBh) | [puppygirl](https://open.spotify.com/artist/4zzJ816cTAkfa2Uo0pP2kv) | [Puppy\-Eyed](https://open.spotify.com/album/3PUSUpLtRgG7dWwVEBzNeU) | 2:55 | 2026-08-08 | 2026-08-12 |
 | [PUPPYPLAY!](https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [PUPPYPLAY!](https://open.spotify.com/album/6cQzQgCOSGauQVoR7aD8uP) | 2:52 | 2025-10-21 | 2026-01-27 |
 | [PURPLE SLURPLE \(MAILPUP BOOTLEG\)](https://open.spotify.com/track/2l18YYbgUZyvPeFhNyK6eR) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [STAY @ HOME SUMMER 2020](https://open.spotify.com/album/7aNj2e0vNmdSnci416lFIZ) | 2:24 | 2026-05-29 | 2026-06-14 |

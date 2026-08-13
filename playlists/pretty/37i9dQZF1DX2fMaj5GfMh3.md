@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: MICHA \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,793 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,786 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
 | 100 | [25](https://open.spotify.com/track/0oFJdubSuqx26ortzmKc6H) | [JOLENE](https://open.spotify.com/artist/6aGqPE45EorMfklKgsHoUc) | [25](https://open.spotify.com/album/6k3r3DGEYcAyJpQQlZAkWZ) | 3:09 |
 
-Snapshot ID: `AAAAAGNGroqphugBK0Ckqsb9B9gax8+k`
+Snapshot ID: `AAAAALOoUL331gQtXWiKXJQ/nsfOcDg3`

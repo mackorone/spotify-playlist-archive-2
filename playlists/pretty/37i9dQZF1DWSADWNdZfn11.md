@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,787 likes - 114 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,830 likes - 114 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 113 | [Middle](https://open.spotify.com/track/7iwXlyPLGukVO3nT3jGyfi) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Middle](https://open.spotify.com/album/1yx6YgJXcUDn7eU5ZTT1uF) | 3:25 |
 | 114 | [Love Me Like You Do](https://open.spotify.com/track/1ocUQUnGLOGIW0n3ModD5K) | [Diego Dumas](https://open.spotify.com/artist/7lhYdashTGE8O0urnHyWdB) | [Love Me Like You Do](https://open.spotify.com/album/3R76jNp6Od0Ot20mw3k74J) | 3:13 |
 
-Snapshot ID: `AAAAAOCAJ+v1xfxJrZwnV8ItSciFA8FI`
+Snapshot ID: `AAAAAP/yeAdWgeiCGHbn3Esw9HxW+MR/`

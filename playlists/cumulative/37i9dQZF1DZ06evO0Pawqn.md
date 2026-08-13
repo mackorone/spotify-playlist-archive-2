@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 38 min
+109 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Carga Ladeada](https://open.spotify.com/track/1so4oGls3XfgofxsjEX6sm) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:52 | 2023-02-03 | 2023-03-06 |
 | [Charola de Plata](https://open.spotify.com/track/5wT6aZvQzOCrESPS34hrXr) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 3:03 | 2022-06-01 |  |
 | [Cien Anos](https://open.spotify.com/track/0XmHMVZqUcIEGEFwNWcB2L) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 3:15 | 2022-06-01 |  |
+| [Comiendote a Besos](https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc) | [Comiendote a Besos](https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c) | 3:28 | 2026-08-13 |  |
 | [Como Estas Tú](https://open.spotify.com/track/0Bl6AJ3Ub5tXB0MyaJmwbK) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Fiesta de Cumbias Norteñas](https://open.spotify.com/album/7wvtD2pITOn1yjvtBWdoAX) | 2:49 | 2024-02-23 | 2024-04-10 |
 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 | 2022-06-01 | 2024-09-15 |
 | [Corazon de Vecindad](https://open.spotify.com/track/5Pfz4iOYQZc0ZOrkF5qX0W) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:09 | 2026-03-05 | 2026-03-27 |
@@ -107,7 +108,7 @@
 | [Tierra Mala](https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Pa Que Son Pasiones](https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze) | 3:35 | 2026-03-27 |  |
 | [Tragos Amargos](https://open.spotify.com/track/53qTj9XcdiKPwIuakXo5dv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Inolvidables](https://open.spotify.com/album/4jBi66BbClFguTlMaPijcr) | 2:44 | 2022-06-01 |  |
 | [Tu Maldad](https://open.spotify.com/track/5GHuhu0CHdccMRO1L6fNZa) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:15 | 2024-04-07 | 2026-03-25 |
-| [Tus Ojos](https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc) | [Tus Ojos](https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH) | 2:20 | 2026-05-11 |  |
+| [Tus Ojos](https://open.spotify.com/track/74nRRMnv0pFJyOFFN2rkwB) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Nicky Rosse](https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc) | [Tus Ojos](https://open.spotify.com/album/07rSAB08YbmKQguYLh2SZH) | 2:20 | 2026-05-11 | 2026-08-13 |
 | [Un Dia A La Vez](https://open.spotify.com/track/238h81I9omBWy5aOI79iuJ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mas Llegadoras](https://open.spotify.com/album/4AFzIdSy43aJ2Hk26O9MS7) | 3:17 | 2022-12-12 | 2023-01-16 |
 | [Un Engano Mas](https://open.spotify.com/track/2RLWRcdjOcOP1eirhJMl6C) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:10 | 2022-06-03 |  |
 | [Vamos A Olvidarnos De Ella](https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Voy A Pedirte Perdón](https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6) | 3:28 | 2023-06-11 |  |

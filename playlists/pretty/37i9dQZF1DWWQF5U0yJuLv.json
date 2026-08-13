@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 63799,
+  "num_followers": 63832,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXG7vB2vYWfsaq2r+WJYGqFtLUW",
+  "snapshot_id": "AAAAAFTrwetTQg2yYBpCG1AjwJ/IgTDF",
   "tracks": [
     {
       "added_at": "2025-11-07 05:00:56",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "The Space Lady's Greatest Hits",
-        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
-      },
-      "artists": [
-        {
-          "name": "The Space Lady",
-          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
-        }
-      ],
-      "duration_ms": 275372,
-      "name": "I Had Too Much to Dream Last Night",
-      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Sorry I Make You Lush",
         "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 420066,
       "name": "Sci-Fi Staircase",
       "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "The Space Lady's Greatest Hits",
+        "url": "https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh"
+      },
+      "artists": [
+        {
+          "name": "The Space Lady",
+          "url": "https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF"
+        }
+      ],
+      "duration_ms": 275372,
+      "name": "I Had Too Much to Dream Last Night",
+      "url": "https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -999,26 +999,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Mahi Mahi",
-        "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
       },
       "artists": [
         {
-          "name": "Moonfish",
-          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
-        },
-        {
-          "name": "Maria Chiara Argir\u00f2",
-          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
-        },
-        {
-          "name": "Riccardo Chiaberta",
-          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
         }
       ],
-      "duration_ms": 196355,
-      "name": "Mahi Mahi",
-      "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1039,18 +1031,26 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+        "name": "Mahi Mahi",
+        "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
       "artists": [
         {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+          "name": "Moonfish",
+          "url": "https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        },
+        {
+          "name": "Riccardo Chiaberta",
+          "url": "https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1"
         }
       ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+      "duration_ms": 196355,
+      "name": "Mahi Mahi",
+      "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1183,18 +1183,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8"
       },
       "artists": [
         {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+          "name": "Polygonia",
+          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
+        },
+        {
+          "name": "Simon Popp",
+          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
         }
       ],
-      "duration_ms": 312800,
-      "name": "Sui Shop",
-      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
+      "duration_ms": 348947,
+      "name": "Honsu",
+      "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1215,6 +1219,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 312800,
+      "name": "Sui Shop",
+      "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Twin Color (Extended Play No. 1)",
         "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 389625,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8"
-      },
-      "artists": [
-        {
-          "name": "Polygonia",
-          "url": "https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm"
-        },
-        {
-          "name": "Simon Popp",
-          "url": "https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp"
-        }
-      ],
-      "duration_ms": 348947,
-      "name": "Honsu",
-      "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Stereomission",
-      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Coasting",
         "url": "https://open.spotify.com/album/6SY5PGrHb3csu4wFfW3uUw"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 164570,
       "name": "Walter's Jam",
       "url": "https://open.spotify.com/track/3JrmjH5RdUpW2bI5JAGCt4"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
-      },
-      "artists": [
-        {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Endless Jasmine",
-      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Yes! Come Parade With Us",
         "url": "https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 400160,
       "name": "Doing The Beeston Bump",
       "url": "https://open.spotify.com/track/3RBhQ7D3w60wUdt98R7SUB"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Endless Jasmine",
+      "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Autoditacker",
         "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 333240,
       "name": "Tamagnocchi",
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Summer Places",
+      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Dreamy Riot",
-        "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
-      },
-      "artists": [
-        {
-          "name": "Lemon Cal",
-          "url": "https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9"
-        }
-      ],
-      "duration_ms": 350666,
-      "name": "Tech",
-      "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Why She Is Hiding in the Other Man's Eyes",
         "url": "https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 304390,
       "name": "Why She Is Hiding in the Other Man's Eyes",
       "url": "https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Dreamy Riot",
+        "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
+      },
+      "artists": [
+        {
+          "name": "Lemon Cal",
+          "url": "https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9"
+        }
+      ],
+      "duration_ms": 350666,
+      "name": "Tech",
+      "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 151520,
-      "name": "Roygbiv",
-      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Sequenza",
         "url": "https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 344120,
       "name": "Balani",
       "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 151520,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "In A Beautiful Place Out In The Country",
-        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 383693,
-      "name": "Kid For Today",
-      "url": "https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Kelly Lee Owens",
         "url": "https://open.spotify.com/album/7z6fUAxSNYLKEkxrcPcfZx"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 315266,
       "name": "Bird",
       "url": "https://open.spotify.com/track/5FauIrURBh6U8fWJAffI9P"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 383693,
+      "name": "Kid For Today",
+      "url": "https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 472520,
-      "name": "Happy Cycling",
-      "url": "https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Feast / Beast",
         "url": "https://open.spotify.com/album/7Iw2Io8NipDlMCDdS8UsKC"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 267226,
       "name": "Ted - Bibio Remix",
       "url": "https://open.spotify.com/track/1EQuf1dflSSt3HfUNIOzDM"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 472520,
+      "name": "Happy Cycling",
+      "url": "https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 358080,
-      "name": "Aquarius",
-      "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "lux",
         "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
       },
@@ -2319,18 +2303,18 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "The Red Line",
-        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
+        "name": "We Are Reasonable People",
+        "url": "https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR"
       },
       "artists": [
         {
-          "name": "Dualizm",
-          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 158620,
-      "name": "The Red Line",
-      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
+      "duration_ms": 291293,
+      "name": "Orange Romeda",
+      "url": "https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2347,6 +2331,22 @@
       "duration_ms": 173226,
       "name": "Ferrari Rocher",
       "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "The Red Line",
+        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
+      },
+      "artists": [
+        {
+          "name": "Dualizm",
+          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "The Red Line",
+      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
     },
     {
       "added_at": "2025-11-07 05:00:56",

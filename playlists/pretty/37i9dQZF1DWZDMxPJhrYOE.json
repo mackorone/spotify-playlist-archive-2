@@ -1,12 +1,12 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105636,
+  "num_followers": 105631,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANEsQ++DGhbFSoPpXmkhA+9iOySR",
+  "snapshot_id": "AAAAAJ3JOR5bH0m7MhadEso4VtgUVvHf",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:41",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Wink Wink",
-        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 122685,
-      "name": "Wink Wink",
-      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+        "name": "Wink Wink",
+        "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 197032,
-      "name": "i deserve better.",
-      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+      "duration_ms": 122685,
+      "name": "Wink Wink",
+      "url": "https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Sad Girls",
-        "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 168771,
-      "name": "Sad Girls",
-      "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 201296,
       "name": "Silver Lines (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Sad Girls",
+        "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 168771,
+      "name": "Sad Girls",
+      "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Heaven On Your Mind",
-        "url": "https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 224746,
-      "name": "Heaven On Your Mind",
-      "url": "https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Wo, man (Edit)",
         "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 200500,
       "name": "Wo, man - Edit",
       "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Heaven On Your Mind",
+        "url": "https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 224746,
+      "name": "Heaven On Your Mind",
+      "url": "https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -747,22 +747,18 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+      "duration_ms": 261427,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -799,6 +795,26 @@
       "duration_ms": 163437,
       "name": "Hold Mit Tempo",
       "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -851,22 +867,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Chuck Timely & The Hourglass",
-        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 261427,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Ringer Om Natten",
         "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "I\u2019m your girl right?",
-        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 169059,
-      "name": "I\u2019m your girl right?",
-      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "THAT GIRL!",
         "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
       },
@@ -947,6 +931,38 @@
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -971,22 +987,6 @@
       "duration_ms": 223666,
       "name": "All That Matters (with Leon Thomas & AZ Chike)",
       "url": "https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
-        "name": "When He\u2019s Gone",
-        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "When He\u2019s Gone",
-      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
@@ -1123,6 +1139,22 @@
       "duration_ms": 197720,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -1159,38 +1191,6 @@
       "duration_ms": 152821,
       "name": "\u00c6rlig Freestyle",
       "url": "https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
-        "name": "Blue Island",
-        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "In & Out",
-      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
-        "name": "Don\u2019t Leave Me on the Dance Floor",
-        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Don\u2019t Leave Me on the Dance Floor",
-      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Den lange vej",
-        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "ozzy",
-          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
-        }
-      ],
-      "duration_ms": 178695,
-      "name": "Hvis v\u00e6ggene kunne tale",
-      "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Hold My Breath",
         "url": "https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 140000,
       "name": "Hold My Breath",
       "url": "https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Den lange vej",
+        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Hvis v\u00e6ggene kunne tale",
+      "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "MEN S\u00c5 KOM I MORGEN",
-        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 146335,
-      "name": "Stil permanent",
-      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 157714,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 146335,
+      "name": "Stil permanent",
+      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
     },
     {
       "added_at": "2026-08-06 22:01:41",

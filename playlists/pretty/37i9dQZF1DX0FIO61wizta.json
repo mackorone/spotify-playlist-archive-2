@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 90013,
+  "num_followers": 90022,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALceMoZ9ijQsm2r4bW+tf7aswcEM",
+  "snapshot_id": "AAAAAKJ8OCTy0Pm5bCvQ+2px9UMZnQo6",
   "tracks": [
     {
       "added_at": "2025-12-22 11:16:50",
@@ -308,9 +308,37 @@
           "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
         }
       ],
-      "duration_ms": 966000,
-      "name": "4 Pezzi sacri: IV. Te Deum",
-      "url": "https://open.spotify.com/track/5witywN8YtKvIj95C2zdKz"
+      "duration_ms": 322000,
+      "name": "4 Pezzi sacri: I. Ave Maria",
+      "url": "https://open.spotify.com/track/1dctD6ZTdSnx2bWPYm3MgT"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        },
+        {
+          "name": "Paul Daniel",
+          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
+        }
+      ],
+      "duration_ms": 282506,
+      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
+      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -344,37 +372,9 @@
           "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
         }
       ],
-      "duration_ms": 322000,
-      "name": "4 Pezzi sacri: I. Ave Maria",
-      "url": "https://open.spotify.com/track/1dctD6ZTdSnx2bWPYm3MgT"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/0UjlmVE9hfz4FcAc7mr0DE"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Bryn Terfel",
-          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        },
-        {
-          "name": "Paul Daniel",
-          "url": "https://open.spotify.com/artist/2xKKukBMJy7G4hJ3pNfhNs"
-        }
-      ],
-      "duration_ms": 282506,
-      "name": "Otello / Act I: \"Vanne! la tua meta gi\u00e0 vedo\" - \"Credo in un Dio cru- del\"",
-      "url": "https://open.spotify.com/track/4TOZjBNOBM61DRo9a8Esju"
+      "duration_ms": 966000,
+      "name": "4 Pezzi sacri: IV. Te Deum",
+      "url": "https://open.spotify.com/track/5witywN8YtKvIj95C2zdKz"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -499,6 +499,30 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: Aida, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
         "name": "Verdi: Rigoletto - Highlights",
         "url": "https://open.spotify.com/album/48AEXVEQNEgVfgV0krkxZI"
       },
@@ -539,30 +563,6 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Verdi: Aida, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
         "name": "The Verdi Album",
         "url": "https://open.spotify.com/album/45xmO9uJli4Uv9kYuz6KTb"
       },
@@ -583,50 +583,6 @@
       "duration_ms": 641253,
       "name": "La Forza del Destino, Atto III: \"La vita \u00e8 inferno all'infelice...O tu, che in seno agli angeli\"",
       "url": "https://open.spotify.com/track/6TskHmagzWHarn5AfR9gHo"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Celeste Aida - The Verdi Album",
-        "url": "https://open.spotify.com/album/3imbRbkVQlzLMYYuUjkQan"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Paata Burchuladze",
-          "url": "https://open.spotify.com/artist/1JzOJmq9kk0u7OWqzXkBcc"
-        },
-        {
-          "name": "Maria Chiara",
-          "url": "https://open.spotify.com/artist/08RCPFNadNhIh0zkmExYao"
-        },
-        {
-          "name": "Ghena Dimitrova",
-          "url": "https://open.spotify.com/artist/1l8k9f4fseG0nH2WT7dp0g"
-        },
-        {
-          "name": "Coro Del Teatro Alla Scala Di Milano",
-          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        }
-      ],
-      "duration_ms": 275626,
-      "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
-      "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -687,6 +643,50 @@
       "duration_ms": 123333,
       "name": "Aida: Danza Sacre delle Sacerdotesse",
       "url": "https://open.spotify.com/track/3u02B57scqZyXHuy7bfFjl"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
+        "name": "Celeste Aida - The Verdi Album",
+        "url": "https://open.spotify.com/album/3imbRbkVQlzLMYYuUjkQan"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Paata Burchuladze",
+          "url": "https://open.spotify.com/artist/1JzOJmq9kk0u7OWqzXkBcc"
+        },
+        {
+          "name": "Maria Chiara",
+          "url": "https://open.spotify.com/artist/08RCPFNadNhIh0zkmExYao"
+        },
+        {
+          "name": "Ghena Dimitrova",
+          "url": "https://open.spotify.com/artist/1l8k9f4fseG0nH2WT7dp0g"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        }
+      ],
+      "duration_ms": 275626,
+      "name": "Aida / Act 4: \"O terra, addio; addio valle di pianti\"",
+      "url": "https://open.spotify.com/track/7cZzmx8BXqoCfuif0E3brY"
     },
     {
       "added_at": "2025-12-22 11:16:50",

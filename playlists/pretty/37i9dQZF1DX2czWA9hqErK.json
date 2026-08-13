@@ -1,12 +1,12 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1314088,
+  "num_followers": 1313982,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAUdNs8oStuQNr4XpmB+qWVY26GM",
+  "snapshot_id": "AAAAALD7jrfJMRVAvo5BIIGJqti39j5K",
   "tracks": [
     {
       "added_at": "2026-04-16 23:00:52",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "The Greatest Love",
-        "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 300432,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Shhugar",
         "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 213552,
       "name": "Dodge",
       "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "The Greatest Love",
+        "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 300432,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Teenage Love",
-        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Teenage Love",
-      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Call Them And Tell Them You Love Them",
         "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 191912,
       "name": "Too Many Times",
       "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Teenage Love",
+        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Teenage Love",
+      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
-      },
-      "artists": [
-        {
-          "name": "Charlie Noordewier",
-          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
-        }
-      ],
-      "duration_ms": 315245,
-      "name": "Little Miss Sunshine",
-      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Warm on a Cold Night (10 Years)",
         "url": "https://open.spotify.com/album/655tvIsyYr1pjfO25GzMVa"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 318120,
       "name": "Warm on a Cold Night (10 Years)",
       "url": "https://open.spotify.com/track/1NQYxJSgMvzG3jp6g55b6t"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
+      },
+      "artists": [
+        {
+          "name": "Charlie Noordewier",
+          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+        }
+      ],
+      "duration_ms": 315245,
+      "name": "Little Miss Sunshine",
+      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Don't Fall Asleep",
-        "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
+        "name": "Made It Happen",
+        "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
       },
       "artists": [
         {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+          "name": "Finn Mungo",
+          "url": "https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9"
         }
       ],
-      "duration_ms": 269280,
-      "name": "Don't Fall Asleep",
-      "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
+      "duration_ms": 239080,
+      "name": "Made It Happen",
+      "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Made It Happen",
-        "url": "https://open.spotify.com/album/2sLnGoVVwoK6ckcM4JPRwG"
+        "name": "Don't Fall Asleep",
+        "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
       },
       "artists": [
         {
-          "name": "Finn Mungo",
-          "url": "https://open.spotify.com/artist/2iusqS4txEVVJupH4r7tS9"
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Made It Happen",
-      "url": "https://open.spotify.com/track/72uExfJ4uroHaNJyQqTHIX"
+      "duration_ms": 269280,
+      "name": "Don't Fall Asleep",
+      "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
     },
     {
       "added_at": "2026-04-16 23:00:52",

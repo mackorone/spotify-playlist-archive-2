@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 83 songs - 4 hr 51 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 88 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 81 | [Ritual for the Unheard](https://open.spotify.com/track/5NjN0sZpDeUcs8uBNMVbTw) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 3:20 |
 | 82 | [SAVANNAH](https://open.spotify.com/track/1MxJFJTf2D8whQSaf1MS67) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [SAVANNAH](https://open.spotify.com/album/202wBiAbLcEth13WHMLuWc) | 3:32 |
 | 83 | [Brave](https://open.spotify.com/track/57wOH1yfVPll97iyI0Xp98) | [Mister Chorister](https://open.spotify.com/artist/2gj1byWvrljHj1FWzSWXUd) | [Brave](https://open.spotify.com/album/3PIlwfrx8NPZChCynoVF7V) | 3:41 |
+| 84 | [Believe In Me](https://open.spotify.com/track/7bodTY1G8StQjTkU2XN2t3) | [NorLights](https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh) | [Believe In Me](https://open.spotify.com/album/351d6SVC9Pq4MrIDEWFvIQ) | 3:04 |
+| 85 | [The Ballerina](https://open.spotify.com/track/0XMO8iVC8FanNIdux1dcJ4) | [War Honey](https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na) | [All You'll Ever Be Good For](https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4) | 7:15 |
+| 86 | [Love Can Conquer All](https://open.spotify.com/track/1cS4Y7PuWZJ46aNbLjHlCd) | [Gravity 180](https://open.spotify.com/artist/2TKmTmVekVE3awZeJUOME5) | [Love Can Conquer All](https://open.spotify.com/album/2xTGBojPjGNKBLkaS6L9K1) | 4:12 |
+| 87 | [First Time Feeling](https://open.spotify.com/track/20P0LUwCYkmTaPoWEMDb80) | [elavie](https://open.spotify.com/artist/3kgSiFgUZ9o7u0kwjLuDke) | [First Time Feeling](https://open.spotify.com/album/2zSZdxkDBqEp89xvD46lRl) | 3:46 |
+| 88 | [Come una nuvola](https://open.spotify.com/track/7prSH1ypxvmDQMJwJCySMQ) | [Claudio Trezza](https://open.spotify.com/artist/3uDQbHK8PuikLtK9SAahqb) | [Come una nuvola](https://open.spotify.com/album/1zx1fgmOuOUg5XYjcha4Na) | 3:43 |
 
-Snapshot ID: `AAAXCxIkTo6+xUpSbM2Aukm64F5raXzI`
+Snapshot ID: `AAAXEAxCUWVGZctIKJxsDCRoxbGC82XS`

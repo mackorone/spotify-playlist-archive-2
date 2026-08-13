@@ -3957,6 +3957,24 @@
     },
     {
       "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Cry Ugly",
+      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
+    },
+    {
+      "album": {
         "name": "Cubism",
         "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
       },
@@ -9719,6 +9737,24 @@
     },
     {
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+    },
+    {
+      "album": {
         "name": "in the mood",
         "url": "https://open.spotify.com/album/4QNeA6LwsAv0OxoVvhdEPW"
       },
@@ -12376,7 +12412,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 232736,
       "name": "Man On A Mission (feat. Wizkid)",
       "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
@@ -13980,7 +14016,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 228000,
       "name": "New Journey",
       "url": "https://open.spotify.com/track/7dOWN2UK7jsmtnGAs8CcLr"
@@ -17466,7 +17502,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 193838,
       "name": "satellite",
       "url": "https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3"
@@ -25440,6 +25476,32 @@
       "duration_ms": 189746,
       "name": "\u6d41\u661f\u7fa4",
       "url": "https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U"
+    },
+    {
+      "album": {
+        "name": "\u9ec4\u660f\u306a\u30d6\u30eb\u30fc -Twilight Blue-",
+        "url": "https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u8ca1\u6d25\u30de\u30a4",
+          "url": "https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3"
+        },
+        {
+          "name": "KiBi",
+          "url": "https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "\u6d99\u306e\u30ab\u30e9\u30c3\u30c8 -Rumor Girl- (feat. \u8ca1\u6d25\u30de\u30a4)",
+      "url": "https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR"
     },
     {
       "album": {

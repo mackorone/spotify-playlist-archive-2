@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,944 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,036 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 |
 | 100 | [Onlyfan](https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ) | [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [Onlyfan](https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi) | 2:08 |
 
-Snapshot ID: `AAAAAEC74yF8mPIr11BeTHw3S14gaGxH`
+Snapshot ID: `AAAAAHHJJX0G2pusXppiA3MisJK82GAl`

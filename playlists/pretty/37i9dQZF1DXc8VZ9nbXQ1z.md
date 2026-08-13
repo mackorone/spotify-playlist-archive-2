@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,952 likes - 30 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,027 likes - 30 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [So Deep](https://open.spotify.com/track/4Nu6BTNCo63mdWfCsD7obI) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [So Deep](https://open.spotify.com/album/49waNtghnLcFBxmli08IvA) | 3:58 |
 | 30 | [SAX AT NIGHT](https://open.spotify.com/track/1tnmBLmYQmMsxU335szYoL) | [Peppe Citarella](https://open.spotify.com/artist/5DWjZ2hLuK8Mfdoua8lkJB), [Almared](https://open.spotify.com/artist/5GKfRMuTNu9EvspPN4UH4E), [NONAME B2B](https://open.spotify.com/artist/73h83ez3sPKTdLkUa01XT2), [Saxtracks](https://open.spotify.com/artist/2gA7TqepFL3eGxebv7qof1) | [SAX AT NIGHT](https://open.spotify.com/album/4vI6mMTgeTt1bg4lJULbnA) | 2:45 |
 
-Snapshot ID: `AAAAANwKh6KCTC82ilxq7EUNan5VyQ72`
+Snapshot ID: `AAAAAAAILsjPCpadFyh/+F6CP9HuL24H`

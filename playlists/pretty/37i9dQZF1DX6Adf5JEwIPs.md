@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: RIA 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,223 likes - 67 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,208 likes - 67 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 66 | [Zona Patrullando \- En Vivo](https://open.spotify.com/track/3NF4rNYnPjN95DuG4fC1eB) | [Alto Código](https://open.spotify.com/artist/5mTPOQ9UrBKsQC6eQMFjYN) | [Kwiky \(En Vivo\)](https://open.spotify.com/album/6Oh4qWTICsvcFygux6v6jI) | 3:18 |
 | 67 | [Alone](https://open.spotify.com/track/18MO4iClpyyYghgeY15jdW) | [Santiago Vega](https://open.spotify.com/artist/7gxEo8Md2uqc1QBEqxehFe) | [Alone](https://open.spotify.com/album/0rYtC7iILKeFPQKL20nOcj) | 2:23 |
 
-Snapshot ID: `AAAAAO1uLwnQNER43uVMVBpMkYLAiiNV`
+Snapshot ID: `AAAAACHp+6tIhpzyE/COzbbEq1q1oudG`

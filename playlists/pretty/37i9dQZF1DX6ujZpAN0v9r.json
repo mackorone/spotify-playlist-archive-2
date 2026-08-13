@@ -1,12 +1,12 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 700873,
+  "num_followers": 700927,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIKAblCf/Cjv8Y7EspYV95T9Yelo",
+  "snapshot_id": "AAAAAMBNqmSFLK/OfAQAB+hnVVZRylBu",
   "tracks": [
     {
       "added_at": "2023-12-08 16:49:10",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy (Expanded Version)",
-        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 102333,
-      "name": "Taste of Cindy",
-      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 301224,
       "name": "Flood in Heaven",
       "url": "https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Psychocandy (Expanded Version)",
+        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 102333,
+      "name": "Taste of Cindy",
+      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
+        "name": "Psychocandy",
+        "url": "https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
         }
       ],
-      "duration_ms": 301866,
-      "name": "Lazuli",
-      "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
+      "duration_ms": 183493,
+      "name": "Just Like Honey",
+      "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy",
-        "url": "https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0"
       },
       "artists": [
         {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 183493,
-      "name": "Just Like Honey",
-      "url": "https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl"
+      "duration_ms": 301866,
+      "name": "Lazuli",
+      "url": "https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Dark Spring",
-      "url": "https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 219669,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Dark Spring",
+      "url": "https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489"
     },
     {
       "added_at": "2021-06-03 02:39:04",

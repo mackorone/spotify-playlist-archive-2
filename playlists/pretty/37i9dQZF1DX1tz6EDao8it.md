@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,352,743 likes - 132 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,352,863 likes - 132 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 36 | [James Bond Theme](https://open.spotify.com/track/6xGQ24VLMjxVJcBQ85ifx1) | [Monty Norman](https://open.spotify.com/artist/2M3MaGqJ8NnwpflwOOA5iw), [John Barry Orchestra](https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog) | [Dr\. No \(Original Soundtrack\) \[1962\]](https://open.spotify.com/album/5XuNK2E6Xg78EAL5rNAIfY) | 1:46 |
 | 37 | [The Imitation Game](https://open.spotify.com/track/0o9ivTBX7mjTnaUYF4Gk6t) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [The Imitation Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2CsfKW5tze2DZKq49iARk1) | 2:37 |
 | 38 | [Robin Hood: Prince of Thieves](https://open.spotify.com/track/7K18xAZJwsi3ovTJscjFol) | [Cinematic Symphony Orchestra](https://open.spotify.com/artist/1hLVfJFNfsJ3WHjOtdmFRJ) | [Robin Hood: Prince of Thieves](https://open.spotify.com/album/1HhnjYoa6fMDIKTmjse44T) | 2:53 |
-| 39 | [The Batman](https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 6:47 |
+| 39 | [The Batman \- from "The Batman"](https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Batman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19) | 6:47 |
 | 40 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 |
 | 41 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 |
 | 42 | [Final Ascent](https://open.spotify.com/track/7nERpoaVj6tizE9dKnbpgp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 7:25 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 131 | [End Titles](https://open.spotify.com/track/1CxT3WZkSuEAxPOKAPzDDl) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Duchess \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl) | 2:08 |
 | 132 | [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 |
 
-Snapshot ID: `AAAAABM/wvjX7pP9BFffq4GhBdJGhtm3`
+Snapshot ID: `AAAAALlMn+qx8XT9FkalOMNT16kFl6ug`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,552 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,553 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 36 | [BIG PURR \(Prrdd\) \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [BIG PURR \(Prrdd\)](https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o) | 1:56 |
 | 37 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 |
 | 38 | [Bops](https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:08 |
-| 39 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
-| 40 | [Everything BoZ \(feat\. Coi Leray\) \- Slowed Down](https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r) | [10X](https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Everything BoZ \(feat\. Coi Leray\) \[Slowed Down\]](https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre) | 3:51 |
+| 39 | [Everything BoZ \(feat\. Coi Leray\) \- Slowed Down](https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r) | [10X](https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Everything BoZ \(feat\. Coi Leray\) \[Slowed Down\]](https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre) | 3:51 |
+| 40 | [Fly Sh!t](https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fly Sh!t](https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj) | 2:15 |
 | 41 | [Coke Bottle Body](https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 3:41 |
 | 42 | [Get Loud](https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:50 |
 | 43 | [Wanna Come Thru](https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Wanna Come Thru](https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Pink Money \(feat\. G Herbo\)](https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC) | 2:44 |
 | 50 | [Phuck It](https://open.spotify.com/track/67JdujEjlWXxTO1aujitaV) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:58 |
 
-Snapshot ID: `ankUgAAAAACNEGSAcf2ddf3fthW4RMY5`
+Snapshot ID: `anpmAAAAAADdginetdfi6lUIrDspA+nu`

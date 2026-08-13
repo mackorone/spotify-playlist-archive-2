@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,036 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,038 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [capaz \(merengueton\)](https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:53 |
 | 50 | [Troka](https://open.spotify.com/track/1kRcyavJZTwgDXuWV8W0eu) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Génesis](https://open.spotify.com/album/3emn9mTsDGSGG5t9A0w6nj) | 2:49 |
 
-Snapshot ID: `Mg6GwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mg/YQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

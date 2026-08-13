@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Joaquina
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,235 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,239 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [en el aire](https://open.spotify.com/track/5OVkjvPONlIkkwbhOXhJ8l) | [ABRL](https://open.spotify.com/artist/34gZHRoHXDq8RR9p0koUbk) | [en voz alta](https://open.spotify.com/album/6CANqUuTmkD7LFwwwpcazR) | 3:36 |
 | 50 | [Desayuno Pa' 2](https://open.spotify.com/track/6lN0MtkSbHDaIjuNhgYxXU) | [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Desayuno Pa' 2](https://open.spotify.com/album/4L8UibVoRQL9ofKz6nePHX) | 3:28 |
 
-Snapshot ID: `AAAAAGBDb9578m1FR8hVO+THp8y8vQJ2`
+Snapshot ID: `AAAAAL/pe54sCQhLwriVYYtDqVeJSoc2`

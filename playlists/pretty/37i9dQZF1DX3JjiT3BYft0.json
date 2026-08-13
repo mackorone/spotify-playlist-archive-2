@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! ",
-  "num_followers": 78935,
+  "num_followers": 78932,
   "original_name": "BanG Dream!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBH7Bq4xLYv01K8Yj1yEKC1XYmx",
+  "snapshot_id": "AAAAAOqudNTibb0nxX/7heMJ5KN1OgvI",
   "tracks": [
     {
       "added_at": "2026-04-21 15:00:48",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-04-21 15:00:48",
       "album": {
+        "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
+        "url": "https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK"
+      },
+      "artists": [
+        {
+          "name": "Pastel*Palettes",
+          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
+      "url": "https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4"
+    },
+    {
+      "added_at": "2026-04-21 15:00:48",
+      "album": {
         "name": "Wonder Night Land",
         "url": "https://open.spotify.com/album/1MCHsCgzPQAKAbNpEZrBcI"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 238633,
       "name": "Wonder Night Land",
       "url": "https://open.spotify.com/track/2A4U9YGvujRynytJ5GEfDc"
-    },
-    {
-      "added_at": "2026-04-21 15:00:48",
-      "album": {
-        "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
-        "url": "https://open.spotify.com/album/6TzI50EqlfGlG2JUZMyTDK"
-      },
-      "artists": [
-        {
-          "name": "Pastel*Palettes",
-          "url": "https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01 (Cover)",
-      "url": "https://open.spotify.com/track/17woIV9I95tV9C4fnc6Ep4"
     },
     {
       "added_at": "2026-04-21 15:00:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Amelie Lens,  Angèle
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,207 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,265 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [020](https://open.spotify.com/track/3VreTTXCzoWXLVQl6UtLQ1) | [The Palindromes](https://open.spotify.com/artist/2LvjOOoYGlukiA0fFTBXZ2) | [020](https://open.spotify.com/album/30WL5faDYTA09Y5JbUMEva) | 2:16 |
 | 90 | [What da Funk \- German Brigante Remix](https://open.spotify.com/track/2sJALKQ60UKUYnWbxapVrY) | [Deniz Tekin \(TR\)](https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu), [Aliot](https://open.spotify.com/artist/0fwRN0FvddmSkK5x3iDFSg), [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [What da Funk \(German Brigante Remix\)](https://open.spotify.com/album/52Zs7M3SMGg4YlbvfgJh9a) | 5:08 |
 
-Snapshot ID: `AAAAAFgRc/6J8r3jKbmhsBUt1c1Ryrm0`
+Snapshot ID: `AAAAAAnSYPRN0wTd1E53AyuXnE9nPDQj`

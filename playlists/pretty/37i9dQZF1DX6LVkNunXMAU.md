@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: J18
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,307 likes - 97 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,314 likes - 97 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 96 | [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 |
 | 97 | [Niño Bosque](https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF) | [Niño Bosque](https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5) | 2:56 |
 
-Snapshot ID: `AAAAAByzP9FMRCN5osW2VKM74waI1Ga4`
+Snapshot ID: `AAAAALus2MWThwcc2qh/As4/XM71ZIJ2`

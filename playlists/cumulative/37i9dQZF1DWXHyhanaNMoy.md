@@ -2,7 +2,7 @@
 
 ### [La Vida Loca](https://open.spotify.com/playlist/37i9dQZF1DWXHyhanaNMoy)
 
-> Motion & good vibes! Cover: Freddy Moreira, Bokoesam & Young Ellens
+> Motion & good vibes! <a href="spotify:genre:0JQ5IMCbQBLqqeHyMt6DHl">Check hier meer zomer aanbevelingen!</a>
 
 1,817 songs - 3 day 8 hr 19 min
 

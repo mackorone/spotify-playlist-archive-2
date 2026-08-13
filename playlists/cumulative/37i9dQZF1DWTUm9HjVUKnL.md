@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Mack Keane
 
-1,364 songs - 3 day 9 hr 54 min
+1,366 songs - 3 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Better Place \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/61YvXZaJ3r5P0ZLSmSjQjU) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:15 | 2022-01-19 |  |
 | [Beyond \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Spotify Singles](https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX) | 4:04 | 2022-01-19 |  |
 | [Big \(feat\. Timbuktu\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0rbjULSooXfX6S2i8syHSd) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Spotify Singles](https://open.spotify.com/album/4PzCTggaYEmBDgzAE3DjtA) | 3:57 | 2022-01-19 |  |
+| [Big Girls Don't Cry \(Fergie Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/5GKLMqbymoX9Boly7Eyer6) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 4:51 | 2026-08-13 |  |
 | [Big Yellow Taxi \- Live from Spotify Studios NYC](https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Spotify Singles](https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu) | 2:29 | 2022-01-19 |  |
 | [Bigger Love \- Spotify Singles](https://open.spotify.com/track/2t02C7mGZnwv5rnMBEYts9) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:48 | 2022-08-17 |  |
 | [Bike Dream \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles](https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY) | 3:57 | 2022-01-19 |  |
@@ -1303,6 +1304,7 @@
 | [What's My Name? \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1FiThvXpukBsuiBHVx1tOf) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Spotify Singles](https://open.spotify.com/album/4U9Z2CNRkgjTbupyX2OXUN) | 3:00 | 2022-01-19 |  |
 | [What's My Name? \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1gj9Ewg4VZgDqWwQBjwQtI) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Spotify Singles](https://open.spotify.com/album/5bBcJcgpV6ZCgjIFeVX4TR) | 3:00 | 2022-10-12 | 2024-04-19 |
 | [When Doves Cry \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 4:40 | 2022-01-19 |  |
+| [When He’s Gone \(Live\) \- Spotify Live Room](https://open.spotify.com/track/72lbG8nN6XULABnAiFaSzA) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Sam Smith \- Spotify Live Room](https://open.spotify.com/album/02tGyoGJrqa02D3OIAFG4c) | 3:17 | 2026-08-13 |  |
 | [When the Night is Over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:10 | 2022-01-19 |  |
 | [when the party's over \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:52 | 2022-01-19 |  |
 | [When You're Around \(Acoustic Version\) \- Spotify Singles](https://open.spotify.com/track/7682OOOJFeRG57G0z43yT1) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [Mad World \(Spotify Singles\)](https://open.spotify.com/album/2gv828jRAviPsx5wN4RlGT) | 3:16 | 2025-05-23 |  |

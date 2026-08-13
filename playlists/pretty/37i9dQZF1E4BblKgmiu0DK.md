@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, Jinx & The Royals, The Donnas and more
+> With Die Mannequin, Eileen Noise, Mia Morris and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 6 likes - 50 songs - 2 hr 47 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 | 49 | [Below Average](https://open.spotify.com/track/3wtRTHG1jcec4PCWhuuhdd) | [Meg Rilley](https://open.spotify.com/artist/2qxe2DPc6UjVIEupBqeSsY), [Meg & The Boys](https://open.spotify.com/artist/0GRFitz471oseey4rPJAwV) | [Below Average](https://open.spotify.com/album/4jV84gTRJ7OOZ4GYAubuJ4) | 4:08 |
 | 50 | [My Size](https://open.spotify.com/track/5JA4gqlKDV5BeVdI6g3eEs) | [Hands Off Gretel](https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i) | [My Size](https://open.spotify.com/album/4u5rfwgVon0TlcA98ww9Xw) | 3:28 |
 
-Snapshot ID: `AAAAACFtG/60Eubc9Ooda09XpSV9UTY4`
+Snapshot ID: `AAAAAMTh1HrwDUlJ/Il5Tc1Pveg5SMfE`

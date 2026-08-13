@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 
 > the glorious sounds of Jazz House, from Montreal, Lagos, Bogotá, & beyond 🌎 featuring KALLITECHNIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,488 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,551 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VmfSIoGXK2.md) - [plain]
 | 99 | [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 |
 | 100 | [Evolution](https://open.spotify.com/track/28P3hD5604xr8ZD2cpSqqV) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Evolution](https://open.spotify.com/album/0WvP86fINZdLQX9d2VYuo3) | 1:58 |
 
-Snapshot ID: `AAAAAAOe/4+N4UfhmKT72OnpBc1TIqC9`
+Snapshot ID: `AAAAACiUOOdV47kFDemgnNnkkwu3SuaV`

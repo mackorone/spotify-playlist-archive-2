@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36672,
+  "num_followers": 36677,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADYoVkf3y43zpiXNDHGEIiO",
+  "snapshot_id": "anpmAAAAAABFcl5T88aRB0q6fPsDjMkE",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Clouds 1940",
-        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Coucou",
-      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Django Reinhardt: Legendary Recordings",
         "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
@@ -259,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol6 / 1937",
-        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
+        "name": "War Clouds 1940",
+        "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
       },
       "artists": [
         {
@@ -268,21 +248,13 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
           "name": "Quintette du Hot Club de France",
           "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "Michel Warlop",
-          "url": "https://open.spotify.com/artist/2c0fwzZLBTcn71TtEY5rem"
         }
       ],
-      "duration_ms": 172160,
-      "name": "Swinging with Django",
-      "url": "https://open.spotify.com/track/75LBvLhNCU8KWqeOr6BSOd"
+      "duration_ms": 163226,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
     },
     {
       "added_at": null,
@@ -323,26 +295,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis Blues",
-        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
+        "name": "Djangologie Vol6 / 1937",
+        "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
       },
       "artists": [
         {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
           "name": "St\u00e9phane Grappelli",
           "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         },
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "Michel Warlop",
+          "url": "https://open.spotify.com/artist/2c0fwzZLBTcn71TtEY5rem"
         }
       ],
-      "duration_ms": 186437,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
+      "duration_ms": 172160,
+      "name": "Swinging with Django",
+      "url": "https://open.spotify.com/track/75LBvLhNCU8KWqeOr6BSOd"
     },
     {
       "added_at": null,
@@ -363,26 +339,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arkadia Jazz: In the Beginning",
-        "url": "https://open.spotify.com/album/51abtWR4ocrUuS3yXw8HPs"
+        "name": "St. Louis Blues",
+        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
       },
       "artists": [
         {
-          "name": "Arkadia Jazz All-Stars",
-          "url": "https://open.spotify.com/artist/6zvf7WeBSm26ESYpE9amLc"
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         },
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 200724,
-      "name": "Out of Nowhere",
-      "url": "https://open.spotify.com/track/1En79guqjRnfnceqaqsY2c"
+      "duration_ms": 186437,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/1zLeRNxBzjT1YB95TMPuW4"
     },
     {
       "added_at": null,
@@ -419,6 +395,30 @@
       "duration_ms": 185482,
       "name": "September Song",
       "url": "https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arkadia Jazz: In the Beginning",
+        "url": "https://open.spotify.com/album/51abtWR4ocrUuS3yXw8HPs"
+      },
+      "artists": [
+        {
+          "name": "Arkadia Jazz All-Stars",
+          "url": "https://open.spotify.com/artist/6zvf7WeBSm26ESYpE9amLc"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 200724,
+      "name": "Out of Nowhere",
+      "url": "https://open.spotify.com/track/1En79guqjRnfnceqaqsY2c"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Django Reinhardt",
+        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187594,
+      "name": "Sweet Georgia Brown",
+      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol.2 / 1936 - 1937",
         "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 160866,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/1rV3Q3UrxEWHkSo68lPiqb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt",
-        "url": "https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187594,
-      "name": "Sweet Georgia Brown",
-      "url": "https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X"
     },
     {
       "added_at": null,

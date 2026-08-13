@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrV3kHM4eB.md) - [plain]
 
 > Heroes assemble\. Ignite the Battle\. The official music from Marvel Rivals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,160 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,187 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lrV3kHM4eB.md) - [plain]
 | 50 | [Voyage to Astonish](https://open.spotify.com/track/4aOx4Ni4amtBdJWGvAeWnI) | [NetEase Sound Team](https://open.spotify.com/artist/6FxQ5MhYy66HAdhDmhSv3m) | [MARVEL Rivals: Galactic Tunes Vol\. 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5NbExStJilMIhbL3gfiE7M) | 1:08 |
 | 51 | [The Crossroads of the World](https://open.spotify.com/track/7yaup3iNTF2XLWTf4NZGPk) | [NetEase Sound Team](https://open.spotify.com/artist/6FxQ5MhYy66HAdhDmhSv3m) | [MARVEL Rivals: Galactic Tunes Vol\. 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5NbExStJilMIhbL3gfiE7M) | 1:10 |
 
-Snapshot ID: `AAAAAMvH6AYsolmnDRGLh/7qS0sIa/OC`
+Snapshot ID: `AAAAAK8vN8GQ4PggNs4en8jLuy48fNcb`

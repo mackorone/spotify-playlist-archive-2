@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Sami Landri for Montreal Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,173 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,178 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 18 | [Devour](https://open.spotify.com/track/3hScgyOQVhK2Ibi9FpTQnq) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Devour](https://open.spotify.com/album/2X8HaYgiIcd3FMuT2TEWxn) | 2:37 |
 | 19 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
 | 20 | [BROKE BITCH FREE$TYLE](https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BROKE BITCH FREE$TYLE](https://open.spotify.com/album/5dqawOCoShBIAN8R9Dl0GE) | 2:13 |
-| 21 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
-| 22 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
+| 21 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
+| 22 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
 | 23 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
 | 24 | [Easy](https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u) | [Jace Cameron](https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw) | [Easy](https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX) | 3:50 |
-| 25 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 |
-| 26 | [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 |
+| 25 | [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 |
+| 26 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 |
 | 27 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |
 | 28 | [GAY](https://open.spotify.com/track/4kEUczTnlDhiMKRUNHY4Kp) | [Meg Stalter](https://open.spotify.com/artist/2uz4LewowsAwg9k88MRDzG) | [GAY](https://open.spotify.com/album/5o2MYWrsXGASyP5kO71Lwi) | 2:58 |
 | 29 | [Losing People](https://open.spotify.com/track/77pNS7sNHCTptHMPawto7i) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Losing People](https://open.spotify.com/album/59GmuL2GM7ssQ9318WRYhR) | 2:34 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 34 | [Normal People](https://open.spotify.com/track/2ORYOv3e4xeA7Al4vnd88q) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [In Retrospect](https://open.spotify.com/album/1hW6ElfFzexmLP19JvPzeJ) | 2:42 |
 | 35 | [Queen of Texas](https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Queen of Texas](https://open.spotify.com/album/3XFMsDqtgYA0ImMRJW4e7e) | 3:09 |
 | 36 | [POSSESSIVE](https://open.spotify.com/track/5R7PNT2scRyhURIT5R7Uiz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [LAUREN](https://open.spotify.com/album/1Ufqi9RHnUhjVSzD39DUex) | 2:31 |
-| 37 | [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 |
-| 38 | [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 |
+| 37 | [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 |
+| 38 | [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 |
 | 39 | [Everything All The Time](https://open.spotify.com/track/1UxuD4EpJSGRJI38yJWO8M) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Everything All The Time](https://open.spotify.com/album/4ILjIyaLf3qk7H2bibpVeT) | 3:59 |
 | 40 | [good things come in two's](https://open.spotify.com/track/3iA9oRCn2Gx9Qq55eQkUB9) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [good things come in two's](https://open.spotify.com/album/1amirJFqrFDzvjLrRQqqbk) | 2:20 |
 | 41 | [Two Juliets Don't Need A Romeo \(Love Nouveau At The Club\)](https://open.spotify.com/track/3Xe9aLM9xwFnNg4WZR3jFM) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Two Juliets Don't Need A Romeo \(Love Nouveau At The Club\)](https://open.spotify.com/album/3UneVetG7TZWU4jmCOyBrW) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [just like the sky](https://open.spotify.com/track/34zNjq19oLZEM447s2PP5k) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [up up above](https://open.spotify.com/album/30teLN7IbKX7gsj5X0wk1i) | 3:49 |
 | 50 | [MAKE IT OUT ALIVE \- Dave Audé Version](https://open.spotify.com/track/6GPHx5qSNiPnmdtQcM6dcC) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [MAKE IT OUT ALIVE \(Dave Audé Version\)](https://open.spotify.com/album/2d0zoeu1ZXByjTLXY0rAHn) | 3:01 |
 
-Snapshot ID: `AAAAANr8tfO8iRHUt5yAZgT9dYtNMTst`
+Snapshot ID: `AAAAAG/omc0BOsQlSeLcS2Wp0qugALUp`

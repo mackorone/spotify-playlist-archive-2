@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,880 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,881 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 28 | [Six O'Clock News](https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE) | [Brennan Wedl](https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Six O'Clock News](https://open.spotify.com/album/0djxhi0YKtQhZrRHXhlBLl) | 4:32 |
 | 29 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 |
 | 30 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 |
-| 31 | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8) | 3:18 |
-| 32 | [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 |
+| 31 | [Field Song.](https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Field Song.](https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf) | 2:19 |
+| 32 | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [New Country \(feat\. Blake Shelton\)](https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8) | 3:18 |
 | 33 | [Welcome To Outcast Town](https://open.spotify.com/track/3BKM92m9Wr4i2VehhBgFkQ) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [OUTCAST TOWN](https://open.spotify.com/album/2vbUakBweYESNGM676tA5l) | 2:49 |
 | 34 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:59 |
 | 35 | [Catch A Rainbow](https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Catch A Rainbow](https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 50 | [A Beautiful Life](https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [A Beautiful Life](https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8) | 3:16 |
 
-Snapshot ID: `AAAAAOJFfCrjUW+djPLjaH1S/VHc5dLG`
+Snapshot ID: `AAAAAIwp+5+OeW2HQN5m/w51wJB/ymb0`

@@ -4,7 +4,7 @@
 
 > Way Dynamic <3
 
-871 songs - 2 day 4 hr 32 min
+873 songs - 2 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Arteries](https://open.spotify.com/track/1loKcR8dIFxjGwKUo1Gv1Q) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Arteries](https://open.spotify.com/album/6vxtYeDwJNK427fs3oCSV1) | 5:14 | 2026-06-12 |  |
 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 | 2025-02-21 | 2025-09-27 |
 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 | 2025-04-25 | 2026-01-15 |
-| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2024-08-01 | 2024-09-07 |
+| [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 | 2026-08-12 |  |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2024-08-01 |  |
 | [August \(Acoustic\)](https://open.spotify.com/track/2JXiyD1zucGdFmnTeYb5Ry) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [August \(Acoustic\)](https://open.spotify.com/album/6uGsmECvPd2VoQI5OfnSPL) | 5:02 | 2025-08-08 | 2025-09-06 |
 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 | 2026-06-26 |  |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-03-15 | 2024-11-09 |
@@ -853,6 +854,7 @@
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-04-26 | 2024-06-01 |
 | [wishing for you](https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG) | [deeper sleeper](https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ) | [wishing for you](https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl) | 4:07 | 2024-08-30 | 2024-10-19 |
 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 | 2026-07-03 |  |
+| [Without You](https://open.spotify.com/track/4SiojdReG8nXplUNGWSYN3) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Without You](https://open.spotify.com/album/18LbowdBwEYPyoHEBmkfp0) | 4:27 | 2026-08-12 |  |
 | [Wolf In Sheep’s Clothes](https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Cruel Joke](https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH) | 3:25 | 2025-05-16 | 2026-01-15 |
 | [Wolves of Worry](https://open.spotify.com/track/22LyAuD1vzB0sjJWDSYq3I) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Wolves of Worry](https://open.spotify.com/album/1jPBK8y3CHlUCM0z4sTCux) | 3:38 | 2025-08-29 | 2026-02-21 |
 | [Woman of the Hour](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 3:02 | 2026-04-03 |  |

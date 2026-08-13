@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Maya Donovan",
+  "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Ada Lea",
   "name": "Fresh Finds Folk",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 286895,
       "name": "10 Years,",
       "url": "https://open.spotify.com/track/3aCOy3gmk0doqhe7ttsaH7"
+    },
+    {
+      "album": {
+        "name": "100 MILLION",
+        "url": "https://open.spotify.com/album/5xjXkDG5Tli8W8FczI9YPR"
+      },
+      "artists": [
+        {
+          "name": "Ethansroom",
+          "url": "https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "100 MILLION",
+      "url": "https://open.spotify.com/track/1jR4ALpdqJ12ghzdrzmvmo"
     },
     {
       "album": {
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 163254,
       "name": "apple tree",
       "url": "https://open.spotify.com/track/4Se16udQXcb46gp6JieVIi"
@@ -4881,6 +4899,24 @@
     },
     {
       "album": {
+        "name": "Brace for Impact",
+        "url": "https://open.spotify.com/album/5lFVhnQha0G8jPBMxLGrdZ"
+      },
+      "artists": [
+        {
+          "name": "yeemz",
+          "url": "https://open.spotify.com/artist/3esOPpGsiTP1Rc5lS1Jr6a"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171085,
+      "name": "Brace for Impact",
+      "url": "https://open.spotify.com/track/4m5h9O9nUCg5njX8tC344q"
+    },
+    {
+      "album": {
         "name": "Breaking My Heart",
         "url": "https://open.spotify.com/album/5vfxuLkTB0yKnDlqw2G3jB"
       },
@@ -6008,7 +6044,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 192027,
       "name": "Cephalopods Do",
       "url": "https://open.spotify.com/track/4qwZ29tDAmGKmNTA9YVbGw"
@@ -7410,6 +7446,24 @@
       "duration_ms": 185000,
       "name": "Cowboy Song",
       "url": "https://open.spotify.com/track/6WTxv1kJXyOHV24Vl7iiqa"
+    },
+    {
+      "album": {
+        "name": "Cowboy Songs",
+        "url": "https://open.spotify.com/album/5sDlzkixdYQsPwYXUaYION"
+      },
+      "artists": [
+        {
+          "name": "Lorg",
+          "url": "https://open.spotify.com/artist/2JOyr8sEiYctjeSOlBZltC"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "Cowboy Songs",
+      "url": "https://open.spotify.com/track/0CH2FvRGL75Yqz9kXh574B"
     },
     {
       "album": {
@@ -12310,7 +12364,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 266566,
       "name": "Flower",
       "url": "https://open.spotify.com/track/03zy9xJ8UnPLlfzn4bFF3B"
@@ -16242,7 +16296,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 243834,
       "name": "Horses",
       "url": "https://open.spotify.com/track/0fX87MQuQEbN6yTsurdeJ8"
@@ -17734,6 +17788,28 @@
       "duration_ms": 194625,
       "name": "I'm Tired",
       "url": "https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4"
+    },
+    {
+      "album": {
+        "name": "the end is a wave",
+        "url": "https://open.spotify.com/album/4OsMPyGaxzsUrU7eBzbP9f"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        },
+        {
+          "name": "Common Holly",
+          "url": "https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "i've never been in love",
+      "url": "https://open.spotify.com/track/1SGd9mcmE7A5HF2obnb93Y"
     },
     {
       "album": {
@@ -19504,7 +19580,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 153491,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/5MfdiCBpbFbzmjVLRAykGp"
@@ -21450,6 +21526,24 @@
       "duration_ms": 179715,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4ap9Q0fUySTvmUF3trnZRO"
+    },
+    {
+      "album": {
+        "name": "winner (deluxe edition)",
+        "url": "https://open.spotify.com/album/3Gv0nXcKGHYSjywqQMdyKV"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146199,
+      "name": "long way home",
+      "url": "https://open.spotify.com/track/6uHtF3g68x3Mwj0xBmPh0n"
     },
     {
       "album": {
@@ -25459,6 +25553,24 @@
     },
     {
       "album": {
+        "name": "OBL",
+        "url": "https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244483,
+      "name": "OBL",
+      "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
+    },
+    {
+      "album": {
         "name": "Occupy My Space",
         "url": "https://open.spotify.com/album/5J5O43Zv76bLd4xqA0Qib7"
       },
@@ -27106,7 +27218,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 228942,
       "name": "picking petals",
       "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
@@ -27466,7 +27578,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 422306,
       "name": "Portal to the Past",
       "url": "https://open.spotify.com/track/739dDUpE5EOSRxWp3v79Rh"
@@ -28320,7 +28432,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 189346,
       "name": "Red Dragonfly",
       "url": "https://open.spotify.com/track/2YpapyODyBEZU9W3AKnGZ3"
@@ -29300,6 +29412,24 @@
       "duration_ms": 236826,
       "name": "Sage",
       "url": "https://open.spotify.com/track/5JI37pQfjXSXCk6GbFO8KQ"
+    },
+    {
+      "album": {
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/5L2Q3mltBU6OkwTtnzVYrJ"
+      },
+      "artists": [
+        {
+          "name": "Maya Donovan",
+          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217759,
+      "name": "Salami",
+      "url": "https://open.spotify.com/track/7kb5f5KOA5IFNUP1ZywIqo"
     },
     {
       "album": {
@@ -33537,6 +33667,24 @@
     },
     {
       "album": {
+        "name": "The Afterglow",
+        "url": "https://open.spotify.com/album/4KUi0N0LIgpFdcvwz1A9Ky"
+      },
+      "artists": [
+        {
+          "name": "Lily Seabird",
+          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "The Afterglow",
+      "url": "https://open.spotify.com/track/7x9pmiucNJujRXZgN5MrjE"
+    },
+    {
+      "album": {
         "name": "The Bell Jar",
         "url": "https://open.spotify.com/album/4ZbxxQPdwBFmFHsq3JAjLK"
       },
@@ -35108,7 +35256,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 175480,
       "name": "This Is Our Life",
       "url": "https://open.spotify.com/track/04kHb4oQztTRtINGtTGrzF"
@@ -35202,6 +35350,24 @@
       "duration_ms": 148279,
       "name": "thread",
       "url": "https://open.spotify.com/track/5hybBsRdkEKaHDPLQ9uwMD"
+    },
+    {
+      "album": {
+        "name": "Three Reds",
+        "url": "https://open.spotify.com/album/1TORmjib416bF532Zsd0rL"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "Three Reds",
+      "url": "https://open.spotify.com/track/5C31HrFnn33HttYisW9kLE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Satellite. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Jduck. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -7927,6 +7927,24 @@
     },
     {
       "album": {
+        "name": "Saw you on Tinder",
+        "url": "https://open.spotify.com/album/4W16e14ZACMcDEdohShUUG"
+      },
+      "artists": [
+        {
+          "name": "Jduck",
+          "url": "https://open.spotify.com/artist/7IwfHqIXDXJZXIG2VBrPE9"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Saw you on Tinder",
+      "url": "https://open.spotify.com/track/4SmrLOYQ5ad3QcLGS9tpf9"
+    },
+    {
+      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/3msXRPRreZGn22dKxkplfl"
       },
@@ -8932,7 +8950,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 248746,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6XJkUNg0IJB014weMpIkcv"
@@ -14322,6 +14340,24 @@
       "duration_ms": 232000,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01 101",
       "url": "https://open.spotify.com/track/4SLUWbb8icMIOCmIJXr61o"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01 \u0e04\u0e27\u0e32\u0e21\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
+        "url": "https://open.spotify.com/album/72ld6NDW02YJyrM7Zd5wum"
+      },
+      "artists": [
+        {
+          "name": "Yellow Butter Cult",
+          "url": "https://open.spotify.com/artist/2kRRO1bskAHboNesK6Yv1F"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298423,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01 \u0e04\u0e27\u0e32\u0e21\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
+      "url": "https://open.spotify.com/track/03eUw7cpqBoAPLhpdn1RWa"
     },
     {
       "album": {
@@ -20836,6 +20872,24 @@
       "duration_ms": 214359,
       "name": "\u0e16\u0e32\u0e21\u0e21\u0e32\u0e15\u0e2d\u0e1a\u0e44\u0e1b (Please)",
       "url": "https://open.spotify.com/track/4eFUpjqkKgM69UG7aVsBGf"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e36\u0e07\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49 (On Me)",
+        "url": "https://open.spotify.com/album/7H5RNtXvPSubC8Eo7c6FPB"
+      },
+      "artists": [
+        {
+          "name": "kevyn",
+          "url": "https://open.spotify.com/artist/0BMpYlZbI8ir7DX1LukOpK"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124437,
+      "name": "\u0e16\u0e36\u0e07\u0e1e\u0e23\u0e38\u0e48\u0e07\u0e19\u0e35\u0e49 (On Me)",
+      "url": "https://open.spotify.com/track/1FnhxRLVOveQgtGbnjX9Ga"
     },
     {
       "album": {
@@ -28626,7 +28680,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 198750,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e19\u0e30 (My Pleasure)",
       "url": "https://open.spotify.com/track/1D6jJWNa1nvcEEQ5j7s3Dn"
@@ -41188,7 +41242,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 223360,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e01\u0e31\u0e19\u0e08\u0e23\u0e34\u0e07\u0e40\u0e2b\u0e23\u0e2d",
       "url": "https://open.spotify.com/track/0VwQzIilWlLfeNLGZe47NC"

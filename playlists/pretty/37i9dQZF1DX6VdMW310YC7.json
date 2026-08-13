@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3895974,
+  "num_followers": 3895800,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANSTG8QWojY+B/oZ12UXRAR+88+O",
+  "snapshot_id": "AAAAAK+vSH5O+4krYalmlAvazlTQC/WT",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:13",
@@ -651,30 +651,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "See My Soul",
-        "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "See My Soul",
-      "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Not The Same",
         "url": "https://open.spotify.com/album/6TcWS750Qhg2203YwZuPdX"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 196500,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/2B4Z3Ynr4GsNE1S6EiMWZF"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "See My Soul",
+        "url": "https://open.spotify.com/album/6pCdAFYi2NujUtttD0fPQJ"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "See My Soul",
+      "url": "https://open.spotify.com/track/5IDYlNp75toRLVVdaZL8W6"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "We Are Always Under The Same Sky",
         "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 249479,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "I Cared For You",
-        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        },
-        {
-          "name": "Noah Kulaga",
-          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "I Cared For You",
-      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "A Life",
         "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
@@ -1107,6 +1083,30 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/4egDJ1nzQU2SuFNkYaYMpe"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 199450,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Next To You",
         "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3MC1XET81JT8nChk0UTDtg"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/78Tuh53Z1R1H99xVFJoffE"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 266189,
       "name": "Pangea",
       "url": "https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/3MC1XET81JT8nChk0UTDtg"
-      },
-      "artists": [
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/78Tuh53Z1R1H99xVFJoffE"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
-    },
-    {
-      "added_at": "2026-08-07 04:01:13",
-      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/6Z5HYN50xuRIikzXPCo2oB"
       },
@@ -1847,22 +1827,22 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "edges",
-        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
       },
       "artists": [
         {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         },
         {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
         }
       ],
-      "duration_ms": 222857,
-      "name": "edges",
-      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
+      "duration_ms": 188454,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
     },
     {
       "added_at": "2026-08-07 04:01:13",
@@ -1907,6 +1887,26 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
+        "name": "edges",
+        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
+    },
+    {
+      "added_at": "2026-08-07 04:01:13",
+      "album": {
         "name": "My Reflection",
         "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
       },
@@ -1947,26 +1947,26 @@
     {
       "added_at": "2026-08-07 04:01:13",
       "album": {
-        "name": "Love Pains",
-        "url": "https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9"
+        "name": "alone",
+        "url": "https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL"
       },
       "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
         {
           "name": "Forester",
           "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
         },
         {
-          "name": "Freddie Elmberg",
-          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
-        },
-        {
-          "name": "FLORES",
-          "url": "https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY"
+          "name": "Robertson",
+          "url": "https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums"
         }
       ],
-      "duration_ms": 265161,
-      "name": "Love Pains",
-      "url": "https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q"
+      "duration_ms": 265408,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
     }
   ],
   "unique_name": "Chill Tracks",

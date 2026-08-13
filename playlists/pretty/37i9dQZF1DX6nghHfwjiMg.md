@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,950 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,949 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 59 | [Quedateloo\-O](https://open.spotify.com/track/0KU2sqzPNNU8I4LhKO2D5g) | [Zé Pequeña](https://open.spotify.com/artist/3XRUcyfxcvfUR4EHAA7p9C), [Sirÿa](https://open.spotify.com/artist/5IAu4qGafIVgRR4LryUGpW) | [A Todo Ritmo](https://open.spotify.com/album/5To2OCrmbKGiTmJO0YhqrS) | 2:37 |
 | 60 | [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 |
 
-Snapshot ID: `AAAAADbUGLlt3obcB4BjmRMnMZt3nJev`
+Snapshot ID: `AAAAAPDx7KKc6SV2badxnDsjAgaR5zeq`

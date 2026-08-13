@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Wave$tar",
-  "num_followers": 85263,
+  "num_followers": 85289,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHcF+Ouoou5mJ8S3WzHDn078J9NE",
+  "snapshot_id": "AAAAABEvF8k5rVaPOlwNR/bqW4b+EqVQ",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:31",
@@ -143,6 +143,22 @@
     {
       "added_at": "2026-08-07 00:01:31",
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "added_at": "2026-08-07 00:01:31",
+      "album": {
         "name": "Breaking",
         "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 167349,
       "name": "Oba",
       "url": "https://open.spotify.com/track/59zlaPDhvE414BZ82AFjH5"
-    },
-    {
-      "added_at": "2026-08-07 00:01:31",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-08-07 00:01:31",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-08-07 00:01:31",
       "album": {
-        "name": "Ukanigbe",
-        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 169299,
-      "name": "Tumo Weto",
-      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
-    },
-    {
-      "added_at": "2026-08-07 00:01:31",
-      "album": {
         "name": "THE MACHINE IS COMING",
         "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 169285,
       "name": "LEGOLAS",
       "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
+    },
+    {
+      "added_at": "2026-08-07 00:01:31",
+      "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
     },
     {
       "added_at": "2026-08-07 00:01:31",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-08-07 00:01:31",
       "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
-    },
-    {
-      "added_at": "2026-08-07 00:01:31",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
+    },
+    {
+      "added_at": "2026-08-07 00:01:31",
+      "album": {
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
     },
     {
       "added_at": "2026-08-07 00:01:31",
@@ -643,6 +643,30 @@
     {
       "added_at": "2026-08-07 00:01:31",
       "album": {
+        "name": "AMIRI",
+        "url": "https://open.spotify.com/album/1ZdrMSPDz6nhzMtm7jxdmu"
+      },
+      "artists": [
+        {
+          "name": "Tiphe",
+          "url": "https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "AMIRI",
+      "url": "https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0"
+    },
+    {
+      "added_at": "2026-08-07 00:01:31",
+      "album": {
         "name": "Na Scra",
         "url": "https://open.spotify.com/album/77fJOYGEHdfMzNhGDDxO3B"
       },
@@ -671,30 +695,6 @@
       "duration_ms": 211862,
       "name": "By Now",
       "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
-    },
-    {
-      "added_at": "2026-08-07 00:01:31",
-      "album": {
-        "name": "AMIRI",
-        "url": "https://open.spotify.com/album/1ZdrMSPDz6nhzMtm7jxdmu"
-      },
-      "artists": [
-        {
-          "name": "Tiphe",
-          "url": "https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ"
-        },
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "AMIRI",
-      "url": "https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0"
     },
     {
       "added_at": "2026-08-07 00:01:31",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-08-07 00:01:31",
       "album": {
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2026-08-07 00:01:31",
+      "album": {
         "name": "BLACK SHEEPIZEN (THE 13th DISCIPLE)",
         "url": "https://open.spotify.com/album/4t3RZ4NB4N28vDajQ0KuqR"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 216633,
       "name": "Women Of My Time",
       "url": "https://open.spotify.com/track/0GOq7F8RpXhcwFUsEWE2JY"
-    },
-    {
-      "added_at": "2026-08-07 00:01:31",
-      "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
     },
     {
       "added_at": "2026-08-07 00:01:31",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-08-07 00:01:31",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
-      },
-      "artists": [
-        {
-          "name": "Ruhdee",
-          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
-        }
-      ],
-      "duration_ms": 172588,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
-    },
-    {
-      "added_at": "2026-08-07 00:01:31",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 167000,
       "name": "Life",
       "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
+    },
+    {
+      "added_at": "2026-08-07 00:01:31",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ"
+      },
+      "artists": [
+        {
+          "name": "Ruhdee",
+          "url": "https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp"
+        }
+      ],
+      "duration_ms": 172588,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN"
     },
     {
       "added_at": "2026-08-07 00:01:31",

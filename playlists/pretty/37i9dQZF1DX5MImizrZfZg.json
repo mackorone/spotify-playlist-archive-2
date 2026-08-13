@@ -1,12 +1,12 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 88281,
+  "num_followers": 88302,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKrww5x3dnc/P7Gpv9GZPMZeAfK7",
+  "snapshot_id": "AAAAAP0Q87AlkCvRoVmghb8ZIf36gk/A",
   "tracks": [
     {
       "added_at": "2020-08-19 19:15:51",
@@ -139,22 +139,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Tim Bowman",
-        "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Soul Dream",
-      "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Keepin' It Real",
         "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 301693,
       "name": "Keepin' It Real",
       "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Tim Bowman",
+        "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Soul Dream",
+      "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Kickin' It",
-        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
-      },
-      "artists": [
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Chopsticks",
-      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Radiant",
         "url": "https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 299493,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Kickin' It",
+        "url": "https://open.spotify.com/album/1gDA4suz3j391tPFwoGBF1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Chopsticks",
+      "url": "https://open.spotify.com/track/5y6miCQfw005Bgc5BfML1w"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "The Limit's The Sky",
-        "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Chill Or Be Chilled",
-      "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 238293,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "The Limit's The Sky",
+        "url": "https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Chill Or Be Chilled",
+      "url": "https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 327973,
-      "name": "Bumpin' on the Wes Side",
-      "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 267360,
       "name": "4 On The Floor",
       "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/1Ao7NIxzEyqJb9G2phlegX"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 327973,
+      "name": "Bumpin' on the Wes Side",
+      "url": "https://open.spotify.com/track/64ZFGT08sZHec62uQayIFw"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "HeadBoppin (with bonus track)",
-        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
-      },
-      "artists": [
-        {
-          "name": "Shilts",
-          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 326213,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "HeadBoppin (with bonus track)",
+        "url": "https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE"
+      },
+      "artists": [
+        {
+          "name": "Shilts",
+          "url": "https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2"
+        }
+      ],
+      "duration_ms": 248733,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs"
     },
     {
       "added_at": "2020-08-19 19:15:51",

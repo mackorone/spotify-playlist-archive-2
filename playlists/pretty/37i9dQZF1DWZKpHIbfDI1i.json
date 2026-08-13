@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alejandro Sanz y Eden Mu\u00f1oz,  en portada ",
-  "num_followers": 862352,
+  "num_followers": 862412,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKO6VadWFoAGX4NkiidalJE58CR",
+  "snapshot_id": "AAAAAMeRy/B7Y++xo84s7C5YYixUwOd0",
   "tracks": [
     {
       "added_at": "2026-08-07 22:44:38",
@@ -555,22 +555,18 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
+        "name": "Ll\u00e9vala a La Luna",
+        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 172997,
-      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
-      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
+      "duration_ms": 164214,
+      "name": "Ll\u00e9vala a La Luna",
+      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -591,6 +587,26 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
+        "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+        "url": "https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 172997,
+      "name": "\u00bfSER\u00c1 EL ALCOHOL?",
+      "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
         "name": "N\u00d3MADA",
         "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 233733,
       "name": "Adicci\u00f3n",
       "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
-        "name": "Ll\u00e9vala a La Luna",
-        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 164214,
-      "name": "Ll\u00e9vala a La Luna",
-      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Duras",
-        "url": "https://open.spotify.com/album/0lVDHojc2ETggUby6VzsW3"
-      },
-      "artists": [
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Duras",
-      "url": "https://open.spotify.com/track/4e3ohkLKIKfMEnk86D5gON"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "Pa la Ma\u00f1a",
         "url": "https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 159937,
       "name": "Pa la Ma\u00f1a",
       "url": "https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "Duras",
+        "url": "https://open.spotify.com/album/0lVDHojc2ETggUby6VzsW3"
+      },
+      "artists": [
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Duras",
+      "url": "https://open.spotify.com/track/4e3ohkLKIKfMEnk86D5gON"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "SI SE ACABA EL MUNDO",
-        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "SI SE ACABA EL MUNDO",
-      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "Ojitos Bellos",
         "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "SINALOKA",
-        "url": "https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SINALOKA",
-      "url": "https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2"
-    },
-    {
-      "added_at": "2026-08-07 22:44:38",
-      "album": {
         "name": "Reminiscencia",
         "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
+        "name": "SINALOKA",
+        "url": "https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SINALOKA",
+      "url": "https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2"
+    },
+    {
+      "added_at": "2026-08-07 22:44:38",
+      "album": {
         "name": "NO TODO ES PARTE DE LA VIDA",
         "url": "https://open.spotify.com/album/724d6AWwToirfFH00SSUxl"
       },
@@ -1183,26 +1183,18 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "Por Ella (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
+        "name": "SE LLEG\u00d3 EL VERANO",
+        "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
+      "duration_ms": 177408,
+      "name": "LA PLAYA",
+      "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1227,18 +1219,26 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "SE LLEG\u00d3 EL VERANO",
-        "url": "https://open.spotify.com/album/1t7899EeCip9KJJlL1jvFJ"
+        "name": "Por Ella (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
       },
       "artists": [
         {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 177408,
-      "name": "LA PLAYA",
-      "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
+      "duration_ms": 181253,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
     },
     {
       "added_at": "2026-08-07 22:44:38",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2026-08-07 22:44:38",
       "album": {
-        "name": "a\u00f1os, no meses",
-        "url": "https://open.spotify.com/album/5O4uOZL9D8L6HXlSmqZwKV"
+        "name": "T\u00fa, mi bb",
+        "url": "https://open.spotify.com/album/3pv2BRwZhBXBxXfNYifT0h"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
         }
       ],
-      "duration_ms": 162333,
-      "name": "a\u00f1os, no meses",
-      "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
+      "duration_ms": 187591,
+      "name": "T\u00fa, mi bb",
+      "url": "https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf"
     },
     {
       "added_at": "2026-08-07 22:44:38",

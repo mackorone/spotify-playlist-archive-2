@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Nhxtv4BrtU.md) - [plain]
 
 > 음악으로 경계를 허물며 하나가 되는 DMZ PEACE TRAIN FESTIVAL 2026의 셋리스트를 다시 들어보세요!<br/>Listen back to the setlist from DMZ PEACE TRAIN FESTIVAL 2026, where dancers become borderless through peace and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581 likes - 205 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 579 likes - 205 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Nhxtv4BrtU.md) - [plain]
 | 204 | [Model Citizen](https://open.spotify.com/track/6s1YrXl4F52nN8w84EDfxs) | [Haepa](https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi) | [Model Citizen](https://open.spotify.com/album/4j2xcvINfR8aM9HrJZ9L28) | 3:05 |
 | 205 | [I'm Finally a Ghost](https://open.spotify.com/track/0KeWIfzfYKAtcb9Qvd4D6K) | [Haepa](https://open.spotify.com/artist/2WTFWNdpppTNeGZmRZLaLi) | [Playing Dead](https://open.spotify.com/album/4BHUgArth7VlAdbAKWDQNf) | 2:55 |
 
-Snapshot ID: `AAAAAEOE+4haamdI1bhT6zxPSRmdv+VS`
+Snapshot ID: `AAAAADhmIQC5HkiL3QO7xZLnrDTdLG29`

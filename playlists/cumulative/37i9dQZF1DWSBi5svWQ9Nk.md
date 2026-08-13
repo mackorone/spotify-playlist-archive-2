@@ -2,7 +2,7 @@
 
 ### [Hot Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De 50 grootste hits in NL\. Cover: Antoon
+> De 50 grootste hits in NL met o.a\. Antoon\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
 651 songs - 1 day 7 hr 58 min
 

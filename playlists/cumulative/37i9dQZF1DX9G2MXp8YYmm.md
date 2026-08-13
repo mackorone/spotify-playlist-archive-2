@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Tekir
 
-693 songs - 1 day 11 hr 9 min
+694 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Badem](https://open.spotify.com/track/2x3Sioq1PLzQmomVYvXaui) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Badem](https://open.spotify.com/album/5NhE8aUF0EHa5lh9YijL8B) | 3:43 | 2025-08-21 | 2025-09-02 |
 | [Bahanesi Yok](https://open.spotify.com/track/44MZe5MnxxXKHngM74p40n) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Bahanesi Yok](https://open.spotify.com/album/6w6QjuKQXtk9jH4ME4rCVE) | 2:55 | 2026-06-12 | 2026-07-31 |
 | [Bak Dönüyor Dünya](https://open.spotify.com/track/3RdKD3wm6kek88IA63CTnl) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Bak Dönüyor Dünya](https://open.spotify.com/album/12CMUzJenwQUW0khZBysNs) | 2:42 | 2026-07-09 |  |
-| [Bakmasaydım Sana](https://open.spotify.com/track/4DMGsK1XexsafYMkyQJTJS) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Bakmasaydım Sana](https://open.spotify.com/album/7HUFAcq8mp4pAYDHHGzqUZ) | 2:16 | 2026-07-31 |  |
+| [Bakmasaydım Sana](https://open.spotify.com/track/4DMGsK1XexsafYMkyQJTJS) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Bakmasaydım Sana](https://open.spotify.com/album/7HUFAcq8mp4pAYDHHGzqUZ) | 2:16 | 2026-07-31 | 2026-08-13 |
 | [Baksana Bana](https://open.spotify.com/track/5u5aUcPR8ldDForXsAAtqP) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Baksana Bana](https://open.spotify.com/album/0SRLj5x7TcO8LbS65oPzbF) | 3:13 | 2024-11-21 | 2024-12-06 |
 | [Bal](https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bal](https://open.spotify.com/album/33CZvHcrejXTOA7lx1Nb7D) | 4:25 | 2024-06-27 | 2024-10-29 |
 | [Bal Böceği](https://open.spotify.com/track/4P1xU6Qiz34UknVAV1kdin) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [Bal Böceği](https://open.spotify.com/album/4Sw0ElAaK2JH9e9ROh2tlf) | 2:18 | 2025-09-25 | 2026-05-29 |
@@ -504,6 +504,7 @@
 | [Sen Anlamazsın](https://open.spotify.com/track/0gpRP7BZ3sfNeZb38CJ3QK) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec) | [Sen Anlamazsın](https://open.spotify.com/album/3ZoTNMvjTmVSAVt7FOTh3s) | 2:50 | 2025-06-19 | 2025-08-21 |
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-26 | 2026-07-03 |
 | [Sen Kalp Ben](https://open.spotify.com/track/36yASDIlHQ3u2KjGPpIahi) | [Tuğba Özerk](https://open.spotify.com/artist/30Lb5Jijp6ynpodpRsrqIX) | [Sen Kalp Ben](https://open.spotify.com/album/2kUoBwwIZAQ3e85ILszLSB) | 2:29 | 2025-09-18 | 2025-09-26 |
+| [Sen Orda Yoksun](https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Sen Orda Yoksun](https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD) | 4:01 | 2026-08-12 |  |
 | [Sende De Benden Var](https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:08 | 2025-09-25 | 2025-11-18 |
 | [senden başka](https://open.spotify.com/track/1VQU6ewApPAVS6wTtxF321) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [senden başka](https://open.spotify.com/album/2e6ZwZkrFmawSOV7ivJep6) | 3:30 | 2025-12-04 | 2026-02-05 |
 | [Senden Kalanlar](https://open.spotify.com/track/4wfenAbKjdMEIH8xt3R1Cp) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Senden Kalanlar](https://open.spotify.com/album/3T1ITiHfBlStHbXkYdUzGj) | 2:56 | 2026-03-19 |  |

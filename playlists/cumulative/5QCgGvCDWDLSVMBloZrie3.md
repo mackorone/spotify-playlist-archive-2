@@ -4,7 +4,7 @@
 
 > 
 
-568 songs - 1 day 12 hr 9 min
+569 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Crazy Bird](https://open.spotify.com/track/4va1JykAJeulnYV0uYkWhF) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [The Runaround](https://open.spotify.com/album/29n2e4SBSxtMmRkPOKElF7) | 3:58 | 2024-03-09 | 2024-06-08 |
 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 | 2023-12-03 |  |
 | [Creo Lo Sientes \(feat\. C\-BASS\)](https://open.spotify.com/track/5mtLToQTo4oDU06PrJJv1K) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [C\-BASS](https://open.spotify.com/artist/5mqHaHiXfsOYhuTa0ylYSK) | [Let's Throw a Party](https://open.spotify.com/album/0wKmHmJBQGUeCGPEMyuvbP) | 3:30 | 2023-12-20 |  |
+| [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 | 2026-08-13 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2022-04-17 | 2025-03-08 |
 | [Cry Like a River](https://open.spotify.com/track/17kbjKIW2uvmfTJjQJcnKS) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Saratoga](https://open.spotify.com/album/3Ykdc1QeWQ4pjQt7DgPZZA) | 3:20 | 2025-05-13 |  |
 | [Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:44 | 2022-08-14 |  |

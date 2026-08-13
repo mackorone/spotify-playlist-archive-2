@@ -1,12 +1,12 @@
 {
   "description": "\ud835\udd8b\ud835\udd9a\ud835\udd88\ud835\udd90 \ud835\udd91\ud835\udd94\ud835\udd9b\ud835\udd8a",
-  "num_followers": 47152,
+  "num_followers": 47154,
   "original_name": "rimedi per cuori spezzati",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAgQkpg5DmSrVR/eFmGbn+ppHX6o",
+  "snapshot_id": "AAAAAGWIpWTM8tuiKx961bzbQNf4AOdf",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:52",
@@ -771,22 +771,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Resta Vivo",
-        "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
+        "name": "Penso a te",
+        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
         },
         {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 176259,
-      "name": "Resta Vivo",
-      "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
+      "duration_ms": 123373,
+      "name": "Penso a te",
+      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -823,22 +823,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Penso a te",
-        "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
+        "name": "Resta Vivo",
+        "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
       "artists": [
         {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
         },
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 123373,
-      "name": "Penso a te",
-      "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
+      "duration_ms": 176259,
+      "name": "Resta Vivo",
+      "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "Letto grande",
+        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
+      },
+      "artists": [
+        {
+          "name": "Matteo Guccini",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Fedesse",
+          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "Letto grande",
+      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "bambino perfetto",
         "url": "https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 140160,
       "name": "bambino perfetto",
       "url": "https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "Letto grande",
-        "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
-      },
-      "artists": [
-        {
-          "name": "Matteo Guccini",
-          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
-        },
-        {
-          "name": "Fedesse",
-          "url": "https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "Letto grande",
-      "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
         "name": "nato per morire",
         "url": "https://open.spotify.com/album/3Ui6kNWhkGJ7E1pEscDLS3"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 124666,
       "name": "nato per morire",
       "url": "https://open.spotify.com/track/6PlaHUHxW4QpHgEqcQY0lW"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Sedato e Deluso",
-        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
-      },
-      "artists": [
-        {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Elan Rood",
-          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
-        }
-      ],
-      "duration_ms": 202744,
-      "name": "Sedato e Deluso",
-      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "MUSICA ALTA E STRESS",
         "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 165714,
       "name": "SEMBREREMO DISTANTI",
       "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Sedato e Deluso",
+        "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
+      },
+      "artists": [
+        {
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Elan Rood",
+          "url": "https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy"
+        }
+      ],
+      "duration_ms": 202744,
+      "name": "Sedato e Deluso",
+      "url": "https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Ci siamo fatti male",
-        "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "Ci siamo fatti male",
-      "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
-    },
-    {
-      "added_at": "2026-07-30 22:02:52",
-      "album": {
         "name": "AUTORITRATTO",
         "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
       },
@@ -1403,8 +1387,24 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Semprerosa",
-        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
+        "name": "Ci siamo fatti male",
+        "url": "https://open.spotify.com/album/4mBTQIqHmeNUVMLypukh58"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "Ci siamo fatti male",
+      "url": "https://open.spotify.com/track/4G1z4u0k5vMzR5hty607W4"
+    },
+    {
+      "added_at": "2026-07-30 22:02:52",
+      "album": {
+        "name": "Atlantico",
+        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
       },
       "artists": [
         {
@@ -1412,9 +1412,9 @@
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
         }
       ],
-      "duration_ms": 200153,
-      "name": "Semprerosa",
-      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
+      "duration_ms": 196726,
+      "name": "Atlantico",
+      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1495,8 +1495,8 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Atlantico",
-        "url": "https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb"
+        "name": "Semprerosa",
+        "url": "https://open.spotify.com/album/3MJ7R3kUKul3A0doEctV1F"
       },
       "artists": [
         {
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
         }
       ],
-      "duration_ms": 196726,
-      "name": "Atlantico",
-      "url": "https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47"
+      "duration_ms": 200153,
+      "name": "Semprerosa",
+      "url": "https://open.spotify.com/track/6RB3isukO4wmazoaJa4rC6"
     },
     {
       "added_at": "2026-07-30 22:02:52",

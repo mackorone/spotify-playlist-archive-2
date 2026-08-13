@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Toxic
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,486 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,630 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Hellallallo \(From "Peddi"\) \[KANNADA\]](https://open.spotify.com/track/5xKA3HFZ0UTKFJ1zxGJrby) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Hellallallo \(From "Peddi"\) \[KANNADA\]](https://open.spotify.com/album/2pFADLJunl7Bsc82xeCG4a) | 3:48 |
 | 75 | [KD Title Track \(From "KD"\)](https://open.spotify.com/track/3mSGFXSGleDhdk6vFGbQxU) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [KD Title Track \(From "KD"\)](https://open.spotify.com/album/5wZXBjo4RqJhIMJXaRLZET) | 2:41 |
 
-Snapshot ID: `AAAAANekpSAZdbuUSyN+3cJSS2I7SMjQ`
+Snapshot ID: `AAAAAOFoJpo+TqL1Dd81HZB+ylk0mwNZ`

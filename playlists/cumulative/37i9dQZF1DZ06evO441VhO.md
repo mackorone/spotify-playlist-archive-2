@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 21 min
+102 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Falling Apart](https://open.spotify.com/track/5bsJbow5ouEx8bHJRr54Ky) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 3:09 | 2022-09-16 | 2023-06-23 |
 | [Feel This Way](https://open.spotify.com/track/2GtvF6M8PbpuWRvfdq5BK3) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:44 | 2022-09-16 | 2022-12-13 |
 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 | 2022-09-16 |  |
-| [Happy Endings at the Movies](https://open.spotify.com/track/6MGfWN6hKL4zFFb2Dxaym1) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/1FJYkfVIxJ9zNAL9Fbz9LO) | 2:55 | 2026-07-17 |  |
+| [Happy Endings at the Movies](https://open.spotify.com/track/6MGfWN6hKL4zFFb2Dxaym1) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/1FJYkfVIxJ9zNAL9Fbz9LO) | 2:55 | 2026-07-17 | 2026-08-13 |
+| [Happy Endings at the Movies](https://open.spotify.com/track/6clbsmaqUNDrpFn6N7udKn) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/7HvWN7RtKQSB3FgcIV8kwZ) | 2:55 | 2026-08-13 |  |
 | [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 | 2022-09-16 |  |
 | [Hell Yeah!](https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:37 | 2022-09-16 |  |
 | [Hello Tomorrow](https://open.spotify.com/track/1lGPTDBGbDKJnpxEg9GMsi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 4:04 | 2022-09-16 | 2023-06-23 |

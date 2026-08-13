@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 
 > Disfruta la música de la serie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,426 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,441 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 | 39 | [Yo Te Recuerdo \- Version Salsa](https://open.spotify.com/track/5Di8dpmfkDRp8waYbXbohB) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:34 |
 | 40 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
 
-Snapshot ID: `AAAAAJa1iA4xkGKdyFfYKCvfNIjEdSKR`
+Snapshot ID: `AAAAAOadfU62XKBZ4JC3UDKrOfQrrsL7`

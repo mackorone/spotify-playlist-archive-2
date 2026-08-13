@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Still Caravan",
-  "num_followers": 33200,
+  "num_followers": 33201,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA9ua4RRJ9EkeGQmpZoGAyPUGLTj",
+  "snapshot_id": "AAAAAJIOx6boRgrYWyTQjE3TuRO3Slfe",
   "tracks": [
     {
       "added_at": "2026-08-04 15:00:25",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
     },
     {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
+        "name": "PIANO CRAZE",
+        "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 350680,
+      "name": "Dancing in the mood",
+      "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
+    },
+    {
       "added_at": "2026-06-24 06:38:05",
       "album": {
         "name": "SNEAKPEAK feat. Shing02",
@@ -519,22 +535,6 @@
       "duration_ms": 219076,
       "name": "SNEAKPEAK feat. Shing02",
       "url": "https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
-        "name": "PIANO CRAZE",
-        "url": "https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 350680,
-      "name": "Dancing in the mood",
-      "url": "https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn"
     },
     {
       "added_at": "2026-04-28 15:00:59",

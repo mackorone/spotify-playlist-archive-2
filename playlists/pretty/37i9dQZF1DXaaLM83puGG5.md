@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 > Keeping the party going with <a href="https://www.instagram.com/mustbeniceparty?igsh=eTlyYWNuaHU0Nnh5">Must Be Nice</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,591 likes - 141 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,638 likes - 141 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 140 | [Only You \(feat\. The Notorious B.I.G., Ma$e\) \- Bad Boy Remix](https://open.spotify.com/track/6zOg9gP62RJSsKFeOBAgvH) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ma$e](https://open.spotify.com/artist/34t9RzI5oDMZJVmcoUZnJE) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:49 |
 | 141 | [Soft Lips](https://open.spotify.com/track/6c91SIcG2nuNRu26ou0uRN) | [Pavy](https://open.spotify.com/artist/2VollarxvkCymqu6OAeZV5) | [Songs About Women](https://open.spotify.com/album/6vpDZr2LZ9qcJBbMFhAXpg) | 2:47 |
 
-Snapshot ID: `AAAAAL6IOsjIqP+uqXXTKG5OhzfSyGJm`
+Snapshot ID: `AAAAADcS9XP1YMvlFxyJwwxSApBH6j98`

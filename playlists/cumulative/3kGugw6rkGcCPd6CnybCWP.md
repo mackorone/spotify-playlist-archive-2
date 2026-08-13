@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-474 songs - 1 day 3 hr 31 min
+478 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,10 +151,12 @@
 | [Ezra](https://open.spotify.com/track/4gRv5ebgu2zLUFejwQA03F) | [junkyardroyalty](https://open.spotify.com/artist/2QN7pIeUZFmT2fMZRSlrQL) | [Ezra](https://open.spotify.com/album/4v1NROQ5h2ivSOTjRWFote) | 2:46 | 2026-02-23 | 2026-04-16 |
 | [fade away](https://open.spotify.com/track/4KGS1bTaZoE2XPygi8kAp6) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fade away](https://open.spotify.com/album/0zETxreVMiB64USyET4cZI) | 2:31 | 2026-05-06 | 2026-07-24 |
 | [Fairway](https://open.spotify.com/track/1AwmZwc3Wz0cKvhJZe9N0d) | [Ross Pond](https://open.spotify.com/artist/7EMyFndXI4hqep6zPbetVg) | [Fairway](https://open.spotify.com/album/1cdDTUPaINS3dIc06T4aFj) | 3:56 | 2026-01-06 | 2026-03-29 |
+| [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-08-12 |  |
 | [Fake Happiness](https://open.spotify.com/track/6vAbICOt2jE3FsfRHmzWgD) | [Against the Voices](https://open.spotify.com/artist/1PbZi3MMzd2reijr7fnndu) | [Fake Happiness](https://open.spotify.com/album/5oN9wBUQom6yKPGqHtExqd) | 3:35 | 2026-03-10 | 2026-04-16 |
 | [Fake It](https://open.spotify.com/track/7aiiCYmiNNfe0adYBxrDrA) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Fake It](https://open.spotify.com/album/20AZMC1ttMmlbtP1eyiisp) | 4:02 | 2026-05-27 | 2026-07-24 |
 | [Fashion](https://open.spotify.com/track/1aoFQBQrclXuxUTCldGNYh) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Fashion](https://open.spotify.com/album/5inSPDl3eQnBxY1nJhZatm) | 2:53 | 2025-10-30 | 2025-12-12 |
 | [fate](https://open.spotify.com/track/4aP2iBOUZH4VYMebwnKs0P) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [fate](https://open.spotify.com/album/6gOaFZHjqC8dWTh4xfempC) | 2:46 | 2025-12-11 | 2026-02-07 |
+| [Fear](https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN) | [Revolana](https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC) | [Fear](https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb) | 2:31 | 2026-08-12 |  |
 | [Fiat 500](https://open.spotify.com/track/4S600HS4ZcpOuz6eIn0s8h) | [Baby Suicida](https://open.spotify.com/artist/37dbiHpWkjkirTka2vOuLb) | [Fiat 500](https://open.spotify.com/album/797bViaNzkV6Gc3pGlvWJi) | 2:36 | 2026-02-25 | 2026-04-16 |
 | [Figure It Out](https://open.spotify.com/track/0GQ1eZt3LUUgpJY9P5HXSQ) | [Flying Finish](https://open.spotify.com/artist/335ZooC8OqPnT45ZJAbXPH) | [Figure It Out](https://open.spotify.com/album/3XlMJ55gOehJgsO4nVLTXK) | 3:25 | 2026-02-03 | 2026-03-20 |
 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 | 2025-12-26 |  |
@@ -336,6 +338,7 @@
 | [raise your glass](https://open.spotify.com/track/0W6VRjdA6e2eo5kvxAuNt1) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [raise your glass](https://open.spotify.com/album/7hg3gKYeOCxem72R3ClkKk) | 3:00 | 2026-01-03 | 2026-02-07 |
 | [Raus](https://open.spotify.com/track/2Luvadk0jM5Y0B7OHNbayv) | [FeurigSeinPeter](https://open.spotify.com/artist/3fRgqO0ZWF9QIrecV5gRnE) | [Raus](https://open.spotify.com/album/2OMxNLz9muDtVN280h3FEf) | 2:53 | 2026-03-26 | 2026-04-21 |
 | [rayla](https://open.spotify.com/track/2ew07GJUuMG0tPLTXcuthV) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [so good](https://open.spotify.com/album/3DdZKfTJvBL35J05acYt93) | 2:17 | 2026-03-18 | 2026-04-21 |
+| [Reason To Exist \- Suburban Sessions](https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Reason To Exist \(Suburban Sessions\)](https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ) | 2:50 | 2026-08-12 |  |
 | [Recita](https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm) | [LEUCA](https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i) | [Recita](https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH) | 2:49 | 2026-06-06 |  |
 | [Red Stain](https://open.spotify.com/track/1B9QyAQ7n93w9d39YxdIac) | [9VOLT](https://open.spotify.com/artist/1yGIUUNxhETK7t4ccYvaIF) | [Hard to Get Out](https://open.spotify.com/album/4liZsHktfJ0jxtADs418hs) | 1:54 | 2026-04-20 | 2026-07-01 |
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 | 2026-03-10 |
@@ -419,6 +422,7 @@
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-10-29 | 2026-01-17 |
 | [These Days](https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh) | [Talking Horses](https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06) | [These Days](https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD) | 4:25 | 2026-01-20 | 2026-03-10 |
 | [They Hate The Truth](https://open.spotify.com/track/1Wdd4MQsHfyBogg1svGMxx) | [Sasha Jay](https://open.spotify.com/artist/2xHt1AlMaSlmLTonFh0vM1) | [They Hate The Truth](https://open.spotify.com/album/2EOyP6CPUmleEFOpLgjBD1) | 1:58 | 2026-03-02 | 2026-04-16 |
+| [Things i used to forgive](https://open.spotify.com/track/5NZMEI5RHe4qnXWmqfm9vD) | [Cookie with needles](https://open.spotify.com/artist/6LeZgiMoL2u7m8MD0RG0GC) | [Things i used to forgive](https://open.spotify.com/album/04oAaNAuFoCSv6QjGTzeVz) | 5:36 | 2026-08-12 |  |
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2026-04-09 | 2026-05-14 |
 | [Time Machine](https://open.spotify.com/track/6MYZWeZrIpeeJZHjc2fRCJ) | [MYLO BYBEE](https://open.spotify.com/artist/6NWYao9Kq1OZi1mki3yhwS) | [Time Machine](https://open.spotify.com/album/1hJzdSv338nXvopDvcgj3q) | 3:44 | 2025-11-24 | 2026-01-17 |
 | [Today's Quest](https://open.spotify.com/track/4skAncx0uLGrpKv97qS7If) | [The Kiffs](https://open.spotify.com/artist/3xZRG3IdVeo6jeVNitBYeX) | [Today's Quest](https://open.spotify.com/album/6HXzJjybyM7YvKNgTLWBwB) | 3:09 | 2025-11-15 | 2026-01-17 |

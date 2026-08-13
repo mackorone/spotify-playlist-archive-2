@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,373 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,376 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 35 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/52Vx26w55TBxVt9mG9dT9V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:39 |
 | 36 | [Sedjedo](https://open.spotify.com/track/7gb6UolAvBNPad7IIXLoAB) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 3:56 |
 | 37 | [El Hilo](https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Cumbiana](https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS) | 3:48 |
-| 38 | [Personal Revolution](https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 4:54 |
-| 39 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 |
+| 38 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 |
+| 39 | [Personal Revolution](https://open.spotify.com/track/18zWYolDSOdfJIEyMLyGWa) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 4:54 |
 | 40 | [Rebellion Rises](https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:26 |
 | 41 | [Madanite](https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 3:55 |
 | 42 | [Drive](https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Drive](https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Toots Hibbert](https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:18 |
 | 50 | [I Get Up \(feat\. Cedella Marley\)](https://open.spotify.com/track/6SEimrKNMh0ep0of8X34St) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:38 |
 
-Snapshot ID: `ankUgAAAAAClKU10wHta9OknT9ZhLi5d`
+Snapshot ID: `anpmAAAAAADGtimxKFi0YMQrMKyxmJbK`

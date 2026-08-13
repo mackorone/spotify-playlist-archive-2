@@ -1,12 +1,12 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 355741,
+  "num_followers": 355823,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL3ZSzzW4AbkPqGVW2uuHWJjZLKB",
+  "snapshot_id": "AAAAAO8hTyKoBREtnIEFy0Kw4detbpUe",
   "tracks": [
     {
       "added_at": "2026-07-31 03:03:24",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-07-31 03:03:24",
       "album": {
+        "name": "One Million",
+        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "LOTTEN",
+          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
+    },
+    {
+      "added_at": "2026-07-31 03:03:24",
+      "album": {
         "name": "Baile DF",
         "url": "https://open.spotify.com/album/12Nv07jCBifBnGeCNRzk5d"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 185238,
       "name": "Baile DF",
       "url": "https://open.spotify.com/track/6DN8RUpeHortTh008NC7GT"
-    },
-    {
-      "added_at": "2026-07-31 03:03:24",
-      "album": {
-        "name": "One Million",
-        "url": "https://open.spotify.com/album/3Ki6AS8reL3CslfOHyMMVA"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "LOTTEN",
-          "url": "https://open.spotify.com/artist/64HKArcrzxLzoB2kY4dV0D"
-        }
-      ],
-      "duration_ms": 187741,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/4pBOB1MKyKvG8ntBCTx49A"
     },
     {
       "added_at": "2026-07-31 03:03:24",

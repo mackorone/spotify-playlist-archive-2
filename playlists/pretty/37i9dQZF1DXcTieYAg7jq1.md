@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Matilda Mann
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,889 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,954 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 98 | [Summertime](https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Summertime](https://open.spotify.com/album/1DFhkzjfsiKbFJUFKIh1g2) | 3:02 |
 | 99 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 |
 
-Snapshot ID: `AAAAAPVhAQVigIFIRjNF28F6WzceKnai`
+Snapshot ID: `AAAAAEgoCkH9tQVTbQkbspAiHkkqxqiD`

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-656 songs - 1 day 12 hr 41 min
+657 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Chhora Kyun](https://open.spotify.com/track/374WHQptMGIDX7CDPCoMGw) | [SURAJJ](https://open.spotify.com/artist/4yzeHzQ6XvpEq2FR1b6l4S) | [Chhora Kyun](https://open.spotify.com/album/72LLod1dP7uQjLYIBpOn3d) | 3:54 | 2023-07-24 | 2023-09-22 |
 | [Choti Si Baat](https://open.spotify.com/track/73PlprGKv36zcgrkRGT9UO) | [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw) | [Choti Si Baat](https://open.spotify.com/album/3XTyGQYMEqLxUwJWrltb7l) | 4:52 | 2025-02-28 | 2025-03-29 |
 | [Chupke Se](https://open.spotify.com/track/5L0MhrWySbzU5qgo0Zjhvo) | [Apurva Krishna](https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch), [Manya Narang](https://open.spotify.com/artist/2WZl1N4qrNuqiLpX74fcQY) | [Chupke Se](https://open.spotify.com/album/4HtzchXd1UF5p6v8qZe2k2) | 3:01 | 2024-02-06 | 2024-05-29 |
-| [Cinema Chowk](https://open.spotify.com/track/5fiziC9GdXwuZuuqCWUiyT) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Uns](https://open.spotify.com/album/6XOHRTbmpbKACTCH0bNATo) | 5:49 | 2026-07-21 |  |
+| [Cinema Chowk](https://open.spotify.com/track/5fiziC9GdXwuZuuqCWUiyT) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Uns](https://open.spotify.com/album/6XOHRTbmpbKACTCH0bNATo) | 5:49 | 2026-07-21 | 2026-08-13 |
 | [College Ki Sadak 2.0](https://open.spotify.com/track/38fDIxenUBSC14oPjWV7kS) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Anticlockwise \(Live Sessions\)](https://open.spotify.com/album/0ZRGgQ57H76aTMVmei9peg) | 2:53 | 2025-11-11 | 2025-11-29 |
 | [Daira \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/4auzGy2POHFUZ8ZkT7Hi9H) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 2:38 | 2025-09-12 | 2025-09-27 |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 | 2023-07-08 |
@@ -183,6 +183,7 @@
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-05-17 | 2023-07-29 |
 | [Gudiya \- From "Joon"](https://open.spotify.com/track/25YSG6rbuHZC6k6yurUnNq) | [Akshay Sharma](https://open.spotify.com/artist/4ybDoPH6SjHh6Ln6LkHJsK) | [Gudiya \(From "Joon"\)](https://open.spotify.com/album/2tIeB8y2UfF5F0bEVXiP4X) | 2:53 | 2023-11-07 | 2024-01-19 |
 | [Gulaab Tum](https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Gulaab Tum](https://open.spotify.com/album/2iya1ghZ9OpUACDggqRBaf) | 4:22 | 2024-03-13 | 2025-07-09 |
+| [Gulon se](https://open.spotify.com/track/2ytNIFFfzSM5Ok2rhAbGe8) | [Sabar](https://open.spotify.com/artist/32SYu3il2aqKjNyIN195lw), [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [Gulon se](https://open.spotify.com/album/7pOhfiwWesGiZ0GQyez7tR) | 3:39 | 2026-08-12 |  |
 | [Gungunata Hun](https://open.spotify.com/track/6i1fue7mLghCZ5DhrqSkIe) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Gungunata Hun](https://open.spotify.com/album/0aWwvDpUI7QDg522KChgu1) | 2:41 | 2024-08-08 | 2024-09-13 |
 | [Ha Bas Tu](https://open.spotify.com/track/2xissAdak6viTlc3dUxKVS) | [Naman Goswami](https://open.spotify.com/artist/07HSVaNPl7nncH7T2yjKNi) | [Ha Bas Tu](https://open.spotify.com/album/7dAis6NusWiJzXuRWUviXS) | 4:22 | 2023-10-09 | 2023-11-30 |
 | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/track/2pcKIrfRJKtjndtEK0danK) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Swasti Nagar](https://open.spotify.com/artist/3IXozjWpOcyeWvfzndjwA4) | [Hai Pyaar \(Acoustic Version\)](https://open.spotify.com/album/677qn7ZPFnweVzenu7lboo) | 2:37 | 2023-05-17 | 2023-06-03 |

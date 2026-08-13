@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Lucky Brown y El Bogueto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,504 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,502 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 66 | [YW&F \- Versión Reggaeton](https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 2:48 |
 | 67 | [ALV \- Remix](https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz) | [Manuelvezz](https://open.spotify.com/artist/2LmoZUme24SWelkOHXzacB), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ALV \(Remix\)](https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x) | 2:57 |
 | 68 | [Better Dayz](https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mr\. Biggs](https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 4:17 |
-| 69 | [Ay Dieguito](https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ay Dieguito](https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD) | 2:50 |
-| 70 | [Just A Lil Bit](https://open.spotify.com/track/0cGRHovKcI9895yGY13xtp) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Just A Lil Bit](https://open.spotify.com/album/1DMzMBm4jj1GpFJpCHCGwe) | 3:59 |
+| 69 | [Just A Lil Bit](https://open.spotify.com/track/0cGRHovKcI9895yGY13xtp) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Just A Lil Bit](https://open.spotify.com/album/1DMzMBm4jj1GpFJpCHCGwe) | 3:59 |
+| 70 | [Ay Dieguito](https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ay Dieguito](https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD) | 2:50 |
 | 71 | [Sentosa](https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [Sentosa](https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc) | 2:31 |
 | 72 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
-| 73 | [F\*CK](https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:07 |
-| 74 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
+| 73 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
+| 74 | [F\*CK](https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:07 |
 | 75 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 76 | [Heartz Of Men](https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:43 |
 | 77 | [PRIMO](https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRIMO](https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp) | 3:03 |
 | 100 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
 
-Snapshot ID: `AAAAAG0BtzuezZU2GYD4oeO/mTL2MDm6`
+Snapshot ID: `AAAAAPSmLXI5SKiHetGo+hweLWGLL8gd`

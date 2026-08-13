@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,539 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,544 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 9 | [BLOCO 1970: País Tropical/Fio Maravilha/Vou Festejar/Não Quero Dinheiro \(Só Quero Amar\)](https://open.spotify.com/track/6IqV0sgFdHINoMjbQ5IrU7) | [Deu Samba](https://open.spotify.com/artist/3jksDgFvZoEBZkH1LsSBzX) | [NA LINHA DO TEMPO](https://open.spotify.com/album/0iKnVdY68arqUNMcvoLv0q) | 3:56 |
 | 10 | [Troca de Calçada](https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Troca de Calçada](https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k) | 3:23 |
 | 11 | [Sua Mãe Vai Me Amar](https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Sua Mãe Vai Me Amar](https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7) | 3:03 |
-| 12 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 |
-| 13 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
+| 12 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
+| 13 | [Eu Mereço Ser Feliz \- Ao Vivo](https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [A Voz Do Meu Samba \- Ao Vivo](https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c) | 3:14 |
 | 14 | [Deixa Acontecer](https://open.spotify.com/track/50mawjudhEofTcUIpRmGXr) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [100% Grupo Revelação](https://open.spotify.com/album/20PI0BGshx4A5gz0Onl91a) | 4:06 |
 | 15 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 |
 | 16 | [Cerveja De Garrafa \(Fumaça Que Eu Faço\) \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 3:30 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 18 | [Alô Ambev \(Segue Sua Vida\) \- Ao Vivo](https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Por Mais Beijos Ao Vivo](https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT) | 2:49 |
 | 19 | [Batom de Cereja \- Ao Vivo](https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 2:20 |
 | 20 | [Bye Bye \- Ao Vivo](https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:46 |
-| 21 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 |
-| 22 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
+| 21 | [Cheirosa \- Ao Vivo](https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Cheirosa \(Ao Vivo\)](https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X) | 3:01 |
+| 22 | [Cilada](https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU) | [Molejo](https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe) | [Não Quero Saber de Ti Ti Ti](https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2) | 3:43 |
 | 23 | [Saideira \- Ao Vivo](https://open.spotify.com/track/2UmKWMYAqRlAYfDum7qryt) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 2:58 |
 | 24 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
 | 25 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Mentira](https://open.spotify.com/track/4VaZWcDObOtnn03myZ9mug) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Clube Do Araújo \(Vol\. 1\)](https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG) | 3:10 |
 | 100 | [Romance Proibido \- Ao Vivo](https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Evoluiu, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk) | 2:42 |
 
-Snapshot ID: `AAAAAPCSFnTu7THW8LkTMPqpbTvF6qqJ`
+Snapshot ID: `AAAAANm1q8kF3cit4jxZwmtSwol0mp5b`

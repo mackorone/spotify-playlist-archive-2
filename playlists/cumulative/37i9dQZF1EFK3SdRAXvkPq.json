@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165542,
+      "name": "Doliendo Bastante",
+      "url": "https://open.spotify.com/track/1HRXCIvIgKbNMNu9qZQuP0"
+    },
+    {
+      "album": {
         "name": "Obsessed Pt. 2",
         "url": "https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0"
       },
@@ -3390,6 +3408,24 @@
       "duration_ms": 184320,
       "name": "Vocation",
       "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
+    },
+    {
+      "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Vuelve o Vete",
+      "url": "https://open.spotify.com/track/3veYAXkDS2BIxK9RwamGhQ"
     },
     {
       "album": {

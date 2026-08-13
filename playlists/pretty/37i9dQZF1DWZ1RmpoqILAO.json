@@ -1,12 +1,12 @@
 {
   "description": "you met me at a very indie twang time in my life... Any Young Mechanic on the cover",
-  "num_followers": 98465,
+  "num_followers": 98491,
   "original_name": "Indie Twang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrGgU+HWKkxD+CmDP4VgnQBEdJN",
+  "snapshot_id": "AAAAAA24nTMwnOb35HscrHJuL2r7TdsH",
   "tracks": [
     {
       "added_at": "2026-07-09 23:34:06",
@@ -23,6 +23,38 @@
       "duration_ms": 189148,
       "name": "Billy Came Back",
       "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
+    },
+    {
+      "added_at": "2026-08-12 15:03:40",
+      "album": {
+        "name": "OBL",
+        "url": "https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "duration_ms": 244483,
+      "name": "OBL",
+      "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
+    },
+    {
+      "added_at": "2026-08-12 14:45:01",
+      "album": {
+        "name": "7xover",
+        "url": "https://open.spotify.com/album/4cP0zLpzYuZNDnyPPd7xIf"
+      },
+      "artists": [
+        {
+          "name": "Dogwood Tales",
+          "url": "https://open.spotify.com/artist/0DayBebjy093KRzvtkz9S5"
+        }
+      ],
+      "duration_ms": 221616,
+      "name": "7xover",
+      "url": "https://open.spotify.com/track/3vQkrLHgIRTJnL50AUKJpD"
     },
     {
       "added_at": "2026-07-09 23:34:06",

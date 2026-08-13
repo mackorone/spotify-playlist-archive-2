@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 301041,
+  "num_followers": 301194,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACcQUhx1EHFdqf+u7B9wB4ZFlPKL",
+  "snapshot_id": "AAAAADRPU2TqcQRfU+zUVrv/FqY68w+j",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/1BcSsY73b8jCwC57mpu1Xk"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "In This Moment",
-        "url": "https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 166827,
-      "name": "In This Moment",
-      "url": "https://open.spotify.com/track/2qz4vG6T2PYAYP5YU9dULG"
-    },
-    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "Lost In The Moment",
@@ -151,6 +135,22 @@
       "duration_ms": 212525,
       "name": "Lost In The Moment",
       "url": "https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "In This Moment",
+        "url": "https://open.spotify.com/album/7FQTRcg3TMdaPvaaLHiS4o"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 166827,
+      "name": "In This Moment",
+      "url": "https://open.spotify.com/track/2qz4vG6T2PYAYP5YU9dULG"
     },
     {
       "added_at": "2023-12-01 09:10:43",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "The Healing Process",
-        "url": "https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq"
-      },
-      "artists": [
-        {
-          "name": "Koh Lantana",
-          "url": "https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc"
-        }
-      ],
-      "duration_ms": 161442,
-      "name": "The Healing Process",
-      "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
-    },
-    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "Core Of The Truth",
@@ -251,6 +235,22 @@
       "duration_ms": 206184,
       "name": "Core Of The Truth",
       "url": "https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "The Healing Process",
+        "url": "https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq"
+      },
+      "artists": [
+        {
+          "name": "Koh Lantana",
+          "url": "https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc"
+        }
+      ],
+      "duration_ms": 161442,
+      "name": "The Healing Process",
+      "url": "https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -339,18 +339,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Endless Nights",
-        "url": "https://open.spotify.com/album/39G4Sh25irfylUiwli0abu"
+        "name": "Falling Stars",
+        "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
       },
       "artists": [
         {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+          "name": "Delle Alpi",
+          "url": "https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU"
         }
       ],
-      "duration_ms": 178823,
-      "name": "Endless Nights",
-      "url": "https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV"
+      "duration_ms": 158423,
+      "name": "Falling Stars",
+      "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -377,6 +377,22 @@
       "url": "https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen"
     },
     {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Endless Nights",
+        "url": "https://open.spotify.com/album/39G4Sh25irfylUiwli0abu"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Endless Nights",
+      "url": "https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV"
+    },
+    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "The Sweetest Bansuri",
@@ -391,22 +407,6 @@
       "duration_ms": 166000,
       "name": "The Sweetest Bansuri",
       "url": "https://open.spotify.com/track/61dYKNEcKbV6Cq494FuOcv"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Falling Stars",
-        "url": "https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS"
-      },
-      "artists": [
-        {
-          "name": "Delle Alpi",
-          "url": "https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU"
-        }
-      ],
-      "duration_ms": 158423,
-      "name": "Falling Stars",
-      "url": "https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
-      },
-      "artists": [
-        {
-          "name": "Devansh Tushar",
-          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Dawn Dusk Divinity",
-      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Pads of Redemption",
         "url": "https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 168536,
       "name": "Pads of Redemption",
       "url": "https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ"
+      },
+      "artists": [
+        {
+          "name": "Devansh Tushar",
+          "url": "https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Dawn Dusk Divinity",
+      "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Sacred Woods",
-        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
-      },
-      "artists": [
-        {
-          "name": "Figaro Castello",
-          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
-        }
-      ],
-      "duration_ms": 247283,
-      "name": "Mindful and Free",
-      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
-    },
-    {
       "added_at": "2023-12-01 09:10:43",
       "album": {
         "name": "Yoga Dream",
@@ -551,6 +535,22 @@
       "duration_ms": 209048,
       "name": "Yoga Dream",
       "url": "https://open.spotify.com/track/7HkYYOPExaCdMkVgyH0NW3"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Sacred Woods",
+        "url": "https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm"
+      },
+      "artists": [
+        {
+          "name": "Figaro Castello",
+          "url": "https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n"
+        }
+      ],
+      "duration_ms": 247283,
+      "name": "Mindful and Free",
+      "url": "https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
+        "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
+      },
+      "artists": [
+        {
+          "name": "Stevin McNamara",
+          "url": "https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8"
+        }
+      ],
+      "duration_ms": 471589,
+      "name": "Between the Worlds Yoga Nidra - Sunset Flow",
+      "url": "https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "OM Yoga Mix",
         "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
       },
@@ -709,22 +725,6 @@
       "url": "https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN"
     },
     {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra",
-        "url": "https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn"
-      },
-      "artists": [
-        {
-          "name": "Stevin McNamara",
-          "url": "https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8"
-        }
-      ],
-      "duration_ms": 471589,
-      "name": "Between the Worlds Yoga Nidra - Sunset Flow",
-      "url": "https://open.spotify.com/track/2VaC2kqrSsVi7Gf9gFIFqq"
-    },
-    {
       "added_at": "2023-06-27 05:36:24",
       "album": {
         "name": "In A River",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Long Long Sleep",
-        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
-        }
-      ],
-      "duration_ms": 137854,
-      "name": "Long Long Sleep",
-      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Re-Creating",
         "url": "https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 257648,
       "name": "Spiritual Touch",
       "url": "https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Long Long Sleep",
+        "url": "https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+        }
+      ],
+      "duration_ms": 137854,
+      "name": "Long Long Sleep",
+      "url": "https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Indian Equanimous Repose",
-        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
-      },
-      "artists": [
-        {
-          "name": "Selene Noor",
-          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
-        }
-      ],
-      "duration_ms": 221799,
-      "name": "Soft Native Flute",
-      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
         "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 143333,
       "name": "The Longest Rest",
       "url": "https://open.spotify.com/track/5JZ6J7RmUY8c6gWWCV1r7g"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Indian Equanimous Repose",
+        "url": "https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW"
+      },
+      "artists": [
+        {
+          "name": "Selene Noor",
+          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
+        }
+      ],
+      "duration_ms": 221799,
+      "name": "Soft Native Flute",
+      "url": "https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml"
     },
     {
       "added_at": "2023-12-01 09:10:43",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Moon Descent Introspection",
-        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
-      },
-      "artists": [
-        {
-          "name": "Selene Noor",
-          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
-        }
-      ],
-      "duration_ms": 229927,
-      "name": "Breath Exercises for Deep The Slow Fade",
-      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "Sleep",
         "url": "https://open.spotify.com/album/4lqKYa3IPsOnUF2f8U3Q1n"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 231428,
       "name": "Life of Birds",
       "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Moon Descent Introspection",
+        "url": "https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af"
+      },
+      "artists": [
+        {
+          "name": "Selene Noor",
+          "url": "https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi"
+        }
+      ],
+      "duration_ms": 229927,
+      "name": "Breath Exercises for Deep The Slow Fade",
+      "url": "https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK"
     },
     {
-      "added_at": "2023-06-27 05:36:24",
-      "album": {
-        "name": "Nature's Bed",
-        "url": "https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1"
-      },
-      "artists": [
-        {
-          "name": "Soft Sky",
-          "url": "https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi"
-        }
-      ],
-      "duration_ms": 131842,
-      "name": "Nature's Bed",
-      "url": "https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG"
-    },
-    {
       "added_at": "2021-06-15 08:38:14",
       "album": {
         "name": "Hyper Focus",
@@ -1195,6 +1179,22 @@
       "duration_ms": 203555,
       "name": "Attention Caller",
       "url": "https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW"
+    },
+    {
+      "added_at": "2023-06-27 05:36:24",
+      "album": {
+        "name": "Nature's Bed",
+        "url": "https://open.spotify.com/album/60aObkIVavhW6QdXVevRT1"
+      },
+      "artists": [
+        {
+          "name": "Soft Sky",
+          "url": "https://open.spotify.com/artist/2S1pbxlltIuIDrRypd7zWi"
+        }
+      ],
+      "duration_ms": 131842,
+      "name": "Nature's Bed",
+      "url": "https://open.spotify.com/track/5O0F8J3nnm418xPwFlCPpG"
     },
     {
       "added_at": "2021-06-15 08:38:14",

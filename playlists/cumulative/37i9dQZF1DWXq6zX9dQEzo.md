@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-1,004 songs - 1 day 23 hr 22 min
+1,005 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Bigger Than Me](https://open.spotify.com/track/18haVW16vJbPvBYOAMSCDI) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [God's Nation](https://open.spotify.com/artist/5euUlhX3M0mGZlHV3xEjbx), [DJ Wade\-O](https://open.spotify.com/artist/3r1bdLCjs0BQqoJJNykATx), [K Diamond](https://open.spotify.com/artist/3Z05XjRD1rwENNxCaJgvJL) | [Bigger Than Me](https://open.spotify.com/album/7v4TxJVNb6tmNHqZLI7OrG) | 2:32 | 2025-07-18 |  |
 | [BLAKSTONE](https://open.spotify.com/track/1cYdnjnxJnq08AedN5KqHV) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [BLAKSTONE](https://open.spotify.com/album/6Dd5H95qcUMJfsMt4p1MFJ) | 2:26 | 2024-10-04 | 2026-07-04 |
 | [Bless You](https://open.spotify.com/track/2wwsocS4XbQNbdaU6lqxJQ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Bless You](https://open.spotify.com/album/6JLJXcbHDMkmewDQbAU8pr) | 3:27 | 2025-08-07 | 2025-09-20 |
-| [BLESSED](https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [BLESSED](https://open.spotify.com/album/58shIUIy25yN66WAwAUIhi) | 2:18 | 2025-10-03 |  |
+| [BLESSED](https://open.spotify.com/track/6v2LoA1Ru2pc7xpoi7dYd4) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [BLESSED](https://open.spotify.com/album/58shIUIy25yN66WAwAUIhi) | 2:18 | 2025-10-03 | 2026-08-13 |
 | [BLESSED](https://open.spotify.com/track/51I93kSJksxIWnjO2S47II) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [Caleb Golden](https://open.spotify.com/artist/3VFD6xeoJaM85N4gGfK3ma) | [BLESSED](https://open.spotify.com/album/3BePNExIOm54F4e5h40r86) | 2:39 | 2024-03-20 | 2024-09-04 |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-03-11 | 2024-01-13 |
 | [Blessed Up](https://open.spotify.com/track/17XoLUQLHu3r7dwbrUkxnT) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Blessed Up](https://open.spotify.com/album/5DcrBNLfArtbJ8MOaz4ejc) | 3:01 | 2022-02-04 | 2023-08-12 |
@@ -856,6 +856,7 @@
 | [Thank GOD You Ain't GOD](https://open.spotify.com/track/4CPKBK4WQBw33GE9VygtNI) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Thank GOD You Ain't GOD](https://open.spotify.com/album/1JvqPvxvK4EnSsFbA4LxFQ) | 2:26 | 2025-11-07 |  |
 | [Thankful](https://open.spotify.com/track/4RqMgNmnl1BEHXpqJdPtZ9) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/3g5GhjtRLuOWOiovICXToh) | 3:12 | 2022-02-04 | 2022-07-29 |
 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 | 2022-07-17 | 2023-08-12 |
+| [THAT DAWG](https://open.spotify.com/track/7lrk6KaXJIfTt3B2SW7TYd) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [THAT DAWG](https://open.spotify.com/album/6duVvhuyy5UpqUmAAx134o) | 1:36 | 2026-08-07 |  |
 | [That Feel](https://open.spotify.com/track/5ujNb0DzpT1oP5M5oyyTmr) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [That Feel](https://open.spotify.com/album/6P2NFEDWyjEDhj91jjKs8Z) | 2:43 | 2024-01-12 | 2024-06-08 |
 | [THAT'S GOD](https://open.spotify.com/track/1dhmpK7hQvaXVinvSEqES6) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [HOLY GIRL X HLY GRL](https://open.spotify.com/artist/2TE8gW7sPrfsioHuohzF4Y) | [THAT'S GOD](https://open.spotify.com/album/3iB1QfQLWeVjcC9BAOZT90) | 3:34 | 2025-09-19 |  |
 | [THE BLOOD](https://open.spotify.com/track/2CuGFsODuNNGSdnR7nGAUe) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [THE BLOOD](https://open.spotify.com/album/71CmUrcZwNMaAaOQBbEH4w) | 2:38 | 2024-11-08 | 2026-04-07 |

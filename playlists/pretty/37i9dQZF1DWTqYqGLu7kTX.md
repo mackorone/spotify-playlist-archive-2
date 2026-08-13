@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  SMG
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,123 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,161 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 |
 | 75 | [Thug Love](https://open.spotify.com/track/7H0vjdxgl0aBWLC9IDFAGe) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Through Her Eyes](https://open.spotify.com/album/0gVsu04Wmbfa7bKaQIxTTk) | 2:46 |
 
-Snapshot ID: `AAAAAJAbv97bfmvI59O3gePHMu3+5+zQ`
+Snapshot ID: `AAAAAKMgntwrg/1JdFOKqDmAv0AV+84w`

@@ -2,7 +2,7 @@
 
 ### [Studenten Hits 2026](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
 
-> Antoon kiest 20 bangers voor zomer ID 🕶️ main character summer <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> Antoon kiest 20 bangers voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
 217 songs - 9 hr 47 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,880 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,899 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 58 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 |
 | 59 | [London's On Fire](https://open.spotify.com/track/3kFGYfnYWraDZ8iAWx45QR) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [London's On Fire](https://open.spotify.com/album/3LqNJnokJGQgkYzskHNJGB) | 2:59 |
 | 60 | [Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Cops & Robbers](https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U) | 2:41 |
-| 61 | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Wright](https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS), [Trick Shady](https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC) | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r) | 3:07 |
-| 62 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 |
+| 61 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 |
+| 62 | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Wright](https://open.spotify.com/artist/7av0AJ5afMwtx5Ay0Nv7qS), [Trick Shady](https://open.spotify.com/artist/0Bkjl4B4omnidK7jdcIsxC) | [Leave A Message \(feat\. Poppy Wright & Trick Shady\)](https://open.spotify.com/album/2wyxDi2v4RwUsJifLQx75r) | 3:07 |
 | 63 | [Slow Burner](https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Slow Burner](https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB) | 3:32 |
 | 64 | [Satisfaction Skank](https://open.spotify.com/track/75PWvCyXFTuXvwmntGMhuB) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank \(High Contrast Remix\)](https://open.spotify.com/album/3mhcL69ilU25UpBH9AaXxb) | 3:19 |
 | 65 | [Finder \- Radio\-Edit](https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 3:26 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 76 | [Even Angels Ghost](https://open.spotify.com/track/428xFofpMSCCMl2PZvBN6q) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [Even Angels Ghost](https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS) | 4:22 |
 | 77 | [Never Come Back](https://open.spotify.com/track/0Ej6OBBtMvhjaJvtt1vtUt) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/34iY3hgyKCn1EJe6YVNFro) | 5:05 |
 | 78 | [What I Might Do](https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq) | [Ben Pearce](https://open.spotify.com/artist/0mnlHIcYkz3TQQ07xiFwuz) | [What I Might Do \(Radio Edit\)](https://open.spotify.com/album/4SdrC7w58BEVFdaOhbWbBG) | 3:15 |
-| 79 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
-| 80 | [Face 2 Face](https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392) | [Face 2 Face](https://open.spotify.com/album/1Hb12RMgFSsYtdhw4bqc97) | 3:41 |
+| 79 | [Face 2 Face](https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392) | [Face 2 Face](https://open.spotify.com/album/1Hb12RMgFSsYtdhw4bqc97) | 3:41 |
+| 80 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 |
 
-Snapshot ID: `AAAAAG9lhCKs+tnhgGIls+4DbdaFry3c`
+Snapshot ID: `AAAAAJ8iRy23R/mmmwyG81cIKTl0y2qU`

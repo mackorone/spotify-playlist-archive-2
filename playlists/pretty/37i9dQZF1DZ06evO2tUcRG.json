@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADC4O1VfKN8twlfL4Hyx4Yd",
+  "snapshot_id": "anpmAAAAAADYoiB40ZQXGfhj3JCCcjLi",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hino da Vit\u00f3ria",
-        "url": "https://open.spotify.com/album/3iqDWbdZPucI0xh6JFe8jB"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 297378,
-      "name": "Hino da Vit\u00f3ria",
-      "url": "https://open.spotify.com/track/6YdwvVHRupTTI4tLPNaKvL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 469026,
       "name": "Eu Navegarei",
       "url": "https://open.spotify.com/track/3pyEWO6mEOzOeMobs5BP6p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hino da Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/3iqDWbdZPucI0xh6JFe8jB"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 297378,
+      "name": "Hino da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/6YdwvVHRupTTI4tLPNaKvL"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/2dlJjAHi1E20E6K2kPNYwe"
+      "duration_ms": 437928,
+      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/07TsgfuIWgAd4Ds39uwtaH"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 437928,
-      "name": "A Ele a Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/07TsgfuIWgAd4Ds39uwtaH"
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/2dlJjAHi1E20E6K2kPNYwe"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fernandinho Em Casa (ao Vivo)",
         "url": "https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 367380,
       "name": "Me Leva - Ao Vivo",
       "url": "https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palavras",
-        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 317043,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Onde Iremos?",
-        "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Teu Santo Nome",
-      "url": "https://open.spotify.com/track/3d4fqNr8Skfs5PmxAZSeP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Onde Iremos?",
+        "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Teu Santo Nome",
+      "url": "https://open.spotify.com/track/3d4fqNr8Skfs5PmxAZSeP0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9s o Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja (Ao Vivo)",
-        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 286452,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c1guas Purificadoras",
         "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 342667,
       "name": "\u00c1guas Purificadoras",
       "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Igreja (Ao Vivo)",
+        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 286452,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-698 songs - 1 day 23 hr 44 min
+699 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,7 +605,7 @@
 | [The Grand Swell](https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [The Grand Swell](https://open.spotify.com/album/23V0126apKDHzsQrAiqLwT) | 4:51 | 2021-08-20 | 2022-07-29 |
 | [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-09-15 | 2023-11-21 |
 | [The Last Time](https://open.spotify.com/track/0zfYsG5xe0dMyQWrV68giY) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [The Last Time](https://open.spotify.com/album/64hTWY5vA3Z79w0EuDSBIQ) | 3:31 | 2026-06-26 |  |
-| [The Light](https://open.spotify.com/track/32AjJWJQq17R9uAZhZPUdQ) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [The Light](https://open.spotify.com/album/0bAxKKUx06doiVUvCGnqBd) | 4:09 | 2026-03-20 |  |
+| [The Light](https://open.spotify.com/track/32AjJWJQq17R9uAZhZPUdQ) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [The Light](https://open.spotify.com/album/0bAxKKUx06doiVUvCGnqBd) | 4:09 | 2026-03-20 | 2026-08-13 |
 | [The Little Mushroom That Got Away](https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [The Little Mushroom That Got Away](https://open.spotify.com/album/71adfswntkKEtqbhBqp9FU) | 5:35 | 2023-10-06 | 2025-07-25 |
 | [The Maker](https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Notelle](https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U) | [The Maker](https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md) | 2:36 | 2023-03-14 | 2024-06-02 |
 | [The Morning After](https://open.spotify.com/track/5XZwq5GzhyjjlMwtou1fWb) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Paul Thomas](https://open.spotify.com/artist/32IkwkKb3BkxUGAzSjaBI8) | [The Morning After](https://open.spotify.com/album/1IEMLZHGq4ksUfeTSj2FXq) | 3:33 | 2023-12-01 | 2024-04-19 |
@@ -661,6 +661,7 @@
 | [Unlovable](https://open.spotify.com/track/4IEt7Mdm42jKkRTaAzNNrH) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Unlovable](https://open.spotify.com/album/24CHipaCl8pzPFDe3oWOm1) | 4:02 | 2023-01-27 | 2023-04-25 |
 | [Upside Down](https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Upside Down](https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG) | 2:51 | 2025-09-05 |  |
 | [Vallut Bass](https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [Vallut Bass](https://open.spotify.com/album/2u0mZypCSZa9vMm32FYyEN) | 3:31 | 2021-05-07 | 2022-06-23 |
+| [VEINS](https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [OVERDRIVE](https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A) | 3:45 | 2026-08-07 |  |
 | [Vertigo](https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Vertigo](https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j) | 3:09 | 2022-11-18 | 2024-06-09 |
 | [Vertigo](https://open.spotify.com/track/1p6IvCBlHrWIi6AmXiMtdw) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Vertigo](https://open.spotify.com/album/1EJeNKVDB6XJsyAMxVZaAU) | 3:36 | 2023-06-23 | 2024-05-03 |
 | [Violet Sea](https://open.spotify.com/track/1f33u4p19t1nWX6t4vtps9) | [Pavel Khvaleev](https://open.spotify.com/artist/04mfb9WF2sttD7r6SWMYRk) | [Violet Sea + Aura](https://open.spotify.com/album/4LeAQhY0P24q2mvynao92G) | 3:48 | 2021-05-07 | 2022-04-20 |

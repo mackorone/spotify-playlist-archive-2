@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Llona\. Rema, Ckay, Darkoo & Asake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,227 likes - 52 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,279 likes - 52 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 51 | [Sunseyin](https://open.spotify.com/track/1a9LEpa0eTgNVkuVKrzgFB) | [Caliph](https://open.spotify.com/artist/6vJfZRJYmQUR8YCRMd0ka2) | [Sunseyin](https://open.spotify.com/album/50IkDy6vlkT7sfXN4iFmN8) | 2:33 |
 | 52 | [Outside](https://open.spotify.com/track/2A5zdszDw3FLptO9b2JHMg) | [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Outside](https://open.spotify.com/album/7dtqw9jpyhi4PXc6tOfJWg) | 2:45 |
 
-Snapshot ID: `AAAAANJmFa53Y8BdoyZtNcMK3lOHimCa`
+Snapshot ID: `AAAAAFiiq1jkeV9zfDsHyFZMz5ZikXkt`

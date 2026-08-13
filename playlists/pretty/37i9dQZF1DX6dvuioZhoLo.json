@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover:  Presley Haile",
-  "num_followers": 315442,
+  "num_followers": 315451,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmebOB+KoJG219GQP//zqmlxn5k",
+  "snapshot_id": "AAAAAC40e6jQ3sfe3xQnGBaOYh7ucgVh",
   "tracks": [
     {
       "added_at": "2026-08-07 04:02:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 300895,
-      "name": "Weather",
-      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Wild At Heart",
         "url": "https://open.spotify.com/album/6KVSZpBdO0ZiUzIRabBS3d"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 175653,
       "name": "Wild At Heart",
       "url": "https://open.spotify.com/track/7EVeo9YXY0UlctpcrrCxfp"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 300895,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/1WwAqeweh8B5WVO041pRFf"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Don't Waste Your Prayers",
-        "url": "https://open.spotify.com/album/1v3yDVsW0j1D7hVqKrPQqm"
-      },
-      "artists": [
-        {
-          "name": "Chaparelle",
-          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
-        }
-      ],
-      "duration_ms": 173716,
-      "name": "Don't Waste Your Prayers",
-      "url": "https://open.spotify.com/track/73KH2rdA1bzlIydzmoXJF7"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/5jodqSew9785i4tEIRLase"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "Don't Waste Your Prayers",
+        "url": "https://open.spotify.com/album/1v3yDVsW0j1D7hVqKrPQqm"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        }
+      ],
+      "duration_ms": 173716,
+      "name": "Don't Waste Your Prayers",
+      "url": "https://open.spotify.com/track/73KH2rdA1bzlIydzmoXJF7"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
-      },
-      "artists": [
-        {
-          "name": "Andrew Sa",
-          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
-        }
-      ],
-      "duration_ms": 228781,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+      },
+      "artists": [
+        {
+          "name": "Andrew Sa",
+          "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        }
+      ],
+      "duration_ms": 228781,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
+        "name": "Field Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Diamond Joe",
+      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
         "name": "All My Exes Live in L.A.",
         "url": "https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 198062,
       "name": "All My Exes Live in L.A.",
       "url": "https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
-        "name": "Field Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Diamond Joe",
-      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 286146,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Lawdy Mama",
-        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Lawdy Mama",
-      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
-    },
-    {
-      "added_at": "2026-08-07 04:02:10",
-      "album": {
         "name": "Ramblin' Soul",
         "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2026-08-07 04:02:10",
       "album": {
-        "name": "Cabin By The Sea",
-        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+        "name": "Lawdy Mama",
+        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
       },
       "artists": [
         {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
         }
       ],
-      "duration_ms": 202368,
-      "name": "Cabin By The Sea",
-      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+      "duration_ms": 164920,
+      "name": "Lawdy Mama",
+      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
     },
     {
       "added_at": "2026-08-07 04:02:10",
@@ -1295,6 +1279,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2026-08-07 04:02:10",
+      "album": {
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
     },
     {
       "added_at": "2026-08-07 04:02:10",

@@ -1,12 +1,12 @@
 {
   "description": "youngs soundss \ud83e\udd5e Kundo p\u00e5 forsiden ",
-  "num_followers": 47197,
+  "num_followers": 47198,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHm1uOdQnxfdIGeTa4HzhTao0PYc",
+  "snapshot_id": "AAAAAOetPRHc7tjwQLw7Jg5Qy6AmY+VO",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:39",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
+        "name": "Alt hvad jeg vil",
+        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
+      },
+      "artists": [
+        {
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+        }
+      ],
+      "duration_ms": 224980,
+      "name": "Alt hvad jeg vil",
+      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
         "name": "I Made It (feat. Andreas Odbjerg)",
         "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 209923,
       "name": "I Made It (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Alt hvad jeg vil",
-        "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
-      },
-      "artists": [
-        {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
-        }
-      ],
-      "duration_ms": 224980,
-      "name": "Alt hvad jeg vil",
-      "url": "https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "lao shi",
-        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "lao shi",
-      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
         "url": "https://open.spotify.com/album/4TOYrvfkdwuEBAeK0KHv0y"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 179312,
       "name": "du forst\u00e5r det, jeg forst\u00e5r det ik",
       "url": "https://open.spotify.com/track/7DbJqU0Tj5Ti0kuUYuAJPp"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "lao shi",
+        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "lao shi",
+      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "Go Wild",
         "url": "https://open.spotify.com/album/6KwafSxK1XJwonGnLbNrTj"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206407,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
+        "name": "Kun for os",
+        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        }
+      ],
+      "duration_ms": 200674,
+      "name": "Kun for os",
+      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
         "name": "H\u00e6ng En Mand",
         "url": "https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 140676,
       "name": "Ender Altid Hos Dig",
       "url": "https://open.spotify.com/track/4Zp401EEGLDe557Jx7uaLv"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Kun for os",
-        "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
-      },
-      "artists": [
-        {
-          "name": "KEDDE",
-          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
-        }
-      ],
-      "duration_ms": 200674,
-      "name": "Kun for os",
-      "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -803,54 +803,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "Venter Jo Bare",
-        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 200164,
-      "name": "Venter Jo Bare",
-      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "H\u00e6lervarer",
-        "url": "https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "H\u00e6lervarer",
-      "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "S\u00e6tter Alt P\u00e5 Spil",
-        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 197589,
-      "name": "S\u00e6tter Alt P\u00e5 Spil",
-      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "H\u00f8j P\u00e5 Livet",
         "url": "https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa"
       },
@@ -871,6 +823,38 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
+        "name": "Venter Jo Bare",
+        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 200164,
+      "name": "Venter Jo Bare",
+      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "S\u00e6tter Alt P\u00e5 Spil",
+        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "duration_ms": 197589,
+      "name": "S\u00e6tter Alt P\u00e5 Spil",
+      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
         "name": "S\u00f8vnl\u00f8s",
         "url": "https://open.spotify.com/album/7DmRBNaNbulvvaYJnKPoiN"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 149304,
       "name": "S\u00f8vnl\u00f8s",
       "url": "https://open.spotify.com/track/5Yl5GYYL1r9BYQMJCR0rMN"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "H\u00e6lervarer",
+        "url": "https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "H\u00e6lervarer",
+      "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "niu bi",
-        "url": "https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 139303,
-      "name": "niu bi",
-      "url": "https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "Ekkoer",
         "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+        "name": "niu bi",
+        "url": "https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh"
       },
       "artists": [
         {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
+      "duration_ms": 139303,
+      "name": "niu bi",
+      "url": "https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -1099,6 +1083,22 @@
       "duration_ms": 208837,
       "name": "Fra ingenting til noget",
       "url": "https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-08-06 22:01:39",

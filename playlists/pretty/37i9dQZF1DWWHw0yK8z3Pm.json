@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFp6SM1mu8z9Pv6QZcRZPxqtnNi7",
+  "snapshot_id": "AAAAAPPAwDMikZqJ1ngihDrA0oz43ZLz",
   "tracks": [
     {
       "added_at": "2026-05-22 04:02:59",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/2raU5tgnnM697qeoIJMEL6"
     },
     {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "Pretty Little Liar",
-        "url": "https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um"
-      },
-      "artists": [
-        {
-          "name": "Waylon Wyatt",
-          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
-        }
-      ],
-      "duration_ms": 242578,
-      "name": "Pretty Little Liar",
-      "url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
-    },
-    {
       "added_at": "2026-07-24 04:03:38",
       "album": {
         "name": "Home Depot",
@@ -631,6 +615,22 @@
       "duration_ms": 193039,
       "name": "Home Depot",
       "url": "https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Pretty Little Liar",
+        "url": "https://open.spotify.com/album/24dL04mo8rbTz1UjztM9Um"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "duration_ms": 242578,
+      "name": "Pretty Little Liar",
+      "url": "https://open.spotify.com/track/0ZHiaGvzx20AfiZychbcVN"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "There I Go",
-        "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
-      },
-      "artists": [
-        {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
-        }
-      ],
-      "duration_ms": 167226,
-      "name": "Sink or Swim",
-      "url": "https://open.spotify.com/track/6hyTFtcjGipSetWlZyGT2G"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "Returning To Myself",
         "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Best of Our Possible Lives",
-        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
       },
       "artists": [
         {
-          "name": "Boy Golden",
-          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
         }
       ],
-      "duration_ms": 188988,
-      "name": "Best of Our Possible Lives",
-      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
+      "duration_ms": 167226,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/6hyTFtcjGipSetWlZyGT2G"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1083,6 +1067,22 @@
       "duration_ms": 185026,
       "name": "The Pines",
       "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1109,6 +1109,22 @@
       "url": "https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ"
     },
     {
+      "added_at": "2026-06-26 04:03:10",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/3tLfUHXsORut2UJHpqdezK"
+      },
+      "artists": [
+        {
+          "name": "Pelch",
+          "url": "https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7AsJDg1nrIoaFk7E18O2wv"
+    },
+    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Portland, Maine (10th Anniversary Edition)",
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
     },
     {
-      "added_at": "2026-06-26 04:03:10",
-      "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/3tLfUHXsORut2UJHpqdezK"
-      },
-      "artists": [
-        {
-          "name": "Pelch",
-          "url": "https://open.spotify.com/artist/1sJoi3cOOQf2J21k7K8FjV"
-        }
-      ],
-      "duration_ms": 148133,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/7AsJDg1nrIoaFk7E18O2wv"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Memories and Empties",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "MISERY",
-        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
-      },
-      "artists": [
-        {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "MISERY",
-      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
         "name": "right by my side",
         "url": "https://open.spotify.com/album/3KOBVybYa8lG5Ko5PJtZT9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 206729,
       "name": "right by my side",
       "url": "https://open.spotify.com/track/4PPuGYLJA0PrQObLui6wex"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
+        "name": "MISERY",
+        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "MISERY",
+      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "I'm In Love with a Man",
-        "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
+        "name": "Dublin Blues",
+        "url": "https://open.spotify.com/album/73ggtn0wTj3mKuHF01eNg7"
       },
       "artists": [
         {
-          "name": "Laci Kaye Booth",
-          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
         }
       ],
-      "duration_ms": 181846,
-      "name": "I'm In Love with a Man",
-      "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
+      "duration_ms": 388107,
+      "name": "Dublin Blues",
+      "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
     },
     {
       "added_at": "2026-07-24 04:03:38",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "Dublin Blues",
-        "url": "https://open.spotify.com/album/73ggtn0wTj3mKuHF01eNg7"
+        "name": "I'm In Love with a Man",
+        "url": "https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ"
       },
       "artists": [
         {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
         }
       ],
-      "duration_ms": 388107,
-      "name": "Dublin Blues",
-      "url": "https://open.spotify.com/track/3Qg07fYoeYLBEwUOqk7vSR"
+      "duration_ms": 181846,
+      "name": "I'm In Love with a Man",
+      "url": "https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/33GW7UkXxsIDwb0tWL99q5"
     },
     {
-      "added_at": "2026-06-05 04:02:55",
-      "album": {
-        "name": "Live a Song, Write a Memory, Vol. 1",
-        "url": "https://open.spotify.com/album/11nQvCKfRTGaodvWvIqwpq"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/0Esp6o16cxWiztoolNGaSo"
-    },
-    {
       "added_at": "2026-05-22 04:02:59",
       "album": {
         "name": "Suffer",
@@ -1495,6 +1479,22 @@
       "duration_ms": 203830,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
+    },
+    {
+      "added_at": "2026-06-05 04:02:55",
+      "album": {
+        "name": "Live a Song, Write a Memory, Vol. 1",
+        "url": "https://open.spotify.com/album/11nQvCKfRTGaodvWvIqwpq"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/0Esp6o16cxWiztoolNGaSo"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
+        "name": "South of the Suburbs",
+        "url": "https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf"
+      },
+      "artists": [
+        {
+          "name": "Matt Bazinet",
+          "url": "https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "South of the Suburbs",
+      "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
+    },
+    {
+      "added_at": "2026-05-22 04:02:59",
+      "album": {
         "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
         "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2026-05-22 04:02:59",
       "album": {
-        "name": "South of the Suburbs",
-        "url": "https://open.spotify.com/album/4dGbCXED2kmME8i4NQywvf"
+        "name": "January",
+        "url": "https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w"
       },
       "artists": [
         {
-          "name": "Matt Bazinet",
-          "url": "https://open.spotify.com/artist/7pcLNmIGVmsj9nKMOdByct"
+          "name": "Marie Dresselhuis",
+          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
         }
       ],
-      "duration_ms": 168000,
-      "name": "South of the Suburbs",
-      "url": "https://open.spotify.com/track/3E1W5xJY2EaPWel2kV6pYH"
+      "duration_ms": 197963,
+      "name": "January",
+      "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
     },
     {
       "added_at": "2026-05-22 04:02:59",
@@ -1619,22 +1635,6 @@
       "duration_ms": 224861,
       "name": "Everything Burns",
       "url": "https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX"
-    },
-    {
-      "added_at": "2026-05-22 04:02:59",
-      "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/54fq9FgsYBN7DqNDHMW83w"
-      },
-      "artists": [
-        {
-          "name": "Marie Dresselhuis",
-          "url": "https://open.spotify.com/artist/6mti1miVznkj8ShJdAI1eL"
-        }
-      ],
-      "duration_ms": 197963,
-      "name": "January",
-      "url": "https://open.spotify.com/track/6PezZtCN7RCDHjSAsj01fP"
     },
     {
       "added_at": "2026-05-22 04:02:59",

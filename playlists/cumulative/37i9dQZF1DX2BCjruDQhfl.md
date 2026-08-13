@@ -2,7 +2,7 @@
 
 ### [Vibes](https://open.spotify.com/playlist/37i9dQZF1DX2BCjruDQhfl)
 
-> Dylisa kiest haar vibey tunes voor zomer ID 🤏 clock\-it\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> Dylisa kiest 20 tunes voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
 389 songs - 17 hr 58 min
 

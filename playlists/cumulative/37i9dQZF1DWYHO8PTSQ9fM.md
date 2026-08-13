@@ -2,9 +2,9 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> The hottest hits right now\. Cover: Lartiste
+> The hottest hits right now\. Cover: Douaa Lahyaoui
 
-571 songs - 1 day 6 hr 11 min
+572 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-06-16 | 2025-08-23 |
 | [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 | 2026-02-23 |  |
 | [BABOUR LOU7](https://open.spotify.com/track/72h1HdEtR4XzLPvOigW8u8) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 3:39 | 2025-04-24 | 2025-06-03 |
-| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-04-16 |  |
+| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-04-16 | 2026-08-13 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-10 | 2025-08-06 |
 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 | 2024-08-01 |  |
 | [Balade](https://open.spotify.com/track/3PAkE2potAfVGgTocmrF89) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Balade](https://open.spotify.com/album/3nw79WxspBWa9V7r3KiFBT) | 3:13 | 2025-04-28 | 2025-09-11 |
@@ -135,6 +135,7 @@
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/2oMCQhVDHhzKEHk5rN6T1E) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:02 | 2024-07-08 | 2024-10-04 |
 | [Demain](https://open.spotify.com/track/1Msk9wZdpAWCTtMy6OSbTj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1yvh0jrG804Om3izynaGKa) | 3:12 | 2023-09-05 | 2023-11-03 |
 | [Demain](https://open.spotify.com/track/6eJ04i64i90cgfsQpHXZpK) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Femme forte](https://open.spotify.com/album/1CbvtjDKMJDU7jSxXFHfhM) | 3:12 | 2023-10-31 | 2024-02-13 |
+| [DEMMI MARROKI](https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [DEMMI MARROKI](https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp) | 3:31 | 2026-08-12 |  |
 | [Den Den,](https://open.spotify.com/track/7qTWQLYFi7dp0arSyQ3V1X) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Den Den,](https://open.spotify.com/album/19aaWkC2gOyf2dNkJA4yPl) | 2:33 | 2025-08-31 | 2025-11-23 |
 | [Di Mochkila](https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Norel](https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Di Mochkila](https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK) | 2:25 | 2024-01-09 | 2024-07-29 |
 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2023-07-07 | 2024-07-19 |

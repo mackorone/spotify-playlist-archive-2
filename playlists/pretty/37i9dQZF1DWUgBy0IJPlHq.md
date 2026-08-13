@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,464 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,485 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Ride On](https://open.spotify.com/track/0JRAb68EKNBaZwrkUBMVvq) | [Coleman Jennings](https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp) | [Ride On](https://open.spotify.com/album/4wZ9RtuL0b46pD8dHzl606) | 2:58 |
 | 100 | [Past My Prime \(feat\. Nathaniel Rateliff\)](https://open.spotify.com/track/01qfpfvaO6DUsbL4bdEVjZ) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [XXV](https://open.spotify.com/album/21leL21C3hRYCcLCclAYpU) | 3:33 |
 
-Snapshot ID: `AAAAABsm3WSDu3fhcaDrQUUGBBXxOgQM`
+Snapshot ID: `AAAAAODQJ8HoHETKnRYY/MDzxOgtSaQh`

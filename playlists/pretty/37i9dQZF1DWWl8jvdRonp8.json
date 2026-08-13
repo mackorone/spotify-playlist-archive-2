@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 310174,
+  "num_followers": 310225,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOIViqzuTbYYUcA8ro0Oj2Pdpi8m",
+  "snapshot_id": "AAAAAELz4GDd2KZSiBv04oiWxcG1rQ5S",
   "tracks": [
     {
       "added_at": "2026-07-16 23:50:42",
@@ -99,8 +99,8 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
+      "duration_ms": 208066,
+      "name": "A Donde Vayas",
+      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "O Me Voy O Te Vas",
         "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 242133,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -179,8 +179,8 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 208066,
-      "name": "A Donde Vayas",
-      "url": "https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM"
+      "duration_ms": 248560,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -275,22 +275,18 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+      "duration_ms": 178426,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -315,18 +311,22 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Con Sierre\u00f1o Mis Canciones Favoritas",
-        "url": "https://open.spotify.com/album/3JfDDBD3ZA2UOik3IcsxJH"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "El Peor De Mis Fracasos",
-      "url": "https://open.spotify.com/track/4EK2Jj9U45MPsUekGKv1zV"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236093,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Con Sierre\u00f1o Mis Canciones Favoritas",
+        "url": "https://open.spotify.com/album/3JfDDBD3ZA2UOik3IcsxJH"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/4EK2Jj9U45MPsUekGKv1zV"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Antes de Que Te Vayas",
-        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
-      },
-      "artists": [
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "duration_ms": 205983,
-      "name": "Antes de Que Te Vayas",
-      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Te Voy a Hacer Feliz",
         "url": "https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 260263,
       "name": "Se Va Muriendo M\u00ed Alma",
       "url": "https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Antes de Que Te Vayas",
+        "url": "https://open.spotify.com/album/5OGiLCGjLUNy0e9gI6S4E0"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 205983,
+      "name": "Antes de Que Te Vayas",
+      "url": "https://open.spotify.com/track/6VawoBcyNbK7tV9SOZQcwk"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "C\u00f3mo Me Duele Irte Perdiendo",
-      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Y Yo Sin Ti",
         "url": "https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 198133,
       "name": "Y Yo Sin Ti",
       "url": "https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "C\u00f3mo Me Duele Irte Perdiendo",
+      "url": "https://open.spotify.com/track/0TRLsi0C8rLgSWjPhpFnwz"
     },
     {
       "added_at": "2026-07-16 23:50:42",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-16 23:50:42",
       "album": {
-        "name": "Mano A Mano Volumen 2",
-        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Antes De Que Te Vayas",
-      "url": "https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH"
-    },
-    {
-      "added_at": "2026-07-16 23:50:42",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
+    },
+    {
+      "added_at": "2026-07-16 23:50:42",
+      "album": {
+        "name": "Mano A Mano Volumen 2",
+        "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Antes De Que Te Vayas",
+      "url": "https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH"
     },
     {
       "added_at": "2026-07-16 23:50:42",

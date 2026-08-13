@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Nico Moreno, Novah",
-  "num_followers": 525820,
+  "num_followers": 526176,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbi597yowcv0EiuMQSVqY2G4LPV",
+  "snapshot_id": "AAAAAI20a/QJBdi6IWCDvKgeFRrpDVpc",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:36",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
+        "name": "Die Tonight",
+        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 227612,
+      "name": "Die Tonight",
+      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
         "name": "4am In A Rave / Speed Is A Deed",
         "url": "https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 147121,
       "name": "4am In A Rave (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
-        "name": "Die Tonight",
-        "url": "https://open.spotify.com/album/3dhdbBuZZrSShe1noV5TQF"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 227612,
-      "name": "Die Tonight",
-      "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "GET THE FUCK OUT",
-        "url": "https://open.spotify.com/album/71MKbWH7kgU3xHaj05KxXK"
-      },
-      "artists": [
-        {
-          "name": "Vieze Asbak",
-          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
-        }
-      ],
-      "duration_ms": 169921,
-      "name": "GET THE FUCK OUT",
-      "url": "https://open.spotify.com/track/5Hb3P9vrw0364dyW82Uyjd"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
         "name": "Dopamin",
         "url": "https://open.spotify.com/album/3cf02iCcXJRAZDLk7kkR8b"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 208874,
       "name": "Dopamin",
       "url": "https://open.spotify.com/track/1SXKHT4MP8OjHqBjb1vDZS"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
+        "name": "GET THE FUCK OUT",
+        "url": "https://open.spotify.com/album/71MKbWH7kgU3xHaj05KxXK"
+      },
+      "artists": [
+        {
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        }
+      ],
+      "duration_ms": 169921,
+      "name": "GET THE FUCK OUT",
+      "url": "https://open.spotify.com/track/5Hb3P9vrw0364dyW82Uyjd"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
+        "name": "DIE TONIGHT EP",
+        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "duration_ms": 194509,
+      "name": "Kummer",
+      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
         "name": "Rolling",
         "url": "https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 164800,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
-        "name": "DIE TONIGHT EP",
-        "url": "https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg"
-      },
-      "artists": [
-        {
-          "name": "KUKO",
-          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Kummer",
-      "url": "https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
+        "name": "Turn The Music Down",
+        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Turn The Music Down",
+      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
         "name": "Bassline Slut",
         "url": "https://open.spotify.com/album/6PVUkdViXIPjlmfrX0AzBX"
       },
@@ -1103,26 +1119,6 @@
       "duration_ms": 137142,
       "name": "Bassline Slut",
       "url": "https://open.spotify.com/track/65KTsqXbjSr9k8K6X65CIa"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
-      },
-      "artists": [
-        {
-          "name": "HOLY PRIEST",
-          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
-        },
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1167,8 +1163,28 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "Turn The Music Down",
-        "url": "https://open.spotify.com/album/5ooFxrtOHrD0IEfnmhV6dL"
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/56SAagLBRTJVjXHf5in6lT"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/1zXhyXzTAhZY5z896MFQZM"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
+        "name": "4 Da Ravers",
+        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
       },
       "artists": [
         {
@@ -1176,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Turn The Music Down",
-      "url": "https://open.spotify.com/track/71FDSY7yVj6NzoAqb9E1ah"
+      "duration_ms": 153290,
+      "name": "4 Da Ravers",
+      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "Purple Widow (Original & Remix Versions)",
-        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        }
-      ],
-      "duration_ms": 381118,
-      "name": "Purple Widow",
-      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
         "name": "MOVE",
         "url": "https://open.spotify.com/album/6IqKIMMASEDxZuMkPQyQkg"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "4 Da Ravers",
-        "url": "https://open.spotify.com/album/7rFjECStShUcE157PCp9z8"
+        "name": "Purple Widow (Original & Remix Versions)",
+        "url": "https://open.spotify.com/album/1u7qntdMJydlDDUPcO27At"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         }
       ],
-      "duration_ms": 153290,
-      "name": "4 Da Ravers",
-      "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
+      "duration_ms": 381118,
+      "name": "Purple Widow",
+      "url": "https://open.spotify.com/track/04GyfkxwKrbaa9qrZTu3Pa"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "Rave 4 love",
-        "url": "https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU"
-      },
-      "artists": [
-        {
-          "name": "999999999",
-          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
-        }
-      ],
-      "duration_ms": 301627,
-      "name": "Rave 4 love",
-      "url": "https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
         "name": "Nobody EP",
         "url": "https://open.spotify.com/album/6A10XLlVnPAbASx866mMr8"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 199966,
       "name": "Without Me (Nobody)",
       "url": "https://open.spotify.com/track/4Bht2REFx5AxM48HMEi5BQ"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
+        "name": "Rave 4 love",
+        "url": "https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        }
+      ],
+      "duration_ms": 301627,
+      "name": "Rave 4 love",
+      "url": "https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
+        "name": "Omnes EP",
+        "url": "https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1"
+      },
+      "artists": [
+        {
+          "name": "MAHTAL",
+          "url": "https://open.spotify.com/artist/36mDqPu7kZeSHyrmsy0d2I"
+        }
+      ],
+      "duration_ms": 289472,
+      "name": "All In This - Original mix",
+      "url": "https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
         "name": "Orbit Motion",
         "url": "https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 141390,
       "name": "HIT IT BOY",
       "url": "https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
-        "name": "Omnes EP",
-        "url": "https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1"
-      },
-      "artists": [
-        {
-          "name": "MAHTAL",
-          "url": "https://open.spotify.com/artist/36mDqPu7kZeSHyrmsy0d2I"
-        }
-      ],
-      "duration_ms": 289472,
-      "name": "All In This - Original mix",
-      "url": "https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "The Ultimate Acid Track",
-        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
+        "name": "Hype Boy",
+        "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
       },
       "artists": [
         {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 240532,
-      "name": "The Ultimate Acid Track",
-      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
+      "duration_ms": 196941,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1631,18 +1627,22 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "Hype Boy",
-        "url": "https://open.spotify.com/album/1SPxEjHts5HlArNh5saCm2"
+        "name": "The Ultimate Acid Track",
+        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
         }
       ],
-      "duration_ms": 196941,
-      "name": "Hype Boy",
-      "url": "https://open.spotify.com/track/4I4LIjM7gHmIFQ210Ycx2j"
+      "duration_ms": 240532,
+      "name": "The Ultimate Acid Track",
+      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1663,30 +1663,6 @@
       "duration_ms": 178964,
       "name": "Alte Keks",
       "url": "https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
-        "name": "It's A Fine Day (Hard Techno Remix)",
-        "url": "https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM"
-      },
-      "artists": [
-        {
-          "name": "GEWOONRAVES",
-          "url": "https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8"
-        },
-        {
-          "name": "Grym",
-          "url": "https://open.spotify.com/artist/4EyLyiExN1bAKQYWnVok4k"
-        },
-        {
-          "name": "Moxius",
-          "url": "https://open.spotify.com/artist/6JISEm4WN6a2LzWRi8KCrR"
-        }
-      ],
-      "duration_ms": 153222,
-      "name": "It's A Fine Day - Hard Techno Remix",
-      "url": "https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1727,6 +1703,30 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
+        "name": "It's A Fine Day (Hard Techno Remix)",
+        "url": "https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM"
+      },
+      "artists": [
+        {
+          "name": "GEWOONRAVES",
+          "url": "https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8"
+        },
+        {
+          "name": "Grym",
+          "url": "https://open.spotify.com/artist/4EyLyiExN1bAKQYWnVok4k"
+        },
+        {
+          "name": "Moxius",
+          "url": "https://open.spotify.com/artist/6JISEm4WN6a2LzWRi8KCrR"
+        }
+      ],
+      "duration_ms": 153222,
+      "name": "It's A Fine Day - Hard Techno Remix",
+      "url": "https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
         "name": "Touch It (feat. Jazmine Johnson)",
         "url": "https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ"
       },
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
+        "name": "Marching Powder",
+        "url": "https://open.spotify.com/album/46v956ZbrQTvNXM2hdxc3u"
+      },
+      "artists": [
+        {
+          "name": "Will Atkinson",
+          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
+        }
+      ],
+      "duration_ms": 191499,
+      "name": "Marching Powder",
+      "url": "https://open.spotify.com/track/5z9i6jnaxzKbF7ujgb3uz9"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
         "name": "Venezia",
         "url": "https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy"
       },
@@ -1759,6 +1775,38 @@
       "duration_ms": 232941,
       "name": "Venezia",
       "url": "https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
+        "name": "Adagio For Strings",
+        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
+      },
+      "artists": [
+        {
+          "name": "BYORN",
+          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
+    },
+    {
+      "added_at": "2026-07-30 22:02:36",
+      "album": {
+        "name": "Nightcore",
+        "url": "https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W"
+      },
+      "artists": [
+        {
+          "name": "Lady Maru",
+          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Nightcore",
+      "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
     },
     {
       "added_at": "2026-07-30 22:02:36",
@@ -1811,38 +1859,6 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "Nightcore",
-        "url": "https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W"
-      },
-      "artists": [
-        {
-          "name": "Lady Maru",
-          "url": "https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Nightcore",
-      "url": "https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
-        "name": "Adagio For Strings",
-        "url": "https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O"
-      },
-      "artists": [
-        {
-          "name": "BYORN",
-          "url": "https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
         "name": "DRONE (LESSSS EDIT)",
         "url": "https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE"
       },
@@ -1863,22 +1879,6 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "Marching Powder",
-        "url": "https://open.spotify.com/album/46v956ZbrQTvNXM2hdxc3u"
-      },
-      "artists": [
-        {
-          "name": "Will Atkinson",
-          "url": "https://open.spotify.com/artist/5FXLHhKgStv36wfwXMhTWt"
-        }
-      ],
-      "duration_ms": 191499,
-      "name": "Marching Powder",
-      "url": "https://open.spotify.com/track/5z9i6jnaxzKbF7ujgb3uz9"
-    },
-    {
-      "added_at": "2026-07-30 22:02:36",
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/5ZP7RD3NOFLPg9wuq52C2q"
       },
@@ -1895,22 +1895,22 @@
     {
       "added_at": "2026-07-30 22:02:36",
       "album": {
-        "name": "Bella Ciao (Hard Techno Remix)",
-        "url": "https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF"
+        "name": "Data Corrupted",
+        "url": "https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H"
       },
       "artists": [
         {
-          "name": "Jayron",
-          "url": "https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9"
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
         },
         {
-          "name": "GEWOONRAVES",
-          "url": "https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8"
+          "name": "Kruelty",
+          "url": "https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD"
         }
       ],
-      "duration_ms": 218223,
-      "name": "Bella Ciao - Hard Techno Remix",
-      "url": "https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH"
+      "duration_ms": 147000,
+      "name": "Data Corrupted",
+      "url": "https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM"
     }
   ],
   "unique_name": "Hard Techno",

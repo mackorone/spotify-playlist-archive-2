@@ -2,7 +2,7 @@
 
 ### [Nederlandse Zomerhits 2026](https://open.spotify.com/playlist/37i9dQZF1DXcCQbOdQV38g)
 
-> Senna kiest haar 20 NL hits voor zomer ID 👑 hollandse zomerheld\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> Senna kiest 20 hits voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
 138 songs - 6 hr 29 min
 

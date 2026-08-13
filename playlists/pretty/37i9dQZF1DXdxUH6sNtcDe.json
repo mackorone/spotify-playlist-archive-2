@@ -1,12 +1,12 @@
 {
   "description": "A decade full of 00s country hits! Cover: Miranda Lambert",
-  "num_followers": 1001157,
+  "num_followers": 1001286,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOoww4jBw8MQ0ZoE7L9pTt5I4OPY",
+  "snapshot_id": "AAAAALjuUd6orcfEf5i4BmQTWx/Y7Sgp",
   "tracks": [
     {
       "added_at": "2026-06-02 19:14:03",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 290520,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "I'll Stay Me",
-        "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 242800,
-      "name": "All My Friends Say",
-      "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
@@ -1195,18 +1179,34 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
+        "name": "I'll Stay Me",
+        "url": "https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9"
       },
       "artists": [
         {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
+      "duration_ms": 242800,
+      "name": "All My Friends Say",
+      "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "I'm Gonna Getcha Good",
+      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 269400,
-      "name": "I'm Gonna Getcha Good",
-      "url": "https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag"
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Justin Moore",
-        "url": "https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj"
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
       "artists": [
         {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 218853,
-      "name": "Small Town USA",
-      "url": "https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl"
+      "duration_ms": 283000,
+      "name": "Forever And For Always",
+      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+        "name": "Justin Moore",
+        "url": "https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Forever And For Always",
-      "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
+      "duration_ms": 218853,
+      "name": "Small Town USA",
+      "url": "https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Play Something Country",
-      "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Tim McGraw And The Dancehall Doctors",
         "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 283560,
       "name": "Red Ragtop",
       "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Play Something Country",
+      "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw"
-      },
-      "artists": [
-        {
-          "name": "Steve Holy",
-          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Good Morning Beautiful",
-      "url": "https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Lady Antebellum",
         "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 230400,
       "name": "Love Don't Live Here",
       "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/3xivtrhzLC6LMEu9W56gvw"
+      },
+      "artists": [
+        {
+          "name": "Steve Holy",
+          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Good Morning Beautiful",
+      "url": "https://open.spotify.com/track/0eHT8N5YQglv8cYYizXvSw"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Brand New Girlfriend",
-        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
-      },
-      "artists": [
-        {
-          "name": "Steve Holy",
-          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Brand New Girlfriend",
-      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Dangerous Man",
         "url": "https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j"
       },
@@ -1875,18 +1859,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
-        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
+        "name": "Brand New Girlfriend",
+        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Steve Holy",
+          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Free And Easy (Down The Road I Go)",
-      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+      "duration_ms": 220186,
+      "name": "Brand New Girlfriend",
+      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1903,6 +1887,22 @@
       "duration_ms": 236000,
       "name": "Making Memories Of Us",
       "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
+        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Free And Easy (Down The Road I Go)",
+      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
     },
     {
       "added_at": "2026-06-02 19:14:03",

@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 253857,
+  "num_followers": 253874,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABPZq+HifIsv8BiWiGg0V/r",
+  "snapshot_id": "anpmAAAAAAAFwbeiPAsQUSkcrzA0TUnu",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Por Ti Me Casare",
+      "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Calma Apparente",
         "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 266666,
       "name": "I Belong to You (feat. Anastacia)",
       "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Por Ti Me Casare",
-      "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilolibre",
-        "url": "https://open.spotify.com/album/6czZYpDVUWanP8jHDNkdRb"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Un Angel No Es",
-      "url": "https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 (Spanish Version)",
         "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 276920,
       "name": "Un Segundo de Paz",
       "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estilolibre",
+        "url": "https://open.spotify.com/album/6czZYpDVUWanP8jHDNkdRb"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0"
     },
     {
       "added_at": null,

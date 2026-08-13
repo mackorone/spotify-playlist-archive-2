@@ -2,7 +2,7 @@
 
 ### [HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  🎶](https://open.spotify.com/playlist/2otQLmbi8QWHjDfq3eL0DC)
 
-> Get ready to dance with the best House Music! Featuring pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Fred Again.\. and more\. Perfect for clubbing, parties or just vibing\. Deep House, Tech House, Progressive House &amp; Disco House\. Updated Weekly! Like &amp; Save.
+> Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
 586 songs - 1 day 5 hr 27 min
 

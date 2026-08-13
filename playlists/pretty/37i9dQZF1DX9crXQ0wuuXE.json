@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 601361,
+  "num_followers": 601364,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqnHcmu9R4rmMJhZHSrguMXYkmv",
+  "snapshot_id": "AAAAABqfhf5L53PX0Dd8rLhMDpUulVN4",
   "tracks": [
     {
       "added_at": "2024-08-28 14:08:37",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "My Mother the Moon",
         "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 196173,
       "name": "Turntable",
       "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
     },
     {
       "added_at": "2024-08-28 14:08:37",

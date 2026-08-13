@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,994 likes - 62 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,121 likes - 62 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 61 | [Point Cabrillo](https://open.spotify.com/track/7BMhMh3hJl6zbduaOg963j) | [Lundegard](https://open.spotify.com/artist/7Bd7PURdGa6srlW6VRpTiV) | [Point Cabrillo](https://open.spotify.com/album/7JBETB6yPPZKETdNJZi3dy) | 3:10 |
 | 62 | [963hz The Pure Miracle Tone](https://open.spotify.com/track/5t8cXBBxKijQxbgr9ndWHt) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 2:51 |
 
-Snapshot ID: `AAAAADqbpycQIrt7cyj11p7PBX0aXEqs`
+Snapshot ID: `AAAAADqvHuxLIHSZPDZ9WPbM02ihx5Xd`

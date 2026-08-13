@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Nicholas Cangiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,767 likes - 77 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,774 likes - 77 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 76 | [bite](https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [bite](https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR) | 2:34 |
 | 77 | [PUSSY POP MUSIC](https://open.spotify.com/track/3pEoo55cSJ3GlUn4lJ9yg3) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [PUSSY POP MUSIC](https://open.spotify.com/album/1rsuwlWAGPwjI9oF1RCUkX) | 3:34 |
 
-Snapshot ID: `AAAAAPCiAQ58gjZLvgZ41WX+y8Ku6WCc`
+Snapshot ID: `AAAAAFgcJkQYHIXO1TvOFgTtArInOhrN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 
 > Alle oude party tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,524 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,545 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOb6VfKLO9H.md) - [plain]
 | 99 | [Laat Niet Los \(feat\. Jonna Fraser\)](https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Gouden Plaat](https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY) | 2:16 |
 | 100 | [Dragon Roll](https://open.spotify.com/track/2fCdtNreNptDAZnisSOLpX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Dragon Roll](https://open.spotify.com/album/4C8Gro390C1e2lTIgbprmN) | 2:36 |
 
-Snapshot ID: `AAAAAHg3rI1U+IcDuhxc+tqkHj8x5ql7`
+Snapshot ID: `AAAAAD2LJeG4DIZaL5Q+PqheLBgUoeek`

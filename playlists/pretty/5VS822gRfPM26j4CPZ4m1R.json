@@ -1,6 +1,6 @@
 {
   "description": "Playlist",
-  "num_followers": 18106,
+  "num_followers": 18105,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
@@ -3820,12 +3820,12 @@
       },
       "artists": [
         {
-          "name": "Luchii",
-          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
-        },
-        {
           "name": "Channo",
           "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
+        },
+        {
+          "name": "Luchii",
+          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
         }
       ],
       "duration_ms": 215327,
@@ -5088,10 +5088,6 @@
       },
       "artists": [
         {
-          "name": "Luchii",
-          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
-        },
-        {
           "name": "Channo",
           "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
         }
@@ -5107,10 +5103,6 @@
         "url": "https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL"
       },
       "artists": [
-        {
-          "name": "Luchii",
-          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
-        },
         {
           "name": "Channo",
           "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
@@ -5128,10 +5120,6 @@
       },
       "artists": [
         {
-          "name": "Luchii",
-          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
-        },
-        {
           "name": "Channo",
           "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
         }
@@ -5148,10 +5136,6 @@
       },
       "artists": [
         {
-          "name": "Luchii",
-          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
-        },
-        {
           "name": "Channo",
           "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
         }
@@ -5167,10 +5151,6 @@
         "url": "https://open.spotify.com/album/4RmQMoStr0tbs8ywNME8QL"
       },
       "artists": [
-        {
-          "name": "Luchii",
-          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
-        },
         {
           "name": "Channo",
           "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
@@ -9262,10 +9242,6 @@
         {
           "name": "Channo",
           "url": "https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7"
-        },
-        {
-          "name": "Luchii",
-          "url": "https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n"
         }
       ],
       "duration_ms": 191474,

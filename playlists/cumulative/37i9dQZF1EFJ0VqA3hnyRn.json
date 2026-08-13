@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/0JpzocLElGemkJ8i4SkgIO"
+      },
+      "artists": [
+        {
+          "name": "Elliot Sutton",
+          "url": "https://open.spotify.com/artist/3VPdb0Wshwc9Iwjv4wayhw"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66474,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6CtAFw1tojgxnK5TpaIZ8o"
+    },
+    {
+      "album": {
         "name": "Ain't Your Mama",
         "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
       },

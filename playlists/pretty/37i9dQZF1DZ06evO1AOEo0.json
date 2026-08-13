@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACH0PjM718Nwh4N/iuKu41Y",
+  "snapshot_id": "anpmAAAAAADCqaSAO9Z6jrvKeu+gyMx1",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalms, Vol. 2",
-        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
+        "name": "Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 325849,
-      "name": "Psalm 45 (Fairest of All)",
-      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
+      "duration_ms": 259013,
+      "name": "Praise to the Lord (Joyful, Joyful)",
+      "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
     },
     {
       "added_at": null,
@@ -703,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 1",
-        "url": "https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ"
+        "name": "Psalms, Vol. 2",
+        "url": "https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu"
       },
       "artists": [
-        {
-          "name": "The Worship Initiative",
-          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
-        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 279973,
-      "name": "Lord, I Need You",
-      "url": "https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL"
+      "duration_ms": 325849,
+      "name": "Psalm 45 (Fairest of All)",
+      "url": "https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns, Vol. 2",
-        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
+        "name": "The Worship Initiative, Vol. 1",
+        "url": "https://open.spotify.com/album/0QjjRF6uAOfTFr1Y6RHofZ"
       },
       "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
         }
       ],
-      "duration_ms": 259013,
-      "name": "Praise to the Lord (Joyful, Joyful)",
-      "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
+      "duration_ms": 279973,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/3rb16bvaqDbJxpAQMGYUcL"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 109778,
+  "num_followers": 109796,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIz/ZYDYapxb1li3R9b34A1w5coH",
+  "snapshot_id": "AAAAANR1lLuGE9380jnNHU7fNrmYAfBo",
   "tracks": [
     {
       "added_at": "2026-07-21 09:20:04",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-21 09:20:04",
       "album": {
-        "name": "Antologia, Vol. 5",
-        "url": "https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14"
-      },
-      "artists": [
-        {
-          "name": "Concha Piquer",
-          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "En tierra extra\u00f1a",
-      "url": "https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn"
-    },
-    {
-      "added_at": "2026-07-21 09:20:04",
-      "album": {
         "name": "Ni\u00f1a de fuego (Standard version)",
         "url": "https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 219640,
       "name": "La ni\u00f1a de fuego",
       "url": "https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu"
+    },
+    {
+      "added_at": "2026-07-21 09:20:04",
+      "album": {
+        "name": "Antologia, Vol. 5",
+        "url": "https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14"
+      },
+      "artists": [
+        {
+          "name": "Concha Piquer",
+          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "En tierra extra\u00f1a",
+      "url": "https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn"
     },
     {
       "added_at": "2026-07-21 09:20:04",

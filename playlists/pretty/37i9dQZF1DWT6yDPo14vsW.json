@@ -1,12 +1,12 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? ",
-  "num_followers": 353317,
+  "num_followers": 353335,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFl2soYyAZkMTRV/FZaWyICByyKS",
+  "snapshot_id": "AAAAAKt0avjlbhntjAyOnD+JIx3wpCpW",
   "tracks": [
     {
       "added_at": "2026-06-12 03:00:29",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-06-12 03:00:29",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
-      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
-    },
-    {
-      "added_at": "2026-06-12 03:00:29",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 279000,
       "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
       "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2026-06-12 03:00:29",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Me Va a Extra\u00f1ar (Unchain My Heart)",
+      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
     },
     {
       "added_at": "2026-06-12 03:00:29",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-12 03:00:29",
       "album": {
-        "name": "40 A\u00f1os",
-        "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 291946,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X"
-    },
-    {
-      "added_at": "2026-06-12 03:00:29",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 218106,
       "name": "Es Mejor As\u00ed (feat. Reik) - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt"
+    },
+    {
+      "added_at": "2026-06-12 03:00:29",
+      "album": {
+        "name": "40 A\u00f1os",
+        "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 291946,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X"
     },
     {
       "added_at": "2026-06-12 03:00:29",

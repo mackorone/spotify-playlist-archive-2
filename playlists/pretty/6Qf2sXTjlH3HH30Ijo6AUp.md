@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 ### [100 Uplifting Songs](https://open.spotify.com/playlist/6Qf2sXTjlH3HH30Ijo6AUp)
 
-> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! A good playlist for pickme pop, feel good pop, and other positive music to boost your mood!
+> Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! An affirmation song collection full of heartfelt, lovely moments, high vibrational energy and strong songs that make you feel unstoppable.
 
-[Topsify](https://open.spotify.com/user/topsify) - 466,403 likes - 100 songs - 5 hr 54 min
+[Topsify](https://open.spotify.com/user/topsify) - 466,347 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 100 | [Hung Up \- Radio Version](https://open.spotify.com/track/03UAID5OeTwjDIKCM7M3rg) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hung Up](https://open.spotify.com/album/1dmQel6nwsXe3lDJyL2EXQ) | 3:22 |
 
-Snapshot ID: `AAAJLHJxuxb6ThLIflertW2kCgWie0ap`
+Snapshot ID: `AAAJLY3ZkeIEvGIcIxjTcWvajnj/J6Gr`

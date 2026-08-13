@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51509,
+  "num_followers": 51517,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAB82aMRSbaelS0QHXVlp5iP",
+  "snapshot_id": "anpmAAAAAAAHtj2VezBa28Scm7yuZ6u0",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        }
+      ],
+      "duration_ms": 301466,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como En El Cielo",
         "url": "https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL"
       },
@@ -375,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Amor No Tiene Fin",
-        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        }
-      ],
-      "duration_ms": 301466,
-      "name": "Danzando",
-      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ah\u00ed Est\u00e1s T\u00fa",
         "url": "https://open.spotify.com/album/2K5rtCHSjK6ndYbdkN49oU"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 356200,
       "name": "Ah\u00ed Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/5BcAuMkQLkmh1V4NWtJA7q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 446302,
+      "name": "Con Brazos Abiertos - En Vivo",
+      "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
       "duration_ms": 749184,
       "name": "Sana Nuestra Naci\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 446302,
-      "name": "Con Brazos Abiertos - En Vivo",
-      "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 214465,
+      "name": "Lo Perd\u00ed Todo - En Vivo",
+      "url": "https://open.spotify.com/track/1CiN6OT93p98d1DOcvgoJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 341208,
       "name": "Es por Fe - En Vivo",
       "url": "https://open.spotify.com/track/3V10K6i8e0LSTybqb5NpWb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 214465,
-      "name": "Lo Perd\u00ed Todo - En Vivo",
-      "url": "https://open.spotify.com/track/1CiN6OT93p98d1DOcvgoJ0"
     },
     {
       "added_at": null,
@@ -579,6 +579,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Stefy Espinosa",
+          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Si T\u00fa Est\u00e1s Conmigo - En Vivo",
+      "url": "https://open.spotify.com/track/5RJ22zADrNKHYZjFB4718o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
@@ -607,8 +635,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salmo 34",
-        "url": "https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Nunca Me Avergonzar\u00e9",
+      "url": "https://open.spotify.com/track/3RHcgn1rUBLbyOpVjouGra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqu\u00ed En Tu Presencia",
+        "url": "https://open.spotify.com/album/2Gf51jWTYj7DfKmnf3JQKj"
       },
       "artists": [
         {
@@ -626,51 +670,7 @@
       ],
       "duration_ms": 252977,
       "name": "Salmo 34",
-      "url": "https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Nunca Me Avergonzar\u00e9",
-      "url": "https://open.spotify.com/track/3RHcgn1rUBLbyOpVjouGra"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        },
-        {
-          "name": "Stefy Espinosa",
-          "url": "https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Si T\u00fa Est\u00e1s Conmigo - En Vivo",
-      "url": "https://open.spotify.com/track/5RJ22zADrNKHYZjFB4718o"
+      "url": "https://open.spotify.com/track/6vdRyO5FAmRLECLdnznm3n"
     },
     {
       "added_at": null,
@@ -786,11 +786,19 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 388853,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria",
+      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
     },
     {
       "added_at": null,
@@ -878,19 +886,11 @@
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 389946,
-      "name": "La Nube De Tu Gloria",
-      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
+      "duration_ms": 388853,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
     },
     {
       "added_at": null,

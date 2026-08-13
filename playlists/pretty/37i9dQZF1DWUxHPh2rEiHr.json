@@ -1,12 +1,12 @@
 {
   "description": "Discover rhythmic crossover hits from cultures around the world. Cover: KAROL G & Bruno Mars",
-  "num_followers": 503774,
+  "num_followers": 503784,
   "original_name": "Global X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMi9/PVZPe0sojQmQg+YIZxvqCTG",
+  "snapshot_id": "AAAAAIEXFisaeaTcclYAkpLBlwdijqAU",
   "tracks": [
     {
       "added_at": "2026-08-07 09:42:57",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -427,38 +427,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "L'undertaker, Pt. 1",
-        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
-      },
-      "artists": [
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
       },
@@ -479,6 +447,22 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "L'undertaker, Pt. 1",
+        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1199,30 +1199,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "TATTUU",
-        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 194734,
-      "name": "TATTUU",
-      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "CHICA 305",
         "url": "https://open.spotify.com/album/5WKnVOiGYqy9Aqva01ttB2"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 188263,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "EPA (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/1UdIETjUPNwCRaYRrELqM7"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "EPA - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/1vdR1ypNFyVBl74HRCTvOg"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 157500,
       "name": "Olvidarte (feat. Emilia)",
       "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "EPA (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/1UdIETjUPNwCRaYRrELqM7"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "EPA - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/1vdR1ypNFyVBl74HRCTvOg"
     },
     {
       "added_at": "2026-08-07 09:42:57",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-08-07 09:42:57",
       "album": {
-        "name": "Read My Lips",
-        "url": "https://open.spotify.com/album/40Tfi2xTxSH3zZwc5rhmNO"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 286243,
-      "name": "Read My Lips",
-      "url": "https://open.spotify.com/track/7AVgW1nx2D96joVhDxXIvG"
-    },
-    {
-      "added_at": "2026-08-07 09:42:57",
-      "album": {
         "name": "DAISY",
         "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 205881,
       "name": "LIAR?",
       "url": "https://open.spotify.com/track/6AOQxwQWLrsG6wBZuRF4K4"
+    },
+    {
+      "added_at": "2026-08-07 09:42:57",
+      "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/40Tfi2xTxSH3zZwc5rhmNO"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 286243,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/7AVgW1nx2D96joVhDxXIvG"
     },
     {
       "added_at": "2026-08-07 09:42:57",

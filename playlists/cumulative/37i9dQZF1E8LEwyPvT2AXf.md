@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
 
-> With Adele, James Arthur, Billie Eilish and more
+> With Adele, Billie Eilish, Bruno Mars and more
 
 1,269 songs - 3 day 8 hr 5 min
 
@@ -1192,8 +1192,8 @@
 | [When I Was Your Man](https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:33 | 2021-04-13\* | 2024-03-06 |
 | [When I Was Your Man](https://open.spotify.com/track/1NMbrXCWkRrbT11KCu3a1E) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Riptide \- Acoustic Hits](https://open.spotify.com/album/4WbUpcP8PHPiRQ1Ch2AcAM) | 3:33 | 2022-11-12 | 2022-11-13 |
 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 | 2023-03-25 |  |
-| [When We Were Young](https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:50 | 2024-04-19 | 2026-08-12 |
-| [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 | 2022-01-30 |  |
+| [When We Were Young](https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:50 | 2024-04-19 |  |
+| [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 | 2022-01-30 | 2026-08-13 |
 | [When We Were Young \- Acoustic Version](https://open.spotify.com/track/118Y7quq16kBeHmCR2dQ0d) | [John Lundvik](https://open.spotify.com/artist/11LbPHLi2sCqOVjknt0jmW) | [When We Were Young \(Acoustic Version\)](https://open.spotify.com/album/4UEflkcJLDZ7Nu0tB6YHFT) | 4:46 | 2022-05-11 | 2022-05-12 |
 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 | 2024-03-04 | 2024-03-05 |
 | [When You Go Away](https://open.spotify.com/track/1NliBdhzDhfvCUmEhe9z7F) | [Annalisa Andreoli](https://open.spotify.com/artist/3dVRUnUu8Ys3KpLHRV3E6R) | [When You Go Away](https://open.spotify.com/album/5H6srxLENr5I7YPdfytX5z) | 3:37 | 2022-05-05 | 2022-05-25 |

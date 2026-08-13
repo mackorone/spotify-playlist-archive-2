@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 740772,
+  "num_followers": 740785,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAAWMCNaugCGxQHpLLipxMSz",
+  "snapshot_id": "anpmAAAAAAANZ3VoxdoXi13XWXk4mVLt",
   "tracks": [
     {
       "added_at": null,
@@ -159,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THAT GUY",
-        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 167533,
-      "name": "THAT GUY",
-      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
+      "duration_ms": 194933,
+      "name": "Where This Flower Blooms (feat. Frank Ocean)",
+      "url": "https://open.spotify.com/track/6KuXb26rHuRy3ZDse1VRmx"
     },
     {
       "added_at": null,
@@ -195,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+        "name": "THAT GUY",
+        "url": "https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 194933,
-      "name": "Where This Flower Blooms (feat. Frank Ocean)",
-      "url": "https://open.spotify.com/track/6KuXb26rHuRy3ZDse1VRmx"
+      "duration_ms": 167533,
+      "name": "THAT GUY",
+      "url": "https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: The Durutti Column
 
-490 songs - 1 day 7 hr 38 min
+491 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-14 | 2024-12-26 |
 | [Midas](https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R) | 2:18 | 2024-06-14 | 2025-03-22 |
 | [Mild To Moderate Pain](https://open.spotify.com/track/6AxlvreGHDqoo0aVeVCmTK) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Mild To Moderate Pain](https://open.spotify.com/album/4XF8dYSOGW5Xdy8x5CfOm3) | 3:15 | 2025-03-21 | 2025-05-24 |
-| [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 | 2025-10-02 |  |
+| [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 | 2025-10-02 | 2026-08-13 |
 | [Mockingjay](https://open.spotify.com/track/22hjpM2j5KWg7zNyve4T1g) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Mockingjay](https://open.spotify.com/album/2vuLW3TUCDbcikyzgITy6o) | 3:01 | 2025-09-11 | 2025-10-03 |
 | [Monroe](https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Monroe](https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ) | 3:40 | 2026-06-25 |  |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-14 | 2025-02-25 |
@@ -417,6 +417,7 @@
 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 | 2026-01-12 |  |
 | [The Beginning](https://open.spotify.com/track/3PsP2bLvLmdm3zmS7ZBWsj) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Beginning](https://open.spotify.com/album/5zvOWFaWR8NcgabR34oVnu) | 3:31 | 2024-06-14 | 2025-05-24 |
 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 | 2024-06-14 | 2025-02-16 |
+| [The Ever After](https://open.spotify.com/track/5kop1pa4mJso9v6Uz9wvNf) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [The Ever After](https://open.spotify.com/album/6mlnFCmVsUFI9ZeAesrogh) | 5:18 | 2026-07-31 |  |
 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 | 2026-04-30 |  |
 | [The Fun Of It](https://open.spotify.com/track/0sZiA8PyKTcp1uijfYKE7l) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h), [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [The Fun Of It](https://open.spotify.com/album/5GGexOrSca2hpeBUXgdj3K) | 3:37 | 2024-10-06 | 2024-10-16 |
 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-11 |  |

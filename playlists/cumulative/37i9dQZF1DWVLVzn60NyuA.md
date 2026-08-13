@@ -2,7 +2,7 @@
 
 ### [Summer Vibes](https://open.spotify.com/playlist/37i9dQZF1DWVLVzn60NyuA)
 
-> Frsh kiest zijn 20 tunes\. zomer ID: 🕶️ main character summer\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> Frsh kiest 20 tunes voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
 612 songs - 1 day 7 hr 59 min
 

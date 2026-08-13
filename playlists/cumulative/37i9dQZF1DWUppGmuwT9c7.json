@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De grootste hits uit de kroeg in \u00e9\u00e9n playlist.",
+  "description": "De grootste hits uit de kroeg in \u00e9\u00e9n playlist. <a href=\"spotify:presents:jouwzomerid\">Doe de quiz voor jouw zomer aanbevelingen!</a>",
   "name": "Kroegenhits 2026",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
@@ -380,6 +380,24 @@
       "duration_ms": 207304,
       "name": "Avond 2.0",
       "url": "https://open.spotify.com/track/0UPpBlT845lAeL3shnNL0o"
+    },
+    {
+      "album": {
+        "name": "Bachata Bailando",
+        "url": "https://open.spotify.com/album/1rUhjbgiVbhJNFYnoofqDg"
+      },
+      "artists": [
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163775,
+      "name": "Bachata Bailando",
+      "url": "https://open.spotify.com/track/7IJUXmc1DOzjxLZlxKZgXm"
     },
     {
       "album": {
@@ -833,7 +851,7 @@
     },
     {
       "album": {
-        "name": "De Tent Moet Op Z'n Kop",
+        "name": "De Tent Moet Op Z'n Kop (NL Versie)",
         "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
       },
       "artists": [
@@ -846,7 +864,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157613,
-      "name": "De Tent Moet Op Z'n Kop",
+      "name": "De Tent Moet Op Z'n Kop - NL Versie",
       "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
     },
     {
@@ -1220,6 +1238,28 @@
       "duration_ms": 135376,
       "name": "Fiesta Escalada",
       "url": "https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe"
+    },
+    {
+      "album": {
+        "name": "Fissaman's Friend",
+        "url": "https://open.spotify.com/album/01rR0r7etBk96z86dkwOXk"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Fissaman\u2019s Friend",
+      "url": "https://open.spotify.com/track/3tvMPPSySL0hqIPRk5Exwq"
     },
     {
       "album": {
@@ -2360,7 +2400,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 158918,
       "name": "Losse Pols",
       "url": "https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu"
@@ -2596,7 +2636,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 186367,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW"
@@ -4036,6 +4076,24 @@
       "duration_ms": 152285,
       "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
       "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+    },
+    {
+      "album": {
+        "name": "Zomer, Zon & Strand",
+        "url": "https://open.spotify.com/album/2O6tC1RM3TFSiFVAR994bB"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Zomer, Zon & Strand",
+      "url": "https://open.spotify.com/track/7wW2at3WOw80r8S0r2Mtkw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26680,
+  "num_followers": 26679,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEGY6Xaj78FpX8GoL+V69s/d2/yV",
+  "snapshot_id": "AAAAAI3CjcYwBBJk9uA0wuSPzaqXRZ5v",
   "tracks": [
     {
       "added_at": "2026-05-08 04:10:15",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "KiLL iT QUEEN",
-        "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "KiLL iT QUEEN",
-      "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Criminal (From the Original Motion Picture Scream 7)",
         "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 199305,
       "name": "Criminal - From the Original Motion Picture Scream 7",
       "url": "https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "KiLL iT QUEEN",
+        "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "KiLL iT QUEEN",
+      "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "No Haav No Love",
-        "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
+        "name": "Syd\u00e4n (feat. Alina Burnet)",
+        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
       },
       "artists": [
         {
@@ -1140,13 +1140,13 @@
           "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         },
         {
-          "name": "Rajaton",
-          "url": "https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR"
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
         }
       ],
-      "duration_ms": 277174,
-      "name": "Monsteri (feat. Rajaton)",
-      "url": "https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr"
+      "duration_ms": 225061,
+      "name": "Syd\u00e4n (feat. Alina Burnet)",
+      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Syd\u00e4n (feat. Alina Burnet)",
-        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
+        "name": "No Haav No Love",
+        "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
       },
       "artists": [
         {
@@ -1232,13 +1232,13 @@
           "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
         },
         {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+          "name": "Rajaton",
+          "url": "https://open.spotify.com/artist/3ZfVp9mvvJt4Zly7lxgcaR"
         }
       ],
-      "duration_ms": 225061,
-      "name": "Syd\u00e4n (feat. Alina Burnet)",
-      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
+      "duration_ms": 277174,
+      "name": "Monsteri (feat. Rajaton)",
+      "url": "https://open.spotify.com/track/0l9pXT5uurCBaUBjiCSwnr"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "El\u00e4m\u00e4 jatkuu",
-        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
-      },
-      "artists": [
-        {
-          "name": "Roosa",
-          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "El\u00e4m\u00e4 jatkuu",
-      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Heart Said No",
         "url": "https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 202800,
       "name": "Heart Said No",
       "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "El\u00e4m\u00e4 jatkuu",
+        "url": "https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u"
+      },
+      "artists": [
+        {
+          "name": "Roosa",
+          "url": "https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "El\u00e4m\u00e4 jatkuu",
+      "url": "https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt"
     },
     {
       "added_at": "2026-05-08 04:10:15",

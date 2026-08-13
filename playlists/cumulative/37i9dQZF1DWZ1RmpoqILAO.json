@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "7xover",
+        "url": "https://open.spotify.com/album/4cP0zLpzYuZNDnyPPd7xIf"
+      },
+      "artists": [
+        {
+          "name": "Dogwood Tales",
+          "url": "https://open.spotify.com/artist/0DayBebjy093KRzvtkz9S5"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221616,
+      "name": "7xover",
+      "url": "https://open.spotify.com/track/3vQkrLHgIRTJnL50AUKJpD"
+    },
+    {
+      "album": {
         "name": ":)",
         "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
       },
@@ -4258,6 +4276,24 @@
       "duration_ms": 251153,
       "name": "Not My Body",
       "url": "https://open.spotify.com/track/2JterjxLlyT5hgIXkhcfiH"
+    },
+    {
+      "album": {
+        "name": "OBL",
+        "url": "https://open.spotify.com/album/6aIKYDxZ3LColObdsIySuu"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244483,
+      "name": "OBL",
+      "url": "https://open.spotify.com/track/7AzkPpumtKrbTwYjzFftkd"
     },
     {
       "album": {

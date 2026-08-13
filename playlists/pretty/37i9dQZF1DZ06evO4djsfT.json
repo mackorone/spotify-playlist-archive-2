@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29020,
+  "num_followers": 29021,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAACGcVjOTy+GNvGTrZiMLgu7",
+  "snapshot_id": "anpmAAAAAABuWPtX25v47NP6Nz1xMxqw",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
         },
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 161856,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
+      "duration_ms": 179527,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
     },
     {
       "added_at": null,
@@ -311,26 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yes",
-        "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
       "artists": [
         {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        },
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         }
       ],
-      "duration_ms": 179527,
-      "name": "Yes",
-      "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
+      "duration_ms": 161856,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
     },
     {
       "added_at": null,
@@ -355,22 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+        "name": "American Prodigal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         },
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 170761,
-      "name": "Who the Son Sets Free",
-      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
+      "duration_ms": 156480,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
     },
     {
       "added_at": null,
@@ -399,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Prodigal (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
       "artists": [
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Prove It",
-      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
+      "duration_ms": 170761,
+      "name": "Who the Son Sets Free",
+      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
     },
     {
       "added_at": null,
@@ -799,26 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go Let God: The EP",
-        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA"
       },
       "artists": [
         {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+          "name": "Carly Ann Taylor",
+          "url": "https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4"
         },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 185441,
-      "name": "Let Go Let God (The Anthem)",
-      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+      "duration_ms": 213278,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB"
     },
     {
       "added_at": null,
@@ -855,22 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
       },
       "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 219242,
-      "name": "100",
-      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
+      "duration_ms": 185441,
+      "name": "Let Go Let God (The Anthem)",
+      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wholehearted",
-        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
+        "name": "100",
+        "url": "https://open.spotify.com/album/7BQy4Rm4CRWGyBKei9CJFv"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 182095,
-      "name": "Wholehearted",
-      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+      "duration_ms": 219242,
+      "name": "100",
+      "url": "https://open.spotify.com/track/30lW7sca9vsJThBCifkwGo"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wholehearted",
+        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 182095,
+      "name": "Wholehearted",
+      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 170118,
       "name": "One Day",
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA"
-      },
-      "artists": [
-        {
-          "name": "Carly Ann Taylor",
-          "url": "https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 213278,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB"
     },
     {
       "added_at": null,

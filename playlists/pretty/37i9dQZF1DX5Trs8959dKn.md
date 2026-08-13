@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,267 likes - 50 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,297 likes - 50 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 46 | [Accolades](https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Accolades](https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm) | 2:38 |
 | 47 | [Holy Holy](https://open.spotify.com/track/3c59MimChLvVDK5cVccW2p) | [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Yahwey](https://open.spotify.com/album/65h9sRcIJ4yJNNtG99CQ3x) | 8:00 |
 | 48 | [Covenant Keeping God](https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 3:10 |
-| 49 | [He Is Here \(Live\)](https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Here \(Live\)](https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1) | 11:41 |
-| 50 | [You Always Win](https://open.spotify.com/track/7IXDG5wWAC7TqoWAddT5rx) | [Wura Mercé](https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN), [kaestrings](https://open.spotify.com/artist/5hlVZgd2B5vV6CAViKZT9l) | [You Always Win](https://open.spotify.com/album/3bNnM2VEM979HyZF40JxKh) | 4:13 |
+| 49 | [You Always Win](https://open.spotify.com/track/7IXDG5wWAC7TqoWAddT5rx) | [Wura Mercé](https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN), [kaestrings](https://open.spotify.com/artist/5hlVZgd2B5vV6CAViKZT9l) | [You Always Win](https://open.spotify.com/album/3bNnM2VEM979HyZF40JxKh) | 4:13 |
+| 50 | [He Is Here \(Live\)](https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Here \(Live\)](https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1) | 11:41 |
 
-Snapshot ID: `AAAAAKShV+Q66uxHJnWeYQvCqb3CVtSU`
+Snapshot ID: `AAAAAL7+gTv79RLwKJWY61sV+K0z/Na9`

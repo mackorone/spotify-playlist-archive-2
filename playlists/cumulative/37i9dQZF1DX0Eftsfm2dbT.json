@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 102000,
       "name": "Agari",
       "url": "https://open.spotify.com/track/61iwmK5ZL9tq1IjDuqDPoO"
@@ -8214,7 +8214,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 146363,
       "name": "BOSSY",
       "url": "https://open.spotify.com/track/5wOxQF8gCRiuQqmiJgqw6O"
@@ -8486,7 +8486,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 195164,
       "name": "Broadcasting (feat. \u67ca\u4eba & \u30b8\u30a7\u30ed\u30cb\u30e2R.E)",
       "url": "https://open.spotify.com/track/0JEokvdguGQSOu2rcsk2xt"
@@ -10810,7 +10810,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 230059,
       "name": "CONCRETE (feat. NIPPS)",
       "url": "https://open.spotify.com/track/5zq8WP682JLtvsGbSDm3Te"
@@ -17446,7 +17446,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 197413,
       "name": "Fukamachi Park (feat. Tamaki Roy)",
       "url": "https://open.spotify.com/track/5EbzY5ArroENDwXt1DPaqK"
@@ -24029,6 +24029,28 @@
     },
     {
       "album": {
+        "name": "SMOKE TAPE",
+        "url": "https://open.spotify.com/album/3NcbCb7EeW3FaRDNf75Q5Z"
+      },
+      "artists": [
+        {
+          "name": "Luv Smoke",
+          "url": "https://open.spotify.com/artist/07arAOkylI2CWolHio4bEx"
+        },
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Jealous Talk (feat. Deech)",
+      "url": "https://open.spotify.com/track/2RnYIuUxljbuRJ6OCj6Uc5"
+    },
+    {
+      "album": {
         "name": "Jerry",
         "url": "https://open.spotify.com/album/2Eov92b0QSSv1JziM9mT5Q"
       },
@@ -27782,7 +27804,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 107012,
       "name": "loose",
       "url": "https://open.spotify.com/track/7DxADWPzkfFc2RFEVADHm7"
@@ -29769,6 +29791,28 @@
     },
     {
       "album": {
+        "name": "Meguru",
+        "url": "https://open.spotify.com/album/1Wan0re0RhJ5oCvxRbJdLB"
+      },
+      "artists": [
+        {
+          "name": "peko",
+          "url": "https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg"
+        },
+        {
+          "name": "Mummy-D",
+          "url": "https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239224,
+      "name": "Meguru",
+      "url": "https://open.spotify.com/track/7jCZshKutpzEp4Kh9QBsTT"
+    },
+    {
+      "album": {
         "name": "MEISO",
         "url": "https://open.spotify.com/album/4xz0crPytHXtYPWgCFlVDC"
       },
@@ -30522,6 +30566,24 @@
       "duration_ms": 193032,
       "name": "MIYAGI (feat. M3R)",
       "url": "https://open.spotify.com/track/4C2Kt0zBbWkcT8ZuxXrqde"
+    },
+    {
+      "album": {
+        "name": "Moeru",
+        "url": "https://open.spotify.com/album/2cLtPe0h9p5YTE4fHTNKoW"
+      },
+      "artists": [
+        {
+          "name": "FANI",
+          "url": "https://open.spotify.com/artist/7KsWPNNxVKsPuzFiFqipjL"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163906,
+      "name": "Moeru",
+      "url": "https://open.spotify.com/track/5QHIsR6VaoitVfRguzKsCl"
     },
     {
       "album": {
@@ -37034,7 +37096,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 113885,
       "name": "Parmesan",
       "url": "https://open.spotify.com/track/7vYJ109hFVoVJJPhBO8cgs"
@@ -37999,6 +38061,24 @@
     },
     {
       "album": {
+        "name": "HIPHOP SUMMIT",
+        "url": "https://open.spotify.com/album/6cYZXfqMa3lJzX6nrhOyS9"
+      },
+      "artists": [
+        {
+          "name": "Eric.B.Jr",
+          "url": "https://open.spotify.com/artist/5iiCEORKky6Ecc38uEUXX0"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/6cPe9Ij2aklz3x9kPDmVqB"
+    },
+    {
+      "album": {
         "name": "N side",
         "url": "https://open.spotify.com/album/1EEHfjFjdGOyo2SZQaASEw"
       },
@@ -38286,7 +38366,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 166103,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/4GtDvVyR8M9KwV0wOZM3rj"
@@ -38546,7 +38626,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 135965,
       "name": "Punch In (feat. \u00a5urg)",
       "url": "https://open.spotify.com/track/0Y7ZB2J0QFKSez0IjMfKBs"
@@ -45979,6 +46059,24 @@
     },
     {
       "album": {
+        "name": "Still loading",
+        "url": "https://open.spotify.com/album/53pynlfnbI9QWZQMVb8Sb8"
+      },
+      "artists": [
+        {
+          "name": "It-Works",
+          "url": "https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123245,
+      "name": "Still loading",
+      "url": "https://open.spotify.com/track/5aZrPIsqiFyEquMM9I9rK0"
+    },
+    {
+      "album": {
         "name": "Still Tippin' Freestyle",
         "url": "https://open.spotify.com/album/0WPd3eXS3isXu6krsVn0Vg"
       },
@@ -48478,7 +48576,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 160800,
       "name": "they be like tryin so hard",
       "url": "https://open.spotify.com/track/1AARgXUSkuvk726ii5wco9"
@@ -53108,7 +53206,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 274879,
       "name": "Welcome to IBP (feat. D.D.S THE SUKE)",
       "url": "https://open.spotify.com/track/5QRmGWSjtOi2jyJm6AAe7V"
@@ -59240,7 +59338,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 143853,
       "name": "\u5742\u9053",
       "url": "https://open.spotify.com/track/33Zpk3Czzk4vLhwDNOqI3o"
@@ -59846,7 +59944,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 252557,
       "name": "\u624b",
       "url": "https://open.spotify.com/track/0w05oaujOC8EApPpkLbkY3"
@@ -60674,6 +60772,48 @@
       "duration_ms": 216937,
       "name": "\u7425\u73c0\u8272\u306e\u771f\u7406",
       "url": "https://open.spotify.com/track/50AggpwaGmqCAQygY7bioE"
+    },
+    {
+      "album": {
+        "name": "\u751f\u7269\u30de\u30ca\u30fc",
+        "url": "https://open.spotify.com/album/6Y8lSFicTWkwTg35urSYgx"
+      },
+      "artists": [
+        {
+          "name": "\u6885\u7530\u30b5\u30a4\u30d5\u30a1\u30fc",
+          "url": "https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2"
+        },
+        {
+          "name": "KZ",
+          "url": "https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8"
+        },
+        {
+          "name": "R-Shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        },
+        {
+          "name": "TAKE-M",
+          "url": "https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL"
+        },
+        {
+          "name": "KennyDoes",
+          "url": "https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc"
+        },
+        {
+          "name": "ILL SWAG GAGA",
+          "url": "https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc"
+        },
+        {
+          "name": "KBD",
+          "url": "https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296207,
+      "name": "\u751f\u7269\u30de\u30ca\u30fc",
+      "url": "https://open.spotify.com/track/5z7ULIyiiyOIrI1eGVXzJQ"
     },
     {
       "album": {
@@ -61588,7 +61728,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 167000,
       "name": "\u9670\u8b00\u8ad6",
       "url": "https://open.spotify.com/track/6CbvI8hCb37ZdpB0RmmxIu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 
 > The biggest songs in Latin America in 2016\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,798 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,810 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 | 49 | [Un Amor de Verdad](https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:32 |
 | 50 | [Embriágame \(feat\. Don Omar\) \- Remix](https://open.spotify.com/track/1WOJTQfNUEkLlsinPP95VM) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:50 |
 
-Snapshot ID: `AAAAAIv5P4RXyL2rt+02I+LyUcqr4jYV`
+Snapshot ID: `AAAAACEsfsIFhSJvbu/AGB74mno6u/uM`

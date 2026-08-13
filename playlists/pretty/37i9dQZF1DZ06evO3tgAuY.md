@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,441 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,442 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 14 | [PVTIVUELTA](https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [PVTIVUELTA](https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E) | 2:23 |
 | 15 | [No Fue Suerte](https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [No Fue Suerte](https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m) | 2:40 |
 | 16 | [AMSTRDM](https://open.spotify.com/track/2b6dun7rRHWyNy1qr5iQBV) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [AMSTRDM](https://open.spotify.com/album/1ofQJpWN8JjJRST6hGcwNI) | 2:37 |
-| 17 | [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 |
-| 18 | [La Corona](https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Corona](https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN) | 1:59 |
+| 17 | [La Corona](https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Corona](https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN) | 1:59 |
+| 18 | [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 |
 | 19 | [Bien Jalisco](https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Bien Jalisco](https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez) | 2:24 |
 | 20 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 |
 | 21 | [Romeo y Julieta](https://open.spotify.com/track/0fRVzm2ywVCBYobvnVBct1) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [Romeo y Julieta](https://open.spotify.com/album/0JJY1h8OqvSrKRpAV6BgRS) | 2:32 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 27 | [Richie Rich \- En Vivo](https://open.spotify.com/track/76riIUqicpsvEGQhMBRQcK) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Richie Rich \(En Vivo\)](https://open.spotify.com/album/4tDTE2gaLPGeIoN2QzW8zi) | 2:52 |
 | 28 | [BIEN PEDO](https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [MASARYK / BIEN PEDO](https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW) | 2:26 |
 | 29 | [Mi Credo](https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mi Credo](https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY) | 2:07 |
-| 30 | [BELIKBOY](https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [BELIKBOY](https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc) | 2:45 |
-| 31 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 |
+| 30 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 |
+| 31 | [BELIKBOY](https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [BELIKBOY](https://open.spotify.com/album/29d6vGC4S46MULWDxG6WEc) | 2:45 |
 | 32 | [BELICLOVE](https://open.spotify.com/track/7nAOK2nmjAJOixiF7Dd2UT) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [BELICLOVE](https://open.spotify.com/album/02WCLBD9m0CE59VM6eS7yk) | 2:40 |
 | 33 | [SI MUERO MAÑANA](https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:33 |
 | 34 | [Plastic Bombastic](https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Plastic Bombastic](https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 49 | [FLAKA MORENA](https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:34 |
 | 50 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
 
-Snapshot ID: `ankUgAAAAAAzuump6S2aynaLxRDlMnIY`
+Snapshot ID: `anpmAAAAAABQYkcWEAfyCnP4SVyP4q3N`

@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 99261,
+  "num_followers": 99256,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHKqvLUcPpHH3cgkrCFMZCOZnvFW",
+  "snapshot_id": "AAAAAFPCwBWk/co67Whc7whGbl2TT6kq",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Saying Things",
-        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Fremont",
-          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Saying Things",
-      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "So Flows The Current",
         "url": "https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 289280,
       "name": "Beyond This Moment",
       "url": "https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Saying Things",
+        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Fremont",
+          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Saying Things",
+      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Whirling sky",
+        "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
+      },
+      "artists": [
+        {
+          "name": "Tamara Blake",
+          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
+        }
+      ],
+      "duration_ms": 169874,
+      "name": "Whirling sky",
+      "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Hungarian Dances / Waltzes, Op. 39",
         "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Whirling sky",
-        "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
-      },
-      "artists": [
-        {
-          "name": "Tamara Blake",
-          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
-        }
-      ],
-      "duration_ms": 169874,
-      "name": "Whirling sky",
-      "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "In a Bar in Buenos Aires",
         "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "A Place To Hide",
-        "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
-      },
-      "artists": [
-        {
-          "name": "Boil The Ocean",
-          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
-        }
-      ],
-      "duration_ms": 147507,
-      "name": "A Place To Hide",
-      "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Beyond The Sun",
         "url": "https://open.spotify.com/album/1ZzfWQIwgAn0AHZVATRg6V"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 224705,
       "name": "For A Lifetime",
       "url": "https://open.spotify.com/track/2kLoezsd7CkFEpQ3rMmczk"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "A Place To Hide",
+        "url": "https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F"
+      },
+      "artists": [
+        {
+          "name": "Boil The Ocean",
+          "url": "https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI"
+        }
+      ],
+      "duration_ms": 147507,
+      "name": "A Place To Hide",
+      "url": "https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Valse pour Johann",
-        "url": "https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd"
-      },
-      "artists": [
-        {
-          "name": "Fjellson Weber",
-          "url": "https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2"
-        }
-      ],
-      "duration_ms": 145075,
-      "name": "Valse pour Johann",
-      "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 145533,
       "name": "Dream in Eb",
       "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Valse pour Johann",
+        "url": "https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd"
+      },
+      "artists": [
+        {
+          "name": "Fjellson Weber",
+          "url": "https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2"
+        }
+      ],
+      "duration_ms": 145075,
+      "name": "Valse pour Johann",
+      "url": "https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Truly Yours",
-        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
-      },
-      "artists": [
-        {
-          "name": "Eamonn Watt",
-          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
-        }
-      ],
-      "duration_ms": 185775,
-      "name": "Truly Yours",
-      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Relaxing Piano (Neoclassical Sessions)",
         "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
+        "name": "Truly Yours",
+        "url": "https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7"
       },
       "artists": [
         {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+          "name": "Eamonn Watt",
+          "url": "https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
+      "duration_ms": 185775,
+      "name": "Truly Yours",
+      "url": "https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -959,18 +943,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "The Sacred Self",
-        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
       },
       "artists": [
         {
-          "name": "Louise Lennehan",
-          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
         }
       ],
-      "duration_ms": 188453,
-      "name": "Inner Child",
-      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
+      "duration_ms": 167333,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
+      },
+      "artists": [
+        {
+          "name": "Jen Libby",
+          "url": "https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w"
+        }
+      ],
+      "duration_ms": 148132,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Remembrance",
-        "url": "https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr"
+        "name": "The Sacred Self",
+        "url": "https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm"
       },
       "artists": [
         {
-          "name": "Jen Libby",
-          "url": "https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w"
+          "name": "Louise Lennehan",
+          "url": "https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW"
         }
       ],
-      "duration_ms": 148132,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG"
+      "duration_ms": 188453,
+      "name": "Inner Child",
+      "url": "https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Hungarian Dances / Waltzes, Op. 39",
-        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
-        }
-      ],
-      "duration_ms": 85706,
-      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
-      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
       },
@@ -1111,6 +1091,26 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Hungarian Dances / Waltzes, Op. 39",
+        "url": "https://open.spotify.com/album/30JPDQFmVwnBN78AVvzXhD"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+        }
+      ],
+      "duration_ms": 85706,
+      "name": "16 Waltzes, Op. 39: No. 9 In D Minor",
+      "url": "https://open.spotify.com/track/0BFXtfNDEYp9AkCIQIaa2J"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Flirting at the Masquerade",
         "url": "https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB"
       },
@@ -1127,22 +1127,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Slowdance",
-        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
+        "name": "Amorzinho (Piano Version)",
+        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
       },
       "artists": [
         {
-          "name": "Luca Mazzillo",
-          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
-        },
-        {
-          "name": "Jacopo Croci",
-          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+          "name": "Tip Ferreira",
+          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
         }
       ],
-      "duration_ms": 122883,
-      "name": "Slowdance",
-      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
+      "duration_ms": 216023,
+      "name": "Amorzinho - Piano Version",
+      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Amorzinho (Piano Version)",
-        "url": "https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ"
+        "name": "Slowdance",
+        "url": "https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8"
       },
       "artists": [
         {
-          "name": "Tip Ferreira",
-          "url": "https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw"
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        },
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
         }
       ],
-      "duration_ms": 216023,
-      "name": "Amorzinho - Piano Version",
-      "url": "https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp"
+      "duration_ms": 122883,
+      "name": "Slowdance",
+      "url": "https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Synchronicity",
+        "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Synchronicity",
+      "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/150nu69q9BA962GMPkingT"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 211000,
       "name": "Exhibitions",
       "url": "https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Synchronicity",
-        "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Synchronicity",
-      "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Seascape",
+        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Seascape",
+      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 228000,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/2DFNIBOHGJ1jKF3qLahfEt"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Seascape",
-        "url": "https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY"
-      },
-      "artists": [
-        {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Seascape",
-      "url": "https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Adesso",
-        "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
+        "name": "Akl\u0131mda Kalanlar",
+        "url": "https://open.spotify.com/album/5BPJsaYFUmU0MgpyXOs7gu"
       },
       "artists": [
         {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+          "name": "Erdem G\u00fcven",
+          "url": "https://open.spotify.com/artist/0HjqCpfBft3kl9Gx0rqyZR"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Adesso",
-      "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+      "duration_ms": 238679,
+      "name": "Akl\u0131mda Kalanlar",
+      "url": "https://open.spotify.com/track/4PmFxg56g07xe5CprXrG1i"
     },
     {
       "added_at": "2023-03-12 10:18:38",

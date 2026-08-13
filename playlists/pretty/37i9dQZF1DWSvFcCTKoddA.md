@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 14 | [Le retour Young Thug, Cardi B vs Nicki Minaj, La nouvelle G du Rap FR \| CKO](https://open.spotify.com/episode/3891ZNCKNZQ8mOMR36qBow) | [CKO \(CULTURE KNOCK OUT\)](https://open.spotify.com/show/6F3mymy1SOQdTUHDBDa7BI) | [CKO \(CULTURE KNOCK OUT\)](https://open.spotify.com/album/6F3mymy1SOQdTUHDBDa7BI) | 57:40 |
 | 15 | [Jacky Brown \| Le Bilan, la légende des Nèg’ Marrons & pionnier de la culture en France](https://open.spotify.com/episode/1vVRNtlAJDFV0VzYdHK6xc) | [CKO \(CULTURE KNOCK OUT\)](https://open.spotify.com/show/6F3mymy1SOQdTUHDBDa7BI) | [CKO \(CULTURE KNOCK OUT\)](https://open.spotify.com/album/6F3mymy1SOQdTUHDBDa7BI) | 1:48:38 |
 
-Snapshot ID: `AAAAAKmoHLnp7z2Io8zOXtmo3fgICRPw`
+Snapshot ID: `AAAAAHrWzolSxzUq2oE3C8+O4un41DqP`

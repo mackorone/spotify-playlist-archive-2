@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107827,
+  "num_followers": 107831,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJnxfDP1i/NrfXFSIYxz7wmyh+09",
+  "snapshot_id": "AAAAAHUoRH1BDOXXeaLeSfeQnif1ucMA",
   "tracks": [
     {
       "added_at": "2026-07-25 02:27:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Peleando En Mi Mente",
-        "url": "https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 170375,
-      "name": "Peleando En Mi Mente",
-      "url": "https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Perfecto Amor",
         "url": "https://open.spotify.com/album/0S37j8K0vG6NCFkgV53cnO"
       },
@@ -691,22 +675,18 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "LA CARRERA",
-        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
+        "name": "Peleando En Mi Mente",
+        "url": "https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn"
       },
       "artists": [
         {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
-        },
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
         }
       ],
-      "duration_ms": 177605,
-      "name": "LA CARRERA",
-      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
+      "duration_ms": 170375,
+      "name": "Peleando En Mi Mente",
+      "url": "https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -723,6 +703,26 @@
       "duration_ms": 186250,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "LA CARRERA",
+        "url": "https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        },
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "duration_ms": 177605,
+      "name": "LA CARRERA",
+      "url": "https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Sublime Gracia",
         "url": "https://open.spotify.com/album/4JMgMpgaGlSDXTEa8kV1CX"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 166875,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/7ql7c661G5jstNSU3UVt0S"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Eternamente Te Amo",
-        "url": "https://open.spotify.com/album/0S3AGOVB8VrMiOoRiFfcZr"
-      },
-      "artists": [
-        {
-          "name": "Jafet",
-          "url": "https://open.spotify.com/artist/3YAiKUSNK1LP783Hj7uejr"
-        },
-        {
-          "name": "Melody Joyce",
-          "url": "https://open.spotify.com/artist/3lExw272fnVkuxcdXaNk95"
-        }
-      ],
-      "duration_ms": 261461,
-      "name": "Eternamente Te Amo",
-      "url": "https://open.spotify.com/track/4zTnpoUAXZG7ka7IDdjaWL"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "M\u00e1s de Una Vez",
         "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 173332,
       "name": "M\u00e1s de Una Vez",
       "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Mi Creador",
+        "url": "https://open.spotify.com/album/16X429nrjpTB4Slqplq98d"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 176038,
+      "name": "Mi Creador",
+      "url": "https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1315,22 +1315,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Mi Creador",
-        "url": "https://open.spotify.com/album/16X429nrjpTB4Slqplq98d"
+        "name": "Eternamente Te Amo",
+        "url": "https://open.spotify.com/album/0S3AGOVB8VrMiOoRiFfcZr"
       },
       "artists": [
         {
-          "name": "Destiny Marko",
-          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+          "name": "Jafet",
+          "url": "https://open.spotify.com/artist/3YAiKUSNK1LP783Hj7uejr"
         },
         {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Melody Joyce",
+          "url": "https://open.spotify.com/artist/3lExw272fnVkuxcdXaNk95"
         }
       ],
-      "duration_ms": 176038,
-      "name": "Mi Creador",
-      "url": "https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj"
+      "duration_ms": 261461,
+      "name": "Eternamente Te Amo",
+      "url": "https://open.spotify.com/track/4zTnpoUAXZG7ka7IDdjaWL"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "La alegr\u00eda del Se\u00f1or",
-        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
-      },
-      "artists": [
-        {
-          "name": "Promesa de Dios",
-          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "La alegr\u00eda del Se\u00f1or",
-      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Lo Mejor De La Vida",
         "url": "https://open.spotify.com/album/10o6MR8g8EXpeRGulLaPSl"
       },
@@ -1467,34 +1451,18 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Grande y Maravillosas Son Tus Obras",
-        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+        "name": "La alegr\u00eda del Se\u00f1or",
+        "url": "https://open.spotify.com/album/6aLCUr0EpQnYToBLxWyedO"
       },
       "artists": [
         {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+          "name": "Promesa de Dios",
+          "url": "https://open.spotify.com/artist/0qwUWQ2ly5S4jViFyRgNlp"
         }
       ],
-      "duration_ms": 246919,
-      "name": "Grande y Maravillosas Son Tus Obras",
-      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Cantar\u00e9",
-        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 243608,
-      "name": "Cantar\u00e9",
-      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
+      "duration_ms": 193846,
+      "name": "La alegr\u00eda del Se\u00f1or",
+      "url": "https://open.spotify.com/track/1NB1vkw0KCxcFIgAyBVdsZ"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1519,6 +1487,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Cantar\u00e9",
+        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 243608,
+      "name": "Cantar\u00e9",
+      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Adorar A Dios",
         "url": "https://open.spotify.com/album/4aOpEMW8mBFw3hS4zPPNQn"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 195133,
       "name": "Nos Vamos A Gozar",
       "url": "https://open.spotify.com/track/2ZHpcTpOiuHM8tRRsWvyTW"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Grande y Maravillosas Son Tus Obras",
+        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 246919,
+      "name": "Grande y Maravillosas Son Tus Obras",
+      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Ola de Calma",
-        "url": "https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE"
-      },
-      "artists": [
-        {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
-        },
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "Ola de Calma",
-      "url": "https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Por Mucho Tiempo",
         "url": "https://open.spotify.com/album/4XeRGkZPzvBmpohrCTD55f"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 182772,
       "name": "Por Mucho Tiempo",
       "url": "https://open.spotify.com/track/3GaWTQ1vKqjGjSSaau0khU"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Ola de Calma",
+        "url": "https://open.spotify.com/album/5oMkWlFJpUUwyJaT8kE3wE"
+      },
+      "artists": [
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        },
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 204250,
+      "name": "Ola de Calma",
+      "url": "https://open.spotify.com/track/4q9sQbwmCA95KNJNSXl27A"
     },
     {
       "added_at": "2026-07-25 02:27:25",

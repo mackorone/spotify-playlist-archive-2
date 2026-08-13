@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Deux Visages",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Billboard Style",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "low-res",
+        "url": "https://open.spotify.com/album/7rkhtgAWlFWTxFXfk9M1Cc"
+      },
+      "artists": [
+        {
+          "name": "blinder",
+          "url": "https://open.spotify.com/artist/6juJRLHxGjBVbtO7CYvhEe"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "480p",
+      "url": "https://open.spotify.com/track/0ChCxujuoCgfA19I0J8bBJ"
+    },
+    {
+      "album": {
         "name": "5 Things I Can Taste",
         "url": "https://open.spotify.com/album/71IBPfv1DLKTIPiq8jzZfW"
       },
@@ -780,6 +798,24 @@
       "duration_ms": 202887,
       "name": "A Little Less",
       "url": "https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG"
+    },
+    {
+      "album": {
+        "name": "A Long Long Time",
+        "url": "https://open.spotify.com/album/5iQmTOwVzxHct0oNobCNx4"
+      },
+      "artists": [
+        {
+          "name": "Stimpies",
+          "url": "https://open.spotify.com/artist/5nAezeFdtBCXFbNF4Jwue4"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258054,
+      "name": "A Long Long Time",
+      "url": "https://open.spotify.com/track/4I0Bw6QCpkd1udPHP8ciU3"
     },
     {
       "album": {
@@ -14015,6 +14051,24 @@
     },
     {
       "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224420,
+      "name": "Florida Water Blues",
+      "url": "https://open.spotify.com/track/34XDCzYqrLMa9AcVsGkHzI"
+    },
+    {
+      "album": {
         "name": "floss is boss",
         "url": "https://open.spotify.com/album/1G0t8A4L6XokzuKmjpFE41"
       },
@@ -16883,6 +16937,24 @@
     },
     {
       "album": {
+        "name": "Haven't Lived it Yet",
+        "url": "https://open.spotify.com/album/2fIvfMYgk5cKLvIUi2ISZI"
+      },
+      "artists": [
+        {
+          "name": "The Drin",
+          "url": "https://open.spotify.com/artist/4cGPrUtNiRS7pdfiKZ1EGw"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156640,
+      "name": "Haven't Lived it Yet",
+      "url": "https://open.spotify.com/track/75v6C5H8fXxziMjFChET0f"
+    },
+    {
+      "album": {
         "name": "hdtv",
         "url": "https://open.spotify.com/album/6lttBYVS1RJJSHU9QHcBzp"
       },
@@ -17802,6 +17874,24 @@
       "duration_ms": 175480,
       "name": "Hijacked",
       "url": "https://open.spotify.com/track/5V4CqymSdvKG5Uj63pPUUV"
+    },
+    {
+      "album": {
+        "name": "Hilary",
+        "url": "https://open.spotify.com/album/3mAuA8s7al6S0lPa3yjMyz"
+      },
+      "artists": [
+        {
+          "name": "Sweat",
+          "url": "https://open.spotify.com/artist/2rHjzMZMelbREOO0liIVS4"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "Hilary",
+      "url": "https://open.spotify.com/track/3EWSkEHJD94ecvT6wlw5iF"
     },
     {
       "album": {
@@ -19376,7 +19466,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 217200,
       "name": "I Want to Remember Everything",
       "url": "https://open.spotify.com/track/61es9JNPb7sm0sSBLwb1yS"
@@ -20602,7 +20692,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 165447,
       "name": "Irish Goodbye",
       "url": "https://open.spotify.com/track/53xNq9tMCcCHHPVSa5VTQs"
@@ -26608,6 +26698,24 @@
       "duration_ms": 113480,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx"
+    },
+    {
+      "album": {
+        "name": "dollhouse",
+        "url": "https://open.spotify.com/album/201hc47dwex9hgvquFuPyK"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "ninetynine",
+      "url": "https://open.spotify.com/track/4xFZDHwEh6bdqebhbU28JJ"
     },
     {
       "album": {
@@ -35310,7 +35418,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 238080,
       "name": "Split Lip",
       "url": "https://open.spotify.com/track/5rZwFWUyepDmtLMBnhBuT7"
@@ -35688,7 +35796,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 212081,
       "name": "Still Learning",
       "url": "https://open.spotify.com/track/24B8hFiK8oH1Bb33DrS2Fm"
@@ -36632,6 +36740,24 @@
       "duration_ms": 229366,
       "name": "Swarm the Hive Mind",
       "url": "https://open.spotify.com/track/5jVvOLyhniE3BW5uyhTr82"
+    },
+    {
+      "album": {
+        "name": "Sweet Devotion",
+        "url": "https://open.spotify.com/album/3FrGuGvVyXcdj92kxZc5Pg"
+      },
+      "artists": [
+        {
+          "name": "Queen of Jeans",
+          "url": "https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188207,
+      "name": "Sweet Devotion",
+      "url": "https://open.spotify.com/track/0uc65AORg4dIHJknwx4hAV"
     },
     {
       "album": {
@@ -39632,7 +39758,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 251146,
       "name": "trauma porn",
       "url": "https://open.spotify.com/track/37ncKphF3K78C49uxatyq6"
@@ -39974,7 +40100,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 368468,
       "name": "turning down flowers",
       "url": "https://open.spotify.com/track/4qNrfLBEXFEg1HG5k0uAqI"
@@ -42010,7 +42136,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 169402,
       "name": "Whore & Savior",
       "url": "https://open.spotify.com/track/5cTtCrGbZtFfED0xji1Gi3"

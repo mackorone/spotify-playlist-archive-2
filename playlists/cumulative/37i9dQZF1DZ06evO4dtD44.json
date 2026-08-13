@@ -5,6 +5,60 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/0V8PQaUAS4Q8Rud4663dqZ"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/6ZVkcZXg252nVEbMETBT1d"
+    },
+    {
+      "album": {
         "name": "Amoroso",
         "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
@@ -56,7 +110,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 345851,
       "name": "Aguas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
@@ -222,7 +276,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 72671,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
@@ -309,24 +363,6 @@
     },
     {
       "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
-        }
-      ],
-      "date_added": "2026-07-03",
-      "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
-      "duration_ms": 126520,
-      "name": "Brigas, Nunca Mais - Ultimate Mix",
-      "url": "https://open.spotify.com/track/0V8PQaUAS4Q8Rud4663dqZ"
-    },
-    {
-      "album": {
         "name": "Chega de Saudade (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
       },
@@ -345,24 +381,6 @@
     },
     {
       "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
-        }
-      ],
-      "date_added": "2025-11-03",
-      "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
-      "duration_ms": 123333,
-      "name": "Chega De Saudade - Ultimate Mix",
-      "url": "https://open.spotify.com/track/6ZVkcZXg252nVEbMETBT1d"
-    },
-    {
-      "album": {
         "name": "Voc\u00e9 e Eu",
         "url": "https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 170280,
       "name": "Coisa Mais Linda",
       "url": "https://open.spotify.com/track/0bmZ4kxTcQReFp4Pod4EqR"
@@ -431,12 +449,12 @@
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 118661,
       "name": "Corcovado",
       "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 80573,
       "name": "Cordiero De Nana (feat. Gilberto Gil, Maria Beth\u00e2nia, Caetano Veloso)",
       "url": "https://open.spotify.com/track/0NrGCInUdTUWDmLycYna8s"
@@ -609,12 +627,12 @@
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 118120,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/4nzYyJpRLCDY1m7kV5eHQE"
@@ -650,7 +668,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 207560,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/7gm8zsj49zHgi6yBuAQ3lF"
@@ -832,7 +850,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 286302,
       "name": "Eu Quero um Samba",
       "url": "https://open.spotify.com/track/6RODRlHqwSxfI6WmKjqPCL"
@@ -940,7 +958,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 144466,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/1ChBqMI5Egz20lWvsQHuAK"
@@ -1051,12 +1069,12 @@
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 143453,
       "name": "Mar\u00eda Ningu\u00e9m",
       "url": "https://open.spotify.com/track/20edSKFWj9zQEEbMeJDW6E"
@@ -1128,7 +1146,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 176173,
       "name": "Nao Vou Pra Casa",
       "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
@@ -1319,12 +1337,12 @@
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 124682,
       "name": "Rosa Morena",
       "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
@@ -1377,12 +1395,12 @@
       "artists": [
         {
           "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 107560,
       "name": "Saudade F\u00eaz Um Samba",
       "url": "https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR"
@@ -1648,28 +1666,10 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 323657,
       "name": "\u00c1guas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/7Jj66NaXj1Nn6xrkB7vlSf"
-    },
-    {
-      "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
-        }
-      ],
-      "date_added": "2025-09-19",
-      "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
-      "duration_ms": 119200,
-      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
-      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
     },
     {
       "album": {
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 349692,
       "name": "\u00c9 Preciso Perdoar",
       "url": "https://open.spotify.com/track/5cMwiquavmUhGZpF8j0xqv"

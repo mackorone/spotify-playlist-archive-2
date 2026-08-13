@@ -1,12 +1,12 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19375,
+  "num_followers": 19378,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADpzQZrF7kF51fcQH3H1pA+ICSs/",
+  "snapshot_id": "AAAAABmWgWKxA2+NnGychsg/PsTvEWIn",
   "tracks": [
     {
       "added_at": "2026-08-06 14:00:15",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "Better Off",
+        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Better Off",
+      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "Right Here Right Now",
         "url": "https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 214000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "Better Off",
-        "url": "https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Better Off",
-      "url": "https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Breakdown",
+      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "halftime oranges",
         "url": "https://open.spotify.com/album/0NAMPUg46S6mRCVZtJT40d"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "Chrysalis",
-        "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
-      },
-      "artists": [
-        {
-          "name": "Borderline",
-          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Breakdown",
-      "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
-      },
-      "artists": [
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Off The Rails",
         "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 107266,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
+      },
+      "artists": [
+        {
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
+        }
+      ],
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Have You Ever Seen the Rain",
-        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
-      },
-      "artists": [
-        {
-          "name": "House of Shem",
-          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
-        }
-      ],
-      "duration_ms": 193509,
-      "name": "Have You Ever Seen the Rain",
-      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "STALKER (feat. Ramirez)",
         "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
       },
@@ -799,22 +783,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Troubles",
-        "url": "https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY"
+        "name": "Have You Ever Seen the Rain",
+        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
       },
       "artists": [
         {
-          "name": "EDYONTHEBEAT",
-          "url": "https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC"
-        },
-        {
-          "name": "Donson PK",
-          "url": "https://open.spotify.com/artist/0Ffe4obY6qq9TzAvYm7fqg"
+          "name": "House of Shem",
+          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Troubles",
-      "url": "https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS"
+      "duration_ms": 193509,
+      "name": "Have You Ever Seen the Rain",
+      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -831,6 +811,26 @@
       "duration_ms": 229683,
       "name": "drag",
       "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Troubles",
+        "url": "https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY"
+      },
+      "artists": [
+        {
+          "name": "EDYONTHEBEAT",
+          "url": "https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC"
+        },
+        {
+          "name": "Donson PK",
+          "url": "https://open.spotify.com/artist/0Ffe4obY6qq9TzAvYm7fqg"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Troubles",
+      "url": "https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "call me yours",
-        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "call me yours",
-      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "call me yours",
+        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "call me yours",
+      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "You Already Know",
+        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        }
+      ],
+      "duration_ms": 186747,
+      "name": "You Already Know",
+      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "Under One Roof",
         "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "You Already Know",
-        "url": "https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        }
-      ],
-      "duration_ms": 186747,
-      "name": "You Already Know",
-      "url": "https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1051,22 +1051,6 @@
       "duration_ms": 169693,
       "name": "Drag",
       "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "Game",
-        "url": "https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Bree",
-          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
-        }
-      ],
-      "duration_ms": 337188,
-      "name": "Game",
-      "url": "https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "Game",
+        "url": "https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Bree",
+          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+        }
+      ],
+      "duration_ms": 337188,
+      "name": "Game",
+      "url": "https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "tomato baby",
         "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
       },
@@ -1135,54 +1135,6 @@
       "duration_ms": 168582,
       "name": "tomato baby",
       "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
-        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
-      },
-      "artists": [
-        {
-          "name": "Kings",
-          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
-        }
-      ],
-      "duration_ms": 145654,
-      "name": "TRY MY LUCK",
-      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 254385,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1203,6 +1155,54 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
+        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
+      },
+      "artists": [
+        {
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
+        }
+      ],
+      "duration_ms": 145654,
+      "name": "TRY MY LUCK",
+      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 254385,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "Letting Love Die",
         "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
-      },
-      "artists": [
-        {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
-        }
-      ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Metal",
         "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 283253,
       "name": "Metal",
       "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "When He Was Mine (Pele Fo'i Mai)",
+        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+      },
+      "artists": [
+        {
+          "name": "A.R.T",
+          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+        }
+      ],
+      "duration_ms": 156516,
+      "name": "When He Was Mine (Pele Fo'i Mai)",
+      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     },
     {
       "added_at": "2026-08-06 14:00:15",

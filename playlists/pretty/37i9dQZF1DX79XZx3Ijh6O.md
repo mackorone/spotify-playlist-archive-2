@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:0Nwb3i580myQC1oxYSpv48">RENAE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,312 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [427on](https://open.spotify.com/track/6MXuQAl82GbpgQNf5giOQA) | [Feviane](https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14) | [427on](https://open.spotify.com/album/3ogtjB9A2slX7OroP1mN2n) | 2:57 |
 | 50 | [іній](https://open.spotify.com/track/5iHHQ57Z3ffRxbpg2xoLFw) | [JASE51](https://open.spotify.com/artist/4p0zdj463b929YZnJ5PcJg), [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [іній](https://open.spotify.com/album/2or0Df3MOQY9g3UJz5J6eW) | 2:48 |
 
-Snapshot ID: `AAAAAMGBv4RpGUYOMlNPGMJMJM8CsNe0`
+Snapshot ID: `AAAAANVCETCjoJxP+/TBGrfNU5Py0XOq`

@@ -2,7 +2,7 @@
 
 ### [indie noise on noise cancelling headphones](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> Naaz kiest haar 20 indie tracks\. zomer ID: 🚐 avonturier\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> Naaz kiest 20 indie tracks voor de zomer\. <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
 317 songs - 19 hr 16 min
 

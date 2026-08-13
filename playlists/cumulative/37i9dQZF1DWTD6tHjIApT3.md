@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Tokimeki Records
 
-3,856 songs - 10 day 5 hr 18 min
+3,856 songs - 10 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1750,7 +1750,7 @@
 | [Somebody Else Now](https://open.spotify.com/track/1kxAIgqMbdYVXNZ5Lr8dac) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [NOW](https://open.spotify.com/album/7zbqFK9cexmlYW2bBw16Og) | 3:02 | 2024-08-06 | 2024-09-11 |
 | [Someone To Love](https://open.spotify.com/track/1pUvCQzbPxG75m2Ox3vCEN) | [LOVE](https://open.spotify.com/artist/01qky80h3z8t7F1DrDufyu) | [Someone To Love](https://open.spotify.com/album/6xXhHmcyyhw3QzLkmTI7p7) | 3:30 | 2022-06-07 | 2022-07-28 |
 | [somewhere in TOKYO](https://open.spotify.com/track/3AlLDUy40iBb9zbutd3AJ4) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [somewhere in TOKYO + 4 singles](https://open.spotify.com/album/6NnUI4ukdEfzTNcDjCFBAc) | 4:58 | 2024-07-25 | 2024-07-31 |
-| [Sonare](https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Sonare](https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA) | 3:23 | 2026-01-14 | 2026-08-05 |
+| [Sonare](https://open.spotify.com/track/2TDyHR2vO6AUxgLUbxEWn2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Sonare](https://open.spotify.com/album/7wEahnf4nhcBJV0LV2CzNA) | 3:23 | 2026-01-14 |  |
 | [Song from Zero](https://open.spotify.com/track/3I870NUHxZ1flU9BoZrGAQ) | [Nao☆](https://open.spotify.com/artist/4l3RPSnpTQowMlWZe34WBh) | [Song from Zero](https://open.spotify.com/album/6Fo2rTwN5D7HYn23XSGUeZ) | 3:55 | 2025-04-22 | 2025-04-30 |
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-03-29 |
 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |
@@ -1984,7 +1984,6 @@
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 | 2022-12-07 |
 | [Toumeina](https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Toumeina](https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh) | 3:59 | 2022-08-05 | 2022-08-10 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 |  |
-| [Track 8](https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [黄昏なブルー \-Twilight Blue\-](https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098) | 0:00 | 2026-08-11 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-01 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
 | [Transparent](https://open.spotify.com/track/6dBrabvqXERdkVD7iAGRvs) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [Transparent](https://open.spotify.com/album/6t4I19WNLvi4ouIwR9Q8M0) | 4:12 | 2022-06-24 | 2022-07-06 |
@@ -2360,7 +2359,7 @@
 | [こまっちゃうな](https://open.spotify.com/track/60jYVWTWZYyd83JBaYUAR2) | [山本リンダ](https://open.spotify.com/artist/32nyjVMCElK7RNCzaT57tG) | [こまっちゃうな](https://open.spotify.com/album/2tPp0rtPowoLgoH4mAYkFj) | 2:33 | 2025-04-22 | 2025-04-30 |
 | [これも愛としよう](https://open.spotify.com/track/7nvfTo6GhOD5oMJkmL609b) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [これも愛としよう](https://open.spotify.com/album/57PndiPvkPDWPO95GaBo5A) | 3:46 | 2025-12-02 | 2025-12-10 |
 | [ごみ溜めのバラード \- band](https://open.spotify.com/track/6EWqH6zaPCUTVvAA73RmKv) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Super Legend](https://open.spotify.com/album/545HhduxVVC1BnSMa0cVLm) | 3:53 | 2024-03-12 | 2024-04-17 |
-| [ごめんと、すきと、](https://open.spotify.com/track/7CWq0YtZJ2skGJG0MfzpD3) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [ごめんと、すきと、](https://open.spotify.com/album/4Ue0U8o0J3B7LGLG31g4nZ) | 5:08 | 2026-07-14 |  |
+| [ごめんと、すきと、](https://open.spotify.com/track/7CWq0YtZJ2skGJG0MfzpD3) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [ごめんと、すきと、](https://open.spotify.com/album/4Ue0U8o0J3B7LGLG31g4nZ) | 5:08 | 2026-07-14 | 2026-08-13 |
 | [ごめんね](https://open.spotify.com/track/2IO8EYYxhOVbvgCFlOq3ol) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [ごめんね](https://open.spotify.com/album/3TciDpDFjXBuUBD2wxkdDj) | 2:55 | 2024-01-16 | 2025-07-09 |
 | [ごらん](https://open.spotify.com/track/3QgiKtomG9JIt3U4hljXJU) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [君に会いたいんだ、とても](https://open.spotify.com/album/4CrzCrLZfXA83j0PUpgWi6) | 2:04 | 2023-02-28 | 2023-03-02 |
 | [さかさまの雨](https://open.spotify.com/track/6RTVMxBRIPazAjbstaVNLY) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [さかさまの雨](https://open.spotify.com/album/3o2p600srbydOzSp4iKaXf) | 4:12 | 2022-06-14 | 2022-07-15 |
@@ -3510,6 +3509,7 @@
 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 | 2022-09-08 | 2023-12-01 |
 | [消えるまで](https://open.spotify.com/track/39v0hXWTXExgku2HrkBhJX) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [消えるまで](https://open.spotify.com/album/5KfRRpVhvrtESciHQy4gWo) | 3:25 | 2023-10-10 | 2024-01-26 |
 | [涙くん、今日もおはようっ](https://open.spotify.com/track/3pUwKM67uYbqJY6EwJgTRu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [涙くん、今日もおはようっ](https://open.spotify.com/album/07BYtVaRKiY9twxagUl3lt) | 4:31 | 2023-10-17 | 2023-12-01 |
+| [涙のカラット \-Rumor Girl\- \(feat\. 財津マイ\)](https://open.spotify.com/track/10gG8GYU2glR1jEG6dX2GR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [黄昏なブルー \-Twilight Blue\-](https://open.spotify.com/album/3d9Mze2oIgKEKNxUXZW098) | 3:03 | 2026-08-11 |  |
 | [涙の国](https://open.spotify.com/track/3pI3svihigv3zIZpNhc5OD) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [涙の国](https://open.spotify.com/album/1hmZIuYyoOFnfUA253cx1N) | 3:54 | 2024-01-30 | 2024-02-01 |
 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 | 2025-05-21 | 2025-05-28 |
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-29 | 2022-06-01 |

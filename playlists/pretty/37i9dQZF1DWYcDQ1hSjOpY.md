@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,212,586 likes - 353 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,213,023 likes - 353 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -362,4 +362,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 352 | [Lost In Yesterday](https://open.spotify.com/track/1vtoQy0Bltfse2ZTMSUdfY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Lost In Yesterday](https://open.spotify.com/album/6AmGlVejoRSFNIT18eo7R3) | 2:40 |
 | 353 | [Contemplation](https://open.spotify.com/track/3VFmHInobdXT3lAYhQoKJi) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Contemplation](https://open.spotify.com/album/3i02hPApQdUfXhQHH2ifCp) | 3:25 |
 
-Snapshot ID: `AAAAAOsvyiwKHXHi6PcmseNetcPWQ4r8`
+Snapshot ID: `AAAAAPnPFjhjxraY3zC/SklcrZLdyEff`

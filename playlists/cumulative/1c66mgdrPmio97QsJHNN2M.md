@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,651 songs - 5 day 20 hr 0 min
+2,652 songs - 5 day 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Azizem Dance](https://open.spotify.com/track/3oJg0tAHvnIbBpoFEhMCrj) | [OMER AHMET](https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w) | [Azizem Dance](https://open.spotify.com/album/4fm6EzqGNRkjkm0PlYw0KX) | 3:07 | 2026-07-05 | 2026-08-08 |
 | [B.I.O.T.B \(Blame It On The Booze\)](https://open.spotify.com/track/0IlG5mEBN0loJN8qUL3Vm5) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [B.I.O.T.B \(Blame It On The Booze\)](https://open.spotify.com/album/1w3ngCvVZ7RMXGKI8Quwfa) | 2:51 | 2026-02-16 | 2026-03-20 |
 | [B0C3TUD4](https://open.spotify.com/track/2ro69lhVFIkaKtfF8h1C9q) | [Pariz](https://open.spotify.com/artist/2UBljQ5dbamD47JMpi3oyl) | [B0C3TUD4](https://open.spotify.com/album/4mFCvfKJZSryVv7zXdSqbZ) | 2:08 | 2026-05-05 | 2026-06-06 |
+| [Baby Blue](https://open.spotify.com/track/5WRPtxnqTfXfGYDf1BXzRI) | [Morgan Bronner](https://open.spotify.com/artist/4pQ4PiAiC6AGiW9oyZG2Jo) | [Baby Blue](https://open.spotify.com/album/6YfQmfK8Ac9XMMYmPdfN4F) | 2:50 | 2026-08-12 |  |
 | [Baby Blues](https://open.spotify.com/track/3nrBSMtehFDsGuPZXRsma0) | [Suavé](https://open.spotify.com/artist/3alyWN9ocS8hYq5lSNVg35) | [Baby Blues](https://open.spotify.com/album/5DWsDgEBeXYcYx5oWywWre) | 2:20 | 2025-11-10 | 2025-12-11 |
 | [Baby We Both Left Us](https://open.spotify.com/track/0QnFtgAkjarP6vARh3eV6N) | [Shashank Bhaskaruni](https://open.spotify.com/artist/6IwTtuEKKoggjUtPgcObwD), [SaiKiran Sunkoju](https://open.spotify.com/artist/6vLKHxc4zsT57dE0AsjGp1), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Baby We Both Left Us](https://open.spotify.com/album/3LiSUKnj1yXJztki6VzYci) | 3:27 | 2026-08-10 |  |
 | [Baby, alright](https://open.spotify.com/track/26lko55LCtctFecXw6ytas) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Baby, alright](https://open.spotify.com/album/2a4AA00qnwTzwaiorBPGGh) | 2:52 | 2026-06-03 | 2026-07-05 |

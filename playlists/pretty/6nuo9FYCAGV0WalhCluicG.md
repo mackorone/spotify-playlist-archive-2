@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 ### [UK Rap 2026](https://open.spotify.com/playlist/6nuo9FYCAGV0WalhCluicG)
 
-> The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\.  Newest Hit: GEEKIN \- Nemzzz, Lil Yachty Cover: Nemzzz.
+> The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz.
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,546 likes - 70 songs - 3 hr 2 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 70,543 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PRINCE OF THE SCENE](https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PRINCE OF THE SCENE](https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e) | 1:56 |
+| 1 | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/track/0rGxIKdpNUy15kCLea8Woh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p3rk95jqISXQf26v9cz3u) | 2:32 |
 | 2 | [REAL 1](https://open.spotify.com/track/5sqQJpw8b5FRtQiMboCFoe) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [THE WIZARD \(DELUXE\)](https://open.spotify.com/album/6epN6qmgx0NQwfXvKTnJbN) | 2:10 |
 | 3 | [Homegrown \(feat\. Blxst\)](https://open.spotify.com/track/4s0tZBDviWiawHu8XlYXcJ) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Homegrown \(feat\. Blxst\)](https://open.spotify.com/album/2JTsVy8S2Tdk9YB82nF7RN) | 2:51 |
 | 4 | [Turnt To A Target](https://open.spotify.com/track/4hPfHFjl9GDxR3uvpZ7DMh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Turnt To A Target](https://open.spotify.com/album/38nVQrUylnvcwOZIK9epvr) | 3:04 |
 | 5 | [Franklin Saint](https://open.spotify.com/track/5RJyRb6UfTEkACuIwi6UYQ) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Franklin Saint](https://open.spotify.com/album/3ZDsDyJfBUgjUuXomSmFLk) | 2:11 |
-| 6 | [PRESSURE](https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [PRESSURE](https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4) | 2:16 |
-| 7 | [I watched the whole set…](https://open.spotify.com/track/3EYTKSI4KILpVimwGsAY5q) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm) | [I watched the whole set…](https://open.spotify.com/album/4tDjmCHmrgNS1rQhlaUubU) | 3:03 |
-| 8 | [Same Faces](https://open.spotify.com/track/7lLhC95zgD2NDhiQ7k0jmc) | [deed0t](https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N) | [Same Faces](https://open.spotify.com/album/0akyXqQKud4LzxU1Lx2m1W) | 2:06 |
-| 9 | [RockWave](https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [RockWave](https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j) | 2:14 |
-| 10 | [KILLIN EM](https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [KILLIN EM](https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR) | 1:53 |
-| 11 | [THE SHOWTIME INTRO](https://open.spotify.com/track/7nR9J9jzO2FsXHHZx6gBVQ) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 1:08 |
-| 12 | [9:17 In North](https://open.spotify.com/track/6Q8CSm9fvNLkCQAx2GY3eN) | [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [9:17 In North](https://open.spotify.com/album/3uOFXU7xP0Wl7kwFoRJDUx) | 3:01 |
-| 13 | [Soulja](https://open.spotify.com/track/3vNkGlFj51eafYNokoW52j) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Soulja](https://open.spotify.com/album/3uFCBEPfetxYgwhTG30jGy) | 2:24 |
-| 14 | [Baja Blast](https://open.spotify.com/track/3uDa6lqSqmgU8dOWkztU9f) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Baja Blast](https://open.spotify.com/album/1keplZOkrZEQliIiR0p61N) | 2:21 |
-| 15 | [Can’t Stop Won’t Stop II](https://open.spotify.com/track/0szsHSNuPGSAawH9kipma3) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Can’t Stop Won’t Stop II](https://open.spotify.com/album/4q40fzGX98NfZdACfdz5eZ) | 2:59 |
-| 16 | [CAN'T SAY NO](https://open.spotify.com/track/7abSTQbiSxP8sI3S0by8no) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [CAN'T SAY NO](https://open.spotify.com/album/6rYTovwPPhceDNj70ZBUOA) | 2:56 |
-| 17 | [LYRIC BOOK BOY](https://open.spotify.com/track/0jxCmJPFoIWePWnXTgAGHk) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 3:00 |
-| 18 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 |
+| 6 | [PRINCE OF THE SCENE](https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [PRINCE OF THE SCENE](https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e) | 1:56 |
+| 7 | [PRESSURE](https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [PRESSURE](https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4) | 2:16 |
+| 8 | [I watched the whole set…](https://open.spotify.com/track/3EYTKSI4KILpVimwGsAY5q) | [Deema](https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm) | [I watched the whole set…](https://open.spotify.com/album/4tDjmCHmrgNS1rQhlaUubU) | 3:03 |
+| 9 | [Same Faces](https://open.spotify.com/track/7lLhC95zgD2NDhiQ7k0jmc) | [deed0t](https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N) | [Same Faces](https://open.spotify.com/album/0akyXqQKud4LzxU1Lx2m1W) | 2:06 |
+| 10 | [RockWave](https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [RockWave](https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j) | 2:14 |
+| 11 | [KILLIN EM](https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [KILLIN EM](https://open.spotify.com/album/2krj4msHpEjnTlZ3jzcvxR) | 1:53 |
+| 12 | [THE SHOWTIME INTRO](https://open.spotify.com/track/7nR9J9jzO2FsXHHZx6gBVQ) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 1:08 |
+| 13 | [9:17 In North](https://open.spotify.com/track/6Q8CSm9fvNLkCQAx2GY3eN) | [Eloquin](https://open.spotify.com/artist/6tRzzi6vUGERNBRbOkaOa1), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n) | [9:17 In North](https://open.spotify.com/album/3uOFXU7xP0Wl7kwFoRJDUx) | 3:01 |
+| 14 | [Soulja](https://open.spotify.com/track/3vNkGlFj51eafYNokoW52j) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Soulja](https://open.spotify.com/album/3uFCBEPfetxYgwhTG30jGy) | 2:24 |
+| 15 | [Baja Blast](https://open.spotify.com/track/3uDa6lqSqmgU8dOWkztU9f) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Baja Blast](https://open.spotify.com/album/1keplZOkrZEQliIiR0p61N) | 2:21 |
+| 16 | [Can’t Stop Won’t Stop II](https://open.spotify.com/track/0szsHSNuPGSAawH9kipma3) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Can’t Stop Won’t Stop II](https://open.spotify.com/album/4q40fzGX98NfZdACfdz5eZ) | 2:59 |
+| 17 | [CAN'T SAY NO](https://open.spotify.com/track/7abSTQbiSxP8sI3S0by8no) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [CAN'T SAY NO](https://open.spotify.com/album/6rYTovwPPhceDNj70ZBUOA) | 2:56 |
+| 18 | [LYRIC BOOK BOY](https://open.spotify.com/track/0jxCmJPFoIWePWnXTgAGHk) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [WHAT IF I SAY NO?](https://open.spotify.com/album/4AQ3GNDN24r6dPvybUvsSN) | 3:00 |
 | 19 | [Cadabra Freestyle 3](https://open.spotify.com/track/3dj33nQLyJpWVHAc6JnpAk) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM) | [Cadabra Freestyle 3](https://open.spotify.com/album/0RCVH3UxG7UcIuhxI10DbZ) | 5:15 |
 | 20 | [Keep Up](https://open.spotify.com/track/1W7NwoNXkeQHtPNykbXwaP) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Keep Up](https://open.spotify.com/album/3NzDCbjZaErLctPH77vbaV) | 1:30 |
 | 21 | [90th Minute](https://open.spotify.com/track/1rm0UlEuApyZsytAfT2zR7) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [90th Minute](https://open.spotify.com/album/6lm5ts4QB0uavfNz0UXiA6) | 1:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 | 69 | [Abu Dhabi](https://open.spotify.com/track/3G5iyDPHbIHUL4AhC6rEs4) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Abu Dhabi](https://open.spotify.com/album/3BCbvJKaW8QAmAwlRtkHBj) | 2:17 |
 | 70 | [TRIPLE THREAT](https://open.spotify.com/track/2URQXBVDvENWHvUodr5ScN) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [TRIPLE THREAT](https://open.spotify.com/album/4ClTS36W38BNdWMFNvvFam) | 3:17 |
 
-Snapshot ID: `AAAMWDhP/hh9Zx/iTZqOFizDUAcszbw8`
+Snapshot ID: `AAAMW5LYHggFhVB/FQaG46ugMk4iaQ3r`

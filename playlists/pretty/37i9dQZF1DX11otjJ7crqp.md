@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Ashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,966 likes - 149 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,339 likes - 149 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 148 | [i hate Berlin!!](https://open.spotify.com/track/7IaAZ5JLPXXOnV78chiHdO) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [i hate Berlin!!](https://open.spotify.com/album/1baPOa1qSk34CSSfIXWO1O) | 3:09 |
 | 149 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 
-Snapshot ID: `AAAAAH8Di+Xw5WEyR4Aykk5XlIWtISgI`
+Snapshot ID: `AAAAAFHbp2uiyKvTcbw2XHsG6fBUt5tR`

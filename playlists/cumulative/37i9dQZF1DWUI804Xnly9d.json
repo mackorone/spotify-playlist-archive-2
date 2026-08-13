@@ -2308,7 +2308,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 349060,
       "name": "Cinema Chowk",
       "url": "https://open.spotify.com/track/5fiziC9GdXwuZuuqCWUiyT"
@@ -3660,6 +3660,32 @@
       "duration_ms": 262897,
       "name": "Gulaab Tum",
       "url": "https://open.spotify.com/track/1yFYVPFQZfRPPvPlVFF71s"
+    },
+    {
+      "album": {
+        "name": "Gulon se",
+        "url": "https://open.spotify.com/album/7pOhfiwWesGiZ0GQyez7tR"
+      },
+      "artists": [
+        {
+          "name": "Sabar",
+          "url": "https://open.spotify.com/artist/32SYu3il2aqKjNyIN195lw"
+        },
+        {
+          "name": "Azadd",
+          "url": "https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA"
+        },
+        {
+          "name": "THOUGHT",
+          "url": "https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "Gulon se",
+      "url": "https://open.spotify.com/track/2ytNIFFfzSM5Ok2rhAbGe8"
     },
     {
       "album": {

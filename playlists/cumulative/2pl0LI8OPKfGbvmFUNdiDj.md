@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-556 songs - 1 day 7 hr 33 min
+557 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [2 0 4 5](https://open.spotify.com/track/3mS5wAqw8WxYGw4Hdc0hag) | [Wyatt Leach](https://open.spotify.com/artist/6Rl58oDVByLhttQgFkTTW1) | [2 0 4 5](https://open.spotify.com/album/1NXZMjp4olFbvITfoegqea) | 2:21 | 2025-11-30 | 2026-01-05 |
 | [37 Guns](https://open.spotify.com/track/6O5NzMNLYRIhazkUmlqE0W) | [Glife](https://open.spotify.com/artist/3OstriB6t4uPV55YmNf3V3), [Bloswick](https://open.spotify.com/artist/6gKWJHwJJNsAKlAIDX1yug) | [Pals](https://open.spotify.com/album/6DgMKpmqw4gzWfVD0Ket9r) | 3:05 | 2026-05-31 |  |
 | [40](https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY) | [The Katawicks](https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk) | [For The Seasons](https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa) | 3:10 | 2026-04-03 |  |
+| [5 День](https://open.spotify.com/track/06mRNsQnoRr46AOj0CHBjb) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [5 День](https://open.spotify.com/album/0VJiRSvYM2RQORPHTO2UW6) | 1:54 | 2026-08-12 |  |
 | [A Better Man](https://open.spotify.com/track/1qJ46HmbyOpBtb3vpRb4an) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [A Better Man](https://open.spotify.com/album/3fYEKBdWP2srmsbqsJzSlf) | 4:02 | 2025-12-26 | 2026-01-15 |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-22 | 2026-01-05 |
 | [A Merry Jingle](https://open.spotify.com/track/31csQY8zl1aJGe8VISxq9e) | [Forge Hounds](https://open.spotify.com/artist/6528HmKaqCaf9tu3qdj70d) | [A Merry Jingle](https://open.spotify.com/album/4ZoDxu4sPUzk4QCqTwk8Qp) | 3:08 | 2025-12-23 | 2026-01-15 |

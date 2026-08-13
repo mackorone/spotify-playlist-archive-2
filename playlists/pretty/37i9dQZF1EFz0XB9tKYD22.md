@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 68 | [Sorry Mom](https://open.spotify.com/track/0IfDwgb4tyUyQcahEAnyeW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS Commentary Album](https://open.spotify.com/album/0Py8hbFZ9QhI2gPEqzbla1) | 3:35 |
 | 69 | [Withdrawals](https://open.spotify.com/track/1gRh1UnU44zyiOvZgMD4qR) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:45 |
 | 70 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/25PvNqoIB43O5BfxdvUj1g) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K) | 3:11 |
-| 71 | [The Girl You Think I Am](https://open.spotify.com/track/4MuTmMBnXVAoYK5YZWkfOL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:38 |
-| 72 | [My Weakness](https://open.spotify.com/track/5F9sYyKHnLshRcwXOWmY1w) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4) | 3:55 |
+| 71 | [My Weakness](https://open.spotify.com/track/5F9sYyKHnLshRcwXOWmY1w) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4) | 3:55 |
+| 72 | [The Girl You Think I Am](https://open.spotify.com/track/4MuTmMBnXVAoYK5YZWkfOL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:38 |
 | 73 | [That Song That We Used To Make Love To](https://open.spotify.com/track/3vkyyOw92iKKIV5Io2fBdk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:35 |
 | 74 | [Somebody's Got Me](https://open.spotify.com/track/71XuRpRuXmlqgjXapnPNA5) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:24 |
 | 75 | [Backsliding](https://open.spotify.com/track/0pNA563kEMCfhMYRVQGH4Y) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:37 |
@@ -360,4 +360,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 350 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 351 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcZU6AAAAAD3kWvqUgka4zbD6GY1Y3Fd`
+Snapshot ID: `AcZafgAAAADXTamgmuRmbm6BgPC3bnKE`

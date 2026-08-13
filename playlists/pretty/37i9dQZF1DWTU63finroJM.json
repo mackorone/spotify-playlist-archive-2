@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86578,
+  "num_followers": 86583,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASkjoX8K5hi0dMrkeJGrJExQ8h0",
+  "snapshot_id": "AAAAAL97RhsOBaz54gsMxLmRlljUM7D8",
   "tracks": [
     {
       "added_at": "2026-07-24 13:00:01",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220608,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "No pega igual (Stuck on replay)",
         "url": "https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 185118,
       "name": "No pega igual (Stuck on replay)",
       "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220608,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
+        "name": "Solo Ama",
+        "url": "https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh"
+      },
+      "artists": [
+        {
+          "name": "El Bobo de las 3000",
+          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
+        }
+      ],
+      "duration_ms": 210097,
+      "name": "Solo Ama",
+      "url": "https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
         "name": "Vaakkath",
         "url": "https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 217100,
       "name": "Nattamthiri",
       "url": "https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Solo Ama",
-        "url": "https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh"
-      },
-      "artists": [
-        {
-          "name": "El Bobo de las 3000",
-          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
-        }
-      ],
-      "duration_ms": 210097,
-      "name": "Solo Ama",
-      "url": "https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        },
-        {
-          "name": "Hunna G",
-          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0UzzUwust9tYgU5oxj9e3I"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 123375,
       "name": "Camila",
       "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
     },
     {
       "added_at": "2026-07-24 13:00:01",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yPYjSzbGhz.md) - [plain]
 
 > Luister hier naar alle genomineerden voor de Edison Jazz 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 518 likes - 28 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 519 likes - 28 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yPYjSzbGhz.md) - [plain]
 | 27 | [Fan Fiction](https://open.spotify.com/track/15cFPRwAG99AodgFTKYCvq) | [Reinier Baas](https://open.spotify.com/artist/3L6Wwc16uKxUhTmISiv6Ff), [Ben van Gelder](https://open.spotify.com/artist/3oF2KEIn3rBRaGktWCwKdg), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I) | [This Is Water](https://open.spotify.com/album/5jyyrCpY8vRJkRo7LGlawn) | 3:38 |
 | 28 | [muffled screams](https://open.spotify.com/track/6bemf7VsRoh9eI2L2lLWM2) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [honey from a winter stone](https://open.spotify.com/album/69qmpFumQAb3y3UXgGCIbz) | 15:25 |
 
-Snapshot ID: `AAAAAPvORykd58SnasjCksl8xF+cYWWW`
+Snapshot ID: `AAAAAGRvlnx6IHWcynExuocNycm7RMX1`

@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック  Cover: パソコン音楽クラブ \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,408 songs - 7 day 7 hr 45 min
+2,409 songs - 7 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Casi O](https://open.spotify.com/track/6DC9YYWou0fJha6MHhEXRl) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Casi O](https://open.spotify.com/album/2g2iyYCMoBxfNOgmPYhwYb) | 5:16 | 2024-07-19 | 2024-09-13 |
 | [caught up](https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [look at me but through me](https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb) | 4:13 | 2024-04-12 | 2024-06-10 |
 | [Cautious Love](https://open.spotify.com/track/7dkFMhhah6uSpaoOjg5jIG) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Cautious Love](https://open.spotify.com/album/7zSpyFV7k3KNbtS1yiU1sl) | 3:34 | 2026-01-22 | 2026-03-13 |
+| [Cave Diving](https://open.spotify.com/track/2QSUq91dR6PotL1RU7cEr4) | [DubGuy](https://open.spotify.com/artist/4odFIosa3aec1eklV4CVJN) | [Cave Diving EP](https://open.spotify.com/album/2g62kxy9bd899pv9dwE3MA) | 3:43 | 2026-08-12 |  |
 | [Central\-A](https://open.spotify.com/track/5xc0373vEPsatrTqKkx5RW) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [SUPER DANCE TOOLS Vol.3](https://open.spotify.com/album/5fDkGCqwf24otf3P2fwzV9) | 7:35 | 2023-07-20 | 2023-10-13 |
 | [CHAIN REACT](https://open.spotify.com/track/1lzTpOHsqXpINYD7aJxnRW) | [DJ DISK](https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr) | [CHAIN REACT](https://open.spotify.com/album/26ZuHA8xJGt9vCjh6mBXL7) | 4:30 | 2026-02-20 | 2026-02-28 |
 | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Chala \(My Soul Is On A Loop\)](https://open.spotify.com/album/5jKKCOqvjQl0bdJhN2gEh2) | 2:42 | 2026-01-30 | 2026-05-30 |

@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Jungeli.
+> Du Congo, au monde 🌍 avec Tonton Fally Ipupa.
 
-783 songs - 1 day 19 hr 51 min
+784 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@
 | [Pas comme eux \- Remix](https://open.spotify.com/track/4b4irV00fhcXBxIfD2z1q9) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Pas comme eux \(Remix\)](https://open.spotify.com/album/1nogGp45JYTkF7GW9BfeB3) | 2:32 | 2024-01-26 | 2024-03-02 |
 | [Pas De Commentaire](https://open.spotify.com/track/3uqaOPH5qNI6MknOn526YK) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Pas De Commentaire](https://open.spotify.com/album/5lJY7CMkvHVlT1ROOmlMzf) | 2:36 | 2025-04-11 | 2025-05-10 |
 | [Pas de Ralentir](https://open.spotify.com/track/3s3LcEdYzo77TOqFOuvjVF) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Pas de Ralentir](https://open.spotify.com/album/1UEYHUqi81046VKwNXVjAv) | 2:34 | 2025-02-14 | 2025-05-10 |
-| [PAS DE REFRAIN](https://open.spotify.com/track/2EDGkj6mp1P0MeZM6NJaiv) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [PAS DE REFRAIN](https://open.spotify.com/album/0muQlD92bPORIlWmINUINd) | 2:00 | 2026-07-24 |  |
+| [PAS DE REFRAIN](https://open.spotify.com/track/2EDGkj6mp1P0MeZM6NJaiv) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [PAS DE REFRAIN](https://open.spotify.com/album/0muQlD92bPORIlWmINUINd) | 2:00 | 2026-07-24 | 2026-08-13 |
 | [Pas solo](https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas solo](https://open.spotify.com/album/1Up5VOa7KYBOdMUherbXj4) | 2:41 | 2026-01-30 | 2026-06-13 |
 | [PAY!](https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [PAY!](https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI) | 2:10 | 2025-04-25 |  |
 | [Pays de merveilles](https://open.spotify.com/track/3kDm6WcoCPHjvucG5mv3dY) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Pays de merveilles](https://open.spotify.com/album/4QuGEJxOOYCbvj3S5cR5up) | 5:31 | 2022-12-16 | 2023-02-18 |
@@ -777,6 +777,7 @@
 | [À la base](https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [À la base](https://open.spotify.com/album/5OPIWUXLwNq1rhYv9129qe) | 2:11 | 2026-04-03 |  |
 | [À TON AISE](https://open.spotify.com/track/0Y4qN0tOi83VXdtN5DRcQv) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [À TON AISE](https://open.spotify.com/album/5ydq8wIjsD1T07sfn9d6rw) | 1:24 | 2024-07-05 | 2024-12-14 |
 | [âme soeur](https://open.spotify.com/track/4xzXbFgl04ImzObJFWogDi) | [Gally](https://open.spotify.com/artist/77leAzJhNtGmrB9EzWxBv7) | [âme soeur](https://open.spotify.com/album/3sbIPAftFAOPaNRCiTWDYj) | 3:50 | 2026-02-27 | 2026-06-13 |
+| [ÇA C'EST MON LOSSA](https://open.spotify.com/track/1Fo2PEiXKjPjpWsLibx8D0) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ÇA C'EST MON LOSSA](https://open.spotify.com/album/5lGVJIcVMOuNcEbK6jbquy) | 1:43 | 2026-08-12 |  |
 | [Ça Give](https://open.spotify.com/track/7bIDjJ2Xy1v5WMkgAAi73J) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Ça Give](https://open.spotify.com/album/47jPbCLMtU1fUzgWqQua68) | 2:49 | 2026-05-29 |  |
 | [ÇA VA](https://open.spotify.com/track/0pyxxEEETp7wQsTniHMHIq) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Hybride \(Réédition\)](https://open.spotify.com/album/2x1WZt5KynnoAlvwRxl7La) | 2:22 | 2025-12-19 |  |
 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 | 2023-09-08 | 2023-10-14 |

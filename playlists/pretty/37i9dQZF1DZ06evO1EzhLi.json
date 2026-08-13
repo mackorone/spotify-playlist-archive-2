@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 181608,
+  "num_followers": 181617,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAAA9vZaZB5+d+tIvXstlaIwu",
+  "snapshot_id": "anpmAAAAAAD4nO6dRivdEGaZOpa/eGSz",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acoustic Back Porch Jam",
-        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3 Doors Down",
         "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 232906,
       "name": "Citizen/Soldier",
       "url": "https://open.spotify.com/track/7fKsaiVDwKe6VVsiGk48YG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acoustic Back Porch Jam",
+        "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/1SBuYdJK3a3NU55nGomgAe"
     },
     {
       "added_at": null,

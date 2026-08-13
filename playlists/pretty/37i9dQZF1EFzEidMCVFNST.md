@@ -252,8 +252,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 242 | [Só Quero Te Ouvir Falar](https://open.spotify.com/track/1tedgYQ4PqYiVhCuOekeb4) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Só Quero Te Ouvir Falar](https://open.spotify.com/album/2N7ntTLi6QT7eSt58yYPrU) | 2:12 |
 | 243 | [TROPIKAL GIM \(Ao Vivo\)](https://open.spotify.com/track/3tRruRhLrhUTBPyk1h1yEU) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n), [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [SOM DE FACULDADE PRA VOCÊ \(Ao Vivo\)](https://open.spotify.com/album/6FnUBVHRvKPTk901s0JiR4) | 2:20 |
 | 244 | [Coração Sem Coração \- Ao Vivo](https://open.spotify.com/track/7HkmL5pIL8tRIS3eR451rw) | [PH e Michel](https://open.spotify.com/artist/2K4WKKLOh0k8NwbzDRgIqi) | [Nova História \(Ao Vivo\)](https://open.spotify.com/album/3Ul7XitH9jyzFBl7H9qo8Y) | 2:42 |
-| 245 | [Palavras Não Amam \- Ao Vivo](https://open.spotify.com/track/09deR4vwLCYErfYjXoETxj) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom) | [Em Fases \(Ao Vivo\)](https://open.spotify.com/album/20NsobT5lxHSvdbOmi24kF) | 2:42 |
-| 246 | [Solinho Saliente](https://open.spotify.com/track/1d0c0Tph5ZtTaqxMb6FBv9) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Baile da Brisa](https://open.spotify.com/album/5fh9avSAdPcIpYQ9se6pT9) | 2:25 |
+| 245 | [Solinho Saliente](https://open.spotify.com/track/1d0c0Tph5ZtTaqxMb6FBv9) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Baile da Brisa](https://open.spotify.com/album/5fh9avSAdPcIpYQ9se6pT9) | 2:25 |
+| 246 | [Palavras Não Amam \- Ao Vivo](https://open.spotify.com/track/09deR4vwLCYErfYjXoETxj) | [Maria Cecília & Rodolfo](https://open.spotify.com/artist/1oOTUMbydEi6ogss5Klsom) | [Em Fases \(Ao Vivo\)](https://open.spotify.com/album/20NsobT5lxHSvdbOmi24kF) | 2:42 |
 | 247 | [Exemplo](https://open.spotify.com/track/3arTCOZ3JP84zaB4v5gMSM) | [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Confissões de um Apaixonado](https://open.spotify.com/album/4dJWLnArL6r95Li2hBHtu1) | 3:32 |
 | 248 | [Problemão](https://open.spotify.com/track/7aEMh6RVYuLPXjwwU8IQE3) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Baile da Brisa](https://open.spotify.com/album/5fh9avSAdPcIpYQ9se6pT9) | 2:53 |
 | 249 | [Pá Pá Pá](https://open.spotify.com/track/3jb0inwoz4t8daB38DqKeO) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Energia Não Mente](https://open.spotify.com/album/4hb3wqAa7AnqH1lRLnrqhV) | 2:10 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 308 | [Me Bloqueia Aí](https://open.spotify.com/track/0utltvJp9b2ZpIZjQTL2NV) | [Pablo Dez](https://open.spotify.com/artist/544PiyzO4Bvgl8podt4AhS) | [No Balanço do P10](https://open.spotify.com/album/0NWRfejnCJmKYWlxPa5sCS) | 2:44 |
 | 309 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 
-Snapshot ID: `AcZU/AAAAAA5LcHDri9WbWCmnETTANMy`
+Snapshot ID: `AcZaYAAAAABQjBajwDsbazwODkHzBxu6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,439 likes - 44 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,438 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 37 | [WONDERFUL LOVE](https://open.spotify.com/track/4nBJYU9oQsbXjuFhXOQHjM) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [MF GHOST PRESENTS SUPER EUROBEAT × ORIGINAL SOUNDTRACK NEW COLLECTION Vol.3](https://open.spotify.com/album/6cowExK3KKvoM26QqcQxm5) | 5:03 |
 | 38 | [XTC Acid](https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:11 |
 | 39 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 |
-| 40 | [METAL](https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 3:20 |
-| 41 | [Drop Down](https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CCCLX](https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS) | 2:49 |
-| 42 | [Pretending I Give In \(Let Go\)](https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:02 |
-| 43 | [Intro \(The Full Horror\)](https://open.spotify.com/track/3YPfxc8VgXcRWLjyjNNJ96) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:32 |
-| 44 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 5:27 |
+| 40 | [Drop Down](https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CCCLX](https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS) | 2:49 |
+| 41 | [Pretending I Give In \(Let Go\)](https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:02 |
+| 42 | [Intro \(The Full Horror\)](https://open.spotify.com/track/3YPfxc8VgXcRWLjyjNNJ96) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:32 |
+| 43 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 5:27 |
 
-Snapshot ID: `ankUgAAAAAB3PI1iJlKrmwxC9MFDPO5+`
+Snapshot ID: `anpmAAAAAADUihUYs/8Fo3YEAxkihEPT`

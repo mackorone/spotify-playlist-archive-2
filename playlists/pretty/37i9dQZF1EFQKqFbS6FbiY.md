@@ -442,8 +442,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 432 | [Nem pra Te Trair Eu Presto](https://open.spotify.com/track/3m1kcdzGQzNxj4F2KN6YKK) | [Allan & Maicon](https://open.spotify.com/artist/0PtgT6Z0lUauEPbAr4KlVl) | [Allan & Maicon](https://open.spotify.com/album/3STxAeR1rh4C1JBKXzPgJz) | 2:48 |
 | 433 | [Sol](https://open.spotify.com/track/5cOwGFDhhTVZuJzIVb4cr4) | [Tasadi](https://open.spotify.com/artist/0nuJX5dpBfdhWb1kXdt9tO) | [The System](https://open.spotify.com/album/14CHWOXmNoxDjxwLCh76mo) | 3:55 |
 | 434 | [Te Amo, Carai \- Ao Vivo](https://open.spotify.com/track/1hIJvMxQSOWolUSwWixYpx) | [Jordana & Faust](https://open.spotify.com/artist/7foZfbn8rwwXRPCMhkfh0n) | [Te Amo, Carai \(Ao Vivo\)](https://open.spotify.com/album/7KIAS03F7wGlVkg3XoXSfG) | 3:03 |
-| 435 | [Carona](https://open.spotify.com/track/1ee2WbHDPOq0SlZoeRE82b) | [Karol Carvalho](https://open.spotify.com/artist/10PuUQcehqOhBiCZzAuEbS) | [START, Vol\. 2](https://open.spotify.com/album/3IitoCKKf3wW3mkzlseG3H) | 3:21 |
-| 436 | [Quebra Esse Gelo](https://open.spotify.com/track/5HlRbjoMedxFTbz7GSiA4I) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Formatura](https://open.spotify.com/album/0BO8W6Pm2WjYpQjFb5pOPn) | 2:57 |
+| 435 | [Quebra Esse Gelo](https://open.spotify.com/track/5HlRbjoMedxFTbz7GSiA4I) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Formatura](https://open.spotify.com/album/0BO8W6Pm2WjYpQjFb5pOPn) | 2:57 |
+| 436 | [Carona](https://open.spotify.com/track/1ee2WbHDPOq0SlZoeRE82b) | [Karol Carvalho](https://open.spotify.com/artist/10PuUQcehqOhBiCZzAuEbS) | [START, Vol\. 2](https://open.spotify.com/album/3IitoCKKf3wW3mkzlseG3H) | 3:21 |
 | 437 | [Torcendo garrafa](https://open.spotify.com/track/4j6Mv6l37FEmNVOPhr7MJd) | [Camila e Thiago](https://open.spotify.com/artist/1Caueh3rE3yXl2FAjwjU1J) | [Uma nova história](https://open.spotify.com/album/4EcElS4Sk3K7jaVx1a8Hfj) | 2:40 |
 | 438 | [Buquê de Espinhos](https://open.spotify.com/track/0T4IDdXloPLMeyHIMaU8qU) | [Kiko Cigano](https://open.spotify.com/artist/0iEpXr3YdrrleP5JAoVjo3) | [Só Pedrada 2.0](https://open.spotify.com/album/5vG2exnvuLqSQYsPW4zQMO) | 3:28 |
 | 439 | [Vô Num Vô](https://open.spotify.com/track/3YQ23xhBbGAG0o4PM27FEX) | [Marcello Teodoro](https://open.spotify.com/artist/5YaJ30w1xFCq76GRWIMuvn) | [Vô Num Vô](https://open.spotify.com/album/2xVTqwTuXdsJUGhj1sHng3) | 2:45 |
@@ -489,4 +489,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 479 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 480 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 
-Snapshot ID: `AcZU/AAAAAB9lG7NyIVaBGRT2C1AosgS`
+Snapshot ID: `AcZaYAAAAACpn3qEkikZb2c3wuw3J46y`

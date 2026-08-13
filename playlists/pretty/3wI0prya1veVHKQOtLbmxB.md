@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Fall deeply in love 💖 with this romantic playlist! Featuring soulful ballads, acoustic love songs &amp; intimate tracks from Ed Sheeran, John Legend, Adele, Bruno Mars, and more\. Perfect for date nights or dreaming of romance\. Updated weekly\. Like &amp; Save!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 138,539 likes - 104 songs - 6 hr 30 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 138,524 likes - 104 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21329,
+  "num_followers": 21352,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKEkaNSODl+weKu5kZIZi65egyzq",
+  "snapshot_id": "AAAAAI+EAoI07iHO3ngSXOQzJglOY4ln",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:34",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 175130,
       "name": "Lomo Lomo",
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "Major League",
-        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Major League",
-      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 210566,
       "name": "Gymnastic",
       "url": "https://open.spotify.com/track/53ZyjcAefL9uRYtDFes78m"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "Major League",
+        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Major League",
+      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "Redemption Valley",
-        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Yawa (Hosanna)",
-      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "Stopit",
         "url": "https://open.spotify.com/album/37SxxthY1koSkpvVZv6s2o"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "TREASURE",
-        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
+        "name": "Redemption Valley",
+        "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
         }
       ],
-      "duration_ms": 132000,
-      "name": "TREASURE",
-      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
+      "duration_ms": 165981,
+      "name": "Yawa (Hosanna)",
+      "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -851,6 +835,42 @@
       "duration_ms": 185806,
       "name": "Violence (feat. Kweku Smoke)",
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "TREASURE",
+        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "TREASURE",
+      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "duration_ms": 139859,
+      "name": "ROVER",
+      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -895,22 +915,30 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "CHRISTO DISCO",
-        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "MURPHY",
+          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
         },
         {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
         }
       ],
-      "duration_ms": 139859,
-      "name": "ROVER",
-      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
+      "duration_ms": 163837,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -963,30 +991,18 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
+        "name": "The Odyssey",
+        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
       },
       "artists": [
         {
-          "name": "MURPHY",
-          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
         }
       ],
-      "duration_ms": 163837,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
+      "duration_ms": 192000,
+      "name": "Ara No Dey Sleep",
+      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "The Odyssey",
-        "url": "https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG"
+        "name": "Their Back",
+        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Ara No Dey Sleep",
-      "url": "https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g"
+      "duration_ms": 161320,
+      "name": "Their Back",
+      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "Their Back",
-        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 161320,
-      "name": "Their Back",
-      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -1075,6 +1075,30 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "Aso II",
+        "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
+      },
+      "artists": [
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "duration_ms": 266967,
+      "name": "Aso II",
+      "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1115,30 +1139,6 @@
       "duration_ms": 217399,
       "name": "Jesus Christ 2",
       "url": "https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
-        "name": "Aso II",
-        "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
-      },
-      "artists": [
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        }
-      ],
-      "duration_ms": 266967,
-      "name": "Aso II",
-      "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "Rise Up (Dandelion)",
-        "url": "https://open.spotify.com/album/2g5yUlLk3XAGC00SA6cVqN"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        }
-      ],
-      "duration_ms": 137475,
-      "name": "Rise Up (Dandelion)",
-      "url": "https://open.spotify.com/track/3Q4dmZRKmTFsErYSey6bfM"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "Rise Up (Dandelion)",
+        "url": "https://open.spotify.com/album/2g5yUlLk3XAGC00SA6cVqN"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "duration_ms": 137475,
+      "name": "Rise Up (Dandelion)",
+      "url": "https://open.spotify.com/track/3Q4dmZRKmTFsErYSey6bfM"
     },
     {
       "added_at": "2026-08-07 00:01:34",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-07 00:01:34",
       "album": {
-        "name": "Aketesia",
-        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
-      },
-      "artists": [
-        {
-          "name": "Cojo Rae",
-          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
-    },
-    {
-      "added_at": "2026-08-07 00:01:34",
-      "album": {
         "name": "Trapper Sem",
         "url": "https://open.spotify.com/album/5I3sxFEuoZZug8mNGKq5D3"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 138260,
       "name": "Trapper Sem",
       "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
+    },
+    {
+      "added_at": "2026-08-07 00:01:34",
+      "album": {
+        "name": "Aketesia",
+        "url": "https://open.spotify.com/album/41RLbSayOHr6zH617y2SNB"
+      },
+      "artists": [
+        {
+          "name": "Cojo Rae",
+          "url": "https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/1OBLsg0ms0mNlZsvXOd4hm"
     },
     {
       "added_at": "2026-08-07 00:01:34",

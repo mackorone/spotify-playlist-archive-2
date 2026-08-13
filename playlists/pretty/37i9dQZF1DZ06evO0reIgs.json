@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81964,
+  "num_followers": 81961,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAABGzEGBB03yEb3hjI/kSHHC",
+  "snapshot_id": "anpmAAAAAABWIhcjn+a7pRoRbwpBAYDm",
   "tracks": [
     {
       "added_at": null,
@@ -103,10 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Pior Disco do Ano",
-        "url": "https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli"
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
       },
       "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
         {
           "name": "Froid",
           "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
@@ -116,9 +128,9 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 210517,
-      "name": "Lament\u00e1vel, Pt. III",
-      "url": "https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG"
+      "duration_ms": 193322,
+      "name": "Camisa P",
+      "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
     },
     {
       "added_at": null,
@@ -175,22 +187,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+        "name": "O Pior Disco do Ano",
+        "url": "https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli"
       },
       "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
         {
           "name": "Froid",
           "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 193322,
-      "name": "Camisa P",
-      "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
+      "duration_ms": 210517,
+      "name": "Lament\u00e1vel, Pt. III",
+      "url": "https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG"
     },
     {
       "added_at": null,
@@ -779,6 +779,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cereja",
         "url": "https://open.spotify.com/album/6FO3zgZlhq6NfNrHSgubXn"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 159999,
       "name": "Cereja",
       "url": "https://open.spotify.com/track/2VZgbJIg8pphXPwdDtkuIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia de Boteco 2",
         "url": "https://open.spotify.com/album/5RhDrxzu6M5sujbEhDzWWN"
       },
@@ -923,22 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+        "name": "A Culpa \u00c9 das Igrejas / Sinais",
+        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
       "artists": [
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
+      "duration_ms": 247975,
+      "name": "A Culpa \u00c9 das Igrejas / Sinais",
+      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
     },
     {
       "added_at": null,
@@ -963,26 +983,6 @@
       "duration_ms": 162352,
       "name": "Te Escolhi",
       "url": "https://open.spotify.com/track/4hr93nmJbrM5fa6TpxA1jW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Culpa \u00c9 das Igrejas / Sinais",
-        "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 247975,
-      "name": "A Culpa \u00c9 das Igrejas / Sinais",
-      "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
     },
     {
       "added_at": null,
@@ -1151,6 +1151,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sejas Bem Feliz",
+        "url": "https://open.spotify.com/album/3meUGWg5bCK4OoEJBOUkve"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "Sejas Bem Feliz",
+      "url": "https://open.spotify.com/track/4d8FiRf83bWZk7EZpEE1GA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Caos ao Nirvana",
         "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
@@ -1175,26 +1199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sejas Bem Feliz",
-        "url": "https://open.spotify.com/album/3meUGWg5bCK4OoEJBOUkve"
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
       },
       "artists": [
         {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 202434,
-      "name": "Sejas Bem Feliz",
-      "url": "https://open.spotify.com/track/4d8FiRf83bWZk7EZpEE1GA"
+      "duration_ms": 232560,
+      "name": "Alaska, Pt. 2",
+      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
     },
     {
       "added_at": null,
@@ -1223,46 +1243,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+        "name": "Vivendo Demais",
+        "url": "https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Alaska, Pt. 2",
-      "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cris\u00e1lida",
-        "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "GvsnoBeat",
-          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 183428,
-      "name": "Romance de Fevereiro",
-      "url": "https://open.spotify.com/track/0MI5t0bfLWpgQ8VBBvFOLr"
+      "duration_ms": 193685,
+      "name": "Vivendo Demais",
+      "url": "https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: スーパー登山部 Super Climbing Club
 
-3,751 songs - 9 day 21 hr 54 min
+3,752 songs - 9 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3422,6 +3422,7 @@
 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 | 2023-11-29 | 2024-03-08 |
 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 | 2024-11-05 | 2025-05-09 |
 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 | 2024-03-07 | 2024-04-10 |
+| [栄養](https://open.spotify.com/track/38tZWlrkJuNrjwCeLULR9M) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [栄養](https://open.spotify.com/album/5zz8XFh79B4JXzlozWeeOB) | 3:10 | 2026-08-11 |  |
 | [栞](https://open.spotify.com/track/6bpeujh4x2kEYd8FDWZJOx) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9), [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [栞](https://open.spotify.com/album/1pbbqvubINafcryUI0cuhR) | 4:34 | 2024-09-03 | 2024-10-08 |
 | [格好悪いふられ方](https://open.spotify.com/track/0NUtGGMrDe0uCEsOgwaKnX) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [格好悪いふられ方](https://open.spotify.com/album/7z1XV7hTBPhaLEFAGc3bPm) | 3:29 | 2023-09-05 | 2023-10-25 |
 | [桃源郷](https://open.spotify.com/track/0Tjvz28oGJvg6EIyQHIWvo) | [シャイトープ](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [桃源郷](https://open.spotify.com/album/7JN2dM1jZOPxwdonfULaU3) | 4:03 | 2023-07-04 | 2023-10-11 |

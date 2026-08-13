@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 
 > All the biggest House &amp; Tech House anthems of right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,423 likes - 99 songs - 5 hr 11 min
+[Toolroom Records](https://open.spotify.com/user/1135439236) - 63,429 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/6J1r02xyO2qkMA9dDNZytJ.md) - [plain]
 | 11 | [Sweat](https://open.spotify.com/track/5rVIjomTZ8KdqC6o5F4qsF) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Sweat](https://open.spotify.com/album/1LcasmjXAYOpNbQZDI5CMJ) | 2:55 |
 | 12 | [Good Girl](https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Good Girl](https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx) | 3:01 |
 | 13 | [Lost At The End](https://open.spotify.com/track/0pO2cOA50glGKqVAOc6lqE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Lost At The End](https://open.spotify.com/album/39CghkcH7i9AsOLbu7ozMz) | 3:01 |
-| 14 | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
+| 14 | [Impressions](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
 | 15 | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Silver Lines \(feat\. Emily Warren\)](https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1) | 3:21 |
 | 16 | [Purple Haze](https://open.spotify.com/track/47ChGwpA9WFWsr18z1zfIs) | [Cristina Lazic](https://open.spotify.com/artist/6ArqtJTtHih9GEgA7XvDyg), [ABEL](https://open.spotify.com/artist/2EsYY7ZHoWaQgPFwWgbyMe) | [Purple Haze](https://open.spotify.com/album/2mT5fBPAL8IyF6Em6QEP23) | 3:03 |
 | 17 | [Touch Me](https://open.spotify.com/track/7pdnrLzhnwtEAdlcIPpAwe) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc), [Zack Darza](https://open.spotify.com/artist/1lTlUGVbQ7f7NQ5vHeg6xm) | [Touch Me](https://open.spotify.com/album/0a1Skpwx5RjTkDP3vL9a8e) | 2:42 |

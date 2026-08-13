@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: Mercy Chinwo & Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,786 likes - 100 songs - 14 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,932 likes - 100 songs - 14 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 99 | [Faithful God \- Live](https://open.spotify.com/track/2BXOwdc7zZDiV2emukRyM8) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Faithful God \(Live\)](https://open.spotify.com/album/6HI85Os4NxyfOcpCvfnEJF) | 10:39 |
 | 100 | [Kadosh \[Holy One\]](https://open.spotify.com/track/6XSvD90syUwTGVCF1vkvao) | [B Jazz](https://open.spotify.com/artist/6dK4RRKNrcATMmMySMmU5d), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Kadosh \[Holy One\]](https://open.spotify.com/album/2gMQXWtx6d88FhEvfyGNhy) | 8:40 |
 
-Snapshot ID: `AAAAAN7JZCvNgz4kk/qGfZagAhxA9lTJ`
+Snapshot ID: `AAAAAOjT65/ZQPQxchPM0tcph/stjysD`

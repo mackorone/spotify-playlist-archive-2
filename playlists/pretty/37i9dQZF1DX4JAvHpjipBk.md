@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from KAROL G, Ravyn Lenae, ROLE MODEL,  Pooh Shiesty and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,612,775 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,612,538 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Heartclub](https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q) | 3:07 |
 | 100 | [Fux With Us \(feat\. TiaCorine\)](https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Fux With Us \(feat\. TiaCorine\)](https://open.spotify.com/album/3hxSPaPvkCnM6qgm9ld1HR) | 2:43 |
 
-Snapshot ID: `AAAAAKSpIvVWhWFVo/KETX4IZA/lfGr8`
+Snapshot ID: `AAAAACrrvl3y+afAEA9IQtdz45D2EBkC`

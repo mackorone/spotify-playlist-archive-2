@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡PUEEERTAAAAAAAAS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,224 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,236 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 13 | [A Gozar](https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 4:36 |
 | 14 | [El Ahualulco](https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Que Bonito Es Lo Bonito](https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl) | 2:46 |
 | 15 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
-| 16 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
-| 17 | [Ordeñando la Vaca](https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Endemoniado](https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy) | 2:48 |
+| 16 | [Ordeñando la Vaca](https://open.spotify.com/track/0zfzPt18qFfK0FV6L4AYYB) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Zapateado Endemoniado](https://open.spotify.com/album/5eQAXWYl9yiUHEH2X1qUKy) | 2:48 |
+| 17 | [Tamarindo](https://open.spotify.com/track/57gZ0m6MfrQhJu1DwNyIE9) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:39 |
 | 18 | [Tumbando Caña \(El Alacrán\)](https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:30 |
 | 19 | [Popurrí: Las Vaquillas Cabronas](https://open.spotify.com/track/0mFUqKd7VxTNNMfHefoxwS) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [Me Hacían Falta Huevos](https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI) | 8:29 |
 | 20 | [La Fea](https://open.spotify.com/track/5pYQp20M7Ul2W1Q7fYhVrh) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:54 |
@@ -88,14 +88,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 78 | [La Feria de Cali](https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 2:41 |
 | 79 | [11 Pueblos \(Carlillos Guerrero\) \- En Vivo](https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW) | [Banda La Maxima Escuela](https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0) | [Sones Tradicionales \(En Vivo\)](https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc) | 3:11 |
 | 80 | [La Yaquesita](https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 3:37 |
-| 81 | [El Son Del Veneno](https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH) | [Banda Los Tecateando](https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe) | [Haciendo Historia](https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN) | 4:12 |
-| 82 | [El Coyotito \- En Vivo](https://open.spotify.com/track/4cvgt1OqvbjikfPRJFfQCN) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sones Adictivos \(En Vivo\)](https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4) | 2:24 |
-| 83 | [El Novillo Despuntado](https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR) | [Banda La Fascinante del Merito Zirahuen](https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 2:57 |
-| 84 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
+| 81 | [El Coyotito \- En Vivo](https://open.spotify.com/track/4cvgt1OqvbjikfPRJFfQCN) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sones Adictivos \(En Vivo\)](https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4) | 2:24 |
+| 82 | [El Son Del Veneno](https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH) | [Banda Los Tecateando](https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe) | [Haciendo Historia](https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN) | 4:12 |
+| 83 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
+| 84 | [El Novillo Despuntado](https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR) | [Banda La Fascinante del Merito Zirahuen](https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 2:57 |
 | 85 | [Arriba Tonichi](https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:38 |
 | 86 | [El Gusto](https://open.spotify.com/track/0g4J2Kw7nnXJqzGhac1tPG) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 1:59 |
-| 87 | [Juan Colorado](https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:53 |
-| 88 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
+| 87 | [El Son Del Toro](https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud) | [Banda 466 Paso a Paso](https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm) | [Mis Raíces](https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5) | 2:42 |
+| 88 | [Juan Colorado](https://open.spotify.com/track/2Vq8dMWAxw1NFLhFSa83ss) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:53 |
 | 89 | [Homenaje a Un Barbaro ..\. Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Piña](https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 4:48 |
 | 90 | [Arriba Pichantaro \(En Vivo\)](https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl) | [Banda Imperio De Colima](https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s) | [En Vivo Desde Colima, Vol\. 2](https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n) | 3:27 |
 | 91 | [La Cuichi \- En Vivo](https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Sones Adictivos \(En Vivo\)](https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4) | 2:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 124 | [El Capiro](https://open.spotify.com/track/42d9ExiLvYE8RLaPkVQimd) | [Banda Los Escamilla](https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE) | [Borracho 16 Exitos](https://open.spotify.com/album/0HiCVaa9wM6QTTHM3D6vMB) | 3:03 |
 | 125 | [La Guitarra de Lolo](https://open.spotify.com/track/13OHyNseYByEDHeRzO6sD2) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/1Ox5R02tG0QtL05vVa9yc9) | 3:18 |
 
-Snapshot ID: `AAAAAPNDbyjGhgdHoCUGuUNrC0XshP3M`
+Snapshot ID: `AAAAABgkh6S8vuJYLhrpdxeVO3kdUkvV`

@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1326553,
+  "num_followers": 1326436,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD0wWnG/Qx3V5G7EBj5s+V6wxWpE",
+  "snapshot_id": "AAAAANcmMVEiK+4uB0rY3FWb6nPwpuAt",
   "tracks": [
     {
       "added_at": "2026-05-08 17:21:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Stars and Satellites",
-        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268280,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Ghost of Chicago",
         "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
       },
@@ -459,18 +443,18 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Feathers & Fishhooks",
-        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
+        "name": "Stars and Satellites",
+        "url": "https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
+      "duration_ms": 268280,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5H06kjjKa1Oz8BZcGeplel"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -487,6 +471,22 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Feathers & Fishhooks",
+        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 196195,
       "name": "Getting Ready to Get Down",
       "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "October (October Version)",
-        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
-      },
-      "artists": [
-        {
-          "name": "HAPPY LANDING",
-          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
-        }
-      ],
-      "duration_ms": 277777,
-      "name": "October (October Version)",
-      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Backpush",
         "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 182152,
       "name": "Backpush",
       "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "October (October Version)",
+        "url": "https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 277777,
+      "name": "October (October Version)",
+      "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Between the Bed and Room",
-        "url": "https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6"
-      },
-      "artists": [
-        {
-          "name": "Robert John Ardiff",
-          "url": "https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7"
-        }
-      ],
-      "duration_ms": 236075,
-      "name": "People Talking",
-      "url": "https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Past Dawn",
         "url": "https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 239360,
       "name": "Acre of Land",
       "url": "https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Between the Bed and Room",
+        "url": "https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6"
+      },
+      "artists": [
+        {
+          "name": "Robert John Ardiff",
+          "url": "https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7"
+        }
+      ],
+      "duration_ms": 236075,
+      "name": "People Talking",
+      "url": "https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "When Creation Was Young",
-      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Falling Asleep At The Wheel",
         "url": "https://open.spotify.com/album/2CndY3GLsa0e0gliCDPMsK"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 203247,
       "name": "Falling Asleep At The Wheel",
       "url": "https://open.spotify.com/track/5H1va3j5Bmr4zdBVgTwUti"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "When Creation Was Young",
+      "url": "https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1531,34 +1531,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
-      },
-      "artists": [
-        {
-          "name": "AVEC",
-          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
-        },
-        {
-          "name": "Miriam Hufnagl",
-          "url": "https://open.spotify.com/artist/2H1PY3S8L0xIEGUyTKOu7Q"
-        },
-        {
-          "name": "Andreas H\u00e4userer",
-          "url": "https://open.spotify.com/artist/1wLgk2gsc6xuU0vx7bqVVa"
-        },
-        {
-          "name": "Tommy McLaughlin",
-          "url": "https://open.spotify.com/artist/46JFGQshAlfg3erVOMTCNm"
-        }
-      ],
-      "duration_ms": 203673,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Getting It Right",
         "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
       },
@@ -1595,6 +1567,34 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        },
+        {
+          "name": "Miriam Hufnagl",
+          "url": "https://open.spotify.com/artist/2H1PY3S8L0xIEGUyTKOu7Q"
+        },
+        {
+          "name": "Andreas H\u00e4userer",
+          "url": "https://open.spotify.com/artist/1wLgk2gsc6xuU0vx7bqVVa"
+        },
+        {
+          "name": "Tommy McLaughlin",
+          "url": "https://open.spotify.com/artist/46JFGQshAlfg3erVOMTCNm"
+        }
+      ],
+      "duration_ms": 203673,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6HbXjawbH9bTwsCXAZgpDc"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 201936,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "5am Paradise",
         "url": "https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 204854,
       "name": "Man Made by Delusion",
       "url": "https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 201936,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi"
     },
     {
       "added_at": "2026-05-08 17:21:15",

@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack del verano 2026 \ud83c\udfdd\ufe0f Cover: Kapo",
-  "num_followers": 3425874,
+  "num_followers": 3425354,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwMBzg7kffDyrcS8K/FkifOTKss",
+  "snapshot_id": "AAAAACzcI1E0jRvDFVvZUNRhZFikOME8",
   "tracks": [
     {
       "added_at": "2026-08-07 14:42:00",
@@ -127,26 +127,6 @@
     {
       "added_at": "2026-08-07 14:42:00",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
-    },
-    {
-      "added_at": "2026-08-07 14:42:00",
-      "album": {
         "name": "La Voz Favorita",
         "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 276000,
       "name": "De Lejitos - Remix",
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
+    },
+    {
+      "added_at": "2026-08-07 14:42:00",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
       "added_at": "2026-08-07 14:42:00",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-08-07 14:42:00",
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
+    },
+    {
+      "added_at": "2026-08-07 14:42:00",
+      "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 289131,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
-    },
-    {
-      "added_at": "2026-08-07 14:42:00",
-      "album": {
-        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
-        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 176568,
-      "name": "Ah\u00ed",
-      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
     },
     {
       "added_at": "2026-08-07 14:42:00",
@@ -875,6 +875,26 @@
     {
       "added_at": "2026-08-07 14:42:00",
       "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
+    },
+    {
+      "added_at": "2026-08-07 14:42:00",
+      "album": {
         "name": "PANTI Y COLALE 2.0",
         "url": "https://open.spotify.com/album/4uG8w5nxJNBtZnQ9VFP3ep"
       },
@@ -919,26 +939,6 @@
     {
       "added_at": "2026-08-07 14:42:00",
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
-    },
-    {
-      "added_at": "2026-08-07 14:42:00",
-      "album": {
         "name": "De Lejitos",
         "url": "https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
+    },
+    {
+      "added_at": "2026-08-07 14:42:00",
+      "album": {
+        "name": "amoureux",
+        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "amoureux",
+      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
     },
     {
       "added_at": "2026-08-07 14:42:00",
@@ -975,18 +991,22 @@
     {
       "added_at": "2026-08-07 14:42:00",
       "album": {
-        "name": "amoureux",
-        "url": "https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh"
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
       "artists": [
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 133500,
-      "name": "amoureux",
-      "url": "https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd"
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
       "added_at": "2026-08-07 14:42:00",
@@ -1047,26 +1067,6 @@
     {
       "added_at": "2026-08-07 14:42:00",
       "album": {
-        "name": "ZIZI",
-        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "ZIZI",
-      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
-    },
-    {
-      "added_at": "2026-08-07 14:42:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Es El After?",
         "url": "https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 159333,
       "name": "Se Vienen Cositas",
       "url": "https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI"
+    },
+    {
+      "added_at": "2026-08-07 14:42:00",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 180894,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"
     },
     {
       "added_at": "2026-08-07 14:42:00",
@@ -1115,38 +1131,6 @@
     {
       "added_at": "2026-08-07 14:42:00",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2026-08-07 14:42:00",
-      "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/4ljazARRKBsouqhbB864Ms"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 180894,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"
-    },
-    {
-      "added_at": "2026-08-07 14:42:00",
-      "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 155265,
       "name": "SANKA",
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
+    },
+    {
+      "added_at": "2026-08-07 14:42:00",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2026-08-07 14:42:00",
@@ -1247,6 +1247,22 @@
       "duration_ms": 140461,
       "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
       "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
+    },
+    {
+      "added_at": "2026-08-07 14:42:00",
+      "album": {
+        "name": "RIKI",
+        "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 183934,
+      "name": "RIKI",
+      "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
     },
     {
       "added_at": "2026-08-07 14:42:00",
@@ -1491,22 +1507,6 @@
       "duration_ms": 168209,
       "name": "Me Mareo",
       "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
-    },
-    {
-      "added_at": "2026-08-07 14:42:00",
-      "album": {
-        "name": "RIKI",
-        "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 183934,
-      "name": "RIKI",
-      "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
     },
     {
       "added_at": "2026-08-07 14:42:00",

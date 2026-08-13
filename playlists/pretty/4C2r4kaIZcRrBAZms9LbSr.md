@@ -4,21 +4,23 @@ pretty - [cumulative](/playlists/cumulative/4C2r4kaIZcRrBAZms9LbSr.md) - [plain]
 
 > The sounds that have currently got the Rough Trade Records team excited, including new releases and favourites from the archive\. Currently updated every Monday.
 
-[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 16,088 likes - 12 songs - 46 min 30 sec
+[Rough Trade Records](https://open.spotify.com/user/roughtraderecordsuk) - 16,090 likes - 14 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beautiful ending \- Giant Claw Remix](https://open.spotify.com/track/0CL8rJtrUSpPLkOkDisuOt) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Giant Claw](https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc) | [Beautiful ending \(Giant Claw Remix\)](https://open.spotify.com/album/5jNghdRggSV6Z8OCpT44XP) | 4:02 |
-| 2 | [Perfect Way \- Remaster](https://open.spotify.com/track/1H0tGwgAstAxLzf9N7e1XL) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Cupid & Psyche 85 \(2022 Remaster\)](https://open.spotify.com/album/7Din1AyNdpWkYlDhxbFoFu) | 4:33 |
-| 3 | [In The Shadow Of Your Ego](https://open.spotify.com/track/3XCMoxErSw7FbrgleP9jUm) | [Sunday Mourners](https://open.spotify.com/artist/7zlE048Rl8GTsbWAP1MZeQ) | [In The Shadow Of Your Ego](https://open.spotify.com/album/0VzhDy48yKgz54kOzu5G4K) | 3:28 |
-| 4 | [Soul Time](https://open.spotify.com/track/43AxKhfph92zcKMRAiqwvS) | [Shirley Ellis](https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg) | [Sugar, Let's Shing\-A\-Ling](https://open.spotify.com/album/1kWifxi5V0WQdBI0jZyv8M) | 2:37 |
-| 5 | [Right Track](https://open.spotify.com/track/3APk2BngsDT5y1ZlfhtWx3) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track](https://open.spotify.com/album/2ixFeU0MwqRnHzmjMfN0TI) | 2:28 |
-| 6 | [I Want'a Do Something Freaky To You](https://open.spotify.com/track/4xiVqeo21JSq78pFGojGVY) | [Leon Haywood](https://open.spotify.com/artist/4r2UnA39uIXexqO1mABayb) | [Come And Get Yourself Some](https://open.spotify.com/album/4Q5sjR9gX9KmyhYOa39bYi) | 5:52 |
-| 7 | [You Are](https://open.spotify.com/track/5qUTDIOCMufayjyWf4V074) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [You Are](https://open.spotify.com/album/5Vh7K6GYEzawDjAj5NVNd8) | 4:13 |
-| 8 | [Love Hit Me With A Wallop \- Original](https://open.spotify.com/track/14yMcFEQ1zLnqEOL0cq4PU) | [Roddie Joy](https://open.spotify.com/artist/6WjcsBFHLNYWjozNeTzKTs) | [Roddie Joy's Love Hit Me With A Wallop](https://open.spotify.com/album/2qS5YyQnro6OJUdoxqOT4M) | 2:22 |
-| 9 | [Muffin Man](https://open.spotify.com/track/1a19kiTeYBOaS9G9aYNnEQ) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN), [Captain Beefheart](https://open.spotify.com/artist/2ebK4ueGwhVaXUm060m1BS), [The Mothers](https://open.spotify.com/artist/6O2r6FHJL6hRJxBI5TUn0K) | [Bongo Fury \(Live\)](https://open.spotify.com/album/5ya1WvD8rFTmxeF7szOolq) | 5:37 |
-| 10 | [Matter of Time](https://open.spotify.com/track/0oDv7wIr85mZEJ5FIbuAFt) | [The Gnomes](https://open.spotify.com/artist/1Ax3BC6GoOGjSw2ipoi6P6) | [More](https://open.spotify.com/album/6oCEAeL5fCmc7jawaM5GQm) | 3:28 |
-| 11 | [100,000](https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Little Wide Open](https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U) | 5:13 |
-| 12 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
+| 1 | [Live It Down](https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02) | [Tyler Ballgame](https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK) | [Live It Down](https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0) | 3:43 |
+| 2 | [Still I Love Him](https://open.spotify.com/track/1PbuDuVr1YqxVTk3jv4LTl) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Still I Love Him](https://open.spotify.com/album/0ENfPSVn8uvUIytzWFwvat) | 6:16 |
+| 3 | [Placeholder](https://open.spotify.com/track/5V1kxhCYOixHKKei4c4EwE) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Placeholder](https://open.spotify.com/album/2LsamWtPqjSpB4rNICcaRp) | 4:14 |
+| 4 | [death valley fridge magnet](https://open.spotify.com/track/1rzf8tDuXVxyGXdJBxFNSI) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [death valley fridge magnet](https://open.spotify.com/album/616dP07OohyFY5DuNFxJur) | 4:24 |
+| 5 | [Baby](https://open.spotify.com/track/37bY677poQAFeSdBNTN7Ik) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Baby](https://open.spotify.com/album/15t5pAZbc5EAnu3Uc2BKHX) | 6:33 |
+| 6 | [The Tenpenny Piece / Elizabeth Kelly's Delight](https://open.spotify.com/track/22Qq7uQG5rM1lzejtEW3DT) | [Paahto & The Bull](https://open.spotify.com/artist/2dhyG72pNGPQiGVoPvTijs) | [The Tenpenny Piece / Elizabeth Kelly's Delight](https://open.spotify.com/album/50S1T5A2Yz4O7hczsxHgkt) | 3:55 |
+| 7 | [SPECIAL WEAKNESS](https://open.spotify.com/track/56PQ9YCEIe1YhSe90NGdRu) | [Nirosta Steel](https://open.spotify.com/artist/6B6MO6Q4QoLGVq7Kf8vlGM) | [MY SKYSCRAPER](https://open.spotify.com/album/0yZchhNCCIzegjc1ElL5Em) | 13:33 |
+| 8 | [Live Without Her Love](https://open.spotify.com/track/5A2SzM69oijfu5scaUmzWi) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Live Without Her Love](https://open.spotify.com/album/46hmma6B2khDw8CxVnxPDN) | 4:08 |
+| 9 | [I Have Known Love](https://open.spotify.com/track/1t8hGSHakCiyoidxZ1Omfx) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Contact](https://open.spotify.com/album/6dNoZCStK0RoBhqLj3kJN8) | 3:54 |
+| 10 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 |
+| 11 | [Mam Yinne Wa](https://open.spotify.com/track/7idNapSLaJMRTfIk5nPE0U) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [Mam Yinne Wa](https://open.spotify.com/album/029cFMxo8WWyvXbh66yJmF) | 3:55 |
+| 12 | [No Ordinary Word](https://open.spotify.com/track/5eFzFGYWwDMhOtlaWFDvxF) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [No Ordinary Word](https://open.spotify.com/album/6PwvGFJfhcZDhzCHwk4vei) | 5:45 |
+| 13 | [Man The Door](https://open.spotify.com/track/1WFg77VnAM70L2FmQatjp2) | [Curbside Lambsear](https://open.spotify.com/artist/1RxPg5a5HnVNZ9gpokMfzh) | [No Ordinary Word](https://open.spotify.com/album/6PwvGFJfhcZDhzCHwk4vei) | 6:02 |
+| 14 | [Drive/Park](https://open.spotify.com/track/2nFYhi1w2aNyb4EcZQ5Jhx) | [Heathers](https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M) | [Drive/Park](https://open.spotify.com/album/2bCd5sjRz4VmrdFTGFOYjn) | 2:36 |
 
-Snapshot ID: `AAAYR9p3xVSYoyxivmeOB79dfitntSM7`
+Snapshot ID: `AAAYZPZEsfYoe9Pkwt+7I7Caei8Y29/4`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVCk2se27jFX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVCk2se27jFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVCk2se27jFX)
 
-### [Donde la música se encuentra](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
+### [Punto de encuentro: Spotify x BOmm 2026](https://open.spotify.com/playlist/37i9dQZF1DWVCk2se27jFX)
 
 > Los sonidos, artistas y escenas que convergen en el BOmm 2026\. Foto: Jossman
 

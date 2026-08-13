@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain]
 
 > Music from "Blue Box"! /アニメ「アオのハコ」の世界を彩る楽曲をプレイリストで。©三浦糀／集英社・「アオのハコ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,584 likes - 79 songs - 17 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,595 likes - 79 songs - 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYA0Wp1RfMTJ.md) - [plain]
 | 78 | [\#3【アオのハコ】  千葉翔也×鬼頭明里 「愛のあるいじりって思いながら、演じています！」](https://open.spotify.com/episode/7mX9pQOodLMhxp8vl03pQu) | [Spotify ANIZONE \- アニゾーン 【攻殻機動隊 THE GHOST IN THE SHELL／ビデオポッドキャスト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【攻殻機動隊 THE GHOST IN THE SHELL／ビデオポッドキャスト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 31:26 |
 | 79 | [\#4【アオのハコ】  千葉翔也×鬼頭明里 「第４話は“ぶっ飛んだ非日常”ですよ！！」](https://open.spotify.com/episode/4kSBxktB7rXBUJtbHibM3k) | [Spotify ANIZONE \- アニゾーン 【攻殻機動隊 THE GHOST IN THE SHELL／ビデオポッドキャスト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【攻殻機動隊 THE GHOST IN THE SHELL／ビデオポッドキャスト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 32:47 |
 
-Snapshot ID: `AAAAAF2LRyo1O7Ye3AQpkvqtMva1rTVV`
+Snapshot ID: `AAAAAFaw4zS9/eMVp4p0k/NbJYn+b2nK`

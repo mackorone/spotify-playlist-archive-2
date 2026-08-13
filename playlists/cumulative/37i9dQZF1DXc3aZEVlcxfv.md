@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-666 songs - 1 day 20 hr 40 min
+667 songs - 1 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [FRIEND INDEED](https://open.spotify.com/track/37Z396VXnlD0ZaAukhljSl) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [FRIEND INDEED](https://open.spotify.com/album/3ZtXTQaPwtw9s7TENPCH2u) | 2:19 | 2025-04-18 | 2025-06-06 |
 | [Game Changer](https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Consecrated](https://open.spotify.com/album/43dgcmNuJia1zc64HRWlLE) | 4:42 | 2024-09-27 | 2025-02-07 |
 | [Gathering \- Special Version](https://open.spotify.com/track/0YKi0GV9YJ5ufYvX5aOYeK) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Gathering \(Special Version\)](https://open.spotify.com/album/16aGD6JpxEnq8WIknNoo2T) | 2:25 | 2024-10-18 | 2025-02-28 |
-| [Give Am Praise](https://open.spotify.com/track/3PVoW55Hs6hfokXqnBc0u2) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Give Am Praise](https://open.spotify.com/album/01r98bMngk1MOMjY50Kvhm) | 7:01 | 2026-07-17 |  |
+| [Give Am Praise](https://open.spotify.com/track/3PVoW55Hs6hfokXqnBc0u2) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV) | [Give Am Praise](https://open.spotify.com/album/01r98bMngk1MOMjY50Kvhm) | 7:01 | 2026-07-17 | 2026-08-13 |
 | [Giver of Good Things](https://open.spotify.com/track/4aDY4firFK9JKg6AgpPHwP) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Giver of Good Things](https://open.spotify.com/album/6jUm0DbfPTh0KQlPDMj10E) | 2:28 | 2025-12-12 | 2026-02-06 |
 | [Glorify the Lord](https://open.spotify.com/track/1WdnWUQaH6GUi2PABm1fry) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Glorify the Lord](https://open.spotify.com/album/2fgmnE9IqqX1cq0XT220cs) | 2:43 | 2026-01-02 | 2026-04-03 |
 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 | 2026-01-16 | 2026-03-20 |
@@ -351,6 +351,7 @@
 | [Joy](https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN) | [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Sound From The South](https://open.spotify.com/album/3qhYnMrI5u6t7eZcL6eGQJ) | 3:26 | 2026-02-13 | 2026-03-13 |
 | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/track/1DAUHWoF0BRWT0wyES0I9W) | [Timi Phoenix](https://open.spotify.com/artist/44e37JkgcHI4857DDZWOdr), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [Joy \(feat\. LC Beatz\)](https://open.spotify.com/album/6ugfSSCMX9r5cesyyAxw9l) | 2:57 | 2024-10-18 | 2025-02-07 |
 | [Joy in Chaos \(Extended\)](https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [D6](https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Joy in Chaos \(Extended\)](https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv) | 2:06 | 2024-09-27 | 2025-02-28 |
+| [Just Like You](https://open.spotify.com/track/3tHGAJ7o4UchiipMRmF7Cf) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Just Like You](https://open.spotify.com/album/4scW7AmL1CwBc3yHoXVCof) | 2:53 | 2026-07-24 |  |
 | [K'OSENI](https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP) | [Teninlanimi](https://open.spotify.com/artist/3v1jjJ9WiMfU0BO3IcsWBJ) | [K'OSENI](https://open.spotify.com/album/14GZ39xl38lVY7kyMquigq) | 3:07 | 2026-07-10 |  |
 | [Kaunar Allah](https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Kaunar Allah](https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y) | 3:18 | 2026-06-12 | 2026-07-12 |
 | [Kumama](https://open.spotify.com/track/0T1976UbQjxp4gp529DmQ7) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [Kumama](https://open.spotify.com/album/0rE7B3Buwz2JCQjdPZWLXw) | 3:20 | 2025-03-07 | 2025-07-25 |

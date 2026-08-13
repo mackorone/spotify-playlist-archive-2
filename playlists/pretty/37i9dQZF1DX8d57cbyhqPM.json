@@ -1,79 +1,15 @@
 {
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Jungeli.",
-  "num_followers": 82637,
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Fally Ipupa.",
+  "num_followers": 82723,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+DhKI6JUXu4XBIjLind69jhq3y",
+  "snapshot_id": "AAAAAGNsWCRib7GGNJtiIl54uC4DWHNS",
   "tracks": [
     {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Face ID",
-        "url": "https://open.spotify.com/album/01FQeOcF3uekuC3EQKq9jy"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 137478,
-      "name": "Nouveaux V\u00eatements",
-      "url": "https://open.spotify.com/track/0u2uOHTTxWDclpULXVVktT"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "20 MILLIONS",
-        "url": "https://open.spotify.com/album/6QtLNqAjNXxIP5Fo0vJBHV"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "20 MILLIONS",
-      "url": "https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "FANTAISIE",
-        "url": "https://open.spotify.com/album/6d9I4Fr7wF3edbZfl8TiBi"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "FANTAISIE",
-      "url": "https://open.spotify.com/track/6D3FyauwPesFG3RDs7IpML"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Ketchup",
-        "url": "https://open.spotify.com/album/6lGIOAghlUq5lYi6Gzy1Vn"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 164702,
-      "name": "Ketchup",
-      "url": "https://open.spotify.com/track/3Bvxb5oDQtgBmD1yCcXW20"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
@@ -93,7 +29,71 @@
       "url": "https://open.spotify.com/track/7wRKLjCA4nvFNTCFvY4pHp"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Face ID",
+        "url": "https://open.spotify.com/album/01FQeOcF3uekuC3EQKq9jy"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 137478,
+      "name": "Nouveaux V\u00eatements",
+      "url": "https://open.spotify.com/track/0u2uOHTTxWDclpULXVVktT"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "20 MILLIONS",
+        "url": "https://open.spotify.com/album/6QtLNqAjNXxIP5Fo0vJBHV"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "20 MILLIONS",
+      "url": "https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "FANTAISIE",
+        "url": "https://open.spotify.com/album/6d9I4Fr7wF3edbZfl8TiBi"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "FANTAISIE",
+      "url": "https://open.spotify.com/track/6D3FyauwPesFG3RDs7IpML"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Ketchup",
+        "url": "https://open.spotify.com/album/6lGIOAghlUq5lYi6Gzy1Vn"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 164702,
+      "name": "Ketchup",
+      "url": "https://open.spotify.com/track/3Bvxb5oDQtgBmD1yCcXW20"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Pixie cut",
         "url": "https://open.spotify.com/album/4rHf2vx3XHHg7okVZEWP4s"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/0hSieuTT2zOUMvRSQAUPSi"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "PAS DE REFRAIN",
-        "url": "https://open.spotify.com/album/0muQlD92bPORIlWmINUINd"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 120842,
-      "name": "PAS DE REFRAIN",
-      "url": "https://open.spotify.com/track/2EDGkj6mp1P0MeZM6NJaiv"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Papa Wemba: The Remixes #2",
         "url": "https://open.spotify.com/album/1HrFeYE1LgYPCTwRjtNCTb"
@@ -145,7 +129,27 @@
       "url": "https://open.spotify.com/track/2srcB0j5VtxNbzCqXBLFeA"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "BEAUX GAR\u00c7ONS",
+        "url": "https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 149120,
+      "name": "BEAUX GAR\u00c7ONS",
+      "url": "https://open.spotify.com/track/3Y0ZQODxCHm18NqJKaHrB5"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Prototype (Indusa)",
         "url": "https://open.spotify.com/album/0zzpysNlTuMKOPbKJANwNz"
@@ -165,7 +169,7 @@
       "url": "https://open.spotify.com/track/7JbvpELmmA6BGhEBxN9XHt"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "ENERGY",
         "url": "https://open.spotify.com/album/2Em7nAF3Hf9x9NzFGtgNut"
@@ -189,7 +193,7 @@
       "url": "https://open.spotify.com/track/7szfb0AYq0r4veNefRv5y0"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Va Dodo",
         "url": "https://open.spotify.com/album/6MeSi13HRniM1kaq0rjkts"
@@ -209,7 +213,23 @@
       "url": "https://open.spotify.com/track/79CVdODIrPD1wElYy8AROe"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "\u00c7A C'EST MON LOSSA",
+        "url": "https://open.spotify.com/album/5lGVJIcVMOuNcEbK6jbquy"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 103111,
+      "name": "\u00c7A C'EST MON LOSSA",
+      "url": "https://open.spotify.com/track/1Fo2PEiXKjPjpWsLibx8D0"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Natacha",
         "url": "https://open.spotify.com/album/6IFdY9fQYO22PRyrbZVN31"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/01aRMjUBdK0TlE3K8wCxmj"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "D2MB (SEXY RUMBA)",
         "url": "https://open.spotify.com/album/38vy7hTQiYgy9xKoDIcYc4"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/3jFCMn89zSlsFKONa2EbH4"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Tia nase",
         "url": "https://open.spotify.com/album/6ea8TwEeuvRJcJOM0k7U2B"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/0QuQHxPHG8xBnPuDLhfn2b"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Booster",
         "url": "https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb"
@@ -285,63 +305,23 @@
       "url": "https://open.spotify.com/track/2uRtKtAriztwH2ZTYEL5NU"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
-        "name": "Bala Bala (feat. la team Wata)",
-        "url": "https://open.spotify.com/album/14TSb9KaejQapqNOUGXD8S"
+        "name": "Ballon d'or",
+        "url": "https://open.spotify.com/album/1NGSSzBs0lR4RAN9WW4RVa"
       },
       "artists": [
         {
-          "name": "H\u00e9ritier Wata",
-          "url": "https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb"
-        },
-        {
-          "name": "la team Wata",
-          "url": "https://open.spotify.com/artist/277ktpnWiZFkAOlxw2jMTa"
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
         }
       ],
-      "duration_ms": 388080,
-      "name": "Bala Bala (feat. la team Wata)",
-      "url": "https://open.spotify.com/track/3xToNsTDopyH7Q4VlizaMZ"
+      "duration_ms": 135937,
+      "name": "Ballon d'or",
+      "url": "https://open.spotify.com/track/7hVTHdRfY2A5jGedvkqpu0"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "BEAUX GAR\u00c7ONS",
-        "url": "https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 149120,
-      "name": "BEAUX GAR\u00c7ONS",
-      "url": "https://open.spotify.com/track/3Y0ZQODxCHm18NqJKaHrB5"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Be my Valentine ? / MR. DJ",
-        "url": "https://open.spotify.com/album/6QjQrPLjMDI2TMFc5ykWnT"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "Be my Valentine ?",
-      "url": "https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "M\u00e9lo D\u00e9cal\u00e9",
         "url": "https://open.spotify.com/album/0CPYOg6Axx4W3qFGqqbNcc"
@@ -357,7 +337,7 @@
       "url": "https://open.spotify.com/track/4Olg35ikUrPTvhqwFWveRL"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "GO 243",
         "url": "https://open.spotify.com/album/6X0YbFz4I6z9jtOUzUBA1M"
@@ -373,39 +353,7 @@
       "url": "https://open.spotify.com/track/3ZfuGTNPAMUH3WqDZHfP0C"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "C'est Le Moment",
-        "url": "https://open.spotify.com/album/7ovEtaPubxWzgmhKvBOGkB"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9 Panama",
-          "url": "https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca"
-        }
-      ],
-      "duration_ms": 304666,
-      "name": "Pardonner",
-      "url": "https://open.spotify.com/track/7vhS5zb4bll5tqwcwqQikI"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Boya",
-        "url": "https://open.spotify.com/album/6uTHb7tVOfKZZ6Bt6VoYYl"
-      },
-      "artists": [
-        {
-          "name": "Fabregas le M\u00e9tis Noir",
-          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
-        }
-      ],
-      "duration_ms": 399452,
-      "name": "Boya",
-      "url": "https://open.spotify.com/track/3OZFKBtECzpwC0Ngbi42bG"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Pili Pili",
         "url": "https://open.spotify.com/album/6aGaXFjY6peextp0uV59xR"
@@ -425,95 +373,7 @@
       "url": "https://open.spotify.com/track/2jPbUHhzykvFjlPe9syyUO"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Op\u00e9ration 26 #1",
-        "url": "https://open.spotify.com/album/1ZL4QGgyAxOtSJAtp9hBfs"
-      },
-      "artists": [
-        {
-          "name": "CDG",
-          "url": "https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL"
-        },
-        {
-          "name": "Ritchie Kotazo",
-          "url": "https://open.spotify.com/artist/1aH7Lt38sOu5uyCwNO3BLM"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Op\u00e9ration 26 #1",
-      "url": "https://open.spotify.com/track/4HqmspFZac39suoVUqwpch"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Emb\u00eat\u00e9e",
-        "url": "https://open.spotify.com/album/6Z7mJy4VsmuIFFOejFzXNs"
-      },
-      "artists": [
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        }
-      ],
-      "duration_ms": 112550,
-      "name": "Emb\u00eat\u00e9e",
-      "url": "https://open.spotify.com/track/6ROfu4XzhHBmaxYqjCr8rY"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "La porte",
-        "url": "https://open.spotify.com/album/7xWOaKVO0Ge6DbbU8C17pf"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 153489,
-      "name": "La porte",
-      "url": "https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "\u00c7a Give",
-        "url": "https://open.spotify.com/album/47jPbCLMtU1fUzgWqQua68"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00eblle",
-          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
-        }
-      ],
-      "duration_ms": 169302,
-      "name": "\u00c7a Give",
-      "url": "https://open.spotify.com/track/7bIDjJ2Xy1v5WMkgAAi73J"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "ZOSHI",
-        "url": "https://open.spotify.com/album/7lJ4xNJv9I1NC0lzo6Kqi1"
-      },
-      "artists": [
-        {
-          "name": "Gloria Bash",
-          "url": "https://open.spotify.com/artist/70C2n9dZRoXx2b5ANKbWjy"
-        }
-      ],
-      "duration_ms": 169807,
-      "name": "Sagacit\u00e9",
-      "url": "https://open.spotify.com/track/5eqe4prwlySZ1cpTasTuyH"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/30mRAbfJNbKgRkhSimlWbf"
@@ -533,319 +393,7 @@
       "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Miss Kitoko",
-        "url": "https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 149916,
-      "name": "Miss Kitoko",
-      "url": "https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Ballon d'or",
-        "url": "https://open.spotify.com/album/1NGSSzBs0lR4RAN9WW4RVa"
-      },
-      "artists": [
-        {
-          "name": "Chily",
-          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
-        }
-      ],
-      "duration_ms": 135937,
-      "name": "Ballon d'or",
-      "url": "https://open.spotify.com/track/7hVTHdRfY2A5jGedvkqpu0"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Cherie Coco",
-        "url": "https://open.spotify.com/album/4viEDlUF8I7Accte5lREK4"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 161095,
-      "name": "Cherie Coco",
-      "url": "https://open.spotify.com/track/14OrPWhEwB6glyErCCZ5AK"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Bizarre",
-        "url": "https://open.spotify.com/album/4hHhSFd88QsRgTLKny9P0C"
-      },
-      "artists": [
-        {
-          "name": "Hiro",
-          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
-        },
-        {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
-        }
-      ],
-      "duration_ms": 161859,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/1mdcW83mYlLS2Cy1a2rcjO"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "\u00c0 la base",
-        "url": "https://open.spotify.com/album/5OPIWUXLwNq1rhYv9129qe"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 131578,
-      "name": "\u00c0 la base",
-      "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Remise En Question",
-        "url": "https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3"
-      },
-      "artists": [
-        {
-          "name": "Serge Ibaka",
-          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "Dany Synth\u00e9",
-          "url": "https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy"
-        }
-      ],
-      "duration_ms": 183132,
-      "name": "Remise En Question",
-      "url": "https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "M.I.L.S 4",
-        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 152282,
-      "name": "LES DIAMANTS DE BOKASSA",
-      "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "PAY!",
-        "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 130699,
-      "name": "PAY!",
-      "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "BADMAN GANGSTA",
-        "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 143575,
-      "name": "BADMAN GANGSTA",
-      "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Lelo",
-        "url": "https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX"
-      },
-      "artists": [
-        {
-          "name": "DJ Faya",
-          "url": "https://open.spotify.com/artist/4uWcueZxhQMoolyY5OAYTd"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "Lelo",
-      "url": "https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Rendez-vous (remix)",
-        "url": "https://open.spotify.com/album/1ORzROrvh2HD1ilsOWbQt7"
-      },
-      "artists": [
-        {
-          "name": "PSON",
-          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
-        },
-        {
-          "name": "Cysoul",
-          "url": "https://open.spotify.com/artist/212RAD04CL3a1XwexVB129"
-        }
-      ],
-      "duration_ms": 197616,
-      "name": "Rendez-vous - remix",
-      "url": "https://open.spotify.com/track/1cBNtQbva5A8uZTV2bsqUq"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "DOUDOU",
-        "url": "https://open.spotify.com/album/1y3IUbnsAcjEYOBbGwCUpX"
-      },
-      "artists": [
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        },
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        }
-      ],
-      "duration_ms": 138545,
-      "name": "DOUDOU",
-      "url": "https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "HOPE. : Imani",
-        "url": "https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn"
-      },
-      "artists": [
-        {
-          "name": "kulturr",
-          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "jaloux f\u00e2ch\u00e9",
-      "url": "https://open.spotify.com/track/7mUdlJ8dHqHijoZEn6jQ1n"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Maweja",
-        "url": "https://open.spotify.com/album/1tDuNTKmTQXYjARrKyhMHC"
-      },
-      "artists": [
-        {
-          "name": "Ya Levis",
-          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
-        }
-      ],
-      "duration_ms": 223912,
-      "name": "Maweja",
-      "url": "https://open.spotify.com/track/1FG6GOqADBVlIbkpOkctj5"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Hybride (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/2x1WZt5KynnoAlvwRxl7La"
-      },
-      "artists": [
-        {
-          "name": "DJ Kawest",
-          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
-        },
-        {
-          "name": "Dr. Yaro",
-          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "\u00c7A VA",
-      "url": "https://open.spotify.com/track/0pyxxEEETp7wQsTniHMHIq"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
-      "album": {
-        "name": "Billets Mauves (feat. SDM)",
-        "url": "https://open.spotify.com/album/3rkAyXIdYPtoyw7OCZ7WOF"
-      },
-      "artists": [
-        {
-          "name": "Stavo",
-          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 207991,
-      "name": "Billets Mauves (feat. SDM)",
-      "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
-    },
-    {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Ola Oli (feat. Brigade Sarbaty)",
         "url": "https://open.spotify.com/album/6PMRcHUAengltUKAlmAbwB"
@@ -865,7 +413,27 @@
       "url": "https://open.spotify.com/track/2FZ6CpoBnaS5EsYigbYenG"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Cherie Coco",
+        "url": "https://open.spotify.com/album/4viEDlUF8I7Accte5lREK4"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 161095,
+      "name": "Cherie Coco",
+      "url": "https://open.spotify.com/track/14OrPWhEwB6glyErCCZ5AK"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
         "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
@@ -889,7 +457,311 @@
       "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Bizarre",
+        "url": "https://open.spotify.com/album/4hHhSFd88QsRgTLKny9P0C"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        },
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 161859,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/1mdcW83mYlLS2Cy1a2rcjO"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Emb\u00eat\u00e9e",
+        "url": "https://open.spotify.com/album/6Z7mJy4VsmuIFFOejFzXNs"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 112550,
+      "name": "Emb\u00eat\u00e9e",
+      "url": "https://open.spotify.com/track/6ROfu4XzhHBmaxYqjCr8rY"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "La porte",
+        "url": "https://open.spotify.com/album/7xWOaKVO0Ge6DbbU8C17pf"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 153489,
+      "name": "La porte",
+      "url": "https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Boya",
+        "url": "https://open.spotify.com/album/6uTHb7tVOfKZZ6Bt6VoYYl"
+      },
+      "artists": [
+        {
+          "name": "Fabregas le M\u00e9tis Noir",
+          "url": "https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X"
+        }
+      ],
+      "duration_ms": 399452,
+      "name": "Boya",
+      "url": "https://open.spotify.com/track/3OZFKBtECzpwC0Ngbi42bG"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "BADMAN GANGSTA",
+        "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 143575,
+      "name": "BADMAN GANGSTA",
+      "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "ZOSHI",
+        "url": "https://open.spotify.com/album/7lJ4xNJv9I1NC0lzo6Kqi1"
+      },
+      "artists": [
+        {
+          "name": "Gloria Bash",
+          "url": "https://open.spotify.com/artist/70C2n9dZRoXx2b5ANKbWjy"
+        }
+      ],
+      "duration_ms": 169807,
+      "name": "Sagacit\u00e9",
+      "url": "https://open.spotify.com/track/5eqe4prwlySZ1cpTasTuyH"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Lelo",
+        "url": "https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX"
+      },
+      "artists": [
+        {
+          "name": "DJ Faya",
+          "url": "https://open.spotify.com/artist/4uWcueZxhQMoolyY5OAYTd"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "Lelo",
+      "url": "https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "DOUDOU",
+        "url": "https://open.spotify.com/album/1y3IUbnsAcjEYOBbGwCUpX"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 138545,
+      "name": "DOUDOU",
+      "url": "https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "HOPE. : Imani",
+        "url": "https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "jaloux f\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/7mUdlJ8dHqHijoZEn6jQ1n"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Hybride (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/2x1WZt5KynnoAlvwRxl7La"
+      },
+      "artists": [
+        {
+          "name": "DJ Kawest",
+          "url": "https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA"
+        },
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "\u00c7A VA",
+      "url": "https://open.spotify.com/track/0pyxxEEETp7wQsTniHMHIq"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 138247,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Be my Valentine ? / MR. DJ",
+        "url": "https://open.spotify.com/album/6QjQrPLjMDI2TMFc5ykWnT"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "Be my Valentine ?",
+      "url": "https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Bala Bala (feat. la team Wata)",
+        "url": "https://open.spotify.com/album/14TSb9KaejQapqNOUGXD8S"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ritier Wata",
+          "url": "https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb"
+        },
+        {
+          "name": "la team Wata",
+          "url": "https://open.spotify.com/artist/277ktpnWiZFkAOlxw2jMTa"
+        }
+      ],
+      "duration_ms": 388080,
+      "name": "Bala Bala (feat. la team Wata)",
+      "url": "https://open.spotify.com/track/3xToNsTDopyH7Q4VlizaMZ"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Remise En Question",
+        "url": "https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Dany Synth\u00e9",
+          "url": "https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy"
+        }
+      ],
+      "duration_ms": 183132,
+      "name": "Remise En Question",
+      "url": "https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "PAY!",
+        "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 130699,
+      "name": "PAY!",
+      "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "\u00c0 la base",
+        "url": "https://open.spotify.com/album/5OPIWUXLwNq1rhYv9129qe"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 131578,
+      "name": "\u00c0 la base",
+      "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "Tchoutchou",
         "url": "https://open.spotify.com/album/4Ok4R1NSMZ2KvomrwjDGd0"
@@ -909,7 +781,79 @@
       "url": "https://open.spotify.com/track/2rU1FOnkqEGgYzEJs7H7q3"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Billets Mauves (feat. SDM)",
+        "url": "https://open.spotify.com/album/3rkAyXIdYPtoyw7OCZ7WOF"
+      },
+      "artists": [
+        {
+          "name": "Stavo",
+          "url": "https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 207991,
+      "name": "Billets Mauves (feat. SDM)",
+      "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "M.I.L.S 4",
+        "url": "https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 152282,
+      "name": "LES DIAMANTS DE BOKASSA",
+      "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Miss Kitoko",
+        "url": "https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 149916,
+      "name": "Miss Kitoko",
+      "url": "https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Maweja",
+        "url": "https://open.spotify.com/album/1tDuNTKmTQXYjARrKyhMHC"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Maweja",
+      "url": "https://open.spotify.com/track/1FG6GOqADBVlIbkpOkctj5"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -929,20 +873,76 @@
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
-      "added_at": "2026-08-07 04:00:32",
+      "added_at": "2026-08-12 04:00:23",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
+        "name": "Op\u00e9ration 26 #1",
+        "url": "https://open.spotify.com/album/1ZL4QGgyAxOtSJAtp9hBfs"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+          "name": "CDG",
+          "url": "https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL"
+        },
+        {
+          "name": "Ritchie Kotazo",
+          "url": "https://open.spotify.com/artist/1aH7Lt38sOu5uyCwNO3BLM"
         }
       ],
-      "duration_ms": 138247,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
+      "duration_ms": 178064,
+      "name": "Op\u00e9ration 26 #1",
+      "url": "https://open.spotify.com/track/4HqmspFZac39suoVUqwpch"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "Rendez-vous (remix)",
+        "url": "https://open.spotify.com/album/1ORzROrvh2HD1ilsOWbQt7"
+      },
+      "artists": [
+        {
+          "name": "PSON",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        },
+        {
+          "name": "Cysoul",
+          "url": "https://open.spotify.com/artist/212RAD04CL3a1XwexVB129"
+        }
+      ],
+      "duration_ms": 197616,
+      "name": "Rendez-vous - remix",
+      "url": "https://open.spotify.com/track/1cBNtQbva5A8uZTV2bsqUq"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "\u00c7a Give",
+        "url": "https://open.spotify.com/album/47jPbCLMtU1fUzgWqQua68"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "duration_ms": 169302,
+      "name": "\u00c7a Give",
+      "url": "https://open.spotify.com/track/7bIDjJ2Xy1v5WMkgAAi73J"
+    },
+    {
+      "added_at": "2026-08-12 04:00:23",
+      "album": {
+        "name": "C'est Le Moment",
+        "url": "https://open.spotify.com/album/7ovEtaPubxWzgmhKvBOGkB"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9 Panama",
+          "url": "https://open.spotify.com/artist/3tv6rEIw6RVujaQZD6W6ca"
+        }
+      ],
+      "duration_ms": 304666,
+      "name": "Pardonner",
+      "url": "https://open.spotify.com/track/7vhS5zb4bll5tqwcwqQikI"
     }
   ],
   "unique_name": "Biso Na Biso",

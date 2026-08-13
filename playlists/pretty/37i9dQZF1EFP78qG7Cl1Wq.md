@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 124 | [ain't a lonely christmas song \(feat\. Tayla Parx\)](https://open.spotify.com/track/1WSOncoBvbmkvujGKVBQKu) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:52 |
 | 125 | [Paris On a Sunny Day](https://open.spotify.com/track/2iWF723SL2T6qAW9RBls1c) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision \(Deluxe Edition\)](https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK) | 5:07 |
 | 126 | [Delulu](https://open.spotify.com/track/62CwvU7KUlvObmiYCMaWSA) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:44 |
-| 127 | [Deserve](https://open.spotify.com/track/4RuI0ItCK4wjtLJi9hhJEU) | [Teairra Marí](https://open.spotify.com/artist/6Mox9P9U7HpuAd9ULwvP7N) | [Deserve \- Single](https://open.spotify.com/album/5bvgBtWKI8bTsekfaFGeyM) | 3:17 |
-| 128 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 127 | [Saturday Night](https://open.spotify.com/track/7gSPJdd7ZcmLmTOWqzlZG3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:37 |
+| 128 | [Deserve](https://open.spotify.com/track/4RuI0ItCK4wjtLJi9hhJEU) | [Teairra Marí](https://open.spotify.com/artist/6Mox9P9U7HpuAd9ULwvP7N) | [Deserve \- Single](https://open.spotify.com/album/5bvgBtWKI8bTsekfaFGeyM) | 3:17 |
 | 129 | [Just Like You](https://open.spotify.com/track/5ff9NJ1oh2PncBD8R00jJ6) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 3:52 |
 | 130 | [Cruel](https://open.spotify.com/track/3JOpBLWIyYdW3sEnlRdXeR) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Cruel](https://open.spotify.com/album/0RGen35uwkusSOtNRzAuC5) | 3:56 |
 | 131 | [Bad Thing](https://open.spotify.com/track/4iQz6o1dEA3dZY81d3DiJm) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9) | [Bad Thing](https://open.spotify.com/album/0QY0A6aKhw0f2D1RfpCYk7) | 3:33 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 251 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 252 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcZU6AAAAAAJuTRsjTGGyooXfuYcw+n9`
+Snapshot ID: `AcZaTAAAAACCiuHCslKV7T9sqg1loG7B`

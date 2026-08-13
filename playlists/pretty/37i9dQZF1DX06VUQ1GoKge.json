@@ -1,12 +1,12 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 552252,
+  "num_followers": 552238,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDvMnz4gi5XosIgj+ctnb0r+AMc",
+  "snapshot_id": "AAAAACwAYa0v9SeA8YScv6VMBHL8evev",
   "tracks": [
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
+        "name": "Will To Power",
+        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 293466,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
         "name": "Black Hole",
         "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 179181,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
-        "name": "Will To Power",
-        "url": "https://open.spotify.com/album/1HimPrGurKic1hNOSidwF2"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 293466,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
+        "name": "666 - World Divided",
+        "url": "https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "duration_ms": 284715,
+      "name": "666 - World Divided",
+      "url": "https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
         "name": "Venom",
         "url": "https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 216280,
       "name": "Bang Ya Head (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
-        "name": "666 - World Divided",
-        "url": "https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY"
-      },
-      "artists": [
-        {
-          "name": "Kreator",
-          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
-        }
-      ],
-      "duration_ms": 284715,
-      "name": "666 - World Divided",
-      "url": "https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb"
     },
     {
       "added_at": "2025-11-05 11:45:24",

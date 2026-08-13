@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,338 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,367 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 59 | [Cajamarquina](https://open.spotify.com/track/4TV3DDrm1RixW2HT7lQLeC) | [String Karma](https://open.spotify.com/artist/42VMxC4VzMu9akH0YIUexx) | [Olvídame](https://open.spotify.com/album/0i9FcKBWpzLO6HoST7sY1O) | 4:29 |
 | 60 | [Amor Verdadero \(feat\. Raices de Jauja\)](https://open.spotify.com/track/6mfSHLAzJIg8WRPPiytos7) | [Damaris](https://open.spotify.com/artist/6FjlllIP4Dqj9PEEZX8f0j), [Raices de Jauja](https://open.spotify.com/artist/13fJROwEQGh0hO2BK0SVmP) | [Tu Puedes Volar](https://open.spotify.com/album/46QKsVjYkxcFHBqTYp0GvF) | 4:10 |
 
-Snapshot ID: `AAAAANMkF7KIf7deooDs3wUS+D80LTIk`
+Snapshot ID: `AAAAADLb5RBZaT16voK+xeX0cgQKNH9O`

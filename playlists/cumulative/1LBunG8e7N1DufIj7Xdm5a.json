@@ -21923,6 +21923,24 @@
     },
     {
       "album": {
+        "name": "Echoes Of Aether",
+        "url": "https://open.spotify.com/album/72o1LWmCp60Irn8pygPCmD"
+      },
+      "artists": [
+        {
+          "name": "Sanguira",
+          "url": "https://open.spotify.com/artist/6V7rI2im6CabcUrznsNmdv"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189679,
+      "name": "Echoes Of Aether",
+      "url": "https://open.spotify.com/track/2EOgtXubkshm9MiCFizYHI"
+    },
+    {
+      "album": {
         "name": "New age pop enjoy and relax",
         "url": "https://open.spotify.com/album/58FDba6X3tB92863zyLw1t"
       },
@@ -62873,7 +62891,7 @@
     },
     {
       "album": {
-        "name": "Seven days a week (Demo)",
+        "name": "Seven Days a Week (Demo)",
         "url": "https://open.spotify.com/album/2P2iaRP9g5fLF8oy7A2cgd"
       },
       "artists": [
@@ -62886,7 +62904,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 227000,
-      "name": "Seven days a week - Demo",
+      "name": "Seven Days a Week - Demo",
       "url": "https://open.spotify.com/track/4kxGaIYgfFFcyB6WeV2gRT"
     },
     {

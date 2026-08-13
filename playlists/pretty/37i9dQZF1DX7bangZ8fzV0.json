@@ -1,12 +1,12 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Karlien Van Jaarsveld en Zaan Sonnekus",
-  "num_followers": 149394,
+  "num_followers": 149427,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF6gojIuYUv65hG7CCYZ0zDzB3+A",
+  "snapshot_id": "AAAAAKWbfX8s8Q+BLTdaTqI7xnE5I8uY",
   "tracks": [
     {
       "added_at": "2026-07-23 22:01:04",
@@ -111,18 +111,22 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Plaas Dorp Toe",
-        "url": "https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC"
+        "name": "Dagdrome in Suburbia",
+        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
       },
       "artists": [
         {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         }
       ],
-      "duration_ms": 198500,
-      "name": "Plaas Dorp Toe",
-      "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
+      "duration_ms": 191466,
+      "name": "Dagdrome in Suburbia",
+      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
     },
     {
       "added_at": "2026-07-30 22:01:18",
@@ -179,26 +183,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Dagdrome in Suburbia",
-        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "Dagdrome in Suburbia",
-      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6hRfwgVwKK815NQzfTzt2m"
       },
@@ -231,18 +215,38 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Vanaand",
-        "url": "https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6"
+        "name": "Francois Van Coke",
+        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
       },
       "artists": [
         {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
         }
       ],
-      "duration_ms": 177820,
-      "name": "Vanaand",
-      "url": "https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn"
+      "duration_ms": 246401,
+      "name": "Toe Vind Ek Jou",
+      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Hier Waar Ek Nou Is",
+        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
+      },
+      "artists": [
+        {
+          "name": "Juan Boucher",
+          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Koue Hande",
+      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
     },
     {
       "added_at": "2026-08-06 22:01:05",
@@ -275,22 +279,18 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Francois Van Coke",
-        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
+        "name": "Plaas Dorp Toe",
+        "url": "https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
         }
       ],
-      "duration_ms": 246401,
-      "name": "Toe Vind Ek Jou",
-      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
+      "duration_ms": 198500,
+      "name": "Plaas Dorp Toe",
+      "url": "https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz"
     },
     {
       "added_at": "2026-07-09 22:00:56",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Hier Waar Ek Nou Is",
-        "url": "https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg"
+        "name": "Vanaand",
+        "url": "https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6"
       },
       "artists": [
         {
-          "name": "Juan Boucher",
-          "url": "https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH"
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Koue Hande",
-      "url": "https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs"
+      "duration_ms": 177820,
+      "name": "Vanaand",
+      "url": "https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn"
     },
     {
       "added_at": "2026-05-21 22:02:06",
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3"
     },
     {
-      "added_at": "2026-06-04 22:01:24",
+      "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Daai Gevoel",
-        "url": "https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF"
+        "name": "Regte Plekke",
+        "url": "https://open.spotify.com/album/5KzZjYynM9m6tpHyh5JAwS"
       },
       "artists": [
         {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
         }
       ],
-      "duration_ms": 191222,
-      "name": "Daai Gevoel",
-      "url": "https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC"
+      "duration_ms": 189611,
+      "name": "Regte Plekke",
+      "url": "https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1"
     },
     {
       "added_at": "2026-07-09 22:00:56",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/6n5dI8KlITx2vRvsm9ddF0"
     },
     {
-      "added_at": "2026-05-21 22:02:06",
+      "added_at": "2026-06-04 22:01:24",
       "album": {
-        "name": "Regte Plekke",
-        "url": "https://open.spotify.com/album/5KzZjYynM9m6tpHyh5JAwS"
+        "name": "Daai Gevoel",
+        "url": "https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF"
       },
       "artists": [
         {
-          "name": "Bobby Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
         }
       ],
-      "duration_ms": 189611,
-      "name": "Regte Plekke",
-      "url": "https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1"
+      "duration_ms": 191222,
+      "name": "Daai Gevoel",
+      "url": "https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC"
     },
     {
       "added_at": "2026-05-28 22:01:39",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-05-21 22:02:06",
       "album": {
-        "name": "Dis Raak",
-        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
-      },
-      "artists": [
-        {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        }
-      ],
-      "duration_ms": 213214,
-      "name": "Dis Raak",
-      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
-    },
-    {
-      "added_at": "2026-05-21 22:02:06",
-      "album": {
         "name": "AVBOB Se Stoep",
         "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 208969,
       "name": "AVBOB Se Stoep",
       "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
+    },
+    {
+      "added_at": "2026-05-21 22:02:06",
+      "album": {
+        "name": "Dis Raak",
+        "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
+      },
+      "artists": [
+        {
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Dis Raak",
+      "url": "https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v"
     },
     {
       "added_at": "2026-05-21 22:02:06",

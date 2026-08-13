@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,818 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,825 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [D2MB \(SEXY RUMBA\)](https://open.spotify.com/track/3jFCMn89zSlsFKONa2EbH4) | [Nayth](https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar), [HKL](https://open.spotify.com/artist/4eydmBiVTTKpzqSenyI96C), [Hashe](https://open.spotify.com/artist/7GyKG60WW5nCo0sBmD1Jca) | [D2MB \(SEXY RUMBA\)](https://open.spotify.com/album/38vy7hTQiYgy9xKoDIcYc4) | 2:37 |
 | 40 | [JAMAIS CHANGÉ](https://open.spotify.com/track/5Dp27TXunm7jCjeKU2tyPL) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [JAMAIS CHANGÉ](https://open.spotify.com/album/2QxbI7fOl6Bf90Mt7d8jJy) | 2:52 |
 
-Snapshot ID: `AAAAAGznzd6HMGMZ5vdMYVYnfiR0GD2o`
+Snapshot ID: `AAAAAIAJXtXj4oN+77muFL5Zw91oCNMv`

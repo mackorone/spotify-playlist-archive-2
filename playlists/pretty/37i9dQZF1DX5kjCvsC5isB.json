@@ -1,12 +1,12 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 317315,
+  "num_followers": 317327,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABE9roJF2cW+LtUJnZxs6M5M3ZNu",
+  "snapshot_id": "AAAAAIyAo0CDREPoGYRPaWg5RmXvDyY0",
   "tracks": [
     {
       "added_at": "2024-07-05 22:18:14",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "can we start over?",
-        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 187596,
-      "name": "spite",
-      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 281052,
       "name": "Too Close / Too Late",
       "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
     },
     {
       "added_at": "2025-05-23 18:58:17",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Scaredy Pants",
-        "url": "https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C"
-      },
-      "artists": [
-        {
-          "name": "Venus & the Flytraps",
-          "url": "https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Scaredy Pants",
-      "url": "https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "I Just Needed You To Know",
         "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Scaredy Pants",
+        "url": "https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C"
+      },
+      "artists": [
+        {
+          "name": "Venus & the Flytraps",
+          "url": "https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Scaredy Pants",
+      "url": "https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 206667,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Squeeze",
-        "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 215240,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "LASSO",
         "url": "https://open.spotify.com/album/4jUoqzZSmKP9QFOC9DCQba"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 178357,
       "name": "LASSO",
       "url": "https://open.spotify.com/track/2loBPRmc29O9vNAQ5UD9kF"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Squeeze",
+        "url": "https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/5FfT45gDQWDyR8lZpn60DD"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Raw Raw",
-        "url": "https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Raw Raw",
-      "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/12sSkOu2quogJ67DTjpX3s"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 169893,
       "name": "Phases",
       "url": "https://open.spotify.com/track/7FRlrXBo0ehkwX7CY6uuUF"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Raw Raw",
+        "url": "https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Raw Raw",
+      "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
     },
     {
       "added_at": "2024-07-05 22:18:14",

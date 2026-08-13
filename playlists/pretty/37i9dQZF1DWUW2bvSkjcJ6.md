@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Marlon Hoffstadt, Rose Gray, Juju, Alex Warren, Kauta, Sam Smith & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,390 likes - 88 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,324 likes - 88 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 87 | [1995 \(feat\. Elevator Boys\) \- From "Back to the 90s"](https://open.spotify.com/track/6XvnETp0TyOUZTMfEQixUJ) | [5G](https://open.spotify.com/artist/2UjOItJf0p1oa5lJZdAK8O), [Elevator Boys](https://open.spotify.com/artist/2fcSjd0fxqJQ1IM2hjYPud) | [1995 \(From "Back to the 90s"\)](https://open.spotify.com/album/0SioGIiwawcX7DRdLKcwBS) | 3:04 |
 | 88 | [Morgen Gold](https://open.spotify.com/track/1r1gs4TDP0G5aIU5Py2LWf) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7) | [Morgen Gold](https://open.spotify.com/album/2YYR1bEN8obtMW29HxN2un) | 3:00 |
 
-Snapshot ID: `AAAAANCo2nq7UMKEDW9ll/7OP/x6K4xs`
+Snapshot ID: `AAAAAEUzU+eXyfg1QM62ys5gGC48/DXZ`

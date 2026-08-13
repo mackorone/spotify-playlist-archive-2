@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 💙 with Jai Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,957 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,926 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 73 | [PRETTY GIRLS](https://open.spotify.com/track/5E64oUALBVwhnqpSrARgS0) | [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J), [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [PRETTY GIRLS](https://open.spotify.com/album/4q9UYt2kIGO1VxxG3w1xOf) | 3:20 |
 | 74 | [RIDDEM](https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Allenora](https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [RIDDEM](https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g) | 3:27 |
 | 75 | [HACKING THE GATE](https://open.spotify.com/track/3PwruJbrJXpeDCLJ2hiid9) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [ADRENOCHROME](https://open.spotify.com/album/4H2abOEiBXEQpNibmwu4Li) | 2:53 |
-| 76 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
-| 77 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
+| 76 | [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 |
+| 77 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
 | 78 | [CONTROL](https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [CONTROL](https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6) | 2:25 |
 | 79 | [Dozer](https://open.spotify.com/track/57FuwSCElE898TwZAXS4Wn) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Dozer](https://open.spotify.com/album/5IoHFM2WHRB4oytlJa86gn) | 2:52 |
 | 80 | [wakeup\(crazy\) \[feat\. Angst\]](https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT), [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [wakeup\(crazy\) \[feat\. Angst\]](https://open.spotify.com/album/7lm1i1YAKTD4La9WRkGXak) | 3:15 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 95 | [need \(u\)](https://open.spotify.com/track/3Y2q0up7I4xfHZD59z3Yf4) | [No Signal](https://open.spotify.com/artist/1aJGcBWhdgt1b8sEZ1Hupk), [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4), [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [powerANTHEM / need \(u\)](https://open.spotify.com/album/2OTkR8cOmqhBjSWya9fdPg) | 2:30 |
 | 96 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 |
 | 97 | [SAVE U](https://open.spotify.com/track/7AoZ39tdZt9OLEsfQ6bdiA) | [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAVE U](https://open.spotify.com/album/1p2cM5KI8zCFBcKwzwdNlM) | 2:41 |
-| 98 | [FLY](https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FLY](https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs) | 3:08 |
-| 99 | [redSKY](https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld) | 2:13 |
+| 98 | [redSKY](https://open.spotify.com/track/1UOqgEalwFNRLNciQV7ojV) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXGER CLUB!](https://open.spotify.com/album/2uIZNeJcuZjqFnffJ6PKld) | 2:13 |
+| 99 | [FLY](https://open.spotify.com/track/3zueTOKuyDaj4tqlSD3Toc) | [SPORTMODE](https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK) | [FLY](https://open.spotify.com/album/09UFPFsZTCnZBDHB9fLIUs) | 3:08 |
 | 100 | [Thumper](https://open.spotify.com/track/6MhzIGXeWkcEuRJ627wQXj) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Thumper](https://open.spotify.com/album/4J78Kjh86mCTE1VH6rttbi) | 2:19 |
 
-Snapshot ID: `AAAAAJa/SNYL0jIKqR1QvtGM4LGCO1Sv`
+Snapshot ID: `AAAAAPQhrUbgdnd4UDVxToMPyT3g5Cvj`

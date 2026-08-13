@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 114250,
+  "num_followers": 114270,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABmWSvRjZJssNSG6+r+wkkJIQn5w",
+  "snapshot_id": "AAAAALMGmIE+n8xdWlRLn9c7FWy4QZys",
   "tracks": [
     {
       "added_at": "2026-07-02 21:48:45",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Voz e Viol\u00e3o - Parte 2",
+        "url": "https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 324082,
+      "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
+      "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "O Segredo da Felicidade",
         "url": "https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 200294,
       "name": "O Segredo da Felicidade",
       "url": "https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Voz e Viol\u00e3o - Parte 2",
-        "url": "https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 324082,
-      "name": "Voc\u00ea \u00c9 Especial - Voz e Viol\u00e3o",
-      "url": "https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "N\u00e3o Saia do Meu Lado",
-        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "N\u00e3o Saia do Meu Lado",
-      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Encontrar Meu Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4YYey6sjR3pzeW1JfWqGne"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 172487,
       "name": "Encontrar Meu Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/3qLEegaEjCOxB18q1gb6J4"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "N\u00e3o Saia do Meu Lado",
+        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 216127,
+      "name": "N\u00e3o Saia do Meu Lado",
+      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Vou Embora pro C\u00e9u",
         "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 214786,
       "name": "Vou Embora pro C\u00e9u",
       "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        }
-      ],
-      "duration_ms": 239199,
-      "name": "Meu Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2026-07-02 21:48:45",

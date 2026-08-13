@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bia Soull",
-  "num_followers": 247942,
+  "num_followers": 247946,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJDZQEVKtpRZuJGgpIcO6PiJJtr",
+  "snapshot_id": "AAAAAN1wJW8yioNFq02d8Ytrk3rRwbh+",
   "tracks": [
     {
       "added_at": "2026-08-10 14:45:13",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-08-10 14:45:13",
       "album": {
-        "name": "Intui\u00e7\u00e3o Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 192298,
-      "name": "200 Anos - Ao Vivo",
-      "url": "https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4"
-    },
-    {
-      "added_at": "2026-08-10 14:45:13",
-      "album": {
         "name": "Sua Preferida",
         "url": "https://open.spotify.com/album/4RQvTnJzJbkK0nz6AMKE5O"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 151636,
       "name": "Sua Preferida",
       "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
+    },
+    {
+      "added_at": "2026-08-10 14:45:13",
+      "album": {
+        "name": "Intui\u00e7\u00e3o Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 192298,
+      "name": "200 Anos - Ao Vivo",
+      "url": "https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4"
     },
     {
       "added_at": "2026-08-10 14:45:13",
@@ -531,22 +531,26 @@
     {
       "added_at": "2026-08-10 14:45:13",
       "album": {
-        "name": "MADE IN COHAB",
-        "url": "https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S"
+        "name": "MARIA BOA",
+        "url": "https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db"
       },
       "artists": [
         {
-          "name": "Isma",
-          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
         },
         {
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+          "name": "Taj Ma House",
+          "url": "https://open.spotify.com/artist/3p9anDjxxtWU8QkrbopoFy"
+        },
+        {
+          "name": "Tinoc",
+          "url": "https://open.spotify.com/artist/6BLaVUav8fhTgyAayfWfT4"
         }
       ],
-      "duration_ms": 192461,
-      "name": "SOCIALISMO DA PUTARIA",
-      "url": "https://open.spotify.com/track/6aLtcUHFthF2k5C4UoDxAb"
+      "duration_ms": 218035,
+      "name": "Acaso",
+      "url": "https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA"
     },
     {
       "added_at": "2026-08-10 14:45:13",
@@ -571,26 +575,22 @@
     {
       "added_at": "2026-08-10 14:45:13",
       "album": {
-        "name": "MARIA BOA",
-        "url": "https://open.spotify.com/album/0vhlv7mf7AhnRsnjzgj4Db"
+        "name": "MADE IN COHAB",
+        "url": "https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S"
       },
       "artists": [
         {
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
         },
         {
-          "name": "Taj Ma House",
-          "url": "https://open.spotify.com/artist/3p9anDjxxtWU8QkrbopoFy"
-        },
-        {
-          "name": "Tinoc",
-          "url": "https://open.spotify.com/artist/6BLaVUav8fhTgyAayfWfT4"
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
         }
       ],
-      "duration_ms": 218035,
-      "name": "Acaso",
-      "url": "https://open.spotify.com/track/3QEvHxPziDqOeCYLAzOeCA"
+      "duration_ms": 192461,
+      "name": "SOCIALISMO DA PUTARIA",
+      "url": "https://open.spotify.com/track/6aLtcUHFthF2k5C4UoDxAb"
     },
     {
       "added_at": "2026-08-10 14:45:13",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-08-10 14:45:13",
       "album": {
+        "name": "PROFANO",
+        "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+        }
+      ],
+      "duration_ms": 171581,
+      "name": "PROFANO",
+      "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2026-08-10 14:45:13",
+      "album": {
         "name": "Homem de BCT",
         "url": "https://open.spotify.com/album/7IHTe4wzo9hdW2x9isO2N6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 149100,
       "name": "Homem de BCT",
       "url": "https://open.spotify.com/track/1CzvjFmy2zZE7bRnv0krGD"
-    },
-    {
-      "added_at": "2026-08-10 14:45:13",
-      "album": {
-        "name": "PROFANO",
-        "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Nandes",
-          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
-        }
-      ],
-      "duration_ms": 171581,
-      "name": "PROFANO",
-      "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
     },
     {
       "added_at": "2026-08-10 14:45:13",
@@ -995,30 +995,6 @@
     {
       "added_at": "2026-08-10 14:45:13",
       "album": {
-        "name": "Deixa a Gira Girar",
-        "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
-      },
-      "artists": [
-        {
-          "name": "Sambaiana",
-          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
-        },
-        {
-          "name": "Ju Moraes",
-          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 228542,
-      "name": "Deixa a Gira Girar",
-      "url": "https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp"
-    },
-    {
-      "added_at": "2026-08-10 14:45:13",
-      "album": {
         "name": "MUCHO SEXY",
         "url": "https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 185864,
       "name": "GASOLINA",
       "url": "https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy"
+    },
+    {
+      "added_at": "2026-08-10 14:45:13",
+      "album": {
+        "name": "Deixa a Gira Girar",
+        "url": "https://open.spotify.com/album/7ufhsTfziKNTbMmSyu8LAS"
+      },
+      "artists": [
+        {
+          "name": "Sambaiana",
+          "url": "https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a"
+        },
+        {
+          "name": "Ju Moraes",
+          "url": "https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 228542,
+      "name": "Deixa a Gira Girar",
+      "url": "https://open.spotify.com/track/4Qpj3YJynrgKwrZhNQqoOp"
     },
     {
       "added_at": "2026-08-10 14:45:13",

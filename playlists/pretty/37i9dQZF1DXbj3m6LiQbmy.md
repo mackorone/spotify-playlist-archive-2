@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹  M¥SS KETA in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,471 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,472 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 59 | [Chi Ama Brucia](https://open.spotify.com/track/6E72u7gme1bAjQjPs1H29m) | [Ragazza Milano](https://open.spotify.com/artist/0OY6LGQu7fk8V4X43c81zn) | [Chi Ama Brucia](https://open.spotify.com/album/1rVqCLxybZCUtyCfaF9SwO) | 2:06 |
 | 60 | [Young Forever](https://open.spotify.com/track/0eU6ogqTZmNiARD4PGNaJo) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Young Forever](https://open.spotify.com/album/0GIZIsdYluq59vJolVAOfc) | 3:50 |
 
-Snapshot ID: `AAAAADO5356xHsJcsG3zLY2vNC1pZXbx`
+Snapshot ID: `AAAAAMy4+BQi/sYaVr8sU5L3x8LrF0Yd`

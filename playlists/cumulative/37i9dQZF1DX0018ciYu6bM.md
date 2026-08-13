@@ -2,9 +2,9 @@
 
 ### [KimBops!](https://open.spotify.com/playlist/37i9dQZF1DX0018ciYu6bM)
 
-> Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. \(Cover: KATSEYE\)
+> Rolling with the 'bops' in your Kimbap\. Bringing you the songs that are currently trending and everything else in between\. \(Cover: WAYF BOYS \(웨이프보이즈\)\)
 
-926 songs - 2 day 0 hr 52 min
+927 songs - 2 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH) | [Layin' Low \(feat\. Jooyoung\)](https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW) | 3:08 | 2022-04-05 | 2022-04-21 |
 | [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 | 2026-06-18 |  |
 | [LEMONADE](https://open.spotify.com/track/1DcgCdbq9EFIbCHRDrcWLu) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [LEMONADE](https://open.spotify.com/album/1hoTXn3AIaMB4SWG4wL0mn) | 3:08 | 2023-09-07 | 2023-10-05 |
-| [Less than a Lover](https://open.spotify.com/track/1gK5uqArBDmAJSr0DwvJ1b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/5ROqmKvvTaQ9IOHlElStj2) | 2:25 | 2026-07-24 |  |
+| [Less than a Lover](https://open.spotify.com/track/1gK5uqArBDmAJSr0DwvJ1b) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/5ROqmKvvTaQ9IOHlElStj2) | 2:25 | 2026-07-24 | 2026-08-13 |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-13 | 2023-08-01 |
 | [LET′S DANCE](https://open.spotify.com/track/5OJFA4FvJAML5CgPzTjRM8) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [The Move : Street](https://open.spotify.com/album/1O3e1rfT7WvtJYc19A6oLK) | 3:19 | 2023-09-07 | 2023-11-14 |
 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 | 2022-09-08 | 2022-09-29 |
@@ -874,6 +874,7 @@
 | [WATCH IT](https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.2 Sixth Sense](https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX) | 2:59 | 2023-11-23 | 2024-01-18 |
 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 | 2023-05-18 | 2023-06-28 |
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2025-11-04 | 2026-05-14 |
+| [WAYF BOYS DO](https://open.spotify.com/track/7fqDQwY9YBGrEPaoicaVpV) | [WAYF BOYS](https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC) | [WAYF BOYS DO](https://open.spotify.com/album/1TUior96JLdFph4eqmQHcS) | 2:46 | 2026-08-12 |  |
 | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [WDA \(Whole Different Animal\) \(feat\. G\-DRAGON\)](https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL) | 2:54 | 2026-05-13 |  |
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-20 | 2023-03-07 |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-14 | 2023-01-10 |

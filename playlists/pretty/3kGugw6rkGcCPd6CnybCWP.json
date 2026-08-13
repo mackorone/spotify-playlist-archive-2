@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAPw8yHYx0R0/IAC1iRMup6KjlrHvUR",
+  "snapshot_id": "AAAPxzkVvOVlcI5GeEv/xb7ksbnWLY39",
   "tracks": [
     {
       "added_at": "2026-06-01 22:08:37",
@@ -1431,6 +1431,70 @@
       "duration_ms": 185478,
       "name": "Painted",
       "url": "https://open.spotify.com/track/6jp6rAiuG6LFrYLyCt10fY"
+    },
+    {
+      "added_at": "2026-08-12 08:02:44",
+      "album": {
+        "name": "Things i used to forgive",
+        "url": "https://open.spotify.com/album/04oAaNAuFoCSv6QjGTzeVz"
+      },
+      "artists": [
+        {
+          "name": "Cookie with needles",
+          "url": "https://open.spotify.com/artist/6LeZgiMoL2u7m8MD0RG0GC"
+        }
+      ],
+      "duration_ms": 336574,
+      "name": "Things i used to forgive",
+      "url": "https://open.spotify.com/track/5NZMEI5RHe4qnXWmqfm9vD"
+    },
+    {
+      "added_at": "2026-08-12 08:03:19",
+      "album": {
+        "name": "Fairy Wings",
+        "url": "https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd"
+      },
+      "artists": [
+        {
+          "name": "Ladat",
+          "url": "https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Fairy Wings",
+      "url": "https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG"
+    },
+    {
+      "added_at": "2026-08-12 08:04:04",
+      "album": {
+        "name": "Reason To Exist (Suburban Sessions)",
+        "url": "https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ"
+      },
+      "artists": [
+        {
+          "name": "According To Jack",
+          "url": "https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Reason To Exist - Suburban Sessions",
+      "url": "https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D"
+    },
+    {
+      "added_at": "2026-08-12 08:04:14",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/5PcV3AxCIWaXY4t2f26cbb"
+      },
+      "artists": [
+        {
+          "name": "Revolana",
+          "url": "https://open.spotify.com/artist/10GMiQxPVYdUZ5OceNBtNC"
+        }
+      ],
+      "duration_ms": 151124,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5JDoCALAWk9tryxgXaNHtN"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

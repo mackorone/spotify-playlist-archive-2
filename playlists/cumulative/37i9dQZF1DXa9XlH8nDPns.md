@@ -2,7 +2,7 @@
 
 ### [Happy Roadtrip](https://open.spotify.com/playlist/37i9dQZF1DXa9XlH8nDPns)
 
-> De Nachtwacht kiest 20 roadtrip songs! zomer ID 🚐 avonturier\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> De Nachtwacht kiest 20 songs voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
 119 songs - 6 hr 54 min
 

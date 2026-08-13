@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689 likes - 286 songs - 16 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 691 likes - 287 songs - 16 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 44 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 | 45 | [Jennie \(feat\. R\. City, Bori\)](https://open.spotify.com/track/7uM7YZwNZqdDMG0NfGhmux) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:04 |
 | 46 | [I Won \(feat\. Kanye West\)](https://open.spotify.com/track/2T4JE91t7Js1DJ4rSHltcQ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:59 |
-| 47 | [Pensando a lei](https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 2:56 |
-| 48 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
+| 47 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
+| 48 | [Pensando a lei](https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 2:56 |
 | 49 | [Buy The World](https://open.spotify.com/track/01A7PEPSnmtixFPfB2UTal) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Buy The World](https://open.spotify.com/album/0N8ZuxurFs5C4fsC1z7wRK) | 3:46 |
 | 50 | [Pretty Brown Eyes](https://open.spotify.com/track/5BHWQ78pw9yIjIWa6p1z6G) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise](https://open.spotify.com/album/0Nt9OVNsmAcsEYXULP0ZBD) | 2:48 |
 | 51 | [Trini Dem Girls](https://open.spotify.com/track/2kSzO9N1NoDFGAlMgvQM6B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 3:14 |
@@ -294,5 +294,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 284 | [Get Spooky](https://open.spotify.com/track/0n6S7kvJmwFBzjjh5qqaD0) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:29 |
 | 285 | [Trick or Treat](https://open.spotify.com/track/1OeEONCaGm6b2ZtdgQOopI) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:52 |
 | 286 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
+| 287 | [Ain't In LA](https://open.spotify.com/track/6CtAFw1tojgxnK5TpaIZ8o) | [Elliot Sutton](https://open.spotify.com/artist/3VPdb0Wshwc9Iwjv4wayhw) | [Ain't In LA](https://open.spotify.com/album/0JpzocLElGemkJ8i4SkgIO) | 1:06 |
 
-Snapshot ID: `AcZU6AAAAAAAHD9jvJsSd74A9cM0vOUq`
+Snapshot ID: `AcZaTAAAAABZnuZ3Pk5KQsAnsAKhv519`

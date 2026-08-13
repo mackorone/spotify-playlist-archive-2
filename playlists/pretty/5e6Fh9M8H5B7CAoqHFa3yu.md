@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 350 likes - 2,541 songs - 6 day 5 hr 23 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 350 likes - 2,542 songs - 6 day 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2549,5 +2549,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2539 | [失恋大歓迎](https://open.spotify.com/track/5RtwOs0GJWOYV1Sw8bwdak) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [失恋大歓迎](https://open.spotify.com/album/45m4uJRHMDGwt685iQXcnL) | 2:52 |
 | 2540 | [Ausente](https://open.spotify.com/track/36PcSX4cg6YHzAIw3pDrgA) | [AarǿnViz](https://open.spotify.com/artist/6ciNCF1EJNLtnruJM3eySb) | [Ausente](https://open.spotify.com/album/0SPOT5pwB1OkBCttVu9TQp) | 2:52 |
 | 2541 | [Hearts in Ash Flames](https://open.spotify.com/track/0IbDAlIBmWEHUWaqONezek) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Hearts in Ash Flames](https://open.spotify.com/album/4T1xDxA1nLT0ShI8u9EzKl) | 3:19 |
+| 2542 | [Bleeding Stars](https://open.spotify.com/track/72qr7jAEXtgSoArhJdGJ3F) | [Sideral](https://open.spotify.com/artist/1kFBUmLbV6cvRA7PFc00SM) | [Bleeding Stars](https://open.spotify.com/album/7h83oGdK3lc4SfgAdgvQpy) | 3:30 |
 
-Snapshot ID: `AAAKx1sUCOxVmbUyuPH1VQTTK7IDa+DY`
+Snapshot ID: `AAAKyOgLI3D62EEHuw2elwiEz4U0tnej`

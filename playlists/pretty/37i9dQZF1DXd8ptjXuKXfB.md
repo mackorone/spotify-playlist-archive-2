@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,822 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,833 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 67 | [Pesti bárdok](https://open.spotify.com/track/6GbI4lomlbCVHGfufZrjOv) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Pesti bárdok](https://open.spotify.com/album/45uG02RJkRCwM5yAcLoeG8) | 5:55 |
 | 68 | [Sephora](https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [Sephora](https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w) | 4:31 |
 | 69 | [Midnight \(The Hanging Tree\)](https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu) | [HOSH](https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs), [1979](https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6), [Jalja](https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R) | [Midnight \(The Hanging Tree\)](https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh) | 2:58 |
-| 70 | [vrumm](https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [vrumm](https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ) | 2:26 |
-| 71 | [Fújj meg szél](https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Suttog a szél](https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY) | 4:31 |
-| 72 | [Diagram](https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Diagram](https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM) | 3:23 |
-| 73 | [Gate Closed](https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Four Seasons \- Spring](https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc) | 2:29 |
+| 70 | [Fújj meg szél](https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Suttog a szél](https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY) | 4:31 |
+| 71 | [Diagram](https://open.spotify.com/track/5ZnlGNTGFOjOQ17TJzPnE0) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Diagram](https://open.spotify.com/album/0H4p2cpNeUeKL4Zn5BddfM) | 3:23 |
+| 72 | [Gate Closed](https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Four Seasons \- Spring](https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc) | 2:29 |
+| 73 | [vrumm](https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [vrumm](https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ) | 2:26 |
 | 74 | [hungarian mambo](https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [hungarian mambo](https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe) | 3:15 |
 | 75 | [Estelente](https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [SZÉTHULLIKAVILÁG](https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8) | 3:17 |
 | 76 | [Bad Boyz](https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Goore](https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp), [Kretz](https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd) | [Bad Boyz](https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U) | 3:03 |
-| 77 | [Brazil Fánk](https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Felszálló Ág](https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c) | 2:43 |
-| 78 | [Rollercoaster](https://open.spotify.com/track/0e0rMDNx3D0xMgOAcZQ2rj) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Four Seasons \- Winter](https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA) | 2:11 |
+| 77 | [Rollercoaster](https://open.spotify.com/track/0e0rMDNx3D0xMgOAcZQ2rj) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [Four Seasons \- Winter](https://open.spotify.com/album/6kCXNTI1ssjhzbKhdut4nA) | 2:11 |
+| 78 | [Brazil Fánk](https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Felszálló Ág](https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c) | 2:43 |
 | 79 | [Tequila](https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Tequila](https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst) | 2:01 |
 | 80 | [TAKE YOUR TIME](https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [TAKE YOUR TIME](https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot) | 2:21 |
 
-Snapshot ID: `AAAAANXfWlDN2nDXAB/1bElSTIeWeTkk`
+Snapshot ID: `AAAAAOW4YkncUXCz6u+k0tHMSbT5o+Jo`

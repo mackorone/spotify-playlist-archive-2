@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: WARGASM (UK)",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Sable Hills",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 188598,
       "name": "4x4",
       "url": "https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 183500,
       "name": "A Thousand Warnings",
       "url": "https://open.spotify.com/track/4BjDbuRcXYlTpxpsJ3wtPk"
@@ -3764,6 +3764,24 @@
       "duration_ms": 212914,
       "name": "Death Oath",
       "url": "https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz"
+    },
+    {
+      "album": {
+        "name": "Death of the Wolf",
+        "url": "https://open.spotify.com/album/4IUxzbWO7ZTsuN7JMNyBlH"
+      },
+      "artists": [
+        {
+          "name": "PEUR",
+          "url": "https://open.spotify.com/artist/0r0pQHZ34J5e9WDg50EAfj"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258008,
+      "name": "Death of the Wolf",
+      "url": "https://open.spotify.com/track/15BcUDMO0skpQT6FgED0es"
     },
     {
       "album": {
@@ -8068,7 +8086,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 207428,
       "name": "Infinity Pool",
       "url": "https://open.spotify.com/track/6xejrbJSeh5jkOdcEcVkui"
@@ -9914,7 +9932,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 315866,
       "name": "MOTINA",
       "url": "https://open.spotify.com/track/7ix1LiGXzfenejDIeJINi8"
@@ -10915,6 +10933,24 @@
     },
     {
       "album": {
+        "name": "On The Other Side",
+        "url": "https://open.spotify.com/album/1DHJ3PQbCeqm03pybRqjRj"
+      },
+      "artists": [
+        {
+          "name": "Severals",
+          "url": "https://open.spotify.com/artist/38ocNLUNmWi0fCSSmMNqHy"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225214,
+      "name": "On The Other Side",
+      "url": "https://open.spotify.com/track/49z1W9hM0UPFW0masXWWBY"
+    },
+    {
+      "album": {
         "name": "Pure To A Fault",
         "url": "https://open.spotify.com/album/722cq8EfjjvRlCmqQ9UTJV"
       },
@@ -11132,6 +11168,24 @@
       "duration_ms": 325090,
       "name": "Over My Shoulder",
       "url": "https://open.spotify.com/track/1jMrKVpIiDJFOV0r6sSjuf"
+    },
+    {
+      "album": {
+        "name": "OVERDOSE",
+        "url": "https://open.spotify.com/album/6V7FZh69ptnGC5O3z3rEAw"
+      },
+      "artists": [
+        {
+          "name": "Outloved",
+          "url": "https://open.spotify.com/artist/1zsGwHTBAXXWKOnUaKGrhd"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202866,
+      "name": "OVERDOSE",
+      "url": "https://open.spotify.com/track/7nfprYkcT4lSxYI8Dnc1hz"
     },
     {
       "album": {
@@ -12537,6 +12591,24 @@
     },
     {
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/57hoocujkskMcgIY1czaIp"
+      },
+      "artists": [
+        {
+          "name": "Sable Hills",
+          "url": "https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/1lhNr1KL8JP7ShXz0oo1wI"
+    },
+    {
+      "album": {
         "name": "Schizophrenia",
         "url": "https://open.spotify.com/album/41UJIn5a77YP0ZPJhXSoKe"
       },
@@ -13156,7 +13228,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 258811,
       "name": "Signs (feat. Matthew K. Heafy)",
       "url": "https://open.spotify.com/track/6HtwU4e2LXZKD6xy3ZlsXK"
@@ -13492,7 +13564,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 198518,
       "name": "Something Wrong",
       "url": "https://open.spotify.com/track/0S594p5wS4QF1kyt29dYWh"
@@ -15665,6 +15737,24 @@
     },
     {
       "album": {
+        "name": "TORTURE PORN",
+        "url": "https://open.spotify.com/album/6n9WBiLJFEFBviJIKNCUWF"
+      },
+      "artists": [
+        {
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200855,
+      "name": "TORTURE PORN",
+      "url": "https://open.spotify.com/track/4w5srfAVP0AVRrdQ1j1MNB"
+    },
+    {
+      "album": {
         "name": "Hollow Allegory",
         "url": "https://open.spotify.com/album/20pX5OOSG6WIEBtg0O2RW0"
       },
@@ -16136,6 +16226,24 @@
       "duration_ms": 259847,
       "name": "Veracity",
       "url": "https://open.spotify.com/track/3edSMzr1uKmwKtidjStQJ9"
+    },
+    {
+      "album": {
+        "name": "vessel",
+        "url": "https://open.spotify.com/album/0Cte65Id5B9SBmdUwzymrI"
+      },
+      "artists": [
+        {
+          "name": "HOSTAGE",
+          "url": "https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "vessel",
+      "url": "https://open.spotify.com/track/0egpHgCiAjfnzo3sHieS7P"
     },
     {
       "album": {

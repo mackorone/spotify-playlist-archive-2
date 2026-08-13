@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 16 | [Un chant d'amour](https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 3:41 |
 | 17 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 |
 | 18 | [To Get Fucked Up](https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [To Get Fucked Up](https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ) | 4:09 |
-| 19 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
-| 20 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 |
+| 19 | [wanderlust](https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [wanderlust](https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8) | 3:04 |
+| 20 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
 | 21 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
 | 22 | [1990](https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:09 |
 | 23 | [HALLELUJAH](https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [HALLELUJAH](https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 49 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
 | 50 | [Twisted Mind](https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Twisted Mind](https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9) | 2:52 |
 
-Snapshot ID: `AAAAAP51kVIX4rjbGsgOtbCUMlw9iZHQ`
+Snapshot ID: `AAAAAJ0vWXriZ9DE/8GNWIrqoNYoAQfy`

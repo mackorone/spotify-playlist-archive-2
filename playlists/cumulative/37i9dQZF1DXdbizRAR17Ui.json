@@ -6937,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "Should've Been",
+        "url": "https://open.spotify.com/album/7e7NGbnRzdGFOp2t0qWhm0"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143047,
+      "name": "Should've Been",
+      "url": "https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W"
+    },
+    {
+      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/2yxEAGxyOJzEg4IMxGew8h"
       },
@@ -8204,7 +8222,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 218740,
       "name": "U",
       "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,498 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,501 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 39 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 |
 | 40 | [Yours to Take](https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Yours to Take](https://open.spotify.com/album/6chCBhvEyDp2WexX9hi7is) | 5:02 |
 | 41 | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
-| 42 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 |
-| 43 | [Your Mind](https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Oscar Wallyn](https://open.spotify.com/artist/7J0KMSIGpJYscqTGc6L1oN), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [Your Mind](https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D) | 3:02 |
+| 42 | [Your Mind](https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Oscar Wallyn](https://open.spotify.com/artist/7J0KMSIGpJYscqTGc6L1oN), [Viiq](https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ) | [Your Mind](https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D) | 3:02 |
+| 43 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 |
 | 44 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 |
 | 45 | [skyskysky](https://open.spotify.com/track/06Nlp5oqdxzvTiZL99lxP8) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [yo,](https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB) | 2:23 |
 | 46 | [Azimuth](https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Azimuth](https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg) | 3:46 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 50 | [Buschtaxi](https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Music Can Hear Us](https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0) | 8:36 |
 | 51 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 |
 | 52 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 |
-| 53 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
-| 54 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
-| 55 | [Ghost Orchid](https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 4:08 |
-| 56 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
+| 53 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
+| 54 | [Sakura](https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt) | [Across Boundaries](https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Sakura](https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5) | 6:24 |
+| 55 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
+| 56 | [Ghost Orchid](https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 4:08 |
 | 57 | [Dragon](https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3) | 3:01 |
 | 58 | [Big Boy Tracks](https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Big Boy Tracks](https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK) | 3:41 |
 | 59 | [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 75 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 |
 
-Snapshot ID: `AAAAAIcusK1XS0guP45DyGsnXEmJf6oU`
+Snapshot ID: `AAAAAHCV8v25liuG7qS8PnteH/+XD+R/`

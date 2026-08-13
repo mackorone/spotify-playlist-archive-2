@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,319 likes - 100 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,361 likes - 100 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Mtoto Wa Mfalme](https://open.spotify.com/track/2MhzmEmdvQpmp9SXRgbofT) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Favored](https://open.spotify.com/album/774wdIsa41Ow8zYWlxg3YE) | 3:54 |
 | 100 | [Si Unaniona](https://open.spotify.com/track/4nqiZJNrjtWnJ3uBhHe5zM) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Si Unaniona](https://open.spotify.com/album/14U7TaCah1WFE4cYz7RTaG) | 3:13 |
 
-Snapshot ID: `AAAAAEOqY3z6kRHI8n7lD3N5YVb2EqeH`
+Snapshot ID: `AAAAAFmMV9+n3Pkn82fQXuaSM8yvSycP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring Max Styler
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,987,829 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988,396 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 3 | [Love Forever \(feat\. Kuuda\)](https://open.spotify.com/track/1TnejgU7YqwYrWRu2ZFxRU) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [I Don't Think I Can Stop](https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2) | 3:38 |
 | 4 | [Lovers On The Dancefloor](https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Lovers On The Dancefloor](https://open.spotify.com/album/7zMCGjwMweprIONeGRrsLN) | 2:33 |
 | 5 | [Hey Everybody](https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Hey Everybody](https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT) | 2:36 |
-| 6 | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
+| 6 | [Impressions](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
 | 7 | [4Get The Girl \- Mellizos Remix](https://open.spotify.com/track/5TJxNi6NZZIhhHnQPiDfiy) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Mellizos](https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi) | [4Get The Girl \(Mellizos Remix\)](https://open.spotify.com/album/0YrjTtHeiScGEv672aCrL3) | 2:40 |
 | 8 | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/track/3cH1FROo7Q1lC0N8SmdQJ1) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [jasper.wav](https://open.spotify.com/artist/69H3w1KragVQijsuYudCor) | [Solar Skin \(feat\. jasper.wav\)](https://open.spotify.com/album/5T7NY9l3JB9erPtdG5wZx7) | 2:28 |
 | 9 | [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 99 | [Morning Coffee](https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Morning Coffee](https://open.spotify.com/album/0bi4ncyJTGZvi4eP8PIZFn) | 3:02 |
 | 100 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
 
-Snapshot ID: `AAAAAJdYEXKljV+BL4jnnLsuLpbbR+xU`
+Snapshot ID: `AAAAAHpqAfJ+MsBT7fD7Gq4nYn1DJYuC`

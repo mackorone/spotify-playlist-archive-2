@@ -361,6 +361,32 @@
     },
     {
       "album": {
+        "name": "Anbil Avan - Title Theme (From \"Anbil Avan\")",
+        "url": "https://open.spotify.com/album/2CqP4iRmWrAtULffdze0sz"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Pragathi Guruprasad",
+          "url": "https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F"
+        },
+        {
+          "name": "R.Kaarthikeyan",
+          "url": "https://open.spotify.com/artist/67HdzSmunwuHtQeOYt3IsD"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77500,
+      "name": "Anbil Avan - Title Theme - From \"Anbil Avan\"",
+      "url": "https://open.spotify.com/track/42GFLyQPfp5DJg0a4r3E9P"
+    },
+    {
+      "album": {
         "name": "Madharaasi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P"
       },
@@ -3162,7 +3188,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 52800,
       "name": "Rhythm of Petta",
       "url": "https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy"

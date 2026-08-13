@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,268 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,290 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 51 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 52 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
 | 53 | [Mony Mony](https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Mony Mony](https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt) | 2:54 |
-| 54 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
-| 55 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
+| 54 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
+| 55 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
 | 56 | [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 |
 | 57 | [The House of the Rising Sun](https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The House of the Rising Sun: Best of The Animals](https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg) | 4:29 |
 | 58 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
@@ -130,13 +130,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 120 | [My Boy Lollipop](https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [Trojan Presents: Mod Ska](https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq) | 2:02 |
 | 121 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Groovin' with Manfred Mann](https://open.spotify.com/album/24uIWywoZqArplgomqtvfW) | 2:23 |
 | 122 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
-| 123 | [Twist And Shout](https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J) | 2:35 |
-| 124 | [Runaway \(Rerecorded\)](https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:27 |
-| 125 | [Luck Be A Lady](https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv) | 5:14 |
-| 126 | [The Hippy Hippy Shake](https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD) | [The Swinging Blue Jeans](https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH) | [The EMI Years \- Best Of The Swinging Blue Jeans](https://open.spotify.com/album/7fpIPCHQxBjahH7mfMiylL) | 1:46 |
-| 127 | [Waterloo Sunset \- Stereo Mix](https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else By The Kinks \(Bonus Track Edition\)](https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW) | 3:13 |
-| 128 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
-| 129 | [It's Not Unusual](https://open.spotify.com/track/67csrS6po7IyXfwds4azjr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Tom Jones](https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g) | 1:59 |
+| 123 | [It's Not Unusual](https://open.spotify.com/track/67csrS6po7IyXfwds4azjr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Tom Jones](https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g) | 1:59 |
+| 124 | [Twist And Shout](https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J) | 2:35 |
+| 125 | [Runaway \(Rerecorded\)](https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:27 |
+| 126 | [Luck Be A Lady](https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv) | 5:14 |
+| 127 | [The Hippy Hippy Shake](https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD) | [The Swinging Blue Jeans](https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH) | [The EMI Years \- Best Of The Swinging Blue Jeans](https://open.spotify.com/album/7fpIPCHQxBjahH7mfMiylL) | 1:46 |
+| 128 | [Waterloo Sunset \- Stereo Mix](https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else By The Kinks \(Bonus Track Edition\)](https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW) | 3:13 |
+| 129 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
 | 130 | [Papa's Got A Brand New Bag \- Pt\. 1](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 |
 | 131 | [Carrie Anne](https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:55 |
 | 132 | [Viva Las Vegas](https://open.spotify.com/track/2RyhBTD6SWLgaU5dhfVtEP) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Best Of Elvis Presley](https://open.spotify.com/album/7Hx0xRn0UTaEOe5LhcLjwU) | 2:20 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 144 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |
 | 145 | [A Hard Day's Night \- Remastered](https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D) | 2:34 |
 
-Snapshot ID: `AAAAAEJw6uICWSLSQJ1oX4MXgJliTYjB`
+Snapshot ID: `AAAAAJdqkDarJB+P1s/7VxOsvQJR/1TC`

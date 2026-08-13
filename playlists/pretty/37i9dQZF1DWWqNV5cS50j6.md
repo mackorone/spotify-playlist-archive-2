@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Sub Urban
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,312 likes - 101 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,298 likes - 101 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 100 | [goodWork](https://open.spotify.com/track/6lvebzEwTvoCF8MTL2n7nX) | [keni can fly](https://open.spotify.com/artist/2iRA9EyvCr4630D6QOiIiW) | [goodWork](https://open.spotify.com/album/4dvn5Bie7C35P2W27lMRDl) | 2:58 |
 | 101 | [Hummingbird](https://open.spotify.com/track/70I4o2N1z1zF0zOkXMWnVw) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Chasing Moving Trains](https://open.spotify.com/album/50eGAFAREgtdDVmSl7gD1y) | 4:06 |
 
-Snapshot ID: `AAAAAMpT1XhYXAhE5mMvMkToVLWuSSt1`
+Snapshot ID: `AAAAAJ8UOsJAdZ5W4rh+1NEICOBRsniO`

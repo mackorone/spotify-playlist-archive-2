@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 ### [Nederlandse Zomerhits 2026](https://open.spotify.com/playlist/37i9dQZF1DXcCQbOdQV38g)
 
-> Senna kiest haar 20 NL hits voor zomer ID 👑 hollandse zomerheld\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
+> Senna kiest 20 hits voor de zomer! <a href="spotify:presents:jouwzomerid">Doe de quiz: welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,679 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,752 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 89 | [Jungle](https://open.spotify.com/track/295hepw2obbNmOfPOu56td) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Hard Work Pays Off 2](https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9) | 3:41 |
 | 90 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 |
 
-Snapshot ID: `AAAAALf6THw2SnpOibBXrFtrPKiezz0f`
+Snapshot ID: `AAAAAGRBl8i0RSLSkgGf4Jmxq9h2kMVI`

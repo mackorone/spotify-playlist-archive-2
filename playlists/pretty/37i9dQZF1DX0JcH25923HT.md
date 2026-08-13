@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,219 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,366 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 15 | [Si Tu Lo Dejas](https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Kosa](https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t) | [Si Tu Lo Dejas](https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0) | 4:35 |
 | 16 | [Medusa](https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Medusa](https://open.spotify.com/album/00WVnPPMH4wPiQk7QgLVgn) | 5:05 |
 | 17 | [25/8](https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:03 |
-| 18 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |
-| 19 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 |
+| 18 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 |
+| 19 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |
 | 20 | [Po' encima \(feat\. Bryant Myers\)](https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Po' encima \(feat\. Bryant Myers\)](https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf) | 3:31 |
 | 21 | [Quieres Enamorarme \(feat\. Bryant Myers, Juhn & Baby Rasta\)](https://open.spotify.com/track/4zbok3tDaKsnL76CQ07L4L) | [Trap Capos](https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Trap Capos: Season 1](https://open.spotify.com/album/74vYzfJqytyzhahNopSwtg) | 4:18 |
 | 22 | [Dime Si Te Acuerdas](https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dime Si Te Acuerdas](https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Modo Bestia](https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 2:21 |
 | 100 | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/track/0XisiywmNf0JO3HuYAHCjh) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [My Blood Remix \(feat\. Julianno Sosa\)](https://open.spotify.com/album/4891w8atdNgY3DQ1Mjiahq) | 4:12 |
 
-Snapshot ID: `AAAAAMAvNIslLfaofu3qwfGnW/24MGng`
+Snapshot ID: `AAAAABnSI+iNV8spVKhxzZjT+DAAQQEy`

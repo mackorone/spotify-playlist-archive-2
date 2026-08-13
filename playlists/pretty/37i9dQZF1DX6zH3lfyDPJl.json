@@ -1,12 +1,12 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13044,
+  "num_followers": 13055,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOc5gFThuIH8EzvOmwESXaaa7hyf",
+  "snapshot_id": "AAAAAJTq+bFb1P4IgaUSuCzD/rYWMrh6",
   "tracks": [
     {
       "added_at": "2026-07-24 08:47:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-07-24 08:47:44",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
-    },
-    {
-      "added_at": "2026-07-24 08:47:44",
-      "album": {
         "name": "TYPHOON",
         "url": "https://open.spotify.com/album/53SL5EIuJdUG7EBF6u2rdv"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 180395,
       "name": "me & u",
       "url": "https://open.spotify.com/track/5R9eJdGi0hzYRajiqyq62h"
+    },
+    {
+      "added_at": "2026-07-24 08:47:44",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
     },
     {
       "added_at": "2026-07-24 08:47:44",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-07-24 08:47:44",
       "album": {
-        "name": "do you think you could love me?",
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 236140,
-      "name": "do you think you could love me?",
-      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
-    },
-    {
-      "added_at": "2026-07-24 08:47:44",
-      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 159800,
       "name": "We Don't Wanna Talk",
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
+    },
+    {
+      "added_at": "2026-07-24 08:47:44",
+      "album": {
+        "name": "do you think you could love me?",
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 236140,
+      "name": "do you think you could love me?",
+      "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
     },
     {
       "added_at": "2026-07-24 08:47:44",
@@ -735,18 +735,22 @@
     {
       "added_at": "2026-07-24 08:47:44",
       "album": {
-        "name": "To Dry a Tear",
-        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+        "name": "Lost Mood",
+        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "entoy",
+          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
+        },
+        {
+          "name": "suru",
+          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
         }
       ],
-      "duration_ms": 209589,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
+      "duration_ms": 159000,
+      "name": "Blue mood",
+      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
     },
     {
       "added_at": "2026-07-24 08:47:44",
@@ -767,22 +771,18 @@
     {
       "added_at": "2026-07-24 08:47:44",
       "album": {
-        "name": "Lost Mood",
-        "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
       "artists": [
         {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "suru",
-          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Blue mood",
-      "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+      "duration_ms": 209589,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
       "added_at": "2026-07-24 08:47:44",

@@ -2,7 +2,7 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> \#fyp songs voor je playlist Cover: Ray & Beer
+> \#fyp songs voor je playlist met o.a\. Ray & Beer\. <a href="spotify:presents:jouwzomerid">Zomer aanbevelingen van Spotify? Doe de quiz!</a>
 
 912 songs - 1 day 21 hr 44 min
 

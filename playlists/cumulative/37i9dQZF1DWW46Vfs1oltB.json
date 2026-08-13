@@ -6299,6 +6299,32 @@
     },
     {
       "album": {
+        "name": "AMBITION 8/10",
+        "url": "https://open.spotify.com/album/4xP84ajiWzQvSLYmUVD5Yf"
+      },
+      "artists": [
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160031,
+      "name": "BUSS DAT",
+      "url": "https://open.spotify.com/track/6IwzoQLB8Y8InCGDPaEujl"
+    },
+    {
+      "album": {
         "name": "BUST IT",
         "url": "https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu"
       },
@@ -13642,7 +13668,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 118153,
       "name": "GO! x1000",
       "url": "https://open.spotify.com/track/0rYHhQulxVzHKclhmIn9WG"
@@ -15162,7 +15188,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 159598,
       "name": "Headrock",
       "url": "https://open.spotify.com/track/2mup9ZJa9brkbC6ly7qOIO"
@@ -15674,7 +15700,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 274104,
       "name": "HIGH TOP",
       "url": "https://open.spotify.com/track/4ctXm2YVJNMsDFKbupJ9f8"
@@ -35096,7 +35122,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 97714,
       "name": "Still Hot",
       "url": "https://open.spotify.com/track/3rFM4EUeGgwVN6fSeE5fqp"
@@ -35590,7 +35616,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 136214,
       "name": "SUNBEAM",
       "url": "https://open.spotify.com/track/0q4rcjd14I3vgDtlutM1WB"

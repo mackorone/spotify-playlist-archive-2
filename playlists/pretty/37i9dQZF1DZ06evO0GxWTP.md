@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,618 likes - 29 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,623 likes - 29 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 23 | [Baldadig](https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Baldadig](https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW) | 2:23 |
 | 24 | [Niks](https://open.spotify.com/track/5BjwnWj3moPSEaGBKIWrQo) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Niks](https://open.spotify.com/album/2uZIDpY0gf2A9l9Zl7y7Ql) | 2:29 |
 | 25 | [Vader & zoon \- Remix](https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC), [Milo ter Reegen](https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Vader & zoon \(Remix\)](https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8) | 2:20 |
-| 26 | [Factureren](https://open.spotify.com/track/1KlTuOaH1MkEQT4enjsCXR) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Factureren](https://open.spotify.com/album/1mIRlj659gOo1nLTwBZVTx) | 1:46 |
-| 27 | [Systeem](https://open.spotify.com/track/3PPEVFabRGkoH271LNFpJm) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:38 |
+| 26 | [Systeem](https://open.spotify.com/track/3PPEVFabRGkoH271LNFpJm) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:38 |
+| 27 | [Factureren](https://open.spotify.com/track/1KlTuOaH1MkEQT4enjsCXR) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Factureren](https://open.spotify.com/album/1mIRlj659gOo1nLTwBZVTx) | 1:46 |
 | 28 | [Fantastico](https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Fantastico](https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS) | 3:01 |
 | 29 | [Eenzaam](https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Eenzaam](https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r) | 2:39 |
 
-Snapshot ID: `ankUgAAAAABwjDeiiLvr+MZpUhc5sT2N`
+Snapshot ID: `anpmAAAAAABX2mQsGuSmwuN3X6p0E+vW`

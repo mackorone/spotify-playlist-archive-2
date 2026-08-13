@@ -4,7 +4,7 @@
 
 > 
 
-254 songs - 23 hr 44 min
+255 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 | 2024-02-12 |  |
 | [Universal Nation \- Original Mix](https://open.spotify.com/track/34PgbZHudjUapNEqsb1WcW) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [A State Of Trance Classics, Vol.4](https://open.spotify.com/album/1xQo1sPHxgStoMUvRGVC6t) | 7:57 | 2022-12-22 |  |
 | [Universe](https://open.spotify.com/track/0JqYNwjdSbFzL9Byr5GI8R) | [Daniele Di Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Schneeweiß 8: Presented by Oliver Koletzki](https://open.spotify.com/album/0ZzkOqemwSDhv6c8HQdcPh) | 6:20 | 2022-07-13 |  |
+| [Valley of the Yuccas \- Live from Joshua Tree](https://open.spotify.com/track/1ijfRk425gDo9RAV0U7BI6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Live from Joshua Tree](https://open.spotify.com/album/5OcHrujEkMm1x4FSihxTgv) | 3:47 | 2026-08-12 |  |
 | [Venere \- Fideles Remix \- Edit](https://open.spotify.com/track/4vlZW4p9TF0xDIMGo5LQlE) | [BOg](https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY), [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Venere](https://open.spotify.com/album/7LzrIgEiPN4JgGrpqfHV2S) | 4:03 | 2021-10-24 |  |
 | [Vergeben](https://open.spotify.com/track/1pxn9vFQkHsVutQKoEcAzd) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Vergeben](https://open.spotify.com/album/0OnnJO0iBVLbqfaYHtyY2s) | 5:23 | 2026-07-27 |  |
 | [Veränderung spüren](https://open.spotify.com/track/67JAkwflqz0Fg1AHFfUN3t) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Veränderung spüren](https://open.spotify.com/album/2LDAxwcSumPYcUmTTILfAB) | 3:38 | 2025-08-23 |  |

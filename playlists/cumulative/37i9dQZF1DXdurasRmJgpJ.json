@@ -1687,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "GO GHOST",
+        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "GO GHOST",
+      "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
+    },
+    {
+      "album": {
         "name": "GO!!",
         "url": "https://open.spotify.com/album/29T4LezOXJ6i9j0Fy2EQkf"
       },
@@ -9120,7 +9138,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 204833,
       "name": "\u706b\u7a2e",
       "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"

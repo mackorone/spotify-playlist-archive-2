@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Pretty Girl
 
-709 songs - 1 day 15 hr 35 min
+710 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv) | 3:30 | 2024-10-31 | 2025-01-10 |
 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 | 2026-03-12 |  |
 | [Do You Want Me](https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Do You Want Me](https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI) | 4:32 | 2024-05-31 | 2024-07-27 |
-| [Do You Want This](https://open.spotify.com/track/6ITfKmdTryTr2Fc119YIvg) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Do You Want This](https://open.spotify.com/album/5iWax2Wx9uQ4q4paIo3wde) | 3:31 | 2026-08-07 |  |
+| [Do You Want This](https://open.spotify.com/track/6ITfKmdTryTr2Fc119YIvg) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Do You Want This](https://open.spotify.com/album/5iWax2Wx9uQ4q4paIo3wde) | 3:31 | 2026-08-07 | 2026-08-13 |
 | [Doin To Me](https://open.spotify.com/track/7jBMjGaPJRSGBceGblQ8Rf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Did I Stutter?](https://open.spotify.com/album/4AlRLAS1bFJ8G6BmYfYwnE) | 2:35 | 2025-06-19 | 2025-06-27 |
 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 | 2025-02-13 | 2026-07-24 |
 | [Dolly Destructiva](https://open.spotify.com/track/7LSq6cn5rFWH1gQzG2rMgD) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz) | [Hotel Living](https://open.spotify.com/album/679EGqfIi13IxNcGwbyVP0) | 2:23 | 2025-06-12 | 2025-06-20 |
@@ -178,6 +178,7 @@
 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-30 | 2025-02-07 |
 | [Easing Out Of Control](https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Easing Out Of Control](https://open.spotify.com/album/1NCpaJ6SAWJ0MgNMJNDakj) | 3:34 | 2026-01-15 | 2026-02-13 |
 | [East Village](https://open.spotify.com/track/5LiP68DZdXab2WX8EcWREO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY) | 3:31 | 2026-06-11 |  |
+| [Easy](https://open.spotify.com/track/1hvxnJ2rwvFBCAiZMKCX87) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Easy](https://open.spotify.com/album/5sjPQMyBzNpCesF7mBR4Jk) | 3:07 | 2026-08-07 |  |
 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 | 2025-07-17 | 2025-10-04 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2024-05-31 | 2025-04-04 |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-31 | 2025-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Wiktor Waligóra, Lor
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,750 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,747 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 100 | [Brak tchu](https://open.spotify.com/track/40WAq4ke8fNkOMJKJQ8iQq) | [Mlecze](https://open.spotify.com/artist/5lCEddkyXfytjFWsUlviEo) | [Album Niebieski](https://open.spotify.com/album/6gnfCOxgVSV0qYQJWudBM0) | 3:31 |
 | 101 | [Gdzie jest Frank Ocean?](https://open.spotify.com/track/0Zl4Qc9ykqydUmTvbc145L) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Gdzie jest Frank Ocean?](https://open.spotify.com/album/4zjQp7uLgt5DQoIanOrp1v) | 3:31 |
 
-Snapshot ID: `AAAAAL8TWuzcSsPSOA7HBbXX18BXOvlb`
+Snapshot ID: `AAAAADsIsXbZog/y72dr3qqZ2cCX8dla`

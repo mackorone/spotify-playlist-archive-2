@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103886,
+  "num_followers": 103883,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADTnM6J93pBuTOmPEHT0n60",
+  "snapshot_id": "anpmAAAAAAAT3wMO8RZksVwCxQhvIrG8",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+        "name": "Nunca Me Quisiste",
+        "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
       },
       "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 186073,
-      "name": "Me Hubieras Dicho",
-      "url": "https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi"
+      "duration_ms": 152789,
+      "name": "Nunca Me Quisiste",
+      "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
     },
     {
       "added_at": null,
@@ -243,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Me Quisiste",
-        "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
       "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 152789,
-      "name": "Nunca Me Quisiste",
-      "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
+      "duration_ms": 186073,
+      "name": "Me Hubieras Dicho",
+      "url": "https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi"
     },
     {
       "added_at": null,

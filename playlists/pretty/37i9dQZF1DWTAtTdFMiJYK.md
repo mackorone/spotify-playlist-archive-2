@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Temsu Clover
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,566 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,720 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 50 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 |
 | 51 | [Piya](https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Haal\-e\-Dil](https://open.spotify.com/album/08MA1gXMtK4u5dmsyJEURe) | 2:21 |
 | 52 | [Jee Na Paaye](https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Priyankit Jaiswal](https://open.spotify.com/artist/2m2eci1WqPBHVqrHyrpCsP), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Jee Na Paaye](https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL) | 3:52 |
-| 53 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
-| 54 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
+| 53 | [Jiya](https://open.spotify.com/track/0N0k2zsecxTf0Z2mRIFryQ) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jiya](https://open.spotify.com/album/7f1k4Bhpsa8jyEcIuOwDVM) | 3:01 |
+| 54 | [Patang \(From "UR Debut"\)](https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda) | [Abeer Chopra](https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF), [Arav Dhawan](https://open.spotify.com/artist/6KdW2yOfLy3f5LWH6j4ru3) | [Patang \(From "UR Debut"\)](https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O) | 2:58 |
 | 55 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 |
 | 56 | [Ab Na Laut Paayenge](https://open.spotify.com/track/5nBvkAMnwgWb2yUTNFkQfI) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Talkhiyaan](https://open.spotify.com/album/4BsBm8Ny3BKObOnESP3hPh) | 3:02 |
 | 57 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 58 | [Noor](https://open.spotify.com/track/36zJvaFktpReO0ZpO7zK7H) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Noor](https://open.spotify.com/album/1C28dscSE3eMMySafwMSmm) | 3:12 |
-| 59 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
-| 60 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
+| 59 | [Jaane Anjaane](https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Jaane Anjaane](https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC) | 2:41 |
+| 60 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 |
 | 61 | [Dariya](https://open.spotify.com/track/6Y9PQMcP2PwspzZvKbMG6w) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [CIRCLES](https://open.spotify.com/album/2D2JEphFbPsxbthC89eH1t) | 2:52 |
 | 62 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 63 | [Sahaare](https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sahaare](https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Mere Qareeb](https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Mere Qareeb](https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K) | 3:44 |
 | 75 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
 
-Snapshot ID: `AAAAABD8BIhDaLTRFQLd6HkogTtpyRa+`
+Snapshot ID: `AAAAAKEyEfhL1IA/6gRvFrw1Ltd6Y9xf`

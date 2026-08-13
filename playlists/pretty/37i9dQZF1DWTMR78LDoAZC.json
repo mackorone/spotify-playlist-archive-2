@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: MUNA",
-  "num_followers": 186571,
+  "num_followers": 186570,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL7HsEvZk0gy34Ud6YMmhQ+x5FAq",
+  "snapshot_id": "AAAAANlghoHJ3NKpp+SCsnfSo7BzA8Kn",
   "tracks": [
     {
       "added_at": "2026-07-31 04:03:38",
@@ -183,18 +183,18 @@
     {
       "added_at": "2026-07-31 04:03:38",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 466466,
+      "name": "A House In Nebraska",
+      "url": "https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV"
     },
     {
       "added_at": "2026-07-31 04:03:38",
@@ -215,18 +215,18 @@
     {
       "added_at": "2026-07-31 04:03:38",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
       "artists": [
         {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 466466,
-      "name": "A House In Nebraska",
-      "url": "https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV"
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
     },
     {
       "added_at": "2026-07-31 04:03:38",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-31 04:03:38",
       "album": {
-        "name": "Christine and the Queens",
-        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
-    },
-    {
-      "added_at": "2026-07-31 04:03:38",
-      "album": {
         "name": "Leave It On The Dancefloor",
         "url": "https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 175016,
       "name": "Leave It On The Dancefloor",
       "url": "https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v"
+    },
+    {
+      "added_at": "2026-07-31 04:03:38",
+      "album": {
+        "name": "Christine and the Queens",
+        "url": "https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 233247,
+      "name": "Tilted",
+      "url": "https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED"
     },
     {
       "added_at": "2026-07-31 04:03:38",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-07-31 04:03:38",
       "album": {
+        "name": "HARDCORE HAPPY",
+        "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
+      },
+      "artists": [
+        {
+          "name": "THE BLSSM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "HARDCORE HAPPY",
+      "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
+    },
+    {
+      "added_at": "2026-07-31 04:03:38",
+      "album": {
         "name": "Real Power",
         "url": "https://open.spotify.com/album/5NkbIgGVPVGDuR5PaJNGMF"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 212064,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds"
-    },
-    {
-      "added_at": "2026-07-31 04:03:38",
-      "album": {
-        "name": "HARDCORE HAPPY",
-        "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
-      },
-      "artists": [
-        {
-          "name": "THE BLSSM",
-          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "HARDCORE HAPPY",
-      "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
     },
     {
       "added_at": "2026-07-31 04:03:38",

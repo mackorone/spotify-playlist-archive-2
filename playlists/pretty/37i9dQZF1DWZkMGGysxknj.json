@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 816416,
+  "num_followers": 816349,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI7DEXAmiphFpO+ZQN8MBadPAP7o",
+  "snapshot_id": "AAAAAAgLlSr1zXG6x0KVGZzvMxn2z+GN",
   "tracks": [
     {
       "added_at": "2025-06-20 16:07:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Sunday Best (Acoustic Version)",
         "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 150538,
       "name": "Sunday Best - Acoustic Version",
       "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/5DphHIaiZBFZvI1epMUjMZ"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 171696,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0H20PIDhzGnoOOYE6VC1TX"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Chantaje",
-        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
-        }
-      ],
-      "duration_ms": 207431,
-      "name": "Chantaje",
-      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Physical (Acoustic)",
         "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 198608,
       "name": "Physical - Acoustic",
       "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Chantaje",
+        "url": "https://open.spotify.com/album/2QO086Ci3QxG7LVEdeYqhl"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/261dXSTP2fxbtRTGmg4VTr"
+        }
+      ],
+      "duration_ms": 207431,
+      "name": "Chantaje",
+      "url": "https://open.spotify.com/track/3P6oKxLPu8AMIB6y1wF86y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/0mNjwCVc6HHQM2PgAaXdH4"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 182118,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Atlas: Seven",
         "url": "https://open.spotify.com/album/3xyLM733s9O4Is7m4VgaQi"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 263124,
       "name": "Atlas: Seven",
       "url": "https://open.spotify.com/track/2LzOMk2irKa51zmGyQKNmK"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
+      },
+      "artists": [
+        {
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Graveyard",
         "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 254296,
       "name": "Graveyard - Acoustic",
       "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1947,38 +1947,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Give it Back",
         "url": "https://open.spotify.com/album/3qkkYie1eINh4qk4XJUzEW"
       },
@@ -1991,6 +1959,22 @@
       "duration_ms": 401125,
       "name": "Give it Back",
       "url": "https://open.spotify.com/track/7y7GePCjc1mqoLAvbjmAvK"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2015,6 +1999,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "The Day I Left Hanoi",
         "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
       },
@@ -2027,38 +2027,6 @@
       "duration_ms": 229850,
       "name": "The Day I Left Hanoi",
       "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
-      },
-      "artists": [
-        {
-          "name": "Jessie Blue and Zach Solomon",
-          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
-        }
-      ],
-      "duration_ms": 253872,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2079,6 +2047,38 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Blue and Zach Solomon",
+          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
+        }
+      ],
+      "duration_ms": 253872,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Goodbyes",
         "url": "https://open.spotify.com/album/7tNjfLfGNQd5IPjuW6pBik"
       },
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "x tu amor",
         "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 205000,
       "name": "x tu amor",
       "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
-      },
-      "artists": [
-        {
-          "name": "Lea Aput",
-          "url": "https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
         "url": "https://open.spotify.com/album/66X3yLH2L4fkv8k6xo4J6i"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 228520,
       "name": "better on my own - na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej",
       "url": "https://open.spotify.com/track/48FWPEjsIDprp1iS743vQn"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
+      },
+      "artists": [
+        {
+          "name": "Lea Aput",
+          "url": "https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2503,18 +2503,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Relaxing 90S Acoustic Covers",
-        "url": "https://open.spotify.com/album/1KDvmZMD4h0rqf90lM1zOU"
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
       "artists": [
         {
-          "name": "Karizma Duo",
-          "url": "https://open.spotify.com/artist/4AG4GdKn7FmC3EPk8m6dxg"
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        },
+        {
+          "name": "Z.A.M.P.A",
+          "url": "https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2"
         }
       ],
-      "duration_ms": 152432,
-      "name": "Why Does It Always Rain on Me?",
-      "url": "https://open.spotify.com/track/53W9rGhCo7gYlZOM8cHywX"
+      "duration_ms": 267019,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

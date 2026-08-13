@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Airwave Dream & Low Drift",
+        "url": "https://open.spotify.com/album/00aYZV4OaT1lG6aV8XSjAN"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Airwave Dream",
+      "url": "https://open.spotify.com/track/1QWvCJC5jTcIFi6xd9K7KV"
+    },
+    {
+      "album": {
         "name": "Alabaster Doze",
         "url": "https://open.spotify.com/album/1HiD54aPEy9ScyFwridgdR"
       },
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Calm Current (White Noise)",
+        "url": "https://open.spotify.com/album/3gTP2uUihC268jdgYEXeNk"
+      },
+      "artists": [
+        {
+          "name": "Alm Bark",
+          "url": "https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229592,
+      "name": "Calm Current (White Noise)",
+      "url": "https://open.spotify.com/track/0CY99uqtDNMr00ETOGKnzG"
+    },
+    {
+      "album": {
         "name": "Calm Frequency White Noise",
         "url": "https://open.spotify.com/album/0MX1pgxl7BUkrK2C9fDdrN"
       },
@@ -196,7 +232,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 237837,
       "name": "Calm Frequency White Noise",
       "url": "https://open.spotify.com/track/0qMUurMRBpJx0wPYUkAPNk"
@@ -250,10 +286,28 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 144000,
       "name": "Clear Air White Noise",
       "url": "https://open.spotify.com/track/7MfhmjpKujF5BDjz8TEzhj"
+    },
+    {
+      "album": {
+        "name": "Cloud Circuit & Hum Below",
+        "url": "https://open.spotify.com/album/6fi3Xgg22Wkau8GRx1ZO92"
+      },
+      "artists": [
+        {
+          "name": "Emotional Support Fan",
+          "url": "https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Cloud Circuit",
+      "url": "https://open.spotify.com/track/5sjr34Oyg409r71yQ6TXHy"
     },
     {
       "album": {
@@ -275,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Cloudy White Noise",
+        "url": "https://open.spotify.com/album/7MuYMesx43BLI2Tja6owvA"
+      },
+      "artists": [
+        {
+          "name": "Oxford Deluxe Noise",
+          "url": "https://open.spotify.com/artist/1YHc2jsmg09PGKIPczmHnG"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Cloudy White Noise",
+      "url": "https://open.spotify.com/track/6IA8ysRKyJvYGErqlQq8Y5"
+    },
+    {
+      "album": {
         "name": "Constant White Noise Calm",
         "url": "https://open.spotify.com/album/6X3SuFQWKvZPDwFZvXqWyx"
       },
@@ -286,7 +358,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 184000,
       "name": "Constant White Noise Calm",
       "url": "https://open.spotify.com/track/1I8dsMUNWwWbfPsRATCjAB"
@@ -347,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Desert Cloud White Noise",
+        "url": "https://open.spotify.com/album/4LPx6nOFcvYejzYcvxcRbt"
+      },
+      "artists": [
+        {
+          "name": "Desonance",
+          "url": "https://open.spotify.com/artist/2zNy1vkAiB7QqvdXZ2eVaT"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Desert Cloud White Noise",
+      "url": "https://open.spotify.com/track/3osht1GnxAgnzyVnv9dJDX"
+    },
+    {
+      "album": {
         "name": "Dignius",
         "url": "https://open.spotify.com/album/2Dz1CL6grWJ9nZDWH4MnPv"
       },
@@ -376,7 +466,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 198545,
       "name": "Distant White Horizon",
       "url": "https://open.spotify.com/track/3FjYuLKdaeCc2kqVBeQR4z"
@@ -466,10 +556,28 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 126000,
       "name": "Early Sky White Noise",
       "url": "https://open.spotify.com/track/6Zrn0yKAQZPvAazKfwUeV8"
+    },
+    {
+      "album": {
+        "name": "Easy White Noise",
+        "url": "https://open.spotify.com/album/3Jivl8FOh0xtueRAbWj2LT"
+      },
+      "artists": [
+        {
+          "name": "Noise Advisor",
+          "url": "https://open.spotify.com/artist/28Xwzrz7nVTqirstVfbxF1"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158802,
+      "name": "Easy White Noise",
+      "url": "https://open.spotify.com/track/6CPacPx8QJ59HINtwUY1H4"
     },
     {
       "album": {
@@ -545,6 +653,42 @@
     },
     {
       "album": {
+        "name": "Time Collecting Noise",
+        "url": "https://open.spotify.com/album/0wZMwQUUIPaaNvH3wqnLCe"
+      },
+      "artists": [
+        {
+          "name": "No Shapes Island",
+          "url": "https://open.spotify.com/artist/2yllrSykto1kVMIOhbwed4"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139555,
+      "name": "Falling Asleep Noise",
+      "url": "https://open.spotify.com/track/5ODS5aICNO0zW4NktD7wRR"
+    },
+    {
+      "album": {
+        "name": "Feathered Static",
+        "url": "https://open.spotify.com/album/0qESuQcN1QwKEzyo941U4Y"
+      },
+      "artists": [
+        {
+          "name": "Cove De Tranquilo",
+          "url": "https://open.spotify.com/artist/2dIXmPWwihBELvev9ld8ev"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159464,
+      "name": "Feathered Static",
+      "url": "https://open.spotify.com/track/0tgBu9oDKdfobeM2fcm3Ln"
+    },
+    {
+      "album": {
         "name": "First Class Frequencies",
         "url": "https://open.spotify.com/album/12ZqvXL3MTZhacE3mbQrqc"
       },
@@ -592,7 +736,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 195036,
       "name": "Gentle Static White Noise",
       "url": "https://open.spotify.com/track/58zHDtZpL11BylIbcwhDP0"
@@ -689,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Into The Deep White Noise",
+        "url": "https://open.spotify.com/album/2HTJ2bG6uevPd5eZIGSH7t"
+      },
+      "artists": [
+        {
+          "name": "Siner",
+          "url": "https://open.spotify.com/artist/6DAdIRZcwDFJLPNR9pJ8tF"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Into The Deep White Noise",
+      "url": "https://open.spotify.com/track/0UqAKNUtvpXZ5xNi3z1oAJ"
+    },
+    {
+      "album": {
         "name": "Linen Summer Dreams",
         "url": "https://open.spotify.com/album/0b0yVVE40zZFu2UKYSGZeP"
       },
@@ -758,6 +920,24 @@
       "duration_ms": 168464,
       "name": "Moonlit Whitewaves",
       "url": "https://open.spotify.com/track/3JQvvPj4pmwuzZQe8v0zAZ"
+    },
+    {
+      "album": {
+        "name": "Noise Blanket",
+        "url": "https://open.spotify.com/album/2CEdQE6peaYcHCh1MjY5eL"
+      },
+      "artists": [
+        {
+          "name": "Noizeform",
+          "url": "https://open.spotify.com/artist/2LkPPkk5QdOcwEZ1PSJqTi"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Noise Blanket",
+      "url": "https://open.spotify.com/track/4DkZg6b99KX7FLsYXBSf2N"
     },
     {
       "album": {
@@ -869,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/3V3ZrvLQ9HYoImRgrgFsoU"
+      },
+      "artists": [
+        {
+          "name": "Hybrid Treasure",
+          "url": "https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/7KkDtqlvuSk8dlQtJVvZSV"
+    },
+    {
+      "album": {
         "name": "Porcelain Beauty Sleep",
         "url": "https://open.spotify.com/album/5q6fAsgKU7iRY0wbFDFNK8"
       },
@@ -880,7 +1078,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 337339,
       "name": "Porcelain Beauty Sleep",
       "url": "https://open.spotify.com/track/1L3KAfZdvqDREejuysnji9"
@@ -934,7 +1132,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 220540,
       "name": "Quiet White Noise Morning",
       "url": "https://open.spotify.com/track/7CFmfaN5uMEtTRcelBbB0b"
@@ -959,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Relaxing White Noise",
+        "url": "https://open.spotify.com/album/1SwsSssyyA4RcUqPTQmZpV"
+      },
+      "artists": [
+        {
+          "name": "A.I.C 83",
+          "url": "https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124763,
+      "name": "Relaxing White Noise",
+      "url": "https://open.spotify.com/track/484jncsBsmUXdDnYK3pNfw"
+    },
+    {
+      "album": {
         "name": "Relieving White Noise",
         "url": "https://open.spotify.com/album/6uGJ3BwNRAUhAipQU6x2H8"
       },
@@ -974,6 +1190,24 @@
       "duration_ms": 191729,
       "name": "Relieving White Noise",
       "url": "https://open.spotify.com/track/1oVhQrMOQcOXEeerrJVdIA"
+    },
+    {
+      "album": {
+        "name": "Restful White Noise",
+        "url": "https://open.spotify.com/album/6YBaU8CC828Oiy0YHTVw1f"
+      },
+      "artists": [
+        {
+          "name": "Breezy Noise",
+          "url": "https://open.spotify.com/artist/3CXGywpBBnCFYvsuILK9XA"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Restful White Noise",
+      "url": "https://open.spotify.com/track/0ipLW593WpqutCGeydZkEu"
     },
     {
       "album": {
@@ -1049,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Sleep Current & Sepia Weight",
+        "url": "https://open.spotify.com/album/7gOYjuMeFByV3NfqT6yUoy"
+      },
+      "artists": [
+        {
+          "name": "golden voyager",
+          "url": "https://open.spotify.com/artist/6noA1Q3BQPV4KMIB10iTQe"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Sleep Current",
+      "url": "https://open.spotify.com/track/6z2eks7xSKlsMxNcRla6tt"
+    },
+    {
+      "album": {
         "name": "Newborn White Noise Sleep",
         "url": "https://open.spotify.com/album/2P7bEn1nhweHHfriPuPtWq"
       },
@@ -1096,7 +1348,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 144000,
       "name": "Sleeping Like a Baby with White Noise",
       "url": "https://open.spotify.com/track/0sb1fCD9OSi43f1mMFbdsc"
@@ -1139,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Smooth White Noise",
+        "url": "https://open.spotify.com/album/1WnGtQ5QnuTpmMNcIwCgkc"
+      },
+      "artists": [
+        {
+          "name": "Granular",
+          "url": "https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133679,
+      "name": "Smooth White Noise",
+      "url": "https://open.spotify.com/track/6sJeIoGMMKHYaZ97yb47kO"
+    },
+    {
+      "album": {
         "name": "Soft Frequency Flow",
         "url": "https://open.spotify.com/album/3lkSNqDCl1AOkdQCgJwCve"
       },
@@ -1175,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Soft Pink Echoes",
+        "url": "https://open.spotify.com/album/0uPmlFoTctRW0Hxm589ksI"
+      },
+      "artists": [
+        {
+          "name": "BCCF",
+          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173994,
+      "name": "Soft Pink Echoes",
+      "url": "https://open.spotify.com/track/0YGPcFjfOZ36hccZzWBiDK"
+    },
+    {
+      "album": {
         "name": "Soft White Noise Air",
         "url": "https://open.spotify.com/album/6vMOqcYeb8miPDWYDKVpct"
       },
@@ -1186,7 +1474,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 248648,
       "name": "Soft White Noise Air",
       "url": "https://open.spotify.com/track/63YuM0YvHiOKYGLeJoj1hJ"
@@ -1204,7 +1492,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 326193,
       "name": "Soothing Snowfall Pillows",
       "url": "https://open.spotify.com/track/7Aji2cmkTvMjqVAqV870E6"
@@ -1222,7 +1510,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 285405,
       "name": "Soothing White Clouds",
       "url": "https://open.spotify.com/track/7JIM8EOOvQuc7OOjWAUxXi"
@@ -1276,10 +1564,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 329537,
       "name": "Spa Day Noise",
       "url": "https://open.spotify.com/track/6OUUsPfLzqBhGT5NpbBYew"
+    },
+    {
+      "album": {
+        "name": "Sparkle White Noise",
+        "url": "https://open.spotify.com/album/2LrowH0LwwW8htQq36V6xd"
+      },
+      "artists": [
+        {
+          "name": "Amsonia Star",
+          "url": "https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Sparkle White Noise",
+      "url": "https://open.spotify.com/track/4wL91m1pmDW1xkye5T9TI3"
     },
     {
       "album": {
@@ -1294,7 +1600,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 146000,
       "name": "Sphere of White Noise",
       "url": "https://open.spotify.com/track/7li9YpEf6UHef3eLNQCmDZ"
@@ -1355,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "System of the Brown",
+        "url": "https://open.spotify.com/album/0vyY0jEYilQXGR4Et3EcAc"
+      },
+      "artists": [
+        {
+          "name": "Amelia Grey",
+          "url": "https://open.spotify.com/artist/7wHdo2ARw22e933IOeebSY"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "System of the Brown",
+      "url": "https://open.spotify.com/track/1TkF4HShZuCKCV4IwNBxh5"
+    },
+    {
+      "album": {
         "name": "Take Off Clarity",
         "url": "https://open.spotify.com/album/7sPyJJ0dxj2MOoS8EED0oD"
       },
@@ -1402,7 +1726,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 145500,
       "name": "The Soothing White",
       "url": "https://open.spotify.com/track/5GLRvtuG1ax5W3IZpdmzHP"
@@ -1744,7 +2068,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 163000,
       "name": "White Noise Flight",
       "url": "https://open.spotify.com/track/6Rwb7nqytVD4fXLHgG7OIy"
@@ -1798,7 +2122,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 311704,
       "name": "White Noise Harmonies",
       "url": "https://open.spotify.com/track/3w3LIb1xwPHDTmThadDuI4"
@@ -1816,7 +2140,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 182795,
       "name": "White Noise Haven",
       "url": "https://open.spotify.com/track/25iJ5KT9HRlgTT7tszeE91"
@@ -2003,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "White Noise Wonder",
+        "url": "https://open.spotify.com/album/3Qv7DCFLXU49JoY8t307J2"
+      },
+      "artists": [
+        {
+          "name": "Sleep Miracle",
+          "url": "https://open.spotify.com/artist/146XkoyeqRg7s8jbFzsXsU"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "White Noise Wonder",
+      "url": "https://open.spotify.com/track/1CaJhrIn9yh23i1mvwcPX0"
+    },
+    {
+      "album": {
         "name": "White Dreams",
         "url": "https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL"
       },
@@ -2014,7 +2356,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 150483,
       "name": "White Oasis",
       "url": "https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo"
@@ -2032,10 +2374,28 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-13",
       "duration_ms": 128659,
       "name": "White Serenity",
       "url": "https://open.spotify.com/track/7dD3etWhKwTaEwy0VinwAY"
+    },
+    {
+      "album": {
+        "name": "White Sky Noise",
+        "url": "https://open.spotify.com/album/2TvP7bKcihXzZKV6B0nHVl"
+      },
+      "artists": [
+        {
+          "name": "Cloudstatic",
+          "url": "https://open.spotify.com/artist/3EuZpQaX90xqikISoYCtMP"
+        }
+      ],
+      "date_added": "2026-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172937,
+      "name": "White Sky Noise",
+      "url": "https://open.spotify.com/track/5UdCxeMSLIAukrUGSlbzRR"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres. Cover: Joseph O'Brien",
-  "num_followers": 435504,
+  "num_followers": 435633,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSwcAb6httnHwi1oo7qiU531j5Z",
+  "snapshot_id": "AAAAAHpiXR/VcbmN6idcySAtf5LvX80W",
   "tracks": [
     {
       "added_at": "2026-08-07 07:22:47",
@@ -83,22 +83,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "What A God",
-        "url": "https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen"
+        "name": "peach sand",
+        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
       },
       "artists": [
         {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 378197,
-      "name": "What A God",
-      "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
+      "duration_ms": 281869,
+      "name": "peach sand",
+      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -119,18 +115,22 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "peach sand",
-        "url": "https://open.spotify.com/album/0ybGFr2rpjxzG4szAv2KlY"
+        "name": "What A God",
+        "url": "https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 281869,
-      "name": "peach sand",
-      "url": "https://open.spotify.com/track/0Kf0Y91hndxNaPfKDl9Rgq"
+      "duration_ms": 378197,
+      "name": "What A God",
+      "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Living Room Floor",
-        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 259435,
-      "name": "Living Room Floor",
-      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "GO FOR BROKE",
         "url": "https://open.spotify.com/album/1FwwG1ESCyEWGqWT00IXWo"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 264000,
       "name": "Meet Me In The Valley (I Surrender All)",
       "url": "https://open.spotify.com/track/5WhDzkgyQJN1eaJxXFQ6Ho"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Living Room Floor",
+        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 259435,
+      "name": "Living Room Floor",
+      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
+        "name": "WHAT A YEAR",
+        "url": "https://open.spotify.com/album/04EzlBYdrCi8Ade2W8pwdS"
+      },
+      "artists": [
+        {
+          "name": "ELI GABLE",
+          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "WHAT A YEAR",
+      "url": "https://open.spotify.com/track/0FcnyddEwiidCT7t5LwvqH"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
         "name": "Through The Fire",
         "url": "https://open.spotify.com/album/18yRa1xToWqROoVtzPPw4u"
       },
@@ -619,18 +635,38 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "WHAT A YEAR",
-        "url": "https://open.spotify.com/album/04EzlBYdrCi8Ade2W8pwdS"
+        "name": "You Don't Own Me",
+        "url": "https://open.spotify.com/album/5Q0uoiK8kOR4J3IrPBhTFA"
       },
       "artists": [
         {
-          "name": "ELI GABLE",
-          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
+          "name": "Munn",
+          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
+        },
+        {
+          "name": "Dylan Stiles",
+          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
         }
       ],
-      "duration_ms": 192000,
-      "name": "WHAT A YEAR",
-      "url": "https://open.spotify.com/track/0FcnyddEwiidCT7t5LwvqH"
+      "duration_ms": 166659,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/4jupFUCWc0s6whPrOq83w4"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/06IdvGUPXOmECL3Co8Jkb6"
+      },
+      "artists": [
+        {
+          "name": "Peter Burton",
+          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
+        }
+      ],
+      "duration_ms": 242974,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1gjzjaXaPTaFaqoERTr0fX"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -659,42 +695,6 @@
       "duration_ms": 391321,
       "name": "Jesus, My Everything",
       "url": "https://open.spotify.com/track/177WHrAvff47hqsrvB1kRc"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/06IdvGUPXOmECL3Co8Jkb6"
-      },
-      "artists": [
-        {
-          "name": "Peter Burton",
-          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
-        }
-      ],
-      "duration_ms": 242974,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/1gjzjaXaPTaFaqoERTr0fX"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "You Don't Own Me",
-        "url": "https://open.spotify.com/album/5Q0uoiK8kOR4J3IrPBhTFA"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        },
-        {
-          "name": "Dylan Stiles",
-          "url": "https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij"
-        }
-      ],
-      "duration_ms": 166659,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/4jupFUCWc0s6whPrOq83w4"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "I Will Go (Live)",
-        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
+        "name": "WANNA SING",
+        "url": "https://open.spotify.com/album/04kaljKB1DAClqzwuOejEk"
       },
       "artists": [
         {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+          "name": "Gabe von Oven",
+          "url": "https://open.spotify.com/artist/4gN7QE1KMr6kQn3rbBiIrp"
         }
       ],
-      "duration_ms": 249003,
-      "name": "I Will Go - Live",
-      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
+      "duration_ms": 152389,
+      "name": "WANNA SING",
+      "url": "https://open.spotify.com/track/7orhTkuPQcltwqm8enW7NW"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -799,6 +799,38 @@
       "duration_ms": 272545,
       "name": "Know Your Name",
       "url": "https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "I Will Go (Live)",
+        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 249003,
+      "name": "I Will Go - Live",
+      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 211353,
+      "name": "The Real Thing",
+      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -827,34 +859,34 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "The Real Thing",
-        "url": "https://open.spotify.com/album/4oc12KtV51B0yIKDl6LYUF"
+        "name": "FOOL'S GOLD",
+        "url": "https://open.spotify.com/album/5OSGsguQRvpfp9ncJzxeNv"
       },
       "artists": [
         {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+          "name": "ELI GABLE",
+          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
         }
       ],
-      "duration_ms": 211353,
-      "name": "The Real Thing",
-      "url": "https://open.spotify.com/track/1NmD4evCpIlbx0vtjSgatM"
+      "duration_ms": 181385,
+      "name": "FOOL'S GOLD",
+      "url": "https://open.spotify.com/track/1cs3FIA2eVykc7ndhbT9xA"
     },
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "WANNA SING",
-        "url": "https://open.spotify.com/album/04kaljKB1DAClqzwuOejEk"
+        "name": "Lover Of My Life (I Need You)",
+        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
       },
       "artists": [
         {
-          "name": "Gabe von Oven",
-          "url": "https://open.spotify.com/artist/4gN7QE1KMr6kQn3rbBiIrp"
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
         }
       ],
-      "duration_ms": 152389,
-      "name": "WANNA SING",
-      "url": "https://open.spotify.com/track/7orhTkuPQcltwqm8enW7NW"
+      "duration_ms": 247094,
+      "name": "Lover Of My Life (I Need You)",
+      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -899,22 +931,6 @@
       "duration_ms": 275786,
       "name": "My Redeemer Lives (He Lives)",
       "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "FOOL'S GOLD",
-        "url": "https://open.spotify.com/album/5OSGsguQRvpfp9ncJzxeNv"
-      },
-      "artists": [
-        {
-          "name": "ELI GABLE",
-          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
-        }
-      ],
-      "duration_ms": 181385,
-      "name": "FOOL'S GOLD",
-      "url": "https://open.spotify.com/track/1cs3FIA2eVykc7ndhbT9xA"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -975,22 +991,6 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Lover Of My Life (I Need You)",
-        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
-      },
-      "artists": [
-        {
-          "name": "Charles Weems",
-          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
-        }
-      ],
-      "duration_ms": 247094,
-      "name": "Lover Of My Life (I Need You)",
-      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
         "name": "What A Life",
         "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
       },
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
+        "name": "Acoustic Worship Sessions",
+        "url": "https://open.spotify.com/album/0BUuYmINh8t3dXQxqwV7Cz"
+      },
+      "artists": [
+        {
+          "name": "Clark Beckham",
+          "url": "https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK"
+        }
+      ],
+      "duration_ms": 262685,
+      "name": "How Great is Our God - Acoustic",
+      "url": "https://open.spotify.com/track/2v8YmXgiTgNeGQMW8K3fvY"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
         "name": "What Else Can I Do",
         "url": "https://open.spotify.com/album/01NGrBD9LlsZw96to2sDSQ"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 268000,
       "name": "What Else Can I Do",
       "url": "https://open.spotify.com/track/5jf5oJDhyxqfld1xGT1YJe"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "Acoustic Worship Sessions",
-        "url": "https://open.spotify.com/album/0BUuYmINh8t3dXQxqwV7Cz"
-      },
-      "artists": [
-        {
-          "name": "Clark Beckham",
-          "url": "https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK"
-        }
-      ],
-      "duration_ms": 262685,
-      "name": "How Great is Our God - Acoustic",
-      "url": "https://open.spotify.com/track/2v8YmXgiTgNeGQMW8K3fvY"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1223,18 +1223,22 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Eve Of A Miracle",
-        "url": "https://open.spotify.com/album/2mOBJ0oBQEzQCgcnNbhikU"
+        "name": "Vagabond",
+        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
       },
       "artists": [
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "Alex Jude",
+          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
+        },
+        {
+          "name": "Drake White",
+          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
         }
       ],
-      "duration_ms": 218752,
-      "name": "Eve Of A Miracle",
-      "url": "https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na"
+      "duration_ms": 235446,
+      "name": "Vagabond",
+      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1255,22 +1259,18 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
-        "name": "Vagabond",
-        "url": "https://open.spotify.com/album/2ReNvOLdpPB2En3yqEkN6E"
+        "name": "Eve Of A Miracle",
+        "url": "https://open.spotify.com/album/2mOBJ0oBQEzQCgcnNbhikU"
       },
       "artists": [
         {
-          "name": "Alex Jude",
-          "url": "https://open.spotify.com/artist/7aO4PyqL8ghobpK0yhtol6"
-        },
-        {
-          "name": "Drake White",
-          "url": "https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO"
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
         }
       ],
-      "duration_ms": 235446,
-      "name": "Vagabond",
-      "url": "https://open.spotify.com/track/1Lw4wTss8VphIoRG9UmkdA"
+      "duration_ms": 218752,
+      "name": "Eve Of A Miracle",
+      "url": "https://open.spotify.com/track/3wSk86I7OBeoTJWXSZr1Na"
     },
     {
       "added_at": "2026-08-07 07:22:47",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2026-08-07 07:22:47",
       "album": {
+        "name": "Keep Praying",
+        "url": "https://open.spotify.com/album/6sTqdd1xZS8BNzOeLlODZD"
+      },
+      "artists": [
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Keep Praying",
+      "url": "https://open.spotify.com/track/08yrcOTDwR6BhEiTPQ79p1"
+    },
+    {
+      "added_at": "2026-08-07 07:22:47",
+      "album": {
         "name": "Oh My Soul + I Know A Name",
         "url": "https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb"
       },
@@ -1343,22 +1363,6 @@
       "duration_ms": 235331,
       "name": "Oh My Soul",
       "url": "https://open.spotify.com/track/4kvRVDFQazhqMk5ox7fhoB"
-    },
-    {
-      "added_at": "2026-08-07 07:22:47",
-      "album": {
-        "name": "My Hope (Live)",
-        "url": "https://open.spotify.com/album/2i7SsF0emsSQP1IRqrEMnY"
-      },
-      "artists": [
-        {
-          "name": "Watoto",
-          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "My Hope - Live",
-      "url": "https://open.spotify.com/track/3holfAIyBPClGAOAPuPxop"
     }
   ],
   "unique_name": "Faith Rising",

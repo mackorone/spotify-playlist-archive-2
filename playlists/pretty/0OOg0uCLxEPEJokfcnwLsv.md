@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,221 likes - 71 songs - 4 hr 14 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,227 likes - 72 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 69 | [Say Hello To My Friend](https://open.spotify.com/track/23xG5KZSwtEZpQwjWfIrBg) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:19 |
 | 70 | [Sympathy](https://open.spotify.com/track/3wmDN6x8mWFEY3lBVm4zhp) | [David Barker](https://open.spotify.com/artist/4UDSkUqrACHzelxN3VbQDM) | [Sympathy](https://open.spotify.com/album/4FT3xTzZjzJ6c3PdkFyPrM) | 3:53 |
 | 71 | [ANHA](https://open.spotify.com/track/2NW8zDzKdyYM05YfgsNGOI) | [McNum](https://open.spotify.com/artist/6Audgp3gNSGtd1mcdKtfC3) | [ANHA](https://open.spotify.com/album/6icKjxljuUNwWVTYPGtIAY) | 3:18 |
+| 72 | [Broken Mirrors](https://open.spotify.com/track/2Q937SaVxiS2frvTSFyhoz) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Soul Out](https://open.spotify.com/album/1TzuQv0ac32UOqa8HNUvmb) | 4:25 |
 
-Snapshot ID: `AAAGxsCdCkq+GwOJEBTtu+aXJ2cwugPi`
+Snapshot ID: `AAAGxwKnPgXkDq4JhyEN+VAcTaSCK9zw`

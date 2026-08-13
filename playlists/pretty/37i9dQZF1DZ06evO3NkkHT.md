@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,442 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,489 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 27 | [Microwave](https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Orange Tape](https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU) | 1:47 |
 | 28 | [The Truth](https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi) | [The Truth](https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF) | 3:46 |
 | 29 | [Badu Flow](https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:24 |
-| 30 | [New Day](https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [New Day](https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih) | 2:44 |
-| 31 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
+| 30 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
+| 31 | [New Day](https://open.spotify.com/track/2LknoHi0zzRkMhegr2oLZw) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [New Day](https://open.spotify.com/album/5NzAyavuEam2kvLykqeAih) | 2:44 |
 | 32 | [Therapy Session](https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 1:48 |
 | 33 | [Dream](https://open.spotify.com/track/0Wb0tozc6XnUirmEfVwC7z) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:58 |
 | 34 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/3FPOy3zOKPMf8pRWg2ukXt) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | ['02 Lakers \(feat\. Ro$ama\)](https://open.spotify.com/track/04IDH5UZTNO5RdWpPwebnv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:43 |
 | 50 | [Say Please \(Don't Leave Me Lonely\) \(feat\. BigXthaPlug\)](https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Say Please \(Don't Leave Me Lonely\) \[feat\. BigXthaPlug\]](https://open.spotify.com/album/42u78y3vwF6rNh81djS2SF) | 3:14 |
 
-Snapshot ID: `ankUgAAAAACskT4KL9LQvVauwHhF5YDC`
+Snapshot ID: `anpmAAAAAACYf8KfmA629L/6jd0dzfhB`

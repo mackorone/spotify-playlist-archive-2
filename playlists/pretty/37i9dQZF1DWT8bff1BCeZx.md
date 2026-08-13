@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,383 likes - 110 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,388 likes - 110 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 109 | [We No Dey Tire](https://open.spotify.com/track/7bFSU8Vb2J1wKJOgHdHpiJ) | [Streams Of Joy](https://open.spotify.com/artist/74EHjGp4ALyk5ObLRfjyGK), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [We No Dey Tire](https://open.spotify.com/album/1WgnOitVV6Knlxh0ypgqL9) | 2:53 |
 | 110 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
 
-Snapshot ID: `AAAAAEoBwqhrJ4HFArZD2lBJKIVEm5UC`
+Snapshot ID: `AAAAAINiQdKLheed4OmEP8j2cj7a8BUn`

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover: Carly Rae Jepsen",
-  "num_followers": 1028957,
+  "num_followers": 1028931,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMdx0xus+c+ZdTJAgCd94MK6K0C+",
+  "snapshot_id": "AAAAAEMsDT22GKUGrjimJ+Cb5dxRvLYy",
   "tracks": [
     {
       "added_at": "2026-08-07 12:55:10",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-08-07 12:55:10",
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 209479,
+      "name": "Wish I Didn't",
+      "url": "https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3"
+    },
+    {
+      "added_at": "2026-08-07 12:55:10",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-08-07 12:55:10",
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 209479,
-      "name": "Wish I Didn't",
-      "url": "https://open.spotify.com/track/2qX8A5UFLm1cKUuB229jl3"
     },
     {
       "added_at": "2026-08-07 12:55:10",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-07 12:55:10",
       "album": {
-        "name": "Mega Haifa 2",
-        "url": "https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx"
-      },
-      "artists": [
-        {
-          "name": "Haifa Wehbe",
-          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
-        }
-      ],
-      "duration_ms": 105245,
-      "name": "Badna Nroue",
-      "url": "https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG"
-    },
-    {
-      "added_at": "2026-08-07 12:55:10",
-      "album": {
         "name": "T\u00fa, mi bb",
         "url": "https://open.spotify.com/album/3pv2BRwZhBXBxXfNYifT0h"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 187591,
       "name": "T\u00fa, mi bb",
       "url": "https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf"
+    },
+    {
+      "added_at": "2026-08-07 12:55:10",
+      "album": {
+        "name": "Mega Haifa 2",
+        "url": "https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "duration_ms": 105245,
+      "name": "Badna Nroue",
+      "url": "https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG"
     },
     {
       "added_at": "2026-08-07 12:55:10",

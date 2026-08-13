@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Next of Kin\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,283 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,347 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 36 | [Bang Bang Bang \- Radio Edit](https://open.spotify.com/track/2B46X2ntT6j1iTiQ8sso7u) | [Allnight](https://open.spotify.com/artist/0s8cHQ7qsebgXl9G5QvwOK) | [SH\*T OUT OF LUCK \(Radio Edit\)](https://open.spotify.com/album/1nkvbmmcpuuRFjkgDhGyUA) | 2:49 |
 | 37 | [See You in the Summer](https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [See You in the Summer](https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM) | 3:05 |
 | 38 | [Stoop to Me](https://open.spotify.com/track/4jd9ES4qpTyTLz6C5aSxap) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Stoop to Me](https://open.spotify.com/album/4ExTOWeLkFylqhBUdgV3Kx) | 3:47 |
-| 39 | [Texas in July](https://open.spotify.com/track/6TBKvTA3eApHZmCE4seZ4N) | [Alyssa Flaherty](https://open.spotify.com/artist/5gIWNVFbj3Q4cLsaSByxVR) | [Texas in July](https://open.spotify.com/album/4Z4Ly96zX4nHpplFbDc0hj) | 2:51 |
+| 39 | [Texas In July](https://open.spotify.com/track/6TBKvTA3eApHZmCE4seZ4N) | [Alyssa Flaherty](https://open.spotify.com/artist/5gIWNVFbj3Q4cLsaSByxVR) | [Texas In July](https://open.spotify.com/album/4Z4Ly96zX4nHpplFbDc0hj) | 2:51 |
 | 40 | [kill switch](https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm) | [Sophia Willingham](https://open.spotify.com/artist/1uL7IYgtoRk00bosKsnBVg), [Elisheva](https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD) | [kill switch](https://open.spotify.com/album/7vpGv35o4wXu23WqywsRCy) | 2:12 |
 | 41 | [Wandering Arrow](https://open.spotify.com/track/6pM2fT3fBVDA8MLW2wfXic) | [Curiosity Shop](https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy) | [Wandering Arrow](https://open.spotify.com/album/6uTEoaDoCkx0x8XB1AAnGv) | 3:21 |
 | 42 | [Luvbomb](https://open.spotify.com/track/5A0rbbC8fosaRl9hGBPDXb) | [Daisi](https://open.spotify.com/artist/611KLmpU1yaxamd1JC2PdN), [Hrubesky](https://open.spotify.com/artist/0qNa1kxSdmgBGsfPE88j36) | [Luvbomb](https://open.spotify.com/album/7sCote39aunhZIWNJIinGy) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
 | 100 | [dimples](https://open.spotify.com/track/0Jc9os5dYkPGRdEBxhH76B) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi) | [dimples](https://open.spotify.com/album/6p6c3hadee16PIEBhEv40S) | 1:40 |
 
-Snapshot ID: `AAAAACKDTg3cHIWAf4EETFcoiU4/k3p+`
+Snapshot ID: `AAAAACP/hLqx30c6jDISVKkFB2VmRXDT`

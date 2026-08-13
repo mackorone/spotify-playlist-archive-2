@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1095000,
+  "num_followers": 1095117,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ankUgAAAAADdjgVvYAf29qCALPVd0sLH",
+  "snapshot_id": "anpmAAAAAADkT8D1lwjRcyHehcBk5Rc/",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218106,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/5sv3ywwb2iCoI6n8UD4ZRX"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 277493,
       "name": "Cuando Valgas La Pena - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/3pBTu2wT09kh7kP6VU0DR8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAYDAY",
-        "url": "https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "MAYDAY",
-      "url": "https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B"
     },
     {
       "added_at": null,
@@ -743,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con El Pie Derecho",
-        "url": "https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP"
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/6dxc0QAX01BMhq85AQvI2J"
       },
       "artists": [
+        {
+          "name": "Fede Figueroa",
+          "url": "https://open.spotify.com/artist/72EKkr04awG6qLW30R5VGU"
+        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 163680,
-      "name": "El Principio Del Infierno",
-      "url": "https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo"
+      "duration_ms": 178224,
+      "name": "Sin Detalles",
+      "url": "https://open.spotify.com/track/24yCeL5tfe11BgbIRSxbOw"
     },
     {
       "added_at": null,
@@ -775,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempo Al Tiempo",
-        "url": "https://open.spotify.com/album/6dxc0QAX01BMhq85AQvI2J"
+        "name": "Con El Pie Derecho",
+        "url": "https://open.spotify.com/album/7tfTfzVmVrplYDru65lUbP"
       },
       "artists": [
-        {
-          "name": "Fede Figueroa",
-          "url": "https://open.spotify.com/artist/72EKkr04awG6qLW30R5VGU"
-        },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 178224,
-      "name": "Sin Detalles",
-      "url": "https://open.spotify.com/track/24yCeL5tfe11BgbIRSxbOw"
+      "duration_ms": 163680,
+      "name": "El Principio Del Infierno",
+      "url": "https://open.spotify.com/track/5pHfQtCDL0YmhzybaI5aSo"
     },
     {
       "added_at": null,

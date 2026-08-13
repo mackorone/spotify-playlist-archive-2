@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 47 | [Easy For You](https://open.spotify.com/track/3f5kqJzwjCjMTxVprKhqt8) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Easy For You](https://open.spotify.com/album/6q67t3gz2gVAzdq1zPQJrB) | 3:04 |
 | 48 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 |
 | 49 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 |
-| 50 | [BETTER OFF](https://open.spotify.com/track/0yEMSYJf0OPyZuhkGs1DBa) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:48 |
-| 51 | [Tattoo \(selective memory\)](https://open.spotify.com/track/3C6uGhzrdldx84bflTso8q) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Change of Plans](https://open.spotify.com/album/761KOqmdU3EZgU8EFKydPk) | 3:20 |
+| 50 | [Tattoo \(selective memory\)](https://open.spotify.com/track/3C6uGhzrdldx84bflTso8q) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Change of Plans](https://open.spotify.com/album/761KOqmdU3EZgU8EFKydPk) | 3:20 |
+| 51 | [BETTER OFF](https://open.spotify.com/track/0yEMSYJf0OPyZuhkGs1DBa) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 2:48 |
 | 52 | [Baby Steps](https://open.spotify.com/track/7gLXI82Kksv9Q1OgojzScn) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:47 |
 | 53 | [ONE CALL AWAY.](https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [ONE CALL AWAY.](https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a) | 2:56 |
 | 54 | [2005](https://open.spotify.com/track/1QR8dwpWuSYbTzr13mt5ec) | [Remedy Club](https://open.spotify.com/artist/1MuDSnGT0IosRnJbulWvQn), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [2005](https://open.spotify.com/album/2XjA5IykqgdkzTrBUzj0Xu) | 2:20 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 68 | [Say It Like You Mean It](https://open.spotify.com/track/2NmSbpmU94WloIuWGSeMCQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [IS IT FUN OR IS IT OVER?](https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd) | 3:06 |
 | 69 | [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 |
 | 70 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 |
-| 71 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
-| 72 | [If We Had Forever](https://open.spotify.com/track/10yD3uJghYNhSEdiZcoAYP) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 3:08 |
+| 71 | [If We Had Forever](https://open.spotify.com/track/10yD3uJghYNhSEdiZcoAYP) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 3:08 |
+| 72 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 | 73 | [Body Of Work](https://open.spotify.com/track/4PfoFN7JhDhrmJyVmuk4C6) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Body Of Work](https://open.spotify.com/album/2Tl6XkbmbgfEtlM7TcO7Il) | 2:52 |
 
-Snapshot ID: `AcZU6AAAAABt/s1aqa1JDfyyXErammOa`
+Snapshot ID: `AcZaTAAAAADhq+h3UOARRhsVxUyd2s1z`

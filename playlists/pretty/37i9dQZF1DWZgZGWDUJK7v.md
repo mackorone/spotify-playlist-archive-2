@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Tomb Raider King \(도굴왕\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,772 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,762 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 55 | [We're the moonlight \(The Patron of Villains Original Soundtrack Part.1\)](https://open.spotify.com/track/32gbecPRT435FkDGpKRIXd) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp) | [We're the moonlight \(The Patron of Villains Original Soundtrack Part.1\)](https://open.spotify.com/album/6RlClL89qpTEAseO9XHckP) | 3:10 |
 | 56 | [STAY THE NIGHT \(Feat\. DeVita\)](https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [STAY THE NIGHT \(She is My Type♡ X GRAY\)](https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v) | 2:55 |
 | 57 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
-| 58 | [MAY LILY](https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj) | [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8) | [I'm the Queen in This Life \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl) | 3:01 |
-| 59 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
+| 58 | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/track/0i2zK59gngO1kHTnq9Hvp8) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Why isn't love always easy? \(Romance 101 X JOY\)](https://open.spotify.com/album/5CGt6ALaaHUzCHtbqhpDJi) | 3:41 |
+| 59 | [MAY LILY](https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj) | [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8) | [I'm the Queen in This Life \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl) | 3:01 |
 | 60 | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8) | 3:13 |
 | 61 | [L.O.V.E \(Romantic\)](https://open.spotify.com/track/444IU436DVhrz6HJlPv4C4) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [L.O.V.E \(Romantic\)\) \(Villain With A Crush X SAY MY NAME\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/2EQVBowFogB13LDXv5UdlU) | 2:44 |
 | 62 | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu) | 3:48 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 91 | [The Moon Has Passed](https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [The Moon Has Passed \(The Moon during the Day\)](https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx) | 3:46 |
 | 92 | [Draw](https://open.spotify.com/track/6tb0S6rSzgrf5sgeUPL8sr) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Draw \(No Office Romance! X TAEMIN\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/1IPkQ6fwPWjS6UPE6gV8Po) | 4:03 |
 | 93 | [Broken](https://open.spotify.com/track/33vo9lazjgmoemUhQ7cwk1) | [JIGM](https://open.spotify.com/artist/4AJ7BXhkBtDpcASbWoa4dA) | [Love Revolution \(Original Webcomic Soundtrack\)](https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9) | 3:03 |
-| 94 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\) \(Original Soundtrack\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
-| 95 | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi) | 3:54 |
+| 94 | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi) | 3:54 |
+| 95 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\) \(Original Soundtrack\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 |
 | 96 | [Like the Wind Didn’t Blow](https://open.spotify.com/track/2pj014QfWlS46Y3E2kK5qO) | [Hansome Choi](https://open.spotify.com/artist/5XPZcfB2QykclQlVlb8PMU) | [Like the Wind Didn't Blow \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4DVZ3PnWvWRn7nJVutnFBR) | 2:43 |
 | 97 | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn) | [Loco](https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A) | [Your Day \(Romance 101 X Loco\)](https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC) | 3:19 |
 | 98 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 |
 | 99 | [Sand Castle](https://open.spotify.com/track/3onn360zmsghT2igHXp4qt) | [Kim Kyung Rok](https://open.spotify.com/artist/0JIW1Ofq2ixNxfuivNHjlb) | [Love Revolution \(Lee Kyung\-woo Theme\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/11YzZoNVzD74ewTFx11sxe) | 3:51 |
 | 100 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 |
 
-Snapshot ID: `AAAAAGgUEEeYzLJMBSxaVdduLO/4AEhD`
+Snapshot ID: `AAAAAAizmpiKzEG6CDQqk7sUXlljm9Tt`

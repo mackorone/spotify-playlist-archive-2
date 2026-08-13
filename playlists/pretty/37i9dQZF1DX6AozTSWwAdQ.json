@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60088,
+  "num_followers": 60089,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIEpQLyJtAYj3WTU7YW7TTa1x8xi",
+  "snapshot_id": "AAAAAO1UMZghMSfvcI/dL84wRdKLZoiZ",
   "tracks": [
     {
       "added_at": "2026-02-15 16:00:23",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-02-15 16:00:23",
       "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Death Of An Executioner",
+      "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
+    },
+    {
+      "added_at": "2026-02-15 16:00:23",
+      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
-    },
-    {
-      "added_at": "2026-02-15 16:00:23",
-      "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Death Of An Executioner",
-      "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
     },
     {
       "added_at": "2026-02-15 16:00:23",

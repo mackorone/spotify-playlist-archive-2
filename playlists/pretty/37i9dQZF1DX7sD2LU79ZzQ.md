@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lafa Pratomo, Feby Putri, Matter Mos
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,942 likes - 113 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,961 likes - 113 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 112 | [Sama Sama Tau](https://open.spotify.com/track/7EAfwpMk0WWKiMyoKvfPVd) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Sama Sama Tau](https://open.spotify.com/album/3Kweuk4RWAQJ5jJ3Y8MsYp) | 2:59 |
 | 113 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 
-Snapshot ID: `AAAAACk5d3HBIxzvFBUjlezj6HINCCqJ`
+Snapshot ID: `AAAAAJSDx7F9Dqx5nxJPk6CDvScyTQPQ`

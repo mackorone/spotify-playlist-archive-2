@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: ゆーり
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,529 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,526 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [∞劣等星](https://open.spotify.com/track/3M69EtAKB8T0MBWyKHvxK4) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [∞劣等星](https://open.spotify.com/album/58nziDn890SKqaJdgs6DVr) | 3:04 |
 | 70 | [Look Ahead](https://open.spotify.com/track/1CZMm3fzyOzIgnQSalguyr) | [朔雀](https://open.spotify.com/artist/0ZQ3TRg1HZ5me1m6UH7F2D), [hirihiri](https://open.spotify.com/artist/4sJMzQ4brQQcRxc5LGyai1) | [Look Ahead](https://open.spotify.com/album/3xZQ3P5IZ1HMXRsKIPcaEb) | 2:44 |
 
-Snapshot ID: `AAAAAOZzdVQAcOgcrgkl7AOqbEokUTfG`
+Snapshot ID: `AAAAAKWZE2BP1m7i0E7zOxz0klWFmQG+`

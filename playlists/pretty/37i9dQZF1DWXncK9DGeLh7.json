@@ -1,12 +1,12 @@
 {
   "description": "100% soul et funk !",
-  "num_followers": 355476,
+  "num_followers": 355485,
   "original_name": "Flashback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJqjIaYNTlzpl0RNCKZitJ88S7a",
+  "snapshot_id": "AAAAADMgm0oB03m2nwPVECe5LR0eIqAL",
   "tracks": [
     {
       "added_at": "2025-11-06 14:22:20",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-11-06 14:22:20",
       "album": {
-        "name": "Travelling Without Moving (Remastered)",
-        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 244146,
-      "name": "Cosmic Girl - Remastered 2013",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
-    },
-    {
-      "added_at": "2025-11-06 14:22:20",
-      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 249600,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+    },
+    {
+      "added_at": "2025-11-06 14:22:20",
+      "album": {
+        "name": "Travelling Without Moving (Remastered)",
+        "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 244146,
+      "name": "Cosmic Girl - Remastered 2013",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
       "added_at": "2025-11-06 14:22:20",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-11-06 14:22:20",
       "album": {
-        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
-        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        }
-      ],
-      "duration_ms": 262456,
-      "name": "Ma quale idea",
-      "url": "https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"
-    },
-    {
-      "added_at": "2025-11-06 14:22:20",
-      "album": {
         "name": "Don't Look Any Further (Expanded Edition)",
         "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 242213,
       "name": "Don't Look Any Further",
       "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
+    },
+    {
+      "added_at": "2025-11-06 14:22:20",
+      "album": {
+        "name": "Italian Classics: Pino D'Angi\u00f2 Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        }
+      ],
+      "duration_ms": 262456,
+      "name": "Ma quale idea",
+      "url": "https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b"
     },
     {
       "added_at": "2025-11-06 14:22:20",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-11-06 14:22:20",
       "album": {
-        "name": "Freedom for the Stallion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+        "name": "Let's Hear It for the Boy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u"
       },
       "artists": [
         {
-          "name": "Hues Corporation",
-          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
         }
       ],
-      "duration_ms": 202573,
-      "name": "Rock the Boat",
-      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
+      "duration_ms": 262440,
+      "name": "Let's Hear It for the Boy - From \"Footloose\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/4VyU9Tg4drTj2mOUZHSK2u"
     }
   ],
   "unique_name": "Flashback",

@@ -1,13 +1,29 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Pool Girl",
-  "num_followers": 257320,
+  "description": "The best new indie tracks from independent artists & labels. Cover: effe",
+  "num_followers": 257356,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN02ZirktN4T9mpJCxF5RLnqD7zf",
+  "snapshot_id": "AAAAAPKdXlQIy5879XdBuUkrBBDZyBMp",
   "tracks": [
+    {
+      "added_at": "2026-08-12 14:30:20",
+      "album": {
+        "name": "Solder",
+        "url": "https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw"
+      },
+      "artists": [
+        {
+          "name": "effe",
+          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Tears Always Burn",
+      "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
+    },
     {
       "added_at": "2026-08-05 16:00:14",
       "album": {
@@ -25,36 +41,84 @@
       "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
-      "added_at": "2026-08-05 16:00:14",
+      "added_at": "2026-08-05 17:48:18",
       "album": {
-        "name": "1 By One",
-        "url": "https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe"
+        "name": "Kick in the Teeth",
+        "url": "https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK"
       },
       "artists": [
         {
-          "name": "Ideas By Ab",
-          "url": "https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk"
+          "name": "Sesame Girl",
+          "url": "https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX"
         }
       ],
-      "duration_ms": 129400,
-      "name": "1 By One",
-      "url": "https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T"
+      "duration_ms": 168040,
+      "name": "Kick In The Teeth",
+      "url": "https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD"
     },
     {
-      "added_at": "2026-08-05 16:00:14",
+      "added_at": "2026-08-12 14:30:20",
       "album": {
-        "name": "a girl like me",
-        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+        "name": "half smile",
+        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
       },
       "artists": [
         {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
         }
       ],
-      "duration_ms": 169446,
-      "name": "a girl like me",
-      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
+      "duration_ms": 228240,
+      "name": "half smile",
+      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
+    },
+    {
+      "added_at": "2026-08-12 14:30:20",
+      "album": {
+        "name": "Momoko",
+        "url": "https://open.spotify.com/album/6ZaBxp8UJJ9aNbFQX0Dg95"
+      },
+      "artists": [
+        {
+          "name": "Momoko Gill",
+          "url": "https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF"
+        }
+      ],
+      "duration_ms": 252480,
+      "name": "Rewind/Remind",
+      "url": "https://open.spotify.com/track/3eXFH6seJPXTULQTjcqUJM"
+    },
+    {
+      "added_at": "2026-08-06 14:50:12",
+      "album": {
+        "name": "Don't Spare Me",
+        "url": "https://open.spotify.com/album/3DAs5Ynjx29nAGbnksRdPU"
+      },
+      "artists": [
+        {
+          "name": "swell foop",
+          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
+        }
+      ],
+      "duration_ms": 159900,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1Xx3qUcT0g0MJY43rzzOUe"
+    },
+    {
+      "added_at": "2026-08-12 14:30:20",
+      "album": {
+        "name": "imy3 & towhead",
+        "url": "https://open.spotify.com/album/00Vea8EpexdYFGTihEYfuF"
+      },
+      "artists": [
+        {
+          "name": "imy3",
+          "url": "https://open.spotify.com/artist/5tn7FeN8PYvZJ4jumJzIBQ"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "What You Mean",
+      "url": "https://open.spotify.com/track/5GSCuy82SMwEdWmXCEArMa"
     },
     {
       "added_at": "2026-07-29 19:41:17",
@@ -73,6 +137,70 @@
       "url": "https://open.spotify.com/track/0iMDXhQTIJvgacw3L5HrZf"
     },
     {
+      "added_at": "2026-08-12 14:30:20",
+      "album": {
+        "name": "Grace, Flair and Distance",
+        "url": "https://open.spotify.com/album/3Q4kLbPexP7VnH4jymSPo6"
+      },
+      "artists": [
+        {
+          "name": "jo from school",
+          "url": "https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Six Years Of Keeping On",
+      "url": "https://open.spotify.com/track/0gSIr2lOp9I2mynmYdjzyf"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "1 By One",
+        "url": "https://open.spotify.com/album/2PlmI6Z9ODq3fl6qkYhEXe"
+      },
+      "artists": [
+        {
+          "name": "Ideas By Ab",
+          "url": "https://open.spotify.com/artist/2UXnSoWQ8fW3iaDLKzoLwk"
+        }
+      ],
+      "duration_ms": 129400,
+      "name": "1 By One",
+      "url": "https://open.spotify.com/track/0uXMI4wHx7WI6pixBhHu4T"
+    },
+    {
+      "added_at": "2026-08-12 14:30:20",
+      "album": {
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/3bKlanBXxs4FsrN1IAleCy"
+      },
+      "artists": [
+        {
+          "name": "For Opal",
+          "url": "https://open.spotify.com/artist/3LCda3gkCgVOICHbZhFvM4"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/5vI1xvEhvgvyMr2NbSTOHV"
+    },
+    {
+      "added_at": "2026-08-05 16:00:14",
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        }
+      ],
+      "duration_ms": 169446,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV"
+    },
+    {
       "added_at": "2026-07-22 13:07:20",
       "album": {
         "name": "When we get by",
@@ -87,22 +215,6 @@
       "duration_ms": 169058,
       "name": "When we get by",
       "url": "https://open.spotify.com/track/49JsfEdOw0Jg4NMLXGkQLh"
-    },
-    {
-      "added_at": "2026-08-05 17:48:18",
-      "album": {
-        "name": "Kick in the Teeth",
-        "url": "https://open.spotify.com/album/7FxFm7EIMzI9Tg3hcDU1XK"
-      },
-      "artists": [
-        {
-          "name": "Sesame Girl",
-          "url": "https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Kick In The Teeth",
-      "url": "https://open.spotify.com/track/7x5rRIvAk4uKNKnInTFbwD"
     },
     {
       "added_at": "2026-08-05 16:00:14",
@@ -137,6 +249,22 @@
       "url": "https://open.spotify.com/track/0DXe2D37mwoElYXmyt16CU"
     },
     {
+      "added_at": "2026-08-12 14:30:20",
+      "album": {
+        "name": "digicam seraphim",
+        "url": "https://open.spotify.com/album/5ajTkaYbBeRzfpP2m1rvCd"
+      },
+      "artists": [
+        {
+          "name": "cratre",
+          "url": "https://open.spotify.com/artist/26Jjqr3I02y7Q7TAxPWsFW"
+        }
+      ],
+      "duration_ms": 97690,
+      "name": "digicam seraphim",
+      "url": "https://open.spotify.com/track/1ZfE3ldndJjtJloRN4SsHE"
+    },
+    {
       "added_at": "2026-07-22 13:07:20",
       "album": {
         "name": "Metal Through Her Lips",
@@ -151,22 +279,6 @@
       "duration_ms": 226120,
       "name": "Metal Through Her Lips",
       "url": "https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg"
-    },
-    {
-      "added_at": "2026-08-06 14:50:12",
-      "album": {
-        "name": "Don't Spare Me",
-        "url": "https://open.spotify.com/album/3DAs5Ynjx29nAGbnksRdPU"
-      },
-      "artists": [
-        {
-          "name": "swell foop",
-          "url": "https://open.spotify.com/artist/5zQi16UXlsQxpqeIOYBu7r"
-        }
-      ],
-      "duration_ms": 159900,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1Xx3qUcT0g0MJY43rzzOUe"
     },
     {
       "added_at": "2026-08-05 16:00:14",
@@ -989,22 +1101,6 @@
       "url": "https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm"
     },
     {
-      "added_at": "2026-05-27 04:00:16",
-      "album": {
-        "name": "Lick The Flame",
-        "url": "https://open.spotify.com/album/41j1T9kYgDVsLDMkth1Kua"
-      },
-      "artists": [
-        {
-          "name": "effe",
-          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Lick The Flame",
-      "url": "https://open.spotify.com/track/32TOQ5loDzoipxm7qLgkv3"
-    },
-    {
       "added_at": "2026-06-24 22:07:04",
       "album": {
         "name": "TWENTY TWO",
@@ -1019,54 +1115,6 @@
       "duration_ms": 217213,
       "name": "TWENTY TWO",
       "url": "https://open.spotify.com/track/0HBcFRE9EDFx6HHind4b5m"
-    },
-    {
-      "added_at": "2026-06-24 22:07:04",
-      "album": {
-        "name": "Right-Click, Rename",
-        "url": "https://open.spotify.com/album/3DQgfEuXxUJjnnPwiRkFBz"
-      },
-      "artists": [
-        {
-          "name": "Bert",
-          "url": "https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00"
-        }
-      ],
-      "duration_ms": 139392,
-      "name": "Right-Click, Rename",
-      "url": "https://open.spotify.com/track/1CMLOWxgVwk2gvgpwkmBth"
-    },
-    {
-      "added_at": "2026-06-24 22:07:04",
-      "album": {
-        "name": "I <3 You",
-        "url": "https://open.spotify.com/album/1TnELmd9snfmrRmxse8NX0"
-      },
-      "artists": [
-        {
-          "name": "Love Egg",
-          "url": "https://open.spotify.com/artist/5QNhVWZXwIZEHUQWbLG2yr"
-        }
-      ],
-      "duration_ms": 122560,
-      "name": "I <3 You",
-      "url": "https://open.spotify.com/track/658hxdysZypt05ifU1ox26"
-    },
-    {
-      "added_at": "2026-06-24 22:07:04",
-      "album": {
-        "name": "Election Day",
-        "url": "https://open.spotify.com/album/2FHIOpt9YhcfoMvi4LsjCk"
-      },
-      "artists": [
-        {
-          "name": "Lily Seabird",
-          "url": "https://open.spotify.com/artist/1ZIjaMq0dyU2CZaI6GFxBd"
-        }
-      ],
-      "duration_ms": 284346,
-      "name": "Election Day",
-      "url": "https://open.spotify.com/track/14bE8Ti7Nk7MNLrTmKs13m"
     },
     {
       "added_at": "2026-06-24 22:07:04",
@@ -1147,54 +1195,6 @@
       "duration_ms": 248281,
       "name": "Endless Sundays",
       "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
-    },
-    {
-      "added_at": "2026-06-10 16:09:57",
-      "album": {
-        "name": "Petrol",
-        "url": "https://open.spotify.com/album/6XVReo02T5qkrGrPdjuSUs"
-      },
-      "artists": [
-        {
-          "name": "Shye01",
-          "url": "https://open.spotify.com/artist/1yQ06dHVyba0CHgMAiNS58"
-        }
-      ],
-      "duration_ms": 121418,
-      "name": "Justice",
-      "url": "https://open.spotify.com/track/2clie3tcvcFlpeSQbnhkyh"
-    },
-    {
-      "added_at": "2026-06-10 16:09:57",
-      "album": {
-        "name": "Going about my day",
-        "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
-      },
-      "artists": [
-        {
-          "name": "Lola Hammerich",
-          "url": "https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40"
-        }
-      ],
-      "duration_ms": 357000,
-      "name": "Going about my day",
-      "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
-    },
-    {
-      "added_at": "2026-06-10 16:09:57",
-      "album": {
-        "name": "Art of Suggestion",
-        "url": "https://open.spotify.com/album/4C4cMisgt6r0VwHv211f3R"
-      },
-      "artists": [
-        {
-          "name": "Asha Jefferies",
-          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Art of Suggestion",
-      "url": "https://open.spotify.com/track/05tK6vKJJmFe3yDMw9wsLH"
     },
     {
       "added_at": "2026-05-13 15:04:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,320 likes - 117 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,350 likes - 117 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 70 | [Searching \(Foundation Track\)](https://open.spotify.com/track/3Xw5J2mgjVQOnbDwD4qDLN) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The Underground Railroad: Volume 1 \(Amazon Original Series Score\)](https://open.spotify.com/album/2dCTpR2osQnVMvbCeiKPkC) | 3:25 |
 | 71 | [Feast Of Starlight \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/0OmFvEb5a3iJPwW2h0tTO0) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 2:48 |
 | 72 | [My Dear Anne](https://open.spotify.com/track/3MC1tMZPpGOjHyVkI1kXq9) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [Three Billboards Outside Ebbing, Missouri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54be1eA06eNnJeGtwOAlF8) | 2:37 |
-| 73 | [A Portrait of Love](https://open.spotify.com/track/6Z0k49efJ0xJbthw6lZSeN) | [chuck e\. myers 'sea'](https://open.spotify.com/artist/3N7S4eXIHxONMJt60YOX4h), [Hogwarts Legacy](https://open.spotify.com/artist/1JLbOKxg2sA694KKvAOI3G) | [Hogwarts Legacy \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) | 3:17 |
+| 73 | [A Portrait of Love](https://open.spotify.com/track/6Z0k49efJ0xJbthw6lZSeN) | [chuck e\. myers 'sea'](https://open.spotify.com/artist/3LgsL4KAyz5zPUMnDoZjCa), [Hogwarts Legacy](https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2) | [Hogwarts Legacy \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) | 3:17 |
 | 74 | [Different Kinds Of Cry](https://open.spotify.com/track/0MPFNeTFeGL6JEQxl7KWcf) | [Alexis Grapsas](https://open.spotify.com/artist/3dkswBquw5Ss899vAX7DP6) | [Trigonometry \(Original Series Soundtrack\)](https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70) | 3:33 |
 | 75 | [A King's Sadness](https://open.spotify.com/track/35kpiigbRx8E3LL1ayRpnC) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [The Tale Of Despereaux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VthH60GXdvR7Y6FtkCiDb) | 2:00 |
 | 76 | [It's a Process](https://open.spotify.com/track/0KSwoOoIKqUZhQhmm0NnSP) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2) | [Moneyball \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3l4qPqECm6fywG03Rwke6r) | 1:52 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 116 | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/track/5djt2IiLLsQMeBiLWJQlGB) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV), [See Siang Wong](https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271) | [Bella's Lullaby \(From "Twilight"\)](https://open.spotify.com/album/4ud7m0XCRNhXjnRGfli0LE) | 2:13 |
 | 117 | [Song of Healing](https://open.spotify.com/track/1BjgY1mNtSRniRqrYbP8i1) | [Laurence Manning](https://open.spotify.com/artist/4pS3AwZi3Nd0klW5yEE1Le), [Daphnée Sincennes Richard](https://open.spotify.com/artist/4NCw6JwOxucMAXdCQJATQ0), [Lou Dunand\-Vincent](https://open.spotify.com/artist/3vwfNOzpHeV0s5R4owSQ3E) | [Trio of the Goddesses](https://open.spotify.com/album/6rls52uHTGGcbYRIXcUnfv) | 4:32 |
 
-Snapshot ID: `AAAAAKSHMGTLXdNkmUq+mbvReVPT86br`
+Snapshot ID: `AAAAAHtvN3TkOmRzLkbwRMAfYIb4QXIu`

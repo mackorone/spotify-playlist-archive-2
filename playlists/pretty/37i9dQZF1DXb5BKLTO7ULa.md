@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw:  LUNA, Django Wagner, Gotu Jim en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,354 likes - 77 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,339 likes - 77 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 76 | [How Is It Fair](https://open.spotify.com/track/2QfZ8N6DpJs1Hv3dr5YFdQ) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [How Is It Fair](https://open.spotify.com/album/7aH66oScu7kGloQRjOYXfc) | 4:11 |
 | 77 | [If You Ever Loved Me](https://open.spotify.com/track/1RzL3slVvnwjo06s4rgM6x) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [If You Ever Loved Me](https://open.spotify.com/album/1H4V4rCppexGI2Ubqs1N8V) | 2:52 |
 
-Snapshot ID: `AAAAAPOLiAIcmm+smnrTp4jTkuZ5D9JG`
+Snapshot ID: `AAAAAPp5ScYYEk4BmGFCWu+iIOKQPwdW`

@@ -2,7 +2,7 @@
 
 ### [Pull Up Hits](https://open.spotify.com/playlist/37i9dQZF1DX07sewTBuMpX)
 
-> De beste tunes op repeat\. Cover: Langa
+> De beste tunes op repeat! <a href="spotify:presents:jouwzomerid">Meer zomer aanbevelingen? Quiz time!</a>
 
 123 songs - 5 hr 50 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89hRlpkshEt.md) - [plain]
 
 > Entdecke deinen neuen Lieblings\-Podcast! Diese Folgen von Creator\*innen gehören definitiv auf dein RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64 likes - 10 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 10 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89hRlpkshEt.md) - [plain]
 | 9 | [Das ultimative Pick\-Me Girl? : Christ\-Influencerinnen](https://open.spotify.com/episode/5C7U8Oh8zq8fE2PkOMi2zL) | [The Daily Debrief](https://open.spotify.com/show/5YjvY2tCCY6ZmOPhkYDRFA) | [The Daily Debrief](https://open.spotify.com/album/5YjvY2tCCY6ZmOPhkYDRFA) | 35:22 |
 | 10 | [Ist der Fall Rebecca Reusch kurz vor dem Durchbruch?](https://open.spotify.com/episode/7BF9TY9iLN5SfXBqGq1c5F) | [The Daily Debrief](https://open.spotify.com/show/5YjvY2tCCY6ZmOPhkYDRFA) | [The Daily Debrief](https://open.spotify.com/album/5YjvY2tCCY6ZmOPhkYDRFA) | 42:59 |
 
-Snapshot ID: `AAAAALb9/GZqwwaE95n0Zyzr9cKGnE82`
+Snapshot ID: `AAAAAHOo+VG2IJ9D+OuP/QBOXxLfuo+V`

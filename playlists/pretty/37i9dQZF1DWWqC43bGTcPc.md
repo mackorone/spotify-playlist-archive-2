@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 派偉俊 Patrick Brasca
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,497 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,496 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [透明傘](https://open.spotify.com/track/4v3Lyg6PGNUAa6XPaRrP92) | [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [Vitamin G](https://open.spotify.com/album/2HFyO0GSpAVQh8t50nihzm) | 3:17 |
 | 50 | [客客氣氣 COURTESY](https://open.spotify.com/track/3aZIGAzaPiZY3CXpWLYHfq) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [客客氣氣 COURTESY](https://open.spotify.com/album/1Os0eKiEWbaWF6zZmlQcYj) | 2:37 |
 
-Snapshot ID: `AAAAADdOLn6k+EVE8papwJnsU3qarxav`
+Snapshot ID: `AAAAAItwRmZI7RAbX5FxIfGO+nh2FHil`

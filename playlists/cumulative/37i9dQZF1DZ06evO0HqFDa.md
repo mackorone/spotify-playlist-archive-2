@@ -4,7 +4,7 @@
 
 > This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 24 min
+89 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [I Am Hers, She Is Mine](https://open.spotify.com/track/0VCGSZGmYAmtj6at7gREwe) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/2iorrXZmu6zPf68oOliKm6) | 2:18 | 2024-04-04 |  |
 | [I Have to Go North](https://open.spotify.com/track/7zHgw57kui6pUeG4ITslMX) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 3 \(Music from the HBO Series\)](https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n) | 1:23 | 2024-04-04 |  |
 | [I'm Sorry for Today](https://open.spotify.com/track/44pTmffdO8i0Dl1uvsSzbf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL) | 2:09 | 2024-09-22 | 2025-01-23 |
+| [If This Be Victory](https://open.spotify.com/track/0d2ndwByMDkQkfqqTql13x) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 3 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/6seVyaHqO605uSpXoFpamn) | 5:40 | 2026-08-13 |  |
 | [Indulge in Darkness](https://open.spotify.com/track/1yV7QxodAm2gNtqQbU13aN) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 2:13 | 2024-08-10 | 2024-10-04 |
 | [Jack Ryan Ghost War](https://open.spotify.com/track/46N2ssxjA1cS02xA1RoArb) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [William Marriott](https://open.spotify.com/artist/71e8RnAv2CEtlvaIAAowXC) | [Tom Clancy's Jack Ryan: Ghost War \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6fwa3R3386WKDKQYxSECce) | 2:37 | 2026-05-22 | 2026-06-19 |
 | [Jenny of Oldstones](https://open.spotify.com/track/2YmIcPF20FEaQd8qwTK8zm) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:30 | 2024-04-04 |  |
@@ -59,7 +60,7 @@
 | [Not Today](https://open.spotify.com/track/1liDIUrQ6W9LLb4RYZ8wyQ) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 8 \(Music from the HBO Series\)](https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq) | 2:21 | 2024-04-04 |  |
 | [Origami Boats](https://open.spotify.com/track/35ukZe17MXIfNOu0ap8vMK) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [3 Body Problem \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6VhG7xEPrBO3YjmQj9OcUn) | 2:17 | 2024-04-04 | 2024-12-27 |
 | [Pacific Rim \(feat\. Tom Morello\)](https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Pacific Rim \(Soundtrack from Warner Bros\. Pictures and Legendary Pictures\)](https://open.spotify.com/album/0gJWChOVkVRgZCK09irLOk) | 4:55 | 2024-04-04 |  |
-| [Paint It, Black](https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:44 | 2024-04-04 |  |
+| [Paint It, Black](https://open.spotify.com/track/6rSVuRt7xl4GsEQv4tphSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:44 | 2024-04-04 | 2026-08-13 |
 | [Reign of the Targaryens](https://open.spotify.com/track/3XcPY110hQ07HNWqDZIZgU) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 1 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv) | 1:31 | 2024-04-04 |  |
 | [Remembering Those Who Came Before](https://open.spotify.com/track/1QDrtD1BVsiNKRKz82Yj2W) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 3:22 | 2024-08-13 | 2025-01-22 |
 | [Right to Grieve](https://open.spotify.com/track/7jiXFn46FSljELXFVXJ7Ej) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [House of the Dragon: Season 2 \(Soundtrack from the HBO® Series\)](https://open.spotify.com/album/0SXBTsHTMFnH43GtvijNjC) | 1:18 | 2024-08-11 | 2024-10-28 |

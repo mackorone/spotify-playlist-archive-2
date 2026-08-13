@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 403335,
+  "num_followers": 403351,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFlCOYFPNM2ob9x3we5wUpApfAS9",
+  "snapshot_id": "AAAAACAXjmr72hWaK65DGygHlBj7XShI",
   "tracks": [
     {
       "added_at": "2024-08-09 18:28:29",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Palermo / Fractals",
         "url": "https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 195898,
       "name": "Palermo",
       "url": "https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
-      },
-      "artists": [
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 238095,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Underyourskin 100",
         "url": "https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 307841,
       "name": "Living Machines",
       "url": "https://open.spotify.com/track/1cfutc0JBTMA9VW4tYBVq1"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
+      },
+      "artists": [
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
     },
     {
       "added_at": "2024-08-09 18:28:29",

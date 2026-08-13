@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 104208,
+  "num_followers": 104244,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFjGZqkU9P3U0IqGYf0m/tNauELp",
+  "snapshot_id": "AAAAANlYd44QLU/b4METDOGH8bwQyD0I",
   "tracks": [
     {
       "added_at": "2026-06-12 10:05:49",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
-        "name": "Baby Boy 2 Reloaded",
-        "url": "https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF"
-      },
-      "artists": [
-        {
-          "name": "Vigro Deep",
-          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
-        }
-      ],
-      "duration_ms": 447648,
-      "name": "Bundle of Joy",
-      "url": "https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
         "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
         "url": "https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
+        "name": "Baby Boy 2 Reloaded",
+        "url": "https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "duration_ms": 447648,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
         "name": "Sanitizer",
         "url": "https://open.spotify.com/album/1dPG0MRY5u8J2e2cw1NPCN"
       },
@@ -1083,38 +1083,6 @@
       "duration_ms": 416404,
       "name": "Sanitizer",
       "url": "https://open.spotify.com/track/3dFpRuEIxuQfm2EHBf4ZVU"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
-        "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
-        "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
-      },
-      "artists": [
-        {
-          "name": "Novatron",
-          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Dj 787",
-          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "GoodGuy Styles",
-          "url": "https://open.spotify.com/artist/5WDJlVFkmrfuBA5r1uZz8u"
-        }
-      ],
-      "duration_ms": 414827,
-      "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
-      "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
     },
     {
       "added_at": "2026-06-12 10:05:49",
@@ -1155,6 +1123,38 @@
       "duration_ms": 208152,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) - Edit",
       "url": "https://open.spotify.com/track/1eLmNFlt2oupiPivtzZyd7"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
+        "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+        "url": "https://open.spotify.com/album/51xo4KX2uPZaNEW3XVKAtr"
+      },
+      "artists": [
+        {
+          "name": "Novatron",
+          "url": "https://open.spotify.com/artist/5rnKcmn5XTpbD9OPEsrV1s"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Dj 787",
+          "url": "https://open.spotify.com/artist/15IwCeZrdNxjSlaGHkyVwz"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "GoodGuy Styles",
+          "url": "https://open.spotify.com/artist/5WDJlVFkmrfuBA5r1uZz8u"
+        }
+      ],
+      "duration_ms": 414827,
+      "name": "Kshubile (feat. Scotts Maphuma & GoodGuy Styles)",
+      "url": "https://open.spotify.com/track/58jEBxX0Vu6tloAxdOt07H"
     },
     {
       "added_at": "2026-06-12 10:05:49",
@@ -1343,26 +1343,26 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
-        "name": "Pure Bliss",
-        "url": "https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn"
+        "name": "The EEQualizer",
+        "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
       },
       "artists": [
         {
-          "name": "Luzyo Keys",
-          "url": "https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk"
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
         },
         {
-          "name": "2woBunnies",
-          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         },
         {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+          "name": "Certified Dyan",
+          "url": "https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q"
         }
       ],
-      "duration_ms": 450425,
-      "name": "Pure Bliss",
-      "url": "https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe"
+      "duration_ms": 361116,
+      "name": "Rekisa Kapela (feat. Certified Dyan)",
+      "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
     }
   ],
   "unique_name": "Beast Mode Amapiano",
